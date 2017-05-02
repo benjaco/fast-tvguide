@@ -24,30 +24,30 @@ include "get_last_modified.php";
 
 $last_updated = json_decode(file_get_contents(__DIR__ . "/../data/last_update.json"), true);
 
-$antal = count($dates_to_scrape) * count($channels_to_scrape);
-$hentent = 0;
+$number_of_possible_requests = count($dates_to_scrape) * count($channels_to_scrape);
+$number_of_processed_requests = 0;
 
 foreach ($channels_to_scrape as $channel) {
     foreach ($dates_to_scrape as $date) {
         $url = "http://json.xmltv.se/" . $channel . "_" . $date . ".js.gz";
         $save_url = __DIR__ . "/../data/full_schedule/" . $channel . "_" . $date . ".json";
 
-        $hentent += 1;
+        $number_of_processed_requests += 1;
 
         if (file_exists($save_url)) {
-            echo "FINDES" . PHP_EOL;
-            $sidst_opdateret = 0;
+            echo "FOUND" . PHP_EOL;
+            $this_file_last_update = 0;
             if (isset($last_updated[$channel][$date])) {
-                $sidst_opdateret = $last_updated[$channel][$date];
+                $this_file_last_update = $last_updated[$channel][$date];
             }
-            $sidst_modified = 0;
+            $this_file_last_modification = 0;
             if (isset($last_modified[$channel][$date])) {
-                $sidst_modified = $last_modified[$channel][$date];
+                $this_file_last_modification = $last_modified[$channel][$date];
             }
-            if ($sidst_modified <= $sidst_opdateret) {
+            if ($this_file_last_modification <= $this_file_last_update) {
                 continue;
             }
-            echo "MEN SKAL OPDATERES" . PHP_EOL;
+            echo "MUST BE UPDATED" . PHP_EOL;
         }
 
         $options  = array('http' => array('user_agent' => 'project at school easj roskilde - fast tvguide - mail: benj3799@edu.easj.dk'));
@@ -56,9 +56,9 @@ foreach ($channels_to_scrape as $channel) {
         $content = @file_get_contents($url, false, $context);
 
         if ($content === false) {
-            echo number_format(($hentent / $antal)*100, 2) .  "% - FAIL - $url".PHP_EOL;
+            echo number_format(($number_of_processed_requests / $number_of_possible_requests)*100, 2) .  "% - FAIL - $url".PHP_EOL;
         } else {
-            echo number_format(($hentent / $antal)*100, 2) .  "% - OK - $url".PHP_EOL;
+            echo number_format(($number_of_processed_requests / $number_of_possible_requests)*100, 2) .  "% - OK - $url".PHP_EOL;
 
             file_put_contents($save_url, $content);
 
