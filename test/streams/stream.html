@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+
+        function ChannelStream(url) {
+            this.ondata = function(){};
+            this.url = url;
+            var _this = this;
+
+            this.start = function () {
+                fetch(url).then(function (response){
+                    var decoder = new TextDecoder();
+                    var reader = response.body.getReader();
+
+                    reader.read().then(function precessResult(result){
+                        if(result.done) {
+                            return
+                        }
+                        _this.ondata(
+                            JSON.parse(
+                                decoder.decode(result.value, {stream: true})
+                            )
+                        );
+
+                        return reader.read().then(precessResult)
+                    })
+                });
+            };
+        }
+
+
+
+
+        var channelStream = new ChannelStream("serverStream.php");
+        channelStream.ondata = function (data) {
+            console.log(data);
+        };
+        channelStream.start();
+    </script>
+</head>
+<body></body>
+</html>
