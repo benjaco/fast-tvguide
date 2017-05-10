@@ -1,0 +1,13 @@
+runtime: php55
+api_version: 1
+
+handlers:
+- url: /angular1
+  static_dir: angular1
+
+
+- url: /server/(.+)$
+  script: /server/\1
+
+skip_files:
+- Synopsis.docx

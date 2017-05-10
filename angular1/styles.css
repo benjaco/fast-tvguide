@@ -1,0 +1,189 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    font-size: 1.5em;
+}
+.clear{
+    clear: both;
+}
+/* Nav Bar */
+
+.navbar{
+    border-radius: 0 !important;
+    border-left: none !important;
+    border-right: none !important;
+
+    margin-bottom: 0 !important;
+
+    position: relative;
+    z-index: 2;
+}
+.navbar-toggle{
+    border-radius: 0 !important;
+    border: none !important;
+}
+
+/* Dayes */
+.days{
+    padding: 15px;
+    background: #fff;
+    z-index: 1;
+    box-shadow: 0 0 10px rgba(0,0,0,.5);    position: relative;
+}
+.days > span{
+    margin-right: 10px;
+}
+.days > span > span {
+    padding: 5px;
+}
+/* Tv guide */
+.tvguide{
+    display: flex;
+}
+.channelicon img{
+    transform: scale(0.8);
+}
+.channel-icons{
+    padding: 35px 15px 200px 10px;
+    border-right: 1px solid #aaaaaa;
+    box-shadow: 0 0 10px rgba(0,0,0,.5);
+
+}
+.channel-programs{
+    overflow-x: scroll;
+    overflow-y: hidden;
+    width: 100%;
+    padding: 10px 0;
+
+    position: relative;
+}
+.time{
+    height: 20px;
+    position: relative;
+}
+.timeonday{
+    position: absolute;
+    color: #333333;
+}
+.programms{
+    position: relative;
+}
+.program-wrapper{
+    position: absolute;
+    overflow: hidden;
+}
+.program-in-the-past{
+    opacity: .5;
+}
+.program {
+    margin: 2px;
+    background: #fbfbfb;
+    border-radius: 2px;
+    border: 1px solid #EEE;
+}
+.program .title{
+    white-space: nowrap;
+    overflow: hidden;
+}
+.program .time{
+    white-space: nowrap;
+    overflow: hidden;
+    opacity: .8;
+}
+.now{
+    position: absolute;
+
+    top: 0;
+    bottom: 0;
+
+    width: 2px;
+    background: red;
+    height: 100%;
+}
+/* Program info */
+.program_info {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 5);
+    background: #ffffff;
+
+    padding: 15px;
+
+    max-height: 200px;
+    min-height: 115px;
+    overflow-y: auto;
+}
+.program_info .title{
+    font-weight: bold;
+}
+.program_info .title span{
+    opacity: .7;
+}
+.program_info .time span{
+    background: #aaaaaa;
+    padding: 2px;
+    border-radius: 2px;
+}
+.program_info .channellogo{
+    height: 50px;
+    margin-right: 20px;
+    float: right;
+}
+
+.program_info .closepopup{
+    float: left;
+    cursor: pointer;
+    position: relative;
+    z-index: 2;
+    height: 40px;
+}
+
+.program_info.ng-leave {
+    transition:0.5s linear all;
+    bottom: 0;
+}
+.program_info.ng-leave.ng-leave-active {
+    bottom: -100px;
+}
+.program_info.ng-enter {
+    transition:0.5s linear all;
+    bottom: -100px;
+}
+.program_info.ng-enter.ng-enter-active {
+    bottom: 0;
+}
+
+/* Kannaler */
+.kanal-valg{
+    position: fixed;
+    z-index: 4;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    width: 300px;
+    max-width: 100%;
+
+    box-shadow: 0 0 15px rgba(0, 0, 0, 5);
+    background: #ffffff;
+
+    padding: 15px;
+    overflow-y: auto;
+}
+.kanal-valg .kanal{
+    padding-bottom: 5px;
+}
+
+.overlay{
+    position: fixed;
+    z-index: 3;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0,0,0,.2);
+}
