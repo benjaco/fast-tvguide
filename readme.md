@@ -8,16 +8,16 @@ The fast version will be made in the PWA folder and only on enhancement will be 
 
 Chapters
 
-- Animation i css / js - hvilke properties 
-- Script execution på mobil 
+- Animation in css / js - whitch properties 
+- Script execution on mobile 
 - Long frames 
-- Trigger layout i loop 
+- Trigger layout in loop 
 - Idle callback 
 - Web worker 
 
 - Service worker 
 - App shell model 
-- Data caching i local storage og index db 
+- Data caching in local storage and index db 
 - Progressive loading
 - Http 2
 - Streams
