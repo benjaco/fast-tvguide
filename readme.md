@@ -8,7 +8,7 @@ The fast version will be made in the PWA folder and only on enhancement will be 
 
 Chapters
 
-- 101 rendering pipline
+- precondtions: promise, rendering pipline
 - Animation in css / js - whitch properties 
 - Script execution on mobile 
 - Long frames 
