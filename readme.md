@@ -11,9 +11,9 @@ Chapters
 - precondtions: promise, rendering pipline
 - Script execution on mobile 
 - Long frames 
-- - Animation in css / js - whitch properties 
-- - Trigger layout in loop 
-- - Write to dom in loop
+ - Animation in css / js - whitch properties 
+ - Trigger layout in loop 
+ - Write to dom in loop
 - Idle callback 
 - Web worker 
 
