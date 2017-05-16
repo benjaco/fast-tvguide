@@ -9,10 +9,11 @@ The fast version will be made in the PWA folder and only on enhancement will be 
 Chapters
 
 - precondtions: promise, rendering pipline
-- Animation in css / js - whitch properties 
 - Script execution on mobile 
 - Long frames 
-- Trigger layout in loop 
+- - Animation in css / js - whitch properties 
+- - Trigger layout in loop 
+- - Write to dom in loop
 - Idle callback 
 - Web worker 
 
