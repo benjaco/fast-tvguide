@@ -15,6 +15,7 @@ Chapters
 - Idle callback 
 - Web worker 
 
+- 101 minify js and css
 - Service worker 
 - App shell model 
 - Data caching in local storage and index db 
