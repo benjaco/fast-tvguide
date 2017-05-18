@@ -1,3 +1,5 @@
+# gcloud app deploy --project fast-tvguide
+
 runtime: php55
 api_version: 1
 
@@ -5,6 +7,14 @@ handlers:
 - url: /angular1
   static_dir: angular1
 
+- url: /pwa
+  static_dir: pwa
+
+- url: /server/data/images
+  static_dir: server/data/images
+
+- url: /server/data/large_images
+  static_dir: server/data/large_images
 
 - url: /server/(.+)$
   script: /server/\1
