@@ -4,21 +4,18 @@
 
 export default class TimeRender{
 
-    constructor(app) {
+    constructor(app, days) {
         this._app = app;
 
-        this.renderdDaysCount = this.renderdDaysCount.bind(this);
 
         this._timeDesktopEl = document.getElementsByClassName("timeDesktop")[0];
         this._timeMobileEl = document.getElementsByClassName("timeMobile")[0];
-        this._renderedDays = [];
 
-        this.addDay = this.addDay.bind(this);
+        for (let i = 0; i < days; i++) {
+            this._addDay(i)
+        }
     }
 
-    renderdDaysCount(){
-        return this._renderedDays.length;
-    }
     showDesktopTimeline(){
         this._timeMobileEl.style.display = "none";
         this._timeDesktopEl.style.display = "block";
@@ -28,12 +25,7 @@ export default class TimeRender{
         this._timeDesktopEl.style.display = "none";
     }
 
-    addDay(dayNo){
-        if(this._renderedDays.indexOf(dayNo)!==-1) {
-            return;
-        }
-        this._renderedDays.push(dayNo);
-
+    _addDay(dayNo){
         let htmlDesktop = "",
             htmlMobile = "";
 

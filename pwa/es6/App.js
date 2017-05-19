@@ -62,15 +62,16 @@ function requestAnimationFramePromise() {
 
 class App {
     constructor() {
-        this.renderDay = this.renderDay.bind(this);
+        this.renderDayIfNeeded = this.renderDayIfNeeded.bind(this);
         this.addScrollListener = this.addScrollListener.bind(this);
 
         this.week = App.getWeek();
+        this.renderedDays = [];
 
         this.channelList = new ChannelList();
         this.render = new ChannelsRender(this);
         this.responsive = new Responsive(this);
-        this.timeRender = new TimeRender(this);
+        this.timeRender = new TimeRender(this, this.week.length);
         this.timelineRender = new TimelineRender(this);
         this.program = new Program();
         this.ongoingTime = new OngoingTime(this);
@@ -78,21 +79,15 @@ class App {
         this.channelEdit = new ChannelEdit(this);
 
         this.daysRender.onDayClick = index => {
-            let lastRender = Promise.resolve();
-            for (let i = 0; i <= index; i++) {
-                if (i > this.timeRender.renderdDaysCount() - 1) {
-                    lastRender = this.renderDay(i)
-                }
+            this.renderDayIfNeeded(index);
+
+
+            if (index === 0) {
+                document.getElementsByClassName("channel-programs")[0].scrollLeft = (new Date()).getHours() * this.responsive.timeLength - 50;
+            } else {
+                document.getElementsByClassName("channel-programs")[0].scrollLeft = index * 24 * this.responsive.timeLength + this.responsive.timeLength * 9;
             }
-            lastRender
-                .then(() => requestAnimationFramePromise())
-                .then(() => {
-                    if (index === 0) {
-                        document.getElementsByClassName("channel-programs")[0].scrollLeft = (new Date()).getHours() * this.responsive.timeLength - 50;
-                        return
-                    }
-                    document.getElementsByClassName("channel-programs")[0].scrollLeft = index * 24 * this.responsive.timeLength + this.responsive.timeLength * 9;
-                });
+
         };
 
         this.render.onProgramClick = data => this.program.show(data);
@@ -103,9 +98,10 @@ class App {
 
             this.render.renderList(this.channelList.channels, this.channelNames);
 
-
-            for(let i = 0; i<this.timeRender.renderdDaysCount(); i++) {
-                this.renderDay(i)
+            let renderDays = this.renderedDays;
+            this.renderedDays = [];
+            for (let i of renderDays) {
+                this.renderDayIfNeeded(i)
             }
         };
 
@@ -117,7 +113,7 @@ class App {
 
 
         this.responsive.onUpdate = (desktop) => {
-            this.ongoingTime.update();
+            this.ongoingTime.update(); // update now bar to be calculated from the new hour with
             if (desktop) {
                 this.timeRender.showDesktopTimeline();
             } else {
@@ -127,6 +123,7 @@ class App {
         this.responsive.triggerUpdate();
         this.addScrollListener();
 
+        document.getElementsByClassName("channel-programs")[0].scrollLeft = (new Date()).getHours() * this.responsive.timeLength - 50;
 
         fetch("../server/data/channels/dk_channel_names_manuel.json")
             .then(result => result.json())
@@ -135,11 +132,7 @@ class App {
 
                 this.render.renderList(this.channelList.channels, this.channelNames);
 
-                return this.renderDay(0)
-            })
-            .then(() => requestAnimationFramePromise())
-            .then(() => {
-                document.getElementsByClassName("channel-programs")[0].scrollLeft = (new Date()).getHours() * this.responsive.timeLength - 50;
+                return this.renderDayIfNeeded(0)
             });
 
 
@@ -147,24 +140,25 @@ class App {
 
     addScrollListener() {
         let element = document.querySelector(".channel-programs");
-        let requestDays = 1;
         element.addEventListener("scroll", () => {
-            this.daysRender.focus(Math.floor(element.scrollLeft / (24 * this.responsive.timeLength)));
+            let focusDayIndexLeftSide = Math.floor(element.scrollLeft / (24 * this.responsive.timeLength));
+            let focusDayIndexRightSude = Math.floor((element.scrollLeft + window.innerWidth) / (24 * this.responsive.timeLength));
+            this.daysRender.focus(focusDayIndexLeftSide);
 
-            if (element.scrollLeft + window.innerWidth > this.timeRender.renderdDaysCount() * 24 * this.responsive.timeLength) {
-                if (this.timeRender.renderdDaysCount() >= 7) {
-                    return;
-                }
-                if (this.timeRender.renderdDaysCount() + 1 === requestDays) {
-                    return;
-                }
-                requestDays = this.timeRender.renderdDaysCount() + 1;
-                this.renderDay(this.timeRender.renderdDaysCount())
-            }
+            this.renderDayIfNeeded(focusDayIndexLeftSide);
+            this.renderDayIfNeeded(focusDayIndexRightSude);
         });
     }
 
-    renderDay(dayIndex) {
+    renderDayIfNeeded(dayIndex) {
+
+        if (this.renderedDays.includes(dayIndex)) {
+            return;
+        }
+        if(dayIndex >= this.week.length) {
+            return;
+        }
+        this.renderedDays.push(dayIndex);
 
         return new Promise((resolve, reject) => {
             let url = "../server/get_overview.php?" + param({
@@ -173,13 +167,14 @@ class App {
                 });
 
             fetch(url).then(r => r.json()).then(r => {
-                this.timeRender.addDay(dayIndex);
+                this.timeRender._addDay(dayIndex);
                 this.timelineRender.render(r.channels, this.anchor);
                 resolve();
             }).catch(() => reject());
         })
 
     }
+
     static getWeek() {
         let addZero = (nr) => {
             if (nr < 10) {
@@ -190,6 +185,7 @@ class App {
         const weekDayName = ["Søn", "Man", "Tir", "Ons", "Tor", "Fre", "Lør"];
         let list = [];
         let date = new Date();
+
         for (let i = 0; i < 7; i++) {
             list.push({
                 url: date.getFullYear() + "-" + addZero(date.getMonth() + 1) + "-" + addZero(date.getDate()),
