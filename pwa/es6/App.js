@@ -67,6 +67,15 @@ class App {
 
         this.week = App.getWeek();
         this.renderedDays = [];
+        this.renderYesterday = (() => {
+            const date = new Date();
+            if (date.getHours() < 5) {
+                date.setDate(date.getDate() - 1);
+                return date.getFullYear() + "-" + App.addZero(date.getMonth() + 1) + "-" + App.addZero(date.getDate())
+            } else {
+                return false;
+            }
+        })();
 
         this.channelList = new ChannelList();
         this.render = new ChannelsRender(this);
@@ -103,6 +112,9 @@ class App {
             for (let i of renderDays) {
                 this.renderDayIfNeeded(i)
             }
+            if (this.renderYesterday !== false) {
+                this.renderDayFromDate(this.renderYesterday);
+            }
         };
 
         this.anchor = (function () {
@@ -132,6 +144,9 @@ class App {
 
                 this.render.renderList(this.channelList.channels, this.channelNames);
 
+                if (this.renderYesterday !== false) {
+                    this.renderDayFromDate(this.renderYesterday);
+                }
                 return this.renderDayIfNeeded(0)
             });
 
@@ -155,46 +170,50 @@ class App {
         if (this.renderedDays.includes(dayIndex)) {
             return;
         }
-        if(dayIndex >= this.week.length) {
+        if (dayIndex >= this.week.length) {
             return;
         }
         this.renderedDays.push(dayIndex);
 
+        return this.renderDayFromDate(this.week[dayIndex].url)
+
+
+    }
+    renderDayFromDate(date){
         return new Promise((resolve, reject) => {
             let url = "../server/get_overview.php?" + param({
                     channels: this.channelList.channels,
-                    dates: [this.week[dayIndex].url]
+                    dates: [date]
                 });
 
             fetch(url).then(r => r.json()).then(r => {
-                this.timeRender._addDay(dayIndex);
                 this.timelineRender.render(r.channels, this.anchor);
                 resolve();
             }).catch(() => reject());
         })
-
     }
 
     static getWeek() {
-        let addZero = (nr) => {
-            if (nr < 10) {
-                return "0" + nr;
-            }
-            return nr;
-        };
         const weekDayName = ["Søn", "Man", "Tir", "Ons", "Tor", "Fre", "Lør"];
         let list = [];
         let date = new Date();
 
         for (let i = 0; i < 7; i++) {
             list.push({
-                url: date.getFullYear() + "-" + addZero(date.getMonth() + 1) + "-" + addZero(date.getDate()),
+                url: date.getFullYear() + "-" + App.addZero(date.getMonth() + 1) + "-" + App.addZero(date.getDate()),
                 readable: weekDayName[date.getDay()] + " " + date.getDate() + "."
             });
             date.setDate(date.getDate() + 1);
         }
         return list;
     }
+
+    static addZero(nr) {
+        if (nr < 10) {
+            return "0" + nr;
+        }
+        return nr;
+    };
 
 
 }
