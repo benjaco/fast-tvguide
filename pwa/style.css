@@ -102,17 +102,17 @@ header ul li {
 .program-in-the-past{
     opacity: .5;
 }
-.program {
+div.program {
     margin: 2px;
     background: #fbfbfb;
     border-radius: 2px;
     border: 1px solid #EEE;
 }
-.program .title{
+div.program-title{
     white-space: nowrap;
     overflow: hidden;
 }
-.program .time{
+div.program-time{
     white-space: nowrap;
     overflow: hidden;
     opacity: .8;
@@ -130,14 +130,15 @@ header ul li {
 /* Program info */
 .program_info {
     position: fixed;
-    bottom: -200px;
+    bottom: 0;
     left: 0;
     right: 0;
     box-shadow: 0 0 15px rgba(0, 0, 0, 5);
     background: #ffffff;
 
-    /* todo bottom transition */
-    transition: bottom 500ms;
+    transition: transform 500ms;
+    will-change: trasform;
+    transform: translateY(200px);
 
     padding: 15px;
 
@@ -220,3 +221,4 @@ header ul li {
 .overlay.on{
     opacity: 1;
 }
+

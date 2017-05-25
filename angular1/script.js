@@ -97,7 +97,7 @@ module.controller("tvguide", function ($scope, $http, $interval, $window) {
     updateLayout();
 
     var today = moment();
-    var inSixDays = moment().add(4, "days");
+    var inSixDays = moment().add(0, "days");
 
     $scope.anchorTimestamp = ancherTimestamp();
 

@@ -20,7 +20,7 @@ export default class TimelineRender{
                 }
                 this._renderedDays.push(channel + "-" + day);
 
-                let html = "";
+                let html = "<div data-day-wrapper>";
 
                 data[channel][day].forEach((program, index) => {
                     //noinspection CssInvalidPropertyValue
@@ -36,12 +36,13 @@ export default class TimelineRender{
     <div class="program" 
                     title="${ program[0] } - ${ TimelineRender.timeOnDay(program[1]) } - ${ TimelineRender.timeOnDay(program[2]) }"
                     style="padding: ${ this._app.responsive.padding }px">
-        <div class="title">${ program[0] }</div>
-        <div class="time">${ TimelineRender.timeOnDay(program[1]) } - ${ TimelineRender.timeOnDay(program[2]) }</div>
+        <div class="program-title">${ program[0] }</div>
+        <div class="program-time">${ TimelineRender.timeOnDay(program[1]) } - ${ TimelineRender.timeOnDay(program[2]) }</div>
     </div>
 
 </div>`;
                 });
+                html += "<div>";
                 document.querySelector(".programms[data-channel='" + channel + "']").innerHTML += html;
 
             })

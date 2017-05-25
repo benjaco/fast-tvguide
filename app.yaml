@@ -21,3 +21,6 @@ handlers:
 
 skip_files:
 - Synopsis.docx
+- node_modules/
+- \.idea/
+- timelines/

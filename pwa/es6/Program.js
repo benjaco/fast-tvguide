@@ -28,13 +28,13 @@ export default class Program {
 
     openPopup() {
         this.open = true;
-        this._programInfoEl.style.bottom = "0px";
+        this._programInfoEl.style.transform = "translateY(0px)";
     }
 
     close() {
         this.open = false;
         this._programInfoEl.getElementsByClassName('desc')[0].textContent = "";
-        this._programInfoEl.style.bottom = "-200px";
+        this._programInfoEl.style.transform = "translateY(200px)";
     }
 
     show([programmNo, dato, channel]) {

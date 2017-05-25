@@ -7,7 +7,8 @@ export default class Responsive {
     constructor(app) {
         this._app = app;
 
-        this.onUpdate = ()=>{};
+        this.onUpdate = () => {
+        };
 
         this.default = {
             mobileTimeLength: 140,
@@ -31,7 +32,7 @@ export default class Responsive {
         this.checkSize();
     }
 
-    triggerUpdate(){
+    triggerUpdate() {
         this.onUpdate(window.innerWidth > 700);
     }
 
@@ -65,32 +66,17 @@ export default class Responsive {
             let start = parseInt(element.getAttribute("data-start")),
                 end = parseInt(element.getAttribute("data-end"));
 
-            if (window.innerWidth > 700) {
-                element.style.left = (start-this._app.anchor)/60/60*this.default.desktopTimeLength + "px";
-                element.style.width = (end-start)/60/60*this.default.desktopTimeLength + "px";
+            element.style.left = (start - this._app.anchor) / 60 / 60 * this.timeLength + "px";
+            element.style.width = (end - start) / 60 / 60 * this.timeLength + "px";
+            element.style.height = this.programHeight + "px";
+            element.querySelector(".program").style.padding = this.padding + "px";
 
-                if(element.offsetHeight === this.default.mobileProgramHeight) {// todo trigger reflow
-                    element.style.height = this.default.desktopProgramHeight+"px";
-
-                    element.querySelector(".program").style.padding = this.default.desktopPadding + "px";
-                }
-            } else {
-                element.style.left = (start-this._app.anchor)/60/60*this.default.mobileTimeLength + "px";
-                element.style.width = (end-start)/60/60*this.default.mobileTimeLength + "px";
-
-
-                if(element.offsetHeight === this.default.desktopProgramHeight) {// todo trigger reflow
-                    element.style.height = this.default.mobileProgramHeight+"px";
-
-                    element.querySelector(".program").style.padding = this.default.mobilePadding + "px";
-                }
-            }
         });
     }
 
-    resizeChannelIcons(){
+    resizeChannelIcons() {
         let elements = document.querySelectorAll(".channelicon, .programms");
-        Array.from(elements,  (element) => {
+        Array.from(elements, (element) => {
             element.style.height = this.programHeight + "px";
         })
     }
