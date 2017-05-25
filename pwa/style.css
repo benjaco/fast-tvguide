@@ -102,17 +102,17 @@ header ul li {
 .program-in-the-past{
     opacity: .5;
 }
-div.program {
+.program {
     margin: 2px;
     background: #fbfbfb;
     border-radius: 2px;
     border: 1px solid #EEE;
 }
-div.program-title{
+.program-title{
     white-space: nowrap;
     overflow: hidden;
 }
-div.program-time{
+.program-time{
     white-space: nowrap;
     overflow: hidden;
     opacity: .8;

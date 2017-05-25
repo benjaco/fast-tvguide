@@ -162,7 +162,7 @@ class App {
 
             this.renderDayIfNeeded(focusDayIndexLeftSide);
             this.renderDayIfNeeded(focusDayIndexRightSude);
-        });
+        }, {passive: true});
     }
 
     renderDayIfNeeded(dayIndex) {
