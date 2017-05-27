@@ -151,8 +151,15 @@ class App {
             });
 
 
+        // Add a service worker to the page
+        navigator.serviceWorker.register('sw.js').then(function (registration) {
+            // Registration was successful
+            console.log('ServiceWorker registration successful with scope: ', registration.scope);
+        }, function (err) {
+            // registration failed :(
+            console.log('ServiceWorker registration failed: ', err);
+        });
     }
-
     addScrollListener() {
         let element = document.querySelector(".channel-programs");
         element.addEventListener("scroll", () => {
