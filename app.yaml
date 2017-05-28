@@ -7,6 +7,12 @@ handlers:
 - url: /angular1
   static_dir: angular1
 
+- url: /pwa/index.html
+  static_files: pwa/index.html
+  upload: pwa/index.html
+  http_headers:
+    Link: '<app.js>; rel=preload; as=script, <slip.min.js>; rel=preload; as=script, <style.css>; rel=preload; as=style, <icons/close.png>; rel=preload; as=image'
+
 - url: /pwa
   static_dir: pwa
 
