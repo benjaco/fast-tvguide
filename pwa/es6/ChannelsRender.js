@@ -40,6 +40,7 @@ export default class ChannelsRender {
     }
 
     renderList(channels, channelTitles) {
+        console.log("render list start");
         let iconHtml = "";
         let channelHtml = "";
         let channelContent = [];
@@ -63,6 +64,7 @@ export default class ChannelsRender {
         this._channelsEl.innerHTML = channelHtml;
 
 
+        console.log("render list end");
     }
 
 }

@@ -13,6 +13,7 @@ export default class TimelineRender{
 
     }
     render(data, ancher){
+        console.log("render timeline start");
         Object.keys(data).forEach(channel => {
             Object.keys(data[channel]).forEach(day => {
                 if(this._renderedDays.indexOf(channel+"-"+day) > -1) {
@@ -45,8 +46,10 @@ export default class TimelineRender{
                 html += "<div>";
                 document.querySelector(".programms[data-channel='" + channel + "']").innerHTML += html;
 
+                console.log("render timeline add channel");
             })
         })
+        console.log("render timeline end");
     }
 
     static timeOnDay(time){

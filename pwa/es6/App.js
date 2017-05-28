@@ -10,6 +10,7 @@ import OngoingTime from "./OngoingTime";
 import Program from "./Program";
 import Dates from "./Dates"
 import ChannelEdit from "./ChannelEdit"
+import DateRetriver from "./DataRetriver";
 /**
  * @preserve jquery-param (c) 2015 KNOWLEDGECODE | MIT
  */
@@ -133,7 +134,6 @@ class App {
             }
         };
         this.responsive.triggerUpdate();
-        this.addScrollListener();
 
         document.getElementsByClassName("channel-programs")[0].scrollLeft = (new Date()).getHours() * this.responsive.timeLength - 50;
 
@@ -142,12 +142,17 @@ class App {
             .then(data => {
                 this.channelNames = data;
 
+                console.log("SF: CALL RENDER LIST");
                 this.render.renderList(this.channelList.channels, this.channelNames);
 
                 if (this.renderYesterday !== false) {
+                    console.log("SF: CALL RENDER YESTUDAY");
                     this.renderDayFromDate(this.renderYesterday);
                 }
+                console.log("SF: CALL RENDER TODAY");
                 return this.renderDayIfNeeded(0)
+            }).then(_ => {
+                this.addScrollListener();
             });
 
 
@@ -160,6 +165,7 @@ class App {
             let focusDayIndexRightSude = Math.floor((element.scrollLeft + window.innerWidth) / (24 * this.responsive.timeLength));
             this.daysRender.focus(focusDayIndexLeftSide);
 
+            console.log("SCROLL EVENT, RENDER", focusDayIndexLeftSide, focusDayIndexRightSude);
             this.renderDayIfNeeded(focusDayIndexLeftSide);
             this.renderDayIfNeeded(focusDayIndexRightSude);
         }, {passive: true});
@@ -179,18 +185,16 @@ class App {
 
 
     }
-    renderDayFromDate(date){
-        return new Promise((resolve, reject) => {
-            let url = "../server/get_overview.php?" + param({
-                    channels: this.channelList.channels,
-                    dates: [date]
-                });
 
-            fetch(url).then(r => r.json()).then(r => {
-                this.timelineRender.render(r.channels, this.anchor);
-                resolve();
-            }).catch(() => reject());
-        })
+    renderDayFromDate(date) {
+        let time = performance.now();
+        return DateRetriver.get(date, this.channelList.channels).then(([data, indicator]) => {
+            console.info("Time to get data", indicator, performance.now() - time);
+
+            console.log("DATA DONE, CALL RENDER", data);
+            this.timelineRender.render(data.channels, this.anchor);
+            return Promise.resolve()
+        });
     }
 
     static getWeek() {
