@@ -18,17 +18,17 @@ if (!is_array($_GET['channels']) || !is_array($_GET['dates'])) {
 
 # todo validate data, this is not safe
 
-$output = [];
 
 foreach ($_GET['channels'] as $channel) {
-    $output[$channel] = [];
     foreach ($_GET['dates'] as $date) {
-        $output[$channel][$date] = [];
         $filename = __DIR__ . "/data/schedule/".$channel."_".$date.".json";
+
         if(file_exists($filename)){
-            $output[$channel][$date] = json_decode(file_get_contents($filename));
+            echo json_encode([$channel, $date, json_decode(file_get_contents($filename)) ]) . "\n";
+
+            flush();
+
         }
     }
 }
 
-echo json_encode( [ "channels" => $output, "status"=>"Success", "status_code"=> 1 ]);

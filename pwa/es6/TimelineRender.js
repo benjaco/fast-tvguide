@@ -13,18 +13,22 @@ export default class TimelineRender{
 
     }
     render(data, ancher){
-        Object.keys(data).forEach(channel => {
-            Object.keys(data[channel]).forEach(day => {
-                if(this._renderedDays.indexOf(channel+"-"+day) > -1) {
-                    return;
-                }
-                this._renderedDays.push(channel + "-" + day);
+        data.forEach(channelTimeline => {
+            let channel = channelTimeline[0];
+            let day = channelTimeline[1];
+            let programs = channelTimeline[2];
 
-                let html = "<div data-day-wrapper>";
+            if(this._renderedDays.indexOf(channel+"-"+day) > -1) {
+                return;
+            }
+            this._renderedDays.push(channel + "-" + day);
 
-                data[channel][day].forEach((program, index) => {
-                    //noinspection CssInvalidPropertyValue
-                    html += `
+
+            let html = "<div data-day-wrapper>";
+
+            programs.forEach((program, index) => {
+                //noinspection CssInvalidPropertyValue
+                html += `
 <div class="program-wrapper ${ program[2] < this._app.ongoingTime.time ? "program-in-the-past" : "" }" style="left: ${(program[1]-ancher)/60/60*this._app.responsive.timeLength}px; 
                                     width: ${(program[2]-program[1])/60/60*this._app.responsive.timeLength}px; 
                                     height: ${this._app.responsive.programHeight}px"
@@ -41,12 +45,11 @@ export default class TimelineRender{
     </div>
 
 </div>`;
-                });
-                html += "<div>";
-                document.querySelector(".programms[data-channel='" + channel + "']").innerHTML += html;
+            });
+            html += "<div>";
+            document.querySelector(".programms[data-channel='" + channel + "']").innerHTML += html;
+        });
 
-            })
-        })
     }
 
     static timeOnDay(time){

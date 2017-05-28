@@ -60,6 +60,44 @@ function requestAnimationFramePromise() {
     })
 }
 
+function getJsonStream(url, dataCallback) {
+    // the endpoint sends multiple json objects, split by a line break
+    return new Promise((resolve, reject) => {
+        fetch(url).then(function (response) { // start the request
+            const decoder = new TextDecoder(); // text decoder is used to decode the bytes from the stream
+            const reader = response.body.getReader(); // get the stream from the fetch request
+            let buffer = ""; // need a buffer to keep track of bytes retrieved
+
+            reader.read().then(function precessResult(result) { // this function is called when a new chunk is retrieved,
+                // need to give it a name so it's possible to called it when chucks arrive at a later point
+
+                if (result.done) { // resolve the promise if the stream is over
+                    resolve();
+                    return
+                }
+
+                buffer += decoder.decode(result.value, {stream: true}); // add the decoded chuck to the end
+
+                let channels = buffer.split("\n"); // the channel programs are spited op by a new line
+                // the end of the stream will new line break as well
+
+                let parsedDays = [];
+                for (let i = 0; i < channels.length - 1; i++) { // don't include the last element,
+                    // it will either be a empty string or partial retrieved day
+                    parsedDays.push(JSON.parse(channels[i]))
+                }
+
+                if (parsedDays.length > 0) { // send the parsed days to the callback, if there is any
+                    dataCallback(parsedDays);
+                }
+
+                buffer = channels[channels.length - 1];// remove the parsed days from the buffer
+
+                return reader.read().then(precessResult) // wait for the next chunk
+            })
+        }).catch(reject);
+    });
+}
 class App {
     constructor() {
         this.renderDayIfNeeded = this.renderDayIfNeeded.bind(this);
@@ -133,7 +171,7 @@ class App {
             }
         };
         this.responsive.triggerUpdate();
-        this.addScrollListener();
+
 
         document.getElementsByClassName("channel-programs")[0].scrollLeft = (new Date()).getHours() * this.responsive.timeLength - 50;
 
@@ -147,8 +185,11 @@ class App {
                 if (this.renderYesterday !== false) {
                     this.renderDayFromDate(this.renderYesterday);
                 }
-                return this.renderDayIfNeeded(0)
-            });
+                return this.renderDayIfNeeded(0);
+            })
+            .then(_ => {
+                this.addScrollListener();
+            })
 
 
     }
@@ -179,17 +220,16 @@ class App {
 
 
     }
-    renderDayFromDate(date){
-        return new Promise((resolve, reject) => {
-            let url = "../server/get_overview.php?" + param({
-                    channels: this.channelList.channels,
-                    dates: [date]
-                });
 
-            fetch(url).then(r => r.json()).then(r => {
-                this.timelineRender.render(r.channels, this.anchor);
-                resolve();
-            }).catch(() => reject());
+    renderDayFromDate(date) {
+        let url = "../server/get_overview.php?" + param({
+                channels: this.channelList.channels,
+                dates: [date]
+            });
+
+        return getJsonStream(url, data => {
+            console.log("chunk retrieved");
+            this.timelineRender.render(data, this.anchor)
         })
     }
 
