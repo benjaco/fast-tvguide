@@ -39,7 +39,7 @@ export default class ChannelsRender {
 
     }
 
-    renderList(channels, channelTitles) {
+    renderList(channels) {
         let iconHtml = "";
         let channelHtml = "";
         let channelContent = [];
@@ -49,9 +49,8 @@ export default class ChannelsRender {
         });
 
         channels.forEach(channel => {
-            iconHtml += `<div class="channelicon" style="height:${this._app.responsive.programHeight}px;">
-                        <img src="../server/data/images/${channel}.png"
-                             alt="${channelTitles[channel]}" title="${channelTitles[channel]}" width="50">
+            iconHtml += `<div class="channelicon" data-img-for="${channel}" style="height:${this._app.responsive.programHeight}px;">
+                        <img src="../server/data/images/${channel}.png" width="50">
                     </div>`;
 
             channelHtml += `<div class="programms" data-channel="${channel}" style="height:${this._app.responsive.programHeight}px;">
@@ -63,6 +62,15 @@ export default class ChannelsRender {
         this._channelsEl.innerHTML = channelHtml;
 
 
+    }
+    addLabels(labels) {
+        Object.keys(labels).forEach(channel=>{
+            let iconImg = this._channelIconsEl.querySelector("[data-img-for='" + channel + "'] img");
+            if (iconImg !== null) {
+                iconImg.setAttribute("alt", labels[channel]);
+                iconImg.setAttribute("title", labels[channel]);
+            }
+        })
     }
 
 }

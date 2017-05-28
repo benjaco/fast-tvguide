@@ -1,8 +1,12 @@
 
 module.exports = {
-    entry: './pwa/es6/App.js',
+    entry: {
+        app: './pwa/es6/main/App.js',
+        channel_editor: './pwa/es6/eventHooks/ChannelEdit.js',
+        show_program: './pwa/es6/eventHooks/Program.js',
+    },
     output: {
-        filename: './pwa/app.js'
+        filename: './pwa/[name].js'
     },
     devtool: 'source-map'
 };

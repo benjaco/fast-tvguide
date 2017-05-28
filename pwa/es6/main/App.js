@@ -7,9 +7,9 @@ import Responsive from "./Responsive"
 import TimeRender from "./TimeRender"
 import TimelineRender from "./TimelineRender";
 import OngoingTime from "./OngoingTime";
-import Program from "./Program";
 import Dates from "./Dates"
-import ChannelEdit from "./ChannelEdit"
+import LoadScript from "./LoadScript"
+
 /**
  * @preserve jquery-param (c) 2015 KNOWLEDGECODE | MIT
  */
@@ -59,13 +59,25 @@ function requestAnimationFramePromise() {
         requestAnimationFrame(resolve);
     })
 }
+function domReady() {
+    return new Promise((resolve, reject) => {
+        if (document.readyState === "complete") {
+            resolve();
+        } else {
+            document.addEventListener("DOMContentLoaded", resolve);
+        }
+    })
+}
 
 class App {
     constructor() {
         this.renderDayIfNeeded = this.renderDayIfNeeded.bind(this);
         this.addScrollListener = this.addScrollListener.bind(this);
+        this.getTvguideData = this.getTvguideData.bind(this);
 
         this.week = App.getWeek();
+        this.channelList = new ChannelList();
+
         this.renderedDays = [];
         this.renderYesterday = (() => {
             const date = new Date();
@@ -77,15 +89,66 @@ class App {
             }
         })();
 
-        this.channelList = new ChannelList();
+        const guiReady = domReady().then(_ => {
+            this.setUpGui();
+            return Promise.resolve();
+        });
+
+        Promise.all([this.getTvguideData(this.week[0].url), guiReady])
+            .then(([r, _]) => {
+                this.render.renderList(this.channelList.channels);
+                this.timelineRender.render(r.channels, this.anchor);
+                this.addScrollListener();
+
+                if (this.renderYesterday !== false) {
+                    this.renderDayFromDate(this.renderYesterday);
+                }
+
+                return fetch("../server/data/channels/dk_channel_names_manuel.json");
+            })
+            .then(r => r.json())
+            .then(r => {
+                this.channelNames = r;
+                this.render.addLabels(r)
+            })
+            .then(_ => {
+                return LoadScript("show_program.js").then(_ => {
+                    this.program = new window.Program();
+                    this.render.onProgramClick = data => this.program.show(data);
+                })
+            })
+            .then(_ => {
+                return LoadScript("channel_editor.js").then(_ => {
+                    this.channelEdit = new window.ChannelEdit(this);
+                    this.channelEdit.onUpdate = newList => {
+                        this.channelList.channels = newList;
+                        this.channelList.save();
+
+                        this.render.renderList(this.channelList.channels);
+                        this.render.addLabels(this.channelNames);
+
+                        let renderDays = this.renderedDays;
+                        this.renderedDays = [];
+                        for (let i of renderDays) {
+                            this.renderDayIfNeeded(i)
+                        }
+                        if (this.renderYesterday !== false) {
+                            this.renderDayFromDate(this.renderYesterday);
+                        }
+                    };
+                })
+            });
+
+
+    }
+
+    setUpGui() {
         this.render = new ChannelsRender(this);
         this.responsive = new Responsive(this);
         this.timeRender = new TimeRender(this, this.week.length);
         this.timelineRender = new TimelineRender(this);
-        this.program = new Program();
         this.ongoingTime = new OngoingTime(this);
         this.daysRender = new Dates(this.week);
-        this.channelEdit = new ChannelEdit(this);
 
         this.daysRender.onDayClick = index => {
             this.renderDayIfNeeded(index);
@@ -99,30 +162,11 @@ class App {
 
         };
 
-        this.render.onProgramClick = data => this.program.show(data);
-
-        this.channelEdit.onUpdate = newList => {
-            this.channelList.channels = newList;
-            this.channelList.save();
-
-            this.render.renderList(this.channelList.channels, this.channelNames);
-
-            let renderDays = this.renderedDays;
-            this.renderedDays = [];
-            for (let i of renderDays) {
-                this.renderDayIfNeeded(i)
-            }
-            if (this.renderYesterday !== false) {
-                this.renderDayFromDate(this.renderYesterday);
-            }
-        };
-
         this.anchor = (function () {
             let d = new Date();
             d.setHours(0, 0, 0, 0);
             return d.getTime() / 1000;
         })();
-
 
         this.responsive.onUpdate = (desktop) => {
             this.ongoingTime.update(); // update now bar to be calculated from the new hour with
@@ -133,24 +177,8 @@ class App {
             }
         };
         this.responsive.triggerUpdate();
-        this.addScrollListener();
 
         document.getElementsByClassName("channel-programs")[0].scrollLeft = (new Date()).getHours() * this.responsive.timeLength - 50;
-
-        fetch("../server/data/channels/dk_channel_names_manuel.json")
-            .then(result => result.json())
-            .then(data => {
-                this.channelNames = data;
-
-                this.render.renderList(this.channelList.channels, this.channelNames);
-
-                if (this.renderYesterday !== false) {
-                    this.renderDayFromDate(this.renderYesterday);
-                }
-                return this.renderDayIfNeeded(0)
-            });
-
-
     }
 
     addScrollListener() {
@@ -179,7 +207,8 @@ class App {
 
 
     }
-    renderDayFromDate(date){
+
+    getTvguideData(date) {
         return new Promise((resolve, reject) => {
             let url = "../server/get_overview.php?" + param({
                     channels: this.channelList.channels,
@@ -187,10 +216,16 @@ class App {
                 });
 
             fetch(url).then(r => r.json()).then(r => {
-                this.timelineRender.render(r.channels, this.anchor);
-                resolve();
+                resolve(r);
             }).catch(() => reject());
         })
+    }
+
+    renderDayFromDate(date) {
+        return this.getTvguideData(date).then(r => {
+            this.timelineRender.render(r.channels, this.anchor);
+            return Promise.resolve()
+        });
     }
 
     static getWeek() {

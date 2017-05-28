@@ -3,7 +3,7 @@
  */
 
 
-export default class Program {
+class Program {
 
     constructor() {
 
@@ -91,3 +91,5 @@ export default class Program {
             })
     }
 }
+
+window.Program = Program;

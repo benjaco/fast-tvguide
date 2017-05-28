@@ -1,9 +1,8 @@
 /**
  * Created by Benjamin on 17-05-2017.
  */
-
-
-export default class ChannelEdit {
+import LoadScript from "../main/LoadScript"
+class ChannelEdit {
 
     constructor(app) {
         this._app = app;
@@ -44,14 +43,16 @@ export default class ChannelEdit {
             }
         });
 
+        LoadScript("slip.min.js").then(_=>{
+            new Slip(this._channelListEl);
 
-        new Slip(this._channelListEl);
+            this._channelListEl.addEventListener('slip:reorder', function(e) {
+                // e.target list item reordered.
+                e.target.parentNode.insertBefore(e.target, e.detail.insertBefore);
 
-        this._channelListEl.addEventListener('slip:reorder', function(e) {
-            // e.target list item reordered.
-            e.target.parentNode.insertBefore(e.target, e.detail.insertBefore);
+            });
+        })
 
-        });
 
     }
 
@@ -93,3 +94,5 @@ export default class ChannelEdit {
         return newList;
     }
 }
+
+window.ChannelEdit = ChannelEdit;
