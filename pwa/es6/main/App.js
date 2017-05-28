@@ -94,9 +94,13 @@ class App {
             return Promise.resolve();
         });
 
-        Promise.all([this.getTvguideData(this.week[0].url), guiReady])
-            .then(([r, _]) => {
+        let tvguideDataPromise = this.getTvguideData(this.week[0].url);
+        guiReady
+            .then(_ => {
                 this.render.renderList(this.channelList.channels);
+                return tvguideDataPromise;
+            })
+            .then(r => {
                 this.timelineRender.render(r.channels, this.anchor);
                 this.addScrollListener();
 
@@ -104,21 +108,18 @@ class App {
                     this.renderDayFromDate(this.renderYesterday);
                 }
 
-                return fetch("../server/data/channels/dk_channel_names_manuel.json");
+                return fetch("../server/data/channels/dk_channel_names_manuel.json").then(r => r.json());
             })
-            .then(r => r.json())
             .then(r => {
                 this.channelNames = r;
                 this.render.addLabels(r)
             })
-            .then(_ => {
-                return LoadScript("show_program.js").then(_ => {
+            .then(_ => LoadScript("show_program.js").then(_ => {
                     this.program = new window.Program();
                     this.render.onProgramClick = data => this.program.show(data);
                 })
-            })
-            .then(_ => {
-                return LoadScript("channel_editor.js").then(_ => {
+            )
+            .then(_ => LoadScript("channel_editor.js").then(_ => {
                     this.channelEdit = new window.ChannelEdit(this);
                     this.channelEdit.onUpdate = newList => {
                         this.channelList.channels = newList;
@@ -137,7 +138,7 @@ class App {
                         }
                     };
                 })
-            });
+            );
 
 
     }
