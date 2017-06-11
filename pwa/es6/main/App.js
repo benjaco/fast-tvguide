@@ -59,15 +59,18 @@ function requestAnimationFramePromise() {
         requestAnimationFrame(resolve);
     })
 }
-function domReady() {
+
+const domReady = () => {
     return new Promise((resolve, reject) => {
-        if (document.readyState === "complete") {
+        if( document.readyState !== "loading" ){
             resolve();
-        } else {
-            document.addEventListener("DOMContentLoaded", resolve);
+        }else{
+            document.addEventListener("DOMContentLoaded", () => {
+                resolve();
+            });
         }
     })
-}
+};
 
 class App {
     constructor() {
