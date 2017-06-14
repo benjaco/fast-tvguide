@@ -14,6 +14,11 @@ foreach ($files as $file) {
     $filecontent = json_decode(file_get_contents(__DIR__ . '/../data/full_schedule/' . $file), true);
     $shotfile = [];
 
+    if (!is_array($filecontent['jsontv']['programme'])) {
+        echo $file . " kunne ikke decodes" . PHP_EOL;
+        continue;
+    }
+
     foreach ($filecontent['jsontv']['programme'] as $program) {
         $title = "Title ikke fundet";
         if (isset($program['title']['da'])) {

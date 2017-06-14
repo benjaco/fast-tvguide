@@ -11,7 +11,7 @@ export default class OngoingTime {
 
         this.update = this.update.bind(this);
         this.updateElements = this.updateElements.bind(this);
-        this.update();
+        this.updateTime = this.updateTime.bind(this);
 
         setTimeout(_ =>  {
             this.update();
@@ -23,15 +23,18 @@ export default class OngoingTime {
 
     }
     update(){
-        this.time = Math.round(Date.now() / 1000);
-
-        this._nowEl.style.left = (this.time - this._app.anchor) / 60 / 60 * this._app.responsive.timeLength + "px";
-
+        this.updateTime();
         this.updateElements()
 
     }
+    updateTime(){
+        this.time = Math.round(Date.now() / 1000);
 
+        this._nowEl.style.left = (this.time - this._app.anchor) / 60 / 60 * this._app.responsive.timeLength + "px";
+    }
     updateElements() {
+        // console.log("Update elements");
+
         const channelsEl = document.getElementsByClassName("programms");
         Array.from(channelsEl).forEach(channelEl => {
 

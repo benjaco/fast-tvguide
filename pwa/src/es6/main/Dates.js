@@ -6,7 +6,7 @@
 export default class Dates {
 
     constructor(days) {
-        this._daysEl = document.getElementsByClassName("days")[0];
+        this._daysEl = document.getElementsByClassName("days_inner")[0];
         this.onDayClick = () => {
         };
 
@@ -22,7 +22,15 @@ export default class Dates {
     }
 
     render(days) {
-        days.forEach((day, index) => this._daysEl.innerHTML += `<span>${ (index === 0 ? "I dag" : day.readable)}</span>`)
+        let html = "";
+        days.forEach((day, index) => {
+            if (index === 0) {
+                html += `<span class="focus">I dag</span>`
+            } else {
+                html += `<span>${ day.readable}</span>`
+            }
+        });
+        this._daysEl.innerHTML = html;
     }
 
     //noinspection JSMethodCanBeStatic

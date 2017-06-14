@@ -4,16 +4,33 @@
 
 export default class TimeRender{
 
-    constructor(app, days) {
+    constructor(app, mode) {
         this._app = app;
-
 
         this._timeDesktopEl = document.getElementsByClassName("timeDesktop")[0];
         this._timeMobileEl = document.getElementsByClassName("timeMobile")[0];
 
-        for (let i = 0; i < days; i++) {
-            this._addDay(i)
+
+        if (mode === "desktop") {
+            this._timeMobileEl.style.display = "none";
+        } else {
+            this._timeDesktopEl.style.display = "none";
         }
+
+    }
+
+    renderDays(days){
+        let htmlDesktop = "",
+            htmlMobile = "";
+
+        for (let i = 0; i < days; i++) {
+            let [desktopChunk, mobileChunck] = this._addDay(i);
+            htmlDesktop += desktopChunk;
+            htmlMobile += mobileChunck
+        }
+
+        this._timeDesktopEl.innerHTML = htmlDesktop;
+        this._timeMobileEl.innerHTML = htmlMobile;
     }
 
     showDesktopTimeline(){
@@ -42,8 +59,7 @@ export default class TimeRender{
                  </div>`;
         }
 
-        this._timeDesktopEl.innerHTML += htmlDesktop;
-        this._timeMobileEl.innerHTML += htmlMobile;
+        return [htmlDesktop, htmlMobile]
     }
     static floatToTime(time) {
         if( time % 2 === 1 ) {

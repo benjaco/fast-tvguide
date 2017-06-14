@@ -2,10 +2,18 @@
 
 runtime: php55
 api_version: 1
+#service: installable
 
 handlers:
 - url: /angular1
   static_dir: angular1
+
+- url: /pwa/index.html
+  static_files: pwa/index.html
+  upload: pwa/index.html
+  http_headers:
+    Link: '<app.js>; rel=preload; as=script, <style.min.css>; rel=preload; as=style, <icons/close.png>; rel=preload; as=image'
+
 
 - url: /pwa
   static_dir: pwa
@@ -24,3 +32,5 @@ skip_files:
 - node_modules/
 - \.idea/
 - timelines/
+- pwa/src/
+- codeimages/

@@ -51,8 +51,14 @@ header ul li {
     background: #fff;
     z-index: 1;
     box-shadow: 0 0 10px rgba(0,0,0,.5);    position: relative;
+
+    overflow-x: auto;
+    overflow-y: hidden;
 }
-.days > span{
+.days_inner{
+    width: 500px;
+}
+.days_inner > span{
     margin-right: 10px;
     padding: 5px;
 }
@@ -64,12 +70,14 @@ header ul li {
     display: flex;
 }
 .channelicon img{
-    transform: scale(0.8);
+    margin: 5px;
 }
 .channel-icons{
     padding: 35px 15px 200px 10px;
     border-right: 1px solid #aaaaaa;
     box-shadow: 0 0 10px rgba(0,0,0,.5);
+    width: 55px;
+    overflow-x: hidden;
 
 }
 .channel-programs{
@@ -105,7 +113,7 @@ header ul li {
 .program {
     margin: 2px;
     background: #fbfbfb;
-    border-radius: 2px;
+    /*border-radius: 2px;*/
     border: 1px solid #EEE;
 }
 .program-title{

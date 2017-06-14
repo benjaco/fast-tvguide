@@ -6,6 +6,8 @@ export default class Responsive {
 
     constructor(app) {
         this._app = app;
+        this.width = window.innerWidth;
+        this.height = window.innerHeight;
 
         this.onUpdate = () => {
         };
@@ -19,42 +21,47 @@ export default class Responsive {
             desktopPadding: 9
         };
 
-        this.timeLength = this.default.desktopTimeLength;
-        this.programHeight = this.default.desktopProgramHeight;
-        this.padding = 2;
-
         this.triggerUpdate = this.triggerUpdate.bind(this);
         this.checkSize = this.checkSize.bind(this);
         this.resizeElements = this.resizeElements.bind(this);
         this.resizeChannelIcons = this.resizeChannelIcons.bind(this);
 
-        window.addEventListener("resize", this.checkSize);
-        this.checkSize();
+        window.addEventListener("resize", () => {
+            this.width = window.innerWidth;
+            this.height = window.innerHeight;
+
+            this.checkSize();
+        });
+
+        this.checkSize(true);
     }
 
     triggerUpdate() {
-        this.onUpdate(window.innerWidth > 700);
+        this.onUpdate(this.width > 700);
     }
 
-    checkSize() {
+    checkSize(skipUpdate) {
+        let oldMode = this.mode;
 
-        this.resizeElements();
-
-
-        if (window.innerWidth > 700) {
+        if (this.width > 700) {
             this.timeLength = this.default.desktopTimeLength;
             this.programHeight = this.default.desktopProgramHeight;
             this.padding = 9;
-
+            this.mode = "desktop";
         } else {
             this.timeLength = this.default.mobileTimeLength;
             this.programHeight = this.default.mobileProgramHeight;
             this.padding = 2;
+            this.mode = "mobile";
         }
 
-        this.onUpdate(window.innerWidth > 700);
+        if (oldMode !== this.mode && skipUpdate !== true) {
+            this.onUpdate(this.width > 700);
 
-        this.resizeChannelIcons();
+            this.resizeElements();
+            this.resizeChannelIcons();
+        }
+
 
     }
 
@@ -79,5 +86,17 @@ export default class Responsive {
         Array.from(elements, (element) => {
             element.style.height = this.programHeight + "px";
         })
+    }
+
+    getRenderBox() {
+        let channels = Math.ceil((this.height - 130) / this.programHeight);
+        let start = parseInt( ((new Date()).getHours() - (50 / this.timeLength)) * 3600 + this._app.anchor);
+        let end = parseInt( (this.width - 76) / this.timeLength * 3600 + start);
+
+        return {
+            channels,
+            start,
+            end
+        }
     }
 }

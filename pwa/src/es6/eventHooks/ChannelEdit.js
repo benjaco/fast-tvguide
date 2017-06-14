@@ -1,9 +1,8 @@
 /**
  * Created by Benjamin on 17-05-2017.
  */
-
-
-export default class ChannelEdit {
+import LoadScript from "../main/LoadScript"
+class ChannelEdit {
 
     constructor(app) {
         this._app = app;
@@ -27,9 +26,9 @@ export default class ChannelEdit {
     }
 
     render() {
-        // todo loop dom manipulation
+        let html = "";
         this._app.channelList.channels.forEach(channelId => {
-            this._channelListEl.innerHTML += `<div class="kanal">
+            html += `<div class="kanal">
                 <input type="checkbox" data-valgt-kanal="${channelId}" checked>
                 ${this._app.channelNames[channelId]}
             </div>`;
@@ -37,21 +36,24 @@ export default class ChannelEdit {
 
         Object.keys(this._app.channelNames).forEach(channelId => {
             if (this._app.channelList.channels.indexOf(channelId) === -1) {
-                this._channelListEl.innerHTML += `<div class="kanal">
+                html += `<div class="kanal">
                     <input type="checkbox" data-valgt-kanal="${channelId}">
                     ${this._app.channelNames[channelId]}
                 </div>`;
             }
         });
+        this._channelListEl.innerHTML = html;
 
+        LoadScript("slip.min.js").then(_=>{
+            new Slip(this._channelListEl);
 
-        new Slip(this._channelListEl);
+            this._channelListEl.addEventListener('slip:reorder', function(e) {
+                // e.target list item reordered.
+                e.target.parentNode.insertBefore(e.target, e.detail.insertBefore);
 
-        this._channelListEl.addEventListener('slip:reorder', function(e) {
-            // e.target list item reordered.
-            e.target.parentNode.insertBefore(e.target, e.detail.insertBefore);
+            });
+        })
 
-        });
 
     }
 
@@ -93,3 +95,5 @@ export default class ChannelEdit {
         return newList;
     }
 }
+
+window.ChannelEdit = ChannelEdit;
