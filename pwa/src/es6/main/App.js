@@ -33,7 +33,7 @@ class App {
         this.renderedDays = [];
         this.renderYesterday = (() => {
             const date = new Date();
-            if (date.getHours() < 5) {
+            if (date.getHours() < 15) {
                 date.setDate(date.getDate() - 1);
                 return date.getFullYear() + "-" + App.addZero(date.getMonth() + 1) + "-" + App.addZero(date.getDate())
             } else {
@@ -42,7 +42,7 @@ class App {
         })();
 
         this.dataRetriever.onCacheUpdate = (data) => {
-            this.timelineRender.updateDay(data.channels)
+            this.timelineRender.addElementsRender(data.channels, true);
         };
 
         const domReady = () => {
@@ -69,24 +69,34 @@ class App {
             .then(r => {
                 this.renderedDays.push(0);
                 let [unrenderedPrograms, unrenderedChannels] = this.timelineRender.firstRender(r.channels, this.channelList.channels);
+                document.getElementsByClassName("channel-programs")[0].scrollLeft = (new Date()).getHours() * this.responsive.timeLength - 50;
 
 
                 return requestAnimationFramePromise()
                     .then(_ => requestAnimationFramePromise())
                     .then(_ => {
-
-                        this.addScrollListener();
-                        this.timelineRender.addElementsRender(unrenderedChannels);
-                        this.timelineRender.addMissingProgramsRender(unrenderedPrograms);
                         this.channelsIconRender.render(this.channelList.channels);
+                        return requestAnimationFramePromise();
+                    })
+                    .then(_ => requestAnimationFramePromise())
+                    .then(_ => {
+                        this.timelineRender.addMissingSetup();
+                        this.timelineRender.addEventListener();
+                        this.addScrollListener();
+                        this.timelineRender.addElementsRender(unrenderedChannels, false);
+                        this.timelineRender.addMissingProgramsRender(unrenderedPrograms);
 
                         if (this.renderYesterday !== false) {
                             this.renderDayFromDate(this.renderYesterday)
                         }
+                        if((new Date()).getHours() + (this.responsive.width / this.responsive.timeLength) > 24) {
+                            this.renderDayIfNeeded(1)
+                        }
+                        return fetch("../server/data/channels/dk_channel_names_manuel.json")
                     })
-                    .then(_ => fetch("../server/data/channels/dk_channel_names_manuel.json"))
                     .then(r => r.json())
                     .catch(_ => {
+                        return Promise.resolve([])
                     });
             })
             .then(r => {
@@ -160,16 +170,14 @@ class App {
 
         this.ongoingTime.updateTime();
 
-        this.responsive.onUpdate = (desktop) => {
+        this.responsive.onUpdate((desktop) => {
             this.ongoingTime.updateTime(); // update now bar to be calculated from the new hour with
             if (desktop) {
                 this.timeRender.showDesktopTimeline();
             } else {
                 this.timeRender.showMobileTimeline();
             }
-        };
-
-        document.getElementsByClassName("channel-programs")[0].scrollLeft = (new Date()).getHours() * this.responsive.timeLength - 50;
+        });
     }
 
     addScrollListener() {
@@ -210,7 +218,7 @@ class App {
 
     renderDayFromDate(date) {
         return this.getTvguideData(date).then(r => {
-            this.timelineRender.addElementsRender(r.channels, this.channelList.channels);
+            this.timelineRender.addElementsRender(r.channels, true);
             return Promise.resolve()
         });
     }

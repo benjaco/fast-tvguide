@@ -9,8 +9,10 @@ export default class Responsive {
         this.width = window.innerWidth;
         this.height = window.innerHeight;
 
-        this.onUpdate = () => {
-        };
+
+
+        this._onUpdate = [];
+        this.onUpdate = fn => this._onUpdate.push(fn);
 
         this.default = {
             mobileTimeLength: 140,
@@ -34,10 +36,14 @@ export default class Responsive {
         });
 
         this.checkSize(true);
+
+
+        this.fullWidth = this.timeLength * 24 * this._app.week.length;
+        this.fullHeight = this.programHeight * this._app.channelList.channels.length;
     }
 
     triggerUpdate() {
-        this.onUpdate(this.width > 700);
+        this._onUpdate.map( fn => fn(this.width > 700) );
     }
 
     checkSize(skipUpdate) {
@@ -56,7 +62,11 @@ export default class Responsive {
         }
 
         if (oldMode !== this.mode && skipUpdate !== true) {
-            this.onUpdate(this.width > 700);
+            this.fullWidth = this.timeLength * 24 * this._app.week.length;
+            this.fullHeight = this.programHeight * this._app.channelList.channels.length;
+
+
+            this.triggerUpdate();
 
             this.resizeElements();
             this.resizeChannelIcons();

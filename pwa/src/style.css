@@ -34,15 +34,6 @@ header ul li {
     padding: 5px;
     margin: 10px 21px 0 0;
 }
-.days{
-    padding: 15px;
-    background: #fff;
-    z-index: 1;
-
-    position: relative;
-    box-shadow: 0 0 10px rgba(0,0,0,.5);
-}
-
 
 
 /* Dayes */
@@ -50,7 +41,8 @@ header ul li {
     padding: 15px;
     background: #fff;
     z-index: 1;
-    box-shadow: 0 0 10px rgba(0,0,0,.5);    position: relative;
+    box-shadow: 0 0 10px rgba(0,0,0,.5);
+    position: relative;
 
     overflow-x: auto;
     overflow-y: hidden;
@@ -87,6 +79,7 @@ header ul li {
     padding: 10px 0;
 
     position: relative;
+    will-change: transform;
 }
 .timeDesktop{
     height: 20px;
@@ -102,6 +95,11 @@ header ul li {
 }
 .programms{
     position: relative;
+}
+
+[data-day-wrapper]{
+    position: absolute;
+    overflow: hidden;
 }
 .program-wrapper{
     position: absolute;
@@ -229,4 +227,3 @@ header ul li {
 .overlay.on{
     opacity: 1;
 }
-

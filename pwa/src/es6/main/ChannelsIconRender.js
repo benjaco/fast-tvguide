@@ -24,7 +24,7 @@ export default class ChannelsIconRender {
         });
 
         this._channelIconsEl.innerHTML = iconHtml;
-
+        this._channelIconsEl.style.minHeight = 0;
 
     }
 

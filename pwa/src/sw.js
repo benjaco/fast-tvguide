@@ -13,12 +13,13 @@ const assets = [
     'show_program.js',
     'channel_editor.js',
     'slip.min.js',
-    // 'manifest.json',
     'icons/close.png',
     'icons/icon_32.ico',
-    'icons/icon_128.png',
-    'icons/icon_256.png',
-    'icons/icon_512.png',
+
+    // 'manifest.json',
+    // 'icons/icon_128.png',
+    // 'icons/icon_256.png',
+    // 'icons/icon_512.png',
 ];
 
 const removeCharsAtStart = location.host === "localhost" ? 8 : 0;
