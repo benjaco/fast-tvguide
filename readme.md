@@ -26,3 +26,28 @@ Chapters
 - Streams
 
 - Progressive webapp 
+
+
+
+
+# To get up and running (sorry the complicated setup)
+the api endpoint is only for testing
+
+replace {{insert user agent here}} in server\scraper_subparts\get_last_modified.php and server\scraper_subparts\scraper.php
+
+install npm-run globally "npm install -g npm-run"
+
+install developer dependencies "npm install"
+
+add a folder called "images", "full_schedule" and "schedule"" inside "server/data"
+
+run php "download_images.php" inside "server/tools"
+
+add "last_update.json" inside "server" with "[]" as content
+
+run php "download_images.php" inside "server/tools"
+
+run php "server/update_data.php" to update channel data
+
+
+run "npm run build" to build the pwa app

@@ -50,7 +50,7 @@ foreach ($channels_to_scrape as $channel) {
             echo "MUST BE UPDATED" . PHP_EOL;
         }
 
-        $options  = array('http' => array('user_agent' => 'project at school easj roskilde - fast tvguide - mail: benj3799@edu.easj.dk'));
+        $options  = array('http' => array('user_agent' => '{{insert user agent here}}'));
         $context  = stream_context_create($options);
 
         $content = @file_get_contents($url, false, $context);
