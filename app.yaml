@@ -1,6 +1,8 @@
 # gcloud app deploy --project fast-tvguide
 
 runtime: php55
+env: standard
+
 api_version: 1
 #service: installable
 
