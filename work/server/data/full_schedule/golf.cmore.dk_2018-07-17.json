@@ -1,0 +1,226 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Golf"
+               ]
+            },
+            "stop" : "1531822500",
+            "start" : "1531803600",
+            "date" : "2018",
+            "desc" : {
+               "da" : "Genudsendelse af kampen fra 14/7."
+            },
+            "new" : "0",
+            "title" : {
+               "da" : "Golf: PGA TOUR (DK)"
+            },
+            "channel" : "golf.cmore.dk"
+         },
+         {
+            "subTitle" : {
+               "da" : "Golf: PGA TOUR Highlights 2018 John Deer Classic"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "2017 . 24/43 .",
+               "onscreen" : "Afsnit 25 af 43 s\u00e6son 2018"
+            },
+            "title" : {
+               "da" : "PGA TOUR Highlights"
+            },
+            "channel" : "golf.cmore.dk",
+            "stop" : "1531825800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Golf"
+               ]
+            },
+            "desc" : {
+               "da" : "Del 25/43."
+            },
+            "date" : "2018",
+            "start" : "1531822500"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Golf"
+               ]
+            },
+            "stop" : "1531845000",
+            "start" : "1531825800",
+            "date" : "2018",
+            "desc" : {
+               "da" : "Genudsendelse af kampen fra 15/7."
+            },
+            "new" : "0",
+            "channel" : "golf.cmore.dk",
+            "title" : {
+               "da" : "Golf: PGA TOUR (DK)"
+            }
+         },
+         {
+            "stop" : "1531846800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Golf"
+               ]
+            },
+            "start" : "1531845000",
+            "desc" : {
+               "da" : "Del 7/20."
+            },
+            "date" : "2018",
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "2017 . 6 .",
+               "onscreen" : "Afsnit 7 s\u00e6son 2018"
+            },
+            "subTitle" : {
+               "da" : "Golf: PGA TOUR Canada (Magasin) 2018 Show #6"
+            },
+            "channel" : "golf.cmore.dk",
+            "title" : {
+               "da" : "PGA Tour"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Golf: PGA TOUR Highlights 2018 John Deer Classic"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 25 af 43 s\u00e6son 2018",
+               "xmltv_ns" : "2017 . 24/43 ."
+            },
+            "title" : {
+               "da" : "PGA TOUR Highlights"
+            },
+            "channel" : "golf.cmore.dk",
+            "stop" : "1531850400",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Golf"
+               ]
+            },
+            "desc" : {
+               "da" : "Del 25/43."
+            },
+            "date" : "2018",
+            "start" : "1531846800"
+         },
+         {
+            "stop" : "1531854000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Golf"
+               ]
+            },
+            "start" : "1531850400",
+            "desc" : {
+               "da" : "Vi dykker ned i golfarkivet og ser p\u00e5 PGA-tourens klassiske \u00f8jeblikke og begivenheder gennem de sidste 35 \u00e5r. Del 23/67. 2009 Northern Trust Open."
+            },
+            "date" : "2016",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 23 s\u00e6son 2016",
+               "xmltv_ns" : "2015 . 22 ."
+            },
+            "new" : "0",
+            "subTitle" : {
+               "da" : "2009 Northern Trust Open"
+            },
+            "channel" : "golf.cmore.dk",
+            "title" : {
+               "da" : "PGA TOUR Classics"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Golf"
+               ]
+            },
+            "stop" : "1531857600",
+            "date" : "2016",
+            "desc" : {
+               "da" : "Vi dykker ned i golfarkivet og ser p\u00e5 PGA-tourens klassiske \u00f8jeblikke og begivenheder gennem de sidste 35 \u00e5r. Del 11/67. 2012 McGladrey\u00b4s Classic."
+            },
+            "start" : "1531854000",
+            "subTitle" : {
+               "da" : "2012 McGladrey\u00b4s Classic"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "2015 . 10 .",
+               "onscreen" : "Afsnit 11 s\u00e6son 2016"
+            },
+            "title" : {
+               "da" : "PGA TOUR Classics"
+            },
+            "channel" : "golf.cmore.dk"
+         },
+         {
+            "title" : {
+               "da" : "Golf: WEB.COM TOUR"
+            },
+            "channel" : "golf.cmore.dk",
+            "subTitle" : {
+               "da" : "Golf: Web.com Tour 2018 Utah Championship"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 10 af 30 s\u00e6son 2018",
+               "xmltv_ns" : "2017 . 9/30 ."
+            },
+            "desc" : {
+               "da" : "Del 10/30."
+            },
+            "date" : "2018",
+            "start" : "1531857600",
+            "stop" : "1531865700",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Golf"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Golf"
+               ]
+            },
+            "stop" : "1531873800",
+            "date" : "2018",
+            "desc" : {
+               "da" : "Del 11/30."
+            },
+            "start" : "1531865700",
+            "subTitle" : {
+               "da" : "Golf: Web.com Tour 2018 Utah Championship"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "2017 . 10/30 .",
+               "onscreen" : "Afsnit 11 af 30 s\u00e6son 2018"
+            },
+            "title" : {
+               "da" : "Golf: WEB.COM TOUR"
+            },
+            "channel" : "golf.cmore.dk"
+         }
+      ]
+   }
+}

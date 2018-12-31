@@ -1,0 +1,642 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "start" : "1523059800",
+            "desc" : {
+               "da" : "Genudsendelser af aftenens Deadline med udfordrende og overraskende perspektiver p\u00e5 dagens og tidens v\u00e6sentligste historier."
+            },
+            "channel" : "dr2.dr.dk",
+            "title" : {
+               "da" : "Deadline Nat"
+            },
+            "date" : "2018",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "DK"
+            ],
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "new" : null,
+            "stop" : "1523084400"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1523088000",
+            "new" : null,
+            "title" : {
+               "da" : "Tidens Tegn"
+            },
+            "channel" : "dr2.dr.dk",
+            "desc" : {
+               "da" : "Tidens Tegn zoomer ind p\u00e5 d\u00f8ves liv i en h\u00f8rende verden og fort\u00e6ller om det, der r\u00f8rer sig i tiden, s\u00e6tter sp\u00f8rgsm\u00e5l til debat og skildrer det n\u00e6re og det s\u00e6re."
+            },
+            "start" : "1523084400",
+            "date" : "2018",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "country" : [
+               "DK"
+            ]
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "stop" : "1523096100",
+            "start" : "1523088000",
+            "channel" : "dr2.dr.dk",
+            "title" : {
+               "da" : "DR2 Live: Liberal Alliances landsm\u00f8de"
+            },
+            "date" : "2018",
+            "country" : [
+               "DK"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            }
+         },
+         {
+            "stop" : "1523099100",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "Documentary"
+               ]
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2013",
+            "title" : {
+               "da" : "Glomfjeldets hemmeligheder"
+            },
+            "desc" : {
+               "da" : "Fotograf Tom Edvindsen tager sin teenagesdatter og en fotograf med p\u00e5 en personlig rejse tilbage til det mystiske fjeld, han udforskede som barn. Med kameraet vil det v\u00e6re muligt at dykke ned i Glomfjeldets spr\u00e6kker og grotter, finde fabeldyr og bev\u00e6ge os gennem labyrinter, hvor v\u00e6ggene af naturen selv er dekoreret i fantastiske m\u00f8nstre. Nordvision fra Norge."
+            },
+            "start" : "1523096100",
+            "channel" : "dr2.dr.dk"
+         },
+         {
+            "country" : [
+               "GB"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2017",
+            "desc" : {
+               "da" : "Flere og flere bakterieinfektioner viser sig at v\u00e6re resistente over for antibiotika. Ikke alene MRSA, men ogs\u00e5 tuberkulose og lungebet\u00e6ndelse. Sundhedseksperter advarer om, at hvis vi ikke l\u00f8ser problemet, g\u00e5r vi en fremtid i m\u00f8de, hvor ti millioner verden over allerede i 2050 vil d\u00f8 om \u00e5ret af uhelbredelige infektioner. L\u00e6gen Michael Mosley unders\u00f8ger \u00e5rsagen til resistensen og de mulige l\u00f8sninger p\u00e5 et sundhedsproblem, der ikke kender til landegr\u00e6nser."
+            },
+            "start" : "1523099100",
+            "channel" : "dr2.dr.dk",
+            "title" : {
+               "da" : "Kampen mod superbakterierne"
+            },
+            "new" : null,
+            "stop" : "1523102700",
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "Documentary"
+               ]
+            },
+            "new" : null,
+            "stop" : "1523106300",
+            "date" : "2017",
+            "desc" : {
+               "da" : "Hvad ville du g\u00f8re, hvis du fik at vide, at du havde en terminal sygdom og kun havde f\u00e5 m\u00e5neder tilbage at leve i? Tolv mennesker i alderen fra tyverne til tresserne fort\u00e6ller her inspirerende om at finde det positive i diagnosen, som har hjulpet dem til at opdage, hvad der virkelig betyder noget i livet. De smiler og griner og fors\u00f8ger ikke at gr\u00e6de, fordi de siger, at gr\u00e5d og tristhed er spild af den dyrebare tid, de har tilbage."
+            },
+            "start" : "1523102700",
+            "channel" : "dr2.dr.dk",
+            "title" : {
+               "da" : "Husk at leve, mens du g\u00f8r det"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "country" : [
+               "GB"
+            ]
+         },
+         {
+            "country" : [
+               "GB"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "desc" : {
+               "da" : "I en bev\u00e6gende film skildrede filmmageren Roger Graef den 4-\u00e5rige Brett, der var f\u00f8dt uden arme p\u00e5 grund af sin mors brug af thalidomid. 50 \u00e5r efter er Graef igen rejst til Australien for at m\u00f8de Brett, der stadig lever efter mottoet, 'det er ikke, hvordan man har det, men hvordan man tar' det'. Den nu midaldrende Brett er gift, far til tre b\u00f8rn, en efterspurgt foredragsholder og en succesrig koncertpianist, han spiller med sine t\u00e6er, og musikproducer."
+            },
+            "start" : "1523106300",
+            "channel" : "dr2.dr.dk",
+            "title" : {
+               "da" : "Bretts utrolige historie - et liv uden arme"
+            },
+            "date" : "2015",
+            "new" : null,
+            "stop" : "1523109960",
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "channel" : "dr2.dr.dk",
+            "desc" : {
+               "da" : "Mennesker, der fungerer som psykisk medium, afsl\u00f8rer her, hvordan det f\u00f8les at v\u00e6re i stand til at tale med de d\u00f8de. B\u00e5de i forhold til privatliv og forretning, g\u00f8r de clairvoyante evner s\u00e5 livet lettere eller mere kompliceret?"
+            },
+            "start" : "1523109960",
+            "title" : {
+               "da" : "Hj\u00e6lp - de d\u00f8de snakker til mig"
+            },
+            "date" : "2015",
+            "country" : [
+               "GB"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Documentary"
+               ]
+            },
+            "previously_shown" : "dr2.dr.dk|2018-03-31 18:00:00",
+            "new" : null,
+            "stop" : "1523112900"
+         },
+         {
+            "episodeNum" : {
+               "themoviedb.org" : "movie/44603"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama",
+                  "Fantasy"
+               ]
+            },
+            "previously_shown" : "dr2.dr.dk|2018-03-31 18:50:00",
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/44603"
+            ],
+            "stop" : "1523114700",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Peter Morgan"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "George Lonegan",
+                     "name" : "Matt Damon"
+                  },
+                  {
+                     "role" : "Melanie",
+                     "name" : "Bryce Dallas Howard"
+                  },
+                  {
+                     "name" : "Thierry Neuvic",
+                     "role" : "Didier"
+                  },
+                  {
+                     "name" : "Cyndi Mayo Davis",
+                     "role" : "Island Hotel Clerk"
+                  },
+                  {
+                     "name" : "Lisa Griffiths",
+                     "role" : "Stall Owner"
+                  },
+                  {
+                     "name" : "Jessica Griffiths",
+                     "role" : "Island Girl"
+                  },
+                  {
+                     "name" : "Ferguson Reid",
+                     "role" : "Rescuer"
+                  },
+                  {
+                     "role" : "Rescuer",
+                     "name" : "Derek Sakakura"
+                  },
+                  {
+                     "role" : "Markus/Jason",
+                     "name" : "George McLaren"
+                  },
+                  {
+                     "role" : "Markus/Jason",
+                     "name" : "Frankie McLaren"
+                  },
+                  {
+                     "role" : "Jackie",
+                     "name" : "Lyndsey Marshal"
+                  },
+                  {
+                     "name" : "Jay Mohr",
+                     "role" : "Billy"
+                  },
+                  {
+                     "role" : "Marie Lelay",
+                     "name" : "C\u00e9cile de France"
+                  },
+                  {
+                     "role" : "Social Worker",
+                     "name" : "Rebekah Staton"
+                  },
+                  {
+                     "name" : "Declan Conlon",
+                     "role" : "Social Worker"
+                  },
+                  {
+                     "name" : "Charlie Creed-Miles",
+                     "role" : "Photographer"
+                  },
+                  {
+                     "role" : "Christos",
+                     "name" : "Richard Kind"
+                  },
+                  {
+                     "name" : "Claire Price",
+                     "role" : "Marcus' Teacher"
+                  },
+                  {
+                     "role" : "Teenager",
+                     "name" : "Franz Drameh"
+                  },
+                  {
+                     "name" : "Marcus Boyea",
+                     "role" : "Teenager"
+                  },
+                  {
+                     "name" : "Niamh Cusack",
+                     "role" : "Foster Mother"
+                  },
+                  {
+                     "role" : "Foster Father",
+                     "name" : "George Costigan"
+                  },
+                  {
+                     "name" : "Mathew Baynton",
+                     "role" : "College Receptionist"
+                  },
+                  {
+                     "name" : "Paul Antony-Barber",
+                     "role" : "Nigel"
+                  },
+                  {
+                     "role" : "Mrs. Joyce",
+                     "name" : "Selina Cadell"
+                  },
+                  {
+                     "name" : "Derek Jacobi",
+                     "role" : "Derek Jacobi"
+                  },
+                  {
+                     "name" : "Tim Fitzhigham",
+                     "role" : "Bearded Author"
+                  },
+                  {
+                     "name" : "Marthe Keller",
+                     "role" : "Dr. Rousseau"
+                  },
+                  {
+                     "role" : "Secretary",
+                     "name" : "C\u00e9line Sallette"
+                  },
+                  {
+                     "role" : "Reporter Jasmine",
+                     "name" : "Myl\u00e8ne Jampano\u00ef"
+                  },
+                  {
+                     "name" : "St\u00e9phane Freiss",
+                     "role" : "Guillaume Belcher"
+                  },
+                  {
+                     "role" : "TV Producer",
+                     "name" : "Laurent Bateau"
+                  },
+                  {
+                     "name" : "Calum Grant",
+                     "role" : "Factory Worker"
+                  },
+                  {
+                     "name" : "Steve Schirripa",
+                     "role" : "Cooking Teacher 'Carlo'"
+                  },
+                  {
+                     "name" : "Joe Bellan",
+                     "role" : "Tony"
+                  },
+                  {
+                     "name" : "Jenifer Lewis",
+                     "role" : "Candace"
+                  },
+                  {
+                     "name" : "Tom Beard",
+                     "role" : "Priest"
+                  },
+                  {
+                     "name" : "Andy Gathergood",
+                     "role" : "Jackie's Friend"
+                  },
+                  {
+                     "name" : "Helen Elizabeth",
+                     "role" : "Jackie's Friend"
+                  },
+                  {
+                     "role" : "Publishing Executive Michael",
+                     "name" : "Jean-Yves Berteloot"
+                  },
+                  {
+                     "name" : "Surinder Duhra",
+                     "role" : "Islamic Teacher"
+                  },
+                  {
+                     "role" : "Dr. Meredith",
+                     "name" : "Sean Buckley"
+                  },
+                  {
+                     "name" : "Audrey Brisson-Jutras",
+                     "role" : "Hospice Receptionist"
+                  },
+                  {
+                     "role" : "Dying Woman",
+                     "name" : "Jess Murphy"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Clint Eastwood"
+                  }
+               ]
+            },
+            "start" : "1523112900",
+            "desc" : {
+               "da" : "Dansk reportageserie fra 2013 F\u00f8lg Mikkel Munch-Fals' videre f\u00e6rd, n\u00e5r han unders\u00f8ger, om der er et liv efter d\u00f8den. I program 3 handler det om tegn fra den anden side. Her m\u00f8der han Norges prinsesse M\u00e4rtha Louise, der kan se hans skytsengel. Mikkel Munch-Fals m\u00f8der ogs\u00e5 professor Eske Willerslev, der har oplevet Sitting Bulls \u00e5nd p\u00e5 sin egen krop. Og den amerikanske stjerneskuespiller Diane Ladd beretter om sit m\u00f8de med afd\u00f8de Dennis Potter. Endelig st\u00f8der han p\u00e5 nogle mystiske fotos af engle og s\u00e5kaldte orbs fra henholdsvis Aalborg og Arizona. Men er det hele blot indbildning, eller m\u00e5 videnskaben erkende, at der er ting, der endnu ikke kan gentages, m\u00e5les og vejes? Tilrettel\u00e6ggelse: Halfdan Muurholm og Sara Laadal-Madsen Sendt f\u00f8rste gang 10.03.13."
+            },
+            "channel" : "dr2.dr.dk",
+            "title" : {
+               "da" : "Livet efter livet"
+            },
+            "rating" : {
+               "stars" : "5.9 / 10"
+            },
+            "date" : "2012",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "US"
+            ]
+         },
+         {
+            "country" : [
+               "DK"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "desc" : {
+               "da" : "Jesus returnerede fra de d\u00f8de, men hvad med resten af os? Er det muligt at komme tilbage til livet efter man er erkl\u00e6ret d\u00f8d ? Lasse Spang Olsen m\u00f8der mennesker som har v\u00e6ret d\u00f8de, men er v\u00e6kket til live igen og unders\u00f8ger et videnskabeligt fors\u00f8g der peger p\u00e5, at folk kan have haft en reel \"ud af kroppen oplevelse\". Vi bes\u00f8ger ogs\u00e5 en virksomhed som vil fryse dig ned lige n\u00e5r du er d\u00f8d for at give dig muligheden for at vende tilbage n\u00e5r ny teknologi kan kurere det du d\u00f8de af. Og vi g\u00e5r naturligvis ogs\u00e5 i h\u00e6lene p\u00e5 Jesus som er en af de f\u00f8rste som genopstod fra de d\u00f8de. Men hvad er op og hvad er ned - hvad er myter og hvad kan reelt lade sig g\u00f8re?"
+            },
+            "start" : "1523114700",
+            "channel" : "dr2.dr.dk",
+            "title" : {
+               "da" : "Retur fra de d\u00f8de"
+            },
+            "date" : "2018",
+            "new" : null,
+            "previously_shown" : "dr2.dr.dk|2018-03-31 19:20:00",
+            "stop" : "1523118300",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "new" : null,
+            "stop" : "1523124000",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Cynthia Nixon",
+                     "role" : "Petranilla"
+                  },
+                  {
+                     "name" : "Ben Chaplin",
+                     "role" : "Sir Thomas Langley"
+                  },
+                  {
+                     "role" : "Sir Roland",
+                     "name" : "Peter Firth"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/4 .",
+               "onscreen" : "Afsnit 1 af 4"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "country" : [
+               "GB"
+            ],
+            "start" : "1523118300",
+            "desc" : {
+               "da" : "England 1327. En brutal borgerkrig er slut. I byen Kingsbridge \u00e5nder alt idyl, men kun for en stund. Snart g\u00e5r der rygter om, at den gamle konge er blevet myrdet i fangenskab. Samtidig s\u00f8ger en hemmelighedsfuld, s\u00e5ret adelsmand tilflugt i Kingsbridge. Og da dronningen inds\u00e6tter den brutale sir Roland som jarl, er det slut p\u00e5 freden i byen. Instruktion: Michael Caton-Jones. Serien er en forts\u00e6ttelse af Jordens s\u00f8jler. 2. del sendes i morgen."
+            },
+            "channel" : "dr2.dr.dk",
+            "title" : {
+               "da" : "Ken Folletts Uendelige verden"
+            },
+            "date" : "2012"
+         },
+         {
+            "stop" : "1523133000",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Documentary"
+               ]
+            },
+            "country" : [
+               "GB"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2017",
+            "title" : {
+               "da" : "Halli Halli Hallo - naturen i Mexico"
+            },
+            "desc" : {
+               "da" : "Mexico er et k\u00e6mpe land. Mere end 3.200 kilometer langt og domineret af bjergk\u00e6den, Sierra Madre, og bev\u00e6ger man sig langs dens stenede ryg, oplever man en forbl\u00f8ffende mangfoldighed af dyr og planter, fra sorte bj\u00f8rne og orkide-bier til quelzal-fugle. Mayaernes oldgamle templer knejser stadig over skovene p\u00e5 Yucatan-halv\u00f8en, der er fuld af jaguarer, aber og farverige, tropiske fugle, mens det nordlige Mexico er landets t\u00f8rreste region, domineret af de to store \u00f8rkener, Sonoran og Chihuahuan. Mange dyr fra pr\u00e6riehunde og ugler til aplomadofalke har dog opdaget, at hvis man evner at overvinde disse barske betingelse, s\u00e5 kan bel\u00f8nningen v\u00e6re stor."
+            },
+            "start" : "1523124000",
+            "channel" : "dr2.dr.dk"
+         },
+         {
+            "start" : "1523133000",
+            "desc" : {
+               "da" : "Udfordrende og overraskende perspektiver p\u00e5 dagens og tidens v\u00e6sentligste historier."
+            },
+            "channel" : "dr2.dr.dk",
+            "title" : {
+               "da" : "Deadline"
+            },
+            "date" : "2018",
+            "country" : [
+               "DK"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "new" : null,
+            "stop" : "1523134800"
+         },
+         {
+            "country" : [
+               "DK"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "title" : {
+               "da" : "JERSILD om Trump"
+            },
+            "channel" : "dr2.dr.dk",
+            "desc" : {
+               "da" : "Er Trump gal eller genial? Jens Olaf Jersild og g\u00e6ster analyserer hver uge hvad der reelt foreg\u00e5r i toppen af amerikansk politik - intet er som f\u00f8r Trump."
+            },
+            "start" : "1523134800",
+            "date" : "2018",
+            "stop" : "1523136900",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            }
+         },
+         {
+            "new" : null,
+            "stop" : "1523140500",
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "country" : [
+               "DK"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "channel" : "dr2.dr.dk",
+            "start" : "1523136900",
+            "title" : {
+               "da" : "Debatten"
+            },
+            "date" : "2018"
+         },
+         {
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "country" : [
+               "DK"
+            ],
+            "date" : "2018",
+            "title" : {
+               "da" : "Detektor"
+            },
+            "desc" : {
+               "da" : "- tjekker fakta og tal i den aktuelle debat og unders\u00f8ger, i hvor h\u00f8j grad det, magthavere, meningsdannere og medier siger, faktisk kan dokumenteres."
+            },
+            "start" : "1523140500",
+            "channel" : "dr2.dr.dk",
+            "stop" : "1523142300",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "new" : null,
+            "stop" : "1523145900",
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "Documentary"
+               ]
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2017",
+            "start" : "1523142300",
+            "desc" : {
+               "da" : "Svensk dokumentar fra 2017 Kl. 14.53 den 7. april k\u00f8rer en lastbil ind p\u00e5 Drottninggatan i Stockholm, en af de mest menneskefyldte gader i Sveriges hovedstad. Bilen tordner mod sit m\u00e5l og brager direkte ind i menneskem\u00e6ngden - form\u00e5let for den mand, der f\u00e5 minutter inden har kapret lastbilen, er alene at sl\u00e5 s\u00e5 mange ihjel som muligt. Her skildres det voldsomme terrorangreb gennem nogle af de mennesker, der var p\u00e5 stedet: de, der mirakul\u00f8st undgik at blive dr\u00e6bt, de, der risikerede egne liv for at hj\u00e6lpe andre midt i det efterf\u00f8lgende kaos og de, der nu st\u00e5r tilbage med sorgen efter et elsket menneske. Angrebet slog til direkte mod hovedstadens hjerte, men det fik konsekvenser for hele landet. Nordvision fra Sverige."
+            },
+            "channel" : "dr2.dr.dk",
+            "title" : {
+               "da" : "Terror i Stockholm: Drottninggatan 14:53"
+            }
+         }
+      ]
+   }
+}

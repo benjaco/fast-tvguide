@@ -1,0 +1,1197 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2015",
+            "new" : null,
+            "title" : {
+               "da" : "Drabelig deadline"
+            },
+            "desc" : {
+               "da" : "Den amerikanske nyhedsv\u00e6rt, Tamron Hall, gennemg\u00e5r en serie af fascinerende og dybt tragiske mordefterforskninger. I dette afsnit: En studerende forelsker sig hovedkulds i en ny k\u00e6reste. Men forholdet f\u00f8rer til afsl\u00f8ringer, der viser, at intet er, som man skulle tro."
+            },
+            "start" : "1522540800",
+            "stop" : "1522544400",
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 0 .",
+               "onscreen" : "Afsnit 1"
+            },
+            "channel" : "canal9.dk"
+         },
+         {
+            "desc" : {
+               "da" : "Den amerikanske nyhedsv\u00e6rt, Tamron Hall, gennemg\u00e5r en serie af fascinerende og dybt tragiske mordefterforskninger. I dette afsnit: Becky Sue sl\u00e5r op med sin voldelige k\u00e6reste og flytter ind hos et familiemedlem for at starte p\u00e5 en frisk. Da hun pludselig forsvinder, er der mistanke om ugler i mosen."
+            },
+            "start" : "1522544400",
+            "title" : {
+               "da" : "Drabelig deadline"
+            },
+            "new" : null,
+            "date" : "2015",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2",
+               "xmltv_ns" : ". 1 ."
+            },
+            "channel" : "canal9.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "stop" : "1522548000"
+         },
+         {
+            "channel" : "canal9.dk",
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Crime",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1522551000",
+            "subTitle" : {
+               "da" : "Domestic terror"
+            },
+            "desc" : {
+               "da" : "'Drabelig deadline' er et tempofyldt og unders\u00f8gende nyhedsprogram med NBC nyhedskorrespondent Anchor Tamron Hall i spidsen. Tamron Hall har haft konsekvenserne af voldelig kriminalitet helt t\u00e6t p\u00e5 livet, da hendes stores\u00f8ster blev offer i en stadig uopklaret mordsag. Nu har hun dedikeret sit liv til at hj\u00e6lpe med at opklare mordsager."
+            },
+            "start" : "1522548000",
+            "title" : {
+               "da" : "Drabelig deadline"
+            },
+            "new" : null,
+            "video" : {
+               "quality" : "HDTV"
+            }
+         },
+         {
+            "url" : [
+               "https://www.themoviedb.org/tv/53357/season/1/episode/10"
+            ],
+            "new" : null,
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2013",
+            "desc" : {
+               "da" : "F\u00f8lg produktionen, med alle detaljer, af nogle af verdens mest eftertragtede biler, s\u00e5 som en BMW M6."
+            },
+            "start" : "1522551000",
+            "title" : {
+               "da" : "How It's Made: Dream Cars"
+            },
+            "subTitle" : {
+               "da" : "BMW M6"
+            },
+            "stop" : "1522553400",
+            "channel" : "canal9.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 9/10 .",
+               "onscreen" : "Afsnit 10 af 10 s\u00e6son 1"
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Oisin Curran"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Fran\u00e7ois Sen\u00e9cal-Tremblay"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Narrator",
+                     "name" : "Brooks T. Moore"
+                  }
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "channel" : "canal9.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 0/8 .",
+               "onscreen" : "Afsnit 1 af 8 s\u00e6son 3"
+            },
+            "subTitle" : {
+               "da" : "Under siege"
+            },
+            "stop" : "1522556100",
+            "title" : {
+               "da" : "Railroad Alaska"
+            },
+            "start" : "1522553400",
+            "desc" : {
+               "da" : "Jernbanen er essentiel, n\u00e5r livet skal opretholdes i de fjerneste egne af landet, langt fra civisationen. Derfor m\u00e5 en flok seje og dedikerede m\u00e6nd s\u00f8rge for, at toget altid kan komme frem. Livet langs sporet er udfordrende! Vejret er utilregneligt og r\u00e5t. De er omgivet af vilde dyr, nogle mere omg\u00e6ngelige, end andre. Eneste vej til forplejning kan v\u00e6re at skulle stoppe et hurtigk\u00f8rende passagertog, hvilket heller ikke er ufarligt."
+            },
+            "date" : "2015",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/64639/season/3/episode/1"
+            ],
+            "new" : null
+         },
+         {
+            "title" : {
+               "da" : "Railroad Alaska"
+            },
+            "start" : "1522556100",
+            "desc" : {
+               "da" : "Jernbanen er essentiel, n\u00e5r livet skal opretholdes i de fjerneste egne af landet, langt fra civisationen. Derfor m\u00e5 en flok seje og dedikerede m\u00e6nd s\u00f8rge for, at toget altid kan komme frem. Livet langs sporet er udfordrende! Vejret er utilregneligt og r\u00e5t. De er omgivet af vilde dyr, nogle mere omg\u00e6ngelige, end andre. Eneste vej til forplejning kan v\u00e6re at skulle stoppe et hurtigk\u00f8rende passagertog, hvilket heller ikke er ufarligt."
+            },
+            "date" : "2015",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/64639/season/3/episode/3"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "channel" : "canal9.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 af 8 s\u00e6son 3",
+               "xmltv_ns" : "2 . 2/8 ."
+            },
+            "subTitle" : {
+               "da" : "Night from hell"
+            },
+            "stop" : "1522559100"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Homeshopping"
+            },
+            "channel" : "canal9.dk",
+            "start" : "1522559100",
+            "stop" : "1522563000",
+            "new" : null
+         },
+         {
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2014",
+            "new" : null,
+            "title" : {
+               "da" : "Robson Green: Extreme Fisherman"
+            },
+            "desc" : {
+               "da" : "Robson Green rejser til Okinawa for at finde klodens st\u00f8rste, mest us\u00e6dvanlige og mest aggressive fisk i floder, s\u00f8er og have."
+            },
+            "start" : "1522563000",
+            "stop" : "1522566300",
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "canal9.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2",
+               "xmltv_ns" : ". 1 ."
+            }
+         },
+         {
+            "new" : null,
+            "stop" : "1522569900",
+            "channel" : "canal9.dk",
+            "start" : "1522566300",
+            "title" : {
+               "da" : "Homeshopping"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Trail of Tears"
+            },
+            "stop" : "1522573800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "channel" : "canal9.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 124",
+               "xmltv_ns" : ". 123 ."
+            },
+            "date" : "1990",
+            "new" : null,
+            "title" : {
+               "da" : "MacGyvers Missioner"
+            },
+            "start" : "1522569900",
+            "desc" : {
+               "da" : "MacGyver er hemmelig agent, som ingen andre. Han er et stille, mildt gemyt. Han er meget principfast og han n\u00e6gter at b\u00e6re v\u00e5ben. Det sidste er uvigtigt i forhold til hans forbl\u00f8ffende sind og overv\u00e6ldende viden. MacGyver bruger sine umiddelbare omgivelser til at finde uortodokse l\u00f8sninger p\u00e5 de problemer, der m\u00e5tte opst\u00e5 omkring ham. Fjender af verdensfred og retf\u00e6rdighed l\u00e6rer snart, at det har fatale konsekvenser for deres planer, hvis de underestimerer denne mand"
+            }
+         },
+         {
+            "title" : {
+               "da" : "MacGyvers Missioner"
+            },
+            "desc" : {
+               "da" : "MacGyver er hemmelig agent, som ingen andre. Han er et stille, mildt gemyt. Han er meget principfast og han n\u00e6gter at b\u00e6re v\u00e5ben. Det sidste er uvigtigt i forhold til hans forbl\u00f8ffende sind og overv\u00e6ldende viden. MacGyver bruger sine umiddelbare omgivelser til at finde uortodokse l\u00f8sninger p\u00e5 de problemer, der m\u00e5tte opst\u00e5 omkring ham. Fjender af verdensfred og retf\u00e6rdighed l\u00e6rer snart, at det har fatale konsekvenser for deres planer, hvis de underestimerer denne mand"
+            },
+            "start" : "1522573800",
+            "date" : "1990",
+            "new" : null,
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "canal9.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 125",
+               "xmltv_ns" : ". 124 ."
+            },
+            "subTitle" : {
+               "da" : "Hind-sight"
+            },
+            "stop" : "1522578000"
+         },
+         {
+            "title" : {
+               "da" : "Homeshopping"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "canal9.dk",
+            "start" : "1522578000",
+            "stop" : "1522581900",
+            "new" : null
+         },
+         {
+            "new" : null,
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "desc" : {
+               "da" : "Buck og Rosie er klar til opgradere til et hus til en million dollars med udend\u00f8rs k\u00f8kken, kaj og strandudsigt. Hvordan vil det g\u00e5?"
+            },
+            "start" : "1522581900",
+            "title" : {
+               "da" : "Buying the Beach"
+            },
+            "stop" : "1522583700",
+            "subTitle" : {
+               "da" : "Island millionaire"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7",
+               "xmltv_ns" : ". 6 ."
+            },
+            "channel" : "canal9.dk",
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "new" : null,
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "desc" : {
+               "da" : "Bill og Shelley vil sl\u00e5 sig ned og starte en familie p\u00e5 kysten af Outer Banks, og deres dr\u00f8m er at kunne k\u00f8re lige ned p\u00e5 stranden i deres 4x4."
+            },
+            "start" : "1522583700",
+            "title" : {
+               "da" : "Buying the Beach"
+            },
+            "subTitle" : {
+               "da" : "4x4 shores"
+            },
+            "stop" : "1522585500",
+            "channel" : "canal9.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 7 .",
+               "onscreen" : "Afsnit 8"
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "new" : null,
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "start" : "1522585500",
+            "desc" : {
+               "da" : "For Ross og Meagan vil det perfekte hus ligge lige p\u00e5 stranden, have en pragtfuld udsigt og masser af plads p\u00e5 terrassen. Kan de finde s\u00e5dan en bolig med deres budget?"
+            },
+            "title" : {
+               "da" : "Buying the Beach"
+            },
+            "subTitle" : {
+               "da" : "All decked out"
+            },
+            "stop" : "1522587600",
+            "channel" : "canal9.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 9",
+               "xmltv_ns" : ". 8 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "country" : [
+               "US"
+            ]
+         },
+         {
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Buying the Beach"
+            },
+            "desc" : {
+               "da" : "Musiker Mike Nugent kom til Outer Banks for at hj\u00e6lpe sin familie efter orkanen Irene. Han h\u00e5ber at kunne k\u00f8be sit f\u00f8rste hjem for en 'h\u00e5rdtarbejdende musikers budget'."
+            },
+            "start" : "1522587600",
+            "subTitle" : {
+               "da" : "Sand shacks"
+            },
+            "stop" : "1522589400",
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "canal9.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 10",
+               "xmltv_ns" : ". 9 ."
+            }
+         },
+         {
+            "start" : "1522589400",
+            "title" : {
+               "da" : "Alka Superliga: Randers FC-Lyngby"
+            },
+            "new" : null,
+            "channel" : "canal9.dk",
+            "country" : [
+               "DK"
+            ],
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Series"
+               ]
+            },
+            "subTitle" : {
+               "da" : "SUPERLIGA 7. VALG"
+            },
+            "stop" : "1522599900"
+         },
+         {
+            "new" : null,
+            "stop" : "1522607100",
+            "channel" : "canal9.dk",
+            "start" : "1522599900",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Fodbold: La Liga: M\u00e1laga-Villarreal"
+            }
+         },
+         {
+            "start" : "1522607100",
+            "desc" : {
+               "da" : "Amerikansk show hvor de sjoveste hjemmevideoklip fra hele verden samles i en top 10. Der er meget at grine af. Men hvad griner vi mest af? Dyrene, b\u00f8rnene eller er det bryllupskiks? Tag et hvil fra hverdagens drama og grin med, n\u00e5r vi finder ud af det."
+            },
+            "title" : {
+               "da" : "World's Funniest Videos: Top 10 Countdown"
+            },
+            "new" : null,
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 5 .",
+               "onscreen" : "Afsnit 6"
+            },
+            "channel" : "canal9.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "stop" : "1522608900",
+            "subTitle" : {
+               "da" : "Fun with science"
+            }
+         },
+         {
+            "start" : "1522608900",
+            "desc" : {
+               "da" : "I denne pjaskende kavalkade ser vi n\u00e6rmere p\u00e5 de allerbedste \u00f8jeblikke i Jeremy Wades evige jagt p\u00e5 verdens mest mystiske sv\u00f8mmende - og k\u00f8d\u00e6dende ferskvandsfisk."
+            },
+            "title" : {
+               "da" : "River Monsters"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/18150/season/8/episode/1"
+            ],
+            "new" : null,
+            "date" : "2016",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "channel" : "canal9.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "7 . 0/6 .",
+               "onscreen" : "Afsnit 1 af 6 s\u00e6son 8"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Jeremy Wade",
+                     "role" : "Himself"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Deep Sea Demon"
+            },
+            "stop" : "1522612800"
+         },
+         {
+            "date" : "2009",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/18150/season/1/episode/7"
+            ],
+            "title" : {
+               "da" : "River Monsters"
+            },
+            "desc" : {
+               "da" : "I denne pjaskende kavalkade ser vi n\u00e6rmere p\u00e5 de allerbedste \u00f8jeblikke i Jeremy Wades evige jagt p\u00e5 verdens mest mystiske sv\u00f8mmende - og k\u00f8d\u00e6dende ferskvandsfisk."
+            },
+            "start" : "1522612800",
+            "stop" : "1522616400",
+            "subTitle" : {
+               "da" : "Invisible Killers"
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Himself",
+                     "name" : "Jeremy Wade"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 6/7 .",
+               "onscreen" : "Afsnit 7 af 7 s\u00e6son 1"
+            },
+            "channel" : "canal9.dk"
+         },
+         {
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/918/season/1/episode/15"
+            ],
+            "date" : "1973",
+            "desc" : {
+               "da" : "Koreakrigen raser om \u00f8rerne p\u00e5 Benjamin \"Hawkeye\" Pierce og \"Trapper\" John McIntyre, der begge arbejder som l\u00e6ger p\u00e5 det mobile felthospital M*A*S*H 4077 (Mobile Army Surgical Hospital). Deres hverdag er benh\u00e5rd, men de klarer sig igennem r\u00e6dslerne ved at bevare at humoristisk syn p\u00e5 tilv\u00e6relsen, hvilket kaster et v\u00e6ld af drengestreger og absurde situationer af sig. Det er imidlertid ikke alle p\u00e5 4077, som deler deres humor, og det g\u00e6lder is\u00e6r Major Frank Burns, der er Hawkeye og Trappers yndlingsoffer. Burns fors\u00f8ger at holde de to l\u00e6ger i kort snor med hj\u00e6lp fra Oberst Sherman Potter og den kejtede radiooperat\u00f8r Radar, men det er naturligvis meget lettere sagt end gjort!"
+            },
+            "start" : "1522616400",
+            "title" : {
+               "da" : "M*A*S*H"
+            },
+            "subTitle" : {
+               "da" : "Tuttle"
+            },
+            "stop" : "1522618200",
+            "channel" : "canal9.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 14/24 .",
+               "onscreen" : "Afsnit 15 af 24 s\u00e6son 1"
+            },
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "William Wiard"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Hawkeye Pierce",
+                     "name" : "Alan Alda"
+                  },
+                  {
+                     "name" : "Loretta Swit",
+                     "role" : "Margaret Houlihan"
+                  },
+                  {
+                     "name" : "Jamie Farr",
+                     "role" : "Maxwell Klinger"
+                  },
+                  {
+                     "role" : "Father Mulcahy",
+                     "name" : "William Christopher"
+                  },
+                  {
+                     "name" : "Gary Burghoff",
+                     "role" : "Corporal Walter 'Radar' O'Reilly"
+                  },
+                  {
+                     "role" : "\"Trapper John\" McIntyre",
+                     "name" : "Wayne Rogers"
+                  },
+                  {
+                     "name" : "Larry Linville",
+                     "role" : "Major Franklin Marion Burns"
+                  },
+                  {
+                     "name" : "Timothy Brown",
+                     "role" : "Spearchucker Jones"
+                  },
+                  {
+                     "name" : "McLean Stevenson",
+                     "role" : "LTC Henry Blake"
+                  },
+                  {
+                     "name" : "William Christopher",
+                     "role" : "Father Mulcahey"
+                  },
+                  {
+                     "name" : "James Sikking"
+                  },
+                  {
+                     "name" : "Dennis Fimple"
+                  },
+                  {
+                     "name" : "Herb Voland",
+                     "role" : "Brigadier General Crandell Clayton"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "David Ketchum"
+                  },
+                  {
+                     "name" : "Bruce Shelley"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Comedy"
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Koreakrigen raser om \u00f8rerne p\u00e5 Benjamin \"Hawkeye\" Pierce og \"Trapper\" John McIntyre, der begge arbejder som l\u00e6ger p\u00e5 det mobile felthospital M*A*S*H 4077 (Mobile Army Surgical Hospital). Deres hverdag er benh\u00e5rd, men de klarer sig igennem r\u00e6dslerne ved at bevare at humoristisk syn p\u00e5 tilv\u00e6relsen, hvilket kaster et v\u00e6ld af drengestreger og absurde situationer af sig. Det er imidlertid ikke alle p\u00e5 4077, som deler deres humor, og det g\u00e6lder is\u00e6r Major Frank Burns, der er Hawkeye og Trappers yndlingsoffer. Burns fors\u00f8ger at holde de to l\u00e6ger i kort snor med hj\u00e6lp fra Oberst Sherman Potter og den kejtede radiooperat\u00f8r Radar, men det er naturligvis meget lettere sagt end gjort!"
+            },
+            "start" : "1522618200",
+            "title" : {
+               "da" : "M*A*S*H"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/918/season/1/episode/16"
+            ],
+            "new" : null,
+            "date" : "1973",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 15/24 .",
+               "onscreen" : "Afsnit 16 af 24 s\u00e6son 1"
+            },
+            "channel" : "canal9.dk",
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Jerry Mayer"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Jackie Cooper"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Hawkeye Pierce",
+                     "name" : "Alan Alda"
+                  },
+                  {
+                     "name" : "Loretta Swit",
+                     "role" : "Margaret Houlihan"
+                  },
+                  {
+                     "name" : "Jamie Farr",
+                     "role" : "Maxwell Klinger"
+                  },
+                  {
+                     "name" : "William Christopher",
+                     "role" : "Father Mulcahy"
+                  },
+                  {
+                     "role" : "Corporal Walter 'Radar' O'Reilly",
+                     "name" : "Gary Burghoff"
+                  },
+                  {
+                     "role" : "\"Trapper John\" McIntyre",
+                     "name" : "Wayne Rogers"
+                  },
+                  {
+                     "name" : "Larry Linville",
+                     "role" : "Major Franklin Marion Burns"
+                  },
+                  {
+                     "name" : "Timothy Brown",
+                     "role" : "Spearchucker Jones"
+                  },
+                  {
+                     "role" : "LTC Henry Blake",
+                     "name" : "McLean Stevenson"
+                  },
+                  {
+                     "name" : "Leslie Nielsen"
+                  }
+               ]
+            },
+            "stop" : "1522620300",
+            "subTitle" : {
+               "da" : "The ringbanger"
+            }
+         },
+         {
+            "stop" : "1522622700",
+            "subTitle" : {
+               "da" : "Sometimes you hear the bullet"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 17 af 24 s\u00e6son 1",
+               "xmltv_ns" : "0 . 16/24 ."
+            },
+            "channel" : "canal9.dk",
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Carl Kleinschmitt"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "William Wiard"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Alan Alda",
+                     "role" : "Hawkeye Pierce"
+                  },
+                  {
+                     "name" : "Loretta Swit",
+                     "role" : "Margaret Houlihan"
+                  },
+                  {
+                     "role" : "Maxwell Klinger",
+                     "name" : "Jamie Farr"
+                  },
+                  {
+                     "name" : "William Christopher",
+                     "role" : "Father Mulcahy"
+                  },
+                  {
+                     "name" : "Gary Burghoff",
+                     "role" : "Corporal Walter 'Radar' O'Reilly"
+                  },
+                  {
+                     "role" : "\"Trapper John\" McIntyre",
+                     "name" : "Wayne Rogers"
+                  },
+                  {
+                     "name" : "Larry Linville",
+                     "role" : "Major Franklin Marion Burns"
+                  },
+                  {
+                     "role" : "Spearchucker Jones",
+                     "name" : "Timothy Brown"
+                  },
+                  {
+                     "name" : "McLean Stevenson",
+                     "role" : "LTC Henry Blake"
+                  },
+                  {
+                     "name" : "John Orchard",
+                     "role" : "Ugly John"
+                  },
+                  {
+                     "name" : "Lynette Mettey"
+                  },
+                  {
+                     "name" : "James T. Callahan"
+                  },
+                  {
+                     "name" : "Ron Howard"
+                  },
+                  {
+                     "role" : "Father Mulcahey",
+                     "name" : "William Christopher"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Comedy"
+               ]
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/918/season/1/episode/17"
+            ],
+            "new" : null,
+            "date" : "1973",
+            "desc" : {
+               "da" : "Koreakrigen raser om \u00f8rerne p\u00e5 Benjamin \"Hawkeye\" Pierce og \"Trapper\" John McIntyre, der begge arbejder som l\u00e6ger p\u00e5 det mobile felthospital M*A*S*H 4077 (Mobile Army Surgical Hospital). Deres hverdag er benh\u00e5rd, men de klarer sig igennem r\u00e6dslerne ved at bevare at humoristisk syn p\u00e5 tilv\u00e6relsen, hvilket kaster et v\u00e6ld af drengestreger og absurde situationer af sig. Det er imidlertid ikke alle p\u00e5 4077, som deler deres humor, og det g\u00e6lder is\u00e6r Major Frank Burns, der er Hawkeye og Trappers yndlingsoffer. Burns fors\u00f8ger at holde de to l\u00e6ger i kort snor med hj\u00e6lp fra Oberst Sherman Potter og den kejtede radiooperat\u00f8r Radar, men det er naturligvis meget lettere sagt end gjort!"
+            },
+            "start" : "1522620300",
+            "title" : {
+               "da" : "M*A*S*H"
+            }
+         },
+         {
+            "channel" : "canal9.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 18 af 24 s\u00e6son 1",
+               "xmltv_ns" : "0 . 17/24 ."
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Larry Gelbart"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Jackie Cooper"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Alan Alda",
+                     "role" : "Hawkeye Pierce"
+                  },
+                  {
+                     "name" : "Loretta Swit",
+                     "role" : "Margaret Houlihan"
+                  },
+                  {
+                     "name" : "Jamie Farr",
+                     "role" : "Maxwell Klinger"
+                  },
+                  {
+                     "role" : "Father Mulcahy",
+                     "name" : "William Christopher"
+                  },
+                  {
+                     "name" : "Gary Burghoff",
+                     "role" : "Corporal Walter 'Radar' O'Reilly"
+                  },
+                  {
+                     "role" : "\"Trapper John\" McIntyre",
+                     "name" : "Wayne Rogers"
+                  },
+                  {
+                     "name" : "Larry Linville",
+                     "role" : "Major Franklin Marion Burns"
+                  },
+                  {
+                     "role" : "Spearchucker Jones",
+                     "name" : "Timothy Brown"
+                  },
+                  {
+                     "name" : "McLean Stevenson",
+                     "role" : "LTC Henry Blake"
+                  },
+                  {
+                     "role" : "Father Mulcahey",
+                     "name" : "William Christopher"
+                  },
+                  {
+                     "name" : "Alex Henteloff"
+                  },
+                  {
+                     "name" : "Odessa Cleveland",
+                     "role" : "Lieutenant Ginger Bayliss"
+                  },
+                  {
+                     "name" : "Jamie Farr"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Dear dad...again"
+            },
+            "stop" : "1522624800",
+            "desc" : {
+               "da" : "Koreakrigen raser om \u00f8rerne p\u00e5 Benjamin \"Hawkeye\" Pierce og \"Trapper\" John McIntyre, der begge arbejder som l\u00e6ger p\u00e5 det mobile felthospital M*A*S*H 4077 (Mobile Army Surgical Hospital). Deres hverdag er benh\u00e5rd, men de klarer sig igennem r\u00e6dslerne ved at bevare at humoristisk syn p\u00e5 tilv\u00e6relsen, hvilket kaster et v\u00e6ld af drengestreger og absurde situationer af sig. Det er imidlertid ikke alle p\u00e5 4077, som deler deres humor, og det g\u00e6lder is\u00e6r Major Frank Burns, der er Hawkeye og Trappers yndlingsoffer. Burns fors\u00f8ger at holde de to l\u00e6ger i kort snor med hj\u00e6lp fra Oberst Sherman Potter og den kejtede radiooperat\u00f8r Radar, men det er naturligvis meget lettere sagt end gjort!"
+            },
+            "start" : "1522622700",
+            "title" : {
+               "da" : "M*A*S*H"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/918/season/1/episode/18"
+            ],
+            "new" : null,
+            "date" : "1973"
+         },
+         {
+            "desc" : {
+               "da" : "Koreakrigen raser om \u00f8rerne p\u00e5 Benjamin \"Hawkeye\" Pierce og \"Trapper\" John McIntyre, der begge arbejder som l\u00e6ger p\u00e5 det mobile felthospital M*A*S*H 4077 (Mobile Army Surgical Hospital). Deres hverdag er benh\u00e5rd, men de klarer sig igennem r\u00e6dslerne ved at bevare at humoristisk syn p\u00e5 tilv\u00e6relsen, hvilket kaster et v\u00e6ld af drengestreger og absurde situationer af sig. Det er imidlertid ikke alle p\u00e5 4077, som deler deres humor, og det g\u00e6lder is\u00e6r Major Frank Burns, der er Hawkeye og Trappers yndlingsoffer. Burns fors\u00f8ger at holde de to l\u00e6ger i kort snor med hj\u00e6lp fra Oberst Sherman Potter og den kejtede radiooperat\u00f8r Radar, men det er naturligvis meget lettere sagt end gjort!"
+            },
+            "start" : "1522624800",
+            "title" : {
+               "da" : "M*A*S*H"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/918/season/1/episode/19"
+            ],
+            "new" : null,
+            "date" : "1973",
+            "channel" : "canal9.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 18/24 .",
+               "onscreen" : "Afsnit 19 af 24 s\u00e6son 1"
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Alan Alda",
+                     "role" : "Hawkeye Pierce"
+                  },
+                  {
+                     "role" : "Margaret Houlihan",
+                     "name" : "Loretta Swit"
+                  },
+                  {
+                     "name" : "Jamie Farr",
+                     "role" : "Maxwell Klinger"
+                  },
+                  {
+                     "name" : "William Christopher",
+                     "role" : "Father Mulcahy"
+                  },
+                  {
+                     "name" : "Gary Burghoff",
+                     "role" : "Corporal Walter 'Radar' O'Reilly"
+                  },
+                  {
+                     "name" : "Wayne Rogers",
+                     "role" : "\"Trapper John\" McIntyre"
+                  },
+                  {
+                     "role" : "Major Franklin Marion Burns",
+                     "name" : "Larry Linville"
+                  },
+                  {
+                     "name" : "Timothy Brown",
+                     "role" : "Spearchucker Jones"
+                  },
+                  {
+                     "role" : "LTC Henry Blake",
+                     "name" : "McLean Stevenson"
+                  },
+                  {
+                     "role" : "Father Mulcahey",
+                     "name" : "William Christopher"
+                  },
+                  {
+                     "name" : "Jamie Farr"
+                  },
+                  {
+                     "name" : "Joseph V. Perry"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "William Wiard"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Alan Alda"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "The long-john flap"
+            },
+            "stop" : "1522626600"
+         },
+         {
+            "stop" : "1522628700",
+            "subTitle" : {
+               "da" : "The army-navy game"
+            },
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Sid Dorfman"
+                  },
+                  {
+                     "name" : "McLean Stevenson"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Gene Reynolds"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Alan Alda",
+                     "role" : "Hawkeye Pierce"
+                  },
+                  {
+                     "role" : "Margaret Houlihan",
+                     "name" : "Loretta Swit"
+                  },
+                  {
+                     "role" : "Maxwell Klinger",
+                     "name" : "Jamie Farr"
+                  },
+                  {
+                     "role" : "Father Mulcahy",
+                     "name" : "William Christopher"
+                  },
+                  {
+                     "role" : "Corporal Walter 'Radar' O'Reilly",
+                     "name" : "Gary Burghoff"
+                  },
+                  {
+                     "role" : "\"Trapper John\" McIntyre",
+                     "name" : "Wayne Rogers"
+                  },
+                  {
+                     "role" : "Major Franklin Marion Burns",
+                     "name" : "Larry Linville"
+                  },
+                  {
+                     "name" : "Timothy Brown",
+                     "role" : "Spearchucker Jones"
+                  },
+                  {
+                     "role" : "LTC Henry Blake",
+                     "name" : "McLean Stevenson"
+                  },
+                  {
+                     "role" : "Father Mulcahey",
+                     "name" : "William Christopher"
+                  },
+                  {
+                     "name" : "Jamie Farr"
+                  },
+                  {
+                     "role" : "Ugly John",
+                     "name" : "John Orchard"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 20 af 24 s\u00e6son 1",
+               "xmltv_ns" : "0 . 19/24 ."
+            },
+            "channel" : "canal9.dk",
+            "date" : "1973",
+            "url" : [
+               "https://www.themoviedb.org/tv/918/season/1/episode/20"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "M*A*S*H"
+            },
+            "desc" : {
+               "da" : "Koreakrigen raser om \u00f8rerne p\u00e5 Benjamin \"Hawkeye\" Pierce og \"Trapper\" John McIntyre, der begge arbejder som l\u00e6ger p\u00e5 det mobile felthospital M*A*S*H 4077 (Mobile Army Surgical Hospital). Deres hverdag er benh\u00e5rd, men de klarer sig igennem r\u00e6dslerne ved at bevare at humoristisk syn p\u00e5 tilv\u00e6relsen, hvilket kaster et v\u00e6ld af drengestreger og absurde situationer af sig. Det er imidlertid ikke alle p\u00e5 4077, som deler deres humor, og det g\u00e6lder is\u00e6r Major Frank Burns, der er Hawkeye og Trappers yndlingsoffer. Burns fors\u00f8ger at holde de to l\u00e6ger i kort snor med hj\u00e6lp fra Oberst Sherman Potter og den kejtede radiooperat\u00f8r Radar, men det er naturligvis meget lettere sagt end gjort!"
+            },
+            "start" : "1522626600"
+         }
+      ]
+   }
+}

@@ -19,7 +19,7 @@ export default class ChannelsIconRender {
         channels.forEach(channel => {
             iconHtml += `
                     <div class="channelicon" data-img-for="${channel}" style="height:${this._app.responsive.programHeight}px;">
-                        <img src="../server/data/images/${channel}.png" width="40" height="40" >
+                        <img src="../images/${channel}.png" width="40" height="40" >
                     </div>`;
         });
 

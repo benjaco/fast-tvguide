@@ -1,0 +1,956 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "start" : "1532046300",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Hvor mange dyr, planter, fugle og svampe kan 15 eksperter finde i Svartingedal i l\u00f8bet af et d\u00f8gn? Det sp\u00f8rgsm\u00e5l svarer Fuglev\u00e6rnsfonden p\u00e5 under deres f\u00f8rste Bioblitz p\u00e5 Bornholm. Naturprogrammet Ekko f\u00f8lger med."
+            },
+            "title" : {
+               "da" : "EKKO - Bioblitz"
+            },
+            "channel" : "tv2bornholm.dk",
+            "stop" : "1532049000"
+         },
+         {
+            "stop" : "1532051100",
+            "new" : null,
+            "start" : "1532049000",
+            "channel" : "tv2bornholm.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "TV 2/Bornholms sprogleg, hvor to hold dyster om at g\u00e6tte hinandens ord fra det bornholmske ordlager."
+            },
+            "title" : {
+               "da" : "Sprogblomster"
+            }
+         },
+         {
+            "new" : null,
+            "start" : "1532051100",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Mens vi andre sover - Bageren"
+            },
+            "desc" : {
+               "da" : "I denne serie f\u00f8lger vi dem der arbejder, mens vi andre ligger trygt under dynen og sover. I dette program er vi taget p\u00e5 arbejde med bagersvend Rasmus Madsen, der arbejder hos Konditorbageren i R\u00f8nne."
+            },
+            "channel" : "tv2bornholm.dk",
+            "stop" : "1532052000"
+         },
+         {
+            "stop" : "1532053800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2bornholm.dk",
+            "title" : {
+               "da" : "Store \u00d8rreddag - De bedste \u00f8jeblikke"
+            },
+            "new" : null,
+            "start" : "1532052000"
+         },
+         {
+            "stop" : "1532059200",
+            "start" : "1532053800",
+            "new" : null,
+            "desc" : {
+               "da" : "Morten Top g\u00e5r p\u00e5 jagt efter \u00e5rets sidste insekter, som vi ser i november - men ogs\u00e5 de f\u00f8rste, der dukker op i februar. Se de vingel\u00f8se hunner i S\u00f8nderjylland og p\u00e5 Bornholm og fjerdrageren fra Sydsj\u00e6lland."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2bornholm.dk",
+            "title" : {
+               "da" : "Kryb og kravl: De f\u00f8rste og de sidste"
+            }
+         },
+         {
+            "stop" : "1532059800",
+            "new" : null,
+            "start" : "1532059200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2bornholm.dk",
+            "title" : {
+               "da" : "Nyheder"
+            }
+         },
+         {
+            "stop" : "1532062500",
+            "channel" : "tv2bornholm.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Mellem os i Sommerlandet"
+            },
+            "new" : null,
+            "start" : "1532059800"
+         },
+         {
+            "stop" : "1532064300",
+            "new" : null,
+            "start" : "1532062500",
+            "channel" : "tv2bornholm.dk",
+            "title" : {
+               "da" : "Bornholm knokler - Zurface"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 2",
+               "xmltv_ns" : ". 0/2 ."
+            },
+            "desc" : {
+               "da" : "Vi er p\u00e5 bes\u00f8g i Klippel\u00f8kken, der er et granitbrud i udkanten af R\u00f8nne. Her tager vi p\u00e5 arbejde med borebissen Jackie og kantstenshuggeren Knud Erik, som knokler med granitten i den bornholmske undergrund. Vi er p\u00e5 arbejde hos Zurface for her knokler man."
+            }
+         },
+         {
+            "channel" : "tv2bornholm.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Peter Falkenberg har altid v\u00e6ret glad for naturen og hans store passion er lystfiskeri. Men uanset om Peter fisker, surfer, g\u00e5r p\u00e5 jagt eller skyder med bue og pil, s\u00e5 g\u00e5r han meget op i sit grej og han vil kun have det bedste. Det han ikke kan k\u00f8be eller ikke synes er godt nok, det opfinder han selv - eller modificerer - p\u00e5 sit v\u00e6rksted. I tidens l\u00f8ber er det blevet til mange forbedringer og opfindelser. Og de er s\u00e5 gode, at han kan leve af dem. Og Peter Falkenberg har kunder over hele verden."
+            },
+            "title" : {
+               "da" : "Jagten p\u00e5 det bedste"
+            },
+            "start" : "1532064300",
+            "new" : null,
+            "stop" : "1532066400"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder"
+            },
+            "channel" : "tv2bornholm.dk",
+            "start" : "1532066400",
+            "new" : null,
+            "stop" : "1532067000"
+         },
+         {
+            "start" : "1532067000",
+            "new" : null,
+            "title" : {
+               "da" : "Mellem os i Sommerlandet"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2bornholm.dk",
+            "stop" : "1532069700"
+         },
+         {
+            "stop" : "1532071500",
+            "channel" : "tv2bornholm.dk",
+            "title" : {
+               "da" : "Bornholm knokler - Zurface"
+            },
+            "new" : null,
+            "start" : "1532069700",
+            "desc" : {
+               "da" : "Vi er p\u00e5 bes\u00f8g i Klippel\u00f8kken, der er et granitbrud i udkanten af R\u00f8nne. Her tager vi p\u00e5 arbejde med borebissen Jackie og kantstenshuggeren Knud Erik, som knokler med granitten i den bornholmske undergrund. Vi er p\u00e5 arbejde hos Zurface for her knokler man."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 2",
+               "xmltv_ns" : ". 0/2 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "stop" : "1532073300",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Peter Falkenberg har altid v\u00e6ret glad for naturen og hans store passion er lystfiskeri. Men uanset om Peter fisker, surfer, g\u00e5r p\u00e5 jagt eller skyder med bue og pil, s\u00e5 g\u00e5r han meget op i sit grej og han vil kun have det bedste. Det han ikke kan k\u00f8be eller ikke synes er godt nok, det opfinder han selv - eller modificerer - p\u00e5 sit v\u00e6rksted. I tidens l\u00f8ber er det blevet til mange forbedringer og opfindelser. Og de er s\u00e5 gode, at han kan leve af dem. Og Peter Falkenberg har kunder over hele verden."
+            },
+            "channel" : "tv2bornholm.dk",
+            "title" : {
+               "da" : "Jagten p\u00e5 det bedste"
+            },
+            "new" : null,
+            "start" : "1532071500"
+         },
+         {
+            "channel" : "tv2bornholm.dk",
+            "title" : {
+               "da" : "Vasagaard - stenalderens store mysterium"
+            },
+            "new" : null,
+            "start" : "1532073300",
+            "stop" : "1532075400",
+            "desc" : {
+               "da" : "Ved Vasag\u00e5rd p\u00e5 Sydbornholm arbejder ark\u00e6ologer med at udgrave en k\u00e6mpestor stenalderplads. Vi har fulgt dem gennem s\u00e6sonen 2017. P\u00e5 begge sider af L\u00e6s\u00e5en har der i landskabet ved Vasag\u00e5rd v\u00e6ret mystiske runde bygninger, lange r\u00e6kker af palisader og dybe grave, fyldt med knogler. Men hvad har det v\u00e6ret brugt til? Se med, n\u00e5r vi pr\u00f8ver at finde nogle svar i 2. afsnit af Vasag\u00e5rd - stenalderens store mysterium."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 1/3 .",
+               "onscreen" : "Afsnit 2 af 3"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder"
+            },
+            "channel" : "tv2bornholm.dk",
+            "new" : null,
+            "start" : "1532075400",
+            "stop" : "1532076000"
+         },
+         {
+            "start" : "1532076000",
+            "new" : null,
+            "title" : {
+               "da" : "Mellem os i Sommerlandet"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2bornholm.dk",
+            "stop" : "1532078700"
+         },
+         {
+            "stop" : "1532080500",
+            "new" : null,
+            "start" : "1532078700",
+            "channel" : "tv2bornholm.dk",
+            "title" : {
+               "da" : "Bornholm knokler - Zurface"
+            },
+            "desc" : {
+               "da" : "Vi er p\u00e5 bes\u00f8g i Klippel\u00f8kken, der er et granitbrud i udkanten af R\u00f8nne. Her tager vi p\u00e5 arbejde med borebissen Jackie og kantstenshuggeren Knud Erik, som knokler med granitten i den bornholmske undergrund. Vi er p\u00e5 arbejde hos Zurface for her knokler man."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/2 .",
+               "onscreen" : "Afsnit 1 af 2"
+            }
+         },
+         {
+            "stop" : "1532082300",
+            "desc" : {
+               "da" : "Peter Falkenberg har altid v\u00e6ret glad for naturen og hans store passion er lystfiskeri. Men uanset om Peter fisker, surfer, g\u00e5r p\u00e5 jagt eller skyder med bue og pil, s\u00e5 g\u00e5r han meget op i sit grej og han vil kun have det bedste. Det han ikke kan k\u00f8be eller ikke synes er godt nok, det opfinder han selv - eller modificerer - p\u00e5 sit v\u00e6rksted. I tidens l\u00f8ber er det blevet til mange forbedringer og opfindelser. Og de er s\u00e5 gode, at han kan leve af dem. Og Peter Falkenberg har kunder over hele verden."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2bornholm.dk",
+            "title" : {
+               "da" : "Jagten p\u00e5 det bedste"
+            },
+            "new" : null,
+            "start" : "1532080500"
+         },
+         {
+            "title" : {
+               "da" : "Vasagaard - stenalderens store mysterium"
+            },
+            "channel" : "tv2bornholm.dk",
+            "start" : "1532082300",
+            "new" : null,
+            "stop" : "1532084400",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Ved Vasag\u00e5rd p\u00e5 Sydbornholm arbejder ark\u00e6ologer med at udgrave en k\u00e6mpestor stenalderplads. Vi har fulgt dem gennem s\u00e6sonen 2017. P\u00e5 begge sider af L\u00e6s\u00e5en har der i landskabet ved Vasag\u00e5rd v\u00e6ret mystiske runde bygninger, lange r\u00e6kker af palisader og dybe grave, fyldt med knogler. Men hvad har det v\u00e6ret brugt til? Se med, n\u00e5r vi pr\u00f8ver at finde nogle svar i 2. afsnit af Vasag\u00e5rd - stenalderens store mysterium."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 1/3 .",
+               "onscreen" : "Afsnit 2 af 3"
+            }
+         },
+         {
+            "stop" : "1532086200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2bornholm.dk",
+            "desc" : {
+               "da" : "Lars Goldschmidt er nok mest kendt fra forretningsverdenen, men hans baggrund er ude p\u00e5 venstrefl\u00f8jen i dansk politik. Arbejde har altid fyldt rigtigt meget i hans liv, men nu er der ogs\u00e5 blevet tid og lyst til at hugge skulpturer i granit og renovere have og hus. Lars Goldschmidt er tilflytter, og han er overbevist om, at Bornholms fremtid ser lys ud - og at det er vigtigt at fokusere p\u00e5 alt det gode Bornholm har at byde p\u00e5."
+            },
+            "title" : {
+               "da" : "Stafetten - Lars\u00a0Goldschmidt"
+            },
+            "new" : null,
+            "start" : "1532084400"
+         },
+         {
+            "new" : null,
+            "start" : "1532086200",
+            "title" : {
+               "da" : "Corts nye hold"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Magnus Cort er skiftet til det kasakhiske storhold Astana. Den bornholmske cykelrytter har haft en god s\u00e6sonstart, og vi har fulgt ham til den belgiske \u00e5bningsweekend. Kom med bag om Corts start p\u00e5 Astana, n\u00e5r han k\u00f8rer Omloop Het Nieuwsblad og Kuurne-Bruxelles-Kuurne. Det bliver en weekend, der byder p\u00e5 dansk succes, \u00f8konomiske problemer og styrt."
+            },
+            "channel" : "tv2bornholm.dk",
+            "stop" : "1532088000"
+         },
+         {
+            "desc" : {
+               "da" : "Der er ca. 1500 arter m\u00f8l i Danmark. Vi skal m\u00f8de nogle af dem i tangtagene p\u00e5 L\u00e6s\u00f8 og andre p\u00e5 svaleurt p\u00e5 Neksel\u00f8 og andre i fyrregrene i Nordsj\u00e6lland - og en overraskelse i venter i en restaurant i Stubbek\u00f8bing."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Kryb og kravl: De meget sm\u00e5 med sk\u00e6l"
+            },
+            "channel" : "tv2bornholm.dk",
+            "new" : null,
+            "start" : "1532088000",
+            "stop" : "1532089800"
+         },
+         {
+            "start" : "1532089800",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "I hvert program bes\u00f8ger vi en r\u00e6kke forskellige museer og lader det v\u00e6re op til deres egne dygtige fort\u00e6llere at udv\u00e6lge og pr\u00e6sentere en r\u00e6kke uforudsigelige emner. Denne gang ser vi blandt andet p\u00e5 br\u00e6dder fra d\u00e6kningsgrav p\u00e5 de tyske skydebaner udenfor Holb\u00e6k, kyskhedsb\u00e6lter og om opfindelsen af t\u00e6nd-og sluk uret."
+            },
+            "title" : {
+               "da" : "Guld fra Gemmerne"
+            },
+            "channel" : "tv2bornholm.dk",
+            "stop" : "1532091480"
+         },
+         {
+            "start" : "1532091480",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2bornholm.dk",
+            "title" : {
+               "da" : "Vejret i aften"
+            },
+            "stop" : "1532091600"
+         },
+         {
+            "stop" : "1532093400",
+            "new" : null,
+            "start" : "1532091600",
+            "title" : {
+               "da" : "Billeddetektiverne"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "I denne udgave af Billeddetektiverne l\u00e6gger vi ud med at se en lille kortfilm fra Tejn Havn, hvor fiskerne tager ud for at fiske sild. Havnefoged Tom Nielsen fort\u00e6ller ind over optagelserne, der stammer fra 50erne."
+            },
+            "channel" : "tv2bornholm.dk"
+         },
+         {
+            "start" : "1532093400",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Kryb og kravl: Skadevoldere"
+            },
+            "desc" : {
+               "da" : "M\u00f8l i uld er velkendt, men vore kastanjetr\u00e6er er truede af et m\u00f8l, og en helt ny trussel mod vore buksbom-buske er netop fundet p\u00e5 Sj\u00e6lland og harlekin-marieh\u00f8nen fortr\u00e6nger de kendte arter."
+            },
+            "channel" : "tv2bornholm.dk",
+            "stop" : "1532095200"
+         },
+         {
+            "stop" : "1532097000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Mester og m\u00e6ndene"
+            },
+            "channel" : "tv2bornholm.dk",
+            "start" : "1532095200",
+            "new" : null
+         },
+         {
+            "stop" : "1532098800",
+            "new" : null,
+            "start" : "1532097000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2bornholm.dk",
+            "desc" : {
+               "da" : "Jeanette Baunkj\u00e6r er \u00e6gte Sandvigbo. Hun har boet i byen hele sit liv med en enkelt afstikker til Allinge i et par \u00e5r. Hun har de sidste \u00e5r uddannet sig til bedemand, og har startet sin egen forretning."
+            },
+            "title" : {
+               "da" : "Stafetten - Jeanette Baunkj\u00e6r"
+            }
+         },
+         {
+            "stop" : "1532099040",
+            "start" : "1532098800",
+            "new" : null,
+            "channel" : "tv2bornholm.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder"
+            }
+         },
+         {
+            "stop" : "1532099100",
+            "channel" : "tv2bornholm.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Vejret i morgen"
+            },
+            "new" : null,
+            "start" : "1532099040"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Sporvognene i \u00d8stermarie 4. del"
+            },
+            "desc" : {
+               "da" : "I fem \u00e5r har Jesper Reinfeldt og hans team af frivillige restaureret sporvogne i BAFs gamle haller i \u00d8stermarie. Og i dette program f\u00f8lger vi de f\u00f8rste to f\u00e6rdige sporvogne p\u00e5 turen tilbage til Sporvejsmuseet Skjolden\u00e6sholm p\u00e5 Sj\u00e6lland."
+            },
+            "channel" : "tv2bornholm.dk",
+            "new" : null,
+            "start" : "1532099100",
+            "stop" : "1532100720"
+         },
+         {
+            "desc" : {
+               "da" : "Bornholm har de senere \u00e5r set et opsving af lokale f\u00f8devareproducenter. I Spis din \u00d8 bes\u00f8ger vi producenterne, fort\u00e6ller deres historie og laver mad af deres r\u00e5varer. Mad man nemt kan lave derhjemme. Maden bliver tilberedt ude i den bornholmske natur, hvor vi f\u00e5r bes\u00f8g af en g\u00e6st, der fort\u00e6ller historier fra omr\u00e5det."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 1/4 .",
+               "onscreen" : "Afsnit 2 af 4"
+            },
+            "start" : "1532100720",
+            "new" : null,
+            "title" : {
+               "da" : "Spis din \u00d8"
+            },
+            "channel" : "tv2bornholm.dk",
+            "stop" : "1532102400"
+         },
+         {
+            "stop" : "1532102640",
+            "new" : null,
+            "start" : "1532102400",
+            "channel" : "tv2bornholm.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2bornholm.dk",
+            "title" : {
+               "da" : "Vejret i morgen"
+            },
+            "start" : "1532102640",
+            "new" : null,
+            "stop" : "1532102700"
+         },
+         {
+            "desc" : {
+               "da" : "\u00c5rets f\u00f8rste Ekko ser tilbage p\u00e5 nogle af de bedste historier og oplevelser i naturen fra det forgangne \u00e5r. Se eller gense hvad den kunstige \u00f8 Peberhholmen byder p\u00e5 af natur, status p\u00e5 den aldrende europ\u00e6iske skildpadde i Paradisbakkerne, og hvordan vi fik fuglenes konge, hav\u00f8rnen, til Bornholm som ynglefugl."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2bornholm.dk",
+            "title" : {
+               "da" : "EKKO"
+            },
+            "start" : "1532102700",
+            "new" : null,
+            "stop" : "1532105400"
+         },
+         {
+            "stop" : "1532106000",
+            "start" : "1532105400",
+            "new" : null,
+            "channel" : "tv2bornholm.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Gr\u00f8nbechs G\u00e5rds leder Mai \u00d8rsted viser sit yndlingssted p\u00e5 Bornholm frem."
+            },
+            "title" : {
+               "da" : "Mit Bornholm - Mai \u00d8rsted"
+            }
+         },
+         {
+            "stop" : "1532107800",
+            "desc" : {
+               "da" : "For\u00e5ret\u00a0er\u00a0kendt\u00a0for\u00a0at\u00a0safterne\u00a0stiger,\u00a0men\u00a0uden\u00a0efter\u00e5ret\u00a0ville\u00a0intet\u00a0ske\u00a0n\u00e5r\u00a0g\u00f8gen\u00a0kukker\u00a0og\u00a0solen\u00a0vender\u00a0tilbage.\u00a0I\u00a0efter\u00e5ret\u00a0er\u00a0der\u00a0virkelig\u00a0noget\u00a0p\u00e5\u00a0spil\u00a0for\u00a0det\u00a0er\u00a0nu\u00a0der\u00a0skal\u00a0investeres\u00a0i\u00a0fremtiden."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2bornholm.dk",
+            "title" : {
+               "da" : "Det ford\u00f8mte efter\u00e5r: Den\u00a0tikkende\u00a0bombe"
+            },
+            "start" : "1532106000",
+            "new" : null
+         },
+         {
+            "new" : null,
+            "start" : "1532107800",
+            "title" : {
+               "da" : "Nyheder"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2bornholm.dk",
+            "stop" : "1532108340"
+         },
+         {
+            "stop" : "1532108400",
+            "start" : "1532108340",
+            "new" : null,
+            "title" : {
+               "da" : "Vejret i morgen"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2bornholm.dk"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Mellem os i Sommerlandet"
+            },
+            "channel" : "tv2bornholm.dk",
+            "start" : "1532108400",
+            "new" : null,
+            "stop" : "1532111100"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "P\u00e5\u00a0Rab\u00e6kken\u00a0i\u00a0R\u00f8nne\u00a0ligger\u00a0Zurface.\u00a0Her\u00a0bearbejder\u00a0man\u00a0meget\u00a0af\u00a0den\u00a0granit,\u00a0der\u00a0hentes\u00a0op\u00a0istenbruddene\u00a0rundt\u00a0om\u00a0p\u00e5\u00a0\u00f8en.\u00a0I\u00a0dette\u00a0afsnit\u00a0af\u00a0Bornholm\u00a0Knokler\u00a0br\u00e6nder,\u00a0hugger\u00a0og\u00a0sk\u00e6rer\u00a0vi\u00a0os\u00a0igennem\u00a0den\u00a0bornholmske\u00a0granit\u00a0og\u00a0arbejder\u00a0p\u00e5\u00a0en\u00a0kantsten,\u00a0som\u00a0gerne\u00a0en\u00a0dag\u00a0skal\u00a0finde\u00a0sin\u00a0vej\u00a0ud\u00a0i\u00a0virkeligheden."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 1/2 .",
+               "onscreen" : "Afsnit 2 af 2"
+            },
+            "stop" : "1532113080",
+            "channel" : "tv2bornholm.dk",
+            "title" : {
+               "da" : "Bornholm knokler - Zurface"
+            },
+            "new" : null,
+            "start" : "1532111100"
+         },
+         {
+            "stop" : "1532113200",
+            "start" : "1532113080",
+            "new" : null,
+            "channel" : "tv2bornholm.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Vejret i morgen"
+            }
+         },
+         {
+            "stop" : "1532114700",
+            "title" : {
+               "da" : "P\u00e5 b\u00f8lgel\u00e6ngde med hele verden"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "I dag er det en selvf\u00f8lge at komme i kontakt med hele verden via mobiltelefon og emails. Men for radioamat\u00f8rerne er det en sport at m\u00f8des med andre p\u00e5 den samme frekvens. Og jo l\u00e6ngere, man kan r\u00e6kke med sit sendeudstyr, jo bedre. Vi tager p\u00e5 bes\u00f8g hos Svend Erik Kofod i R\u00f8nne for at lytte med, n\u00e5r han er p\u00e5 b\u00f8lgel\u00e6ngde med hele verden."
+            },
+            "channel" : "tv2bornholm.dk",
+            "start" : "1532113200",
+            "new" : null
+         },
+         {
+            "stop" : "1532116800",
+            "start" : "1532114700",
+            "new" : null,
+            "title" : {
+               "da" : "Vasagaard - stenalderens store mysterium"
+            },
+            "channel" : "tv2bornholm.dk",
+            "desc" : {
+               "da" : "Ved Vasag\u00e5rd p\u00e5 Sydbornholm arbejder ark\u00e6ologer med at udgrave en k\u00e6mpestor stenalderplads. Vi har fulgt dem gennem hele 2017. Bornholms Museum venter denne gang fint bes\u00f8g p\u00e5 s\u00e6sonens udgravninger, for dronningen kommer forbi. Se, hvordan det g\u00e5r i 3. afsnit af Vasag\u00e5rd - stenalderens store mysterium."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 2/3 .",
+               "onscreen" : "Afsnit 3 af 3"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder"
+            },
+            "channel" : "tv2bornholm.dk",
+            "new" : null,
+            "start" : "1532116800",
+            "stop" : "1532117340"
+         },
+         {
+            "channel" : "tv2bornholm.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Vejret i morgen"
+            },
+            "new" : null,
+            "start" : "1532117340",
+            "stop" : "1532117400"
+         },
+         {
+            "stop" : "1532120100",
+            "title" : {
+               "da" : "Mellem os i Sommerlandet"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2bornholm.dk",
+            "new" : null,
+            "start" : "1532117400"
+         },
+         {
+            "desc" : {
+               "da" : "P\u00e5\u00a0Rab\u00e6kken\u00a0i\u00a0R\u00f8nne\u00a0ligger\u00a0Zurface.\u00a0Her\u00a0bearbejder\u00a0man\u00a0meget\u00a0af\u00a0den\u00a0granit,\u00a0der\u00a0hentes\u00a0op\u00a0istenbruddene\u00a0rundt\u00a0om\u00a0p\u00e5\u00a0\u00f8en.\u00a0I\u00a0dette\u00a0afsnit\u00a0af\u00a0Bornholm\u00a0Knokler\u00a0br\u00e6nder,\u00a0hugger\u00a0og\u00a0sk\u00e6rer\u00a0vi\u00a0os\u00a0igennem\u00a0den\u00a0bornholmske\u00a0granit\u00a0og\u00a0arbejder\u00a0p\u00e5\u00a0en\u00a0kantsten,\u00a0som\u00a0gerne\u00a0en\u00a0dag\u00a0skal\u00a0finde\u00a0sin\u00a0vej\u00a0ud\u00a0i\u00a0virkeligheden."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 2",
+               "xmltv_ns" : ". 1/2 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1532120100",
+            "new" : null,
+            "channel" : "tv2bornholm.dk",
+            "title" : {
+               "da" : "Bornholm knokler - Zurface"
+            },
+            "stop" : "1532121900"
+         },
+         {
+            "desc" : {
+               "da" : "I dag er det en selvf\u00f8lge at komme i kontakt med hele verden via mobiltelefon og emails. Men for radioamat\u00f8rerne er det en sport at m\u00f8des med andre p\u00e5 den samme frekvens. Og jo l\u00e6ngere, man kan r\u00e6kke med sit sendeudstyr, jo bedre. Vi tager p\u00e5 bes\u00f8g hos Svend Erik Kofod i R\u00f8nne for at lytte med, n\u00e5r han er p\u00e5 b\u00f8lgel\u00e6ngde med hele verden."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "P\u00e5 b\u00f8lgel\u00e6ngde med hele verden"
+            },
+            "channel" : "tv2bornholm.dk",
+            "start" : "1532121900",
+            "new" : null,
+            "stop" : "1532124000"
+         },
+         {
+            "stop" : "1532124600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2bornholm.dk",
+            "title" : {
+               "da" : "Nyheder"
+            },
+            "start" : "1532124000",
+            "new" : null
+         },
+         {
+            "title" : {
+               "da" : "Mellem os i Sommerlandet"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2bornholm.dk",
+            "start" : "1532124600",
+            "new" : null,
+            "stop" : "1532127300"
+         },
+         {
+            "new" : null,
+            "start" : "1532127300",
+            "title" : {
+               "da" : "Bornholm knokler - Zurface"
+            },
+            "channel" : "tv2bornholm.dk",
+            "stop" : "1532129100",
+            "desc" : {
+               "da" : "P\u00e5\u00a0Rab\u00e6kken\u00a0i\u00a0R\u00f8nne\u00a0ligger\u00a0Zurface.\u00a0Her\u00a0bearbejder\u00a0man\u00a0meget\u00a0af\u00a0den\u00a0granit,\u00a0der\u00a0hentes\u00a0op\u00a0istenbruddene\u00a0rundt\u00a0om\u00a0p\u00e5\u00a0\u00f8en.\u00a0I\u00a0dette\u00a0afsnit\u00a0af\u00a0Bornholm\u00a0Knokler\u00a0br\u00e6nder,\u00a0hugger\u00a0og\u00a0sk\u00e6rer\u00a0vi\u00a0os\u00a0igennem\u00a0den\u00a0bornholmske\u00a0granit\u00a0og\u00a0arbejder\u00a0p\u00e5\u00a0en\u00a0kantsten,\u00a0som\u00a0gerne\u00a0en\u00a0dag\u00a0skal\u00a0finde\u00a0sin\u00a0vej\u00a0ud\u00a0i\u00a0virkeligheden."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 2",
+               "xmltv_ns" : ". 1/2 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "stop" : "1532130900",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "I dag er det en selvf\u00f8lge at komme i kontakt med hele verden via mobiltelefon og emails. Men for radioamat\u00f8rerne er det en sport at m\u00f8des med andre p\u00e5 den samme frekvens. Og jo l\u00e6ngere, man kan r\u00e6kke med sit sendeudstyr, jo bedre. Vi tager p\u00e5 bes\u00f8g hos Svend Erik Kofod i R\u00f8nne for at lytte med, n\u00e5r han er p\u00e5 b\u00f8lgel\u00e6ngde med hele verden."
+            },
+            "channel" : "tv2bornholm.dk",
+            "title" : {
+               "da" : "P\u00e5 b\u00f8lgel\u00e6ngde med hele verden"
+            },
+            "start" : "1532129100",
+            "new" : null
+         },
+         {
+            "stop" : "1532132700",
+            "new" : null,
+            "start" : "1532130900",
+            "title" : {
+               "da" : "Vasagaard - stenalderens store mysterium"
+            },
+            "channel" : "tv2bornholm.dk",
+            "desc" : {
+               "da" : "Ved Vasag\u00e5rd p\u00e5 Sydbornholm arbejder ark\u00e6ologer med at udgrave en k\u00e6mpestor stenalderplads. Vi har fulgt dem gennem hele 2017. Bornholms Museum venter denne gang fint bes\u00f8g p\u00e5 s\u00e6sonens udgravninger, for dronningen kommer forbi. Se, hvordan det g\u00e5r i 3. afsnit af Vasag\u00e5rd - stenalderens store mysterium."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 2/3 .",
+               "onscreen" : "Afsnit 3 af 3"
+            }
+         }
+      ]
+   }
+}

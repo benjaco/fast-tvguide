@@ -1,0 +1,991 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "rating" : {
+               "stars" : "8.1 / 9"
+            },
+            "channel" : "bbcentertainment.dk",
+            "title" : {
+               "da" : "8 Out of 10 Cats"
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=79556&seasonid=31144&id=356132&lid=10"
+            ],
+            "date" : "2005",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 s\u00e6son 2",
+               "xmltv_ns" : "1 . 4 .",
+               "thetvdb.com" : "series/79556"
+            },
+            "desc" : {
+               "da" : "To hold frygtl\u00f8se kendisser dyster for at se, hvem der har st\u00f8rst forst\u00e5else for, hvad der virkelig r\u00f8rer sig i Storbritannien i dag. G\u00e6sterne er bl.a. Les Dennis og Frankie Boyle."
+            },
+            "subTitle" : {
+               "da" : "Frankie Boyle, Les Dennis, Krishnan Guru-Murthy, Chantelle Houghton"
+            },
+            "stop" : "1522458900",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Chris Howe"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Dan Gaster"
+                  },
+                  {
+                     "name" : "Shaun Pye"
+                  },
+                  {
+                     "name" : "Frankie Boyle"
+                  },
+                  {
+                     "name" : "Charlie Brooker"
+                  },
+                  {
+                     "name" : "Ben Caudell"
+                  },
+                  {
+                     "name" : "Rob Colley"
+                  },
+                  {
+                     "name" : "Aiden Spackman"
+                  },
+                  {
+                     "name" : "Charlie Skelton"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Himself - Voiceover",
+                     "name" : "John Pohlhammer"
+                  },
+                  {
+                     "role" : "Himself - Team Captain",
+                     "name" : "Dave Spikey"
+                  },
+                  {
+                     "name" : "Aisling Bea",
+                     "role" : "Herself - Team Captain"
+                  },
+                  {
+                     "role" : "Himself - Team Captain",
+                     "name" : "Jon Richardson"
+                  },
+                  {
+                     "role" : "Himself - Team Captain",
+                     "name" : "Rob Beckett"
+                  },
+                  {
+                     "name" : "Jason Manford",
+                     "role" : "Himself - Team Captain"
+                  },
+                  {
+                     "role" : "Himself - Team Captain",
+                     "name" : "Sean Lock"
+                  },
+                  {
+                     "name" : "Jimmy Carr",
+                     "role" : "Himself - Host"
+                  },
+                  {
+                     "name" : "Frankie Boyle"
+                  },
+                  {
+                     "name" : "Les Dennis"
+                  },
+                  {
+                     "name" : "Krishnan Guru-Murthy"
+                  },
+                  {
+                     "name" : "Chantelle Houghton"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy",
+                  "Gameshow"
+               ]
+            },
+            "start" : "1522457400"
+         },
+         {
+            "rating" : {
+               "stars" : "8.1 / 9"
+            },
+            "channel" : "bbcentertainment.dk",
+            "title" : {
+               "da" : "8 Out of 10 Cats"
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=79556&seasonid=31144&id=356133&lid=10"
+            ],
+            "date" : "2005",
+            "episodeNum" : {
+               "thetvdb.com" : "series/79556",
+               "xmltv_ns" : "1 . 5 .",
+               "onscreen" : "Afsnit 6 s\u00e6son 2"
+            },
+            "desc" : {
+               "da" : "To hold frygtl\u00f8se kendisser dyster for at se, hvem der har st\u00f8rst forst\u00e5else for, hvad der r\u00f8rer sig i Storbritannien i dag. G\u00e6sterne er bl.a. Lauren Laverne og Christian Slater."
+            },
+            "subTitle" : {
+               "da" : "Lauren Laverne, Rob Rouse, Christian Slater, Johnny Vegas"
+            },
+            "start" : "1522458900",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "John Pohlhammer",
+                     "role" : "Himself - Voiceover"
+                  },
+                  {
+                     "name" : "Dave Spikey",
+                     "role" : "Himself - Team Captain"
+                  },
+                  {
+                     "role" : "Herself - Team Captain",
+                     "name" : "Aisling Bea"
+                  },
+                  {
+                     "name" : "Jon Richardson",
+                     "role" : "Himself - Team Captain"
+                  },
+                  {
+                     "name" : "Rob Beckett",
+                     "role" : "Himself - Team Captain"
+                  },
+                  {
+                     "name" : "Jason Manford",
+                     "role" : "Himself - Team Captain"
+                  },
+                  {
+                     "name" : "Sean Lock",
+                     "role" : "Himself - Team Captain"
+                  },
+                  {
+                     "name" : "Jimmy Carr",
+                     "role" : "Himself - Host"
+                  },
+                  {
+                     "name" : "Lauren Laverne"
+                  },
+                  {
+                     "name" : "Rob Rouse"
+                  },
+                  {
+                     "name" : "Christian Slater"
+                  },
+                  {
+                     "name" : "Johnny Vegas"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Dan Gaster"
+                  },
+                  {
+                     "name" : "Shaun Pye"
+                  },
+                  {
+                     "name" : "Frankie Boyle"
+                  },
+                  {
+                     "name" : "Charlie Brooker"
+                  },
+                  {
+                     "name" : "Ben Caudell"
+                  },
+                  {
+                     "name" : "Rob Colley"
+                  },
+                  {
+                     "name" : "Aiden Spackman"
+                  },
+                  {
+                     "name" : "Charlie Skelton"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Chris Howe"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy",
+                  "Gameshow"
+               ]
+            },
+            "stop" : "1522460400"
+         },
+         {
+            "new" : null,
+            "stop" : "1522463100",
+            "start" : "1522460400",
+            "title" : {
+               "da" : "Jon Richardson: Funny Magnet"
+            },
+            "desc" : {
+               "da" : "Den prisbel\u00f8nnede komiker og forfatter Jon Richardson udsolgte show p\u00e5 Apollo i London er en fest for de akut observerende og generelt surrealistisk komedie."
+            },
+            "channel" : "bbcentertainment.dk"
+         },
+         {
+            "channel" : "bbcentertainment.dk",
+            "title" : {
+               "da" : "Pointless"
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=192351&seasonid=471769&id=4151136&lid=10"
+            ],
+            "date" : "2009",
+            "episodeNum" : {
+               "thetvdb.com" : "series/192351",
+               "onscreen" : "Afsnit 18 s\u00e6son 4",
+               "xmltv_ns" : "3 . 17 ."
+            },
+            "desc" : {
+               "da" : "Quiz, hvor deltagerne skal score f\u00e6rrest muligt point ved at finde svar, som ingen andre har t\u00e6nkt p\u00e5."
+            },
+            "subTitle" : {
+               "da" : "Episode 128"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Gameshow"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Co-Presenter",
+                     "name" : "Richard Osman"
+                  },
+                  {
+                     "role" : "Presenter",
+                     "name" : "Alexander Armstrong"
+                  }
+               ],
+               "presenter" : [
+                  {
+                     "name" : "Alexander Armstrong"
+                  },
+                  {
+                     "name" : "Richard Osman"
+                  }
+               ]
+            },
+            "stop" : "1522465800",
+            "start" : "1522463100"
+         },
+         {
+            "rating" : {
+               "stars" : "7.4 / 9"
+            },
+            "date" : "2007",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=80660&seasonid=730924&id=6412216&lid=10"
+            ],
+            "title" : {
+               "da" : "The Graham Norton Show"
+            },
+            "channel" : "bbcentertainment.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy",
+                  "Talk"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Host",
+                     "name" : "Graham Norton"
+                  }
+               ],
+               "presenter" : [
+                  {
+                     "name" : "Graham Norton"
+                  }
+               ]
+            },
+            "start" : "1522465800",
+            "stop" : "1522468800",
+            "subTitle" : {
+               "da" : "Sir Elton John, Stephen Fry, Carey Mulligan, Robbie Williams, Pink"
+            },
+            "desc" : {
+               "da" : "Graham Norton pr\u00e6senterer et livligt chatshow med Sir Elton John, Stephen Fry, Carey Mulligan, Robbie Williams og Pink."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "21 . 8 .",
+               "onscreen" : "Afsnit 9 s\u00e6son 22",
+               "thetvdb.com" : "series/80660"
+            }
+         },
+         {
+            "channel" : "bbcentertainment.dk",
+            "title" : {
+               "da" : "Louis Theroux: Law and Disorder in Lagos"
+            },
+            "new" : null,
+            "date" : "2010",
+            "desc" : {
+               "da" : "Louis Theroux er i Lagos, en by, der \u00e6ndrer sig s\u00e5 hurtigt, at lov og orden har sv\u00e6rt ved at holde trit med befolkningen."
+            },
+            "start" : "1522468800",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Jason Massot"
+                  }
+               ]
+            },
+            "stop" : "1522471800"
+         },
+         {
+            "stop" : "1522475100",
+            "credits" : {
+               "presenter" : [
+                  {
+                     "name" : "Louis Theroux"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Emma Cooper"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "start" : "1522471800",
+            "subTitle" : {
+               "da" : "Serie 1, Afsinit 1"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "I Miami County Jail opdager Louis en s\u00e6r f\u00e6ngselskultur, hvor m\u00e6nd k\u00e6mper om maden, status eller bare for at f\u00e5 tiden til at g\u00e5."
+            },
+            "date" : "2011",
+            "new" : null,
+            "title" : {
+               "da" : "Louis Theroux: Miami Mega-Jail"
+            },
+            "channel" : "bbcentertainment.dk"
+         },
+         {
+            "new" : null,
+            "date" : "2011",
+            "channel" : "bbcentertainment.dk",
+            "title" : {
+               "da" : "Louis Theroux: Miami Mega-Jail"
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Emma Cooper"
+                  }
+               ],
+               "presenter" : [
+                  {
+                     "name" : "Louis Theroux"
+                  }
+               ]
+            },
+            "start" : "1522475100",
+            "stop" : "1522478100",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Louis m\u00f8der en 14-\u00e5rig dreng, der st\u00e5r til ti \u00e5r bag tremmer, hvis han ikke overlever et brutalt tr\u00e6nings- og indoktrineringsprogram."
+            },
+            "subTitle" : {
+               "da" : "Serie 1, Afsinit 2"
+            }
+         },
+         {
+            "new" : null,
+            "credits" : {
+               "presenter" : [
+                  {
+                     "name" : "Louis Theroux"
+                  }
+               ]
+            },
+            "stop" : "1522481400",
+            "start" : "1522478100",
+            "title" : {
+               "da" : "Louis Theroux: America's Medicated Kids"
+            },
+            "desc" : {
+               "da" : "Der er flere b\u00f8rn og unge p\u00e5 piller end nogensinde f\u00f8r, s\u00e5 Louis Theroux ser p\u00e5 gr\u00e6nsen mellem psykiatriske lidelser og markante personligheder."
+            },
+            "channel" : "bbcentertainment.dk"
+         },
+         {
+            "channel" : "bbcentertainment.dk",
+            "title" : {
+               "da" : "Louis Theroux: By Reason of Insanity"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=328387&seasonid=711765&id=6086835&lid=10"
+            ],
+            "new" : null,
+            "date" : "2016",
+            "desc" : {
+               "da" : "Louis fordyber sig i Ohios mentalhospitaler og m\u00f8der patienter, der har beg\u00e5et nogle h\u00e6sligt voldelige forbrydelser."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 .",
+               "thetvdb.com" : "series/328387"
+            },
+            "subTitle" : {
+               "da" : "Part 1"
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Jamie Pickup"
+                  }
+               ],
+               "presenter" : [
+                  {
+                     "name" : "Louis Theroux"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Louis Theroux"
+                  }
+               ]
+            },
+            "stop" : "1522484700",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Mini",
+                  "Reality"
+               ]
+            },
+            "start" : "1522481400"
+         },
+         {
+            "date" : "2008",
+            "new" : null,
+            "title" : {
+               "da" : "Louis Theroux: Behind Bars"
+            },
+            "channel" : "bbcentertainment.dk",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Stuart Cabb"
+                  }
+               ],
+               "presenter" : [
+                  {
+                     "name" : "Louis Theroux"
+                  }
+               ]
+            },
+            "stop" : "1522487700",
+            "start" : "1522484700",
+            "desc" : {
+               "da" : "Louis bes\u00f8ger et af USA's berygtede f\u00e6ngsler. San Quentin er gennemsyret af folklore, men Louis afsl\u00f8rer den barske virkelighed bag tremmer."
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Louis Theroux er i Lagos, en by, der \u00e6ndrer sig s\u00e5 hurtigt, at lov og orden har sv\u00e6rt ved at holde trit med befolkningen."
+            },
+            "stop" : "1522491000",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Jason Massot"
+                  }
+               ]
+            },
+            "start" : "1522487700",
+            "title" : {
+               "da" : "Louis Theroux: Law and Disorder in Lagos"
+            },
+            "channel" : "bbcentertainment.dk",
+            "date" : "2010",
+            "new" : null
+         },
+         {
+            "new" : null,
+            "date" : "2011",
+            "channel" : "bbcentertainment.dk",
+            "title" : {
+               "da" : "Louis Theroux: Miami Mega-Jail"
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Emma Cooper"
+                  }
+               ],
+               "presenter" : [
+                  {
+                     "name" : "Louis Theroux"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "start" : "1522491000",
+            "stop" : "1522494000",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "I Miami County Jail opdager Louis en s\u00e6r f\u00e6ngselskultur, hvor m\u00e6nd k\u00e6mper om maden, status eller bare for at f\u00e5 tiden til at g\u00e5."
+            },
+            "subTitle" : {
+               "da" : "Serie 1, Afsinit 1"
+            }
+         },
+         {
+            "start" : "1522494000",
+            "credits" : {
+               "presenter" : [
+                  {
+                     "name" : "Louis Theroux"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Emma Cooper"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "stop" : "1522497300",
+            "desc" : {
+               "da" : "Louis m\u00f8der en 14-\u00e5rig dreng, der st\u00e5r til ti \u00e5r bag tremmer, hvis han ikke overlever et brutalt tr\u00e6nings- og indoktrineringsprogram."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 1"
+            },
+            "subTitle" : {
+               "da" : "Serie 1, Afsinit 2"
+            },
+            "new" : null,
+            "date" : "2011",
+            "channel" : "bbcentertainment.dk",
+            "title" : {
+               "da" : "Louis Theroux: Miami Mega-Jail"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Der er flere b\u00f8rn og unge p\u00e5 piller end nogensinde f\u00f8r, s\u00e5 Louis Theroux ser p\u00e5 gr\u00e6nsen mellem psykiatriske lidelser og markante personligheder."
+            },
+            "channel" : "bbcentertainment.dk",
+            "title" : {
+               "da" : "Louis Theroux: America's Medicated Kids"
+            },
+            "new" : null,
+            "credits" : {
+               "presenter" : [
+                  {
+                     "name" : "Louis Theroux"
+                  }
+               ]
+            },
+            "start" : "1522497300",
+            "stop" : "1522500300"
+         },
+         {
+            "date" : "2016",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=328387&seasonid=711765&id=6086835&lid=10"
+            ],
+            "title" : {
+               "da" : "Louis Theroux: By Reason of Insanity"
+            },
+            "channel" : "bbcentertainment.dk",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Louis Theroux"
+                  }
+               ],
+               "presenter" : [
+                  {
+                     "name" : "Louis Theroux"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Jamie Pickup"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Mini",
+                  "Reality"
+               ]
+            },
+            "start" : "1522500300",
+            "stop" : "1522503600",
+            "subTitle" : {
+               "da" : "Part 1"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/328387",
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "desc" : {
+               "da" : "Louis fordyber sig i Ohios mentalhospitaler og m\u00f8der patienter, der har beg\u00e5et nogle h\u00e6sligt voldelige forbrydelser."
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Louis bes\u00f8ger et af USA's berygtede f\u00e6ngsler. San Quentin er gennemsyret af folklore, men Louis afsl\u00f8rer den barske virkelighed bag tremmer."
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Stuart Cabb"
+                  }
+               ],
+               "presenter" : [
+                  {
+                     "name" : "Louis Theroux"
+                  }
+               ]
+            },
+            "stop" : "1522506600",
+            "start" : "1522503600",
+            "title" : {
+               "da" : "Louis Theroux: Behind Bars"
+            },
+            "channel" : "bbcentertainment.dk",
+            "date" : "2008",
+            "new" : null
+         },
+         {
+            "stop" : "1522509900",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Jason Massot"
+                  }
+               ]
+            },
+            "start" : "1522506600",
+            "desc" : {
+               "da" : "Louis Theroux er i Lagos, en by, der \u00e6ndrer sig s\u00e5 hurtigt, at lov og orden har sv\u00e6rt ved at holde trit med befolkningen."
+            },
+            "new" : null,
+            "date" : "2010",
+            "channel" : "bbcentertainment.dk",
+            "title" : {
+               "da" : "Louis Theroux: Law and Disorder in Lagos"
+            }
+         },
+         {
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Emma Cooper"
+                  }
+               ],
+               "presenter" : [
+                  {
+                     "name" : "Louis Theroux"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "stop" : "1522512900",
+            "start" : "1522509900",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "desc" : {
+               "da" : "I Miami County Jail opdager Louis en s\u00e6r f\u00e6ngselskultur, hvor m\u00e6nd k\u00e6mper om maden, status eller bare for at f\u00e5 tiden til at g\u00e5."
+            },
+            "subTitle" : {
+               "da" : "Serie 1, Afsinit 1"
+            },
+            "new" : null,
+            "date" : "2011",
+            "channel" : "bbcentertainment.dk",
+            "title" : {
+               "da" : "Louis Theroux: Miami Mega-Jail"
+            }
+         },
+         {
+            "date" : "2011",
+            "new" : null,
+            "title" : {
+               "da" : "Louis Theroux: Miami Mega-Jail"
+            },
+            "channel" : "bbcentertainment.dk",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Emma Cooper"
+                  }
+               ],
+               "presenter" : [
+                  {
+                     "name" : "Louis Theroux"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "start" : "1522512900",
+            "stop" : "1522516200",
+            "subTitle" : {
+               "da" : "Serie 1, Afsinit 2"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "xmltv_ns" : "0 . 1 ."
+            },
+            "desc" : {
+               "da" : "Louis m\u00f8der en 14-\u00e5rig dreng, der st\u00e5r til ti \u00e5r bag tremmer, hvis han ikke overlever et brutalt tr\u00e6nings- og indoktrineringsprogram."
+            }
+         },
+         {
+            "channel" : "bbcentertainment.dk",
+            "desc" : {
+               "da" : "Der er flere b\u00f8rn og unge p\u00e5 piller end nogensinde f\u00f8r, s\u00e5 Louis Theroux ser p\u00e5 gr\u00e6nsen mellem psykiatriske lidelser og markante personligheder."
+            },
+            "title" : {
+               "da" : "Louis Theroux: America's Medicated Kids"
+            },
+            "new" : null,
+            "credits" : {
+               "presenter" : [
+                  {
+                     "name" : "Louis Theroux"
+                  }
+               ]
+            },
+            "start" : "1522516200",
+            "stop" : "1522519500"
+         },
+         {
+            "title" : {
+               "da" : "Louis Theroux: By Reason of Insanity"
+            },
+            "channel" : "bbcentertainment.dk",
+            "date" : "2016",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=328387&seasonid=711765&id=6086835&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "Part 1"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/328387",
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "desc" : {
+               "da" : "Louis fordyber sig i Ohios mentalhospitaler og m\u00f8der patienter, der har beg\u00e5et nogle h\u00e6sligt voldelige forbrydelser."
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Louis Theroux"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Jamie Pickup"
+                  }
+               ],
+               "presenter" : [
+                  {
+                     "name" : "Louis Theroux"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Mini",
+                  "Reality"
+               ]
+            },
+            "start" : "1522519500",
+            "stop" : "1522522800"
+         },
+         {
+            "channel" : "bbcentertainment.dk",
+            "title" : {
+               "da" : "Love and Hate Crime"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=341310&seasonid=747461&id=6508603&lid=10"
+            ],
+            "new" : null,
+            "date" : "2018",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "thetvdb.com" : "series/341310"
+            },
+            "desc" : {
+               "da" : "I Mississippi bliver den smukke transseksuelle teenager Mercedes Williamson dr\u00e6bt af sin k\u00e6reste, Josh, der er bandemedlem. Josh bliver id\u00f8mt livstid, og en r\u00e6kke samtaler afsl\u00f8rer sandheden bag hans forhold til Mercedes."
+            },
+            "subTitle" : {
+               "da" : "Double Lives"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1522525800",
+            "start" : "1522522800"
+         },
+         {
+            "episodeNum" : {
+               "thetvdb.com" : "series/341310",
+               "xmltv_ns" : "0 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Da en sort mand myrdes i Jackson, Mississippi, afsl\u00f8rer FBI's efterforskning en r\u00e6kke angreb, som de lokale hvide st\u00e5r bag. Vi f\u00f8lger historien om en af morderne, 18-\u00e5rige Sarah Graves, da hendes familie pr\u00f8ver at forst\u00e5, hvad hun gjorde og hvorfor."
+            },
+            "subTitle" : {
+               "da" : "Murder in Mississippi"
+            },
+            "start" : "1522525800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1522529100",
+            "channel" : "bbcentertainment.dk",
+            "title" : {
+               "da" : "Love and Hate Crime"
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=341310&seasonid=747461&id=6508604&lid=10"
+            ],
+            "date" : "2018"
+         },
+         {
+            "subTitle" : {
+               "da" : "Killer with a Camera"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/341310",
+               "xmltv_ns" : "0 . 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Adrian Loya planlagde mordet p\u00e5 Lisa Trubnikova i m\u00e5nedsvis. Vi viser hans egne uhyggelige optagelser af den n\u00f8je planl\u00e6gning og selve mordet. Vi ser ogs\u00e5 juryens votering om, hvorvidt han var utilregnelig i gernings\u00f8jeblikket."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1522532400",
+            "start" : "1522529100",
+            "title" : {
+               "da" : "Love and Hate Crime"
+            },
+            "channel" : "bbcentertainment.dk",
+            "date" : "2018",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=341310&seasonid=747461&id=6508607&lid=10"
+            ],
+            "new" : null
+         },
+         {
+            "new" : null,
+            "channel" : "bbcentertainment.dk",
+            "title" : {
+               "da" : "One Deadly Weekend in America"
+            },
+            "stop" : "1522555200",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "start" : "1522532400",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "desc" : {
+               "da" : "Del 2/2 Dokumentar med historier om de unge liv, der \u00f8del\u00e6gges af USA's v\u00e5benvold. Vi ser p\u00e5 en almindelig sommerweekend, der typisk er den tid p\u00e5 \u00e5ret, hvor flest amerikanere bliver skudt og dr\u00e6bt."
+            },
+            "subTitle" : {
+               "da" : "Serie 1, Afsinit 1"
+            }
+         }
+      ]
+   }
+}

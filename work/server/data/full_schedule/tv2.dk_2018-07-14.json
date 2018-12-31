@@ -1,0 +1,604 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "date" : "1987",
+            "stop" : "1531535400",
+            "country" : [
+               "US"
+            ],
+            "start" : "1531528800",
+            "new" : null,
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Robert Garland"
+                  },
+                  {
+                     "name" : "Laura Ziskin"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Roger Donaldson"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Robert Garland"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Lt. Cmdr. Tom Farrell",
+                     "name" : "Kevin Costner"
+                  },
+                  {
+                     "name" : "Gene Hackman",
+                     "role" : "Defense Secretary David Brice"
+                  },
+                  {
+                     "role" : "Susan Atwell",
+                     "name" : "Sean Young"
+                  },
+                  {
+                     "name" : "Will Patton",
+                     "role" : "Scott Pritchard"
+                  },
+                  {
+                     "role" : "Senator William 'Billy' Duvall",
+                     "name" : "Howard Duff"
+                  },
+                  {
+                     "role" : "Sam Hesselman",
+                     "name" : "George Dzundza"
+                  },
+                  {
+                     "role" : "Major Donovan",
+                     "name" : "Jason Bernard"
+                  },
+                  {
+                     "role" : "Nina Beka",
+                     "name" : "Iman"
+                  },
+                  {
+                     "role" : "CIA Director Marshall",
+                     "name" : "Fred Dalton Thompson"
+                  },
+                  {
+                     "role" : "Kevin O'Brien",
+                     "name" : "Leon Russom"
+                  },
+                  {
+                     "name" : "David Paymer",
+                     "role" : "Computer Technician"
+                  },
+                  {
+                     "role" : "Bellboy",
+                     "name" : "Matthew Barry"
+                  },
+                  {
+                     "role" : "background extra (uncredited)",
+                     "name" : "Brad Pitt"
+                  }
+               ]
+            },
+            "channel" : "tv2.dk",
+            "title" : {
+               "da" : "Ingen vej tilbage"
+            },
+            "rating" : {
+               "stars" : "7 / 10"
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/10083"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Drama",
+                  "Thriller"
+               ]
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/10083"
+            },
+            "desc" : {
+               "da" : "Kaptajnl\u00f8jtnant Farrell (Kevin Costner) f\u00e5r sit livs v\u00e6rste opgave, da forsvarsministeren (Gene Hackman) beder ham iv\u00e6rks\u00e6tte en omfattende menneskejagt p\u00e5 en formodet morder. For Farrell ved, at den efters\u00f8gte er uskyldig. Men ministeren h\u00e6vder, at det drejer sig om en russisk spion, som Farrell nu f\u00e5r 48 timer til at opspore og tilintetg\u00f8re."
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Efter at have lavet lidt for mange numre, har den lille ballademager B\u00f8lle-Bob f\u00e5et Politimester Quist som oppasser. Men da han opdager, at borgmesteren og skoleinspekt\u00f8r Friis vil lukke byens skole for at spare penge, f\u00e5r han andet at t\u00e6nke p\u00e5 end gale streger. B\u00f8lle-Bob l\u00e6gger en plan, der g\u00e5r ud p\u00e5 at redde skolen ved at s\u00e6tte en musical op sammen med sine venner og den gamle rockmusiker Valde. Ved hj\u00e6lp af uforglemmelig musik vil B\u00f8lle-Bob s\u00f8rge, for at alle bliver s\u00e5 glade for skolen, at borgmesteren ikke t\u00f8r lukke den. Filmen bygger p\u00e5 Gunnar Geertsens 'B\u00f8lle Bob'-univers."
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Movies"
+               ]
+            },
+            "new" : null,
+            "start" : "1531535400",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Regner Grasten"
+                  },
+                  {
+                     "name" : "",
+                     "role" : "John Stefan Olsen baseret p\u00e5 Gunnar Geertsens B\u00f8lle Bob-univers. Instruktion: Martin Schmidt. Programkoder"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "B\u00f8lle Bob",
+                     "name" : "Thomas Norgreen Nielsen"
+                  },
+                  {
+                     "name" : "Julia Wentzel Olsen",
+                     "role" : "Lise Mette"
+                  },
+                  {
+                     "role" : "Politimester Quist: Tommy Kenter. TV 2-redakt\u00f8r",
+                     "name" : "Anders Leifer"
+                  }
+               ]
+            },
+            "channel" : "tv2.dk",
+            "title" : {
+               "da" : "Bob Bob B\u00f8lle-Bob - alle tiders helt"
+            },
+            "date" : "2010",
+            "stop" : "1531540800"
+         },
+         {
+            "channel" : "tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyhederne og Vejret"
+            },
+            "start" : "1531540800",
+            "new" : null,
+            "stop" : "1531544400",
+            "date" : "2018"
+         },
+         {
+            "date" : "2018",
+            "stop" : "1531548600",
+            "new" : null,
+            "start" : "1531544400",
+            "channel" : "tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyhederne og Vejret"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Tv-v\u00e6rten Mikkel Beha Erichsen og hans familie er taget p\u00e5 en eventyrlig jordomrejse om bord p\u00e5 skibet Havana. De er n\u00e5et til den spanske ferie\u00f8 Tenerife, og nu venter Atlanterhavet og Det Caribiske Hav. Mikkel bliver bekymret for sine s\u00f8nner Emil og Theis, da han er n\u00f8dt til at rejse tilbage til Danmark for at passe sit job p\u00e5 'Go' morgen Danmark', og de m\u00e5 sejle videre alene over det store ocean. Det viser sig, at der er god grund til bekymringen. Drengene er ikke n\u00e5et langt, f\u00f8r de m\u00f8der et uhyggeligt skibsvrag ude midt p\u00e5 det \u00e5bne hav. Er der skibsbrudne ombord?"
+            },
+            "date" : "2014",
+            "stop" : "1531552200",
+            "new" : null,
+            "start" : "1531548600",
+            "title" : {
+               "da" : "Kurs mod fjerne kyster"
+            },
+            "channel" : "tv2.dk"
+         },
+         {
+            "date" : "2014",
+            "stop" : "1531555800",
+            "start" : "1531552200",
+            "new" : null,
+            "channel" : "tv2.dk",
+            "title" : {
+               "da" : "Kurs mod fjerne kyster"
+            },
+            "desc" : {
+               "da" : "Den eventyrlige s\u00f8rejse har bragt Mikkel Beha Erichsen og sejlerfamilien til Caribien. Mikkel tager p\u00e5 opdagelse i Venezuelas hovedstad, Caracas, som er et af de farligste steder i verden. Her bes\u00f8ger han en familie i et af byens slumkvarterer, hvor mord er hverdagskost. Imens sejler s\u00f8nnerne, Emil p\u00e5 23 og Theis p\u00e5 20, over piratfyldt farvand for at komme til \u00f8gruppen Los Roques, hvor familien samles igen. Fortl\u00f8bende episodenummer: 3:8"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Tv-v\u00e6rt Mikkel Beha Erichsen og familien sejler til den caribiske \u00f8 Bonaire. \u00d8en er omgivet af et koralrev, der g\u00f8r den til et sandt dykkerparadis. Familiens yngste medlem, Alfred, har endnu ikke et dykkercertifikat, men heldigvis er storebror Emil uddannet dykkerinstrukt\u00f8r og l\u00e6rer sin lillebror den \u00e6dle kunst. Biolog Anders Kofoed p\u00e5m\u00f8nstrer ogs\u00e5 Havana, og han har masser af sjove historier om koralrevets mange sp\u00e6ndende beboere. Mikkel, Anders og drengene tager et dyk om natten, og det bliver deres livs dyk. De kommer nemlig helt t\u00e6t p\u00e5 en af revets helt store j\u00e6gere, der er p\u00e5 rov efter f\u00f8de. Fortl\u00f8bende episodenummer: 4:8"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1531559700",
+            "date" : "2014",
+            "title" : {
+               "da" : "Kurs mod fjerne kyster"
+            },
+            "channel" : "tv2.dk",
+            "new" : null,
+            "start" : "1531555800"
+         },
+         {
+            "start" : "1531559700",
+            "new" : null,
+            "title" : {
+               "da" : "Tour de France: Studiet"
+            },
+            "channel" : "tv2.dk",
+            "date" : "2018",
+            "stop" : "1531561500",
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Sports"
+               ]
+            },
+            "desc" : {
+               "da" : "Michael St\u00e6rke har g\u00e6ster i studiet, og sammen giver de en update p\u00e5 de vigtigste begivenheder, og hvad der er i vente i Tour de France. De f\u00e5r ogs\u00e5 sidste nyt og analyser fra TV 2s kommentatorer og reportere direkte fra Tour-ruten. Find altid resultater, analyser og nyheder p\u00e5 tv2sport.dk."
+            }
+         },
+         {
+            "start" : "1531561500",
+            "new" : null,
+            "title" : {
+               "da" : "Tour de France: 8. etape"
+            },
+            "channel" : "tv2.dk",
+            "date" : "2018",
+            "stop" : "1531576200",
+            "desc" : {
+               "da" : "Dagens etape i Tour de France er en forholdsvis flad sprinteretape, der g\u00e5r gennem det nordlige Frankrig og ender i den historiske by Amiens. Cykelfans vil genkende dele af ruten fra den h\u00e5rde endagsklassiker Paris-Roubaix, der bliver k\u00f8rt p\u00e5 nogle af samme veje."
+            },
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Sports"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Tour de France 2018"
+            }
+         },
+         {
+            "date" : "2018",
+            "stop" : "1531579800",
+            "start" : "1531576200",
+            "new" : null,
+            "channel" : "tv2.dk",
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Sports"
+               ]
+            },
+            "title" : {
+               "da" : "FIFA VM 2018: Bronzekampen,"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Morten Ankerdal fort\u00e6ller om seneste nyt og viser m\u00e5l og afg\u00f8rende \u00f8jeblikke fra FIFA VM 2018 i Rusland. Sammen med eksperter i studiet vender han kampe, der er spillet, og kampe, der skal spilles, og f\u00e5r rapporter ind fra TV 2s udsendte ved VM i Rusland. Husk at oversigten over, hvilke kampe TV 2 sender, altid kan ses p\u00e5 vm.tv2.dk, hvor der ogs\u00e5 er resultater, analyser og masser af levende billeder fra FIFA VM 2018. P\u00e5 TV 2 PLAY kan man se samtlige kampe fra verdensmesterskaberne i b\u00e5de fuld l\u00e6ngde og i sammendrag med de afg\u00f8rende \u00f8jeblikke."
+            },
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Sports"
+               ]
+            },
+            "new" : null,
+            "start" : "1531579800",
+            "channel" : "tv2.dk",
+            "title" : {
+               "da" : "FIFA VM 2018: Studiet"
+            },
+            "date" : "2018",
+            "stop" : "1531580100"
+         },
+         {
+            "start" : "1531580100",
+            "new" : null,
+            "title" : {
+               "da" : "FIFA VM 2018: Bronzekampen,"
+            },
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Sports"
+               ]
+            },
+            "channel" : "tv2.dk",
+            "date" : "2018",
+            "stop" : "1531584900"
+         },
+         {
+            "title" : {
+               "da" : "Regionale nyheder"
+            },
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "channel" : "tv2.dk",
+            "start" : "1531584900",
+            "new" : null,
+            "stop" : "1531585500",
+            "date" : "2018"
+         },
+         {
+            "date" : "2018",
+            "stop" : "1531585800",
+            "start" : "1531585500",
+            "new" : null,
+            "title" : {
+               "da" : "Dit sommervejr"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "tv2.dk"
+         },
+         {
+            "channel" : "tv2.dk",
+            "title" : {
+               "da" : "FIFA VM 2018: Studiet"
+            },
+            "new" : null,
+            "start" : "1531585800",
+            "stop" : "1531587600",
+            "date" : "2018",
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Sports"
+               ]
+            },
+            "desc" : {
+               "da" : "Morten Ankerdal fort\u00e6ller om seneste nyt og viser m\u00e5l og afg\u00f8rende \u00f8jeblikke fra FIFA VM 2018 i Rusland. Sammen med eksperter i studiet vender han kampe, der er spillet, og kampe, der skal spilles, og f\u00e5r rapporter ind fra TV 2s udsendte ved VM i Rusland. Husk at oversigten over, hvilke kampe TV 2 sender, altid kan ses p\u00e5 vm.tv2.dk, hvor der ogs\u00e5 er resultater, analyser og masser af levende billeder fra FIFA VM 2018. P\u00e5 TV 2 PLAY kan man se samtlige kampe fra verdensmesterskaberne i b\u00e5de fuld l\u00e6ngde og i sammendrag med de afg\u00f8rende \u00f8jeblikke."
+            }
+         },
+         {
+            "stop" : "1531589400",
+            "date" : "2018",
+            "title" : {
+               "da" : "Nyhederne"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2.dk",
+            "new" : null,
+            "start" : "1531587600"
+         },
+         {
+            "stop" : "1531590300",
+            "date" : "2018",
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "title" : {
+               "da" : "Regionalprogram"
+            },
+            "channel" : "tv2.dk",
+            "new" : null,
+            "start" : "1531589400"
+         },
+         {
+            "start" : "1531590300",
+            "new" : null,
+            "channel" : "tv2.dk",
+            "title" : {
+               "da" : "FIFA VM 2018: Studiet"
+            },
+            "date" : "2018",
+            "stop" : "1531591200",
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Sports"
+               ]
+            },
+            "desc" : {
+               "da" : "Morten Ankerdal fort\u00e6ller om seneste nyt og viser m\u00e5l og afg\u00f8rende \u00f8jeblikke fra FIFA VM 2018 i Rusland. Sammen med eksperter i studiet vender han kampe, der er spillet, og kampe, der skal spilles, og f\u00e5r rapporter ind fra TV 2s udsendte ved VM i Rusland. Husk at oversigten over, hvilke kampe TV 2 sender, altid kan ses p\u00e5 vm.tv2.dk, hvor der ogs\u00e5 er resultater, analyser og masser af levende billeder fra FIFA VM 2018. P\u00e5 TV 2 PLAY kan man se samtlige kampe fra verdensmesterskaberne i b\u00e5de fuld l\u00e6ngde og i sammendrag med de afg\u00f8rende \u00f8jeblikke."
+            }
+         },
+         {
+            "date" : "2016",
+            "stop" : "1531594800",
+            "start" : "1531591200",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Niels Olsen"
+                  },
+                  {
+                     "name" : "Christian Fuhlendorff"
+                  },
+                  {
+                     "name" : "Andreas Bo"
+                  },
+                  {
+                     "name" : "Lise Baastrup"
+                  },
+                  {
+                     "name" : "Lasse Rimmer"
+                  },
+                  {
+                     "name" : "Martin Brygmann",
+                     "role" : "Carsten Bang. V\u00e6rt"
+                  }
+               ]
+            },
+            "channel" : "tv2.dk",
+            "title" : {
+               "da" : "Rundt p\u00e5 gulvet"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "desc" : {
+               "da" : "Kan man lave fornuftig impro, n\u00e5r man skal spille en giraf og en abe p\u00e5 Anholt? Er det virkelig Grumme Gorm, der har lavet den nye skolereform? Og hvilken James Bond-joke fra Niels Olsen kan f\u00e5 Andreas Bo til at kn\u00e6kke sammen af grin? Det og meget mere f\u00e5r du svar p\u00e5, n\u00e5r Martin Brygmann inviterer indenfor til leg og sjove impro-udfordringer med Niels Olsen, Christian Fuhlendorff, Andreas Bo, Lise Baastrup og de to g\u00e6stekomikere Carsten Bang og Lasse Rimmer."
+            }
+         },
+         {
+            "date" : "2009",
+            "stop" : "1531601400",
+            "new" : null,
+            "start" : "1531594800",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Mark Lawrence"
+                  }
+               ]
+            },
+            "channel" : "tv2.dk",
+            "title" : {
+               "da" : "Did You Hear About the Morgans?"
+            },
+            "desc" : {
+               "da" : "Paul og Meryl Morgan bor i New York og har masser af succes i deres arbejdsliv, men deres \u00e6gteskab er ved at g\u00e5 i stykker. Da de en aften er vidner til et gangstermord, m\u00e5 de g\u00e5 i et vidnebeskyttelsesprogram og g\u00e5r under jorden langt ude p\u00e5 landet i Wyoming. Kan den friske luft, de manglende mobiltelefoner og en periode uden stress, hj\u00e6lpe dem med at finde sig selv - og hinanden igen?"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Movies"
+               ]
+            }
+         },
+         {
+            "stop" : "1531607700",
+            "date" : "2006",
+            "channel" : "tv2.dk",
+            "title" : {
+               "da" : "The Lake House"
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Anders Leifer",
+                     "role" : "Alejandro Agresti. TV 2-redakt\u00f8r"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Anders Leifer",
+                     "role" : "David Auburn. Instruktion: Alejandro Agresti. TV 2-redakt\u00f8r"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Keanu Reeves",
+                     "role" : "Alex Wyler"
+                  },
+                  {
+                     "name" : "Sandra Bullock",
+                     "role" : "Kate Forster"
+                  },
+                  {
+                     "role" : "Simon Wyler: Christopher Plummer. TV 2-redakt\u00f8r",
+                     "name" : "Anders Leifer"
+                  }
+               ]
+            },
+            "new" : null,
+            "start" : "1531601400",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Movies"
+               ]
+            },
+            "desc" : {
+               "da" : "Da l\u00e6gen Kate Forster flytter fra sit hus, begynder hun at skrive sammen med husets nye beboer, arkitekten Alex Wyler - breve, der hurtigt tager en romantisk drejning. De to ensomme sj\u00e6le finder hurtigt ud af, at de er som skabt for hinanden - problemet er bare, at de lader til at leve i to forskellige tidsregninger. Vil det nogen sinde lykkes dem at m\u00f8des? Og hvad ville der ske, hvis de gjorde? En genindspilning af den koreanske film 'Il mare'."
+            }
+         },
+         {
+            "date" : "2007",
+            "stop" : "1531613400",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "David McHugh"
+                  },
+                  {
+                     "name" : "Scott Marshall",
+                     "role" : "Matthew Flanagan Instruktion"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Katie",
+                     "name" : "Jessica Simpson"
+                  },
+                  {
+                     "role" : "Ben",
+                     "name" : "Luke Wilson"
+                  },
+                  {
+                     "role" : "Haley",
+                     "name" : "Rachel Leigh Cook"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Scott Marshall"
+                  }
+               ]
+            },
+            "new" : null,
+            "start" : "1531607700",
+            "channel" : "tv2.dk",
+            "title" : {
+               "da" : "Blonde Ambition"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Movies"
+               ]
+            },
+            "desc" : {
+               "da" : "Smukke Katie (Jessica Simpson) tager fra en lille i Oklahoma til New York, hvor hun skal m\u00f8des med sin forlovede Billy (Drew Fuller), men da hun finder ham i armene p\u00e5 en anden kvinde, beslutter hun sig for at dumpe ham. Hun bliver i storbyen, og f\u00e5r job i et byggefirma, hvor hun forelsker sig i den fantastiske Ben (Luke Wilson). Tingene g\u00e5r godt, men s\u00e5 kommer hun p\u00e5 kollisionskurs med de to udspekulerede kolleger Freddy og Debra (Andy Dick og Penelope Ann Miller), der fors\u00f8ger at overtage det firma, hvor hun arbejder."
+            }
+         }
+      ]
+   }
+}

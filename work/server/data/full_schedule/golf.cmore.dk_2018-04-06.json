@@ -1,0 +1,66 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "date" : "2018",
+            "desc" : {
+               "da" : "Genudsendelse af kampen fra 25/3."
+            },
+            "start" : "1522994400",
+            "channel" : "golf.cmore.dk",
+            "title" : {
+               "da" : "Golf: PGA TOUR (DK)"
+            },
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Golf"
+               ]
+            },
+            "new" : "0",
+            "stop" : "1523012400"
+         },
+         {
+            "stop" : "1523048400",
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Golf"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Golf: PGA TOUR (DK): Valspar Championship"
+            },
+            "title" : {
+               "da" : "Golf: PGA TOUR (DK)"
+            },
+            "desc" : {
+               "da" : "Genudsendelse af kampen fra 11/3."
+            },
+            "start" : "1523012400",
+            "channel" : "golf.cmore.dk",
+            "date" : "2018"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Golf"
+               ]
+            },
+            "new" : "0",
+            "stop" : "1523077200",
+            "date" : "2018",
+            "channel" : "golf.cmore.dk",
+            "desc" : {
+               "da" : "Genudsendelse af kampen fra 21/1."
+            },
+            "start" : "1523048400",
+            "title" : {
+               "da" : "Golf: PGA TOUR (DK)"
+            }
+         }
+      ]
+   }
+}

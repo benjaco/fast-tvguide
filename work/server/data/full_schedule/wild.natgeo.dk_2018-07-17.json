@@ -1,0 +1,1044 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "title" : {
+               "da" : "Dyrenes kampklub"
+            },
+            "start" : "1531785900",
+            "channel" : "wild.natgeo.dk",
+            "previously_shown" : "wild.natgeo.dk|2018-01-06 16:10:00",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "subTitle" : {
+               "da" : "En pludselig d\u00f8d"
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2016",
+            "stop" : "1531788900",
+            "country" : [
+               "UK"
+            ],
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 5/6 .",
+               "onscreen" : "Afsnit 6 af 6 s\u00e6son 4"
+            },
+            "new" : "0",
+            "desc" : {
+               "da" : "Se, hvad der sker, n\u00e5r dyr k\u00e6mper med n\u00e6b og kl\u00f8r i de mest d\u00f8delige opg\u00f8r."
+            }
+         },
+         {
+            "stop" : "1531791600",
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 1",
+               "xmltv_ns" : ". 0/1 ."
+            },
+            "desc" : {
+               "da" : "Dyr sl\u00e5s af mange grunde, men prim\u00e6rt for at sikre deres territorier, mager og m\u00e5ltider, og til dette form\u00e5l har alle deres egne v\u00e5ben og midler."
+            },
+            "title" : {
+               "da" : "Fight club for dyr"
+            },
+            "channel" : "wild.natgeo.dk",
+            "start" : "1531788900",
+            "previously_shown" : "wild.natgeo.dk|2018-02-18 13:05:00",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Fight club for dyr"
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2014"
+         },
+         {
+            "stop" : "1531794300",
+            "country" : [
+               "US"
+            ],
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 af 5 s\u00e6son 1",
+               "xmltv_ns" : "0 . 3/5 ."
+            },
+            "desc" : {
+               "da" : "Fra lavlandets enge til h\u00f8jdetoppene i Rocky Moutains, er livet forskelligartet og modstandsdygtigt. Dyrene her har masser af udfordringer."
+            },
+            "title" : {
+               "da" : "Smukke Amerika: Det m\u00e6gtige nordvest"
+            },
+            "start" : "1531791600",
+            "channel" : "wild.natgeo.dk",
+            "subTitle" : {
+               "da" : "I skyggen af Rocky Mountains"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-07-15 16:00:00",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2018"
+         },
+         {
+            "desc" : {
+               "da" : "Land of Lakes er et frodigt rige af skov og v\u00e5domr\u00e5der - men om vinteren domineres det af sne og is."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 1",
+               "xmltv_ns" : "0 . 2 .",
+               "thetvdb.com" : "series/342167"
+            },
+            "new" : "0",
+            "country" : [
+               "US"
+            ],
+            "stop" : "1531797300",
+            "date" : "2018",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-05-10 09:40:00",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Land of 10,000 Lakes"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=342167&seasonid=749872&id=6532747&lid=7"
+            ],
+            "channel" : "wild.natgeo.dk",
+            "start" : "1531794300",
+            "title" : {
+               "da" : "Smukke Amerika: Det vilde gr\u00e6nseomr\u00e5de"
+            }
+         },
+         {
+            "date" : "2016",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Magtkampe"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-01-06 15:25:00",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "start" : "1531797300",
+            "channel" : "wild.natgeo.dk",
+            "title" : {
+               "da" : "Dyrenes kampklub"
+            },
+            "desc" : {
+               "da" : "Se en hunleopard k\u00e6mpe med en st\u00f8rre han om sin frokost, og se hvordan en nilvaran kan lave sin hale om til et imponerende v\u00e5ben."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 4/6 .",
+               "onscreen" : "Afsnit 5 af 6 s\u00e6son 4"
+            },
+            "new" : "0",
+            "country" : [
+               "UK"
+            ],
+            "stop" : "1531800000"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2016",
+            "title" : {
+               "da" : "Livets kamp"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=309116&seasonid=660494&id=5554460&lid=7"
+            ],
+            "channel" : "wild.natgeo.dk",
+            "start" : "1531800000",
+            "subTitle" : {
+               "da" : "Natural Warriors"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-01-26 05:00:00",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "thetvdb.com" : "series/309116",
+               "xmltv_ns" : "0 . 4 .",
+               "onscreen" : "Afsnit 5 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Hanner og hunner i nogle arter k\u00e6mper voldsomt. Selvom de normalt ikke fors\u00f8ger at sl\u00e5 hinanden ihjel, kan kampene f\u00f8re til d\u00f8den."
+            },
+            "stop" : "1531801500"
+         },
+         {
+            "start" : "1531801500",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=309116&seasonid=660494&id=5554461&lid=7"
+            ],
+            "channel" : "wild.natgeo.dk",
+            "subTitle" : {
+               "da" : "Run Like The Wind"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-01-26 05:25:00",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "title" : {
+               "da" : "Livets kamp"
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2016",
+            "stop" : "1531803000",
+            "desc" : {
+               "da" : "Med rovdyr, der altid er p\u00e5 jagt efter mad, skal byttet altid v\u00e6re p\u00e5 vagt. Forsvarsmekanismer \u00f8ger deres chance for at overleve."
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/309116",
+               "xmltv_ns" : "0 . 5 .",
+               "onscreen" : "Afsnit 6 s\u00e6son 1"
+            },
+            "new" : "0"
+         },
+         {
+            "desc" : {
+               "da" : "En kamp mellem havets giganter udk\u00e6mpet p\u00e5 de afsidesliggende slagmarker ved \u00f8en Ascension. Tunfiskene er ofte hurtigere, st\u00f8rre og i bedre form end hajerne."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/1 .",
+               "onscreen" : "Afsnit 1 af 1"
+            },
+            "new" : "0",
+            "country" : [
+               "US"
+            ],
+            "stop" : "1531805700",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2018",
+            "start" : "1531803000",
+            "channel" : "wild.natgeo.dk",
+            "subTitle" : {
+               "da" : "Haj mod tun"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-07-16 16:00:00",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "title" : {
+               "da" : "Haj mod tun"
+            }
+         },
+         {
+            "stop" : "1531808700",
+            "country" : [
+               "US"
+            ],
+            "new" : "0",
+            "episodeNum" : {
+               "thetvdb.com" : "series/274572",
+               "onscreen" : "Afsnit 1 s\u00e6son 4",
+               "xmltv_ns" : "3 . 0 ."
+            },
+            "desc" : {
+               "da" : "Ti hajangreb p\u00e5 otte \u00e5r har betydet, at den afsidesliggende by St. Johns i Sydafrika lider."
+            },
+            "title" : {
+               "da" : "N\u00e5r hajerne angriber"
+            },
+            "start" : "1531805700",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=274572&seasonid=723116&id=6233735&lid=7"
+            ],
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-07-16 16:45:00",
+            "subTitle" : {
+               "da" : "Escaping Jaws"
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2013"
+         },
+         {
+            "title" : {
+               "da" : "Indiens vilde paradiser"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-01-04 01:55:00",
+            "subTitle" : {
+               "da" : "Indiens vilde paradiser"
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "start" : "1531808700",
+            "channel" : "wild.natgeo.dk",
+            "date" : "2017",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "stop" : "1531811700",
+            "country" : [
+               "UK"
+            ],
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/1 .",
+               "onscreen" : "Afsnit 1 af 1"
+            },
+            "desc" : {
+               "da" : "Indien er et k\u00e6mpe land med store kontraster, som b\u00e5de rummer gloende \u00f8rkener, frodige skove og h\u00f8je, sned\u00e6kkede bjerge."
+            }
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "stop" : "1531814700",
+            "desc" : {
+               "da" : "I Yellowstone National Park g\u00f8r en m\u00f8rk ulv med sin ualmindelige adf\u00e6rd op med, hvad der er en accepteret definition af 'normal' ulveopf\u00f8rsel."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/1 .",
+               "onscreen" : "Afsnit 1 af 1"
+            },
+            "new" : "0",
+            "channel" : "wild.natgeo.dk",
+            "start" : "1531811700",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-01-17 12:15:00",
+            "subTitle" : {
+               "da" : "Den sorte ulv vender tilbage"
+            },
+            "title" : {
+               "da" : "Den sorte ulv vender tilbage"
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2011"
+         },
+         {
+            "title" : {
+               "da" : "Haj mod tun"
+            },
+            "start" : "1531814700",
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-07-16 16:00:00",
+            "subTitle" : {
+               "da" : "Haj mod tun"
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2018",
+            "stop" : "1531817400",
+            "country" : [
+               "US"
+            ],
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 1",
+               "xmltv_ns" : ". 0/1 ."
+            },
+            "desc" : {
+               "da" : "En kamp mellem havets giganter udk\u00e6mpet p\u00e5 de afsidesliggende slagmarker ved \u00f8en Ascension. Tunfiskene er ofte hurtigere, st\u00f8rre og i bedre form end hajerne."
+            }
+         },
+         {
+            "date" : "2013",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-07-16 16:45:00",
+            "subTitle" : {
+               "da" : "Escaping Jaws"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=274572&seasonid=723116&id=6233735&lid=7"
+            ],
+            "start" : "1531817400",
+            "channel" : "wild.natgeo.dk",
+            "title" : {
+               "da" : "N\u00e5r hajerne angriber"
+            },
+            "desc" : {
+               "da" : "Ti hajangreb p\u00e5 otte \u00e5r har betydet, at den afsidesliggende by St. Johns i Sydafrika lider."
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 4",
+               "xmltv_ns" : "3 . 0 .",
+               "thetvdb.com" : "series/274572"
+            },
+            "country" : [
+               "US"
+            ],
+            "stop" : "1531820400"
+         },
+         {
+            "desc" : {
+               "da" : "Hugormen er en slags Mike Tyson i slangernes verden - korte, t\u00e6tbyggede, med en lynhurtig h\u00e5rdtsl\u00e5ende n\u00e6ve fuld af gift. Fra det barske amerikanske vilde vesten, til de fugtige jungler i hjertet af Afrika, har gamle og nye stammer af hugorme blandet sig for at skabe en superfamilie inden for slangeverden. Mens hugorme er ikoniske koldblodige mordere, har de en anderledes bl\u00f8d side n\u00e5r det g\u00e6lder deres familie. Velvet, og Therma, en Gaboon hugorm og en klapperslange er to m\u00f8dre med forskellige udfordringer i ekstreme, kontrastfyldte landskaber, men deres m\u00e5l er det samme: at g\u00f8re familien st\u00f8rre og beholde deres egen titel som dronning i deres rige."
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 4/8 .",
+               "onscreen" : "Afsnit 5 af 8 s\u00e6son 1"
+            },
+            "stop" : "1531823100",
+            "date" : "2016",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-03-07 13:50:00",
+            "subTitle" : {
+               "da" : "Slangem\u00f8dre"
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "start" : "1531820400",
+            "title" : {
+               "da" : "NG Wild series 1"
+            }
+         },
+         {
+            "stop" : "1531826100",
+            "country" : [
+               "US"
+            ],
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/1 .",
+               "onscreen" : "Afsnit 1 af 1"
+            },
+            "desc" : {
+               "da" : "Forestil dig et sted der har alt hvad du nogensinde har \u00f8nsket dig. Stejle skr\u00e5ninger, huleomr\u00e5der og godt t\u00f8mmer, som kan give ly. Dine helt egne bes\u00e6tninger og \u00e5bne vidder s\u00e5 langt \u00f8jet r\u00e6kker, hvor du kan g\u00e5 p\u00e5 jagt. Men andre af din egen slags \u00f8nsker ogs\u00e5 dette sted. De vil udfordre dig i forhold til det. Hvor langt vil du g\u00e5 for at forsvare det? I det nord\u00f8stlige hj\u00f8rne af Yellowstone, har ulvekoblet fra Druid Peak l\u00e6nge hersket, men deres magt er aftagende. Klanens gamle ledere kan ikke holde stand mod udfordringen fra det invaderende ulvekobbel fra Slough Creek. Men de invaderende ulve finder ud af, at dette ikke er noget sikkert tilflugtssted. Her vil de m\u00f8de en h\u00e5rd og ubarmhjertig sk\u00e6bne. Fra deres eksil vil Druidkoblet genopbygge deres klan og samle styrke til at komme tilbage. P\u00e5 dette smukke men farlige sted, er der overflod og grusomhed, loyalitet og udst\u00f8dning, triumf og d\u00f8d. Dette er historien om kampen om den fantastiske dal og den h\u00f8je pris ulvene er villige til at betale for dette paradis."
+            },
+            "title" : {
+               "da" : "Ulvenes dal"
+            },
+            "channel" : "wild.natgeo.dk",
+            "start" : "1531823100",
+            "subTitle" : {
+               "da" : "Ulvenes dal"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-02-27 17:50:00",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2007"
+         },
+         {
+            "desc" : {
+               "da" : "Indien er et k\u00e6mpe land med store kontraster, som b\u00e5de rummer gloende \u00f8rkener, frodige skove og h\u00f8je, sned\u00e6kkede bjerge."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 1",
+               "xmltv_ns" : ". 0/1 ."
+            },
+            "new" : "0",
+            "country" : [
+               "UK"
+            ],
+            "stop" : "1531829100",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2017",
+            "channel" : "wild.natgeo.dk",
+            "start" : "1531826100",
+            "previously_shown" : "wild.natgeo.dk|2018-01-04 01:55:00",
+            "subTitle" : {
+               "da" : "Indiens vilde paradiser"
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "title" : {
+               "da" : "Indiens vilde paradiser"
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 1",
+               "xmltv_ns" : ". 0/1 ."
+            },
+            "new" : "0",
+            "desc" : {
+               "da" : "I Yellowstone National Park g\u00f8r en m\u00f8rk ulv med sin ualmindelige adf\u00e6rd op med, hvad der er en accepteret definition af 'normal' ulveopf\u00f8rsel."
+            },
+            "stop" : "1531831800",
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2011",
+            "title" : {
+               "da" : "Den sorte ulv vender tilbage"
+            },
+            "channel" : "wild.natgeo.dk",
+            "start" : "1531829100",
+            "subTitle" : {
+               "da" : "Den sorte ulv vender tilbage"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-01-17 12:15:00",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            }
+         },
+         {
+            "date" : "2017",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "title" : {
+               "da" : "Masser af pingvinger"
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-01-05 01:55:00",
+            "subTitle" : {
+               "da" : "Masser af pingvinger"
+            },
+            "start" : "1531831800",
+            "channel" : "wild.natgeo.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/1 .",
+               "onscreen" : "Afsnit 1 af 1"
+            },
+            "new" : "0",
+            "desc" : {
+               "da" : "Der bor 18 pingvinarter p\u00e5 Antarktis. Vi starter med at se p\u00e5 de st\u00f8rste, og ender helt nede ved den lille bl\u00e5!"
+            },
+            "stop" : "1531834500",
+            "country" : [
+               "US"
+            ]
+         },
+         {
+            "stop" : "1531837500",
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 af 8 s\u00e6son 1",
+               "xmltv_ns" : "0 . 4/8 ."
+            },
+            "desc" : {
+               "da" : "Hugormen er en slags Mike Tyson i slangernes verden - korte, t\u00e6tbyggede, med en lynhurtig h\u00e5rdtsl\u00e5ende n\u00e6ve fuld af gift. Fra det barske amerikanske vilde vesten, til de fugtige jungler i hjertet af Afrika, har gamle og nye stammer af hugorme blandet sig for at skabe en superfamilie inden for slangeverden. Mens hugorme er ikoniske koldblodige mordere, har de en anderledes bl\u00f8d side n\u00e5r det g\u00e6lder deres familie. Velvet, og Therma, en Gaboon hugorm og en klapperslange er to m\u00f8dre med forskellige udfordringer i ekstreme, kontrastfyldte landskaber, men deres m\u00e5l er det samme: at g\u00f8re familien st\u00f8rre og beholde deres egen titel som dronning i deres rige."
+            },
+            "title" : {
+               "da" : "NG Wild series 1"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-03-07 13:50:00",
+            "subTitle" : {
+               "da" : "Slangem\u00f8dre"
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "start" : "1531834500",
+            "channel" : "wild.natgeo.dk",
+            "date" : "2016",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "stop" : "1531840200",
+            "country" : [
+               "US"
+            ],
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 1",
+               "xmltv_ns" : ". 0/1 ."
+            },
+            "new" : "0",
+            "desc" : {
+               "da" : "Forestil dig et sted der har alt hvad du nogensinde har \u00f8nsket dig. Stejle skr\u00e5ninger, huleomr\u00e5der og godt t\u00f8mmer, som kan give ly. Dine helt egne bes\u00e6tninger og \u00e5bne vidder s\u00e5 langt \u00f8jet r\u00e6kker, hvor du kan g\u00e5 p\u00e5 jagt. Men andre af din egen slags \u00f8nsker ogs\u00e5 dette sted. De vil udfordre dig i forhold til det. Hvor langt vil du g\u00e5 for at forsvare det? I det nord\u00f8stlige hj\u00f8rne af Yellowstone, har ulvekoblet fra Druid Peak l\u00e6nge hersket, men deres magt er aftagende. Klanens gamle ledere kan ikke holde stand mod udfordringen fra det invaderende ulvekobbel fra Slough Creek. Men de invaderende ulve finder ud af, at dette ikke er noget sikkert tilflugtssted. Her vil de m\u00f8de en h\u00e5rd og ubarmhjertig sk\u00e6bne. Fra deres eksil vil Druidkoblet genopbygge deres klan og samle styrke til at komme tilbage. P\u00e5 dette smukke men farlige sted, er der overflod og grusomhed, loyalitet og udst\u00f8dning, triumf og d\u00f8d. Dette er historien om kampen om den fantastiske dal og den h\u00f8je pris ulvene er villige til at betale for dette paradis."
+            },
+            "title" : {
+               "da" : "Ulvenes dal"
+            },
+            "start" : "1531837500",
+            "channel" : "wild.natgeo.dk",
+            "subTitle" : {
+               "da" : "Ulvenes dal"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-02-27 17:50:00",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2007"
+         },
+         {
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2011",
+            "title" : {
+               "da" : "Verdens uhyggeligste dr\u00e6bere"
+            },
+            "start" : "1531840200",
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-02-02 01:55:00",
+            "subTitle" : {
+               "da" : "Verdens uhyggeligste dr\u00e6bere"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/1 .",
+               "onscreen" : "Afsnit 1 af 1"
+            },
+            "desc" : {
+               "da" : "K\u00e6mpe edderkopper, bloddryppende og goppellignende tingester finder man i gyserfilm - men disse uhyggelige dr\u00e6bere findes i virkeligheden!"
+            },
+            "stop" : "1531843200",
+            "country" : [
+               "US"
+            ]
+         },
+         {
+            "start" : "1531843200",
+            "channel" : "wild.natgeo.dk",
+            "subTitle" : {
+               "da" : "700 hajer"
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "title" : {
+               "da" : "700 hajer"
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2018",
+            "country" : [
+               "FR"
+            ],
+            "stop" : "1531845900",
+            "desc" : {
+               "da" : "I Polynesien vil en stor gruppe hajer blive studeret som aldrig f\u00f8r. Et hold forskere vil dykke blandt 700 eksemplarer."
+            },
+            "new" : "1",
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/1 .",
+               "onscreen" : "Afsnit 1 af 1"
+            }
+         },
+         {
+            "title" : {
+               "da" : "N\u00e5r hajerne angriber"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=274572&seasonid=723116&id=6233737&lid=7"
+            ],
+            "channel" : "wild.natgeo.dk",
+            "start" : "1531845900",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Tourist Traps"
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2013",
+            "stop" : "1531848900",
+            "country" : [
+               "US"
+            ],
+            "new" : "1",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 4",
+               "xmltv_ns" : "3 . 1 .",
+               "thetvdb.com" : "series/274572"
+            },
+            "desc" : {
+               "da" : "I 2015 var nordkysten i New South Wales, Australien, under angreb. Det lokale samfund gik i panik, da antallet af turister faldt."
+            }
+         },
+         {
+            "date" : "2011",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Verdens farligste hajer"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-01-03 08:15:00",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "start" : "1531848900",
+            "channel" : "wild.natgeo.dk",
+            "title" : {
+               "da" : "Verdens farligste hajer"
+            },
+            "desc" : {
+               "da" : "Vi afsl\u00f8rer, hvordan arter som tigerhajen, nursehajen og den store hvide haj jager, og hvordan deres hverdagsliv ser ud."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/1 .",
+               "onscreen" : "Afsnit 1 af 1"
+            },
+            "new" : "0",
+            "country" : [
+               "US"
+            ],
+            "stop" : "1531851900"
+         },
+         {
+            "stop" : "1531854900",
+            "country" : [
+               "FR"
+            ],
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/1 .",
+               "onscreen" : "Afsnit 1 af 1"
+            },
+            "desc" : {
+               "da" : "I Polynesien vil en stor gruppe hajer blive studeret som aldrig f\u00f8r. Et hold forskere vil dykke blandt 700 eksemplarer."
+            },
+            "title" : {
+               "da" : "700 hajer"
+            },
+            "start" : "1531851900",
+            "channel" : "wild.natgeo.dk",
+            "previously_shown" : "wild.natgeo.dk|2018-07-17 16:00:00",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "subTitle" : {
+               "da" : "700 hajer"
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2018"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2013",
+            "title" : {
+               "da" : "N\u00e5r hajerne angriber"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=274572&seasonid=723116&id=6233737&lid=7"
+            ],
+            "channel" : "wild.natgeo.dk",
+            "start" : "1531854900",
+            "previously_shown" : "wild.natgeo.dk|2018-07-17 16:45:00",
+            "subTitle" : {
+               "da" : "Tourist Traps"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 4",
+               "thetvdb.com" : "series/274572"
+            },
+            "new" : "0",
+            "desc" : {
+               "da" : "I 2015 var nordkysten i New South Wales, Australien, under angreb. Det lokale samfund gik i panik, da antallet af turister faldt."
+            },
+            "stop" : "1531857600",
+            "country" : [
+               "US"
+            ]
+         },
+         {
+            "start" : "1531857600",
+            "channel" : "wild.natgeo.dk",
+            "previously_shown" : "wild.natgeo.dk|2018-02-02 01:55:00",
+            "subTitle" : {
+               "da" : "Verdens uhyggeligste dr\u00e6bere"
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "title" : {
+               "da" : "Verdens uhyggeligste dr\u00e6bere"
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2011",
+            "country" : [
+               "US"
+            ],
+            "stop" : "1531860600",
+            "desc" : {
+               "da" : "K\u00e6mpe edderkopper, bloddryppende og goppellignende tingester finder man i gyserfilm - men disse uhyggelige dr\u00e6bere findes i virkeligheden!"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 1",
+               "xmltv_ns" : ". 0/1 ."
+            }
+         },
+         {
+            "stop" : "1531863600",
+            "country" : [
+               "UK"
+            ],
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 1",
+               "xmltv_ns" : ". 0/1 ."
+            },
+            "new" : "0",
+            "desc" : {
+               "da" : "Indien er et k\u00e6mpe land med store kontraster, som b\u00e5de rummer gloende \u00f8rkener, frodige skove og h\u00f8je, sned\u00e6kkede bjerge."
+            },
+            "title" : {
+               "da" : "Indiens vilde paradiser"
+            },
+            "subTitle" : {
+               "da" : "Indiens vilde paradiser"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-01-04 01:55:00",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "start" : "1531860600",
+            "date" : "2017",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            }
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "stop" : "1531866600",
+            "desc" : {
+               "da" : "I Yellowstone National Park g\u00f8r en m\u00f8rk ulv med sin ualmindelige adf\u00e6rd op med, hvad der er en accepteret definition af 'normal' ulveopf\u00f8rsel."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 1",
+               "xmltv_ns" : ". 0/1 ."
+            },
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-01-17 12:15:00",
+            "subTitle" : {
+               "da" : "Den sorte ulv vender tilbage"
+            },
+            "channel" : "wild.natgeo.dk",
+            "start" : "1531863600",
+            "title" : {
+               "da" : "Den sorte ulv vender tilbage"
+            },
+            "date" : "2011",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            }
+         },
+         {
+            "date" : "2017",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "title" : {
+               "da" : "Masser af pingvinger"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-01-05 01:55:00",
+            "subTitle" : {
+               "da" : "Masser af pingvinger"
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "start" : "1531866600",
+            "channel" : "wild.natgeo.dk",
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/1 .",
+               "onscreen" : "Afsnit 1 af 1"
+            },
+            "desc" : {
+               "da" : "Der bor 18 pingvinarter p\u00e5 Antarktis. Vi starter med at se p\u00e5 de st\u00f8rste, og ender helt nede ved den lille bl\u00e5!"
+            },
+            "stop" : "1531869300",
+            "country" : [
+               "US"
+            ]
+         },
+         {
+            "date" : "2016",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "title" : {
+               "da" : "NG Wild series 1"
+            },
+            "subTitle" : {
+               "da" : "Slangem\u00f8dre"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-03-07 13:50:00",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "start" : "1531869300",
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 4/8 .",
+               "onscreen" : "Afsnit 5 af 8 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Hugormen er en slags Mike Tyson i slangernes verden - korte, t\u00e6tbyggede, med en lynhurtig h\u00e5rdtsl\u00e5ende n\u00e6ve fuld af gift. Fra det barske amerikanske vilde vesten, til de fugtige jungler i hjertet af Afrika, har gamle og nye stammer af hugorme blandet sig for at skabe en superfamilie inden for slangeverden. Mens hugorme er ikoniske koldblodige mordere, har de en anderledes bl\u00f8d side n\u00e5r det g\u00e6lder deres familie. Velvet, og Therma, en Gaboon hugorm og en klapperslange er to m\u00f8dre med forskellige udfordringer i ekstreme, kontrastfyldte landskaber, men deres m\u00e5l er det samme: at g\u00f8re familien st\u00f8rre og beholde deres egen titel som dronning i deres rige."
+            },
+            "stop" : "1531872300"
+         }
+      ]
+   }
+}

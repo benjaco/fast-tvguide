@@ -1,0 +1,172 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "date" : "2018",
+            "stop" : "1531476000",
+            "new" : null,
+            "start" : "1531458000",
+            "title" : {
+               "da" : "Morgennyhederne p\u00e5 NEWS"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "news.tv2.dk"
+         },
+         {
+            "new" : null,
+            "start" : "1531476000",
+            "channel" : "news.tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder med business og vejr"
+            },
+            "date" : "2018",
+            "stop" : "1531479600"
+         },
+         {
+            "date" : "2018",
+            "stop" : "1531501200",
+            "start" : "1531479600",
+            "new" : null,
+            "channel" : "news.tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder, sport, vejr"
+            }
+         },
+         {
+            "date" : "2018",
+            "stop" : "1531504200",
+            "start" : "1531501200",
+            "new" : null,
+            "channel" : "news.tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "19 Nyhederne"
+            }
+         },
+         {
+            "date" : "2018",
+            "stop" : "1531510800",
+            "new" : null,
+            "start" : "1531504200",
+            "title" : {
+               "da" : "Nyheder, sport, vejr"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "news.tv2.dk"
+         },
+         {
+            "desc" : {
+               "da" : "Socialdemokratier over hele Europa er i krise, fordi de ikke har lyttet til befolkningen. Det har S imidlertid gjort herhjemme, mener Dan J\u00f8rgensen. If\u00f8lge ham er der desuden klare sammenfald mellem opl\u00f8sningstiden i 30'erne, der f\u00f8rte til fremmarch af kommunister, fascister og nazister og s\u00e5 nutidens opl\u00f8sningstid med Trump, Le Pen, Farage, Wilders og Brexit. Men det ikke rimeligt at tage Dansk Folkeparti med i den remse, udtaler J\u00f8rgensen."
+            },
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "channel" : "news.tv2.dk",
+            "title" : {
+               "da" : "Interview med Dan J\u00f8rgensen, S"
+            },
+            "new" : null,
+            "start" : "1531510800",
+            "stop" : "1531511400",
+            "date" : "2018"
+         },
+         {
+            "new" : null,
+            "start" : "1531511400",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder og vejr"
+            },
+            "channel" : "news.tv2.dk",
+            "date" : "2018",
+            "stop" : "1531512000"
+         },
+         {
+            "date" : "2018",
+            "stop" : "1531515600",
+            "start" : "1531512000",
+            "new" : null,
+            "channel" : "news.tv2.dk",
+            "title" : {
+               "da" : "22NEWS"
+            },
+            "desc" : {
+               "da" : "I '22NEWS' f\u00e5r du det prioriterede overblik over dagens vigtigste nyheder, og der bliver ogs\u00e5 tid til at g\u00e5 i dybden, n\u00e5r de store historier analyseres, perspektiveres og debatteres. Karen-Helene Hjort og Anders Havndrup er v\u00e6rter og f\u00e5r bes\u00f8g af dagens og ugens hovedpersoner."
+            },
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            }
+         },
+         {
+            "start" : "1531515600",
+            "new" : null,
+            "channel" : "news.tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "News Night"
+            },
+            "date" : "2018",
+            "stop" : "1531517400"
+         },
+         {
+            "new" : null,
+            "start" : "1531517400",
+            "channel" : "news.tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder, sport, vejr"
+            },
+            "date" : "2018",
+            "stop" : "1531544400"
+         }
+      ]
+   }
+}

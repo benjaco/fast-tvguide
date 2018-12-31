@@ -1,0 +1,1881 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2014",
+            "url" : [
+               "https://www.themoviedb.org/tv/48866/season/1/episode/13"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "The 100"
+            },
+            "start" : "1522370700",
+            "rating" : {
+               "stars" : "7.273 / 10"
+            },
+            "desc" : {
+               "da" : "Bellamy tvinger Octavia til at tr\u00e6ffe et sv\u00e6rt valg mens Finn l\u00f8ber en k\u00e6mpe risiko."
+            },
+            "subTitle" : {
+               "da" : "We Are Grounders (2)"
+            },
+            "stop" : "1522373400",
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Sci-Fi",
+                  "Fantasy"
+               ]
+            },
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Jae Marchant"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Kass Morgan"
+                  },
+                  {
+                     "name" : "Jason Rothenberg"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Octavia Blake",
+                     "name" : "Marie Avgeropoulos"
+                  },
+                  {
+                     "role" : "Councilman Marcus Kane",
+                     "name" : "Henry Ian Cusick"
+                  },
+                  {
+                     "role" : "Chancellor Thelonious Jaha",
+                     "name" : "Isaiah Washington"
+                  },
+                  {
+                     "name" : "Richard Harmon",
+                     "role" : "John Murphy"
+                  },
+                  {
+                     "role" : "Clarke Griffin",
+                     "name" : "Eliza Taylor"
+                  },
+                  {
+                     "role" : "Jasper Jordan",
+                     "name" : "Devon Bostick"
+                  },
+                  {
+                     "name" : "Bob Morley",
+                     "role" : "Bellamy Blake"
+                  },
+                  {
+                     "name" : "Christopher Larkin",
+                     "role" : "Monty Green"
+                  },
+                  {
+                     "name" : "Thomas McDonell",
+                     "role" : "Finn Collins"
+                  },
+                  {
+                     "name" : "Lindsey Morgan",
+                     "role" : "Raven Reyes"
+                  },
+                  {
+                     "name" : "Ricky Whittle",
+                     "role" : "Lincoln"
+                  },
+                  {
+                     "role" : "Wells Jaha",
+                     "name" : "Eli Goree"
+                  },
+                  {
+                     "name" : "Paige Turco",
+                     "role" : "Councilwoman Dr. Abigail Griffin"
+                  },
+                  {
+                     "role" : "Harper McIntyre",
+                     "name" : "Chelsey Reist"
+                  },
+                  {
+                     "role" : "Zoe Monroe",
+                     "name" : "Katie Stuart"
+                  },
+                  {
+                     "role" : "Jacapo Sinclair",
+                     "name" : "Alessandro Juliani"
+                  },
+                  {
+                     "name" : "Sachin Sahel",
+                     "role" : "Eric Jackson"
+                  },
+                  {
+                     "name" : "Joseph Gatt",
+                     "role" : "Tristan"
+                  },
+                  {
+                     "role" : "Sterling",
+                     "name" : "Keenan Tracey"
+                  },
+                  {
+                     "name" : "Dichen Lachman",
+                     "role" : "Anya"
+                  },
+                  {
+                     "name" : "Levi Meaden",
+                     "role" : "Drew"
+                  },
+                  {
+                     "name" : "Jarod Joseph",
+                     "role" : "Nathan Miller"
+                  },
+                  {
+                     "role" : "Fox",
+                     "name" : "Genevieve Buechner"
+                  },
+                  {
+                     "name" : "Shane Symons",
+                     "role" : "Jones"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Dean White"
+                  }
+               ]
+            },
+            "channel" : "6-eren.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 12/13 .",
+               "onscreen" : "Afsnit 13 af 13 s\u00e6son 1"
+            }
+         },
+         {
+            "date" : "2014",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/48866/season/2/episode/1"
+            ],
+            "title" : {
+               "da" : "The 100"
+            },
+            "rating" : {
+               "stars" : "8.3 / 10"
+            },
+            "start" : "1522373400",
+            "desc" : {
+               "da" : "En fjende vender tilbage, mens Jaha tager en heltemodig beslutning."
+            },
+            "stop" : "1522376400",
+            "subTitle" : {
+               "da" : "The 48"
+            },
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Dean White"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Marie Avgeropoulos",
+                     "role" : "Octavia Blake"
+                  },
+                  {
+                     "role" : "Lexa",
+                     "name" : "Alycia Debnam-Carey"
+                  },
+                  {
+                     "name" : "Henry Ian Cusick",
+                     "role" : "Councilman Marcus Kane"
+                  },
+                  {
+                     "role" : "Chancellor Thelonious Jaha",
+                     "name" : "Isaiah Washington"
+                  },
+                  {
+                     "name" : "Richard Harmon",
+                     "role" : "John Murphy"
+                  },
+                  {
+                     "name" : "Eliza Taylor",
+                     "role" : "Clarke Griffin"
+                  },
+                  {
+                     "role" : "Jasper Jordan",
+                     "name" : "Devon Bostick"
+                  },
+                  {
+                     "name" : "Bob Morley",
+                     "role" : "Bellamy Blake"
+                  },
+                  {
+                     "name" : "Christopher Larkin",
+                     "role" : "Monty Green"
+                  },
+                  {
+                     "name" : "Thomas McDonell",
+                     "role" : "Finn Collins"
+                  },
+                  {
+                     "role" : "Raven Reyes",
+                     "name" : "Lindsey Morgan"
+                  },
+                  {
+                     "name" : "Ricky Whittle",
+                     "role" : "Lincoln"
+                  },
+                  {
+                     "name" : "Paige Turco",
+                     "role" : "Councilwoman Dr. Abigail Griffin"
+                  },
+                  {
+                     "role" : "Jacapo Sinclair",
+                     "name" : "Alessandro Juliani"
+                  },
+                  {
+                     "name" : "Emily Haines",
+                     "role" : "Keenan Mykulak"
+                  },
+                  {
+                     "name" : "Rekha Sharma",
+                     "role" : "Dr. Tsing"
+                  },
+                  {
+                     "role" : "Maya",
+                     "name" : "Eve Harlow"
+                  },
+                  {
+                     "role" : "President Dante Wallace",
+                     "name" : "Raymond J. Barry"
+                  },
+                  {
+                     "name" : "Joseph Gatt",
+                     "role" : "Tristan"
+                  },
+                  {
+                     "role" : "Sterling",
+                     "name" : "Keenan Tracey"
+                  },
+                  {
+                     "name" : "Katie Stuart",
+                     "role" : "Monroe"
+                  },
+                  {
+                     "name" : "Richard Harmon",
+                     "role" : "John Murphy"
+                  },
+                  {
+                     "role" : "Jackson",
+                     "name" : "Sachin Sahel"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Jason Rothenberg"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Sci-Fi",
+                  "Fantasy"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 0/16 .",
+               "onscreen" : "Afsnit 1 af 16 s\u00e6son 2"
+            },
+            "channel" : "6-eren.dk"
+         },
+         {
+            "url" : [
+               "https://www.themoviedb.org/tv/58832/season/6/episode/5"
+            ],
+            "new" : null,
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2016",
+            "rating" : {
+               "stars" : "6.3 / 9"
+            },
+            "start" : "1522376400",
+            "desc" : {
+               "da" : "To personer, der overhovedet ikke kender hinanden, skal overleve i 21 dage uden mad, vand eller kl\u00e6der under ekstreme forhold p\u00e5 et af verdens mest fjerntliggende steder."
+            },
+            "title" : {
+               "da" : "Naked and Afraid"
+            },
+            "subTitle" : {
+               "da" : "All Falls Down"
+            },
+            "stop" : "1522381500",
+            "channel" : "6-eren.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 af 12 s\u00e6son 6",
+               "xmltv_ns" : "5 . 4/12 ."
+            },
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Medic",
+                     "name" : "Paola"
+                  },
+                  {
+                     "name" : "Chris",
+                     "role" : "Producer"
+                  },
+                  {
+                     "name" : "Michael Brown",
+                     "role" : "Narrator"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "url" : [
+               "https://www.themoviedb.org/tv/61329/season/7/episode/2"
+            ],
+            "new" : null,
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2014",
+            "desc" : {
+               "da" : "Tanked dumber seerne ned i de mest sp\u00e6ndende akvarier. Acrylic Tank Manufacturing, ATM er verdensmestre i akvarier! De har kreeret de mest banebrydende og ekstraordin\u00e6re akvarier. Kunderne er kr\u00e6vende og lokationen nogle gange liges\u00e5. Holdet rejser landet rundt for at bringe havet i \u00f8jenh\u00f8jde p\u00e5 g\u00e6ster, som bes\u00f8ger s\u00e5 forskellige steder, som casinoer, kirker, museer og zoologiske haver."
+            },
+            "start" : "1522381500",
+            "title" : {
+               "da" : "Tanked"
+            },
+            "subTitle" : {
+               "da" : "Penn & Teller Monkey Magic"
+            },
+            "stop" : "1522384500",
+            "channel" : "6-eren.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 24 s\u00e6son 7",
+               "xmltv_ns" : "6 . 1/24 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Himself - CEO",
+                     "name" : "Wayde King"
+                  },
+                  {
+                     "name" : "Brett Raymer",
+                     "role" : "Himself - COO"
+                  },
+                  {
+                     "role" : "Himself - Office Manager",
+                     "name" : "Irwin Raymer"
+                  },
+                  {
+                     "name" : "Heather King",
+                     "role" : "Herself - Accountant"
+                  },
+                  {
+                     "role" : "Himself - Marine Technician & Plumber",
+                     "name" : "Robert Christlieb"
+                  },
+                  {
+                     "name" : "Agnes Wilczynski",
+                     "role" : "Herself - Estimator/Coordinator"
+                  }
+               ]
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Howie Mandel is the Brains Behind ATM"
+            },
+            "stop" : "1522387500",
+            "channel" : "6-eren.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "5 . 0/8 .",
+               "onscreen" : "Afsnit 1 af 8 s\u00e6son 6"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Himself - CEO",
+                     "name" : "Wayde King"
+                  },
+                  {
+                     "role" : "Himself - COO",
+                     "name" : "Brett Raymer"
+                  },
+                  {
+                     "role" : "Himself - Office Manager",
+                     "name" : "Irwin Raymer"
+                  },
+                  {
+                     "name" : "Heather King",
+                     "role" : "Herself - Accountant"
+                  },
+                  {
+                     "role" : "Himself - Marine Technician & Plumber",
+                     "name" : "Robert Christlieb"
+                  },
+                  {
+                     "name" : "Agnes Wilczynski",
+                     "role" : "Herself - Estimator/Coordinator"
+                  }
+               ]
+            },
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/61329/season/6/episode/1"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2013",
+            "start" : "1522384500",
+            "desc" : {
+               "da" : "Tanked dumber seerne ned i de mest sp\u00e6ndende akvarier. Acrylic Tank Manufacturing, ATM er verdensmestre i akvarier! De har kreeret de mest banebrydende og ekstraordin\u00e6re akvarier. Kunderne er kr\u00e6vende og lokationen nogle gange liges\u00e5. Holdet rejser landet rundt for at bringe havet i \u00f8jenh\u00f8jde p\u00e5 g\u00e6ster, som bes\u00f8ger s\u00e5 forskellige steder, som casinoer, kirker, museer og zoologiske haver."
+            },
+            "title" : {
+               "da" : "Tanked"
+            }
+         },
+         {
+            "stop" : "1522390500",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1",
+               "xmltv_ns" : ". 0 ."
+            },
+            "channel" : "6-eren.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "new" : null,
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2015",
+            "start" : "1522387500",
+            "desc" : {
+               "da" : "Vi f\u00f8lger Heineman Bar Company fra Chicago. De bygger de vildeste barer overalt i USA. Aaron Heineman leder teamet, som drager fra sumpomr\u00e5der i Louisiana til fjerne jagtomr\u00e5der i Wisconson."
+            },
+            "title" : {
+               "da" : "Epic Bars"
+            }
+         },
+         {
+            "new" : null,
+            "stop" : "1522394100",
+            "start" : "1522390500",
+            "channel" : "6-eren.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Homeshopping"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Bering Sea Gold"
+            },
+            "rating" : {
+               "stars" : "6.5 / 9"
+            },
+            "desc" : {
+               "da" : "I Nome, Alaska raser guldfeberen! M\u00f8d graverne, som er drevet af feberen, og til tider n\u00f8d, n\u00e5r de dykker i det iskolde og uforudsigeligt Beringstr\u00e6de i h\u00e5b om at ramme den gyldne \u00e5re."
+            },
+            "start" : "1522394100",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2015",
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/58704/season/5/episode/5"
+            ],
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "4 . 4/6 .",
+               "onscreen" : "Afsnit 5 af 6 s\u00e6son 5"
+            },
+            "channel" : "6-eren.dk",
+            "stop" : "1522397100",
+            "subTitle" : {
+               "da" : "The Blizzard"
+            }
+         },
+         {
+            "url" : [
+               "https://www.themoviedb.org/tv/58704/season/5/episode/6"
+            ],
+            "new" : null,
+            "date" : "2015",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "start" : "1522397100",
+            "rating" : {
+               "stars" : "6.5 / 9"
+            },
+            "desc" : {
+               "da" : "I Nome, Alaska raser guldfeberen! M\u00f8d graverne, som er drevet af feberen, og til tider n\u00f8d, n\u00e5r de dykker i det iskolde og uforudsigeligt Beringstr\u00e6de i h\u00e5b om at ramme den gyldne \u00e5re."
+            },
+            "title" : {
+               "da" : "Bering Sea Gold"
+            },
+            "stop" : "1522401300",
+            "subTitle" : {
+               "da" : "The Deadline"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "4 . 5/6 .",
+               "onscreen" : "Afsnit 6 af 6 s\u00e6son 5"
+            },
+            "channel" : "6-eren.dk",
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "stop" : "1522404900",
+            "new" : null,
+            "title" : {
+               "da" : "Homeshopping"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "6-eren.dk",
+            "start" : "1522401300"
+         },
+         {
+            "stop" : "1522408200",
+            "subTitle" : {
+               "da" : "The Dirty Half Dozen"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 18/22 .",
+               "onscreen" : "Afsnit 19 af 22 s\u00e6son 2"
+            },
+            "channel" : "6-eren.dk",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Brent Fletcher"
+                  },
+                  {
+                     "name" : "Drew Z. Greenberg"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Kevin Tancharoen"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Leo Fitz",
+                     "name" : "Iain De Caestecker"
+                  },
+                  {
+                     "role" : "Melinda May / The Cavalry",
+                     "name" : "Ming-Na Wen"
+                  },
+                  {
+                     "role" : "Lancelot \"Lance\" Hunter",
+                     "name" : "Nick Blood"
+                  },
+                  {
+                     "role" : "Phil Coulson",
+                     "name" : "Clark Gregg"
+                  },
+                  {
+                     "name" : "Chloe Bennet",
+                     "role" : "Daisy \"Skye\"Johnson / Quake"
+                  },
+                  {
+                     "name" : "Elizabeth Henstridge",
+                     "role" : "Jemma Simmons"
+                  },
+                  {
+                     "name" : "Brett Dalton",
+                     "role" : "Grant Ward / Hive"
+                  },
+                  {
+                     "role" : "Bobbi Morse / Mockingbird",
+                     "name" : "Adrianne Palicki"
+                  },
+                  {
+                     "name" : "Chad Cleven",
+                     "role" : "Hydra tac agent"
+                  },
+                  {
+                     "role" : "Kara/Agent 33",
+                     "name" : "Maya Stojan"
+                  },
+                  {
+                     "role" : "Cal",
+                     "name" : "Kyle MacLachlan"
+                  },
+                  {
+                     "role" : "Deathlok/Mike Peterson",
+                     "name" : "J. August Richards"
+                  },
+                  {
+                     "role" : "Lincoln Campbell / Spark Plug",
+                     "name" : "Luke Mitchell"
+                  },
+                  {
+                     "role" : "Agent Oliver",
+                     "name" : "Mark Allan Stewart"
+                  },
+                  {
+                     "name" : "Edward James Olmos",
+                     "role" : "Robert Gonzales"
+                  },
+                  {
+                     "role" : "Jiaying",
+                     "name" : "Dichen Lachman"
+                  },
+                  {
+                     "name" : "Jamie Harris",
+                     "role" : "Gordon"
+                  },
+                  {
+                     "name" : "Henry Goodman",
+                     "role" : "Dr. List"
+                  },
+                  {
+                     "name" : "Christine Adams",
+                     "role" : "Agent Weaver"
+                  },
+                  {
+                     "name" : "Ruth Negga",
+                     "role" : "Raina"
+                  },
+                  {
+                     "name" : "Henry Simmons",
+                     "role" : "Alphonso \"Mack\" Mackenzie"
+                  }
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Sci-Fi",
+                  "Fantasy"
+               ]
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/1403/season/2/episode/19"
+            ],
+            "new" : null,
+            "date" : "2015",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "rating" : {
+               "stars" : "6.9 / 9"
+            },
+            "start" : "1522404900",
+            "desc" : {
+               "da" : "Coulson tilbyder at han og holdet infilterer Lists base for at befri Peterson og Lincoln."
+            },
+            "title" : {
+               "da" : "Marvel's Agents of S.H.I.E.L.D."
+            }
+         },
+         {
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2015",
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/1403/season/2/episode/20"
+            ],
+            "title" : {
+               "da" : "Marvel's Agents of S.H.I.E.L.D."
+            },
+            "rating" : {
+               "stars" : "7.5 / 10"
+            },
+            "desc" : {
+               "da" : "S.H.I.E.L.D. bestyrelsen er taknemmelige for Coulson efter hans indsats for at redde verden."
+            },
+            "start" : "1522408200",
+            "stop" : "1522411800",
+            "subTitle" : {
+               "da" : "Scars"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Sci-Fi",
+                  "Fantasy"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Iain De Caestecker",
+                     "role" : "Leo Fitz"
+                  },
+                  {
+                     "name" : "Ming-Na Wen",
+                     "role" : "Melinda May / The Cavalry"
+                  },
+                  {
+                     "role" : "Lancelot \"Lance\" Hunter",
+                     "name" : "Nick Blood"
+                  },
+                  {
+                     "name" : "Clark Gregg",
+                     "role" : "Phil Coulson"
+                  },
+                  {
+                     "role" : "Daisy \"Skye\"Johnson / Quake",
+                     "name" : "Chloe Bennet"
+                  },
+                  {
+                     "role" : "Jemma Simmons",
+                     "name" : "Elizabeth Henstridge"
+                  },
+                  {
+                     "name" : "Brett Dalton",
+                     "role" : "Grant Ward / Hive"
+                  },
+                  {
+                     "name" : "Adrianne Palicki",
+                     "role" : "Bobbi Morse / Mockingbird"
+                  },
+                  {
+                     "name" : "Crystal Coney",
+                     "role" : "scientist"
+                  },
+                  {
+                     "name" : "David Douglas",
+                     "role" : "Michael"
+                  },
+                  {
+                     "name" : "Alicia Vela-Bailey",
+                     "role" : "Alisha"
+                  },
+                  {
+                     "name" : "Patton Oswalt",
+                     "role" : "Sam/Billy Koenig"
+                  },
+                  {
+                     "role" : "Kara/Agent 33",
+                     "name" : "Maya Stojan"
+                  },
+                  {
+                     "name" : "Kyle MacLachlan",
+                     "role" : "Cal"
+                  },
+                  {
+                     "name" : "Luke Mitchell",
+                     "role" : "Lincoln Campbell / Spark Plug"
+                  },
+                  {
+                     "name" : "Mark Allan Stewart",
+                     "role" : "Agent Oliver"
+                  },
+                  {
+                     "name" : "Edward James Olmos",
+                     "role" : "Robert Gonzales"
+                  },
+                  {
+                     "name" : "Dichen Lachman",
+                     "role" : "Jiaying"
+                  },
+                  {
+                     "role" : "Gordon",
+                     "name" : "Jamie Harris"
+                  },
+                  {
+                     "role" : "Agent Weaver",
+                     "name" : "Christine Adams"
+                  },
+                  {
+                     "role" : "Raina",
+                     "name" : "Ruth Negga"
+                  },
+                  {
+                     "role" : "Alphonso \"Mack\" Mackenzie",
+                     "name" : "Henry Simmons"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Bobby Roth"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Rafe Judkins"
+                  },
+                  {
+                     "name" : "Lauren LeFranc"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 19/22 .",
+               "onscreen" : "Afsnit 20 af 22 s\u00e6son 2"
+            },
+            "channel" : "6-eren.dk"
+         },
+         {
+            "stop" : "1522415100",
+            "subTitle" : {
+               "da" : "Nanda Parbat"
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Erik Oleson"
+                  },
+                  {
+                     "name" : "Wendy Mericle"
+                  },
+                  {
+                     "name" : "Ben Sokolowski"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Katie Cassidy",
+                     "role" : "Laurel Lance"
+                  },
+                  {
+                     "role" : "Oliver Queen",
+                     "name" : "Stephen Amell"
+                  },
+                  {
+                     "name" : "Emily Bett Rickards",
+                     "role" : "Felicity Smoak"
+                  },
+                  {
+                     "role" : "Quentin Lance",
+                     "name" : "Paul Blackthorne"
+                  },
+                  {
+                     "role" : "John Diggle",
+                     "name" : "David Ramsey"
+                  },
+                  {
+                     "role" : "Thea Queen",
+                     "name" : "Willa Holland"
+                  },
+                  {
+                     "role" : "Roy Harper",
+                     "name" : "Colton Haynes"
+                  },
+                  {
+                     "role" : "Malcolm Merlyn",
+                     "name" : "John Barrowman"
+                  },
+                  {
+                     "role" : "Lyla Michaels",
+                     "name" : "Audrey Marie Anderson"
+                  },
+                  {
+                     "name" : "Matthew Nable",
+                     "role" : "Ra's al Ghul"
+                  },
+                  {
+                     "role" : "Ray Palmer",
+                     "name" : "Brandon Routh"
+                  },
+                  {
+                     "name" : "Katrina Law",
+                     "role" : "Nyssa al Ghul"
+                  },
+                  {
+                     "name" : "Karl Yune",
+                     "role" : "Maseo Yamashiro"
+                  },
+                  {
+                     "name" : "Rila Fukushima",
+                     "role" : "Tatsu Yamashiro / Katana"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Gregory Smith"
+                  }
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Action",
+                  "Adventure",
+                  "Crime",
+                  "Drama",
+                  "Mystery",
+                  "Sci-Fi"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 14/23 .",
+               "onscreen" : "Afsnit 15 af 23 s\u00e6son 3"
+            },
+            "channel" : "6-eren.dk",
+            "date" : "2015",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/1412/season/3/episode/15"
+            ],
+            "title" : {
+               "da" : "Arrow"
+            },
+            "start" : "1522411800",
+            "rating" : {
+               "stars" : "6.4 / 9"
+            },
+            "desc" : {
+               "da" : "Malcolm Merlyn bliver taget til fange af Ra's al Ghul og bragt til Nanda Parbat. Oliver og Diggle rejser til Nanda Parbat for at forhindre, at Malcolm bliver dr\u00e6bt. Ray arbejder intenst p\u00e5 at f\u00e5 f\u00e6rdiggjort sin atomdragt, s\u00e5 han kan redde byen. Felicity frygter, at han vil komme til at dele sk\u00e6bne med Oliver, s\u00e5 hun fors\u00f8ger at f\u00e5 ham v\u00e6k fra laboratoriet."
+            }
+         },
+         {
+            "channel" : "6-eren.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 15/23 .",
+               "onscreen" : "Afsnit 16 af 23 s\u00e6son 3"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Action",
+                  "Adventure",
+                  "Crime",
+                  "Drama",
+                  "Mystery",
+                  "Sci-Fi"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Dermott Downs"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Katie Cassidy",
+                     "role" : "Laurel Lance"
+                  },
+                  {
+                     "role" : "Oliver Queen",
+                     "name" : "Stephen Amell"
+                  },
+                  {
+                     "name" : "Emily Bett Rickards",
+                     "role" : "Felicity Smoak"
+                  },
+                  {
+                     "name" : "Paul Blackthorne",
+                     "role" : "Quentin Lance"
+                  },
+                  {
+                     "role" : "John Diggle",
+                     "name" : "David Ramsey"
+                  },
+                  {
+                     "role" : "Thea Queen",
+                     "name" : "Willa Holland"
+                  },
+                  {
+                     "name" : "Colton Haynes",
+                     "role" : "Roy Harper"
+                  },
+                  {
+                     "name" : "John Barrowman",
+                     "role" : "Malcolm Merlyn"
+                  },
+                  {
+                     "role" : "Ra's al Ghul",
+                     "name" : "Matthew Nable"
+                  },
+                  {
+                     "name" : "Brandon Routh",
+                     "role" : "Ray Palmer"
+                  },
+                  {
+                     "name" : "Katrina Law",
+                     "role" : "Nyssa al Ghul"
+                  },
+                  {
+                     "role" : "Maseo Yamashiro",
+                     "name" : "Karl Yune"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Beth Schwartz"
+                  },
+                  {
+                     "name" : "Brian Ford Sullivan"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "The Offer"
+            },
+            "stop" : "1522418700",
+            "rating" : {
+               "stars" : "6.1 / 9"
+            },
+            "desc" : {
+               "da" : "En ny superskurk terroriserer Starling City. Han g\u00e5r under navnet Murmur (mumle), fordi hans l\u00e6ber er blevet syet sammen. Laurel og Nyssa finder sammen over de vanskelige forhold til deres f\u00e6dre. Thea er tvunget til at komme overens med sin far. Oliver bringer Malcolm i sikkerhed, s\u00e5 han kan genvinde sine kr\u00e6fter. Politichef Lance finder ud af, at Arrow har kendt til sandheden om mordet p\u00e5 Sara."
+            },
+            "start" : "1522415100",
+            "title" : {
+               "da" : "Arrow"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/1412/season/3/episode/16"
+            ],
+            "new" : null,
+            "date" : "2015"
+         },
+         {
+            "channel" : "6-eren.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 15",
+               "xmltv_ns" : ". 14 ."
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Out of time"
+            },
+            "stop" : "1522422000",
+            "start" : "1522418700",
+            "desc" : {
+               "da" : "The Weather Wizard kommer til central City for at h\u00e6vne sin bror Clydes d\u00f8d. Han angriber Joe og Barry, men ved hj\u00e6lp af Barrys fart kommer de i sikkerhed, mens The Weather Wizard slipper v\u00e6k."
+            },
+            "title" : {
+               "da" : "The Flash"
+            },
+            "new" : null,
+            "video" : {
+               "quality" : "HDTV"
+            }
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 15 .",
+               "onscreen" : "Afsnit 16"
+            },
+            "channel" : "6-eren.dk",
+            "stop" : "1522425540",
+            "subTitle" : {
+               "da" : "Rouge time"
+            },
+            "title" : {
+               "da" : "The Flash"
+            },
+            "desc" : {
+               "da" : "The Flash opdager at Cold og The Weather Wizard er kommet retur til Central City. Og denne gang f\u00e5r de f\u00f8lgeskab af Lisa, Colds lilles\u00f8ster."
+            },
+            "start" : "1522422000",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "new" : null
+         },
+         {
+            "subTitle" : {
+               "da" : "Everything's Bigger in Texas"
+            },
+            "stop" : "1522427340",
+            "channel" : "6-eren.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 10 af 28 s\u00e6son 2",
+               "xmltv_ns" : "1 . 9/28 ."
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Carolyn Giannelli"
+                  },
+                  {
+                     "name" : "Allen Haff"
+                  },
+                  {
+                     "name" : "Clinton \"Ton\" Jones"
+                  },
+                  {
+                     "name" : "Clinton \"Ton\" Jones & Allen Haff"
+                  }
+               ]
+            },
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/34575/season/2/episode/10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2011",
+            "desc" : {
+               "da" : "Allen Haff og Ton Jones rejser USA tyndt i h\u00e5b om at finde 'guld' blandt andre folks efterladte ting."
+            },
+            "start" : "1522425540",
+            "title" : {
+               "da" : "Auction Hunters"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Allen Haff og Ton Jones rejser USA tyndt i h\u00e5b om at finde 'guld' blandt andre folks efterladte ting."
+            },
+            "start" : "1522427340",
+            "title" : {
+               "da" : "Auction Hunters"
+            },
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/34575/season/2/episode/3"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2011",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 af 28 s\u00e6son 2",
+               "xmltv_ns" : "1 . 2/28 ."
+            },
+            "channel" : "6-eren.dk",
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1522429140",
+            "subTitle" : {
+               "da" : "The Smoking Ton"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Allen Haff og Ton Jones rejser USA tyndt i h\u00e5b om at finde 'guld' blandt andre folks efterladte ting."
+            },
+            "start" : "1522429140",
+            "title" : {
+               "da" : "Auction Hunters"
+            },
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/34575/season/2/episode/12"
+            ],
+            "date" : "2011",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 11/28 .",
+               "onscreen" : "Afsnit 12 af 28 s\u00e6son 2"
+            },
+            "channel" : "6-eren.dk",
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Carolyn Giannelli"
+                  },
+                  {
+                     "name" : "Allen Haff"
+                  },
+                  {
+                     "name" : "Clinton \"Ton\" Jones"
+                  }
+               ]
+            },
+            "stop" : "1522431000",
+            "subTitle" : {
+               "da" : "Top Gun Ton"
+            }
+         },
+         {
+            "channel" : "6-eren.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 12/28 .",
+               "onscreen" : "Afsnit 13 af 28 s\u00e6son 2"
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Carolyn Giannelli"
+                  },
+                  {
+                     "name" : "Allen Haff"
+                  },
+                  {
+                     "name" : "Clinton \"Ton\" Jones"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Beantown Bidders"
+            },
+            "stop" : "1522432800",
+            "start" : "1522431000",
+            "desc" : {
+               "da" : "Allen Haff og Ton Jones rejser USA tyndt i h\u00e5b om at finde 'guld' blandt andre folks efterladte ting."
+            },
+            "title" : {
+               "da" : "Auction Hunters"
+            },
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/34575/season/2/episode/13"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2011"
+         },
+         {
+            "rating" : {
+               "stars" : "7 / 9"
+            },
+            "desc" : {
+               "da" : "Finch g\u00f8r et sidste fors\u00f8g p\u00e5 at destruere Samaritan."
+            },
+            "start" : "1522432800",
+            "title" : {
+               "da" : "Person of Interest"
+            },
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/1411/season/5/episode/12"
+            ],
+            "date" : "2016",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "4 . 11/13 .",
+               "onscreen" : "Afsnit 12 af 13 s\u00e6son 5"
+            },
+            "channel" : "6-eren.dk",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Greg Plageman"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "John Reese",
+                     "name" : "Jim Caviezel"
+                  },
+                  {
+                     "name" : "Michael Emerson",
+                     "role" : "Harold Finch"
+                  },
+                  {
+                     "role" : "Lionel Fusco",
+                     "name" : "Kevin Chapman"
+                  },
+                  {
+                     "name" : "Sarah Shahi",
+                     "role" : "Sameen Shaw"
+                  },
+                  {
+                     "role" : "Samantha 'Root' Groves",
+                     "name" : "Amy Acker"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Greg Plageman"
+                  },
+                  {
+                     "name" : "Erik Mountain"
+                  }
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Action",
+                  "Adventure",
+                  "Drama",
+                  "Mystery",
+                  "Thriller"
+               ]
+            },
+            "stop" : "1522436400",
+            "subTitle" : {
+               "da" : ".exe"
+            }
+         },
+         {
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Andrew Wilder"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Steve Boyum"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Thomas Gibson",
+                     "role" : "Aaron Hotchner"
+                  },
+                  {
+                     "name" : "Joe Mantegna",
+                     "role" : "David Rossi"
+                  },
+                  {
+                     "role" : "Dr. Spencer Reid",
+                     "name" : "Matthew Gray Gubler"
+                  },
+                  {
+                     "role" : "Derek Morgan",
+                     "name" : "Shemar Moore"
+                  },
+                  {
+                     "name" : "Paget Brewster",
+                     "role" : "Emily Prentiss"
+                  },
+                  {
+                     "role" : "Jennifer Jareau",
+                     "name" : "A.J. Cook"
+                  },
+                  {
+                     "role" : "Penelope Garcia",
+                     "name" : "Kirsten Vangsness"
+                  },
+                  {
+                     "name" : "Meta Golding",
+                     "role" : "Jordan Todd"
+                  },
+                  {
+                     "name" : "Samantha Bailey"
+                  },
+                  {
+                     "name" : "Gina Torres"
+                  },
+                  {
+                     "name" : "Danny Nucci"
+                  },
+                  {
+                     "name" : "Faith Ford"
+                  },
+                  {
+                     "name" : "Meta Golding"
+                  },
+                  {
+                     "name" : "Elaine Hendrix"
+                  },
+                  {
+                     "name" : "Drew Garrett",
+                     "role" : "Rick Hannity"
+                  }
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Crime",
+                  "Drama",
+                  "Mystery"
+               ]
+            },
+            "channel" : "6-eren.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 10/26 .",
+               "onscreen" : "Afsnit 11 af 26 s\u00e6son 4"
+            },
+            "subTitle" : {
+               "da" : "Normal"
+            },
+            "stop" : "1522440000",
+            "title" : {
+               "da" : "Criminal Minds"
+            },
+            "rating" : {
+               "stars" : "6.5 / 9"
+            },
+            "desc" : {
+               "da" : "Criminal Minds-holdet efterforsker en seriemorder, der g\u00e5r under navnet \"The Road Warrior\". Hans drabelige kendetegn er at sl\u00e5 ejere af luksusbiler ihjel - mens de k\u00f8rer p\u00e5 motorvejen!"
+            },
+            "start" : "1522436400",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2008",
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/4057/season/4/episode/11"
+            ]
+         },
+         {
+            "title" : {
+               "da" : "Criminal Minds"
+            },
+            "rating" : {
+               "stars" : "6.4 / 9"
+            },
+            "desc" : {
+               "da" : "Criminal Minds-holdet efterforsker et anset medlem af et velst\u00e5ende lille samfund i Atlanta, som er mist\u00e6nkt for at have st\u00e5et bag bortf\u00f8relsen af en ung kvinde. Sagen bliver kompliceret, da den mist\u00e6nkte m\u00e5ske har haft en makker."
+            },
+            "start" : "1522440000",
+            "date" : "2009",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/4057/season/4/episode/12"
+            ],
+            "new" : null,
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Debra J. Fisher"
+                  },
+                  {
+                     "name" : "Erica Messer"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Thomas Gibson",
+                     "role" : "Aaron Hotchner"
+                  },
+                  {
+                     "name" : "Joe Mantegna",
+                     "role" : "David Rossi"
+                  },
+                  {
+                     "role" : "Dr. Spencer Reid",
+                     "name" : "Matthew Gray Gubler"
+                  },
+                  {
+                     "role" : "Derek Morgan",
+                     "name" : "Shemar Moore"
+                  },
+                  {
+                     "role" : "Emily Prentiss",
+                     "name" : "Paget Brewster"
+                  },
+                  {
+                     "role" : "Jennifer Jareau",
+                     "name" : "A.J. Cook"
+                  },
+                  {
+                     "name" : "Kirsten Vangsness",
+                     "role" : "Penelope Garcia"
+                  },
+                  {
+                     "role" : "Jordan Todd",
+                     "name" : "Meta Golding"
+                  },
+                  {
+                     "name" : "George Newbern"
+                  },
+                  {
+                     "name" : "Michael Boatman"
+                  },
+                  {
+                     "name" : "Meta Golding"
+                  },
+                  {
+                     "name" : "Valarie Pettiford"
+                  },
+                  {
+                     "name" : "Dana Davis"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "John Gallagher"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Crime",
+                  "Drama",
+                  "Mystery"
+               ]
+            },
+            "channel" : "6-eren.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 11/26 .",
+               "onscreen" : "Afsnit 12 af 26 s\u00e6son 4"
+            },
+            "subTitle" : {
+               "da" : "Soul Mates"
+            },
+            "stop" : "1522443600"
+         },
+         {
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2007",
+            "url" : [
+               "http://www.themoviedb.org/movie/1248"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "Hannibal Rising"
+            },
+            "start" : "1522443600",
+            "rating" : {
+               "stars" : "6 / 10"
+            },
+            "desc" : {
+               "da" : "Dette er historien om, hvordan Hannibal Lecter blev sin generations st\u00f8rste intellekt - og mest berygtede seriemorder. St\u00e6rkt traumatiseret efter frygtelige oplevelser under krigen bliver den for\u00e6ldrel\u00f8se teenager Hannibal Lecter sp\u00e6rret inde p\u00e5 et sovjetisk b\u00f8rnehjem, men stikker af og kommer mirakul\u00f8st gennem jernt\u00e6ppet til Paris' forst\u00e6der. Her finder han sin eneste overlevende sl\u00e6gtning, onkelens japanske enke. Den mystiske kvinde opl\u00e6rer Hannibal i kunsten at s\u00e6tte pris p\u00e5 mad, musik og malerkunst. Snart finder den unge Hannibal ogs\u00e5 interesse for medicin og psykoanalyse, men de daglige mareridt om fortiden vil ikke slippe ham."
+            },
+            "stop" : "1522452000",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Crime",
+                  "Drama",
+                  "Thriller"
+               ]
+            },
+            "country" : [
+               "GB",
+               "CZ",
+               "FR",
+               "IT"
+            ],
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Thomas Harris"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Gaspard Ulliel",
+                     "role" : "Hannibal Lecter"
+                  },
+                  {
+                     "name" : "Aaran Thomas",
+                     "role" : "Hannibal Lecter (young)"
+                  },
+                  {
+                     "name" : "Gong Li",
+                     "role" : "Lady Murasaki"
+                  },
+                  {
+                     "name" : "Dominic West",
+                     "role" : "Inspector Popil"
+                  },
+                  {
+                     "name" : "Rhys Ifans",
+                     "role" : "Vladis Grutas"
+                  },
+                  {
+                     "name" : "Richard Brake",
+                     "role" : "Enrikas Dortlich"
+                  },
+                  {
+                     "role" : "Petras Kolnas",
+                     "name" : "Kevin McKidd"
+                  },
+                  {
+                     "role" : "Zigmas Milko",
+                     "name" : "Stephen Walters"
+                  },
+                  {
+                     "role" : "Bronys Grentz",
+                     "name" : "Ivan Marevich"
+                  },
+                  {
+                     "name" : "Helena-Lia Tachovsk\u00e1",
+                     "role" : "Mischa"
+                  },
+                  {
+                     "role" : "Father Lecter",
+                     "name" : "Richard Leaf"
+                  },
+                  {
+                     "role" : "Mother Lecter",
+                     "name" : "Ingeborga Dapkunaite"
+                  },
+                  {
+                     "role" : "Nanny",
+                     "name" : "Michele Wade"
+                  },
+                  {
+                     "role" : "Lothar",
+                     "name" : "Martin Hub"
+                  },
+                  {
+                     "name" : "Joerg Stadler",
+                     "role" : "Berndt"
+                  },
+                  {
+                     "name" : "Hugh Ross",
+                     "role" : "Professor Dumas"
+                  },
+                  {
+                     "role" : "Kolnas's Son",
+                     "name" : "Robbie Kay"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Peter Webber"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Tarak Ben Ammar"
+                  },
+                  {
+                     "name" : "Dino De Laurentiis"
+                  },
+                  {
+                     "name" : "Martha De Laurentiis"
+                  }
+               ]
+            },
+            "channel" : "6-eren.dk",
+            "episodeNum" : {
+               "themoviedb.org" : "movie/1248"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Finch g\u00f8r et sidste fors\u00f8g p\u00e5 at destruere Samaritan."
+            },
+            "rating" : {
+               "stars" : "7 / 9"
+            },
+            "start" : "1522452000",
+            "title" : {
+               "da" : "Person of Interest"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/1411/season/5/episode/12"
+            ],
+            "new" : null,
+            "date" : "2016",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "4 . 11/13 .",
+               "onscreen" : "Afsnit 12 af 13 s\u00e6son 5"
+            },
+            "channel" : "6-eren.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Action",
+                  "Adventure",
+                  "Drama",
+                  "Mystery",
+                  "Thriller"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Greg Plageman"
+                  },
+                  {
+                     "name" : "Erik Mountain"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "John Reese",
+                     "name" : "Jim Caviezel"
+                  },
+                  {
+                     "name" : "Michael Emerson",
+                     "role" : "Harold Finch"
+                  },
+                  {
+                     "role" : "Lionel Fusco",
+                     "name" : "Kevin Chapman"
+                  },
+                  {
+                     "name" : "Sarah Shahi",
+                     "role" : "Sameen Shaw"
+                  },
+                  {
+                     "role" : "Samantha 'Root' Groves",
+                     "name" : "Amy Acker"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Greg Plageman"
+                  }
+               ]
+            },
+            "stop" : "1522455300",
+            "subTitle" : {
+               "da" : ".exe"
+            }
+         }
+      ]
+   }
+}

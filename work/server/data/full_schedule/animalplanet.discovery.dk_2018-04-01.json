@@ -1,0 +1,903 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "date" : "2015",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=301943&seasonid=641612&id=5371047&lid=7"
+            ],
+            "title" : {
+               "da" : "Snake Sheila"
+            },
+            "desc" : {
+               "da" : "Julia f\u00e5r hj\u00e6lp af en terrier til at finde en d\u00f8dsensfarlig ubuden g\u00e6st. Hun redder ogs\u00e5 Bob fra en vred python, og finder p\u00e5 en fantastisk markedsf\u00f8ringsid\u00e9."
+            },
+            "start" : "1522540800",
+            "stop" : "1522542300",
+            "subTitle" : {
+               "da" : "Episode 3"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/301943",
+               "onscreen" : "Afsnit 3 s\u00e6son 1",
+               "xmltv_ns" : "0 . 2 ."
+            },
+            "channel" : "animalplanet.discovery.dk"
+         },
+         {
+            "stop" : "1522543800",
+            "subTitle" : {
+               "da" : "Episode 4"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 3 .",
+               "thetvdb.com" : "series/301943",
+               "onscreen" : "Afsnit 4 s\u00e6son 1"
+            },
+            "channel" : "animalplanet.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=301943&seasonid=641612&id=5371050&lid=7"
+            ],
+            "date" : "2015",
+            "start" : "1522542300",
+            "desc" : {
+               "da" : "Johnny og Julia redder en undulat fra samme grumme sk\u00e6bne som dens stakkels kammerat. Senere byder den frygtl\u00f8se duo et nyt firbenet medlem velkommen."
+            },
+            "title" : {
+               "da" : "Snake Sheila"
+            }
+         },
+         {
+            "start" : "1522543800",
+            "desc" : {
+               "da" : "Julia har en duel med en ubuden g\u00e6st i form af en nysgerrig slange. Samtidig skal Bonny, det nyeste medlem i teamet, afsted p\u00e5 tr\u00e6ningslejr for hunde."
+            },
+            "title" : {
+               "da" : "Snake Sheila"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=301943&seasonid=641612&id=5371051&lid=10"
+            ],
+            "new" : null,
+            "date" : "2015",
+            "episodeNum" : {
+               "thetvdb.com" : "series/301943",
+               "onscreen" : "Afsnit 5 s\u00e6son 1",
+               "xmltv_ns" : "0 . 4 ."
+            },
+            "channel" : "animalplanet.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1522545300",
+            "subTitle" : {
+               "da" : "It's Not Easy Being Green"
+            }
+         },
+         {
+            "start" : "1522545300",
+            "desc" : {
+               "da" : "En taipan-slange i dit toilet eller en python-slange i din pool? Den professionelle slangefanger Julia Baker og hendes skotske l\u00e6rling indfanger Australiens farligste reptiler."
+            },
+            "title" : {
+               "da" : "Snake Sheila"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=301943&seasonid=641612&id=5371052&lid=10"
+            ],
+            "new" : null,
+            "date" : "2015",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 5 .",
+               "thetvdb.com" : "series/301943",
+               "onscreen" : "Afsnit 6 s\u00e6son 1"
+            },
+            "channel" : "animalplanet.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1522546740",
+            "subTitle" : {
+               "da" : "The Fear Factor"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Life and Death"
+            },
+            "stop" : "1522548120",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "channel" : "animalplanet.discovery.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 6 .",
+               "thetvdb.com" : "series/301943",
+               "onscreen" : "Afsnit 7 s\u00e6son 1"
+            },
+            "date" : "2015",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=301943&seasonid=641612&id=5371053&lid=10"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "Snake Sheila"
+            },
+            "start" : "1522546740",
+            "desc" : {
+               "da" : "En taipan-slange i dit toilet eller en python-slange i din pool? Den professionelle slangefanger Julia Baker og hendes skotske l\u00e6rling indfanger Australiens farligste reptiler."
+            }
+         },
+         {
+            "desc" : {
+               "da" : "M\u00f8d flere uartige k\u00e6ledyr - bl.a. en huskat, der klasker alligatorer tilbage i sumpen, en hund, der stj\u00e6ler kaffe, og en abe, der rider p\u00e5 familiens hund som en v\u00e6ddel\u00f8bshest."
+            },
+            "start" : "1522548120",
+            "title" : {
+               "da" : "Bad Dog"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 2",
+               "xmltv_ns" : "1 . 2 ."
+            },
+            "channel" : "animalplanet.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animals"
+               ]
+            },
+            "stop" : "1522550940",
+            "subTitle" : {
+               "da" : "Copy Cats and Double Trouble"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Bad Dog"
+            },
+            "start" : "1522550940",
+            "desc" : {
+               "da" : "Fra en Houdini-hund til en snu og fed kat og en slyngel af en tam vaskebj\u00f8rn - se, hvor langt k\u00e6ledyr kan f\u00e5 deres ejere ud og stadig blive elsket betingelsesl\u00f8st."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animals"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 2",
+               "xmltv_ns" : "1 . 3 ."
+            },
+            "channel" : "animalplanet.discovery.dk",
+            "stop" : "1522553760",
+            "subTitle" : {
+               "da" : "Naughty by Nature"
+            }
+         },
+         {
+            "start" : "1522553760",
+            "desc" : {
+               "da" : "Martha, den nye leder for chimpanseungerne, har problemer med at omg\u00e5s de unge, og nu er hun lidt gnaven efter et sammenst\u00f8d med det elektriske hegn."
+            },
+            "title" : {
+               "da" : "Escape to Chimp Eden"
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=162381&seasonid=318631&id=2832641&lid=7"
+            ],
+            "date" : "2008",
+            "episodeNum" : {
+               "thetvdb.com" : "series/162381",
+               "onscreen" : "Afsnit 18 s\u00e6son 2",
+               "xmltv_ns" : "1 . 17 ."
+            },
+            "channel" : "animalplanet.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Eugene Cussons"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Anton Truesdale"
+                  }
+               ]
+            },
+            "stop" : "1522555200",
+            "subTitle" : {
+               "da" : "The Millennium Family"
+            }
+         },
+         {
+            "channel" : "animalplanet.discovery.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 16 s\u00e6son 2",
+               "thetvdb.com" : "series/162381",
+               "xmltv_ns" : "1 . 15 ."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Eugene Cussons"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Anton Truesdale"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Moving Day for the Adults, Part 2"
+            },
+            "stop" : "1522556700",
+            "desc" : {
+               "da" : "Et tilsyneladende lille opg\u00f8r mellem Josephine og Jinga eskalerer, og Josephine flygter ud i vildmarken. Kan hun findes igen?"
+            },
+            "start" : "1522555200",
+            "title" : {
+               "da" : "Escape to Chimp Eden"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=162381&seasonid=318631&id=2832611&lid=7"
+            ],
+            "new" : null,
+            "date" : "2008"
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 14 .",
+               "onscreen" : "Afsnit 15 s\u00e6son 3"
+            },
+            "channel" : "animalplanet.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animals"
+               ]
+            },
+            "stop" : "1522559700",
+            "subTitle" : {
+               "da" : "Warden Vs Wild"
+            },
+            "desc" : {
+               "da" : "Vildtbetjente passer p\u00e5 Maines naturresssourcer. Parker flytter en sortbj\u00f8rn, og Alan Curtis m\u00e6rker sammen med biologer bj\u00f8rneunger i hi."
+            },
+            "start" : "1522556700",
+            "title" : {
+               "da" : "North Woods Law"
+            },
+            "new" : null
+         },
+         {
+            "start" : "1522559700",
+            "desc" : {
+               "da" : "O'Shea leder efter Storms Water-kobraen, en 3 m lang slange, der dr\u00e6ber med sin nervelammende gift. O'Shea tror, at slangegiften kan v\u00e6re til gavn i forskningen i hjernesygdomme."
+            },
+            "title" : {
+               "da" : "O'Shea's Big Adventure"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 4",
+               "xmltv_ns" : "3 . 2 ."
+            },
+            "channel" : "animalplanet.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animals"
+               ]
+            },
+            "stop" : "1522563000",
+            "subTitle" : {
+               "da" : "Water Cobra"
+            }
+         },
+         {
+            "channel" : "animalplanet.discovery.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 3 .",
+               "onscreen" : "Afsnit 4 s\u00e6son 4"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animals"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Amazon Snake Mystery"
+            },
+            "stop" : "1522566300",
+            "desc" : {
+               "da" : "Mark O'Shea rejser til Peru i Sydamerika p\u00e5 sporet af den store, gr\u00f8nne anakonda, der kan blive op til 12 meter lang og skr\u00e6mmer livet af indianerne, der bor i dens territorium."
+            },
+            "start" : "1522563000",
+            "title" : {
+               "da" : "O'Shea's Big Adventure"
+            },
+            "new" : null
+         },
+         {
+            "title" : {
+               "da" : "The Animals' Guide to Survival"
+            },
+            "desc" : {
+               "da" : "Ferskvand er jordens mest dyrebare ressource. Knaphed p\u00e5 vand g\u00f8r forskellen mellem liv og d\u00f8d for mange dyr."
+            },
+            "start" : "1522566300",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animals"
+               ]
+            },
+            "channel" : "animalplanet.discovery.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "subTitle" : {
+               "da" : "Fresh Water"
+            },
+            "stop" : "1522569600"
+         },
+         {
+            "subTitle" : {
+               "da" : "Lion"
+            },
+            "stop" : "1522572900",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animals"
+               ]
+            },
+            "channel" : "animalplanet.discovery.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Growing Up..."
+            },
+            "desc" : {
+               "da" : "F\u00f8lg tre unge l\u00f8veungers historie om overlevelse, da de bliver reddet fra en dyremishandler i Mexico. F\u00f8lg ogs\u00e5 to nyf\u00f8dte, der k\u00e6mper mod risikoen for en nedarvet sygdom."
+            },
+            "start" : "1522569600"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animals"
+               ]
+            },
+            "title" : {
+               "da" : "Baby Panda's First Year"
+            },
+            "start" : "1522572900",
+            "desc" : {
+               "da" : "Efter \"En panda f\u00f8des\" f\u00f8lger dette program pandaungen Tai Shan, n\u00e5r han n\u00e5r nogle vigtige milep\u00e6le p\u00e5 vej mod at blive voksen."
+            },
+            "channel" : "animalplanet.discovery.dk",
+            "stop" : "1522576200",
+            "new" : null
+         },
+         {
+            "new" : null,
+            "title" : {
+               "da" : "Growing Up..."
+            },
+            "desc" : {
+               "da" : "Her er historien om to tigerunger, der m\u00e5 flytte til et nyt hjem fra deres reservat og forlade deres mor og s\u00f8skende."
+            },
+            "start" : "1522576200",
+            "subTitle" : {
+               "da" : "Tiger"
+            },
+            "stop" : "1522579500",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animals"
+               ]
+            },
+            "channel" : "animalplanet.discovery.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 1"
+            }
+         },
+         {
+            "stop" : "1522582800",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animals"
+               ]
+            },
+            "title" : {
+               "da" : "Growing Up...: Wolves"
+            },
+            "channel" : "animalplanet.discovery.dk",
+            "start" : "1522579500",
+            "desc" : {
+               "da" : "F\u00f8lg det engagerede hold af dyrevelf\u00e6rdsarbejdere fra Minnesotas Wildlife Science Centre, imens de fors\u00f8ger at opfostre 6 livlige gr\u00e5ulveunger."
+            }
+         },
+         {
+            "title" : {
+               "da" : "Growing Up..."
+            },
+            "start" : "1522582800",
+            "desc" : {
+               "da" : "M\u00f8d Maximus, en fem m\u00e5neder gammel afrikansk elefant i Nordamerika. Livets gang... f\u00f8lger Maximus' oplevelser i hans f\u00f8rste \u00e5r."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animals"
+               ]
+            },
+            "channel" : "animalplanet.discovery.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 1",
+               "xmltv_ns" : "0 . 2 ."
+            },
+            "subTitle" : {
+               "da" : "Elephant"
+            },
+            "stop" : "1522586100"
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=301943&seasonid=641612&id=5371050&lid=7"
+            ],
+            "new" : null,
+            "date" : "2015",
+            "desc" : {
+               "da" : "Johnny og Julia redder en undulat fra samme grumme sk\u00e6bne som dens stakkels kammerat. Senere byder den frygtl\u00f8se duo et nyt firbenet medlem velkommen."
+            },
+            "start" : "1522586100",
+            "title" : {
+               "da" : "Snake Sheila"
+            },
+            "subTitle" : {
+               "da" : "Episode 4"
+            },
+            "stop" : "1522587780",
+            "channel" : "animalplanet.discovery.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 1",
+               "thetvdb.com" : "series/301943",
+               "xmltv_ns" : "0 . 3 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "channel" : "animalplanet.discovery.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 4 .",
+               "onscreen" : "Afsnit 5 s\u00e6son 1",
+               "thetvdb.com" : "series/301943"
+            },
+            "subTitle" : {
+               "da" : "It's Not Easy Being Green"
+            },
+            "stop" : "1522589400",
+            "title" : {
+               "da" : "Snake Sheila"
+            },
+            "desc" : {
+               "da" : "Julia har en duel med en ubuden g\u00e6st i form af en nysgerrig slange. Samtidig skal Bonny, det nyeste medlem i teamet, afsted p\u00e5 tr\u00e6ningslejr for hunde."
+            },
+            "start" : "1522587780",
+            "date" : "2015",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=301943&seasonid=641612&id=5371051&lid=10"
+            ],
+            "new" : null
+         },
+         {
+            "date" : "2015",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=301943&seasonid=641612&id=5371052&lid=10"
+            ],
+            "title" : {
+               "da" : "Snake Sheila"
+            },
+            "desc" : {
+               "da" : "En taipan-slange i dit toilet eller en python-slange i din pool? Den professionelle slangefanger Julia Baker og hendes skotske l\u00e6rling indfanger Australiens farligste reptiler."
+            },
+            "start" : "1522589400",
+            "subTitle" : {
+               "da" : "The Fear Factor"
+            },
+            "stop" : "1522591080",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "channel" : "animalplanet.discovery.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 6 s\u00e6son 1",
+               "thetvdb.com" : "series/301943",
+               "xmltv_ns" : "0 . 5 ."
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 6 .",
+               "thetvdb.com" : "series/301943",
+               "onscreen" : "Afsnit 7 s\u00e6son 1"
+            },
+            "channel" : "animalplanet.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1522592700",
+            "subTitle" : {
+               "da" : "Life and Death"
+            },
+            "desc" : {
+               "da" : "En taipan-slange i dit toilet eller en python-slange i din pool? Den professionelle slangefanger Julia Baker og hendes skotske l\u00e6rling indfanger Australiens farligste reptiler."
+            },
+            "start" : "1522591080",
+            "title" : {
+               "da" : "Snake Sheila"
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=301943&seasonid=641612&id=5371053&lid=10"
+            ],
+            "date" : "2015"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animals"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 10 .",
+               "onscreen" : "Afsnit 11 s\u00e6son 1"
+            },
+            "channel" : "animalplanet.discovery.dk",
+            "stop" : "1522594380",
+            "subTitle" : {
+               "da" : "Perfect Timing"
+            },
+            "title" : {
+               "da" : "Predator's Prey"
+            },
+            "start" : "1522592700",
+            "desc" : {
+               "da" : "Ni ud af ti gange giver det ikke pote, n\u00e5r rovdyr angriber. Set fra en ny vinkel viser vi den videnskab, intelligens og de f\u00e6rdigheder, byttedyrene bruger i deres leg med d\u00f8den."
+            },
+            "new" : null
+         },
+         {
+            "desc" : {
+               "da" : "Ni ud af ti gange giver det ikke pote, n\u00e5r rovdyr angriber. Set fra en ny vinkel viser vi den videnskab, intelligens og de f\u00e6rdigheder, byttedyrene bruger i deres leg med d\u00f8den."
+            },
+            "start" : "1522594380",
+            "title" : {
+               "da" : "Predator's Prey"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 11 .",
+               "onscreen" : "Afsnit 12 s\u00e6son 1"
+            },
+            "channel" : "animalplanet.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animals"
+               ]
+            },
+            "stop" : "1522596000",
+            "subTitle" : {
+               "da" : "Agility"
+            }
+         },
+         {
+            "title" : {
+               "da" : "China's Last Elephants"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animals"
+               ]
+            },
+            "desc" : {
+               "da" : "F\u00f8lg en gruppe fra The International Fund for Animal Welfare, som samarbejder med de lokale i Yunnan-provinsen for at sikre, at et af Kinas mest elskede symboler f\u00e5r en fremtid."
+            },
+            "start" : "1522596000",
+            "channel" : "animalplanet.discovery.dk",
+            "stop" : "1522599300",
+            "new" : null
+         },
+         {
+            "channel" : "animalplanet.discovery.dk",
+            "start" : "1522599300",
+            "desc" : {
+               "da" : "Efter \"En panda f\u00f8des\" f\u00f8lger dette program pandaungen Tai Shan, n\u00e5r han n\u00e5r nogle vigtige milep\u00e6le p\u00e5 vej mod at blive voksen."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animals"
+               ]
+            },
+            "title" : {
+               "da" : "Baby Panda's First Year"
+            },
+            "new" : null,
+            "stop" : "1522602600"
+         },
+         {
+            "new" : null,
+            "desc" : {
+               "da" : "Nilen har i \u00e5rhundreder defineret Afrika. Her yngler og bor dyr fra den store nilkrokodille til giraffer og chimpanser."
+            },
+            "start" : "1522602600",
+            "title" : {
+               "da" : "Wild Africa: Rivers Of Life"
+            },
+            "subTitle" : {
+               "da" : "Episode 7"
+            },
+            "stop" : "1522605900",
+            "channel" : "animalplanet.discovery.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 6 .",
+               "onscreen" : "Afsnit 7 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animals"
+               ]
+            }
+         },
+         {
+            "stop" : "1522609200",
+            "new" : null,
+            "title" : {
+               "da" : "Attack Of The Giant Jellyfish"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animals"
+               ]
+            },
+            "start" : "1522605900",
+            "desc" : {
+               "da" : "H\u00f8r om myterne og virkeligheden bag den globale eksplosion af d\u00f8dsensfarlige gopler, f.eks. nomuragoplen, som er s\u00e5 st\u00e6rk og stor, at den kan k\u00e6ntre en b\u00e5d!"
+            },
+            "channel" : "animalplanet.discovery.dk"
+         },
+         {
+            "new" : null,
+            "stop" : "1522612500",
+            "start" : "1522609200",
+            "desc" : {
+               "da" : "F\u00f8rsteh\u00e5ndsberetninger og analyser af hajangreb. Her f\u00e5r du sandheden om verdenshavenes mest effektive rovdyr samt r\u00e5d om, hvordan du overlever, hvis du en dag m\u00f8der en!"
+            },
+            "channel" : "animalplanet.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animals"
+               ]
+            },
+            "title" : {
+               "da" : "Shark Attack Survivors"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Untamed & Uncut"
+            },
+            "start" : "1522612500",
+            "desc" : {
+               "da" : "De mest utrolige sammenst\u00f8d med dyr, der nogensinde er optaget p\u00e5 film - fra hjertestoppende angreb til hjertevarme \u00e6gte historier om verdens mest utrolige skabninger."
+            },
+            "date" : "2008",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=306706&seasonid=654236&id=5495891&lid=7"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/306706",
+               "onscreen" : "Afsnit 28 s\u00e6son 1",
+               "xmltv_ns" : "0 . 27 ."
+            },
+            "channel" : "animalplanet.discovery.dk",
+            "stop" : "1522615800",
+            "subTitle" : {
+               "da" : "Tiger Attacks Zookeeper"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Untamed & Uncut"
+            },
+            "start" : "1522615800",
+            "desc" : {
+               "da" : "I dette afsnit brager en hvid haj ind i et hajbur og sp\u00e6rrer to dykkere inde. Derefter laver tyren Lucky Strike en rodeocowboy om til en menneskelig helikopter."
+            },
+            "date" : "2008",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=306706&seasonid=654239&id=5495914&lid=7"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "channel" : "animalplanet.discovery.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 0 .",
+               "thetvdb.com" : "series/306706",
+               "onscreen" : "Afsnit 1 s\u00e6son 2"
+            },
+            "subTitle" : {
+               "da" : "Teeth, Talons, Terror"
+            },
+            "stop" : "1522619100"
+         },
+         {
+            "stop" : "1522622400",
+            "subTitle" : {
+               "da" : "Episode 7"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animals"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7 s\u00e6son 1",
+               "xmltv_ns" : "0 . 6 ."
+            },
+            "channel" : "animalplanet.discovery.dk",
+            "new" : null,
+            "title" : {
+               "da" : "Wild Africa: Rivers Of Life"
+            },
+            "start" : "1522619100",
+            "desc" : {
+               "da" : "Nilen har i \u00e5rhundreder defineret Afrika. Her yngler og bor dyr fra den store nilkrokodille til giraffer og chimpanser."
+            }
+         },
+         {
+            "new" : null,
+            "desc" : {
+               "da" : "Mark O'Shea rejser til Peru i Sydamerika p\u00e5 sporet af den store, gr\u00f8nne anakonda, der kan blive op til 12 meter lang og skr\u00e6mmer livet af indianerne, der bor i dens territorium."
+            },
+            "start" : "1522622400",
+            "title" : {
+               "da" : "O'Shea's Big Adventure"
+            },
+            "stop" : "1522625700",
+            "subTitle" : {
+               "da" : "Amazon Snake Mystery"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 3 .",
+               "onscreen" : "Afsnit 4 s\u00e6son 4"
+            },
+            "channel" : "animalplanet.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animals"
+               ]
+            }
+         },
+         {
+            "channel" : "animalplanet.discovery.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animals"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Fresh Water"
+            },
+            "stop" : "1522628700",
+            "desc" : {
+               "da" : "Ferskvand er jordens mest dyrebare ressource. Knaphed p\u00e5 vand g\u00f8r forskellen mellem liv og d\u00f8d for mange dyr."
+            },
+            "start" : "1522625700",
+            "title" : {
+               "da" : "The Animals' Guide to Survival"
+            },
+            "new" : null
+         }
+      ]
+   }
+}

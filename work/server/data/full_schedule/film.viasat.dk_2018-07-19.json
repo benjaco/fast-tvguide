@@ -1,0 +1,1455 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "episodeNum" : {
+               "themoviedb.org" : "movie/60420"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Anton Yelchin",
+                     "role" : "Jacob Helm"
+                  },
+                  {
+                     "role" : "Anna Gardner",
+                     "name" : "Felicity Jones"
+                  },
+                  {
+                     "name" : "Jennifer Lawrence",
+                     "role" : "Sam"
+                  },
+                  {
+                     "name" : "Charlie Bewley",
+                     "role" : "Simon"
+                  },
+                  {
+                     "name" : "Alex Kingston",
+                     "role" : "Jackie Gardner"
+                  },
+                  {
+                     "name" : "Oliver Muirhead",
+                     "role" : "Bernard Gardner"
+                  },
+                  {
+                     "name" : "Finola Hughes",
+                     "role" : "Liz"
+                  },
+                  {
+                     "role" : "Mike Appletree",
+                     "name" : "Chris Messina"
+                  },
+                  {
+                     "name" : "Ben York Jones",
+                     "role" : "Ross"
+                  },
+                  {
+                     "name" : "Edy Ganem",
+                     "role" : "Isabelle"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Drake Doremus"
+                  }
+               ]
+            },
+            "stop" : "1531969200",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama",
+                  "Romance"
+               ]
+            },
+            "channel" : "film.viasat.dk",
+            "url" : [
+               "http://www.themoviedb.org/movie/60420"
+            ],
+            "desc" : {
+               "da" : "Anna og Jacob falder \u00f8jeblikkeligt for hinanden, da de m\u00f8des, mens de begge er studerende p\u00e5 et universitet i Los Angeles. Men Anna er britisk, og da hun er f\u00e6rdig med sine studier, beslutter hun sig for at blive i USA, selvom hun ikke har opholdstilladelse. Efter et bes\u00f8g hjemme i England kan hun imidlertid ikke f\u00e5 lov at komme ind i USA igen. Mens Anna k\u00e6mper med myndighederne, m\u00e5 hun og Jacob afg\u00f8re, om deres forhold er de mange pr\u00f8velser v\u00e6rd."
+            },
+            "date" : "2011",
+            "start" : "1531962000",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "rating" : {
+               "stars" : "6.6 / 10"
+            },
+            "title" : {
+               "da" : "Like Crazy"
+            },
+            "new" : null
+         },
+         {
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Horror",
+                  "Thriller"
+               ]
+            },
+            "stop" : "1531976400",
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Mark Bienstock"
+                  },
+                  {
+                     "name" : "Jason Blum"
+                  },
+                  {
+                     "name" : "M. Night Shyamalan"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "M. Night Shyamalan"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "James McAvoy",
+                     "role" : "Dennis / Patricia / Hedwig / The Beast / Kevin Wendell Crumb / Barry / Orwell / Jade"
+                  },
+                  {
+                     "name" : "Anya Taylor-Joy",
+                     "role" : "Casey Cooke"
+                  },
+                  {
+                     "role" : "Dr. Karen Fletcher",
+                     "name" : "Betty Buckley"
+                  },
+                  {
+                     "name" : "Haley Lu Richardson",
+                     "role" : "Claire Benoit"
+                  },
+                  {
+                     "role" : "Marcia",
+                     "name" : "Jessica Sula"
+                  },
+                  {
+                     "role" : "Uncle John",
+                     "name" : "Brad William Henke"
+                  },
+                  {
+                     "name" : "Sebastian Arcelus",
+                     "role" : "Casey's Father"
+                  },
+                  {
+                     "role" : "Mr. Benoit",
+                     "name" : "Neal Huff"
+                  },
+                  {
+                     "name" : "Kim Director",
+                     "role" : "Hannah"
+                  },
+                  {
+                     "role" : "Academic Moderator",
+                     "name" : "Lyne Renee"
+                  },
+                  {
+                     "name" : "M. Night Shyamalan",
+                     "role" : "Jai, Hooters Lover"
+                  },
+                  {
+                     "name" : "Bruce Willis",
+                     "role" : "David Dunn (uncredited)"
+                  },
+                  {
+                     "name" : "Maria Breyman",
+                     "role" : "High-School Student"
+                  },
+                  {
+                     "role" : "Taxi Driver",
+                     "name" : "Peter Patrikios"
+                  },
+                  {
+                     "name" : "Roy James Wilson",
+                     "role" : "Homeland Security Officer"
+                  },
+                  {
+                     "name" : "Robert Bizik",
+                     "role" : "Bar Patron"
+                  },
+                  {
+                     "role" : "Restaurant and Mall Patron (uncredited)",
+                     "name" : "Kerry Dutka"
+                  },
+                  {
+                     "name" : "Izzie Coffey",
+                     "role" : "Five-Year-Old Casey"
+                  },
+                  {
+                     "role" : "Kevin's Mother",
+                     "name" : "Rosemary Howard"
+                  },
+                  {
+                     "role" : "Dr. Clerque",
+                     "name" : "Jon Douglas Rainey"
+                  },
+                  {
+                     "name" : "Junnie Lopez",
+                     "role" : "Geraldo"
+                  },
+                  {
+                     "role" : "Dan at Next Table",
+                     "name" : "Steven Dennis"
+                  },
+                  {
+                     "name" : "Matthew Nadu",
+                     "role" : "Waiter"
+                  },
+                  {
+                     "name" : "Barbara Edwards",
+                     "role" : "Diner Patron"
+                  },
+                  {
+                     "name" : "Gary Ayash",
+                     "role" : "Restaurant Patron (uncredited)"
+                  },
+                  {
+                     "role" : "Flower Kiosk Worker",
+                     "name" : "Kash Goins"
+                  },
+                  {
+                     "name" : "James Robinson Jr.",
+                     "role" : "Claire's Party Guest"
+                  },
+                  {
+                     "name" : "Corinne Costa",
+                     "role" : "Party Guest"
+                  },
+                  {
+                     "name" : "John Mitchell",
+                     "role" : "EMT"
+                  },
+                  {
+                     "name" : "Andrea Havens",
+                     "role" : "Traveler in the Station"
+                  },
+                  {
+                     "role" : "Train Conductor",
+                     "name" : "Shawn Gonzalez"
+                  },
+                  {
+                     "role" : "Businessman / Father",
+                     "name" : "Matthew Bowerman"
+                  },
+                  {
+                     "role" : "Casey's Mother",
+                     "name" : "Kelly Werkheiser"
+                  },
+                  {
+                     "name" : "Aleksandra Svetlichnaya",
+                     "role" : "Pedestrian"
+                  },
+                  {
+                     "role" : "Zoo Goer",
+                     "name" : "Jalina Mercado"
+                  },
+                  {
+                     "role" : "Zoo Worker",
+                     "name" : "Michael J. Kraycik"
+                  },
+                  {
+                     "name" : "Michelle Santiago",
+                     "role" : "Zoo Worker"
+                  },
+                  {
+                     "name" : "Michaela Bockarie",
+                     "role" : "Zoo Attendee"
+                  },
+                  {
+                     "name" : "Colin Campbell",
+                     "role" : "Boy in Park"
+                  },
+                  {
+                     "role" : "Police Officer (uncredited)",
+                     "name" : "Jeff Buckner"
+                  },
+                  {
+                     "role" : "Police Officer #2",
+                     "name" : "Nakia Dillard"
+                  },
+                  {
+                     "name" : "Vincent Riviezzo",
+                     "role" : "Detective (uncredited)"
+                  },
+                  {
+                     "name" : "John Jillard Sr.",
+                     "role" : "Homeland Security"
+                  },
+                  {
+                     "name" : "Julie Potter",
+                     "role" : "Paramedic"
+                  },
+                  {
+                     "role" : "News Anchor",
+                     "name" : "Ukee Washington"
+                  },
+                  {
+                     "name" : "Christopher Lee Philips",
+                     "role" : "Older Worker"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/381288"
+            },
+            "date" : "2016",
+            "start" : "1531969200",
+            "desc" : {
+               "da" : "Dybt inde i Kevins mystiske sind, gemmer der sig treogtyve forskellige \u00f8delagte - men intelligente - personligheder. Men hans betroede psykiater tror, at der stadig findes en mere uidentificeret derinde, der vil dominere de andre. Kevin, der bliver tvunget til at bortf\u00f8re tre teenagepiger - f\u00f8rt an af den p\u00e5passelige Casey - kommer i en kamp med alle dem inde i ham - samt alle dem uden om ham - i takt med, at hans verden begynder at bryde sammen."
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/381288"
+            ],
+            "channel" : "film.viasat.dk",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "Split"
+            },
+            "rating" : {
+               "stars" : "7.1 / 10"
+            }
+         },
+         {
+            "new" : null,
+            "title" : {
+               "da" : "Op i det bl\u00e5"
+            },
+            "country" : [
+               "SE"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "desc" : {
+               "da" : "Pottan (Mira Forsell) bliver efterladt p\u00e5 det, der ser ud til at v\u00e6re en rideskole. Men det viser sig at v\u00e6re et genbrugsanl\u00e6g, der styres af en r\u00e6kke finurlige karakterer. De f\u00f8lger hende, mens hun p\u00e5begynder en sk\u00f8r tur rundt p\u00e5 pladsen. Tingene bliver endnu mere vilde, da de introducerer hende til deres planer om at affyre en raket ud i rummet."
+            },
+            "start" : "1531976400",
+            "date" : "2016",
+            "channel" : "film.viasat.dk",
+            "stop" : "1531983600",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Petter Lennstrand"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Mira Forsell"
+                  },
+                  {
+                     "name" : "Sofie G\u00e4llersp\u00e5ng"
+                  },
+                  {
+                     "name" : "Susanne Thorson"
+                  },
+                  {
+                     "name" : "Eric Ericson"
+                  },
+                  {
+                     "name" : "Petter Lennstrand"
+                  }
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Comedy",
+                  "Crime",
+                  "Family"
+               ]
+            },
+            "stop" : "1531990800",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Frederik Meldal N\u00f8rgaard"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Frederik Meldal N\u00f8rgaard"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Onkel Georg",
+                     "name" : "Brian Lykke"
+                  },
+                  {
+                     "name" : "Luca Reichardt Ben Coker",
+                     "role" : "Bertram"
+                  },
+                  {
+                     "role" : "Anders",
+                     "name" : "Alfred Bjerre Larsen"
+                  },
+                  {
+                     "name" : "Mette Svane Pedersen",
+                     "role" : "Winni"
+                  },
+                  {
+                     "role" : "Oskar",
+                     "name" : "Samuel Hallas"
+                  },
+                  {
+                     "name" : "Anders Brink Madsen",
+                     "role" : "Far"
+                  },
+                  {
+                     "role" : "Mor",
+                     "name" : "Therese Damsgaard"
+                  },
+                  {
+                     "role" : "Bernards far",
+                     "name" : "Kristian Ibler"
+                  },
+                  {
+                     "name" : "Cornelius M\u00fcller",
+                     "role" : "Bernard"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/458787"
+            },
+            "date" : "2017",
+            "start" : "1531983600",
+            "desc" : {
+               "da" : "Bertram og hans s\u00f8skende kommer altid i problemer, takket v\u00e6re deres h\u00e5bl\u00f8se - men charmerende - onkel. Lille Bertram er den yngste i en s\u00f8skendeflok af fire. Deres far er arbejdsl\u00f8s og tidligere kriminel - og Bertrams onkel George er en bondefanger, der altid er p\u00e5 udkig efter \"smarte\" m\u00e5der at tjene penge p\u00e5. Hans seneste plan er, at familien skal kidnappe en ung mands s\u00f8n og kr\u00e6ve l\u00f8sepenge. Desv\u00e6rre kidnapper de det forkerte barn, og derfra g\u00e5r alt galt."
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/458787"
+            ],
+            "channel" : "film.viasat.dk",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "Kidnapning"
+            }
+         },
+         {
+            "new" : null,
+            "rating" : {
+               "stars" : "5.8 / 10"
+            },
+            "title" : {
+               "da" : "The Great Wall"
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "AU",
+               "CA",
+               "CN",
+               "HK",
+               "US"
+            ],
+            "desc" : {
+               "da" : "William Garin (Matt Damon) og Pero Tovar (Pedro Pascal) er et par lejesoldater, der er p\u00e5 en mission for at l\u00e6re hemmeligheden om krudt. De bliver taget som gidsler af tropperne, der er udstationeret ved en f\u00e6stning ved Den Kinesiske Mur. Efter at have snakket med deres medfange, Sir Ballard (Willem Defoe), bliver de rekrutteret af h\u00e6rf\u00f8reren for Crane-tropperne, Lin Mae (Jing Tian), der bruger deres f\u00e6rdigheder mod en endel\u00f8s r\u00e6kke af overnaturlige monstre, som Muren blev bygget til at holde ude."
+            },
+            "start" : "1531990800",
+            "date" : "2016",
+            "channel" : "film.viasat.dk",
+            "url" : [
+               "http://www.themoviedb.org/movie/311324"
+            ],
+            "stop" : "1531998000",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Adventure",
+                  "Fantasy"
+               ]
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/311324"
+            },
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Jon Jashni"
+                  },
+                  {
+                     "name" : "Peter Loehr"
+                  },
+                  {
+                     "name" : "Charles Roven"
+                  },
+                  {
+                     "name" : "Thomas Tull"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Doug Miro"
+                  },
+                  {
+                     "name" : "Tony Gilroy"
+                  },
+                  {
+                     "name" : "Carlo Bernard"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Matt Damon",
+                     "role" : "William Garin"
+                  },
+                  {
+                     "name" : "Jing Tian",
+                     "role" : "General Lin Mei"
+                  },
+                  {
+                     "name" : "Willem Dafoe",
+                     "role" : "Ballard"
+                  },
+                  {
+                     "name" : "Andy Lau",
+                     "role" : "Wang Junshi"
+                  },
+                  {
+                     "name" : "Pedro Pascal",
+                     "role" : "Pero Tovar"
+                  },
+                  {
+                     "name" : "Zhang Hanyu",
+                     "role" : "General Shao"
+                  },
+                  {
+                     "name" : "Lu Han",
+                     "role" : "Peng Yong"
+                  },
+                  {
+                     "role" : "Commander Chen",
+                     "name" : "Lin Gengxin"
+                  },
+                  {
+                     "name" : "Eddie Peng",
+                     "role" : "Commander Wu"
+                  },
+                  {
+                     "name" : "Huang Xuan",
+                     "role" : "Commander Deng"
+                  },
+                  {
+                     "role" : "Shen",
+                     "name" : "Ryan Zheng Kai"
+                  },
+                  {
+                     "role" : "Imperial Officer",
+                     "name" : "Cheney Chen"
+                  },
+                  {
+                     "name" : "Pilou Asb\u00e6k",
+                     "role" : "Bouchard"
+                  },
+                  {
+                     "name" : "Numan Acar",
+                     "role" : "Najid"
+                  },
+                  {
+                     "role" : "Lin Mae's 2nd Lieutenant Li Qing",
+                     "name" : "Bing Liu"
+                  },
+                  {
+                     "role" : "Emperor",
+                     "name" : "Karry Wang"
+                  },
+                  {
+                     "role" : "Rizzetti",
+                     "name" : "Johnny Cicco"
+                  },
+                  {
+                     "name" : "Vicky Yu",
+                     "role" : "Lieutenant Xiao Yu"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Zhang Yimou"
+                  }
+               ]
+            }
+         },
+         {
+            "new" : null,
+            "title" : {
+               "da" : "Sameblod"
+            },
+            "rating" : {
+               "stars" : "7.3 / 10"
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "DK",
+               "NO",
+               "SE"
+            ],
+            "desc" : {
+               "da" : "Elle Marj er en teenage S\u00e1mi-pige. Efter at v\u00e6re blevet udsat for b\u00e5de racisme og racebiologiske unders\u00f8gelser p\u00e5 hendes kostskole i 1930'erne, begynder hun at dr\u00f8mme om et andet liv. For at realisere sine dr\u00f8mme, m\u00e5 hun blive en anden, og afbryde alle forbindelser til sin familie og kultur."
+            },
+            "date" : "2017",
+            "start" : "1531998000",
+            "channel" : "film.viasat.dk",
+            "url" : [
+               "http://www.themoviedb.org/movie/408435"
+            ],
+            "stop" : "1532004600",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama"
+               ]
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/408435"
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Amanda Kernell"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Amanda Kernell"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Elle Marja",
+                     "name" : "Lene Cecilia Sparrok"
+                  },
+                  {
+                     "role" : "Njenna",
+                     "name" : "Mia Sparrok"
+                  },
+                  {
+                     "role" : "Elle Marja",
+                     "name" : "Maj-Doris Rimpi"
+                  },
+                  {
+                     "role" : "Niklas",
+                     "name" : "Julius Fleischanderl"
+                  },
+                  {
+                     "name" : "Olle Sarri",
+                     "role" : "Olle"
+                  },
+                  {
+                     "name" : "Hanna Alstr\u00f6m",
+                     "role" : "The Teacher"
+                  },
+                  {
+                     "name" : "Malin Cr\u00e9pin",
+                     "role" : "Elise"
+                  },
+                  {
+                     "role" : "Gustav",
+                     "name" : "Andreas Kundler"
+                  },
+                  {
+                     "name" : "Ylva Gustafsson",
+                     "role" : "Laevie"
+                  },
+                  {
+                     "role" : "Ingrid",
+                     "name" : "Hanna Asp"
+                  },
+                  {
+                     "role" : "M\u00e4rta",
+                     "name" : "Kajsa Karlsson"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Lars G. Lindstr\u00f6m"
+                  }
+               ]
+            }
+         },
+         {
+            "date" : "1987",
+            "start" : "1532004600",
+            "url" : [
+               "http://www.themoviedb.org/movie/49038"
+            ],
+            "channel" : "film.viasat.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Family",
+                  "Romance",
+                  "Music"
+               ]
+            },
+            "stop" : "1532012400",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Beast",
+                     "name" : "John Savage"
+                  },
+                  {
+                     "name" : "Rebecca De Mornay",
+                     "role" : "Beauty"
+                  },
+                  {
+                     "role" : "Father",
+                     "name" : "Yossi Graber"
+                  },
+                  {
+                     "name" : "Michael Schneider",
+                     "role" : "Kuppel"
+                  },
+                  {
+                     "name" : "Carmela Marner",
+                     "role" : "Bettina"
+                  },
+                  {
+                     "role" : "Isabella",
+                     "name" : "Ruth Harlap"
+                  },
+                  {
+                     "role" : "Oliver",
+                     "name" : "Joseph Bee"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Eugene Marner"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Carole Lucia Satrina"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Yoram Globus"
+                  },
+                  {
+                     "name" : "Menahem Golan"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/49038"
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Beauty and the Beast"
+            },
+            "rating" : {
+               "stars" : "6.5 / 10"
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "IL",
+               "US"
+            ]
+         },
+         {
+            "new" : null,
+            "title" : {
+               "da" : "Grusomme mig 3"
+            },
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "start" : "1532012400",
+            "date" : "2017",
+            "desc" : {
+               "da" : "Superskurken Gru er blevet fyret fra Anti-skurke-holdet, da han ikke form\u00e5ede at stoppe den nyeste trussel mod menneskeheden. Han bliver nedtrykt, men f\u00e5r genrejsning da Dru - hans ukendte tvillingebror - gerne vil m\u00f8des med ham. Gru og hans familie afl\u00e6gger broderen et bes\u00f8g i hans hjem. Br\u00f8drene g\u00e5r sammen om at besejre Balthazar Bratt; en tidligere b\u00f8rnestjerne, der er blevet superskurk, og som nu terroriserer verden."
+            },
+            "channel" : "film.viasat.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Animation",
+                  "Adventure",
+                  "Kids"
+               ]
+            },
+            "stop" : "1532019600",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Steve Carell"
+                  },
+                  {
+                     "name" : "Kristen Wiig"
+                  },
+                  {
+                     "name" : "Trey Parker"
+                  },
+                  {
+                     "name" : "Miranda Cosgrove"
+                  },
+                  {
+                     "name" : "Steve Coogan"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Pierre Coffin"
+                  },
+                  {
+                     "name" : "Kyle Balda"
+                  }
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Gemt inde i vores telefoner er der en verden af emojier. En af disse \"beboere\" er Gene, der er blevet fortalt, at han er \"tjah\"-emojien. Men han opdager, at han har en masse andre f\u00f8lelser, s\u00e5 derfor kommer han p\u00e5 kant med de andre emojis. Fast besluttet p\u00e5 at finde sin rette hylde i denne verden (og blive gjort klar til at blive sendt med en besked), g\u00e5r han sammen med \"Jailbreak\" - en kodekn\u00e6kker - og \"Hi-5\", for at begive sig ud p\u00e5 en rejse p\u00e5 tv\u00e6rs af flere forskellige apps."
+            },
+            "start" : "1532019600",
+            "date" : "2017",
+            "channel" : "film.viasat.dk",
+            "url" : [
+               "http://www.themoviedb.org/movie/378236"
+            ],
+            "stop" : "1532026800",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Animation",
+                  "Family",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/378236"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Gene (voice)",
+                     "name" : "T.J. Miller"
+                  },
+                  {
+                     "name" : "James Corden",
+                     "role" : "Hi-5 (voice)"
+                  },
+                  {
+                     "name" : "Anna Faris",
+                     "role" : "Jailbreak (voice)"
+                  },
+                  {
+                     "role" : "Smiler (voice)",
+                     "name" : "Maya Rudolph"
+                  },
+                  {
+                     "role" : "Mel Meh (voice)",
+                     "name" : "Steven Wright"
+                  },
+                  {
+                     "name" : "Jennifer Coolidge",
+                     "role" : "Mary Meh (voice)"
+                  },
+                  {
+                     "role" : "Alex (voice)",
+                     "name" : "Jake T. Austin"
+                  },
+                  {
+                     "role" : "Akiko Glitter (voice)",
+                     "name" : "Christina Aguilera"
+                  },
+                  {
+                     "role" : "Flamenco Dancer (voice)",
+                     "name" : "Sof\u00eda Vergara"
+                  },
+                  {
+                     "role" : "Poop (voice)",
+                     "name" : "Patrick Stewart"
+                  },
+                  {
+                     "name" : "Rob Riggle",
+                     "role" : "Ice Cream (voice)"
+                  },
+                  {
+                     "name" : "Sean Hayes",
+                     "role" : "Steven (voice)"
+                  },
+                  {
+                     "name" : "Tati Gabrielle",
+                     "role" : "Addie (voice)"
+                  },
+                  {
+                     "name" : "Jude Koyaute",
+                     "role" : "Poop Jr. (voice)"
+                  },
+                  {
+                     "name" : "Rachael Ray",
+                     "role" : "Spam (voice)"
+                  },
+                  {
+                     "name" : "Jeffrey Ross",
+                     "role" : "Internet Troll (voice)"
+                  },
+                  {
+                     "name" : "Melissa Sturm",
+                     "role" : "Angel / Phone Store Employee (voice)"
+                  },
+                  {
+                     "role" : "Laughter / Broom / Pizza (voice)",
+                     "name" : "Anthony Leondis"
+                  },
+                  {
+                     "role" : "Travis (voice)",
+                     "name" : "Sean Giambrone"
+                  },
+                  {
+                     "name" : "Timothy Durkin",
+                     "role" : "Mr. Schnoebelen (voice)"
+                  },
+                  {
+                     "name" : "Liam Aiken",
+                     "role" : "Ronnie Ram Tech (voice)"
+                  },
+                  {
+                     "name" : "Wendell Brooks",
+                     "role" : "Ram Tech Bouncer (voice)"
+                  },
+                  {
+                     "name" : "Thom Bishops",
+                     "role" : "Fist Bump"
+                  },
+                  {
+                     "role" : "Gavel (voice)",
+                     "name" : "Kevin Chamberlin"
+                  },
+                  {
+                     "name" : "William Townsend",
+                     "role" : "Rocket (voice)"
+                  },
+                  {
+                     "name" : "Adam Brown",
+                     "role" : "Flashlight / Trojan Horse (voice)"
+                  },
+                  {
+                     "name" : "William J. Caparella",
+                     "role" : "Alien (voice)"
+                  },
+                  {
+                     "role" : "Red Wagon (voice)",
+                     "name" : "Joe Whyte"
+                  },
+                  {
+                     "name" : "Conrad Vernon",
+                     "role" : "Trojan Horse (voice)"
+                  },
+                  {
+                     "name" : "Kate Miller",
+                     "role" : "Heart Eyes (voice)"
+                  },
+                  {
+                     "role" : "Nerd Emoji (voice)",
+                     "name" : "Rich Dietl"
+                  },
+                  {
+                     "name" : "Derek Mio",
+                     "role" : "Elephant (voice)"
+                  },
+                  {
+                     "role" : "Cat Heart Eyes (voice)",
+                     "name" : "Paige Eileen Caparella"
+                  },
+                  {
+                     "name" : "Bob Bergen",
+                     "role" : "Additional Voices (voice)"
+                  },
+                  {
+                     "role" : "Additional Voices (voice)",
+                     "name" : "Debi Derryberry"
+                  },
+                  {
+                     "name" : "Jess Harnell",
+                     "role" : "Additional Voices (voice)"
+                  },
+                  {
+                     "role" : "Additional Voices (voice)",
+                     "name" : "Phil LaMarr"
+                  },
+                  {
+                     "role" : "Additional Voices (voice)",
+                     "name" : "Laraine Newman"
+                  },
+                  {
+                     "name" : "Tara Strong",
+                     "role" : "Additional Voices (voice)"
+                  },
+                  {
+                     "name" : "Fred Tatasciore",
+                     "role" : "Additional Voices (voice)"
+                  },
+                  {
+                     "name" : "E.G. Daily",
+                     "role" : "Additional Voices (voice)"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Anthony Leondis"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Michelle Raimo"
+                  }
+               ]
+            },
+            "new" : null,
+            "rating" : {
+               "stars" : "5.5 / 10"
+            },
+            "title" : {
+               "da" : "Emoji Filmen"
+            },
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            }
+         },
+         {
+            "url" : [
+               "http://www.themoviedb.org/movie/140300"
+            ],
+            "channel" : "film.viasat.dk",
+            "date" : "2016",
+            "start" : "1532026800",
+            "desc" : {
+               "da" : "Da Po's l\u00e6nge savnede far pludselig dukker op igen, rejser de to til et hemmeligt panda-paradis, for at m\u00f8des med en r\u00e6kke sjove panda-karakterer. Men da den overnaturlige superskurk, Kai, begynder at bek\u00e6mpe alle kung fu-mestrene, m\u00e5 Po g\u00f8re det umulige: Han m\u00e5 tr\u00e6ne en landsby fuld af sjove, klumsede pandaer, s\u00e5 de kan blive den ultimative h\u00e6r af kung fu-pandaer!"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Po (voice)",
+                     "name" : "Jack Black"
+                  },
+                  {
+                     "name" : "Bryan Cranston",
+                     "role" : "Li (voice)"
+                  },
+                  {
+                     "name" : "Dustin Hoffman",
+                     "role" : "Shifu (voice)"
+                  },
+                  {
+                     "name" : "Angelina Jolie",
+                     "role" : "Tigress (voice)"
+                  },
+                  {
+                     "role" : "Kai (voice)",
+                     "name" : "J.K. Simmons"
+                  },
+                  {
+                     "role" : "Monkey (voice)",
+                     "name" : "Jackie Chan"
+                  },
+                  {
+                     "name" : "Seth Rogen",
+                     "role" : "Mantis (voice)"
+                  },
+                  {
+                     "role" : "Viper (voice)",
+                     "name" : "Lucy Liu"
+                  },
+                  {
+                     "role" : "Crane (voice)",
+                     "name" : "David Cross"
+                  },
+                  {
+                     "name" : "Kate Hudson",
+                     "role" : "Mei Mei (voice)"
+                  },
+                  {
+                     "role" : "Mr. Ping (voice)",
+                     "name" : "James Hong"
+                  },
+                  {
+                     "name" : "Randall Duk Kim",
+                     "role" : "Oogway (voice)"
+                  },
+                  {
+                     "role" : "Bao (voice)",
+                     "name" : "Steele Gagnon"
+                  },
+                  {
+                     "name" : "Liam Knight",
+                     "role" : "Lei Lei (voice)"
+                  },
+                  {
+                     "name" : "Wayne Knight",
+                     "role" : "Big Fun / Hom-Lee (voice)"
+                  },
+                  {
+                     "role" : "Grandma Panda (voice)",
+                     "name" : "Barbara Dirickson"
+                  },
+                  {
+                     "name" : "Al Roker",
+                     "role" : "Sum (voice)"
+                  },
+                  {
+                     "name" : "Willie Geist",
+                     "role" : "Dim (voice)"
+                  },
+                  {
+                     "name" : "Fred Tatasciore",
+                     "role" : "Master Bear (voice)"
+                  },
+                  {
+                     "role" : "Yoo (voice)",
+                     "name" : "Pax Jolie-Pitt"
+                  },
+                  {
+                     "name" : "Kelly Cooney",
+                     "role" : "Female Palace Goose (voice)"
+                  },
+                  {
+                     "role" : "Master Chicken (voice)",
+                     "name" : "Stephen Kearin"
+                  },
+                  {
+                     "name" : "Mick Wingert",
+                     "role" : "Farmer Goose / Farmer Rabbit (voice)"
+                  },
+                  {
+                     "name" : "Ming Tsai",
+                     "role" : "Ming (voice)"
+                  },
+                  {
+                     "role" : "Mrs. Chow (voice)",
+                     "name" : "April Hong"
+                  },
+                  {
+                     "role" : "Ku Ku (voice)",
+                     "name" : "Knox Jolie-Pitt"
+                  },
+                  {
+                     "role" : "Meng Meng (voice)",
+                     "name" : "Zahara Jolie-Pitt"
+                  },
+                  {
+                     "name" : "Shiloh Jolie-Pitt",
+                     "role" : "Shuai Shuai (voice)"
+                  },
+                  {
+                     "name" : "Jean-Claude Van Damme",
+                     "role" : "Master Croc (voice)"
+                  },
+                  {
+                     "role" : "Mi (voice)",
+                     "name" : "Radzi Chinyanganya"
+                  },
+                  {
+                     "role" : "Peony (voice)",
+                     "name" : "Lindsey Russell"
+                  },
+                  {
+                     "name" : "Joseph Izzo",
+                     "role" : "Dumpling Record Pig (voice)"
+                  },
+                  {
+                     "name" : "Lena Golia",
+                     "role" : "Cheering Bunny (voice)"
+                  },
+                  {
+                     "name" : "Gus Culligan",
+                     "role" : "Panda Villager Kid (voice)"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Jennifer Yuh Nelson"
+                  },
+                  {
+                     "name" : "Alessandro Carloni"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Melissa Cobb"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/140300"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Adventure",
+                  "Animation",
+                  "Comedy",
+                  "Family"
+               ]
+            },
+            "stop" : "1532034000",
+            "title" : {
+               "da" : "Kung Fu Panda 3"
+            },
+            "rating" : {
+               "stars" : "6.6 / 10"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "CN",
+               "US"
+            ]
+         },
+         {
+            "rating" : {
+               "stars" : "6.6 / 10"
+            },
+            "title" : {
+               "da" : "Like Crazy"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "http://www.themoviedb.org/movie/60420"
+            ],
+            "channel" : "film.viasat.dk",
+            "date" : "2011",
+            "start" : "1532034000",
+            "desc" : {
+               "da" : "Anna og Jacob falder \u00f8jeblikkeligt for hinanden, da de m\u00f8des, mens de begge er studerende p\u00e5 et universitet i Los Angeles. Men Anna er britisk, og da hun er f\u00e6rdig med sine studier, beslutter hun sig for at blive i USA, selvom hun ikke har opholdstilladelse. Efter et bes\u00f8g hjemme i England kan hun imidlertid ikke f\u00e5 lov at komme ind i USA igen. Mens Anna k\u00e6mper med myndighederne, m\u00e5 hun og Jacob afg\u00f8re, om deres forhold er de mange pr\u00f8velser v\u00e6rd."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Jacob Helm",
+                     "name" : "Anton Yelchin"
+                  },
+                  {
+                     "name" : "Felicity Jones",
+                     "role" : "Anna Gardner"
+                  },
+                  {
+                     "name" : "Jennifer Lawrence",
+                     "role" : "Sam"
+                  },
+                  {
+                     "role" : "Simon",
+                     "name" : "Charlie Bewley"
+                  },
+                  {
+                     "name" : "Alex Kingston",
+                     "role" : "Jackie Gardner"
+                  },
+                  {
+                     "name" : "Oliver Muirhead",
+                     "role" : "Bernard Gardner"
+                  },
+                  {
+                     "role" : "Liz",
+                     "name" : "Finola Hughes"
+                  },
+                  {
+                     "role" : "Mike Appletree",
+                     "name" : "Chris Messina"
+                  },
+                  {
+                     "role" : "Ross",
+                     "name" : "Ben York Jones"
+                  },
+                  {
+                     "name" : "Edy Ganem",
+                     "role" : "Isabelle"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Drake Doremus"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/60420"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama",
+                  "Romance"
+               ]
+            },
+            "stop" : "1532041200"
+         },
+         {
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "GB"
+            ],
+            "new" : null,
+            "rating" : {
+               "stars" : "6.2 / 10"
+            },
+            "title" : {
+               "da" : "Hampstead"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Comedy",
+                  "Romance"
+               ]
+            },
+            "stop" : "1532048400",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Robert Festinger"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Emily Walters",
+                     "name" : "Diane Keaton"
+                  },
+                  {
+                     "role" : "Donald Horner",
+                     "name" : "Brendan Gleeson"
+                  },
+                  {
+                     "name" : "James Norton",
+                     "role" : "Philip"
+                  },
+                  {
+                     "name" : "Lesley Manville",
+                     "role" : "Fiona"
+                  },
+                  {
+                     "role" : "James Smythe",
+                     "name" : "Jason Watkins"
+                  },
+                  {
+                     "role" : "Judge",
+                     "name" : "Simon Callow"
+                  },
+                  {
+                     "role" : "Steve Crowley",
+                     "name" : "Alistair Petrie"
+                  },
+                  {
+                     "role" : "Fyfe",
+                     "name" : "Phil Davis"
+                  },
+                  {
+                     "name" : "Hugh Skinner",
+                     "role" : "Erik"
+                  },
+                  {
+                     "name" : "Adeel Akhtar",
+                     "role" : "Donald's Lawyer"
+                  },
+                  {
+                     "name" : "Rosalind Ayres",
+                     "role" : "Susan"
+                  },
+                  {
+                     "role" : "Mary Neal",
+                     "name" : "Deborah Findlay"
+                  },
+                  {
+                     "name" : "Will Smith",
+                     "role" : "Leon Rowlands"
+                  },
+                  {
+                     "role" : "Rory",
+                     "name" : "Brian Protheroe"
+                  },
+                  {
+                     "role" : "Xavier",
+                     "name" : "Peter Singh"
+                  },
+                  {
+                     "role" : "Dog Walker",
+                     "name" : "Jo Wheatley"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Joel Hopkins"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Robert Bernstein"
+                  },
+                  {
+                     "name" : "Douglas Rae"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/441728"
+            },
+            "date" : "2017",
+            "start" : "1532041200",
+            "desc" : {
+               "da" : "Emily Walters er en amerikaner, der bor i London. Her er hun blevet efterladt i dyb g\u00e6ld, efter at han hendes utro mand er d\u00f8d. Hun bliver venner med Donald Horner: En lokal mand, der har sat et skur op i Hampstead Heath. De to bliver venner, da en hensynsl\u00f8s bygherre fors\u00f8ger at f\u00e5 dem fjernet fra omr\u00e5det, s\u00e5 han kan bygge der. Men det f\u00f8rer i stedet til, at de to venner f\u00e5r opbakning fra lokalbefolkningen, s\u00e5 de kan k\u00e6mpe mod bygherren."
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/441728"
+            ],
+            "channel" : "film.viasat.dk"
+         }
+      ]
+   }
+}

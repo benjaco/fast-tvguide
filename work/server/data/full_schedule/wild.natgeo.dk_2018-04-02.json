@@ -1,0 +1,1226 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2011",
+            "country" : [
+               "FR"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Mini"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=254786&seasonid=481570&id=4231375&lid=7"
+            ],
+            "new" : "0",
+            "start" : "1522627500",
+            "stop" : "1522630500",
+            "desc" : {
+               "da" : "Koralpolypper er sm\u00e5 dyr, der bygger undervandsbjerge, hvor mange forskellige arter holder til."
+            },
+            "title" : {
+               "da" : "Akvariets konger"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 1",
+               "xmltv_ns" : "0 . 2 .",
+               "thetvdb.com" : "series/254786"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-02-10 10:40:00",
+            "subTitle" : {
+               "da" : "Predators Paradise"
+            }
+         },
+         {
+            "start" : "1522630500",
+            "stop" : "1522633200",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=254786&seasonid=481570&id=4231373&lid=7"
+            ],
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Mini"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "country" : [
+               "FR"
+            ],
+            "date" : "2011",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Jacques Perrin"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Giants Of The Deep"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-02-10 11:25:00",
+            "episodeNum" : {
+               "thetvdb.com" : "series/254786",
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            },
+            "title" : {
+               "da" : "Akvariets konger"
+            },
+            "desc" : {
+               "da" : "Hvaler, pingviner, leguaner og delfiner har alle arvet en byrdefuld vejrtr\u00e6kningsarv fra deres landboende forf\u00e6dre."
+            }
+         },
+         {
+            "date" : "2014",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "stop" : "1522636200",
+            "start" : "1522633200",
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=326020&seasonid=705483&id=6019261&lid=7"
+            ],
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 .",
+               "thetvdb.com" : "series/326020"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-02-02 17:50:00",
+            "desc" : {
+               "da" : "Den fugtige Choc\u00f3-region str\u00e6kker sig langs landets vestkyst og huser regnskov, som er isoleret af Andesbjergene og rig p\u00e5 unikke dyrearter."
+            },
+            "title" : {
+               "da" : "Det vilde Colombia"
+            },
+            "subTitle" : {
+               "da" : "The Choc\u00f3: Colombia's Wild Coast"
+            }
+         },
+         {
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=326020&seasonid=705483&id=6019267&lid=7"
+            ],
+            "new" : "0",
+            "stop" : "1522638900",
+            "start" : "1522636200",
+            "date" : "2014",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Serrania de la Macarena: Nature's Treasure Trove"
+            },
+            "title" : {
+               "da" : "Det vilde Colombia"
+            },
+            "desc" : {
+               "da" : "Dette relativt uudforskede sandstensfremspring har det hele: Frodig jungle, krat, savanne, isolerede bjergtoppe, floder og spektakul\u00e6re vandfald."
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/326020",
+               "xmltv_ns" : "0 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 1"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-02-02 18:35:00"
+         },
+         {
+            "title" : {
+               "da" : "Det vilde Colombia"
+            },
+            "desc" : {
+               "da" : "Dette omr\u00e5des forhistoriske t\u00e5rne, vandfald og dybe kl\u00f8fter er omgivet af floder, s\u00f8er og regnskove, hvor det vrimler med liv."
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/326020",
+               "xmltv_ns" : "0 . 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 1"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-02-02 19:25:00",
+            "subTitle" : {
+               "da" : "Chiribiquete: Journey To The Heart of The Amazon"
+            },
+            "date" : "2014",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=326020&seasonid=705483&id=6019268&lid=7"
+            ],
+            "new" : "0",
+            "stop" : "1522641600",
+            "start" : "1522638900"
+         },
+         {
+            "desc" : {
+               "da" : "Mange levende v\u00e6sner bliver gnasket, tygget og slugt af millioner af andre sultne v\u00e6sner, som alle spiser p\u00e5 den restaurant, vi kalder Jorden."
+            },
+            "title" : {
+               "da" : "Vildt p\u00e5 menuen"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 26 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0/26 ."
+            },
+            "subTitle" : {
+               "da" : "Restaurant Jorden"
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2014",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "new" : "0",
+            "start" : "1522641600",
+            "stop" : "1522643100"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2014",
+            "start" : "1522643100",
+            "stop" : "1522644600",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 26 s\u00e6son 1",
+               "xmltv_ns" : "0 . 1/26 ."
+            },
+            "desc" : {
+               "da" : "Insekter og andre leddyr er blandt de mest popul\u00e6re retter p\u00e5 vores planets menu, og de er ogs\u00e5 selv i stand til at spise n\u00e6sten hvad som helst."
+            },
+            "title" : {
+               "da" : "Vildt p\u00e5 menuen"
+            },
+            "subTitle" : {
+               "da" : "Knasende kryb"
+            }
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "date" : "2017",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "start" : "1522644600",
+            "stop" : "1522647600",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "new" : "0",
+            "previously_shown" : "wild.natgeo.dk|2018-04-01 16:00:00",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 1",
+               "xmltv_ns" : ". 0/1 ."
+            },
+            "title" : {
+               "da" : "Det vilde Sydamerika"
+            },
+            "desc" : {
+               "da" : "Det her er historien om livet p\u00e5 kanten af en stor bjergk\u00e6de, som g\u00e5r gennem hele det sydamerikanske kontinent."
+            },
+            "subTitle" : {
+               "da" : "Det vilde Sydamerika"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Vilde \u00f8giganter"
+            },
+            "desc" : {
+               "da" : "Halvvejs mellem New Zealand og Antarktis ligger de barske Auckland Islands, en oase af liv i det barske sydlige hav."
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-04-01 16:55:00",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 1",
+               "xmltv_ns" : ". 0/1 ."
+            },
+            "subTitle" : {
+               "da" : "Vilde \u00f8giganter"
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2017",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "new" : "0",
+            "start" : "1522647600",
+            "stop" : "1522650300"
+         },
+         {
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2016",
+            "country" : [
+               "UK"
+            ],
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "new" : "0",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=320023&seasonid=689161&id=5846697&lid=7"
+            ],
+            "start" : "1522650300",
+            "stop" : "1522653300",
+            "title" : {
+               "da" : "Savage Kingdom"
+            },
+            "desc" : {
+               "da" : "Leoparden Saba er en dr\u00e6ber uden rivaler, men hendes styrke og kr\u00e6fter kommer p\u00e5 en pr\u00f8ve, da hun skal opdr\u00e6tte to unger."
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-02-15 07:25:00",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "thetvdb.com" : "series/320023",
+               "xmltv_ns" : "0 . 1 ."
+            },
+            "subTitle" : {
+               "da" : "Mother of Lions"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Narrator",
+                     "name" : "Charles Dance"
+                  }
+               ]
+            }
+         },
+         {
+            "new" : "0",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=320023&seasonid=689161&id=5896766&lid=7"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "start" : "1522653300",
+            "stop" : "1522656300",
+            "date" : "2016",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "country" : [
+               "UK"
+            ],
+            "subTitle" : {
+               "da" : "The Pale Pack"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Narrator",
+                     "name" : "Charles Dance"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "En familie vilde hunde leder efter et sted at opdr\u00e6tte seks, sm\u00e5 hvalpe, men det fristed, de ops\u00f8ger, er fyldt med potentielle rovdyr."
+            },
+            "title" : {
+               "da" : "Savage Kingdom"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 s\u00e6son 1",
+               "xmltv_ns" : "0 . 4 .",
+               "thetvdb.com" : "series/320023"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-02-15 08:15:00"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "new" : "0",
+            "stop" : "1522659300",
+            "start" : "1522656300",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2017",
+            "country" : [
+               "US"
+            ],
+            "subTitle" : {
+               "da" : "Det vilde Sydamerika"
+            },
+            "title" : {
+               "da" : "Det vilde Sydamerika"
+            },
+            "desc" : {
+               "da" : "Det her er historien om livet p\u00e5 kanten af en stor bjergk\u00e6de, som g\u00e5r gennem hele det sydamerikanske kontinent."
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-04-01 16:00:00",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 1",
+               "xmltv_ns" : ". 0/1 ."
+            }
+         },
+         {
+            "previously_shown" : "wild.natgeo.dk|2018-04-01 16:55:00",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 1",
+               "xmltv_ns" : ". 0/1 ."
+            },
+            "desc" : {
+               "da" : "Halvvejs mellem New Zealand og Antarktis ligger de barske Auckland Islands, en oase af liv i det barske sydlige hav."
+            },
+            "title" : {
+               "da" : "Vilde \u00f8giganter"
+            },
+            "subTitle" : {
+               "da" : "Vilde \u00f8giganter"
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2017",
+            "start" : "1522659300",
+            "stop" : "1522662000",
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "wild.natgeo.dk"
+         },
+         {
+            "episodeNum" : {
+               "thetvdb.com" : "series/320023",
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-02-15 10:40:00",
+            "desc" : {
+               "da" : "En forsmag p\u00e5 Nat Geo WILDs kommende serie om den brutale kamp for overlevelse og videref\u00f8relse af sl\u00e6gten i dyrenes verden."
+            },
+            "title" : {
+               "da" : "Savage Kingdom"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Narrator",
+                     "name" : "Charles Dance"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Leopard's Rock"
+            },
+            "country" : [
+               "UK"
+            ],
+            "date" : "2016",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "start" : "1522662000",
+            "stop" : "1522664700",
+            "new" : "0",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=320023&seasonid=689161&id=5846696&lid=7"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "wild.natgeo.dk"
+         },
+         {
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Charles Dance",
+                     "role" : "Narrator"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Queen of the North"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 1",
+               "thetvdb.com" : "series/320023",
+               "xmltv_ns" : "0 . 2 ."
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-02-15 11:25:00",
+            "desc" : {
+               "da" : "Hun-hy\u00e6nen Zalika vil have h\u00e6vn over de l\u00f8ver, som har jaget hendes klan v\u00e6k. Hun danner en flok krigere for at konfrontere dem en gang for alle."
+            },
+            "title" : {
+               "da" : "Savage Kingdom"
+            },
+            "start" : "1522664700",
+            "stop" : "1522667700",
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=320023&seasonid=689161&id=5860897&lid=7"
+            ],
+            "new" : "0",
+            "country" : [
+               "UK"
+            ],
+            "date" : "2016",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Mother of Lions"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Charles Dance",
+                     "role" : "Narrator"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Leoparden Saba er en dr\u00e6ber uden rivaler, men hendes styrke og kr\u00e6fter kommer p\u00e5 en pr\u00f8ve, da hun skal opdr\u00e6tte to unger."
+            },
+            "title" : {
+               "da" : "Savage Kingdom"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/320023",
+               "xmltv_ns" : "0 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 1"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-02-15 07:25:00",
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=320023&seasonid=689161&id=5846697&lid=7"
+            ],
+            "new" : "0",
+            "start" : "1522667700",
+            "stop" : "1522670700",
+            "date" : "2016",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "country" : [
+               "UK"
+            ]
+         },
+         {
+            "stop" : "1522673400",
+            "start" : "1522670700",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=320023&seasonid=689161&id=5896766&lid=7"
+            ],
+            "new" : "0",
+            "country" : [
+               "UK"
+            ],
+            "date" : "2016",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Charles Dance",
+                     "role" : "Narrator"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "The Pale Pack"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 s\u00e6son 1",
+               "xmltv_ns" : "0 . 4 .",
+               "thetvdb.com" : "series/320023"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-02-15 08:15:00",
+            "desc" : {
+               "da" : "En familie vilde hunde leder efter et sted at opdr\u00e6tte seks, sm\u00e5 hvalpe, men det fristed, de ops\u00f8ger, er fyldt med potentielle rovdyr."
+            },
+            "title" : {
+               "da" : "Savage Kingdom"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Tre l\u00f8vinder k\u00e6mper for at beholde deres position. De var en stor familie, men deres s\u00f8nner er jaget v\u00e6k, og nu skal de genopbygge deres stolthed"
+            },
+            "title" : {
+               "da" : "Savage Kingdom"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-02-15 13:50:00",
+            "episodeNum" : {
+               "thetvdb.com" : "series/320023",
+               "xmltv_ns" : "0 . 3 .",
+               "onscreen" : "Afsnit 4 s\u00e6son 1"
+            },
+            "subTitle" : {
+               "da" : "The Rebel Army"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Narrator",
+                     "name" : "Charles Dance"
+                  }
+               ]
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2016",
+            "country" : [
+               "UK"
+            ],
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "new" : "0",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=320023&seasonid=689161&id=5896778&lid=7"
+            ],
+            "start" : "1522673400",
+            "stop" : "1522676100"
+         },
+         {
+            "subTitle" : {
+               "da" : "Leopard's Rock"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Charles Dance",
+                     "role" : "Narrator"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "En forsmag p\u00e5 Nat Geo WILDs kommende serie om den brutale kamp for overlevelse og videref\u00f8relse af sl\u00e6gten i dyrenes verden."
+            },
+            "title" : {
+               "da" : "Savage Kingdom"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "thetvdb.com" : "series/320023",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-02-15 10:40:00",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "new" : "0",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=320023&seasonid=689161&id=5846696&lid=7"
+            ],
+            "start" : "1522676100",
+            "stop" : "1522679100",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2016",
+            "country" : [
+               "UK"
+            ]
+         },
+         {
+            "title" : {
+               "da" : "Savage Kingdom"
+            },
+            "desc" : {
+               "da" : "Hun-hy\u00e6nen Zalika vil have h\u00e6vn over de l\u00f8ver, som har jaget hendes klan v\u00e6k. Hun danner en flok krigere for at konfrontere dem en gang for alle."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 1",
+               "xmltv_ns" : "0 . 2 .",
+               "thetvdb.com" : "series/320023"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-02-15 11:25:00",
+            "subTitle" : {
+               "da" : "Queen of the North"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Charles Dance",
+                     "role" : "Narrator"
+                  }
+               ]
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2016",
+            "country" : [
+               "UK"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=320023&seasonid=689161&id=5860897&lid=7"
+            ],
+            "new" : "0",
+            "stop" : "1522681800",
+            "start" : "1522679100"
+         },
+         {
+            "subTitle" : {
+               "da" : "Win or Die"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Narrator",
+                     "name" : "Charles Dance"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Fem helte k\u00e6mper for rivaliserendes familier kamp om magten. Vinderne f\u00f8r det bedste jagtomr\u00e5de, taberne m\u00e5 k\u00e6mpe for livet."
+            },
+            "title" : {
+               "da" : "Savage Kingdom"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 5 .",
+               "thetvdb.com" : "series/320023",
+               "onscreen" : "Afsnit 6 s\u00e6son 1"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=320023&seasonid=689161&id=5896777&lid=7"
+            ],
+            "new" : "0",
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1522684800",
+            "start" : "1522681800",
+            "date" : "2016",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "UK"
+            ]
+         },
+         {
+            "stop" : "1522688100",
+            "start" : "1522684800",
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2017",
+            "subTitle" : {
+               "da" : "Menneske blandt geparder"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-02-24 13:05:00",
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/1 .",
+               "onscreen" : "Afsnit 1 af 1"
+            },
+            "desc" : {
+               "da" : "Vildtfotografen Bob Poole rejser til et malerisk hj\u00f8rne af Kenya, for at indfange sj\u00e6ldne \u00f8jeblikke med nogle af verdens hurtigste rovdyr."
+            },
+            "title" : {
+               "da" : "Menneske blandt geparder"
+            }
+         },
+         {
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2017",
+            "start" : "1522688100",
+            "stop" : "1522690500",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0/1 .",
+               "onscreen" : "Afsnit 1 af 1 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "From long-legged, jumping servals, to snow-shoed lynx to the kitten curled up on the sofa, the little cats are incredible predators that wow us with their hunting skills and with their looks!"
+            },
+            "title" : {
+               "da" : "Wild Little Cats"
+            },
+            "subTitle" : {
+               "da" : "Wild Little Cats, 1"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Afrikas farligste: Ungt blod"
+            },
+            "desc" : {
+               "da" : "Rovdyr og byttedyr f\u00f8dt i omr\u00e5der, hvor det at dr\u00e6be eller blive dr\u00e6bt er en kamp om overlevelse fra allerf\u00f8rste \u00e5ndedr\u00e6t."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 1",
+               "xmltv_ns" : ". 0/1 ."
+            },
+            "subTitle" : {
+               "da" : "Afrikas farligste: Ungt blod"
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2017",
+            "country" : [
+               "UK"
+            ],
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "start" : "1522690500",
+            "stop" : "1522693500"
+         },
+         {
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2017",
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "new" : "0",
+            "start" : "1522693500",
+            "stop" : "1522696500",
+            "desc" : {
+               "da" : "Vildtfotografen Bob Poole rejser til et malerisk hj\u00f8rne af Kenya, for at indfange sj\u00e6ldne \u00f8jeblikke med nogle af verdens hurtigste rovdyr."
+            },
+            "title" : {
+               "da" : "Menneske blandt geparder"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-02-24 13:05:00",
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/1 .",
+               "onscreen" : "Afsnit 1 af 1"
+            },
+            "subTitle" : {
+               "da" : "Menneske blandt geparder"
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0/1 ."
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-04-02 16:55:00",
+            "desc" : {
+               "da" : "From long-legged, jumping servals, to snow-shoed lynx to the kitten curled up on the sofa, the little cats are incredible predators that wow us with their hunting skills and with their looks!"
+            },
+            "title" : {
+               "da" : "Wild Little Cats"
+            },
+            "subTitle" : {
+               "da" : "Wild Little Cats, 1"
+            },
+            "date" : "2017",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "stop" : "1522699500",
+            "start" : "1522696500",
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "wild.natgeo.dk"
+         },
+         {
+            "country" : [
+               "UK"
+            ],
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2016",
+            "stop" : "1522702200",
+            "start" : "1522699500",
+            "new" : "0",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=320023&seasonid=689161&id=5896777&lid=7"
+            ],
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-04-02 15:10:00",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 6 s\u00e6son 1",
+               "thetvdb.com" : "series/320023",
+               "xmltv_ns" : "0 . 5 ."
+            },
+            "title" : {
+               "da" : "Savage Kingdom"
+            },
+            "desc" : {
+               "da" : "Fem helte k\u00e6mper for rivaliserendes familier kamp om magten. Vinderne f\u00f8r det bedste jagtomr\u00e5de, taberne m\u00e5 k\u00e6mpe for livet."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Charles Dance",
+                     "role" : "Narrator"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Win or Die"
+            }
+         },
+         {
+            "country" : [
+               "UK"
+            ],
+            "date" : "2016",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "stop" : "1522705200",
+            "start" : "1522702200",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=320023&seasonid=689161&id=5846697&lid=7"
+            ],
+            "new" : "0",
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-02-15 07:25:00",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1 .",
+               "thetvdb.com" : "series/320023",
+               "onscreen" : "Afsnit 2 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Leoparden Saba er en dr\u00e6ber uden rivaler, men hendes styrke og kr\u00e6fter kommer p\u00e5 en pr\u00f8ve, da hun skal opdr\u00e6tte to unger."
+            },
+            "title" : {
+               "da" : "Savage Kingdom"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Charles Dance",
+                     "role" : "Narrator"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Mother of Lions"
+            }
+         },
+         {
+            "stop" : "1522708200",
+            "start" : "1522705200",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=320023&seasonid=689161&id=5896766&lid=7"
+            ],
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "country" : [
+               "UK"
+            ],
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2016",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Charles Dance",
+                     "role" : "Narrator"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "The Pale Pack"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 4 .",
+               "thetvdb.com" : "series/320023",
+               "onscreen" : "Afsnit 5 s\u00e6son 1"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-02-15 08:15:00",
+            "title" : {
+               "da" : "Savage Kingdom"
+            },
+            "desc" : {
+               "da" : "En familie vilde hunde leder efter et sted at opdr\u00e6tte seks, sm\u00e5 hvalpe, men det fristed, de ops\u00f8ger, er fyldt med potentielle rovdyr."
+            }
+         },
+         {
+            "previously_shown" : "wild.natgeo.dk|2018-02-15 13:50:00",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 3 .",
+               "thetvdb.com" : "series/320023",
+               "onscreen" : "Afsnit 4 s\u00e6son 1"
+            },
+            "title" : {
+               "da" : "Savage Kingdom"
+            },
+            "desc" : {
+               "da" : "Tre l\u00f8vinder k\u00e6mper for at beholde deres position. De var en stor familie, men deres s\u00f8nner er jaget v\u00e6k, og nu skal de genopbygge deres stolthed"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Narrator",
+                     "name" : "Charles Dance"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "The Rebel Army"
+            },
+            "country" : [
+               "UK"
+            ],
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2016",
+            "start" : "1522708200",
+            "stop" : "1522711200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=320023&seasonid=689161&id=5896778&lid=7"
+            ],
+            "new" : "0"
+         },
+         {
+            "desc" : {
+               "da" : "En forsmag p\u00e5 Nat Geo WILDs kommende serie om den brutale kamp for overlevelse og videref\u00f8relse af sl\u00e6gten i dyrenes verden."
+            },
+            "title" : {
+               "da" : "Savage Kingdom"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/320023",
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-02-15 10:40:00",
+            "subTitle" : {
+               "da" : "Leopard's Rock"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Narrator",
+                     "name" : "Charles Dance"
+                  }
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2016",
+            "country" : [
+               "UK"
+            ],
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=320023&seasonid=689161&id=5846696&lid=7"
+            ],
+            "new" : "0",
+            "stop" : "1522713900",
+            "start" : "1522711200"
+         }
+      ]
+   }
+}

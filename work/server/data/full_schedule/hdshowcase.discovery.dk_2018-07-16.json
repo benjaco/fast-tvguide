@@ -1,0 +1,2055 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "start" : "1531700100",
+            "new" : null,
+            "title" : {
+               "da" : "I Almost Got Away With It"
+            },
+            "channel" : "hdshowcase.discovery.dk",
+            "stop" : "1531702800",
+            "desc" : {
+               "da" : "Efter en f\u00e6ngselsdom for drabet p\u00e5 en ven tjener Johnny Gasca tykt p\u00e5 at s\u00e6lge piratvideoer, indtil han bliver tvunget til at flygte med sin k\u00e6reste. Hvordan blev han fanget?"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 42 .",
+               "onscreen" : "Afsnit 43 s\u00e6son 4"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Got to Copy Movies"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            }
+         },
+         {
+            "new" : null,
+            "start" : "1531702800",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Himself - Host",
+                     "name" : "John Fulton"
+                  }
+               ]
+            },
+            "channel" : "hdshowcase.discovery.dk",
+            "title" : {
+               "da" : "Must Love Cats"
+            },
+            "date" : "2011",
+            "stop" : "1531705500",
+            "desc" : {
+               "da" : "V\u00e6rten John Fulton unders\u00f8ger, hvor den mest popul\u00e6re tegneseriekilling kommer fra, hvad kattegrus er lavet af, og om en kat med fire \u00f8rer h\u00f8rer bedre end gennemsnittet."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/215371",
+               "onscreen" : "Afsnit 5 s\u00e6son 1",
+               "xmltv_ns" : "0 . 4 ."
+            },
+            "subTitle" : {
+               "da" : "Kitty Wigs and Fat Cats"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=215371&seasonid=414271&id=3681771&lid=10"
+            ]
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=215371&seasonid=414271&id=3681781&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Cat Colleges and Kitty Heroes"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "desc" : {
+               "da" : "V\u00e6rten John Fulton unders\u00f8ger, hvor den elskede huskat shorthair er f\u00f8dt, og ser, hvordan mange forskellige arter konkurrerer p\u00e5 de amerikanske katteudstillinger."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 5 .",
+               "onscreen" : "Afsnit 6 s\u00e6son 1",
+               "thetvdb.com" : "series/215371"
+            },
+            "stop" : "1531708200",
+            "date" : "2011",
+            "title" : {
+               "da" : "Must Love Cats"
+            },
+            "channel" : "hdshowcase.discovery.dk",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Himself - Host",
+                     "name" : "John Fulton"
+                  }
+               ]
+            },
+            "start" : "1531705500"
+         },
+         {
+            "stop" : "1531710900",
+            "start" : "1531708200",
+            "new" : null,
+            "channel" : "hdshowcase.discovery.dk",
+            "title" : {
+               "da" : "Must Love Cats"
+            },
+            "subTitle" : {
+               "da" : "Episode 7"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "P\u00e5 sin tur blandt USA's sk\u00f8re katteelskere bes\u00f8ger John en kattesv\u00f8mmeklub, en kvinde, der laver smykker af sin kats pels, og et utroligt hotel for katte."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7 s\u00e6son 1",
+               "xmltv_ns" : "0 . 6 ."
+            }
+         },
+         {
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Episode 8"
+            },
+            "desc" : {
+               "da" : "John tager til the Hamptons for at m\u00f8de kokken, som kun laver mad til de rige og ber\u00f8mtes katte, og derefter rejser han til New Jersey for at se den seneste kattemode."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 7 .",
+               "onscreen" : "Afsnit 8 s\u00e6son 1"
+            },
+            "stop" : "1531713600",
+            "title" : {
+               "da" : "Must Love Cats"
+            },
+            "channel" : "hdshowcase.discovery.dk",
+            "new" : null,
+            "start" : "1531710900"
+         },
+         {
+            "stop" : "1531716300",
+            "new" : null,
+            "start" : "1531713600",
+            "title" : {
+               "da" : "Must Love Cats"
+            },
+            "channel" : "hdshowcase.discovery.dk",
+            "subTitle" : {
+               "da" : "Episode 9"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 9 s\u00e6son 1",
+               "xmltv_ns" : "0 . 8 ."
+            },
+            "desc" : {
+               "da" : "Kattefanatikeren John Fulton tager til England for at bes\u00f8ge katten med verdens h\u00f8jeste spinden og en videnskabsmand, som har fundet ud af, hvor kattene g\u00e5r hen, n\u00e5r de g\u00e5r ud."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Bear forts\u00e6tter sine eventyr - han kastes ned af Alaska Air National i Chugach Mountains, hvor han m\u00f8der et utal af udfordringer, inklusiv skove fyldt med sortbj\u00f8rne."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 4 .",
+               "onscreen" : "Afsnit 5 s\u00e6son 4"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Alaska"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "new" : null,
+            "start" : "1531716300",
+            "title" : {
+               "da" : "Ultimate Survival"
+            },
+            "channel" : "hdshowcase.discovery.dk",
+            "stop" : "1531719000"
+         },
+         {
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Michelle Thaller",
+                     "role" : "Herself"
+                  },
+                  {
+                     "name" : "Mike Rowe",
+                     "role" : "Host"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Phil Plait"
+                  },
+                  {
+                     "name" : "Erik Dellums",
+                     "role" : "Host"
+                  },
+                  {
+                     "name" : "Lawrence Krauss",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Michio Kaku",
+                     "role" : "Himself"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Louise Say"
+                  }
+               ]
+            },
+            "new" : null,
+            "start" : "1531719000",
+            "title" : {
+               "da" : "How the Universe Works"
+            },
+            "channel" : "hdshowcase.discovery.dk",
+            "date" : "2010",
+            "stop" : "1531721700",
+            "desc" : {
+               "da" : "Se, hvordan universet skabte stjernerne - og hvordan de \u00e6ndrede det ved at skabe flere generationer af stjerner og planeter, som i sidste endte formede livets grundelementer."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/159651",
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "subTitle" : {
+               "da" : "Big Bang"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=159651&seasonid=238221&id=2140791&lid=10"
+            ],
+            "rating" : {
+               "stars" : "7.1 / 9"
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "5 . 17 .",
+               "thetvdb.com" : "series/107671",
+               "onscreen" : "Afsnit 18 s\u00e6son 6"
+            },
+            "desc" : {
+               "da" : "Buddy indvilger i at bage Willie Nelsons f\u00f8dselsdagskage, men finder s\u00e5 ud af, at han samme aften har en aftale med sin kone Lisa. Kan han g\u00f8re dem begge glade?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "da" : "On the Road Again"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=107671&seasonid=506262&id=4753703&lid=7"
+            ],
+            "rating" : {
+               "stars" : "5.7 / 9"
+            },
+            "new" : null,
+            "start" : "1531721700",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Himself",
+                     "name" : "Mauro Castano"
+                  },
+                  {
+                     "name" : "Lisa Gonzalez",
+                     "role" : "Herself"
+                  },
+                  {
+                     "name" : "Lisa Valastro",
+                     "role" : "Herself"
+                  },
+                  {
+                     "name" : "Buddy Valastro",
+                     "role" : "Buddy Valastro"
+                  },
+                  {
+                     "name" : "Joey Faugno",
+                     "role" : "Grace's Husband"
+                  },
+                  {
+                     "name" : "Frankie Amato Jr.",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Maddalena Castano",
+                     "role" : "Herself"
+                  },
+                  {
+                     "name" : "Danny Dragone",
+                     "role" : "Fluffy"
+                  },
+                  {
+                     "role" : "Herself",
+                     "name" : "Mary Sciarrone"
+                  },
+                  {
+                     "role" : "Herself",
+                     "name" : "Mary Valastro"
+                  },
+                  {
+                     "name" : "Grace Faugno",
+                     "role" : "Herself"
+                  }
+               ]
+            },
+            "channel" : "hdshowcase.discovery.dk",
+            "title" : {
+               "da" : "Cake Boss"
+            },
+            "date" : "2009",
+            "stop" : "1531723080"
+         },
+         {
+            "stop" : "1531724400",
+            "date" : "2009",
+            "channel" : "hdshowcase.discovery.dk",
+            "title" : {
+               "da" : "Cake Boss"
+            },
+            "start" : "1531723080",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Mauro Castano",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Lisa Gonzalez",
+                     "role" : "Herself"
+                  },
+                  {
+                     "name" : "Lisa Valastro",
+                     "role" : "Herself"
+                  },
+                  {
+                     "name" : "Buddy Valastro",
+                     "role" : "Buddy Valastro"
+                  },
+                  {
+                     "role" : "Grace's Husband",
+                     "name" : "Joey Faugno"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Frankie Amato Jr."
+                  },
+                  {
+                     "name" : "Maddalena Castano",
+                     "role" : "Herself"
+                  },
+                  {
+                     "role" : "Fluffy",
+                     "name" : "Danny Dragone"
+                  },
+                  {
+                     "role" : "Herself",
+                     "name" : "Mary Sciarrone"
+                  },
+                  {
+                     "name" : "Mary Valastro",
+                     "role" : "Herself"
+                  },
+                  {
+                     "role" : "Herself",
+                     "name" : "Grace Faugno"
+                  }
+               ]
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=107671&seasonid=506262&id=4788960&lid=7"
+            ],
+            "rating" : {
+               "stars" : "5.7 / 9"
+            },
+            "subTitle" : {
+               "da" : "Biceps and Birthdays"
+            },
+            "desc" : {
+               "da" : "En kage til en familie af professionelle arml\u00e6ggere giver Buddy chancen for at bruge sine bagemuskler, og Mauro f\u00e5r b\u00f8rnene til at hj\u00e6lpe med at planl\u00e6gge en surprise-f\u00f8dselsdag."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "5 . 25 .",
+               "onscreen" : "Afsnit 26 s\u00e6son 6",
+               "thetvdb.com" : "series/107671"
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 2",
+               "thetvdb.com" : "series/208111",
+               "xmltv_ns" : "1 . 2 ."
+            },
+            "desc" : {
+               "da" : "Jack og Todd Hoffman vender tilbage til Porcupine Creek i Alaska for at forts\u00e6tte deres desperate jagt p\u00e5 guld. Er heldet med dem denne gang?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "rating" : {
+               "stars" : "5.8 / 9"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=208111&seasonid=474598&id=4199190&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "Family Feud"
+            },
+            "title" : {
+               "da" : "Gold Rush"
+            },
+            "channel" : "hdshowcase.discovery.dk",
+            "start" : "1531724400",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Greg Remsburg",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Fred Hurt"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Freddy Dodge"
+                  },
+                  {
+                     "name" : "Todd Hoffman",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Parker Schnabel",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "James Harness"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Kevin Hiatt"
+                  },
+                  {
+                     "name" : "Minnie Beets",
+                     "role" : "Herself"
+                  },
+                  {
+                     "name" : "Gene Cheeseman",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Tony Beets",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Jim Thurber"
+                  },
+                  {
+                     "name" : "Chris Doumitt",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Mitch Blaschke",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Rick Ness"
+                  },
+                  {
+                     "name" : "Kevin Beets",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Dave Turin",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Herself",
+                     "name" : "Monica Beets"
+                  },
+                  {
+                     "name" : "Andy Spinks",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Jack Hoffman"
+                  }
+               ]
+            },
+            "stop" : "1531727100",
+            "date" : "2010"
+         },
+         {
+            "desc" : {
+               "da" : "Jack og Todd Hoffman vender tilbage til Porcupine Creek i Alaska for at forts\u00e6tte deres desperate jagt p\u00e5 guld. Er heldet med dem denne gang?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 2",
+               "thetvdb.com" : "series/208111",
+               "xmltv_ns" : "1 . 3 ."
+            },
+            "subTitle" : {
+               "da" : "Slippery Slope"
+            },
+            "rating" : {
+               "stars" : "6.1 / 9"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=208111&seasonid=474598&id=4202055&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "new" : null,
+            "start" : "1531727100",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Himself",
+                     "name" : "Greg Remsburg"
+                  },
+                  {
+                     "name" : "Fred Hurt",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Freddy Dodge",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Todd Hoffman"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Parker Schnabel"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "James Harness"
+                  },
+                  {
+                     "name" : "Kevin Hiatt",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Herself",
+                     "name" : "Minnie Beets"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Gene Cheeseman"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Tony Beets"
+                  },
+                  {
+                     "name" : "Jim Thurber",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Chris Doumitt"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Mitch Blaschke"
+                  },
+                  {
+                     "name" : "Rick Ness",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Kevin Beets"
+                  },
+                  {
+                     "name" : "Dave Turin",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Monica Beets",
+                     "role" : "Herself"
+                  },
+                  {
+                     "name" : "Andy Spinks",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Jack Hoffman",
+                     "role" : "Himself"
+                  }
+               ]
+            },
+            "channel" : "hdshowcase.discovery.dk",
+            "title" : {
+               "da" : "Gold Rush"
+            },
+            "date" : "2010",
+            "stop" : "1531729800"
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 4 .",
+               "onscreen" : "Afsnit 5 s\u00e6son 4"
+            },
+            "desc" : {
+               "da" : "Bear forts\u00e6tter sine eventyr - han kastes ned af Alaska Air National i Chugach Mountains, hvor han m\u00f8der et utal af udfordringer, inklusiv skove fyldt med sortbj\u00f8rne."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Alaska"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "new" : null,
+            "start" : "1531729800",
+            "title" : {
+               "da" : "Ultimate Survival"
+            },
+            "channel" : "hdshowcase.discovery.dk",
+            "stop" : "1531732500"
+         },
+         {
+            "subTitle" : {
+               "da" : "Episode 9"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 9 s\u00e6son 1",
+               "xmltv_ns" : "0 . 8 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Kattefanatikeren John Fulton tager til England for at bes\u00f8ge katten med verdens h\u00f8jeste spinden og en videnskabsmand, som har fundet ud af, hvor kattene g\u00e5r hen, n\u00e5r de g\u00e5r ud."
+            },
+            "stop" : "1531735200",
+            "start" : "1531732500",
+            "new" : null,
+            "channel" : "hdshowcase.discovery.dk",
+            "title" : {
+               "da" : "Must Love Cats"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Big Bang"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=159651&seasonid=238221&id=2140791&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "rating" : {
+               "stars" : "7.1 / 9"
+            },
+            "desc" : {
+               "da" : "Se, hvordan universet skabte stjernerne - og hvordan de \u00e6ndrede det ved at skabe flere generationer af stjerner og planeter, som i sidste endte formede livets grundelementer."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "thetvdb.com" : "series/159651"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "date" : "2010",
+            "stop" : "1531737900",
+            "new" : null,
+            "start" : "1531735200",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Louise Say"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Michelle Thaller",
+                     "role" : "Herself"
+                  },
+                  {
+                     "name" : "Mike Rowe",
+                     "role" : "Host"
+                  },
+                  {
+                     "name" : "Phil Plait",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Erik Dellums",
+                     "role" : "Host"
+                  },
+                  {
+                     "name" : "Lawrence Krauss",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Michio Kaku"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "How the Universe Works"
+            },
+            "channel" : "hdshowcase.discovery.dk"
+         },
+         {
+            "desc" : {
+               "da" : "Buddy indvilger i at bage Willie Nelsons f\u00f8dselsdagskage, men finder s\u00e5 ud af, at han samme aften har en aftale med sin kone Lisa. Kan han g\u00f8re dem begge glade?"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "5 . 17 .",
+               "onscreen" : "Afsnit 18 s\u00e6son 6",
+               "thetvdb.com" : "series/107671"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=107671&seasonid=506262&id=4753703&lid=7"
+            ],
+            "rating" : {
+               "stars" : "5.7 / 9"
+            },
+            "subTitle" : {
+               "da" : "On the Road Again"
+            },
+            "title" : {
+               "da" : "Cake Boss"
+            },
+            "channel" : "hdshowcase.discovery.dk",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Himself",
+                     "name" : "Mauro Castano"
+                  },
+                  {
+                     "name" : "Lisa Gonzalez",
+                     "role" : "Herself"
+                  },
+                  {
+                     "name" : "Lisa Valastro",
+                     "role" : "Herself"
+                  },
+                  {
+                     "name" : "Buddy Valastro",
+                     "role" : "Buddy Valastro"
+                  },
+                  {
+                     "name" : "Joey Faugno",
+                     "role" : "Grace's Husband"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Frankie Amato Jr."
+                  },
+                  {
+                     "role" : "Herself",
+                     "name" : "Maddalena Castano"
+                  },
+                  {
+                     "name" : "Danny Dragone",
+                     "role" : "Fluffy"
+                  },
+                  {
+                     "name" : "Mary Sciarrone",
+                     "role" : "Herself"
+                  },
+                  {
+                     "name" : "Mary Valastro",
+                     "role" : "Herself"
+                  },
+                  {
+                     "role" : "Herself",
+                     "name" : "Grace Faugno"
+                  }
+               ]
+            },
+            "start" : "1531737900",
+            "stop" : "1531739280",
+            "date" : "2009"
+         },
+         {
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Mauro Castano",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Herself",
+                     "name" : "Lisa Gonzalez"
+                  },
+                  {
+                     "role" : "Herself",
+                     "name" : "Lisa Valastro"
+                  },
+                  {
+                     "role" : "Buddy Valastro",
+                     "name" : "Buddy Valastro"
+                  },
+                  {
+                     "role" : "Grace's Husband",
+                     "name" : "Joey Faugno"
+                  },
+                  {
+                     "name" : "Frankie Amato Jr.",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Maddalena Castano",
+                     "role" : "Herself"
+                  },
+                  {
+                     "role" : "Fluffy",
+                     "name" : "Danny Dragone"
+                  },
+                  {
+                     "name" : "Mary Sciarrone",
+                     "role" : "Herself"
+                  },
+                  {
+                     "name" : "Mary Valastro",
+                     "role" : "Herself"
+                  },
+                  {
+                     "name" : "Grace Faugno",
+                     "role" : "Herself"
+                  }
+               ]
+            },
+            "start" : "1531739280",
+            "title" : {
+               "da" : "Cake Boss"
+            },
+            "channel" : "hdshowcase.discovery.dk",
+            "date" : "2009",
+            "stop" : "1531740600",
+            "desc" : {
+               "da" : "En kage til en familie af professionelle arml\u00e6ggere giver Buddy chancen for at bruge sine bagemuskler, og Mauro f\u00e5r b\u00f8rnene til at hj\u00e6lpe med at planl\u00e6gge en surprise-f\u00f8dselsdag."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 26 s\u00e6son 6",
+               "thetvdb.com" : "series/107671",
+               "xmltv_ns" : "5 . 25 ."
+            },
+            "subTitle" : {
+               "da" : "Biceps and Birthdays"
+            },
+            "rating" : {
+               "stars" : "5.7 / 9"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=107671&seasonid=506262&id=4788960&lid=7"
+            ]
+         },
+         {
+            "episodeNum" : {
+               "thetvdb.com" : "series/208111",
+               "onscreen" : "Afsnit 3 s\u00e6son 2",
+               "xmltv_ns" : "1 . 2 ."
+            },
+            "desc" : {
+               "da" : "Jack og Todd Hoffman vender tilbage til Porcupine Creek i Alaska for at forts\u00e6tte deres desperate jagt p\u00e5 guld. Er heldet med dem denne gang?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "rating" : {
+               "stars" : "5.8 / 9"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=208111&seasonid=474598&id=4199190&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Family Feud"
+            },
+            "channel" : "hdshowcase.discovery.dk",
+            "title" : {
+               "da" : "Gold Rush"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Himself",
+                     "name" : "Greg Remsburg"
+                  },
+                  {
+                     "name" : "Fred Hurt",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Freddy Dodge"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Todd Hoffman"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Parker Schnabel"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "James Harness"
+                  },
+                  {
+                     "name" : "Kevin Hiatt",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Herself",
+                     "name" : "Minnie Beets"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Gene Cheeseman"
+                  },
+                  {
+                     "name" : "Tony Beets",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Jim Thurber",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Chris Doumitt"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Mitch Blaschke"
+                  },
+                  {
+                     "name" : "Rick Ness",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Kevin Beets"
+                  },
+                  {
+                     "name" : "Dave Turin",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Herself",
+                     "name" : "Monica Beets"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Andy Spinks"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Jack Hoffman"
+                  }
+               ]
+            },
+            "new" : null,
+            "start" : "1531740600",
+            "stop" : "1531743300",
+            "date" : "2010"
+         },
+         {
+            "date" : "2010",
+            "stop" : "1531746000",
+            "new" : null,
+            "start" : "1531743300",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Himself",
+                     "name" : "Greg Remsburg"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Fred Hurt"
+                  },
+                  {
+                     "name" : "Freddy Dodge",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Todd Hoffman"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Parker Schnabel"
+                  },
+                  {
+                     "name" : "James Harness",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Kevin Hiatt"
+                  },
+                  {
+                     "name" : "Minnie Beets",
+                     "role" : "Herself"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Gene Cheeseman"
+                  },
+                  {
+                     "name" : "Tony Beets",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Jim Thurber",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Chris Doumitt"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Mitch Blaschke"
+                  },
+                  {
+                     "name" : "Rick Ness",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Kevin Beets"
+                  },
+                  {
+                     "name" : "Dave Turin",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Monica Beets",
+                     "role" : "Herself"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Andy Spinks"
+                  },
+                  {
+                     "name" : "Jack Hoffman",
+                     "role" : "Himself"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Gold Rush"
+            },
+            "channel" : "hdshowcase.discovery.dk",
+            "subTitle" : {
+               "da" : "Slippery Slope"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=208111&seasonid=474598&id=4202055&lid=10"
+            ],
+            "rating" : {
+               "stars" : "6.1 / 9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 3 .",
+               "onscreen" : "Afsnit 4 s\u00e6son 2",
+               "thetvdb.com" : "series/208111"
+            },
+            "desc" : {
+               "da" : "Jack og Todd Hoffman vender tilbage til Porcupine Creek i Alaska for at forts\u00e6tte deres desperate jagt p\u00e5 guld. Er heldet med dem denne gang?"
+            }
+         },
+         {
+            "channel" : "hdshowcase.discovery.dk",
+            "title" : {
+               "da" : "Must Love Cats"
+            },
+            "start" : "1531746000",
+            "new" : null,
+            "stop" : "1531748700",
+            "desc" : {
+               "da" : "John unders\u00f8ger Japans fascination af katte. Han bes\u00f8ger kattecaf\u00e9er og m\u00f8der katteelskere, der s\u00e6tter livet p\u00e5 spil for at redde k\u00e6ledyr efter jordsk\u00e6lvet og tsunamien."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 10 s\u00e6son 1",
+               "xmltv_ns" : "0 . 9 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Episode 10"
+            }
+         },
+         {
+            "stop" : "1531751400",
+            "channel" : "hdshowcase.discovery.dk",
+            "title" : {
+               "da" : "Ultimate Survival"
+            },
+            "start" : "1531748700",
+            "new" : null,
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Alaska"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 4 .",
+               "onscreen" : "Afsnit 5 s\u00e6son 4"
+            },
+            "desc" : {
+               "da" : "Bear forts\u00e6tter sine eventyr - han kastes ned af Alaska Air National i Chugach Mountains, hvor han m\u00f8der et utal af udfordringer, inklusiv skove fyldt med sortbj\u00f8rne."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "start" : "1531751400",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Herself",
+                     "name" : "Michelle Thaller"
+                  },
+                  {
+                     "name" : "Mike Rowe",
+                     "role" : "Host"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Phil Plait"
+                  },
+                  {
+                     "role" : "Host",
+                     "name" : "Erik Dellums"
+                  },
+                  {
+                     "name" : "Lawrence Krauss",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Michio Kaku",
+                     "role" : "Himself"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Louise Say"
+                  }
+               ]
+            },
+            "channel" : "hdshowcase.discovery.dk",
+            "title" : {
+               "da" : "How the Universe Works"
+            },
+            "date" : "2010",
+            "stop" : "1531754100",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "thetvdb.com" : "series/159651",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Se, hvordan universet skabte stjernerne - og hvordan de \u00e6ndrede det ved at skabe flere generationer af stjerner og planeter, som i sidste endte formede livets grundelementer."
+            },
+            "subTitle" : {
+               "da" : "Big Bang"
+            },
+            "rating" : {
+               "stars" : "7.1 / 9"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=159651&seasonid=238221&id=2140791&lid=10"
+            ]
+         },
+         {
+            "stop" : "1531755480",
+            "date" : "2009",
+            "title" : {
+               "da" : "Cake Boss"
+            },
+            "channel" : "hdshowcase.discovery.dk",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Himself",
+                     "name" : "Mauro Castano"
+                  },
+                  {
+                     "role" : "Herself",
+                     "name" : "Lisa Gonzalez"
+                  },
+                  {
+                     "role" : "Herself",
+                     "name" : "Lisa Valastro"
+                  },
+                  {
+                     "name" : "Buddy Valastro",
+                     "role" : "Buddy Valastro"
+                  },
+                  {
+                     "role" : "Grace's Husband",
+                     "name" : "Joey Faugno"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Frankie Amato Jr."
+                  },
+                  {
+                     "role" : "Herself",
+                     "name" : "Maddalena Castano"
+                  },
+                  {
+                     "name" : "Danny Dragone",
+                     "role" : "Fluffy"
+                  },
+                  {
+                     "role" : "Herself",
+                     "name" : "Mary Sciarrone"
+                  },
+                  {
+                     "role" : "Herself",
+                     "name" : "Mary Valastro"
+                  },
+                  {
+                     "name" : "Grace Faugno",
+                     "role" : "Herself"
+                  }
+               ]
+            },
+            "start" : "1531754100",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=107671&seasonid=506262&id=4756082&lid=7"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "rating" : {
+               "stars" : "5.7 / 9"
+            },
+            "subTitle" : {
+               "da" : "Next Great Bride"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "5 . 20 .",
+               "thetvdb.com" : "series/107671",
+               "onscreen" : "Afsnit 21 s\u00e6son 6"
+            },
+            "desc" : {
+               "da" : "Next Great Bakers Ashley skal giftes, og Buddy indvilger i at bage bryllupskagen. Vil Buddy v\u00e6re i stand til at levere hendes dr\u00f8mmekage?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=107671&seasonid=506262&id=4775891&lid=7"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "rating" : {
+               "stars" : "5.7 / 9"
+            },
+            "subTitle" : {
+               "da" : "Down the Drain"
+            },
+            "desc" : {
+               "da" : "Buddy skal lave en af de m\u00e6rkeligste kager nogensinde for en mand, der er som en menneskelig skraldespand, n\u00e5r han spiser. Et par vil have en bryllupskage formet som en lastbil."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 24 s\u00e6son 6",
+               "thetvdb.com" : "series/107671",
+               "xmltv_ns" : "5 . 23 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1531756800",
+            "date" : "2009",
+            "title" : {
+               "da" : "Cake Boss"
+            },
+            "channel" : "hdshowcase.discovery.dk",
+            "new" : null,
+            "start" : "1531755480",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Mauro Castano",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Lisa Gonzalez",
+                     "role" : "Herself"
+                  },
+                  {
+                     "name" : "Lisa Valastro",
+                     "role" : "Herself"
+                  },
+                  {
+                     "role" : "Buddy Valastro",
+                     "name" : "Buddy Valastro"
+                  },
+                  {
+                     "role" : "Grace's Husband",
+                     "name" : "Joey Faugno"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Frankie Amato Jr."
+                  },
+                  {
+                     "name" : "Maddalena Castano",
+                     "role" : "Herself"
+                  },
+                  {
+                     "name" : "Danny Dragone",
+                     "role" : "Fluffy"
+                  },
+                  {
+                     "name" : "Mary Sciarrone",
+                     "role" : "Herself"
+                  },
+                  {
+                     "role" : "Herself",
+                     "name" : "Mary Valastro"
+                  },
+                  {
+                     "name" : "Grace Faugno",
+                     "role" : "Herself"
+                  }
+               ]
+            }
+         },
+         {
+            "stop" : "1531759500",
+            "channel" : "hdshowcase.discovery.dk",
+            "title" : {
+               "da" : "Invent It Rich"
+            },
+            "new" : null,
+            "start" : "1531756800",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Catch Me If You Can"
+            },
+            "desc" : {
+               "da" : "Eksperterne Brook og Brian hj\u00e6lper Marc med at unders\u00f8ge fire innovative produkter: en drone som ikke falder ned, en tr\u00e6ningsgenstand og en lydl\u00f8s, genopladelig, b\u00e6rbar generator."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 s\u00e6son 2",
+               "xmltv_ns" : "1 . 4 ."
+            }
+         },
+         {
+            "title" : {
+               "da" : "American Loggers"
+            },
+            "channel" : "hdshowcase.discovery.dk",
+            "new" : null,
+            "start" : "1531759500",
+            "stop" : "1531762200",
+            "date" : "2009",
+            "desc" : {
+               "da" : "Pelletier-familien flytter til deres vinterh\u00f8ststed, to off-roadere f\u00f8jes til fl\u00e5den, og temperamenterne blusser op mellem holddeltagerne."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7 s\u00e6son 2",
+               "thetvdb.com" : "series/85317",
+               "xmltv_ns" : "1 . 6 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=85317&seasonid=105391&id=2187611&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "Operation Winter Cut"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Sorte huller er nogle af de mest destruktive kr\u00e6fter i universet, og det mest mystiske f\u00e6nomen vi kender. Moderne astronomi dokumenterer, at de er med til at forme det, vi ser."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "thetvdb.com" : "series/159651",
+               "xmltv_ns" : "0 . 1 ."
+            },
+            "subTitle" : {
+               "da" : "Black Holes"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=159651&seasonid=238221&id=2140811&lid=10"
+            ],
+            "rating" : {
+               "stars" : "6.9 / 9"
+            },
+            "new" : null,
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Peter Chinn"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Michelle Thaller",
+                     "role" : "Herself"
+                  },
+                  {
+                     "name" : "Mike Rowe",
+                     "role" : "Host"
+                  },
+                  {
+                     "name" : "Phil Plait",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Erik Dellums",
+                     "role" : "Host"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Lawrence Krauss"
+                  },
+                  {
+                     "name" : "Michio Kaku",
+                     "role" : "Himself"
+                  }
+               ]
+            },
+            "start" : "1531762200",
+            "channel" : "hdshowcase.discovery.dk",
+            "title" : {
+               "da" : "How the Universe Works"
+            },
+            "date" : "2010",
+            "stop" : "1531764900"
+         },
+         {
+            "title" : {
+               "da" : "Ultimate Survival"
+            },
+            "channel" : "hdshowcase.discovery.dk",
+            "new" : null,
+            "start" : "1531764900",
+            "stop" : "1531767600",
+            "desc" : {
+               "da" : "Bear Grylls er aldrig alene i sin kamp for overlevelse. I dette afsnit g\u00e5r vi bag om showet og m\u00f8der det dedikerede sikkerhedsteam og kameram\u00e6ndene i aktion."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 6 s\u00e6son 4",
+               "xmltv_ns" : "3 . 5 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "The Inside Story"
+            }
+         },
+         {
+            "stop" : "1531770300",
+            "channel" : "hdshowcase.discovery.dk",
+            "title" : {
+               "da" : "Invent It Rich"
+            },
+            "new" : null,
+            "start" : "1531767600",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Disappearing Acts"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 5 .",
+               "onscreen" : "Afsnit 6 s\u00e6son 2"
+            },
+            "desc" : {
+               "da" : "Eksperterne Brook og Brian hj\u00e6per Marc med at unders\u00f8ge fire patenter, noget pletfjerner, et fjernbetjeningssystem til en vandscooter og et UV-luftfilter til et toilet."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=85317&seasonid=105391&id=2187621&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Man vs. Mud"
+            },
+            "desc" : {
+               "da" : "Regnvejr og mudder g\u00f8r arbejdet til et helvede hos Pelletier, Inc. Lester overlever med n\u00f8d og n\u00e6ppe et sammenst\u00f8d med en lastbil, og arbejdet forts\u00e6tter i det nye vinteromr\u00e5de."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8 s\u00e6son 2",
+               "thetvdb.com" : "series/85317",
+               "xmltv_ns" : "1 . 7 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1531773000",
+            "date" : "2009",
+            "title" : {
+               "da" : "American Loggers"
+            },
+            "channel" : "hdshowcase.discovery.dk",
+            "start" : "1531770300",
+            "new" : null
+         },
+         {
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Got to Burn a Truck"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 43 .",
+               "onscreen" : "Afsnit 44 s\u00e6son 4"
+            },
+            "desc" : {
+               "da" : "LeBron myrder en mand i Florida, stj\u00e6ler hans bil og forts\u00e6tter sin kriminelle l\u00f8bebane. Hans medskyldige tilst\u00e5r over for politiet, men kan de stoppe LeBron?"
+            },
+            "stop" : "1531775700",
+            "channel" : "hdshowcase.discovery.dk",
+            "title" : {
+               "da" : "I Almost Got Away With It"
+            },
+            "start" : "1531773000",
+            "new" : null
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "desc" : {
+               "da" : "Next Great Bakers Ashley skal giftes, og Buddy indvilger i at bage bryllupskagen. Vil Buddy v\u00e6re i stand til at levere hendes dr\u00f8mmekage?"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "5 . 20 .",
+               "thetvdb.com" : "series/107671",
+               "onscreen" : "Afsnit 21 s\u00e6son 6"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=107671&seasonid=506262&id=4756082&lid=7"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "rating" : {
+               "stars" : "5.7 / 9"
+            },
+            "subTitle" : {
+               "da" : "Next Great Bride"
+            },
+            "channel" : "hdshowcase.discovery.dk",
+            "title" : {
+               "da" : "Cake Boss"
+            },
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Himself",
+                     "name" : "Mauro Castano"
+                  },
+                  {
+                     "role" : "Herself",
+                     "name" : "Lisa Gonzalez"
+                  },
+                  {
+                     "role" : "Herself",
+                     "name" : "Lisa Valastro"
+                  },
+                  {
+                     "role" : "Buddy Valastro",
+                     "name" : "Buddy Valastro"
+                  },
+                  {
+                     "name" : "Joey Faugno",
+                     "role" : "Grace's Husband"
+                  },
+                  {
+                     "name" : "Frankie Amato Jr.",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Maddalena Castano",
+                     "role" : "Herself"
+                  },
+                  {
+                     "role" : "Fluffy",
+                     "name" : "Danny Dragone"
+                  },
+                  {
+                     "role" : "Herself",
+                     "name" : "Mary Sciarrone"
+                  },
+                  {
+                     "name" : "Mary Valastro",
+                     "role" : "Herself"
+                  },
+                  {
+                     "role" : "Herself",
+                     "name" : "Grace Faugno"
+                  }
+               ]
+            },
+            "start" : "1531775700",
+            "stop" : "1531777080",
+            "date" : "2009"
+         },
+         {
+            "subTitle" : {
+               "da" : "Down the Drain"
+            },
+            "rating" : {
+               "stars" : "5.7 / 9"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=107671&seasonid=506262&id=4775891&lid=7"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 24 s\u00e6son 6",
+               "thetvdb.com" : "series/107671",
+               "xmltv_ns" : "5 . 23 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "desc" : {
+               "da" : "Buddy skal lave en af de m\u00e6rkeligste kager nogensinde for en mand, der er som en menneskelig skraldespand, n\u00e5r han spiser. Et par vil have en bryllupskage formet som en lastbil."
+            },
+            "date" : "2009",
+            "stop" : "1531778400",
+            "new" : null,
+            "start" : "1531777080",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Mauro Castano",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Herself",
+                     "name" : "Lisa Gonzalez"
+                  },
+                  {
+                     "role" : "Herself",
+                     "name" : "Lisa Valastro"
+                  },
+                  {
+                     "role" : "Buddy Valastro",
+                     "name" : "Buddy Valastro"
+                  },
+                  {
+                     "role" : "Grace's Husband",
+                     "name" : "Joey Faugno"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Frankie Amato Jr."
+                  },
+                  {
+                     "name" : "Maddalena Castano",
+                     "role" : "Herself"
+                  },
+                  {
+                     "role" : "Fluffy",
+                     "name" : "Danny Dragone"
+                  },
+                  {
+                     "role" : "Herself",
+                     "name" : "Mary Sciarrone"
+                  },
+                  {
+                     "name" : "Mary Valastro",
+                     "role" : "Herself"
+                  },
+                  {
+                     "name" : "Grace Faugno",
+                     "role" : "Herself"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Cake Boss"
+            },
+            "channel" : "hdshowcase.discovery.dk"
+         },
+         {
+            "desc" : {
+               "da" : "Sorte huller er nogle af de mest destruktive kr\u00e6fter i universet, og det mest mystiske f\u00e6nomen vi kender. Moderne astronomi dokumenterer, at de er med til at forme det, vi ser."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/159651",
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "xmltv_ns" : "0 . 1 ."
+            },
+            "rating" : {
+               "stars" : "6.9 / 9"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=159651&seasonid=238221&id=2140811&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "Black Holes"
+            },
+            "channel" : "hdshowcase.discovery.dk",
+            "title" : {
+               "da" : "How the Universe Works"
+            },
+            "new" : null,
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Peter Chinn"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Michelle Thaller",
+                     "role" : "Herself"
+                  },
+                  {
+                     "name" : "Mike Rowe",
+                     "role" : "Host"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Phil Plait"
+                  },
+                  {
+                     "role" : "Host",
+                     "name" : "Erik Dellums"
+                  },
+                  {
+                     "name" : "Lawrence Krauss",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Michio Kaku"
+                  }
+               ]
+            },
+            "start" : "1531778400",
+            "stop" : "1531781100",
+            "date" : "2010"
+         },
+         {
+            "start" : "1531781100",
+            "new" : null,
+            "title" : {
+               "da" : "Must Love Cats"
+            },
+            "channel" : "hdshowcase.discovery.dk",
+            "stop" : "1531783800",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 9 .",
+               "onscreen" : "Afsnit 10 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "John unders\u00f8ger Japans fascination af katte. Han bes\u00f8ger kattecaf\u00e9er og m\u00f8der katteelskere, der s\u00e6tter livet p\u00e5 spil for at redde k\u00e6ledyr efter jordsk\u00e6lvet og tsunamien."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Episode 10"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 5 .",
+               "onscreen" : "Afsnit 6 s\u00e6son 4"
+            },
+            "desc" : {
+               "da" : "Bear Grylls er aldrig alene i sin kamp for overlevelse. I dette afsnit g\u00e5r vi bag om showet og m\u00f8der det dedikerede sikkerhedsteam og kameram\u00e6ndene i aktion."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "subTitle" : {
+               "da" : "The Inside Story"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "new" : null,
+            "start" : "1531783800",
+            "title" : {
+               "da" : "Ultimate Survival"
+            },
+            "channel" : "hdshowcase.discovery.dk",
+            "stop" : "1531786500"
+         }
+      ]
+   }
+}

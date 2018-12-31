@@ -1,0 +1,1123 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "new" : null,
+            "channel" : "historytv.dk",
+            "stop" : "1531617600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "American Pickers"
+            },
+            "desc" : {
+               "da" : "Mike og Frank k\u00f8ber ind hos en familie, der har brugt 40 \u00e5r p\u00e5 at bygge deres eget slot med de bare h\u00e6nder, og bes\u00f8ger en cirkussamler med et voksmuseum i sin stue."
+            },
+            "date" : "2015",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 15 s\u00e6son 8",
+               "xmltv_ns" : "7 . 14 ."
+            },
+            "start" : "1531614900",
+            "subTitle" : {
+               "da" : "A Man's Home is His Castle"
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 11",
+               "xmltv_ns" : "10 . 0 ."
+            },
+            "desc" : {
+               "da" : "Gutterne tager en solskinstur vestp\u00e5 for at finde den Gyldne Stats bedste guldstykker."
+            },
+            "date" : "2016",
+            "start" : "1531617600",
+            "subTitle" : {
+               "da" : "Best Of California Gold"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "American Pickers Best Ofs"
+            },
+            "channel" : "historytv.dk",
+            "stop" : "1531620300"
+         },
+         {
+            "new" : null,
+            "stop" : "1531623000",
+            "channel" : "historytv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "American Pickers Best Ofs"
+            },
+            "date" : "2016",
+            "desc" : {
+               "da" : "Mike og Frank m\u00e5 se deres frygt i \u00f8jnene, da de finder de mest h\u00e5rrejsende genstande endnu set i serien."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 11",
+               "xmltv_ns" : "10 . 1 ."
+            },
+            "subTitle" : {
+               "da" : "Best Of Creepiest Collections"
+            },
+            "start" : "1531620300"
+         },
+         {
+            "stop" : "1531624500",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "The Collector",
+                     "name" : "Barry Weiss"
+                  },
+                  {
+                     "name" : "Jarrod Schulz",
+                     "role" : "The Young Gun"
+                  },
+                  {
+                     "name" : "Dan and Laura Dotson",
+                     "role" : "Auctioneers"
+                  },
+                  {
+                     "name" : "Dave Hester",
+                     "role" : "The Mogul"
+                  },
+                  {
+                     "name" : "Darrell Sheets",
+                     "role" : "The Gambler"
+                  },
+                  {
+                     "role" : "The Wife",
+                     "name" : "Brandi Passante"
+                  }
+               ]
+            },
+            "channel" : "historytv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Reality"
+               ]
+            },
+            "title" : {
+               "da" : "Storage Wars"
+            },
+            "new" : null,
+            "subTitle" : {
+               "da" : "A Civil Accordion"
+            },
+            "start" : "1531623000",
+            "rating" : {
+               "stars" : "7.4 / 9"
+            },
+            "date" : "2010",
+            "desc" : {
+               "da" : "Dave l\u00f8ber en risiko ved at boykotte auktioner i Westminster. Imens s\u00e6tter Barry en ny rekord inden for auktioner - men det er ikke n\u00f8dvendigvis positivt."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 s\u00e6son 3",
+               "thetvdb.com" : "series/207621",
+               "xmltv_ns" : "2 . 4 ."
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=207621&seasonid=492918&id=4330833&lid=10"
+            ]
+         },
+         {
+            "new" : null,
+            "stop" : "1531625700",
+            "channel" : "historytv.dk",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Barry Weiss",
+                     "role" : "The Collector"
+                  },
+                  {
+                     "role" : "The Young Gun",
+                     "name" : "Jarrod Schulz"
+                  },
+                  {
+                     "role" : "Auctioneers",
+                     "name" : "Dan and Laura Dotson"
+                  },
+                  {
+                     "name" : "Dave Hester",
+                     "role" : "The Mogul"
+                  },
+                  {
+                     "role" : "The Gambler",
+                     "name" : "Darrell Sheets"
+                  },
+                  {
+                     "name" : "Brandi Passante",
+                     "role" : "The Wife"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Storage Wars"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Reality"
+               ]
+            },
+            "date" : "2010",
+            "desc" : {
+               "da" : "Opk\u00f8berne forventer uds\u00f8gte opbevaringscontainere i det velhavende omr\u00e5de Lancaster. Men bliver de m\u00f8dt af skrald eller skatte, n\u00e5r d\u00f8ren g\u00e5r op?"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 6 s\u00e6son 3",
+               "thetvdb.com" : "series/207621",
+               "xmltv_ns" : "2 . 5 ."
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=207621&seasonid=492918&id=4330834&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "More Like WRONG Beach"
+            },
+            "start" : "1531624500",
+            "rating" : {
+               "stars" : "7.4 / 9"
+            }
+         },
+         {
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Reality"
+               ]
+            },
+            "title" : {
+               "da" : "Storage Wars"
+            },
+            "stop" : "1531627200",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Barry Weiss",
+                     "role" : "The Collector"
+                  },
+                  {
+                     "name" : "Jarrod Schulz",
+                     "role" : "The Young Gun"
+                  },
+                  {
+                     "name" : "Dan and Laura Dotson",
+                     "role" : "Auctioneers"
+                  },
+                  {
+                     "name" : "Dave Hester",
+                     "role" : "The Mogul"
+                  },
+                  {
+                     "role" : "The Gambler",
+                     "name" : "Darrell Sheets"
+                  },
+                  {
+                     "role" : "The Wife",
+                     "name" : "Brandi Passante"
+                  }
+               ]
+            },
+            "channel" : "historytv.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=207621&seasonid=492918&id=4341898&lid=10"
+            ],
+            "episodeNum" : {
+               "thetvdb.com" : "series/207621",
+               "onscreen" : "Afsnit 7 s\u00e6son 3",
+               "xmltv_ns" : "2 . 6 ."
+            },
+            "desc" : {
+               "da" : "Jarrod og Brandis held varer lidt endnu p\u00e5 auktionerne i Orange County. Ingen har set noget til Dave et stykke tid. Er dette hans chance for at vende tilbage med et brag?"
+            },
+            "date" : "2010",
+            "subTitle" : {
+               "da" : "All's Fair In Storage and Wars"
+            },
+            "rating" : {
+               "stars" : "6.9 / 9"
+            },
+            "start" : "1531625700"
+         },
+         {
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Pawn Stars"
+            },
+            "channel" : "historytv.dk",
+            "stop" : "1531628400",
+            "episodeNum" : {
+               "xmltv_ns" : "17 . 37 .",
+               "onscreen" : "Afsnit 38 s\u00e6son 18"
+            },
+            "date" : "2013",
+            "desc" : {
+               "da" : "En tr\u00e6bens-pistol halter ind i butikken. Men vil Rick og Corey lade den g\u00e5 planken ud, hvis den ikke kan skyde? Corey og Chum ser n\u00e6rmere p\u00e5 fire \u00e5rb\u00f8ger signeret af James Dean."
+            },
+            "start" : "1531627200",
+            "subTitle" : {
+               "da" : "Pawns Ahoy!"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Pawn Stars"
+            },
+            "channel" : "historytv.dk",
+            "stop" : "1531629600",
+            "new" : null,
+            "start" : "1531628400",
+            "subTitle" : {
+               "da" : "Pawnball Wizard"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "17 . 38 .",
+               "onscreen" : "Afsnit 39 s\u00e6son 18"
+            },
+            "date" : "2013",
+            "desc" : {
+               "da" : "En sj\u00e6lden Captain Fantastic-flippermaskine skyder vej forbi butikken. Men kan den f\u00e5 Rick til at flippe ud? Corey f\u00e5r tilbudt at k\u00f8be et Leroy Neiman-maleri af Marilyn Monroe, der optr\u00e6der til JFK's 45 \u00e5rs f\u00f8dselsdag."
+            }
+         },
+         {
+            "new" : null,
+            "channel" : "historytv.dk",
+            "stop" : "1531630800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Pawn Stars"
+            },
+            "date" : "2012",
+            "desc" : {
+               "da" : "Rick f\u00e5r chancen for at k\u00f8be en side af Gutenberg-biblen. Det er verdens f\u00f8rste trykte bog, s\u00e5 vil denne ene side blanke Rick af eller g\u00f8re ham ivrig efter mere? Corey ser n\u00e6rmere p\u00e5 en sj\u00e6lden klassisk filmplakat i seks dele."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "17 . 39 .",
+               "onscreen" : "Afsnit 40 s\u00e6son 18"
+            },
+            "start" : "1531629600",
+            "subTitle" : {
+               "da" : "Oh Holy Pawn!"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Pawn Stars"
+            },
+            "channel" : "historytv.dk",
+            "stop" : "1531632000",
+            "new" : null,
+            "start" : "1531630800",
+            "subTitle" : {
+               "da" : "Spider Pawn"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "17 . 40 .",
+               "onscreen" : "Afsnit 41 s\u00e6son 18"
+            },
+            "desc" : {
+               "da" : "Rick unders\u00f8ger \u00e6gtheden af en prototype af en sj\u00e6lden Zippo-lighter fra 1936. Vil den t\u00e6nde eller slukke en gl\u00f8d i ham, n\u00e5r sandheden kommer frem? Senere m\u00f8der Chumlee den legendariske skaber af Marvel Comics og forfatter, Stan Lee."
+            },
+            "date" : "2015"
+         },
+         {
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Pawn Stars"
+            },
+            "channel" : "historytv.dk",
+            "stop" : "1531633200",
+            "episodeNum" : {
+               "xmltv_ns" : "17 . 41 .",
+               "onscreen" : "Afsnit 42 s\u00e6son 18"
+            },
+            "date" : "2010",
+            "desc" : {
+               "da" : "Rick og Corey ser n\u00e6rmere p\u00e5 et originalt supermanskostume. Har Rick superkr\u00e6fter nok til at fremskaffe den store sum penge, s\u00e6lgeren forlanger, eller bliver det \u00e6rkefjenden \"Ingen handel\", der sejrer?"
+            },
+            "start" : "1531632000",
+            "subTitle" : {
+               "da" : "Up Up and Away!"
+            }
+         },
+         {
+            "start" : "1531633200",
+            "subTitle" : {
+               "da" : "Gilded Pawn Age"
+            },
+            "date" : "2016",
+            "desc" : {
+               "da" : "Rick ser p\u00e5 et Gilded Age-tog. Kan Rick koble en k\u00f8ber p\u00e5, eller giver han s\u00e6lgeren en enkeltbillet ud af butikken? Efterf\u00f8lgende dr\u00f8ner et klassisk Nintendo-racerspil fra 1960'erne ind i butikken."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "17 . 42 .",
+               "onscreen" : "Afsnit 43 s\u00e6son 18"
+            },
+            "channel" : "historytv.dk",
+            "stop" : "1531634400",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Pawn Stars"
+            },
+            "new" : null
+         },
+         {
+            "start" : "1531634400",
+            "subTitle" : {
+               "da" : "A Man's Home is His Castle"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "7 . 14 .",
+               "onscreen" : "Afsnit 15 s\u00e6son 8"
+            },
+            "date" : "2015",
+            "desc" : {
+               "da" : "Mike og Frank k\u00f8ber ind hos en familie, der har brugt 40 \u00e5r p\u00e5 at bygge deres eget slot med de bare h\u00e6nder, og bes\u00f8ger en cirkussamler med et voksmuseum i sin stue."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "American Pickers"
+            },
+            "channel" : "historytv.dk",
+            "stop" : "1531638000",
+            "new" : null
+         },
+         {
+            "start" : "1531638000",
+            "subTitle" : {
+               "da" : "A Colonel of Truth"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 10",
+               "xmltv_ns" : "9 . 0 ."
+            },
+            "date" : "2016",
+            "desc" : {
+               "da" : "Gutterne k\u00f8ber ting fra en samling tilh\u00f8rende en indadvendt og g\u00e5defuld forretningsmand, der bliver kaldt \"the Colonel\", og som har gjort sig stor umage for at holde sin identitet hemmelig."
+            },
+            "title" : {
+               "da" : "American Pickers"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "historytv.dk",
+            "stop" : "1531641600",
+            "new" : null
+         },
+         {
+            "stop" : "1531645200",
+            "channel" : "historytv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "American Pickers"
+            },
+            "new" : null,
+            "subTitle" : {
+               "da" : "Divide and Conquer"
+            },
+            "start" : "1531641600",
+            "date" : "2010",
+            "desc" : {
+               "da" : "Gutterne m\u00e5 s\u00e6tte forst\u00e6rkninger ind p\u00e5 en overfyldt ejendom for at finde det, de leder efter inden m\u00f8rket falder p\u00e5. Mike finder noget levende p\u00e5 loftet."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "10 . 18 .",
+               "onscreen" : "Afsnit 19 s\u00e6son 11"
+            }
+         },
+         {
+            "stop" : "1531648800",
+            "channel" : "historytv.dk",
+            "title" : {
+               "da" : "The Lost Evidence"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "subTitle" : {
+               "da" : "Monte Cassino"
+            },
+            "start" : "1531645200",
+            "desc" : {
+               "da" : "I 1943 invaderede over 300.000 allierede soldater Italien og havde sammenst\u00f8d med nazisternes faldsk\u00e6rmstropper p\u00e5 bjergskr\u00e5ninger. Rekognosceringsfotos viser kampens r\u00e6dsler."
+            },
+            "date" : "2006",
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 8 .",
+               "onscreen" : "Afsnit 9 s\u00e6son 2"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "title" : {
+               "da" : "Hunting Hitler"
+            },
+            "stop" : "1531652400",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "John Cencich",
+                     "role" : "John Cencich"
+                  },
+                  {
+                     "role" : "Bob Baer",
+                     "name" : "Robert Baer"
+                  }
+               ]
+            },
+            "channel" : "historytv.dk",
+            "new" : null,
+            "subTitle" : {
+               "da" : "Unmarked Grave"
+            },
+            "start" : "1531648800",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=302621&seasonid=684449&id=5873778&lid=10"
+            ],
+            "episodeNum" : {
+               "thetvdb.com" : "series/302621",
+               "onscreen" : "Afsnit 7 s\u00e6son 2",
+               "xmltv_ns" : "1 . 6 ."
+            },
+            "date" : "2015",
+            "desc" : {
+               "da" : "Hitler og Bormann kan v\u00e6re blevet tvunget til at flygte fra Argentina, da Peron blev styrtet. Bob og John f\u00f8lger sporene fra frigivne dokumenter og sender holdene til Chile og Paraguay for at efterforske, hvor Hitler kan v\u00e6re flygtet hen."
+            }
+         },
+         {
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Mankind the Story of All of Us"
+            },
+            "channel" : "historytv.dk",
+            "stop" : "1531655700",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 11 s\u00e6son 1",
+               "xmltv_ns" : "0 . 10 ."
+            },
+            "desc" : {
+               "da" : "Fordyb dig i verdenshistoriens m\u00e6gtigste riger og deres storhed og fald, lige fra den f\u00f8rste opblomstrende civilisation i Mesopotamien til opdagelsen af Amerika, og oplev de skels\u00e6ttende milep\u00e6le, som f\u00f8rte frem til vor moderne verden."
+            },
+            "date" : "2012",
+            "start" : "1531652400",
+            "subTitle" : {
+               "da" : "Speed"
+            }
+         },
+         {
+            "date" : "2018",
+            "desc" : {
+               "da" : "Skattej\u00e6gerne Rick og Marty er p\u00e5 sporet af guld fra borgerkrigen, som angiveligt blev konfiskeret fra Jefferson Davis i 1865. En del ligger p\u00e5 bunden af Lake Michigan, en anden del i tunneller under Michigan og en tredje del i en grotte i Utah."
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=343016&seasonid=752191&id=6600448&lid=10"
+            ],
+            "episodeNum" : {
+               "thetvdb.com" : "series/343016",
+               "onscreen" : "Afsnit 5 s\u00e6son 1",
+               "xmltv_ns" : "0 . 4 ."
+            },
+            "start" : "1531655700",
+            "subTitle" : {
+               "da" : "Overboard"
+            },
+            "new" : null,
+            "channel" : "historytv.dk",
+            "stop" : "1531659000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Reality"
+               ]
+            },
+            "title" : {
+               "da" : "The Curse Of Civil War Gold"
+            }
+         },
+         {
+            "channel" : "historytv.dk",
+            "stop" : "1531662300",
+            "title" : {
+               "da" : "Forged In Fire"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "new" : null,
+            "start" : "1531659000",
+            "subTitle" : {
+               "da" : "Deer Horn Knives"
+            },
+            "date" : "2015",
+            "desc" : {
+               "da" : "Fire sv\u00e6rdsmede m\u00f8des i en hidtil uset udfordring, hvor de skal bruge st\u00e5l fra en gammel golfk\u00f8lle til at smede en klinge. I finalerunden skal de tilbagev\u00e6rende deltagere smede et par ikoniske v\u00e5ben med dobbeltklinge."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 4",
+               "thetvdb.com" : "series/296830",
+               "xmltv_ns" : "3 . 1 ."
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=296830&seasonid=707775&id=6043269&lid=10"
+            ]
+         },
+         {
+            "new" : null,
+            "stop" : "1531665600",
+            "channel" : "historytv.dk",
+            "title" : {
+               "da" : "Forged In Fire"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "desc" : {
+               "da" : "For f\u00f8rste gang nogensinde skal deltagerne ikke blot smede en, men hele to klinger i f\u00f8rste runde. De to tilbagev\u00e6rende smede skal lave et ikonisk krigssv\u00e6rd fra det 15. \u00e5rhundrede - Katzbalger."
+            },
+            "date" : "2015",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=296830&seasonid=707775&id=6043568&lid=10"
+            ],
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 4",
+               "thetvdb.com" : "series/296830",
+               "xmltv_ns" : "3 . 2 ."
+            },
+            "subTitle" : {
+               "da" : "The Katzbalger"
+            },
+            "start" : "1531662300"
+         },
+         {
+            "start" : "1531665600",
+            "subTitle" : {
+               "da" : "Makraka"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 4",
+               "thetvdb.com" : "series/296830",
+               "xmltv_ns" : "3 . 3 ."
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=296830&seasonid=707775&id=6043569&lid=10"
+            ],
+            "desc" : {
+               "da" : "Fire sv\u00e6rdsmede skal smede en karambit, en krum kniv, der ligner en klo. De sidste to deltagere har fem dage til at smede et af de mest d\u00f8dbringende v\u00e5ben i Afrikas historie - makrakaen. Hvilken smed vil sejre til sidst?"
+            },
+            "date" : "2015",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "title" : {
+               "da" : "Forged In Fire"
+            },
+            "channel" : "historytv.dk",
+            "stop" : "1531668900",
+            "new" : null
+         },
+         {
+            "start" : "1531668900",
+            "subTitle" : {
+               "da" : "Flying High"
+            },
+            "date" : "2014",
+            "desc" : {
+               "da" : "En guitar signeret af basguitaristen Garry Tallent klimprer i butikken. Rick unders\u00f8ger en kopi af en Peace Dollar fra 1964. Et stykke af et Fokker T-2 fly lander i butikken, og det inspirerer Rick til at udfordre Chum i en papirfly-konkurrence."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "14 . 38 .",
+               "onscreen" : "Afsnit 39 s\u00e6son 15"
+            },
+            "channel" : "historytv.dk",
+            "stop" : "1531670700",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Pawn Stars"
+            },
+            "new" : null
+         },
+         {
+            "subTitle" : {
+               "da" : "Game Over"
+            },
+            "start" : "1531670700",
+            "episodeNum" : {
+               "xmltv_ns" : "14 . 39 .",
+               "onscreen" : "Afsnit 40 s\u00e6son 15"
+            },
+            "desc" : {
+               "da" : "F\u00e5 luft under f\u00f8dderne med Pawn Stars, n\u00e5r et luftpudefart\u00f8j lander i butikken. Corey kigger p\u00e5 et s\u00e6t Beatles bobblehead-figurer fra 1960'erne. Et nyt arkadespil finder vej til butikken, og Rick lader gutterne slutte det til."
+            },
+            "date" : "2014",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Pawn Stars"
+            },
+            "stop" : "1531672500",
+            "channel" : "historytv.dk",
+            "new" : null
+         },
+         {
+            "subTitle" : {
+               "da" : "Longshot Pawn"
+            },
+            "start" : "1531672500",
+            "desc" : {
+               "da" : "Tag sigte med Pawn Stars, n\u00e5r et sj\u00e6ldent nepalesisk Bira-gev\u00e6r fra sidst i 1800-tallet ruller ind i butikken. Rammer Rick plet, eller lader han handlen g\u00e5 forbi? Senere melder en messingbl\u00e6ser med tre horn sin ankomst. Men spiller det Ricks melodi?"
+            },
+            "date" : "2014",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 18",
+               "xmltv_ns" : "17 . 0 ."
+            },
+            "stop" : "1531674000",
+            "channel" : "historytv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Pawn Stars"
+            },
+            "new" : null
+         },
+         {
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Pawn Stars"
+            },
+            "stop" : "1531675800",
+            "channel" : "historytv.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "17 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 18"
+            },
+            "date" : "2005",
+            "desc" : {
+               "da" : "En unik Star Wars-emballeret Boba Fett-prototype lander i butikken. Steve Grad begejstrer Rick med sin overjordiske Star Wars-plakat med autografer og k\u00e6mpe kortsamling."
+            },
+            "subTitle" : {
+               "da" : "Pawn Awakens"
+            },
+            "start" : "1531674000"
+         },
+         {
+            "new" : null,
+            "stop" : "1531677600",
+            "channel" : "historytv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Pawn Stars"
+            },
+            "date" : "2015",
+            "desc" : {
+               "da" : "Da en S Barber-ticent fra 1894 triller ind i butikken, vil Rick s\u00e5 lade handlen afg\u00f8re ved at sl\u00e5 plat og krone? Senere f\u00e5r en autograf af John Belushi smilet frem. Ler Corey hele vejen til banken, eller er der ikke noget at grine af?"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 18",
+               "xmltv_ns" : "17 . 2 ."
+            },
+            "subTitle" : {
+               "da" : "Pawn Brothers"
+            },
+            "start" : "1531675800"
+         },
+         {
+            "start" : "1531677600",
+            "subTitle" : {
+               "da" : "Bandana Brothers"
+            },
+            "desc" : {
+               "da" : "\u00d8delagte trucks flyder p\u00e5 banen, da vandet og mudderet i White Out f\u00e5r en truck til at bryde sammen, og Silo Pulldown tager livet af en anden. Green Hell f\u00e5r en overraskende afslutning, der f\u00f8rer til et f\u00f8lelsesladet resultat."
+            },
+            "date" : "2018",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=343611&seasonid=755433&id=6674539&lid=10"
+            ],
+            "episodeNum" : {
+               "onscreen" : "Afsnit 9 s\u00e6son 1",
+               "thetvdb.com" : "series/343611",
+               "xmltv_ns" : "0 . 8 ."
+            },
+            "channel" : "historytv.dk",
+            "stop" : "1531681200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Truck Night in America"
+            },
+            "new" : null
+         },
+         {
+            "desc" : {
+               "da" : "Et imponerende udvalg af trucks k\u00f8rer til startlinjen i Whiteout. Det umulige sker i Slingshot, og sp\u00e6ndingen stiger, da brandv\u00e6snet tilkaldes. Green Hell sl\u00e5r til igen og g\u00f8r enden p\u00e5 en truck i en afslutning, som ingen havde set komme."
+            },
+            "date" : "2018",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=343611&seasonid=755433&id=6647545&lid=10"
+            ],
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 9 .",
+               "onscreen" : "Afsnit 10 s\u00e6son 1",
+               "thetvdb.com" : "series/343611"
+            },
+            "subTitle" : {
+               "da" : "In the Hole"
+            },
+            "start" : "1531681200",
+            "new" : null,
+            "stop" : "1531684800",
+            "channel" : "historytv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Truck Night in America"
+            }
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=261181&seasonid=672338&id=5701791&lid=10"
+            ],
+            "episodeNum" : {
+               "onscreen" : "Afsnit 13 s\u00e6son 6",
+               "thetvdb.com" : "series/261181",
+               "xmltv_ns" : "5 . 12 ."
+            },
+            "desc" : {
+               "da" : "Danny \"The Count\" Koker er en Las Vegas-legende, der opk\u00f8ber, restaurerer og omdanner klassiske biler og motorcykler - for derefter at s\u00e6lge dem med fortjeneste."
+            },
+            "date" : "2012",
+            "rating" : {
+               "stars" : "6.9 / 9"
+            },
+            "start" : "1531684800",
+            "subTitle" : {
+               "da" : "Sailor's Soul"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "title" : {
+               "da" : "Counting Cars"
+            },
+            "channel" : "historytv.dk",
+            "stop" : "1531686600"
+         },
+         {
+            "channel" : "historytv.dk",
+            "stop" : "1531688400",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "title" : {
+               "da" : "Counting Cars"
+            },
+            "new" : null,
+            "rating" : {
+               "stars" : "6.9 / 9"
+            },
+            "start" : "1531686600",
+            "subTitle" : {
+               "da" : "The Cart of War"
+            },
+            "desc" : {
+               "da" : "Danny \"The Count\" Koker er en Las Vegas-legende, der opk\u00f8ber, restaurerer og omdanner klassiske biler og motorcykler - for derefter at s\u00e6lge dem med fortjeneste."
+            },
+            "date" : "2012",
+            "episodeNum" : {
+               "xmltv_ns" : "5 . 13 .",
+               "thetvdb.com" : "series/261181",
+               "onscreen" : "Afsnit 14 s\u00e6son 6"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=261181&seasonid=672338&id=5701792&lid=10"
+            ]
+         },
+         {
+            "subTitle" : {
+               "da" : "Backlash"
+            },
+            "start" : "1531688400",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 6 .",
+               "onscreen" : "Afsnit 7 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Romerriget har vokset sig s\u00e5 stort, at dets st\u00f8rrelse nu er en svaghed, og riget deles i et \u00f8st- og vestimperium med to kejsere. Hunnerne, vandalerne og goterne tr\u00e6nger gradvist romernes bos\u00e6ttelse tilbage, mens barbarerne vil udslette imperiet helt."
+            },
+            "date" : "2015",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Barbarians Rising"
+            },
+            "stop" : "1531692300",
+            "channel" : "historytv.dk",
+            "new" : null
+         },
+         {
+            "episodeNum" : {
+               "thetvdb.com" : "series/343611",
+               "onscreen" : "Afsnit 10 s\u00e6son 1",
+               "xmltv_ns" : "0 . 9 ."
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=343611&seasonid=755433&id=6647545&lid=10"
+            ],
+            "date" : "2018",
+            "desc" : {
+               "da" : "Et imponerende udvalg af trucks k\u00f8rer til startlinjen i Whiteout. Det umulige sker i Slingshot, og sp\u00e6ndingen stiger, da brandv\u00e6snet tilkaldes. Green Hell sl\u00e5r til igen og g\u00f8r enden p\u00e5 en truck i en afslutning, som ingen havde set komme."
+            },
+            "subTitle" : {
+               "da" : "In the Hole"
+            },
+            "start" : "1531692300",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Truck Night in America"
+            },
+            "stop" : "1531695600",
+            "channel" : "historytv.dk"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "title" : {
+               "da" : "Counting Cars"
+            },
+            "stop" : "1531697400",
+            "channel" : "historytv.dk",
+            "new" : null,
+            "subTitle" : {
+               "da" : "Sailor's Soul"
+            },
+            "start" : "1531695600",
+            "rating" : {
+               "stars" : "6.9 / 9"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=261181&seasonid=672338&id=5701791&lid=10"
+            ],
+            "episodeNum" : {
+               "xmltv_ns" : "5 . 12 .",
+               "onscreen" : "Afsnit 13 s\u00e6son 6",
+               "thetvdb.com" : "series/261181"
+            },
+            "desc" : {
+               "da" : "Danny \"The Count\" Koker er en Las Vegas-legende, der opk\u00f8ber, restaurerer og omdanner klassiske biler og motorcykler - for derefter at s\u00e6lge dem med fortjeneste."
+            },
+            "date" : "2012"
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=261181&seasonid=672338&id=5701792&lid=10"
+            ],
+            "episodeNum" : {
+               "thetvdb.com" : "series/261181",
+               "onscreen" : "Afsnit 14 s\u00e6son 6",
+               "xmltv_ns" : "5 . 13 ."
+            },
+            "date" : "2012",
+            "desc" : {
+               "da" : "Danny \"The Count\" Koker er en Las Vegas-legende, der opk\u00f8ber, restaurerer og omdanner klassiske biler og motorcykler - for derefter at s\u00e6lge dem med fortjeneste."
+            },
+            "rating" : {
+               "stars" : "6.9 / 9"
+            },
+            "start" : "1531697400",
+            "subTitle" : {
+               "da" : "The Cart of War"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "title" : {
+               "da" : "Counting Cars"
+            },
+            "channel" : "historytv.dk",
+            "stop" : "1531698900"
+         },
+         {
+            "new" : null,
+            "channel" : "historytv.dk",
+            "stop" : "1531702200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "The Lost Evidence"
+            },
+            "date" : "2006",
+            "desc" : {
+               "da" : "I 1943 invaderede over 300.000 allierede soldater Italien og havde sammenst\u00f8d med nazisternes faldsk\u00e6rmstropper p\u00e5 bjergskr\u00e5ninger. Rekognosceringsfotos viser kampens r\u00e6dsler."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 8 .",
+               "onscreen" : "Afsnit 9 s\u00e6son 2"
+            },
+            "start" : "1531698900",
+            "subTitle" : {
+               "da" : "Monte Cassino"
+            }
+         }
+      ]
+   }
+}

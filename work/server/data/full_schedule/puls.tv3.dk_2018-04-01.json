@@ -1,0 +1,934 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 5",
+               "xmltv_ns" : "4 . 3 ."
+            },
+            "channel" : "puls.tv3.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "stop" : "1522549800",
+            "desc" : {
+               "da" : "Carli ville egentlig v\u00e6re politibetjent, men gifter sig med en i stedet for. Og Jeff tager sin rolle som beskytter lidt mere alvorligt, end den festglade Carli kan h\u00e5ndtere. Hendes fors\u00f8g p\u00e5 at bryde ud af de \u00e6gteskabelige l\u00e6nker, starter en r\u00e6kke d\u00f8dbringende begivenheder."
+            },
+            "start" : "1522546500",
+            "title" : {
+               "da" : "Til d\u00f8den dem skiller"
+            },
+            "new" : null,
+            "date" : "2017",
+            "video" : {
+               "aspect" : "4:3"
+            }
+         },
+         {
+            "url" : [
+               "https://www.themoviedb.org/tv/58818/season/1/episode/8"
+            ],
+            "new" : null,
+            "date" : "2013",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "desc" : {
+               "da" : "Rocky Bryants d\u00f8d i Seagraves, Texas i 2008, efterforskes. Den 25. marts, ca 30 minutter efter han var stemplet ind p\u00e5 arbejde, blev Rocky fundet brutalt banket i en bygning, hvor han arbejdede, bare f\u00e5 miles fra sit hjem. Han blev erkl\u00e6ret d\u00f8d f\u00e5 timer senere, p\u00e5 hospitalet. Efterforskerne dykkede ned i hans hustrus baggrund og fandt ud af at hun havde en aff\u00e6re og havde grnd til at ville v\u00e6re fri for sin mand. Hendes k\u00e6reste, Luis Villarreal, var en meget sandsynlig mist\u00e6nkt, for mordet p\u00e5 Rocky. Han var kendt for at have temperament og ogs\u00e5 for at v\u00e6re meget besiddende overfor de kvinder han kom sammen med. Patricia menes at v\u00e6re medskyldig, ved at have givet Rockys arbejdsplan til sin tidligere k\u00e6reste, den nu mist\u00e6nkte Luis."
+            },
+            "start" : "1522549800",
+            "title" : {
+               "da" : "Cold Justice"
+            },
+            "stop" : "1522552500",
+            "subTitle" : {
+               "da" : "Blind Love"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 7/8 .",
+               "onscreen" : "Afsnit 8 af 8 s\u00e6son 1"
+            },
+            "channel" : "puls.tv3.dk",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Yolanda McClary",
+                     "role" : "Herself (Investigator)"
+                  },
+                  {
+                     "name" : "Kelly Siegler",
+                     "role" : "Herself (Prosecutor)"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Crime"
+               ]
+            }
+         },
+         {
+            "url" : [
+               "https://www.themoviedb.org/tv/58818/season/2/episode/1"
+            ],
+            "new" : null,
+            "date" : "2014",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "start" : "1522552500",
+            "desc" : {
+               "da" : "Tracy Lynn afleverede sine to d\u00f8tre til naboen, en aften hun skulle i byen, i 2001. Hendes eks-mand hentede b\u00f8rnene, sagde at Tracy havde bedt ham om det. Tracy blev aldrig set igen."
+            },
+            "title" : {
+               "da" : "Cold Justice"
+            },
+            "stop" : "1522555140",
+            "subTitle" : {
+               "da" : "Gone (Altus, OK)"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 0/18 .",
+               "onscreen" : "Afsnit 1 af 18 s\u00e6son 2"
+            },
+            "channel" : "puls.tv3.dk",
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Crime"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Herself (Investigator)",
+                     "name" : "Yolanda McClary"
+                  },
+                  {
+                     "name" : "Kelly Siegler",
+                     "role" : "Herself (Prosecutor)"
+                  }
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 0 .",
+               "onscreen" : "Afsnit 1"
+            },
+            "channel" : "puls.tv3.dk",
+            "stop" : "1522558200",
+            "title" : {
+               "da" : "Jamie Olivers skolemad"
+            },
+            "start" : "1522555200",
+            "desc" : {
+               "da" : "Jamies nye middagsg\u00e6ster elsker deres nuv\u00e6rende menu best\u00e5ende af d\u00e5rlig forarbejdet mad. De spiser flere kilo pomfritter om ugen, men skr\u00e6mmes v\u00e6k ved synet af en gr\u00f8ntsag."
+            },
+            "date" : "2005",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "new" : null
+         },
+         {
+            "start" : "1522558200",
+            "desc" : {
+               "da" : "Jamie er kommet op med nye opskrifter og har undervist k\u00f8kkendamerne, men b\u00f8rnene er langt fra tilfredse og det meste af maden ender i skraldespanden."
+            },
+            "title" : {
+               "da" : "Jamie Olivers skolemad"
+            },
+            "new" : null,
+            "date" : "2005",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "channel" : "puls.tv3.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2",
+               "xmltv_ns" : ". 1 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522561500"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "puls.tv3.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3",
+               "xmltv_ns" : ". 2 ."
+            },
+            "stop" : "1522565100",
+            "title" : {
+               "da" : "Jamie Olivers skolemad"
+            },
+            "desc" : {
+               "da" : "Jamie er fast besluttet p\u00e5 at f\u00e5 sin revolution igennem, og forbyder derfor junk food p\u00e5 skolen, s\u00e5 b\u00f8rnene ikke l\u00e6ngere har et valg."
+            },
+            "start" : "1522561500",
+            "date" : "2005",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "new" : null
+         },
+         {
+            "start" : "1522565100",
+            "desc" : {
+               "da" : "Det er lykkedes Jamie at \u00e6ndre tilgangen til mad p\u00e5 \u00e9n skole i London, men nu m\u00e5 han bevise, at hans revolution ogs\u00e5 kan g\u00f8re sig g\u00e6ldende p\u00e5 et st\u00f8rre plan."
+            },
+            "title" : {
+               "da" : "Jamie Olivers skolemad"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2005",
+            "channel" : "puls.tv3.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 3 .",
+               "onscreen" : "Afsnit 4"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522569000"
+         },
+         {
+            "stop" : "1522573800",
+            "country" : [
+               "GB"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Documentary"
+               ]
+            },
+            "channel" : "puls.tv3.dk",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2006",
+            "new" : null,
+            "title" : {
+               "da" : "Jamie Olivers skolemad - \u00e9t \u00e5r efter"
+            },
+            "start" : "1522569000",
+            "desc" : {
+               "da" : "Som et resultat af Jamies projekt om bedre skolemad lovede den engelske regering at st\u00f8tte op om projektet med 280 millioner pund. Nu, et \u00e5r senere, vender Jamie tilbage for at f\u00f8lge op p\u00e5 projektet, og for at se, hvad pengene er blevet brugt til, og om det er nok til at foretage de radikale \u00e6ndringer, som han foreslog. Men tingene er ikke g\u00e5et helt, som Jamie h\u00e5bede p\u00e5. Kan han f\u00e5 sin revolution tilbage p\u00e5 sporet?"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Jamie Olivers opskrift p\u00e5 et sundt liv"
+            },
+            "start" : "1522573800",
+            "desc" : {
+               "da" : "Jamie bes\u00f8ger Nicoyan halv\u00f8en i Costa Rica, hvor det ikke er us\u00e6dvanligt at indbyggerne bliver over 100 \u00e5r. Han rejser ogs\u00e5 til den gr\u00e6ske \u00f8, Ikaria. P\u00e5 menuen st\u00e5r der et br\u00f8d lavet af \u00e6g og yoghurt, med en lomme af l\u00e6kre b\u00e6r, honning og pistachien\u00f8dder."
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2015",
+            "new" : null,
+            "country" : [
+               "GB"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "channel" : "puls.tv3.dk",
+            "stop" : "1522578000"
+         },
+         {
+            "date" : "2015",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Jamie Olivers opskrift p\u00e5 et sundt liv"
+            },
+            "desc" : {
+               "da" : "Jamie tager med p\u00e5 fisketur i Costa Rica og l\u00e6rer lidt karate i Japan. P\u00e5 menuen er der pandekager af ost og majs, toppet op med r\u00f8get bacon og karameliseret banan."
+            },
+            "start" : "1522578000",
+            "stop" : "1522581900",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "country" : [
+               "GB"
+            ],
+            "channel" : "puls.tv3.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "xmltv_ns" : "0 . 1 ."
+            }
+         },
+         {
+            "stop" : "1522585800",
+            "country" : [
+               "GB"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "channel" : "puls.tv3.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 1",
+               "xmltv_ns" : "0 . 2 ."
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2015",
+            "new" : null,
+            "title" : {
+               "da" : "Jamie Olivers opskrift p\u00e5 et sundt liv"
+            },
+            "start" : "1522581900",
+            "desc" : {
+               "da" : "Jamie fouragerer i Gr\u00e6kenland og tr\u00e6ner i Japan. Han laver ogs\u00e5 sunde kebabs med kylling og hvidl\u00f8gsbr\u00f8d samt en megastor vegetarburger med tofu, salat og basilikumdressing."
+            }
+         },
+         {
+            "stop" : "1522589700",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "country" : [
+               "GB"
+            ],
+            "channel" : "puls.tv3.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 1",
+               "xmltv_ns" : "0 . 3 ."
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2015",
+            "new" : null,
+            "title" : {
+               "da" : "Jamie Olivers opskrift p\u00e5 et sundt liv"
+            },
+            "desc" : {
+               "da" : "Jamie Oliver m\u00f8der costaricanske cowboys og kokkererer en kaloriefattig carbonara med r\u00f8get bacon, \u00e6rter, mandler og basilikum. Der er ogs\u00e5 en gryderet af r\u00f8gede, sorte b\u00f8nner med squash, peberfrugt, ris og chilisalsa."
+            },
+            "start" : "1522585800"
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 s\u00e6son 1",
+               "xmltv_ns" : "0 . 4 ."
+            },
+            "channel" : "puls.tv3.dk",
+            "country" : [
+               "GB"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1522593600",
+            "desc" : {
+               "da" : "I Japan, er Jamie Oliver med til at h\u00f8ste og spiser tang. P\u00e5 menuen er bagte \u00e6g og ricotta p\u00e5 ristet br\u00f8d, supervelsmagende miso og sydende rejer med \u00e5rstidens gr\u00f8ntsager og salsa."
+            },
+            "start" : "1522589700",
+            "title" : {
+               "da" : "Jamie Olivers opskrift p\u00e5 et sundt liv"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2015"
+         },
+         {
+            "title" : {
+               "da" : "Jamie Olivers opskrift p\u00e5 et sundt liv"
+            },
+            "desc" : {
+               "da" : "Start dagen med en sundhedsbombe. Jamie tilbereder en h\u00f8joktan morgenstarter med risengr\u00f8d af sorte ris, stegt laks med ingef\u00e6rris og ristet gurkemejekylling med hummus."
+            },
+            "start" : "1522593600",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2015",
+            "new" : null,
+            "country" : [
+               "GB"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "channel" : "puls.tv3.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 5 .",
+               "onscreen" : "Afsnit 6 s\u00e6son 1"
+            },
+            "stop" : "1522597500"
+         },
+         {
+            "desc" : {
+               "da" : "\u00c5ret er nitten hundrede og syvogfyrre. Sherlock Holmes (Ian McKellen) er blevet pensioneret for tredive \u00e5r siden, men han k\u00e6mper mod det tidlige stadie af demens. Han rejser til Japan i sin s\u00f8gen efter en plante, der kan hj\u00e6lpe ham med at genvinde sin fantastiske intellekt. Mens han er der, bliver han vidner til bombningen af Hiroshima og de forf\u00e6rdelige begivenheder, der tvinger ham til at se indad. Under hans tilbagevenden til England, sl\u00e5r han sig ned i en lille by, hvor han bliver venner med Roger (Milo Parker), s\u00f8nnen af husholdersken Frk. Munro (Laura Linney). Rogers venskab tr\u00e6vler op i den gamle sag, der f\u00f8rte til Holmes pensionering fra videnskaben, og revurderer hans konklusioner. Vil verdens f\u00f8rste, r\u00e5dgivende detektiv v\u00e6re i stand til at genvinde hans dygtighed, eller vil han bukke under for hans voksende, psykiske sygdomsstadie?"
+            },
+            "rating" : {
+               "stars" : "6.5 / 10"
+            },
+            "start" : "1522597500",
+            "title" : {
+               "da" : "Mr. Holmes"
+            },
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/280996"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2015",
+            "channel" : "puls.tv3.dk",
+            "episodeNum" : {
+               "themoviedb.org" : "movie/280996"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama",
+                  "Mystery"
+               ]
+            },
+            "country" : [
+               "GB",
+               "US"
+            ],
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Iain Canning"
+                  },
+                  {
+                     "name" : "Anne Carey"
+                  },
+                  {
+                     "name" : "Emile Sherman"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Sherlock Holmes",
+                     "name" : "Ian McKellen"
+                  },
+                  {
+                     "name" : "Milo Parker",
+                     "role" : "Roger"
+                  },
+                  {
+                     "name" : "Laura Linney",
+                     "role" : "Mrs. Munro"
+                  },
+                  {
+                     "name" : "Hattie Morahan",
+                     "role" : "Ann Kelmot"
+                  },
+                  {
+                     "role" : "Thomas Kelmot",
+                     "name" : "Patrick Kennedy"
+                  },
+                  {
+                     "role" : "Tamiki Umezaki",
+                     "name" : "Hiroyuki Sanada"
+                  },
+                  {
+                     "name" : "Colin Starkey",
+                     "role" : "Dr. John Watson"
+                  },
+                  {
+                     "role" : "Matsuda Umezaki",
+                     "name" : "Zak Shukor"
+                  },
+                  {
+                     "name" : "Roger Allam",
+                     "role" : "Dr. Barrie"
+                  },
+                  {
+                     "name" : "Phil Davis",
+                     "role" : "Inspector Gilbert"
+                  },
+                  {
+                     "name" : "Sarah Crowden",
+                     "role" : "Mrs. Hudson"
+                  },
+                  {
+                     "role" : "Madame Schirmer",
+                     "name" : "Frances de la Tour"
+                  },
+                  {
+                     "name" : "Hermione Corfield",
+                     "role" : "Matinee 'Ann Kelmot'"
+                  },
+                  {
+                     "name" : "Frances Barber",
+                     "role" : "Matinee 'Madame Schirmer'"
+                  },
+                  {
+                     "role" : "Mycroft Holmes",
+                     "name" : "John Sessions"
+                  },
+                  {
+                     "name" : "Michael Culkin",
+                     "role" : "Bank Manager"
+                  },
+                  {
+                     "role" : "Lady on Platform",
+                     "name" : "Eileen Davies"
+                  },
+                  {
+                     "role" : "Oswald",
+                     "name" : "Charles Maddox"
+                  },
+                  {
+                     "role" : "Maya Umezaki",
+                     "name" : "Takako Akashi"
+                  },
+                  {
+                     "name" : "David Foxxe",
+                     "role" : "Chemist"
+                  },
+                  {
+                     "name" : "Oliver Devoti",
+                     "role" : "Ticket Agent"
+                  },
+                  {
+                     "name" : "Mike Burnside",
+                     "role" : "Ann's Solicitor"
+                  },
+                  {
+                     "role" : "Matinee 'Sherlock'",
+                     "name" : "Nicholas Rowe"
+                  },
+                  {
+                     "role" : "Matinee 'Kelmot'",
+                     "name" : "Sam Coulson"
+                  },
+                  {
+                     "role" : "Boy",
+                     "name" : "Kit Connor"
+                  },
+                  {
+                     "name" : "Zoe Rainey",
+                     "role" : "Boy's Mother"
+                  },
+                  {
+                     "name" : "Elizabeth Jane Cassidy",
+                     "role" : "Waitress (uncredited)"
+                  },
+                  {
+                     "role" : "Bank Clerk (uncredited)",
+                     "name" : "Ben Farrow"
+                  },
+                  {
+                     "role" : "Patron in Cinema (uncredited)",
+                     "name" : "John Carr"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Bill Condon"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Jeffrey Hatcher"
+                  }
+               ]
+            },
+            "stop" : "1522605600"
+         },
+         {
+            "channel" : "puls.tv3.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "9 . 1002 .",
+               "onscreen" : "Afsnit 1003 s\u00e6son 10"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Jeff Bumgarner"
+                  }
+               ]
+            },
+            "stop" : "1522607400",
+            "desc" : {
+               "da" : "Dave \u00f8ger sin inventarliste med et overraskende medicinsk apparat. Rene synes hans indk\u00f8bte m\u00f8beldepot er oplysende, og Ivy finder uventet gr\u00f8nt."
+            },
+            "start" : "1522605600",
+            "title" : {
+               "da" : "Depotj\u00e6gerne"
+            },
+            "new" : null,
+            "date" : "2017",
+            "video" : {
+               "aspect" : "4:3"
+            }
+         },
+         {
+            "start" : "1522607400",
+            "desc" : {
+               "da" : "Adelanto er stedet hvor Dotson vender tilbage. Dave fors\u00f8ger at holder motoren igang. Darrell falder over en sp\u00e6ndende samling og Rene taber endelig t\u00e5lmodigheden."
+            },
+            "title" : {
+               "da" : "Depotj\u00e6gerne"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2017",
+            "channel" : "puls.tv3.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "9 . 1003 .",
+               "onscreen" : "Afsnit 1004 s\u00e6son 10"
+            },
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Jeff Bumgarner"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1522609200"
+         },
+         {
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2017",
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/72943/season/1/episode/5"
+            ],
+            "title" : {
+               "da" : "N\u00e6vningene taler ud"
+            },
+            "start" : "1522609200",
+            "desc" : {
+               "da" : "I 2005 frikendte en jury Hollywood-legenden Robert Blake, for mord, efter hans hustru, Bonnie Lee Bakley blev fundet skudt, i en bil udenfor en restaurant i Los Angeles. Medlemmer af den oprindelige jury diskuterer deres kontroversielle dom."
+            },
+            "subTitle" : {
+               "da" : "Robert Blake"
+            },
+            "stop" : "1522612800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Crime",
+                  "Documentary",
+                  "Reality"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "channel" : "puls.tv3.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 4/5 .",
+               "onscreen" : "Afsnit 5 af 5 s\u00e6son 1"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Til d\u00f8den dem skiller"
+            },
+            "start" : "1522612800",
+            "desc" : {
+               "da" : "Eric forlader marinen for at forf\u00f8lge sin dr\u00f8m om at blive bager, og han er sikker p\u00e5 at have fundet det s\u00f8deste tilskud, da han falder Constance, p\u00e5 en blind date. De to lever det gode liv, indtil 7 \u00e5rs krisen ender i mord."
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2017",
+            "new" : null,
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "puls.tv3.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 s\u00e6son 5",
+               "xmltv_ns" : "4 . 4 ."
+            },
+            "stop" : "1522616400"
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "4 . 4 .",
+               "onscreen" : "Afsnit 5 s\u00e6son 5"
+            },
+            "channel" : "puls.tv3.dk",
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Christopher Mitchell"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1522620000",
+            "desc" : {
+               "da" : "I en lille by bliver en mor fuldst\u00e6ndig besat af en tidligere straffet, men finder hurtigt ud af at det har fatale konsekvenser at v\u00e6re p\u00e5 det forkerte sted p\u00e5 det forkerte tidspunkt."
+            },
+            "start" : "1522616400",
+            "title" : {
+               "da" : "K\u00e6rester der dr\u00e6ber"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2015"
+         },
+         {
+            "stop" : "1522629300",
+            "episodeNum" : {
+               "themoviedb.org" : "movie/7980"
+            },
+            "channel" : "puls.tv3.dk",
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Carolynne Cunningham"
+                  },
+                  {
+                     "name" : "Peter Jackson"
+                  },
+                  {
+                     "name" : "Aim\u00e9e Peyronnet"
+                  },
+                  {
+                     "name" : "Fran Walsh"
+                  },
+                  {
+                     "name" : "Marc Ashton"
+                  },
+                  {
+                     "name" : "Philippa Boyens"
+                  },
+                  {
+                     "name" : "Anne Bruning"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Fran Walsh"
+                  },
+                  {
+                     "name" : "Philippa Boyens"
+                  },
+                  {
+                     "name" : "Peter Jackson"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Abigail Salmon",
+                     "name" : "Rachel Weisz"
+                  },
+                  {
+                     "role" : "Jack Salmon",
+                     "name" : "Mark Wahlberg"
+                  },
+                  {
+                     "role" : "Grandma Lynn",
+                     "name" : "Susan Sarandon"
+                  },
+                  {
+                     "name" : "Saoirse Ronan",
+                     "role" : "Susie Salmon"
+                  },
+                  {
+                     "role" : "George Harvey",
+                     "name" : "Stanley Tucci"
+                  },
+                  {
+                     "role" : "Len Fenerman",
+                     "name" : "Michael Imperioli"
+                  },
+                  {
+                     "name" : "Rose McIver",
+                     "role" : "Lindsey Salmon"
+                  },
+                  {
+                     "name" : "Carolyn Dando",
+                     "role" : "Ruth Connors"
+                  },
+                  {
+                     "role" : "Buckley Salmon",
+                     "name" : "Christian Thomas Ashdale"
+                  },
+                  {
+                     "role" : "Ray Singh",
+                     "name" : "Reece Ritchie"
+                  },
+                  {
+                     "name" : "Nikki SooHoo",
+                     "role" : "Holly"
+                  },
+                  {
+                     "name" : "Jake Abel",
+                     "role" : "Brian Nelson"
+                  },
+                  {
+                     "role" : "Clarissa",
+                     "name" : "AJ Michalka"
+                  },
+                  {
+                     "name" : "Tom McCarthy",
+                     "role" : "Principal Caden"
+                  },
+                  {
+                     "name" : "Stink Fisher",
+                     "role" : "Mr. Connors"
+                  },
+                  {
+                     "name" : "Andrew James Allen",
+                     "role" : "Samuel Heckler"
+                  },
+                  {
+                     "name" : "Stefania LaVie Owen",
+                     "role" : "Flora Hernandez"
+                  },
+                  {
+                     "role" : "Townsperson",
+                     "name" : "Scott Evans"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Peter Jackson"
+                  }
+               ]
+            },
+            "country" : [
+               "GB",
+               "NZ",
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Fantasy",
+                  "Drama"
+               ]
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/7980"
+            ],
+            "new" : null,
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2009",
+            "rating" : {
+               "stars" : "6.7 / 10"
+            },
+            "start" : "1522620000",
+            "desc" : {
+               "da" : "En 14-\u00e5rige pige, i 1970ernes Pennsylvania, bliver myrdet af naboen. Hun fort\u00e6ller sin historie fra et sted mellem Himmel og jord, viser hvordan menneskene omkring hende har levet, og hvordan de alle forandrer sig, alt mens hun fors\u00f8ger at f\u00e5 nogen til at finde hendes forsvundne lig."
+            },
+            "title" : {
+               "da" : "The Lovely Bones"
+            }
+         }
+      ]
+   }
+}

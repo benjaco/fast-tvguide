@@ -1,0 +1,1520 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "date" : "1998",
+            "stop" : "1531970100",
+            "country" : [
+               "US"
+            ],
+            "start" : "1531962300",
+            "new" : "0",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Richard Linklater"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Richard Linklater"
+                  },
+                  {
+                     "name" : "Claude Stanush"
+                  },
+                  {
+                     "name" : "Clark Walker"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Matthew McConaughey",
+                     "role" : "Willis Newton"
+                  },
+                  {
+                     "role" : "Joe Newton",
+                     "name" : "Skeet Ulrich"
+                  },
+                  {
+                     "name" : "Ethan Hawke",
+                     "role" : "Jess Newton"
+                  },
+                  {
+                     "role" : "Dock Newton",
+                     "name" : "Vincent D'Onofrio"
+                  },
+                  {
+                     "role" : "Mia Newton",
+                     "name" : "Gail Cronauer"
+                  },
+                  {
+                     "role" : "Orphan Singer",
+                     "name" : "Jena Karam"
+                  },
+                  {
+                     "name" : "Julianna Margulies",
+                     "role" : "Louise Brown"
+                  },
+                  {
+                     "role" : "Orphan Singer",
+                     "name" : "Casey McAuliffe"
+                  },
+                  {
+                     "role" : "Brentwood Glasscock",
+                     "name" : "Dwight Yoakam"
+                  },
+                  {
+                     "name" : "Charles Gunning",
+                     "role" : "Slim"
+                  },
+                  {
+                     "name" : "Regina Mae Matthews",
+                     "role" : "Orphan Fiddler"
+                  },
+                  {
+                     "name" : "Becket Gremmels",
+                     "role" : "Lewis"
+                  },
+                  {
+                     "role" : "Waiter",
+                     "name" : "Lew Temple"
+                  },
+                  {
+                     "name" : "Glynn Williams",
+                     "role" : "Farmer Williams"
+                  },
+                  {
+                     "role" : "Bank Teller",
+                     "name" : "Charles 'Chip' Bray"
+                  },
+                  {
+                     "role" : "Frank Hamer",
+                     "name" : "Ken Farmer"
+                  }
+               ]
+            },
+            "channel" : "action.cmore.dk",
+            "title" : {
+               "da" : "The Newton Boys"
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/42807"
+            ],
+            "rating" : {
+               "stars" : "6.1 / 10"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Crime",
+                  "Action",
+                  "Drama"
+               ]
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/42807"
+            },
+            "desc" : {
+               "da" : "De fire Newtonbr\u00f8dre var i 1920'ernes USA de mest succesrige bankr\u00f8vere p\u00e5 grund af eminent planl\u00e6gning og minimum anvendelse af vold."
+            }
+         },
+         {
+            "date" : "2014",
+            "stop" : "1531972500",
+            "country" : [
+               "US"
+            ],
+            "new" : "0",
+            "start" : "1531970100",
+            "title" : {
+               "da" : "Close Up"
+            },
+            "channel" : "action.cmore.dk",
+            "subTitle" : {
+               "da" : "Halle Berry"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 44 s\u00e6son 2",
+               "xmltv_ns" : "1 . 1/44 ."
+            },
+            "desc" : {
+               "da" : "Tom Hanks, Jennifer Lopez og Denzel Washington er blandt de i alt 30 Hollywoodstjerner, der portr\u00e6tteres i denne nyproducerede dokumentarserie. Gennem interviews med venner og kolleger krydret med klassiske filmklip, f\u00e5r vi et sp\u00e6ndende indblik i skuespillerenes glamour\u00f8se liv. Del 2/44. Halle Berry."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Movies"
+               ]
+            }
+         },
+         {
+            "channel" : "action.cmore.dk",
+            "title" : {
+               "da" : "Heidi"
+            },
+            "start" : "1531972500",
+            "country" : [
+               "DE"
+            ],
+            "new" : "0",
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Reto Sch\u00e4rli"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Alain Gsponer"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Bruno Ganz",
+                     "role" : "Alp\u00f6hi"
+                  },
+                  {
+                     "name" : "Anuk Steffen",
+                     "role" : "Heidi"
+                  },
+                  {
+                     "role" : "Fr\u00e4ulein Rottenmeier",
+                     "name" : "Katharina Sch\u00fcttler"
+                  },
+                  {
+                     "name" : "Maxim Mehmet",
+                     "role" : "Herr Sesemann"
+                  },
+                  {
+                     "role" : "Grossmama Sesemann",
+                     "name" : "Hannelore Hoger"
+                  },
+                  {
+                     "role" : "Klara",
+                     "name" : "Isabelle Ottmann"
+                  },
+                  {
+                     "role" : "Geissenpeter",
+                     "name" : "Quirin Agrippi"
+                  },
+                  {
+                     "role" : "Grossmutter",
+                     "name" : "Monica Gubser"
+                  },
+                  {
+                     "name" : "Peter Lohmeyer",
+                     "role" : "Sebastian"
+                  },
+                  {
+                     "role" : "T\u00fcrmer",
+                     "name" : "Heinrich Giskes"
+                  },
+                  {
+                     "role" : "Tinette",
+                     "name" : "Jella Haase"
+                  },
+                  {
+                     "role" : "Dete",
+                     "name" : "Anna Schinz"
+                  },
+                  {
+                     "name" : "Lilian Naef",
+                     "role" : "Barbel"
+                  },
+                  {
+                     "name" : "Peter Jecklin",
+                     "role" : "Pfarrer"
+                  },
+                  {
+                     "name" : "Christoph Gaugler",
+                     "role" : "Senner"
+                  },
+                  {
+                     "role" : "Geissenpeterin",
+                     "name" : "Rebecca Indermaur"
+                  },
+                  {
+                     "role" : "D\u00f6rfler",
+                     "name" : "Arthur B\u00fchler"
+                  },
+                  {
+                     "name" : "Marietta Jemmi",
+                     "role" : "Frau im Dorf"
+                  },
+                  {
+                     "role" : "Herr Kardidat",
+                     "name" : "Michael Kranz"
+                  },
+                  {
+                     "name" : "Laura Parker",
+                     "role" : "Marktfrau"
+                  },
+                  {
+                     "name" : "Markus Hering",
+                     "role" : "Doktor"
+                  }
+               ]
+            },
+            "stop" : "1531979100",
+            "date" : "2015",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Adventure",
+                  "Family"
+               ]
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/365045"
+            },
+            "desc" : {
+               "da" : "Heidi er en for\u00e6ldrel\u00f8s lille pige, der sendes til Alperne for at bo hos sin bedstefar. Det storsl\u00e5ede bjerglandskab er en k\u00e6mpe omv\u00e6ltning for den lille pige, der har sv\u00e6rt ved at finde sig til rette i de nye omgivelser. Det hj\u00e6lper dog gevaldigt p\u00e5 det, da hun bliver gode venner med hyrdedrengen Peter og hans dyr."
+            },
+            "rating" : {
+               "stars" : "7 / 10"
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/365045"
+            ]
+         },
+         {
+            "new" : "0",
+            "country" : [
+               "CA",
+               "DE"
+            ],
+            "start" : "1531979100",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Joe Shrapnel"
+                  },
+                  {
+                     "name" : "Anna Waterhouse"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Stephan James",
+                     "role" : "Jesse Owens"
+                  },
+                  {
+                     "name" : "Jason Sudeikis",
+                     "role" : "Larry Snyder"
+                  },
+                  {
+                     "name" : "Carice van Houten",
+                     "role" : "Leni Riefenstahl"
+                  },
+                  {
+                     "name" : "Jeremy Irons",
+                     "role" : "Avery Brundage"
+                  },
+                  {
+                     "role" : "Peggy",
+                     "name" : "Amanda Crew"
+                  },
+                  {
+                     "role" : "Jeremiah Mahoney",
+                     "name" : "William Hurt"
+                  },
+                  {
+                     "name" : "David Kross",
+                     "role" : "Carl \"Luz\" Long"
+                  },
+                  {
+                     "role" : "Dave Albritton",
+                     "name" : "Eli Goree"
+                  },
+                  {
+                     "name" : "Giacomo Gianniotti",
+                     "role" : "Sam Stoller"
+                  },
+                  {
+                     "role" : "Arthur Lill",
+                     "name" : "Jonathan Aris"
+                  },
+                  {
+                     "name" : "Jon McLaren",
+                     "role" : "Trent"
+                  },
+                  {
+                     "name" : "Moe Jeudy-Lamour",
+                     "role" : "Mel Walker"
+                  },
+                  {
+                     "name" : "Shamier Anderson",
+                     "role" : "Eulace Peacock"
+                  },
+                  {
+                     "name" : "Shanice Banton",
+                     "role" : "Ruth Solomon"
+                  },
+                  {
+                     "name" : "Tim McInnerny",
+                     "role" : "General Charles"
+                  },
+                  {
+                     "name" : "Nina Lauren",
+                     "role" : "Laurel Girl"
+                  },
+                  {
+                     "name" : "Jesse Bostick",
+                     "role" : "Ken Seitz"
+                  },
+                  {
+                     "name" : "Tim Post",
+                     "role" : "Phil Diamond"
+                  },
+                  {
+                     "name" : "Barnaby Metschurat",
+                     "role" : "Dr. Joseph Goebbels"
+                  },
+                  {
+                     "role" : "Francis Schmidt",
+                     "name" : "Larry Day"
+                  },
+                  {
+                     "name" : "Arthur Holden",
+                     "role" : "Rudolf Dassler"
+                  },
+                  {
+                     "name" : "Karl Graboshas",
+                     "role" : "Adolf Dassler"
+                  },
+                  {
+                     "role" : "Radio Announcer",
+                     "name" : "Jeff Burrell"
+                  },
+                  {
+                     "name" : "Anthony Sherwood",
+                     "role" : "Rev. Ernest Hall"
+                  },
+                  {
+                     "role" : "U.S. Olympic team",
+                     "name" : "Alexander Yassin"
+                  },
+                  {
+                     "name" : "Jonathan Higgins",
+                     "role" : "Dean Cromwell"
+                  },
+                  {
+                     "name" : "Jaa Smith-Johnson",
+                     "role" : "Sylvester Owens"
+                  },
+                  {
+                     "name" : "Jeremy Ferdman",
+                     "role" : "Marty Glickman"
+                  },
+                  {
+                     "role" : "Hans Ertl",
+                     "name" : "Bruno Bruni Jr."
+                  },
+                  {
+                     "role" : "Journalist",
+                     "name" : "Steffen Mennekes"
+                  },
+                  {
+                     "name" : "Manuel Sinor",
+                     "role" : "Franz Miller"
+                  },
+                  {
+                     "name" : "Chantel Riley",
+                     "role" : "Quincella Nickerson"
+                  },
+                  {
+                     "name" : "Daniel Harroch",
+                     "role" : "Desk Clerk"
+                  },
+                  {
+                     "name" : "Marc Primeau",
+                     "role" : "Fan of Jesse Owens"
+                  },
+                  {
+                     "role" : "Ralph Metcalfe",
+                     "name" : "Dondre Octave"
+                  },
+                  {
+                     "role" : "Reporter",
+                     "name" : "Ricky Watson"
+                  },
+                  {
+                     "role" : "Elevator Boy",
+                     "name" : "Milo Larratt"
+                  },
+                  {
+                     "role" : "Frank Wykoff",
+                     "name" : "Gaetan Normandin"
+                  },
+                  {
+                     "role" : "German referee",
+                     "name" : "Julien Boissaud"
+                  },
+                  {
+                     "role" : "Local Girl",
+                     "name" : "Andrea Carter"
+                  },
+                  {
+                     "name" : "Nikoma T. Beermann",
+                     "role" : "Doorman"
+                  },
+                  {
+                     "role" : "Journalist",
+                     "name" : "Francois Hugo Turgeon"
+                  },
+                  {
+                     "name" : "Karen Belfo",
+                     "role" : "the Jewish Mother (uncredited)"
+                  },
+                  {
+                     "name" : "Chris Theisinger",
+                     "role" : "German Police Officer (uncredited)"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Karsten Br\u00fcnig"
+                  },
+                  {
+                     "name" : "Luc Dayan"
+                  },
+                  {
+                     "name" : "Kate Garwood"
+                  },
+                  {
+                     "name" : "Stephen Hopkins"
+                  },
+                  {
+                     "name" : "Jean-Charles Levy"
+                  },
+                  {
+                     "name" : "Nicolas Manuel"
+                  },
+                  {
+                     "name" : "Louis-Philippe Rochon"
+                  },
+                  {
+                     "name" : "Dominique S\u00e9guin"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Stephen Hopkins"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Race"
+            },
+            "channel" : "action.cmore.dk",
+            "date" : "2016",
+            "stop" : "1531987200",
+            "episodeNum" : {
+               "themoviedb.org" : "movie/323677"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Drama"
+               ]
+            },
+            "desc" : {
+               "da" : "Historien om Jesse Owens, en af de st\u00f8rste atletikstjerner nogensinde. Vi f\u00f8lger den afroamerikanske atlet fra hans ydmyge opv\u00e6kst til succeserne p\u00e5 de internationale arenaer, med kulminationen ved OL i Berlin i 1936."
+            },
+            "rating" : {
+               "stars" : "7.1 / 10"
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/323677"
+            ]
+         },
+         {
+            "desc" : {
+               "da" : "Marty er knap nok kommet tilbage til sin egen tid, f\u00f8r Doc tager ham med p\u00e5 endnu en tidsrejse 25 \u00e5r frem i tiden, hvor Martys familie er kommet i knibe. \u00c5ret er 1985, og b\u00f8llen Biff Tannen er rig, magtfuld og ikke mindst Martys far. Den eneste mulighed for at rette op p\u00e5 nutiden, er at tage tilbage til 1955 igen, men det bliver noget v\u00e6rre rod."
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Movies"
+               ]
+            },
+            "stop" : "1531993500",
+            "date" : "1989",
+            "title" : {
+               "da" : "Tilbage til fremtiden II"
+            },
+            "channel" : "action.cmore.dk",
+            "new" : "0",
+            "country" : [
+               "US"
+            ],
+            "start" : "1531987200",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Robert Zemeckis"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Michael J. Fox"
+                  },
+                  {
+                     "name" : "Christopher Lloyd"
+                  },
+                  {
+                     "name" : "Lea Thompson"
+                  }
+               ]
+            }
+         },
+         {
+            "date" : "2015",
+            "stop" : "1531999800",
+            "new" : "0",
+            "country" : [
+               "GB",
+               "US"
+            ],
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Matt Brown"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Matt Brown"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Dev Patel",
+                     "role" : "Srinivasa Ramanujan"
+                  },
+                  {
+                     "name" : "Jeremy Irons",
+                     "role" : "G. H. Hardy"
+                  },
+                  {
+                     "role" : "Littlewood",
+                     "name" : "Toby Jones"
+                  },
+                  {
+                     "name" : "Stephen Fry",
+                     "role" : "Sir Francis Spring"
+                  },
+                  {
+                     "role" : "Bertrand Russell",
+                     "name" : "Jeremy Northam"
+                  },
+                  {
+                     "role" : "Janaki",
+                     "name" : "Devika Bhise"
+                  },
+                  {
+                     "role" : "Major McMahon",
+                     "name" : "Kevin McNally"
+                  },
+                  {
+                     "name" : "Shazad Latif",
+                     "role" : "Chandra Mahalanobis"
+                  },
+                  {
+                     "role" : "Professor Cartwright",
+                     "name" : "Malcolm Sinclair"
+                  },
+                  {
+                     "role" : "Hospital Nurse",
+                     "name" : "Elaine Caulfield"
+                  },
+                  {
+                     "role" : "Doctor",
+                     "name" : "Enzo Cilenti"
+                  },
+                  {
+                     "role" : "Beglan",
+                     "name" : "P\u00e1draic Delaney"
+                  },
+                  {
+                     "role" : "Hobson",
+                     "name" : "Richard Cunningham"
+                  },
+                  {
+                     "name" : "Anthony Calf",
+                     "role" : "Howard"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Matt Brown"
+                  }
+               ]
+            },
+            "start" : "1531993500",
+            "title" : {
+               "da" : "The Man Who Knew Infinity"
+            },
+            "channel" : "action.cmore.dk",
+            "rating" : {
+               "stars" : "7.1 / 10"
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/353326"
+            ],
+            "desc" : {
+               "da" : "Beretningen om en fattig indisk kontormedarbejder, der blev en af 1900-tallets helt store matematikere. Srinivasa Ramanujan havde ingen uddannelse, men et sj\u00e6lden matematisk talent, der f\u00f8rte ham fra fattigdommens Madras til universitetet i Cambridge."
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/353326"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama"
+               ]
+            }
+         },
+         {
+            "stop" : "1532004900",
+            "date" : "2016",
+            "channel" : "action.cmore.dk",
+            "title" : {
+               "da" : "Little Men"
+            },
+            "start" : "1531999800",
+            "country" : [
+               "GR",
+               "US",
+               "BR"
+            ],
+            "new" : "0",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Ira Sachs"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Brian Jardine",
+                     "name" : "Greg Kinnear"
+                  },
+                  {
+                     "name" : "Theo Taplitz",
+                     "role" : "Jake Jardine"
+                  },
+                  {
+                     "role" : "Tony Calvelli",
+                     "name" : "Michael Barbieri"
+                  },
+                  {
+                     "role" : "Leonor",
+                     "name" : "Paulina Garc\u00eda"
+                  },
+                  {
+                     "name" : "Jennifer Ehle",
+                     "role" : "Kathy Jardine"
+                  },
+                  {
+                     "name" : "Talia Balsam",
+                     "role" : "Audrey"
+                  },
+                  {
+                     "name" : "Mauricio Bustamante",
+                     "role" : "Acting Teacher"
+                  },
+                  {
+                     "name" : "Teeka Duplessis",
+                     "role" : "Eva"
+                  },
+                  {
+                     "name" : "Clare Foley",
+                     "role" : "Sally"
+                  },
+                  {
+                     "name" : "Andy Karl"
+                  },
+                  {
+                     "name" : "Alfred Molina"
+                  },
+                  {
+                     "role" : "Bianca",
+                     "name" : "Elia Monte-Brown"
+                  },
+                  {
+                     "role" : "Stu Gershman",
+                     "name" : "Arthur J. Nascarella"
+                  },
+                  {
+                     "name" : "Yolonda Ross"
+                  },
+                  {
+                     "name" : "Stella Schnabel"
+                  },
+                  {
+                     "name" : "Johnny Serret",
+                     "role" : "Visitor at the Museum"
+                  },
+                  {
+                     "role" : "Merlene",
+                     "name" : "Ching Valdes-Aran"
+                  },
+                  {
+                     "name" : "Bryan Webster",
+                     "role" : "Park Ranger"
+                  },
+                  {
+                     "name" : "Madison Wright",
+                     "role" : "Julia"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "6.6 / 10"
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/373473"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama"
+               ]
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/373473"
+            },
+            "desc" : {
+               "da" : "Da den 13-\u00e5rige Jakes bedstefar d\u00f8r, overtager familien hans hus i Brooklyn og flytter dertil fra Manhattan. Jake m\u00f8der nabodrengen Tony, hvis mor driver en skr\u00e6dderbutik i ejendommens stueetage, og de to drenge bliver snart bedste venner. Imidlertid opst\u00e5r der en konflikt mellem deres for\u00e6ldre, hvilket s\u00e6tter drengenes venskab p\u00e5 en seri\u00f8s pr\u00f8ve."
+            }
+         },
+         {
+            "episodeNum" : {
+               "themoviedb.org" : "movie/377691"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama",
+                  "Comedy"
+               ]
+            },
+            "desc" : {
+               "da" : "Dansk drama om kunstneren Simon, der er konge af den danske kunstscene - excentrisk, succesfuld og velhavende, med en smuk kone og en ung elskerinde. Livet er godt lige indtil den dag, hans ukendte s\u00f8n Casper dukker op. Far/s\u00f8n forholdet s\u00e6ttes p\u00e5 en alvorlig pr\u00f8ve, men stik mod forventning n\u00e6rmer de to sig dog langsomt hinanden."
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/377691"
+            ],
+            "country" : [
+               "DK"
+            ],
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Charlotte Sieling"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Casper",
+                     "name" : "Jakob Oftebro"
+                  },
+                  {
+                     "name" : "Ane Dahl Torp",
+                     "role" : "Darling"
+                  },
+                  {
+                     "role" : "Simon",
+                     "name" : "S\u00f8ren Malling"
+                  },
+                  {
+                     "name" : "S\u00f8ren Pilmark",
+                     "role" : "David"
+                  },
+                  {
+                     "role" : "Lai",
+                     "name" : "Sus Wilkins"
+                  },
+                  {
+                     "name" : "Thomas Hwan",
+                     "role" : "Jon"
+                  },
+                  {
+                     "name" : "Marie Lydie Melono Nokouda"
+                  },
+                  {
+                     "name" : "Evrim Benli"
+                  },
+                  {
+                     "name" : "Simon Bennebjerg"
+                  },
+                  {
+                     "name" : "Jessica Dinnage"
+                  },
+                  {
+                     "name" : "Anna Linhartov\u00e1"
+                  },
+                  {
+                     "name" : "Elias Bauer"
+                  },
+                  {
+                     "name" : "Marta Dancingerov\u00e1"
+                  },
+                  {
+                     "name" : "Daniel Brown"
+                  },
+                  {
+                     "name" : "Mathias Rahb\u00e6k"
+                  },
+                  {
+                     "name" : "Jack Bohr-Christensen"
+                  },
+                  {
+                     "name" : "Jade Clayton"
+                  }
+               ]
+            },
+            "new" : "0",
+            "start" : "1532004900",
+            "channel" : "action.cmore.dk",
+            "title" : {
+               "da" : "Mesteren"
+            },
+            "date" : "2016",
+            "stop" : "1532010300"
+         },
+         {
+            "url" : [
+               "http://www.themoviedb.org/movie/405204"
+            ],
+            "rating" : {
+               "stars" : "7.5 / 10"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/405204"
+            },
+            "desc" : {
+               "da" : "Touko Laaksonen, en dekoreret finsk officer og kunstner, vender hjem efter at have v\u00e6ret i kamp for sit land i 2. verdenskrig. Hjemme igen oplever han forf\u00f8lgelsen af seksuelle minoriteter. Touko finder tilflugt i sin kunst. En kunst med udgangspunkt i homoerotiske motiver og ber\u00f8mt for signaturen \"Tom of Finland\"."
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama"
+               ]
+            },
+            "date" : "2017",
+            "stop" : "1532017200",
+            "country" : [
+               "IS",
+               "FI",
+               "US",
+               "SE",
+               "DK",
+               "DE"
+            ],
+            "new" : "0",
+            "start" : "1532010300",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Dome Karukoski"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Miia Haavisto"
+                  },
+                  {
+                     "name" : "Aleksi Bardy"
+                  },
+                  {
+                     "name" : "Annika Sucksdorff"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Pekka Strang",
+                     "role" : "Touko Laaksonen"
+                  },
+                  {
+                     "name" : "Lauri Tilkanen",
+                     "role" : "Veli"
+                  },
+                  {
+                     "role" : "Jack",
+                     "name" : "Jakob Oftebro"
+                  },
+                  {
+                     "role" : "M\u00fcller",
+                     "name" : "Werner Daehn"
+                  },
+                  {
+                     "name" : "Christian Sandstr\u00f6m",
+                     "role" : "Kari"
+                  },
+                  {
+                     "name" : "Niklas Hogner",
+                     "role" : "Kake"
+                  },
+                  {
+                     "role" : "Kaija",
+                     "name" : "Jessica Grabowsky"
+                  },
+                  {
+                     "role" : "Alijoki",
+                     "name" : "Taisto Oksanen"
+                  },
+                  {
+                     "role" : "Doug",
+                     "name" : "Seumas F. Sargent"
+                  },
+                  {
+                     "role" : "Gabriel",
+                     "name" : "Martin Bahne"
+                  }
+               ]
+            },
+            "channel" : "action.cmore.dk",
+            "title" : {
+               "da" : "Tom of Finland"
+            }
+         },
+         {
+            "channel" : "action.cmore.dk",
+            "title" : {
+               "da" : "Borat"
+            },
+            "country" : [
+               "GB",
+               "US"
+            ],
+            "new" : "0",
+            "start" : "1532017200",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Borat Sagdiyev",
+                     "name" : "Sacha Baron Cohen"
+                  },
+                  {
+                     "name" : "Ken Davitian",
+                     "role" : "Azamat Bagatov"
+                  },
+                  {
+                     "role" : "Luenell",
+                     "name" : "Luenell"
+                  },
+                  {
+                     "name" : "Pamela Anderson",
+                     "role" : "Herself"
+                  },
+                  {
+                     "name" : "Bob Barr",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Alan Keyes",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Herself",
+                     "name" : "Carole De Saram"
+                  },
+                  {
+                     "role" : "Prime Minister of Kazakhstan",
+                     "name" : "Mitchell Falk"
+                  },
+                  {
+                     "name" : "David Corcoran",
+                     "role" : "Himself - Fraternity Member (uncredited)"
+                  },
+                  {
+                     "name" : "Andre Darnell Myers",
+                     "role" : "Pride Dancer (uncredited)"
+                  },
+                  {
+                     "name" : "Jean-Pierre Parent",
+                     "role" : "Kazakh Swimmer (uncredited)"
+                  },
+                  {
+                     "name" : "Chip Pickering",
+                     "role" : "Himself - U.S. Congressman (uncredited)"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Sacha Baron Cohen"
+                  },
+                  {
+                     "name" : "Anthony Hines"
+                  },
+                  {
+                     "name" : "Peter Baynham"
+                  },
+                  {
+                     "name" : "Dan Mazer"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Larry Charles"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Sacha Baron Cohen"
+                  },
+                  {
+                     "name" : "Jay Roach"
+                  }
+               ]
+            },
+            "stop" : "1532023200",
+            "date" : "2006",
+            "episodeNum" : {
+               "themoviedb.org" : "movie/496"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Comedy"
+               ]
+            },
+            "desc" : {
+               "da" : "Den kazakhiske tv-reporter Borat f\u00e5r til opgave at rejse til USA for at lave en reportage om landets pr\u00e6gtige kultur og mennesker. Gennem den uh\u00e6mmet fordomsfulde og socialt handicappede Borat ser vi USA fra et helt nyt perspektiv."
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/496"
+            ],
+            "rating" : {
+               "stars" : "6.5 / 10"
+            }
+         },
+         {
+            "episodeNum" : {
+               "themoviedb.org" : "movie/438301"
+            },
+            "desc" : {
+               "da" : "Mirja skal finde sin plads i tilv\u00e6relsen efter en udst\u00e5et f\u00e6ngselsstraf. Da det lykkes hende at f\u00e5 job p\u00e5 et hotel, begynder hun at leve et dobbeltliv. Hun er splittet mellem sin syge mor og sine gamle venner, der reelt har fungeret som hendes familie"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama"
+               ]
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/438301"
+            ],
+            "country" : [
+               "SE"
+            ],
+            "new" : "0",
+            "start" : "1532023200",
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Agneta Fagerstr\u00f6m-Olsson"
+                  },
+                  {
+                     "name" : "Annika Hellstr\u00f6m"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Rojda Sekers\u00f6z"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Johanna Emanuelsson"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Evin Ahmad",
+                     "role" : "Mirja"
+                  },
+                  {
+                     "name" : "Gizem Erdogan",
+                     "role" : "Sara"
+                  },
+                  {
+                     "role" : "Emmy",
+                     "name" : "Malin Persson"
+                  },
+                  {
+                     "name" : "Anna Bjelkerud",
+                     "role" : "Edit"
+                  },
+                  {
+                     "name" : "Outi M\u00e4enp\u00e4\u00e4",
+                     "role" : "Sirkka"
+                  },
+                  {
+                     "name" : "Michael Lindgren",
+                     "role" : "Paul Lilja"
+                  },
+                  {
+                     "name" : "Inger Nilsson",
+                     "role" : "Adria"
+                  },
+                  {
+                     "name" : "Diar Said",
+                     "role" : "Marco"
+                  },
+                  {
+                     "name" : "Segen Tesfai",
+                     "role" : "Nina"
+                  },
+                  {
+                     "role" : "Isa",
+                     "name" : "Ella \u00c5hman"
+                  },
+                  {
+                     "name" : "Adel Ahmod",
+                     "role" : "Man i butiken"
+                  },
+                  {
+                     "name" : "Stina Almquist",
+                     "role" : "Arbetsf\u00f6rmedlare"
+                  },
+                  {
+                     "name" : "Jimmy Backman",
+                     "role" : "Vakt 1"
+                  },
+                  {
+                     "name" : "Anna Denarp",
+                     "role" : "Vakt 2"
+                  },
+                  {
+                     "role" : "Kvinna p\u00e5 hotellet",
+                     "name" : "Charlotte Lindmark"
+                  },
+                  {
+                     "name" : "Best Mbemda",
+                     "role" : "Hotellreceptionist"
+                  },
+                  {
+                     "name" : "Gabriella Carlsson",
+                     "role" : "Woman at outside party (uncredited)"
+                  },
+                  {
+                     "role" : "an at outside party (uncredited)",
+                     "name" : "Alexi Carpentieri"
+                  },
+                  {
+                     "name" : "Ulrika Persson",
+                     "role" : "Woman at outside party (uncredited)"
+                  },
+                  {
+                     "role" : "Man at outside party (uncredited)",
+                     "name" : "Byron Reimer Ward"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Dr\u00f8m videre"
+            },
+            "channel" : "action.cmore.dk",
+            "date" : "2017",
+            "stop" : "1532028600"
+         },
+         {
+            "channel" : "action.cmore.dk",
+            "title" : {
+               "da" : "Beck Gribben"
+            },
+            "new" : "0",
+            "country" : [
+               "SE"
+            ],
+            "start" : "1532028600",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Peter Haber",
+                     "role" : "Martin Beck"
+                  },
+                  {
+                     "name" : "Mikael Persbrandt",
+                     "role" : "Gunvald Larsson"
+                  },
+                  {
+                     "name" : "Marie G\u00f6ranzon",
+                     "role" : "Margareta Oberg"
+                  },
+                  {
+                     "role" : "Bodil Lettmark",
+                     "name" : "Ing-Marie Carlsson"
+                  },
+                  {
+                     "role" : "Oskar Bergman",
+                     "name" : "M\u00e5ns Nathanaelson"
+                  },
+                  {
+                     "name" : "Stina Rautelin",
+                     "role" : "Lena Klingstr\u00f6m"
+                  },
+                  {
+                     "name" : "Peter H\u00fcttner",
+                     "role" : "Oljelund"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Cecilia B\u00f6rjlind"
+                  },
+                  {
+                     "name" : "Rolf B\u00f6rjlind"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Kjell Sundvall"
+                  }
+               ]
+            },
+            "stop" : "1532034000",
+            "date" : "2006",
+            "desc" : {
+               "da" : "Sveriges tidligere idr\u00e6tsminister forsvinder sporl\u00f8st, efter at han uddeler en stor pengesum p\u00e5 en direktesendt TV-galla. P\u00e5 trods af at det ikke er afklaret, om det drejer sig om et mord, s\u00e6ttes Martin Beck og hans team p\u00e5 sagen. De ledes snart ind i Stockholms illegale spilleverden, hvor en ubetalt g\u00e6ld kan f\u00e5 alvorlige konsekvenser."
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/270116"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama"
+               ]
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/270116"
+            ]
+         },
+         {
+            "start" : "1532034000",
+            "country" : [
+               "DK"
+            ],
+            "new" : "0",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Preben Elkj\u00e6r"
+                  },
+                  {
+                     "name" : "Michael Laudrup"
+                  },
+                  {
+                     "name" : "Sepp Piontek"
+                  },
+                  {
+                     "name" : "Richard M\u00f8ller Nielsen"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Mads Kamp Thulstrup"
+                  },
+                  {
+                     "name" : "Carsten S\u00f8sted"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "...og det var Danmark"
+            },
+            "channel" : "action.cmore.dk",
+            "date" : "2008",
+            "stop" : "1532040600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "\"...og det var Danmark\" er filmen om det danske landsholds forvandling i perioden 1979-92. Det er den ultimative fort\u00e6lling om landsholdets omv\u00e6ltning fra ubehj\u00e6lpsomme amat\u00f8rer til mytiske helte. Det er ikke bare en film om fodbold, men ogs\u00e5 om den danske folkesj\u00e6l."
+            },
+            "subTitle" : {
+               "da" : "...og det var Danmark"
+            }
+         },
+         {
+            "rating" : {
+               "stars" : "6 / 10"
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/342521"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/342521"
+            },
+            "desc" : {
+               "da" : "F\u00e6trene Clarence og Rell m\u00e5 p\u00e5 en farlig mission, da Rells elskede killing, Keanu, bliver kidnappet. For at f\u00e5 dyret tilbage m\u00e5 de spille h\u00e5rdkogte forbrydere og infiltrere en gadebande, men kampen om den bed\u00e5rende killing udl\u00f8ser en bandekrig. Snart er vore helte ude p\u00e5 dybt vand og m\u00e5 tage loven i egen h\u00e5nd."
+            },
+            "stop" : "1532046600",
+            "date" : "2016",
+            "title" : {
+               "da" : "Keanu"
+            },
+            "channel" : "action.cmore.dk",
+            "country" : [
+               "US"
+            ],
+            "new" : "0",
+            "start" : "1532040600",
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Keegan-Michael Key"
+                  },
+                  {
+                     "name" : "Jordan Peele"
+                  },
+                  {
+                     "name" : "Peter Principato"
+                  },
+                  {
+                     "name" : "Joel Zadak"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Peter Atencio"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Jordan Peele",
+                     "role" : "Rell Williams / Oil Dresden"
+                  },
+                  {
+                     "name" : "Keegan-Michael Key",
+                     "role" : "Clarence Goobril / Smoke Dresden"
+                  },
+                  {
+                     "role" : "Hi-C",
+                     "name" : "Tiffany Haddish"
+                  },
+                  {
+                     "role" : "Cheddar",
+                     "name" : "Method Man"
+                  },
+                  {
+                     "name" : "Darrell Britt-Gibson",
+                     "role" : "Trunk"
+                  },
+                  {
+                     "name" : "Jason Mitchell",
+                     "role" : "Bud"
+                  },
+                  {
+                     "role" : "Stitches",
+                     "name" : "Jamar Malachi Neighbors"
+                  },
+                  {
+                     "role" : "Bacon",
+                     "name" : "Luis Guzm\u00e1n"
+                  },
+                  {
+                     "role" : "Hulka",
+                     "name" : "Will Forte"
+                  },
+                  {
+                     "name" : "Nia Long",
+                     "role" : "Hannah"
+                  },
+                  {
+                     "role" : "Spencer",
+                     "name" : "Rob Huebel"
+                  },
+                  {
+                     "role" : "Alexis",
+                     "name" : "Madison Wolfe"
+                  },
+                  {
+                     "name" : "Jordyn A. Davis",
+                     "role" : "Belle"
+                  },
+                  {
+                     "name" : "James Yeargain",
+                     "role" : "Donnie"
+                  },
+                  {
+                     "role" : "Rachel",
+                     "name" : "Brittany Seymour"
+                  },
+                  {
+                     "name" : "Richard Holden",
+                     "role" : "Detective Mank"
+                  },
+                  {
+                     "name" : "Nadiyah Skyy Taylor",
+                     "role" : "Galaxy"
+                  },
+                  {
+                     "name" : "Susan McBrien",
+                     "role" : "Hulka's Mom"
+                  },
+                  {
+                     "name" : "Jenny Ballard",
+                     "role" : "Officer Jonah"
+                  },
+                  {
+                     "name" : "Ian Casselberry",
+                     "role" : "King Diaz"
+                  },
+                  {
+                     "role" : "Prison Guard",
+                     "name" : "Neil Wells"
+                  },
+                  {
+                     "name" : "David A. Cole",
+                     "role" : "Cop #1"
+                  },
+                  {
+                     "name" : "Reginal Varice",
+                     "role" : "Cop #2"
+                  },
+                  {
+                     "name" : "Nicholas Hayner",
+                     "role" : "Guard #2"
+                  },
+                  {
+                     "name" : "Keanu Reeves",
+                     "role" : "Keanu (voice)"
+                  },
+                  {
+                     "role" : "Dancer (uncredited)",
+                     "name" : "Sue-Lynn Ansari"
+                  },
+                  {
+                     "role" : "Herself (uncredited)",
+                     "name" : "Anna Faris"
+                  },
+                  {
+                     "name" : "Gino Galento",
+                     "role" : "Narco Guard (uncredited)"
+                  },
+                  {
+                     "name" : "Maia Kavchak",
+                     "role" : "Drug Girl (uncredited)"
+                  }
+               ]
+            }
+         }
+      ]
+   }
+}

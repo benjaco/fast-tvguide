@@ -1,0 +1,2375 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "desc" : {
+               "da" : "Kobberpot dyrker k\u00e6mpetomater. Kokkene l\u00e6rer at samarbejde."
+            },
+            "title" : {
+               "da" : "Trulliland"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "0. 25 .",
+               "onscreen" : "Afsnit 26 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "channel" : "junior.disneychannel.dk",
+            "stop" : "1531369200",
+            "start" : "1531368000",
+            "previously_shown" : "junior.disneychannel.dk|2018-04-15 05:00:00"
+         },
+         {
+            "title" : {
+               "da" : "Hvalpevenner"
+            },
+            "desc" : {
+               "da" : "To hvalpe er p\u00e5 en mission efter sjov og eventyr!"
+            },
+            "channel" : "junior.disneychannel.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "thetvdb.com" : "series/325978",
+               "xmltv_ns" : "0 . 22 .",
+               "onscreen" : "Afsnit 23 s\u00e6son 1"
+            },
+            "start" : "1531369200",
+            "stop" : "1531370100",
+            "subTitle" : {
+               "da" : "Leave it to Beavers"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=325978&seasonid=705368&id=6181737&lid=10"
+            ],
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Isaac Ryan Brown",
+                     "role" : "Bingo"
+                  }
+               ]
+            },
+            "previously_shown" : "junior.disneychannel.dk|2018-02-06 15:31:00",
+            "date" : "2017"
+         },
+         {
+            "title" : {
+               "da" : "Pyjamasheltene"
+            },
+            "desc" : {
+               "da" : "De f\u00e5r deres kr\u00e6fter fra deres dyreamuletter - Jens bliver til Gekko, Amanda bliver til Ugline, og Oscar bliver til Kattedreng. Deres dragter ligner m\u00e5ske pyjamasser, men de er faktisk Pyjamasheltene!"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "junior.disneychannel.dk",
+            "episodeNum" : {
+               "thetvdb.com" : "series/300921",
+               "xmltv_ns" : "0 . 30 .",
+               "onscreen" : "Afsnit 31 s\u00e6son 1"
+            },
+            "new" : null,
+            "stop" : "1531371300",
+            "start" : "1531370100",
+            "subTitle" : {
+               "da" : "Catboy Takes Control"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=300921&seasonid=638935&id=5506005&lid=10"
+            ],
+            "previously_shown" : "junior.disneychannel.dk|2018-03-07 09:30:00",
+            "date" : "2015",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Lisa Akhurst"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Christian De Vita"
+                  },
+                  {
+                     "name" : "Wilson Dos Santos"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "",
+                     "role" : "Romeo"
+                  },
+                  {
+                     "name" : "Addison Holley",
+                     "role" : "Amaya - Owlette: Leader"
+                  },
+                  {
+                     "role" : "Mr. Riz Nakagawa (School Teacher)",
+                     "name" : ""
+                  },
+                  {
+                     "name" : "Brianna Daguanno",
+                     "role" : "Luna Girl"
+                  },
+                  {
+                     "name" : "",
+                     "role" : "Night Ninja"
+                  },
+                  {
+                     "name" : "Jacob Ewaniuk",
+                     "role" : "Connor - Catboy: Technician & Former Leader"
+                  },
+                  {
+                     "name" : "Tristan Samuel",
+                     "role" : "Cameron"
+                  },
+                  {
+                     "name" : "Kyle Harrison Breitkopf",
+                     "role" : "Gregg - Gekko: Lieutenant"
+                  }
+               ]
+            }
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=320725&seasonid=695611&id=5991310&lid=10"
+            ],
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Goofy",
+                     "name" : "Bill Farmer"
+                  },
+                  {
+                     "role" : "Minnie Mouse",
+                     "name" : "Russi Taylor"
+                  },
+                  {
+                     "role" : "Pluto (w/Red Collar)",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "role" : "Chip 'n Dale",
+                     "name" : "Rob Paulsen"
+                  },
+                  {
+                     "role" : "Clarabelle Cow",
+                     "name" : "April Winchell"
+                  },
+                  {
+                     "name" : "",
+                     "role" : "Billy Beagle"
+                  },
+                  {
+                     "role" : "Professer Ludwig Von Drake",
+                     "name" : "Corey Burton"
+                  },
+                  {
+                     "role" : "Pete Peter",
+                     "name" : "Jim Cummings"
+                  },
+                  {
+                     "role" : "Daisy Duck",
+                     "name" : "Tress MacNeille"
+                  },
+                  {
+                     "role" : "Mickey Mouse",
+                     "name" : "Bret Iwan"
+                  },
+                  {
+                     "role" : "Donald Duck",
+                     "name" : "Tony Anselmo"
+                  },
+                  {
+                     "name" : "",
+                     "role" : "Cuckoo-Loca"
+                  }
+               ]
+            },
+            "date" : "2017",
+            "previously_shown" : "junior.disneychannel.dk|2018-02-05 09:45:00",
+            "start" : "1531371300",
+            "stop" : "1531373340",
+            "subTitle" : {
+               "da" : "Running of the Roadsters!"
+            },
+            "channel" : "junior.disneychannel.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/320725",
+               "xmltv_ns" : "0 . 9 .",
+               "onscreen" : "Afsnit 10 s\u00e6son 1"
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Mickey Og Racerholdet"
+            },
+            "desc" : {
+               "da" : "Varmtluftballon Racerl\u00f8b. Mickey og Fedtmule fisker."
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Ella deltager i en plantekonkurrence. V tager p\u00e5 udflugt."
+            },
+            "title" : {
+               "da" : "Vampirina"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "thetvdb.com" : "series/335717",
+               "xmltv_ns" : "0 . 3 .",
+               "onscreen" : "Afsnit 4 s\u00e6son 1"
+            },
+            "channel" : "junior.disneychannel.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Fantasy"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Portrait of a Vampire"
+            },
+            "start" : "1531373340",
+            "stop" : "1531375200",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "2) (Mr. Gore",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "role" : "Bridget",
+                     "name" : "ViviAnn Yee"
+                  },
+                  {
+                     "name" : "Sanai Victoria",
+                     "role" : "Phoebe"
+                  },
+                  {
+                     "role" : "Oxana Hauntley (Vampirina's Mom)",
+                     "name" : "Lauren Graham"
+                  },
+                  {
+                     "name" : "James Van Der Beek",
+                     "role" : "Boris Hauntley (Vampirina's Dad)"
+                  },
+                  {
+                     "name" : "Cree Summer",
+                     "role" : "Edna"
+                  },
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "Wolfie The Dog / Wolfie The Weredog"
+                  },
+                  {
+                     "name" : "Jordan Alexa Davis",
+                     "role" : "Poppy"
+                  },
+                  {
+                     "name" : "Benji Risley",
+                     "role" : "Edgar"
+                  },
+                  {
+                     "name" : "Wanda Sykes",
+                     "role" : "Gregoria The Gargoyle"
+                  },
+                  {
+                     "name" : "Cree Summer",
+                     "role" : "Edna"
+                  },
+                  {
+                     "name" : "Ian James Corlett",
+                     "role" : "Chef Remy Bones"
+                  },
+                  {
+                     "role" : "Nanpire Hauntley (Vampirina's Grandma)",
+                     "name" : "Patti Lupone"
+                  },
+                  {
+                     "role" : "Grandpop Hauntley (Vampirina's Grandpa)",
+                     "name" : "Brian Stokes Mitchell"
+                  },
+                  {
+                     "role" : "Vampirina \"Vee\" Hauntley",
+                     "name" : "Isabella Cramp"
+                  },
+                  {
+                     "name" : "Mitchell Whitfield",
+                     "role" : "Demi"
+                  }
+               ]
+            },
+            "previously_shown" : "junior.disneychannel.dk|2018-02-08 16:30:00",
+            "date" : "2017",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=335717&seasonid=731931&id=6340322&lid=10"
+            ]
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 89 s\u00e6son 3",
+               "xmltv_ns" : "2. 88 ."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "channel" : "junior.disneychannel.dk",
+            "desc" : {
+               "da" : "Mickey, Minnie, Anders, Andersine, Fedtmule, Pluto og Raptus von And koncentrerer sig om at interagere med seeren og stimulere probleml\u00f8sning ved hj\u00e6lp af basal viden, former og tal. Den er fuld af Disneys yndlingsfigurer og g\u00f8r det sjovt at l\u00e6re!"
+            },
+            "title" : {
+               "da" : "Mickeys klubhus"
+            },
+            "previously_shown" : "junior.disneychannel.dk|2016-12-17 08:30:00",
+            "stop" : "1531377000",
+            "start" : "1531375200"
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=79854&seasonid=17357&id=323495&lid=10"
+            ],
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Kevin Campbell"
+                  },
+                  {
+                     "name" : "Ashley Mendoza"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Rob LaDuca"
+                  },
+                  {
+                     "name" : "Sherie Pollack"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Pluto (w/Green Collar)",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "role" : "Donald Duck",
+                     "name" : "Tony Anselmo"
+                  },
+                  {
+                     "role" : "Minnie Mouse",
+                     "name" : "Russi Taylor"
+                  },
+                  {
+                     "name" : "Bret Iwan (Mickey Mouse (Season 3"
+                  },
+                  {
+                     "name" : "Second Half, | Seasons 4&5))"
+                  },
+                  {
+                     "name" : "Jim Cummings",
+                     "role" : "Pete Peter"
+                  },
+                  {
+                     "role" : "Chip 'n Dale",
+                     "name" : "Rob Paulsen"
+                  },
+                  {
+                     "name" : "April Winchell",
+                     "role" : "Clarabelle Cow"
+                  },
+                  {
+                     "name" : "Tress MacNeille",
+                     "role" : "Daisy Duck"
+                  },
+                  {
+                     "name" : "",
+                     "role" : "Toodles"
+                  },
+                  {
+                     "name" : "Corey Burton",
+                     "role" : "Professer Ludwig Von Drake"
+                  },
+                  {
+                     "name" : "Bill Farmer",
+                     "role" : "Goofy"
+                  },
+                  {
+                     "name" : "Wayne Allwine (Mickey Mouse (Seasons 1-3"
+                  },
+                  {
+                     "name" : "First Half))"
+                  },
+                  {
+                     "role" : "Chip y Chop",
+                     "name" : "Chip 'n Dale"
+                  }
+               ]
+            },
+            "previously_shown" : "junior.disneychannel.dk|2016-11-01 09:15:00",
+            "date" : "2006",
+            "start" : "1531377000",
+            "stop" : "1531378800",
+            "subTitle" : {
+               "da" : "Daisy Bo-Peep"
+            },
+            "channel" : "junior.disneychannel.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "new" : null,
+            "rating" : {
+               "stars" : "5.9 / 9"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/79854",
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            },
+            "title" : {
+               "da" : "Mickeys klubhus"
+            },
+            "desc" : {
+               "da" : "Hyrdinden Andersine mister sine 10 f\u00e5r og beder Mickey og vennerne om hj\u00e6lp til at finde dem, de skal bruge en kikkert, en trampolin, et net og en lommelygte. (S1 Ep1)"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Vampirina"
+            },
+            "desc" : {
+               "da" : "Denne animerede serie er baseret p\u00e5 de popul\u00e6re b\u00f8rneb\u00f8ger Vampirina Ballerina og fort\u00e6ller historien om Vee, en vampyrpige, hvis familie flytter til Pennsylvania for at drive et pensionat for monstre og trolde."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Fantasy"
+               ]
+            },
+            "channel" : "junior.disneychannel.dk",
+            "episodeNum" : {
+               "thetvdb.com" : "series/335717",
+               "xmltv_ns" : "0 . 19 .",
+               "onscreen" : "Afsnit 20 s\u00e6son 1"
+            },
+            "new" : null,
+            "stop" : "1531380000",
+            "start" : "1531378800",
+            "subTitle" : {
+               "da" : "Game Night"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=335717&seasonid=731931&id=6343558&lid=10"
+            ],
+            "date" : "2017",
+            "previously_shown" : "junior.disneychannel.dk|2018-03-07 16:30:00",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "2) (Mr. Gore",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "role" : "Bridget",
+                     "name" : "ViviAnn Yee"
+                  },
+                  {
+                     "role" : "Phoebe",
+                     "name" : "Sanai Victoria"
+                  },
+                  {
+                     "name" : "Lauren Graham",
+                     "role" : "Oxana Hauntley (Vampirina's Mom)"
+                  },
+                  {
+                     "role" : "Boris Hauntley (Vampirina's Dad)",
+                     "name" : "James Van Der Beek"
+                  },
+                  {
+                     "role" : "Edna",
+                     "name" : "Cree Summer"
+                  },
+                  {
+                     "role" : "Wolfie The Dog / Wolfie The Weredog",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "name" : "Jordan Alexa Davis",
+                     "role" : "Poppy"
+                  },
+                  {
+                     "role" : "Edgar",
+                     "name" : "Benji Risley"
+                  },
+                  {
+                     "role" : "Gregoria The Gargoyle",
+                     "name" : "Wanda Sykes"
+                  },
+                  {
+                     "name" : "Cree Summer",
+                     "role" : "Edna"
+                  },
+                  {
+                     "name" : "Ian James Corlett",
+                     "role" : "Chef Remy Bones"
+                  },
+                  {
+                     "name" : "Patti Lupone",
+                     "role" : "Nanpire Hauntley (Vampirina's Grandma)"
+                  },
+                  {
+                     "name" : "Brian Stokes Mitchell",
+                     "role" : "Grandpop Hauntley (Vampirina's Grandpa)"
+                  },
+                  {
+                     "role" : "Vampirina \"Vee\" Hauntley",
+                     "name" : "Isabella Cramp"
+                  },
+                  {
+                     "role" : "Demi",
+                     "name" : "Mitchell Whitfield"
+                  }
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Denne animerede serie er baseret p\u00e5 de popul\u00e6re b\u00f8rneb\u00f8ger Vampirina Ballerina og fort\u00e6ller historien om Vee, en vampyrpige, hvis familie flytter til Pennsylvania for at drive et pensionat for monstre og trolde."
+            },
+            "title" : {
+               "da" : "Vampirina"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "thetvdb.com" : "series/335717",
+               "xmltv_ns" : "0 . 22 .",
+               "onscreen" : "Afsnit 23 s\u00e6son 1"
+            },
+            "channel" : "junior.disneychannel.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Fantasy"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Critters!"
+            },
+            "start" : "1531380000",
+            "stop" : "1531381200",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "2) (Mr. Gore",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "role" : "Bridget",
+                     "name" : "ViviAnn Yee"
+                  },
+                  {
+                     "role" : "Phoebe",
+                     "name" : "Sanai Victoria"
+                  },
+                  {
+                     "name" : "Lauren Graham",
+                     "role" : "Oxana Hauntley (Vampirina's Mom)"
+                  },
+                  {
+                     "name" : "James Van Der Beek",
+                     "role" : "Boris Hauntley (Vampirina's Dad)"
+                  },
+                  {
+                     "name" : "Cree Summer",
+                     "role" : "Edna"
+                  },
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "Wolfie The Dog / Wolfie The Weredog"
+                  },
+                  {
+                     "role" : "Poppy",
+                     "name" : "Jordan Alexa Davis"
+                  },
+                  {
+                     "role" : "Edgar",
+                     "name" : "Benji Risley"
+                  },
+                  {
+                     "name" : "Wanda Sykes",
+                     "role" : "Gregoria The Gargoyle"
+                  },
+                  {
+                     "role" : "Edna",
+                     "name" : "Cree Summer"
+                  },
+                  {
+                     "name" : "Ian James Corlett",
+                     "role" : "Chef Remy Bones"
+                  },
+                  {
+                     "role" : "Nanpire Hauntley (Vampirina's Grandma)",
+                     "name" : "Patti Lupone"
+                  },
+                  {
+                     "name" : "Brian Stokes Mitchell",
+                     "role" : "Grandpop Hauntley (Vampirina's Grandpa)"
+                  },
+                  {
+                     "role" : "Vampirina \"Vee\" Hauntley",
+                     "name" : "Isabella Cramp"
+                  },
+                  {
+                     "role" : "Demi",
+                     "name" : "Mitchell Whitfield"
+                  }
+               ]
+            },
+            "date" : "2017",
+            "previously_shown" : "junior.disneychannel.dk|2018-03-01 06:20:00",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=335717&seasonid=731931&id=6396560&lid=10"
+            ]
+         },
+         {
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "2) (Mr. Gore"
+                  },
+                  {
+                     "name" : "ViviAnn Yee",
+                     "role" : "Bridget"
+                  },
+                  {
+                     "name" : "Sanai Victoria",
+                     "role" : "Phoebe"
+                  },
+                  {
+                     "role" : "Oxana Hauntley (Vampirina's Mom)",
+                     "name" : "Lauren Graham"
+                  },
+                  {
+                     "name" : "James Van Der Beek",
+                     "role" : "Boris Hauntley (Vampirina's Dad)"
+                  },
+                  {
+                     "role" : "Edna",
+                     "name" : "Cree Summer"
+                  },
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "Wolfie The Dog / Wolfie The Weredog"
+                  },
+                  {
+                     "role" : "Poppy",
+                     "name" : "Jordan Alexa Davis"
+                  },
+                  {
+                     "role" : "Edgar",
+                     "name" : "Benji Risley"
+                  },
+                  {
+                     "role" : "Gregoria The Gargoyle",
+                     "name" : "Wanda Sykes"
+                  },
+                  {
+                     "name" : "Cree Summer",
+                     "role" : "Edna"
+                  },
+                  {
+                     "role" : "Chef Remy Bones",
+                     "name" : "Ian James Corlett"
+                  },
+                  {
+                     "name" : "Patti Lupone",
+                     "role" : "Nanpire Hauntley (Vampirina's Grandma)"
+                  },
+                  {
+                     "name" : "Brian Stokes Mitchell",
+                     "role" : "Grandpop Hauntley (Vampirina's Grandpa)"
+                  },
+                  {
+                     "name" : "Isabella Cramp",
+                     "role" : "Vampirina \"Vee\" Hauntley"
+                  },
+                  {
+                     "role" : "Demi",
+                     "name" : "Mitchell Whitfield"
+                  }
+               ]
+            },
+            "previously_shown" : "junior.disneychannel.dk|2018-03-01 16:30:00",
+            "date" : "2017",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=335717&seasonid=731931&id=6396564&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "Cuddle Monster"
+            },
+            "start" : "1531381200",
+            "stop" : "1531382400",
+            "episodeNum" : {
+               "thetvdb.com" : "series/335717",
+               "xmltv_ns" : "0 . 23 .",
+               "onscreen" : "Afsnit 24 s\u00e6son 1"
+            },
+            "new" : null,
+            "channel" : "junior.disneychannel.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Fantasy"
+               ]
+            },
+            "desc" : {
+               "da" : "Denne animerede serie er baseret p\u00e5 de popul\u00e6re b\u00f8rneb\u00f8ger Vampirina Ballerina og fort\u00e6ller historien om Vee, en vampyrpige, hvis familie flytter til Pennsylvania for at drive et pensionat for monstre og trolde."
+            },
+            "title" : {
+               "da" : "Vampirina"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Denne animerede serie er baseret p\u00e5 de popul\u00e6re b\u00f8rneb\u00f8ger Vampirina Ballerina og fort\u00e6ller historien om Vee, en vampyrpige, hvis familie flytter til Pennsylvania for at drive et pensionat for monstre og trolde."
+            },
+            "title" : {
+               "da" : "Vampirina"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 24 .",
+               "onscreen" : "Afsnit 25 s\u00e6son 1",
+               "thetvdb.com" : "series/335717"
+            },
+            "channel" : "junior.disneychannel.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Fantasy"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Batty Fever"
+            },
+            "start" : "1531382400",
+            "stop" : "1531383300",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "2) (Mr. Gore",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "name" : "ViviAnn Yee",
+                     "role" : "Bridget"
+                  },
+                  {
+                     "name" : "Sanai Victoria",
+                     "role" : "Phoebe"
+                  },
+                  {
+                     "name" : "Lauren Graham",
+                     "role" : "Oxana Hauntley (Vampirina's Mom)"
+                  },
+                  {
+                     "name" : "James Van Der Beek",
+                     "role" : "Boris Hauntley (Vampirina's Dad)"
+                  },
+                  {
+                     "name" : "Cree Summer",
+                     "role" : "Edna"
+                  },
+                  {
+                     "role" : "Wolfie The Dog / Wolfie The Weredog",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "name" : "Jordan Alexa Davis",
+                     "role" : "Poppy"
+                  },
+                  {
+                     "role" : "Edgar",
+                     "name" : "Benji Risley"
+                  },
+                  {
+                     "name" : "Wanda Sykes",
+                     "role" : "Gregoria The Gargoyle"
+                  },
+                  {
+                     "role" : "Edna",
+                     "name" : "Cree Summer"
+                  },
+                  {
+                     "name" : "Ian James Corlett",
+                     "role" : "Chef Remy Bones"
+                  },
+                  {
+                     "name" : "Patti Lupone",
+                     "role" : "Nanpire Hauntley (Vampirina's Grandma)"
+                  },
+                  {
+                     "role" : "Grandpop Hauntley (Vampirina's Grandpa)",
+                     "name" : "Brian Stokes Mitchell"
+                  },
+                  {
+                     "name" : "Isabella Cramp",
+                     "role" : "Vampirina \"Vee\" Hauntley"
+                  },
+                  {
+                     "name" : "Mitchell Whitfield",
+                     "role" : "Demi"
+                  }
+               ]
+            },
+            "previously_shown" : "junior.disneychannel.dk|2018-03-02 16:30:00",
+            "date" : "2017",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=335717&seasonid=731931&id=6404713&lid=10"
+            ]
+         },
+         {
+            "desc" : {
+               "da" : "Denne animerede serie er baseret p\u00e5 de popul\u00e6re b\u00f8rneb\u00f8ger Vampirina Ballerina og fort\u00e6ller historien om Vee, en vampyrpige, hvis familie flytter til Pennsylvania for at drive et pensionat for monstre og trolde."
+            },
+            "title" : {
+               "da" : "Vampirina"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "thetvdb.com" : "series/335717",
+               "xmltv_ns" : "0 . 25 .",
+               "onscreen" : "Afsnit 26 s\u00e6son 1"
+            },
+            "channel" : "junior.disneychannel.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Fantasy"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Poetry Day"
+            },
+            "start" : "1531383300",
+            "stop" : "1531384500",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "2) (Mr. Gore"
+                  },
+                  {
+                     "role" : "Bridget",
+                     "name" : "ViviAnn Yee"
+                  },
+                  {
+                     "name" : "Sanai Victoria",
+                     "role" : "Phoebe"
+                  },
+                  {
+                     "name" : "Lauren Graham",
+                     "role" : "Oxana Hauntley (Vampirina's Mom)"
+                  },
+                  {
+                     "role" : "Boris Hauntley (Vampirina's Dad)",
+                     "name" : "James Van Der Beek"
+                  },
+                  {
+                     "name" : "Cree Summer",
+                     "role" : "Edna"
+                  },
+                  {
+                     "role" : "Wolfie The Dog / Wolfie The Weredog",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "name" : "Jordan Alexa Davis",
+                     "role" : "Poppy"
+                  },
+                  {
+                     "name" : "Benji Risley",
+                     "role" : "Edgar"
+                  },
+                  {
+                     "role" : "Gregoria The Gargoyle",
+                     "name" : "Wanda Sykes"
+                  },
+                  {
+                     "role" : "Edna",
+                     "name" : "Cree Summer"
+                  },
+                  {
+                     "name" : "Ian James Corlett",
+                     "role" : "Chef Remy Bones"
+                  },
+                  {
+                     "name" : "Patti Lupone",
+                     "role" : "Nanpire Hauntley (Vampirina's Grandma)"
+                  },
+                  {
+                     "name" : "Brian Stokes Mitchell",
+                     "role" : "Grandpop Hauntley (Vampirina's Grandpa)"
+                  },
+                  {
+                     "name" : "Isabella Cramp",
+                     "role" : "Vampirina \"Vee\" Hauntley"
+                  },
+                  {
+                     "name" : "Mitchell Whitfield",
+                     "role" : "Demi"
+                  }
+               ]
+            },
+            "date" : "2017",
+            "previously_shown" : "junior.disneychannel.dk|2018-03-05 16:30:00",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=335717&seasonid=731931&id=6404714&lid=10"
+            ]
+         },
+         {
+            "channel" : "junior.disneychannel.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Fantasy"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "thetvdb.com" : "series/335717",
+               "onscreen" : "Afsnit 34 s\u00e6son 1",
+               "xmltv_ns" : "0 . 33 ."
+            },
+            "title" : {
+               "da" : "Vampirina"
+            },
+            "desc" : {
+               "da" : "Denne animerede serie er baseret p\u00e5 de popul\u00e6re b\u00f8rneb\u00f8ger Vampirina Ballerina og fort\u00e6ller historien om Vee, en vampyrpige, hvis familie flytter til Pennsylvania for at drive et pensionat for monstre og trolde."
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=335717&seasonid=731931&id=6583221&lid=10"
+            ],
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "2) (Mr. Gore"
+                  },
+                  {
+                     "name" : "ViviAnn Yee",
+                     "role" : "Bridget"
+                  },
+                  {
+                     "role" : "Phoebe",
+                     "name" : "Sanai Victoria"
+                  },
+                  {
+                     "name" : "Lauren Graham",
+                     "role" : "Oxana Hauntley (Vampirina's Mom)"
+                  },
+                  {
+                     "name" : "James Van Der Beek",
+                     "role" : "Boris Hauntley (Vampirina's Dad)"
+                  },
+                  {
+                     "role" : "Edna",
+                     "name" : "Cree Summer"
+                  },
+                  {
+                     "role" : "Wolfie The Dog / Wolfie The Weredog",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "name" : "Jordan Alexa Davis",
+                     "role" : "Poppy"
+                  },
+                  {
+                     "name" : "Benji Risley",
+                     "role" : "Edgar"
+                  },
+                  {
+                     "name" : "Wanda Sykes",
+                     "role" : "Gregoria The Gargoyle"
+                  },
+                  {
+                     "role" : "Edna",
+                     "name" : "Cree Summer"
+                  },
+                  {
+                     "role" : "Chef Remy Bones",
+                     "name" : "Ian James Corlett"
+                  },
+                  {
+                     "name" : "Patti Lupone",
+                     "role" : "Nanpire Hauntley (Vampirina's Grandma)"
+                  },
+                  {
+                     "name" : "Brian Stokes Mitchell",
+                     "role" : "Grandpop Hauntley (Vampirina's Grandpa)"
+                  },
+                  {
+                     "role" : "Vampirina \"Vee\" Hauntley",
+                     "name" : "Isabella Cramp"
+                  },
+                  {
+                     "name" : "Mitchell Whitfield",
+                     "role" : "Demi"
+                  }
+               ]
+            },
+            "previously_shown" : "junior.disneychannel.dk|2018-04-06 05:21:00",
+            "date" : "2017",
+            "start" : "1531384500",
+            "stop" : "1531385700",
+            "subTitle" : {
+               "da" : "Treasure Haunters"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Denne animerede serie er baseret p\u00e5 de popul\u00e6re b\u00f8rneb\u00f8ger Vampirina Ballerina og fort\u00e6ller historien om Vee, en vampyrpige, hvis familie flytter til Pennsylvania for at drive et pensionat for monstre og trolde."
+            },
+            "title" : {
+               "da" : "Vampirina"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 28 .",
+               "onscreen" : "Afsnit 29 s\u00e6son 1",
+               "thetvdb.com" : "series/335717"
+            },
+            "new" : null,
+            "channel" : "junior.disneychannel.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Fantasy"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Vee Is for Valentine"
+            },
+            "start" : "1531385700",
+            "stop" : "1531386900",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "2) (Mr. Gore"
+                  },
+                  {
+                     "name" : "ViviAnn Yee",
+                     "role" : "Bridget"
+                  },
+                  {
+                     "role" : "Phoebe",
+                     "name" : "Sanai Victoria"
+                  },
+                  {
+                     "role" : "Oxana Hauntley (Vampirina's Mom)",
+                     "name" : "Lauren Graham"
+                  },
+                  {
+                     "role" : "Boris Hauntley (Vampirina's Dad)",
+                     "name" : "James Van Der Beek"
+                  },
+                  {
+                     "name" : "Cree Summer",
+                     "role" : "Edna"
+                  },
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "Wolfie The Dog / Wolfie The Weredog"
+                  },
+                  {
+                     "role" : "Poppy",
+                     "name" : "Jordan Alexa Davis"
+                  },
+                  {
+                     "name" : "Benji Risley",
+                     "role" : "Edgar"
+                  },
+                  {
+                     "name" : "Wanda Sykes",
+                     "role" : "Gregoria The Gargoyle"
+                  },
+                  {
+                     "name" : "Cree Summer",
+                     "role" : "Edna"
+                  },
+                  {
+                     "name" : "Ian James Corlett",
+                     "role" : "Chef Remy Bones"
+                  },
+                  {
+                     "name" : "Patti Lupone",
+                     "role" : "Nanpire Hauntley (Vampirina's Grandma)"
+                  },
+                  {
+                     "role" : "Grandpop Hauntley (Vampirina's Grandpa)",
+                     "name" : "Brian Stokes Mitchell"
+                  },
+                  {
+                     "role" : "Vampirina \"Vee\" Hauntley",
+                     "name" : "Isabella Cramp"
+                  },
+                  {
+                     "role" : "Demi",
+                     "name" : "Mitchell Whitfield"
+                  }
+               ]
+            },
+            "previously_shown" : "junior.disneychannel.dk|2018-05-14 15:30:00",
+            "date" : "2017",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=335717&seasonid=731931&id=6446993&lid=10"
+            ]
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=335717&seasonid=731931&id=6446994&lid=10"
+            ],
+            "previously_shown" : "junior.disneychannel.dk|2018-05-15 15:30:00",
+            "date" : "2017",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "2) (Mr. Gore"
+                  },
+                  {
+                     "role" : "Bridget",
+                     "name" : "ViviAnn Yee"
+                  },
+                  {
+                     "name" : "Sanai Victoria",
+                     "role" : "Phoebe"
+                  },
+                  {
+                     "name" : "Lauren Graham",
+                     "role" : "Oxana Hauntley (Vampirina's Mom)"
+                  },
+                  {
+                     "name" : "James Van Der Beek",
+                     "role" : "Boris Hauntley (Vampirina's Dad)"
+                  },
+                  {
+                     "role" : "Edna",
+                     "name" : "Cree Summer"
+                  },
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "Wolfie The Dog / Wolfie The Weredog"
+                  },
+                  {
+                     "role" : "Poppy",
+                     "name" : "Jordan Alexa Davis"
+                  },
+                  {
+                     "name" : "Benji Risley",
+                     "role" : "Edgar"
+                  },
+                  {
+                     "role" : "Gregoria The Gargoyle",
+                     "name" : "Wanda Sykes"
+                  },
+                  {
+                     "role" : "Edna",
+                     "name" : "Cree Summer"
+                  },
+                  {
+                     "name" : "Ian James Corlett",
+                     "role" : "Chef Remy Bones"
+                  },
+                  {
+                     "name" : "Patti Lupone",
+                     "role" : "Nanpire Hauntley (Vampirina's Grandma)"
+                  },
+                  {
+                     "name" : "Brian Stokes Mitchell",
+                     "role" : "Grandpop Hauntley (Vampirina's Grandpa)"
+                  },
+                  {
+                     "name" : "Isabella Cramp",
+                     "role" : "Vampirina \"Vee\" Hauntley"
+                  },
+                  {
+                     "role" : "Demi",
+                     "name" : "Mitchell Whitfield"
+                  }
+               ]
+            },
+            "stop" : "1531387800",
+            "start" : "1531386900",
+            "subTitle" : {
+               "da" : "Scarestitute Teacher"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Fantasy"
+               ]
+            },
+            "channel" : "junior.disneychannel.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 29 .",
+               "onscreen" : "Afsnit 30 s\u00e6son 1",
+               "thetvdb.com" : "series/335717"
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Vampirina"
+            },
+            "desc" : {
+               "da" : "Denne animerede serie er baseret p\u00e5 de popul\u00e6re b\u00f8rneb\u00f8ger Vampirina Ballerina og fort\u00e6ller historien om Vee, en vampyrpige, hvis familie flytter til Pennsylvania for at drive et pensionat for monstre og trolde."
+            }
+         },
+         {
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "2) (Mr. Gore"
+                  },
+                  {
+                     "name" : "ViviAnn Yee",
+                     "role" : "Bridget"
+                  },
+                  {
+                     "name" : "Sanai Victoria",
+                     "role" : "Phoebe"
+                  },
+                  {
+                     "role" : "Oxana Hauntley (Vampirina's Mom)",
+                     "name" : "Lauren Graham"
+                  },
+                  {
+                     "role" : "Boris Hauntley (Vampirina's Dad)",
+                     "name" : "James Van Der Beek"
+                  },
+                  {
+                     "role" : "Edna",
+                     "name" : "Cree Summer"
+                  },
+                  {
+                     "role" : "Wolfie The Dog / Wolfie The Weredog",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "role" : "Poppy",
+                     "name" : "Jordan Alexa Davis"
+                  },
+                  {
+                     "role" : "Edgar",
+                     "name" : "Benji Risley"
+                  },
+                  {
+                     "role" : "Gregoria The Gargoyle",
+                     "name" : "Wanda Sykes"
+                  },
+                  {
+                     "name" : "Cree Summer",
+                     "role" : "Edna"
+                  },
+                  {
+                     "role" : "Chef Remy Bones",
+                     "name" : "Ian James Corlett"
+                  },
+                  {
+                     "role" : "Nanpire Hauntley (Vampirina's Grandma)",
+                     "name" : "Patti Lupone"
+                  },
+                  {
+                     "name" : "Brian Stokes Mitchell",
+                     "role" : "Grandpop Hauntley (Vampirina's Grandpa)"
+                  },
+                  {
+                     "name" : "Isabella Cramp",
+                     "role" : "Vampirina \"Vee\" Hauntley"
+                  },
+                  {
+                     "role" : "Demi",
+                     "name" : "Mitchell Whitfield"
+                  }
+               ]
+            },
+            "previously_shown" : "junior.disneychannel.dk|2018-05-16 15:30:00",
+            "date" : "2017",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=335717&seasonid=731931&id=6501725&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "Look Who's Scared Now!"
+            },
+            "start" : "1531387800",
+            "stop" : "1531389000",
+            "new" : null,
+            "episodeNum" : {
+               "thetvdb.com" : "series/335717",
+               "xmltv_ns" : "0 . 30 .",
+               "onscreen" : "Afsnit 31 s\u00e6son 1"
+            },
+            "channel" : "junior.disneychannel.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Fantasy"
+               ]
+            },
+            "desc" : {
+               "da" : "Denne animerede serie er baseret p\u00e5 de popul\u00e6re b\u00f8rneb\u00f8ger Vampirina Ballerina og fort\u00e6ller historien om Vee, en vampyrpige, hvis familie flytter til Pennsylvania for at drive et pensionat for monstre og trolde."
+            },
+            "title" : {
+               "da" : "Vampirina"
+            }
+         },
+         {
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "2) (Mr. Gore"
+                  },
+                  {
+                     "role" : "Bridget",
+                     "name" : "ViviAnn Yee"
+                  },
+                  {
+                     "name" : "Sanai Victoria",
+                     "role" : "Phoebe"
+                  },
+                  {
+                     "name" : "Lauren Graham",
+                     "role" : "Oxana Hauntley (Vampirina's Mom)"
+                  },
+                  {
+                     "role" : "Boris Hauntley (Vampirina's Dad)",
+                     "name" : "James Van Der Beek"
+                  },
+                  {
+                     "role" : "Edna",
+                     "name" : "Cree Summer"
+                  },
+                  {
+                     "role" : "Wolfie The Dog / Wolfie The Weredog",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "role" : "Poppy",
+                     "name" : "Jordan Alexa Davis"
+                  },
+                  {
+                     "role" : "Edgar",
+                     "name" : "Benji Risley"
+                  },
+                  {
+                     "role" : "Gregoria The Gargoyle",
+                     "name" : "Wanda Sykes"
+                  },
+                  {
+                     "role" : "Edna",
+                     "name" : "Cree Summer"
+                  },
+                  {
+                     "name" : "Ian James Corlett",
+                     "role" : "Chef Remy Bones"
+                  },
+                  {
+                     "name" : "Patti Lupone",
+                     "role" : "Nanpire Hauntley (Vampirina's Grandma)"
+                  },
+                  {
+                     "role" : "Grandpop Hauntley (Vampirina's Grandpa)",
+                     "name" : "Brian Stokes Mitchell"
+                  },
+                  {
+                     "role" : "Vampirina \"Vee\" Hauntley",
+                     "name" : "Isabella Cramp"
+                  },
+                  {
+                     "name" : "Mitchell Whitfield",
+                     "role" : "Demi"
+                  }
+               ]
+            },
+            "date" : "2017",
+            "previously_shown" : "junior.disneychannel.dk|2018-05-17 15:30:00",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=335717&seasonid=731931&id=6501730&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "Dust Bunnies"
+            },
+            "start" : "1531389000",
+            "stop" : "1531390200",
+            "episodeNum" : {
+               "thetvdb.com" : "series/335717",
+               "xmltv_ns" : "0 . 31 .",
+               "onscreen" : "Afsnit 32 s\u00e6son 1"
+            },
+            "new" : null,
+            "channel" : "junior.disneychannel.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Fantasy"
+               ]
+            },
+            "desc" : {
+               "da" : "Denne animerede serie er baseret p\u00e5 de popul\u00e6re b\u00f8rneb\u00f8ger Vampirina Ballerina og fort\u00e6ller historien om Vee, en vampyrpige, hvis familie flytter til Pennsylvania for at drive et pensionat for monstre og trolde."
+            },
+            "title" : {
+               "da" : "Vampirina"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Delete"
+            },
+            "start" : "1531390200",
+            "stop" : "1531391400",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "2) (Mr. Gore"
+                  },
+                  {
+                     "role" : "Bridget",
+                     "name" : "ViviAnn Yee"
+                  },
+                  {
+                     "role" : "Phoebe",
+                     "name" : "Sanai Victoria"
+                  },
+                  {
+                     "role" : "Oxana Hauntley (Vampirina's Mom)",
+                     "name" : "Lauren Graham"
+                  },
+                  {
+                     "name" : "James Van Der Beek",
+                     "role" : "Boris Hauntley (Vampirina's Dad)"
+                  },
+                  {
+                     "name" : "Cree Summer",
+                     "role" : "Edna"
+                  },
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "Wolfie The Dog / Wolfie The Weredog"
+                  },
+                  {
+                     "role" : "Poppy",
+                     "name" : "Jordan Alexa Davis"
+                  },
+                  {
+                     "role" : "Edgar",
+                     "name" : "Benji Risley"
+                  },
+                  {
+                     "name" : "Wanda Sykes",
+                     "role" : "Gregoria The Gargoyle"
+                  },
+                  {
+                     "role" : "Edna",
+                     "name" : "Cree Summer"
+                  },
+                  {
+                     "name" : "Ian James Corlett",
+                     "role" : "Chef Remy Bones"
+                  },
+                  {
+                     "role" : "Nanpire Hauntley (Vampirina's Grandma)",
+                     "name" : "Patti Lupone"
+                  },
+                  {
+                     "role" : "Grandpop Hauntley (Vampirina's Grandpa)",
+                     "name" : "Brian Stokes Mitchell"
+                  },
+                  {
+                     "name" : "Isabella Cramp",
+                     "role" : "Vampirina \"Vee\" Hauntley"
+                  },
+                  {
+                     "name" : "Mitchell Whitfield",
+                     "role" : "Demi"
+                  }
+               ]
+            },
+            "date" : "2017",
+            "previously_shown" : "junior.disneychannel.dk|2018-07-04 08:35:00",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=335717&seasonid=731931&id=6680372&lid=10"
+            ],
+            "desc" : {
+               "da" : "Denne animerede serie er baseret p\u00e5 de popul\u00e6re b\u00f8rneb\u00f8ger Vampirina Ballerina og fort\u00e6ller historien om Vee, en vampyrpige, hvis familie flytter til Pennsylvania for at drive et pensionat for monstre og trolde."
+            },
+            "title" : {
+               "da" : "Vampirina"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 36 .",
+               "onscreen" : "Afsnit 37 s\u00e6son 1",
+               "thetvdb.com" : "series/335717"
+            },
+            "channel" : "junior.disneychannel.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Fantasy"
+               ]
+            }
+         },
+         {
+            "start" : "1531391400",
+            "stop" : "1531392300",
+            "title" : {
+               "da" : "Claude"
+            },
+            "desc" : {
+               "da" : "Den alpehuekl\u00e6dte hund Claude og vennen hr. Hoppesok, tager p\u00e5 eventyr ved strandhotellet i Potehavn."
+            },
+            "channel" : "junior.disneychannel.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 19 s\u00e6son 1",
+               "xmltv_ns" : "0. 18 ."
+            }
+         },
+         {
+            "stop" : "1531393200",
+            "start" : "1531392300",
+            "previously_shown" : "junior.disneychannel.dk|2018-04-22 05:00:00",
+            "desc" : {
+               "da" : "Kobberpot dyrker k\u00e6mpetomater. Kokkene l\u00e6rer at samarbejde."
+            },
+            "title" : {
+               "da" : "Trulliland"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 28 s\u00e6son 1",
+               "xmltv_ns" : "0. 27 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "channel" : "junior.disneychannel.dk"
+         },
+         {
+            "previously_shown" : "junior.disneychannel.dk|2018-02-10 06:00:00",
+            "start" : "1531393200",
+            "stop" : "1531394400",
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "2. 64 .",
+               "onscreen" : "Afsnit 65 s\u00e6son 3"
+            },
+            "channel" : "junior.disneychannel.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "desc" : {
+               "da" : "Turbotastisk! Tag med Miles og hans familie i det ydre rum."
+            },
+            "title" : {
+               "da" : "Missionsteam 1"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Missionsteam 1"
+            },
+            "desc" : {
+               "da" : "Turbotastisk! Tag med Miles og hans familie i det ydre rum."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "channel" : "junior.disneychannel.dk",
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 66 s\u00e6son 3",
+               "xmltv_ns" : "2. 65 ."
+            },
+            "stop" : "1531395600",
+            "start" : "1531394400",
+            "previously_shown" : "junior.disneychannel.dk|2018-02-11 06:00:00"
+         },
+         {
+            "previously_shown" : "junior.disneychannel.dk|2018-03-01 11:15:00",
+            "stop" : "1531396800",
+            "start" : "1531395600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "channel" : "junior.disneychannel.dk",
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 67 s\u00e6son 3",
+               "xmltv_ns" : "2. 66 ."
+            },
+            "title" : {
+               "da" : "Missionsteam 1"
+            },
+            "desc" : {
+               "da" : "Turbotastisk! Tag med Miles og hans familie i det ydre rum."
+            }
+         },
+         {
+            "title" : {
+               "da" : "Missionsteam 1"
+            },
+            "desc" : {
+               "da" : "Turbotastisk! Tag med Miles og hans familie i det ydre rum."
+            },
+            "channel" : "junior.disneychannel.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "2. 67 .",
+               "onscreen" : "Afsnit 68 s\u00e6son 3"
+            },
+            "start" : "1531396800",
+            "stop" : "1531398000",
+            "previously_shown" : "junior.disneychannel.dk|2018-03-14 14:15:00"
+         },
+         {
+            "desc" : {
+               "da" : "Turbotastisk! Tag med Miles og hans familie i det ydre rum."
+            },
+            "title" : {
+               "da" : "Missionsteam 1"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "2. 68 .",
+               "onscreen" : "Afsnit 69 s\u00e6son 3"
+            },
+            "new" : null,
+            "channel" : "junior.disneychannel.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "start" : "1531398000",
+            "stop" : "1531399200",
+            "previously_shown" : "junior.disneychannel.dk|2018-03-02 11:15:00"
+         },
+         {
+            "desc" : {
+               "da" : "Turbotastisk! Tag med Miles og hans familie i det ydre rum."
+            },
+            "title" : {
+               "da" : "Missionsteam 1"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "2. 69 .",
+               "onscreen" : "Afsnit 70 s\u00e6son 3"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "channel" : "junior.disneychannel.dk",
+            "stop" : "1531400100",
+            "start" : "1531399200",
+            "previously_shown" : "junior.disneychannel.dk|2018-03-16 14:15:00"
+         },
+         {
+            "stop" : "1531400400",
+            "start" : "1531400100",
+            "previously_shown" : "junior.disneychannel.dk|2018-04-27 13:55:00",
+            "desc" : {
+               "da" : "Klassiske vuggeviser f\u00e5r nyt liv p\u00e5 en sjov og legesyg m\u00e5de med hj\u00e6lp fra vildt popul\u00e6re Disney Junior karakterer."
+            },
+            "title" : {
+               "da" : "Disney Junior Music Nursery Rhymes"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0. 4 .",
+               "onscreen" : "Afsnit 5 s\u00e6son 1"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "channel" : "junior.disneychannel.dk"
+         },
+         {
+            "channel" : "junior.disneychannel.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "new" : null,
+            "start" : "1531400400",
+            "title" : {
+               "da" : "Connect And Project"
+            },
+            "stop" : "1531404000",
+            "desc" : {
+               "da" : "Da Miles, Loretta, Haruna, Blopper og Mirandos rekrutteres som kadetter i Morgendagens Transportstyrelse, f\u00e5r de til opgave at redde en savnet rumkaptajn."
+            }
+         },
+         {
+            "episodeNum" : {
+               "thetvdb.com" : "series/320725",
+               "onscreen" : "Afsnit 14 s\u00e6son 1",
+               "xmltv_ns" : "0 . 13 ."
+            },
+            "new" : null,
+            "channel" : "junior.disneychannel.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "desc" : {
+               "da" : "Fedtmule k\u00f8rer mod sin helt. Billy Beagle m\u00e5 have hj\u00e6lp."
+            },
+            "title" : {
+               "da" : "Mickey Og Racerholdet"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Goofy",
+                     "name" : "Bill Farmer"
+                  },
+                  {
+                     "role" : "Minnie Mouse",
+                     "name" : "Russi Taylor"
+                  },
+                  {
+                     "role" : "Pluto (w/Red Collar)",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "name" : "Rob Paulsen",
+                     "role" : "Chip 'n Dale"
+                  },
+                  {
+                     "role" : "Clarabelle Cow",
+                     "name" : "April Winchell"
+                  },
+                  {
+                     "role" : "Billy Beagle",
+                     "name" : ""
+                  },
+                  {
+                     "name" : "Corey Burton",
+                     "role" : "Professer Ludwig Von Drake"
+                  },
+                  {
+                     "name" : "Jim Cummings",
+                     "role" : "Pete Peter"
+                  },
+                  {
+                     "name" : "Tress MacNeille",
+                     "role" : "Daisy Duck"
+                  },
+                  {
+                     "name" : "Bret Iwan",
+                     "role" : "Mickey Mouse"
+                  },
+                  {
+                     "name" : "Tony Anselmo",
+                     "role" : "Donald Duck"
+                  },
+                  {
+                     "role" : "Cuckoo-Loca",
+                     "name" : ""
+                  }
+               ]
+            },
+            "date" : "2017",
+            "previously_shown" : "junior.disneychannel.dk|2018-02-06 05:50:00",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=320725&seasonid=695611&id=5937354&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "Tea Time Trouble!"
+            },
+            "start" : "1531404000",
+            "stop" : "1531405860"
+         },
+         {
+            "stop" : "1531407000",
+            "start" : "1531405860",
+            "previously_shown" : "junior.disneychannel.dk|2018-07-11 10:30:00",
+            "desc" : {
+               "da" : "Den alpehuekl\u00e6dte hund Claude og vennen hr. Hoppesok, tager p\u00e5 eventyr ved strandhotellet i Potehavn."
+            },
+            "title" : {
+               "da" : "Claude"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 18 s\u00e6son 1",
+               "xmltv_ns" : "0. 17 ."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "channel" : "junior.disneychannel.dk"
+         },
+         {
+            "desc" : {
+               "da" : "To hvalpe er p\u00e5 en mission efter sjov og eventyr!"
+            },
+            "title" : {
+               "da" : "Hvalpevenner"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "thetvdb.com" : "series/325978",
+               "onscreen" : "Afsnit 6 s\u00e6son 1",
+               "xmltv_ns" : "0 . 5 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "junior.disneychannel.dk",
+            "subTitle" : {
+               "da" : "Pot O' Pugs"
+            },
+            "stop" : "1531407900",
+            "start" : "1531407000",
+            "date" : "2017",
+            "previously_shown" : "junior.disneychannel.dk|2018-02-10 10:15:00",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Isaac Ryan Brown",
+                     "role" : "Bingo"
+                  }
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=325978&seasonid=705368&id=6047728&lid=10"
+            ]
+         },
+         {
+            "title" : {
+               "da" : "Mickey Og Racerholdet"
+            },
+            "desc" : {
+               "da" : "De fantastiske seks k\u00f8rer racerl\u00f8b i hele verden!"
+            },
+            "channel" : "junior.disneychannel.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 30 .",
+               "onscreen" : "Afsnit 31 s\u00e6son 1",
+               "thetvdb.com" : "series/320725"
+            },
+            "start" : "1531407900",
+            "stop" : "1531409100",
+            "subTitle" : {
+               "da" : "Mouse Vs. Machine!"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=320725&seasonid=695611&id=6144527&lid=10"
+            ],
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Bill Farmer",
+                     "role" : "Goofy"
+                  },
+                  {
+                     "name" : "Russi Taylor",
+                     "role" : "Minnie Mouse"
+                  },
+                  {
+                     "role" : "Pluto (w/Red Collar)",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "role" : "Chip 'n Dale",
+                     "name" : "Rob Paulsen"
+                  },
+                  {
+                     "name" : "April Winchell",
+                     "role" : "Clarabelle Cow"
+                  },
+                  {
+                     "role" : "Billy Beagle",
+                     "name" : ""
+                  },
+                  {
+                     "role" : "Professer Ludwig Von Drake",
+                     "name" : "Corey Burton"
+                  },
+                  {
+                     "role" : "Pete Peter",
+                     "name" : "Jim Cummings"
+                  },
+                  {
+                     "role" : "Daisy Duck",
+                     "name" : "Tress MacNeille"
+                  },
+                  {
+                     "role" : "Mickey Mouse",
+                     "name" : "Bret Iwan"
+                  },
+                  {
+                     "role" : "Donald Duck",
+                     "name" : "Tony Anselmo"
+                  },
+                  {
+                     "name" : "",
+                     "role" : "Cuckoo-Loca"
+                  }
+               ]
+            },
+            "date" : "2017",
+            "previously_shown" : "junior.disneychannel.dk|2018-06-12 15:05:00"
+         },
+         {
+            "channel" : "junior.disneychannel.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0. 15 .",
+               "onscreen" : "Afsnit 16 s\u00e6son 1"
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Disney Junior Music Nursery Rhymes"
+            },
+            "desc" : {
+               "da" : "Klassiske vuggeviser f\u00e5r nyt liv p\u00e5 en sjov og legesyg m\u00e5de med hj\u00e6lp fra vildt popul\u00e6re Disney Junior karakterer."
+            },
+            "previously_shown" : "junior.disneychannel.dk|2018-05-01 13:55:00",
+            "start" : "1531409100",
+            "stop" : "1531409400"
+         },
+         {
+            "stop" : "1531410900",
+            "start" : "1531409400",
+            "subTitle" : {
+               "da" : "The Plant Predicament"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=335717&seasonid=731931&id=6340325&lid=10"
+            ],
+            "date" : "2017",
+            "previously_shown" : "junior.disneychannel.dk|2018-02-10 07:00:00",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "2) (Mr. Gore"
+                  },
+                  {
+                     "name" : "ViviAnn Yee",
+                     "role" : "Bridget"
+                  },
+                  {
+                     "role" : "Phoebe",
+                     "name" : "Sanai Victoria"
+                  },
+                  {
+                     "role" : "Oxana Hauntley (Vampirina's Mom)",
+                     "name" : "Lauren Graham"
+                  },
+                  {
+                     "role" : "Boris Hauntley (Vampirina's Dad)",
+                     "name" : "James Van Der Beek"
+                  },
+                  {
+                     "name" : "Cree Summer",
+                     "role" : "Edna"
+                  },
+                  {
+                     "role" : "Wolfie The Dog / Wolfie The Weredog",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "name" : "Jordan Alexa Davis",
+                     "role" : "Poppy"
+                  },
+                  {
+                     "name" : "Benji Risley",
+                     "role" : "Edgar"
+                  },
+                  {
+                     "role" : "Gregoria The Gargoyle",
+                     "name" : "Wanda Sykes"
+                  },
+                  {
+                     "name" : "Cree Summer",
+                     "role" : "Edna"
+                  },
+                  {
+                     "role" : "Chef Remy Bones",
+                     "name" : "Ian James Corlett"
+                  },
+                  {
+                     "name" : "Patti Lupone",
+                     "role" : "Nanpire Hauntley (Vampirina's Grandma)"
+                  },
+                  {
+                     "role" : "Grandpop Hauntley (Vampirina's Grandpa)",
+                     "name" : "Brian Stokes Mitchell"
+                  },
+                  {
+                     "name" : "Isabella Cramp",
+                     "role" : "Vampirina \"Vee\" Hauntley"
+                  },
+                  {
+                     "role" : "Demi",
+                     "name" : "Mitchell Whitfield"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Vampirina"
+            },
+            "desc" : {
+               "da" : "En gourmet p\u00e5 R\u00e6dselshotellet. V begynder hos Ulveungerne."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Fantasy"
+               ]
+            },
+            "channel" : "junior.disneychannel.dk",
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7 s\u00e6son 1",
+               "xmltv_ns" : "0 . 6 .",
+               "thetvdb.com" : "series/335717"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Pyjamasheltene"
+            },
+            "desc" : {
+               "da" : "De f\u00e5r deres kr\u00e6fter fra deres dyreamuletter - Jens bliver til Gekko, Amanda bliver til Ugline, og Oscar bliver til Kattedreng. Deres dragter ligner m\u00e5ske pyjamasser, men de er faktisk Pyjamasheltene!"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "junior.disneychannel.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 35 .",
+               "onscreen" : "Afsnit 36 s\u00e6son 1",
+               "thetvdb.com" : "series/300921"
+            },
+            "new" : null,
+            "stop" : "1531412100",
+            "start" : "1531410900",
+            "subTitle" : {
+               "da" : "Owlette's New Move"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=300921&seasonid=638935&id=5558350&lid=10"
+            ],
+            "date" : "2015",
+            "previously_shown" : "junior.disneychannel.dk|2018-03-26 14:45:00",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Christian De Vita"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Romeo",
+                     "name" : ""
+                  },
+                  {
+                     "name" : "Addison Holley",
+                     "role" : "Amaya - Owlette: Leader"
+                  },
+                  {
+                     "role" : "Mr. Riz Nakagawa (School Teacher)",
+                     "name" : ""
+                  },
+                  {
+                     "name" : "Brianna Daguanno",
+                     "role" : "Luna Girl"
+                  },
+                  {
+                     "name" : "",
+                     "role" : "Night Ninja"
+                  },
+                  {
+                     "name" : "Jacob Ewaniuk",
+                     "role" : "Connor - Catboy: Technician & Former Leader"
+                  },
+                  {
+                     "name" : "Tristan Samuel",
+                     "role" : "Cameron"
+                  },
+                  {
+                     "name" : "Kyle Harrison Breitkopf",
+                     "role" : "Gregg - Gekko: Lieutenant"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Andrew Healey"
+                  }
+               ]
+            }
+         },
+         {
+            "previously_shown" : "junior.disneychannel.dk|2018-04-06 16:00:00",
+            "start" : "1531412100",
+            "stop" : "1531413900",
+            "channel" : "junior.disneychannel.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 89 s\u00e6son 4",
+               "xmltv_ns" : "3. 88 ."
+            },
+            "title" : {
+               "da" : "Sofia den f\u00f8rste: De mystiske \u00f8er"
+            },
+            "desc" : {
+               "da" : "Kl\u00f8vers venner spiser alle hans gr\u00f8ntsager."
+            }
+         },
+         {
+            "title" : {
+               "da" : "Doktor McStuffins: Leget\u00f8jshospitalet S\u00e6son 4"
+            },
+            "desc" : {
+               "da" : "Klinikken er \u00e5ben! Og nu er Doktor dyrl\u00e6ge!"
+            },
+            "channel" : "junior.disneychannel.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 109 s\u00e6son 4",
+               "xmltv_ns" : "3. 108 ."
+            },
+            "new" : null,
+            "start" : "1531413900",
+            "stop" : "1531414800",
+            "previously_shown" : "junior.disneychannel.dk|2018-04-10 04:20:00"
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=282756&seasonid=634944&id=5525499&lid=10"
+            ],
+            "previously_shown" : "junior.disneychannel.dk|2016-11-15 15:00:00",
+            "date" : "2016",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Janja",
+                     "name" : "Andrew Kishino"
+                  },
+                  {
+                     "name" : "Ernie Sabella",
+                     "role" : "Pumbaa"
+                  },
+                  {
+                     "role" : "Queen Nala",
+                     "name" : "Gabrielle Union"
+                  },
+                  {
+                     "name" : "Rob Lowe",
+                     "role" : "King Simba"
+                  },
+                  {
+                     "role" : "Rafiki",
+                     "name" : "Khary Payton"
+                  },
+                  {
+                     "name" : "Eden Riegel",
+                     "role" : "Kiara"
+                  },
+                  {
+                     "role" : "Zazu",
+                     "name" : "Jeff Bennett"
+                  },
+                  {
+                     "role" : "Mufasa (Cloud Ghost)",
+                     "name" : "Gary Anthony Williams"
+                  },
+                  {
+                     "role" : "Ono",
+                     "name" : "Atticus Shaffer"
+                  },
+                  {
+                     "role" : "Fuli",
+                     "name" : "Diamond White"
+                  },
+                  {
+                     "role" : "Beshte",
+                     "name" : "Dusan Brown"
+                  },
+                  {
+                     "role" : "Chungu",
+                     "name" : "Kevin Schon"
+                  },
+                  {
+                     "role" : "Bunga",
+                     "name" : "Joshua Rush"
+                  },
+                  {
+                     "name" : "Max Charles",
+                     "role" : "Kion"
+                  }
+               ]
+            },
+            "stop" : "1531454400",
+            "start" : "1531414800",
+            "subTitle" : {
+               "da" : "Paintings and Predictions"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "junior.disneychannel.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 10 .",
+               "onscreen" : "Afsnit 11 s\u00e6son 1",
+               "thetvdb.com" : "series/282756"
+            },
+            "new" : null,
+            "title" : {
+               "da" : "L\u00f8vernes garde"
+            },
+            "desc" : {
+               "da" : "Da en elefant unge kommer i fare, m\u00e5 Beshte redde ham fra Janja og hans sl\u00e6ng!"
+            }
+         }
+      ]
+   }
+}

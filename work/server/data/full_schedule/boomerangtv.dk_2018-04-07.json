@@ -1,0 +1,2591 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "subTitle" : {
+               "da" : "Maltese Canary"
+            },
+            "stop" : "1523061600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 11 af 52",
+               "xmltv_ns" : ". 10/52 ."
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "1995",
+            "new" : null,
+            "title" : {
+               "da" : "Sylvester & Pip"
+            },
+            "start" : "1523060100"
+         },
+         {
+            "subTitle" : {
+               "da" : "Go Fig"
+            },
+            "stop" : "1523062800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 12 af 52",
+               "xmltv_ns" : ". 11/52 ."
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "1995",
+            "new" : null,
+            "title" : {
+               "da" : "Sylvester & Pip"
+            },
+            "start" : "1523061600"
+         },
+         {
+            "start" : "1523062800",
+            "title" : {
+               "da" : "Duck Dodgers"
+            },
+            "new" : null,
+            "date" : "2003",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 37/39 .",
+               "onscreen" : "Afsnit 38 af 39"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Rock og rul i rummet/Chefen arbejder med"
+            },
+            "stop" : "1523064300"
+         },
+         {
+            "start" : "1523064300",
+            "title" : {
+               "da" : "Duck Dodgers"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2003",
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 38/39 .",
+               "onscreen" : "Afsnit 39 af 39"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "subTitle" : {
+               "da" : "En virkelig helt"
+            },
+            "stop" : "1523065500"
+         },
+         {
+            "title" : {
+               "da" : "Baby Looney Tunes"
+            },
+            "start" : "1523065500",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2002",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 5/53 .",
+               "onscreen" : "Afsnit 6 af 53"
+            },
+            "channel" : "boomerangtv.dk",
+            "stop" : "1523067000",
+            "subTitle" : {
+               "da" : "Mine!/over The Burrow (song)/sylvester The Pester"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Cat-taz-trophy/if You're Looney (song)/duck! Monster! Duck!"
+            },
+            "stop" : "1523068200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7 af 53",
+               "xmltv_ns" : ". 6/53 ."
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2002",
+            "new" : null,
+            "title" : {
+               "da" : "Baby Looney Tunes"
+            },
+            "start" : "1523067000"
+         },
+         {
+            "new" : null,
+            "date" : "1989",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "start" : "1523068200",
+            "title" : {
+               "da" : "Tom & Jerry Kids"
+            },
+            "stop" : "1523069700",
+            "subTitle" : {
+               "da" : "Gnaverens hj\u00e6lp/Styrtl\u00f8beren Droopy/Ned i s\u00f8let"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 37 af 65",
+               "xmltv_ns" : ". 36/65 ."
+            },
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            }
+         },
+         {
+            "stop" : "1523070900",
+            "subTitle" : {
+               "da" : "Katastrofe kat/Droopy og dragen/Vildmusen"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 38 af 65",
+               "xmltv_ns" : ". 37/65 ."
+            },
+            "channel" : "boomerangtv.dk",
+            "date" : "1989",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Tom & Jerry Kids"
+            },
+            "start" : "1523069700"
+         },
+         {
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2013",
+            "new" : null,
+            "title" : {
+               "da" : "Junglebanden - Til unds\u00e6tning"
+            },
+            "start" : "1523070900",
+            "stop" : "1523071500",
+            "subTitle" : {
+               "da" : "The Good, The Baddies And The Intern"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 79 af 104",
+               "xmltv_ns" : ". 78/104 ."
+            },
+            "channel" : "boomerangtv.dk"
+         },
+         {
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 80 af 104",
+               "xmltv_ns" : ". 79/104 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Brain Drain"
+            },
+            "stop" : "1523072400",
+            "start" : "1523071500",
+            "title" : {
+               "da" : "Junglebanden - Til unds\u00e6tning"
+            },
+            "new" : null,
+            "date" : "2013",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 4 .",
+               "thetvdb.com" : "series/79890",
+               "onscreen" : "Afsnit 5 s\u00e6son 2"
+            },
+            "channel" : "boomerangtv.dk",
+            "stop" : "1523072700",
+            "subTitle" : {
+               "da" : "Strictly No Dancing"
+            },
+            "title" : {
+               "da" : "F for F\u00e5r"
+            },
+            "rating" : {
+               "stars" : "6.5 / 9"
+            },
+            "start" : "1523072400",
+            "desc" : {
+               "da" : "Sjov og eventyr med det drilagtige f\u00e5r, Frode, som lever livet med sin flok hos bondemanden og den velmenende, men ineffektive, hyrdehund Bitzer."
+            },
+            "date" : "2007",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=79890&seasonid=267851&id=1688761&lid=10"
+            ]
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Comedy"
+               ]
+            },
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 5 .",
+               "thetvdb.com" : "series/79890",
+               "onscreen" : "Afsnit 6 s\u00e6son 2"
+            },
+            "subTitle" : {
+               "da" : "Who's the Caddy"
+            },
+            "stop" : "1523073300",
+            "title" : {
+               "da" : "F for F\u00e5r"
+            },
+            "desc" : {
+               "da" : "Sjov og eventyr med det drilagtige f\u00e5r, Frode, som lever livet med sin flok hos bondemanden og den velmenende, men ineffektive, hyrdehund Bitzer."
+            },
+            "rating" : {
+               "stars" : "6.9 / 9"
+            },
+            "start" : "1523072700",
+            "date" : "2007",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=79890&seasonid=267851&id=1688771&lid=10"
+            ]
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Comedy"
+               ]
+            },
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7 s\u00e6son 2",
+               "thetvdb.com" : "series/79890",
+               "xmltv_ns" : "1 . 6 ."
+            },
+            "subTitle" : {
+               "da" : "Hair Today, Gone Tomorrow"
+            },
+            "stop" : "1523073600",
+            "title" : {
+               "da" : "F for F\u00e5r"
+            },
+            "start" : "1523073300",
+            "rating" : {
+               "stars" : "6.8 / 9"
+            },
+            "desc" : {
+               "da" : "Sjov og eventyr med det drilagtige f\u00e5r, Frode, som lever livet med sin flok hos bondemanden og den velmenende, men ineffektive, hyrdehund Bitzer."
+            },
+            "date" : "2007",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=79890&seasonid=267851&id=1688781&lid=10"
+            ]
+         },
+         {
+            "stop" : "1523075100",
+            "subTitle" : {
+               "da" : "Bryderier"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 30/42 .",
+               "onscreen" : "Afsnit 31 af 42"
+            },
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "new" : null,
+            "date" : "2002",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "start" : "1523073600",
+            "title" : {
+               "da" : "Hva' s\u00e5 Scooby Doo?"
+            }
+         },
+         {
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 51 af 268",
+               "xmltv_ns" : ". 50/268 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Af k\u00e6rlighed til agern"
+            },
+            "stop" : "1523075400",
+            "start" : "1523075100",
+            "desc" : {
+               "da" : "Egern er kommet til at gemme sine agern p\u00e5 et baseball-stadion under kasterens tue. Snup tilbyder at hj\u00e6lpe med at f\u00e5 dem tilbage."
+            },
+            "title" : {
+               "da" : "snup! En Looney Tunes-serie"
+            },
+            "new" : null,
+            "date" : "2015",
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "new" : null,
+            "date" : "2015",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Skaml\u00f8s O'N\u00e6rrig, en beregnende, lykkeridende alf, l\u00f8ber t\u00f8r for held da han passerer Snups skov p\u00e5 sin regnbue. Nu m\u00e5 han ud og finde noget held, ellers kommer han aldrig hjem."
+            },
+            "start" : "1523075400",
+            "title" : {
+               "da" : "snup! En Looney Tunes-serie"
+            },
+            "subTitle" : {
+               "da" : "Lykken er en kaninfod"
+            },
+            "stop" : "1523075700",
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 52 af 268",
+               "xmltv_ns" : ". 51/268 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Snurre Snup og Egern nyder en dag i parken, da den Grumme kanin kommer for at hente Snup. Snup n\u00e6gter at g\u00e5 med uden kamp... selvf\u00f8lgelig."
+            },
+            "start" : "1523075700",
+            "title" : {
+               "da" : "snup! En Looney Tunes-serie"
+            },
+            "new" : null,
+            "date" : "2015",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 60/268 .",
+               "onscreen" : "Afsnit 61 af 268"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Den grumme kanin"
+            },
+            "stop" : "1523076000"
+         },
+         {
+            "start" : "1523076000",
+            "desc" : {
+               "da" : "N\u00e5r Tinas far kommer til byen, beslutter Daffy sig for, at lade som om han er advokat for at imponere ham. Som standard er Bugs tvunget til at foregive at v\u00e6re Daffys dovne, nassende samboer."
+            },
+            "title" : {
+               "da" : "Looney Tunes Show"
+            },
+            "new" : null,
+            "date" : "2010",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 39 af 52",
+               "xmltv_ns" : ". 38/52 ."
+            },
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "stop" : "1523077500",
+            "subTitle" : {
+               "da" : "Daffy Duck Esquire"
+            }
+         },
+         {
+            "date" : "2015",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "stop" : "1523079300",
+            "new" : null,
+            "title" : {
+               "da" : "Gys p\u00e5 godset"
+            },
+            "channel" : "boomerangtv.dk",
+            "start" : "1523077500"
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : ". 61/268 .",
+               "onscreen" : "Afsnit 62 af 268"
+            },
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "stop" : "1523079600",
+            "subTitle" : {
+               "da" : "Vridemaskinen"
+            },
+            "desc" : {
+               "da" : "R\u00f8dsk\u00e6g har hyret en Snurre Snup-imitator for at skabe uro i byen. Alt g\u00e5r efter planen... Alts\u00e5... Snups plan."
+            },
+            "start" : "1523079300",
+            "title" : {
+               "da" : "snup! En Looney Tunes-serie"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2015"
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : ". 70/268 .",
+               "onscreen" : "Afsnit 71 af 268"
+            },
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "stop" : "1523079900",
+            "subTitle" : {
+               "da" : "Pr\u00e6sidentens kanin"
+            },
+            "desc" : {
+               "da" : "Snup tager en tur til Washington, hvor han bliver taget for at v\u00e6re Pr\u00e6ssidentens kanin. Vicepr\u00e6sident Leslie P. Liljeben \u00f8jner en mulighed for at f\u00e5 den forfremmelse, han fortjener, ved at f\u00e5 befri Det Hvide Hus for Snurre Snup."
+            },
+            "start" : "1523079600",
+            "title" : {
+               "da" : "snup! En Looney Tunes-serie"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2015"
+         },
+         {
+            "date" : "2015",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null,
+            "title" : {
+               "da" : "snup! En Looney Tunes-serie"
+            },
+            "start" : "1523079900",
+            "desc" : {
+               "da" : "En barbar og hans trofaste isbj\u00f8rn g\u00f8r krav p\u00e5 hele skoven, inklusiv Snurre Snups hjem."
+            },
+            "stop" : "1523080200",
+            "subTitle" : {
+               "da" : "Snurre Barbaren"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 72 af 268",
+               "xmltv_ns" : ". 71/268 ."
+            },
+            "channel" : "boomerangtv.dk"
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : ". 80/268 .",
+               "onscreen" : "Afsnit 81 af 268"
+            },
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "stop" : "1523080800",
+            "subTitle" : {
+               "da" : "L\u00f8ven Lyver"
+            },
+            "desc" : {
+               "da" : "Snup og Egern rejser til den afrikanske savanne for at bes\u00f8ge Egerns f\u00e6tter. Men f\u00f8rst m\u00e5 de narre den meget sultne junglekonge Teis."
+            },
+            "start" : "1523080200",
+            "title" : {
+               "da" : "snup! En Looney Tunes-serie"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2015"
+         },
+         {
+            "new" : null,
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2003",
+            "start" : "1523080800",
+            "title" : {
+               "da" : "Scooby Doo og monsteret fra Mexico"
+            },
+            "stop" : "1523085900",
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Mystery"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 82 af 268",
+               "xmltv_ns" : ". 81/268 ."
+            },
+            "subTitle" : {
+               "da" : "Snup og Bambi p\u00e5 isen"
+            },
+            "stop" : "1523086200",
+            "title" : {
+               "da" : "snup! En Looney Tunes-serie"
+            },
+            "start" : "1523085900",
+            "desc" : {
+               "da" : "Snup gl\u00e6der sig til en dag i solen, men vinterkronhjorten dukker op og bringer vinteren frem, l\u00e6nge f\u00f8r det er tid. Snurre Snup m\u00e5 ta' aff\u00e6re."
+            },
+            "date" : "2015",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null
+         },
+         {
+            "subTitle" : {
+               "da" : "Snup mod Snegl"
+            },
+            "stop" : "1523086500",
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 110/268 .",
+               "onscreen" : "Afsnit 111 af 268"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "new" : null,
+            "date" : "2015",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "start" : "1523086200",
+            "desc" : {
+               "da" : "Snup gl\u00e6der sig til en dag med drageflyvning. Men f\u00f8rst m\u00e5 han k\u00e6mpe for at komme ud af huset, da han bliver holdt fast indend\u00f8re af et post-snegl, der vil have drikkepenge."
+            },
+            "title" : {
+               "da" : "snup! En Looney Tunes-serie"
+            }
+         },
+         {
+            "start" : "1523086500",
+            "desc" : {
+               "da" : "Daffy og Porky deltager i et selvhj\u00e6lps-seminar, der inspirerer Daffy til at l\u00e6re at flyve. N\u00e5r det ikke virker, n\u00f8jes han med at blive flyselskabets stewadesse."
+            },
+            "title" : {
+               "da" : "Looney Tunes Show"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2010",
+            "episodeNum" : {
+               "xmltv_ns" : ". 39/52 .",
+               "onscreen" : "Afsnit 40 af 52"
+            },
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "stop" : "1523088000",
+            "subTitle" : {
+               "da" : "Spread Those Wings and Fly"
+            }
+         },
+         {
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 1/52 .",
+               "onscreen" : "Afsnit 2 af 52"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Fest som var det 1899"
+            },
+            "stop" : "1523089500",
+            "start" : "1523088000",
+            "desc" : {
+               "da" : "Susan tager vennerne med til en victoriansk mordmysterie-fest. Men da den hovedl\u00f8se grevinde begynder at kidnappe folk, st\u00e5r det hurtigt klart, at der er et \u00e6gte mysterium at opklare."
+            },
+            "title" : {
+               "da" : "Du er cool, Scooby Doo"
+            },
+            "new" : null,
+            "date" : "2015",
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2002",
+            "new" : null,
+            "title" : {
+               "da" : "Hva' s\u00e5 Scooby Doo?"
+            },
+            "start" : "1523089500",
+            "stop" : "1523091300",
+            "subTitle" : {
+               "da" : "P\u00e5 bes\u00f8g i Paris"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 31/42 .",
+               "onscreen" : "Afsnit 32 af 42"
+            },
+            "channel" : "boomerangtv.dk"
+         },
+         {
+            "new" : null,
+            "date" : "2015",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "start" : "1523091300",
+            "desc" : {
+               "da" : "Snup v\u00e5gner op en morgen og ser at hans t\u00e6nder er forsvundet. Han m\u00e5 g\u00e5 i clinch med en umedg\u00f8rlig tandfe for at f\u00e5 dem tilbage."
+            },
+            "title" : {
+               "da" : "snup! En Looney Tunes-serie"
+            },
+            "subTitle" : {
+               "da" : "Fang en fe"
+            },
+            "stop" : "1523091600",
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 111/268 .",
+               "onscreen" : "Afsnit 112 af 268"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            }
+         },
+         {
+            "stop" : "1523091900",
+            "subTitle" : {
+               "da" : "Snup p\u00e5 havearbejde"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 121 af 268",
+               "xmltv_ns" : ". 120/268 ."
+            },
+            "channel" : "boomerangtv.dk",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2015",
+            "new" : null,
+            "title" : {
+               "da" : "snup! En Looney Tunes-serie"
+            },
+            "start" : "1523091600",
+            "desc" : {
+               "da" : "Snup og Grim E. konkurrerer i havedyrkning. Det er naturen mod teknologien. M\u00e5 den bedste mand vinde!"
+            }
+         },
+         {
+            "title" : {
+               "da" : "snup! En Looney Tunes-serie"
+            },
+            "start" : "1523091900",
+            "desc" : {
+               "da" : "Snups trofaste GPS f\u00f8rer ham vild i en majsmark, hvor et meget rundforvirret fugleskr\u00e6msel desperat fors\u00f8ger at passe sit job."
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2015",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 122 af 268",
+               "xmltv_ns" : ". 121/268 ."
+            },
+            "channel" : "boomerangtv.dk",
+            "stop" : "1523092200",
+            "subTitle" : {
+               "da" : "Fugleskr\u00e6mslet"
+            }
+         },
+         {
+            "new" : null,
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2015",
+            "start" : "1523092200",
+            "desc" : {
+               "da" : "Jack, Kunstmaleren, beslutter sig for at lave et maleri af naturen. Men det skaber total kaos i skoven. Snurre Snup konfronterer ham og skaber et endnu st\u00f8rre kaos end f\u00f8r."
+            },
+            "title" : {
+               "da" : "snup! En Looney Tunes-serie"
+            },
+            "subTitle" : {
+               "da" : "Snurre Snup og Kunstmaleren"
+            },
+            "stop" : "1523092500",
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 130/268 .",
+               "onscreen" : "Afsnit 131 af 268"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 131/268 .",
+               "onscreen" : "Afsnit 132 af 268"
+            },
+            "channel" : "boomerangtv.dk",
+            "stop" : "1523092800",
+            "subTitle" : {
+               "da" : "Snurre Snup og Spionen"
+            },
+            "title" : {
+               "da" : "snup! En Looney Tunes-serie"
+            },
+            "desc" : {
+               "da" : "Snurre snup f\u00e5r, ved et tilf\u00e6lde, fat i en top hemmelig taske som tilh\u00f8rer en hemmelig agent. Nu er en spion lige i h\u00e6lene p\u00e5 Snurre Snup. Det handler om nationens sikkerhed."
+            },
+            "start" : "1523092500",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2015",
+            "new" : null
+         },
+         {
+            "start" : "1523092800",
+            "desc" : {
+               "da" : "Snurre Snup og Egern falder over en spray flaske med 'Voks og Bliv Stor' g\u00f8dning i skoven. Egern overh\u00f8rer Snurre Snups advarsler og snupper flasken. Han skaber stor ravage i hele skoven."
+            },
+            "title" : {
+               "da" : "snup! En Looney Tunes-serie"
+            },
+            "new" : null,
+            "date" : "2015",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 151 af 268",
+               "xmltv_ns" : ". 150/268 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Store Problemer"
+            },
+            "stop" : "1523093100"
+         },
+         {
+            "start" : "1523093100",
+            "desc" : {
+               "da" : "en ordens robot er blevet placeret i den lokale park for at s\u00f8rge for at park reglerne bliver overholdt. Det er slet ikke hyggeligt at v\u00e6re i parken efter robotten er kommet. Snurre Snup v\u00e6lger at h\u00e5ndh\u00e6ve sine egne regler."
+            },
+            "title" : {
+               "da" : "snup! En Looney Tunes-serie"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2015",
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 151/268 .",
+               "onscreen" : "Afsnit 152 af 268"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Ordens Robot"
+            },
+            "stop" : "1523093700"
+         },
+         {
+            "stop" : "1523095200",
+            "subTitle" : {
+               "da" : "Den sorte enke"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 40/52 .",
+               "onscreen" : "Afsnit 41 af 52"
+            },
+            "channel" : "boomerangtv.dk",
+            "date" : "2010",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Looney Tunes Show"
+            },
+            "desc" : {
+               "da" : "Daffy beslutter sig for, at han skal g\u00e5 p\u00e5 for\u00e5rsferie, og slutter sig sammen med Porky, n\u00e5r ingen andre vil g\u00e5 med ham."
+            },
+            "start" : "1523093700"
+         },
+         {
+            "desc" : {
+               "da" : "Scoobys dr\u00f8m g\u00e5r i opfyldelse, da vennerne bes\u00f8ger optagelserne af hans yndlings-tvserie, hvor han m\u00f8der sin store k\u00e6rlighed, der har hovedrollen i serien. Men de st\u00f8der ogs\u00e5 p\u00e5 et rigtigt mysterium p\u00e5 filmsettet."
+            },
+            "start" : "1523095200",
+            "title" : {
+               "da" : "Du er cool, Scooby Doo"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2015",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 af 52",
+               "xmltv_ns" : ". 3/52 ."
+            },
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "stop" : "1523096700",
+            "subTitle" : {
+               "da" : "Puddelpatruljen"
+            }
+         },
+         {
+            "new" : null,
+            "date" : "2014",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "start" : "1523096700",
+            "desc" : {
+               "da" : "Tom og Jerry kommer ved et uheld til at miste Gingers vielsesring ned i afl\u00f8bet. De sender Jerry ned i r\u00f8ret for at finde den, men den ryger ned i afl\u00f8bet og ud i kloaken, for til sidst at ende p\u00e5 stranden. K\u00e6ledyrene p\u00e5 forhindre Rick og Ginger i at bruge vandet, og forts\u00e6tte med at f\u00f8lge ringen hele vejen til stranden."
+            },
+            "title" : {
+               "da" : "Tom & Jerry Show"
+            },
+            "stop" : "1523097300",
+            "subTitle" : {
+               "da" : "Mus i r\u00f8rene"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 221 af 215",
+               "xmltv_ns" : ". 220/215 ."
+            },
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            }
+         },
+         {
+            "stop" : "1523097900",
+            "subTitle" : {
+               "da" : "Hovedbrud"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 221/215 .",
+               "onscreen" : "Afsnit 222 af 215"
+            },
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2014",
+            "start" : "1523097300",
+            "desc" : {
+               "da" : "Dr. Bigby fremstiller en fantastisk hjelm, der ved et uheld, forvandler Tom til et geni. Dr. Bigby begynder at arbejde med Tom i laboratoriet, og Tom bygger i al hemmelighed et muse\u00f8del\u00e6ggelsesv\u00e5ben. Napoleon, Jerry og Hamster arbejder sammen om, at f\u00e5 den lidt for smarte Tom sat p\u00e5 plads."
+            },
+            "title" : {
+               "da" : "Tom & Jerry Show"
+            }
+         },
+         {
+            "stop" : "1523098800",
+            "subTitle" : {
+               "da" : "Kattenappet"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 230/215 .",
+               "onscreen" : "Afsnit 231 af 215"
+            },
+            "channel" : "boomerangtv.dk",
+            "date" : "2014",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Tom & Jerry Show"
+            },
+            "start" : "1523097900",
+            "desc" : {
+               "da" : "Tom br\u00e6kker benet under en jagt. Mens han sidder i k\u00f8restol, bliver han vidne til noget, der ligner en kidnapning af Misty, den s\u00f8de kat fra bygningen p\u00e5 den anden side af vejen. Han f\u00e5r hendes nabo til at hj\u00e6lpe, og de f\u00e5r sporet sig frem til hendes tilholdssted. Det f\u00f8rer dem til et feriecenter, og m\u00e5ske blev Misty ikke kidnappet?"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Lusk p\u00e5 g\u00e5rden"
+            },
+            "stop" : "1523100300",
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 33 af 42",
+               "xmltv_ns" : ". 32/42 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2002",
+            "start" : "1523098800",
+            "title" : {
+               "da" : "Hva' s\u00e5 Scooby Doo?"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 14/72 .",
+               "onscreen" : "Afsnit 15 af 72"
+            },
+            "subTitle" : {
+               "da" : "Overnatning uden s\u00f8vn"
+            },
+            "stop" : "1523100900",
+            "title" : {
+               "da" : "Dorothy og troldmanden fra Oz"
+            },
+            "start" : "1523100300",
+            "desc" : {
+               "da" : "Dorothy skal l\u00e6re dronning Ozma og hendes venner om sleepoverfester. Men Wilhelmina er vred over, at hun ikke er med i forn\u00f8jelserne og fors\u00f8ger at \u00f8del\u00e6gge sleepoverfesten ved at skabe et k\u00e6mpe pudemonster."
+            },
+            "date" : "2016",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "new" : null
+         },
+         {
+            "new" : null,
+            "date" : "2016",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Det er dagen for L\u00f8vens \"Skovens konge\"-tale, men L\u00f8ve f\u00f8ler sig sl\u00f8j. N\u00e5r du f\u00e5r en bacille i Oz, s\u00e5 f\u00e5r du virkelig en bacille!"
+            },
+            "start" : "1523100900",
+            "title" : {
+               "da" : "Dorothy og troldmanden fra Oz"
+            },
+            "subTitle" : {
+               "da" : "L\u00f8ven f\u00e5r en bacille"
+            },
+            "stop" : "1523101500",
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 16 af 72",
+               "xmltv_ns" : ". 15/72 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            }
+         },
+         {
+            "new" : null,
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2016",
+            "start" : "1523101500",
+            "desc" : {
+               "da" : "Dorothy og hendes venner finder Tik Tok, en mekanisk mand, liggende \u00f8delagt i vejkanten. De m\u00e5 hj\u00e6lpe ham med at blive repareret. Tik Tok bliver med det samme vild med Blikmanden og mener, at han er en superhelt."
+            },
+            "title" : {
+               "da" : "Dorothy og troldmanden fra Oz"
+            },
+            "stop" : "1523102400",
+            "subTitle" : {
+               "da" : "Tik Tok og Blikmanden"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 16/72 .",
+               "onscreen" : "Afsnit 17 af 72"
+            },
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            }
+         },
+         {
+            "new" : null,
+            "date" : "2015",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "start" : "1523102400",
+            "desc" : {
+               "da" : "For at l\u00f8se mysteriet om den skr\u00e6kindjagende Krystalkravler, m\u00e5 vennerne begive sig ned til en krystalkoloni, hvor tavshed er guld."
+            },
+            "title" : {
+               "da" : "Du er cool, Scooby Doo"
+            },
+            "subTitle" : {
+               "da" : "V\u00e6r stille, Scooby Doo!"
+            },
+            "stop" : "1523103900",
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 4/52 .",
+               "onscreen" : "Afsnit 5 af 52"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : ". 210/52 .",
+               "onscreen" : "Afsnit 211 af 52"
+            },
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "stop" : "1523104500",
+            "subTitle" : {
+               "da" : "Zhu Got Game"
+            },
+            "start" : "1523103900",
+            "title" : {
+               "da" : "The Zhuzhus - Elements"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2017"
+         },
+         {
+            "stop" : "1523105100",
+            "subTitle" : {
+               "da" : "And The Hammy Goes To"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 211/52 .",
+               "onscreen" : "Afsnit 212 af 52"
+            },
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "new" : null,
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2017",
+            "start" : "1523104500",
+            "title" : {
+               "da" : "The Zhuzhus - Elements"
+            }
+         },
+         {
+            "stop" : "1523106000",
+            "subTitle" : {
+               "da" : "Pranksters' Paradise - Part 1"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 221 af 52",
+               "xmltv_ns" : ". 220/52 ."
+            },
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "new" : null,
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2017",
+            "start" : "1523105100",
+            "title" : {
+               "da" : "The Zhuzhus - Elements"
+            }
+         },
+         {
+            "new" : null,
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2002",
+            "start" : "1523106000",
+            "title" : {
+               "da" : "Hva' s\u00e5 Scooby Doo?"
+            },
+            "subTitle" : {
+               "da" : "Diamanter er et monsters bedste ven"
+            },
+            "stop" : "1523107500",
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 33/42 .",
+               "onscreen" : "Afsnit 34 af 42"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "En Fod Foran"
+            },
+            "stop" : "1523107800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 160/268 .",
+               "onscreen" : "Afsnit 161 af 268"
+            },
+            "date" : "2015",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "new" : null,
+            "title" : {
+               "da" : "snup! En Looney Tunes-serie"
+            },
+            "start" : "1523107500",
+            "desc" : {
+               "da" : "Snurre Snup h\u00e5ber p\u00e5 en stille og rolig dag, men Beredskabs soldaterne er efter Bigfoot og Snurre Snup tr\u00e6der til."
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "En grum ferie"
+            },
+            "stop" : "1523108100",
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 161/268 .",
+               "onscreen" : "Afsnit 162 af 268"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "new" : null,
+            "date" : "2015",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Kaninen Grum tager p\u00e5 ferie, men finder ud af at Snurre Snup ogs\u00e5 er der, og s\u00e5 g\u00e5r den vilde jagt. Grums Kone insisterer p\u00e5 at Grum skal holde op med at arbejde i ferien, men Grum fors\u00f8ger alligevel at blande forn\u00f8jelser med pligter."
+            },
+            "start" : "1523107800",
+            "title" : {
+               "da" : "snup! En Looney Tunes-serie"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Fru Porkbunny's"
+            },
+            "stop" : "1523109600",
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 41/52 .",
+               "onscreen" : "Afsnit 42 af 52"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "new" : null,
+            "date" : "2010",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Sp\u00e6ndinger blusser, n\u00e5r Bugs og Porky starter en forretning sammen ved at s\u00e6lge gulerodskage."
+            },
+            "start" : "1523108100",
+            "title" : {
+               "da" : "Looney Tunes Show"
+            }
+         },
+         {
+            "date" : "2015",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Du er cool, Scooby Doo"
+            },
+            "start" : "1523109600",
+            "desc" : {
+               "da" : "Trods Vera's st\u00e6rke modvilje mod vand, kravler vennerne ombord p\u00e5 krydstogskibet. Men vandfobi er deres mindste problem, da et frygteligt hav-uhyre angriber skibet."
+            },
+            "stop" : "1523111100",
+            "subTitle" : {
+               "da" : "Alle poter p\u00e5 d\u00e6k"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 5/52 .",
+               "onscreen" : "Afsnit 6 af 52"
+            },
+            "channel" : "boomerangtv.dk"
+         },
+         {
+            "new" : null,
+            "date" : "2016",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "desc" : {
+               "da" : "Ozma har skabt en sjov majslabyrint med en speciel skat i midten. Fugleskr\u00e6mslet mister sin klogskab for at se st\u00e6rk ud. Han m\u00e5 bare have sin klogskab tilbage for at redde dagen."
+            },
+            "start" : "1523111100",
+            "title" : {
+               "da" : "Dorothy og troldmanden fra Oz"
+            },
+            "stop" : "1523111700",
+            "subTitle" : {
+               "da" : "Hvis bare jeg havde noget r\u00e5styrke"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 18 af 72",
+               "xmltv_ns" : ". 17/72 ."
+            },
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            }
+         },
+         {
+            "stop" : "1523112300",
+            "subTitle" : {
+               "da" : "The Beast Royales"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 19 af 72",
+               "xmltv_ns" : ". 18/72 ."
+            },
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "new" : null,
+            "date" : "2016",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "start" : "1523111700",
+            "desc" : {
+               "da" : "Beast Royales er det mest popul\u00e6re band i Oz og skal til at optr\u00e6de. Wilhelmina er deres allerst\u00f8rste fan. Hun sender Frank og Lyman hen for at kidnappe dem, s\u00e5 de kan spille kun for hende."
+            },
+            "title" : {
+               "da" : "Dorothy og troldmanden fra Oz"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Da Wilhelminas plan om at f\u00e5 fat p\u00e5 rubinskoene g\u00e5r sk\u00e6vt, bruger hun et magisk timeglas for at g\u00e5 tilbage i tiden og lave det om."
+            },
+            "start" : "1523112300",
+            "title" : {
+               "da" : "Dorothy og troldmanden fra Oz"
+            },
+            "new" : null,
+            "date" : "2016",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 19/72 .",
+               "onscreen" : "Afsnit 20 af 72"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Igen og igen"
+            },
+            "stop" : "1523113200"
+         },
+         {
+            "stop" : "1523114700",
+            "subTitle" : {
+               "da" : "En klovn til golf"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 34/42 .",
+               "onscreen" : "Afsnit 35 af 42"
+            },
+            "channel" : "boomerangtv.dk",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2002",
+            "new" : null,
+            "title" : {
+               "da" : "Hva' s\u00e5 Scooby Doo?"
+            },
+            "start" : "1523113200"
+         },
+         {
+            "start" : "1523114700",
+            "desc" : {
+               "da" : "Hildie og Beatie har f\u00e5et nok af Tom, og truer med at f\u00e5 en rigtig heksekat; en sort kat. I desperation tager Tom en magisk eliksir, der g\u00f8r ham sort - men kun midlertidigt. Det lader til, at heksene virkelig foretr\u00e6kker den sorte kat, og er parate til at opgive Tom for evigt, hvilket g\u00f8r at Tom er n\u00f8dt til at bibeholde forkl\u00e6dningen. Men m\u00e5ske ved de en smule mere end de viser?"
+            },
+            "title" : {
+               "da" : "Tom & Jerry Show"
+            },
+            "new" : null,
+            "date" : "2014",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 231/215 .",
+               "onscreen" : "Afsnit 232 af 215"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Sort kat"
+            },
+            "stop" : "1523115300"
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 241 af 215",
+               "xmltv_ns" : ". 240/215 ."
+            },
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "stop" : "1523115900",
+            "subTitle" : {
+               "da" : "Hungersn\u00f8d"
+            },
+            "start" : "1523115300",
+            "desc" : {
+               "da" : "Da k\u00e6ledyrene tror, at de vil l\u00f8be t\u00f8r for mad under en snestorm, begynder de at hamstre mad. Tingene l\u00f8ber ud af kontrol, da de begynder at stj\u00e6le mad og snyde hinanden."
+            },
+            "title" : {
+               "da" : "Tom & Jerry Show"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2014"
+         },
+         {
+            "start" : "1523115900",
+            "desc" : {
+               "da" : "Jerry og Napoleon leger rundt med en af Dr. Bigbys seneste opfindelser - den nye anti-tyngdekraftmaskine. Tom bryder ind i laboratoriet og en Nul-g-jagt begynder. Maskinen laver ravage i hele laboratoriet, men ogs\u00e5 i cafeteriet."
+            },
+            "title" : {
+               "da" : "Tom & Jerry Show"
+            },
+            "new" : null,
+            "date" : "2014",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 242 af 215",
+               "xmltv_ns" : ". 241/215 ."
+            },
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "stop" : "1523116800",
+            "subTitle" : {
+               "da" : "Tyngde-Tom"
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7 af 52",
+               "xmltv_ns" : ". 6/52 ."
+            },
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "stop" : "1523118600",
+            "subTitle" : {
+               "da" : "Skrigmadonna"
+            },
+            "start" : "1523116800",
+            "desc" : {
+               "da" : "For at l\u00f8se et mystium om et sp\u00f8gelses-agtig sanger, der hejms\u00f8ger sing tidligere spille-sted, m\u00e5 vennerne m\u00e5 give sig ud for at v\u00e6re et rock band. Men kan de det f\u00f8r Vera bliver n\u00f8dt til at synge p\u00e5 scenen?"
+            },
+            "title" : {
+               "da" : "Du er cool, Scooby Doo"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2015"
+         },
+         {
+            "start" : "1523118600",
+            "title" : {
+               "da" : "Snurre Snups tredje film: 1001 Kanineventyr"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "1982",
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Animated"
+               ]
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "David Detiege"
+                  },
+                  {
+                     "name" : "Arthur Davis"
+                  },
+                  {
+                     "name" : "Bill Perez"
+                  }
+               ]
+            },
+            "stop" : "1523123400"
+         },
+         {
+            "stop" : "1523123700",
+            "subTitle" : {
+               "da" : "Guler\u00f8dderne f\u00f8rst!"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 170/268 .",
+               "onscreen" : "Afsnit 171 af 268"
+            },
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2015",
+            "desc" : {
+               "da" : "En privilegeret, lille pige ved navn, Pampreen, Snupper alle Snups gulr\u00f8dder til sin pr\u00e6miepony, Pusser. Snup og Egern insisterer p\u00e5 at f\u00e5 dem tilbage."
+            },
+            "start" : "1523123400",
+            "title" : {
+               "da" : "snup! En Looney Tunes-serie"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Snup er ved at komme for sent til sit fly, men skal f\u00f8rst forbi et afgiftstr\u00e6, som virkelig har et attitudeproblem."
+            },
+            "start" : "1523123700",
+            "title" : {
+               "da" : "snup! En Looney Tunes-serie"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2015",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 172 af 268",
+               "xmltv_ns" : ". 171/268 ."
+            },
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "stop" : "1523124000",
+            "subTitle" : {
+               "da" : "N\u00e5r skidt kommer til \u00e6re"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Hva' s\u00e5 Scooby Doo?"
+            },
+            "start" : "1523124000",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2002",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 35/42 .",
+               "onscreen" : "Afsnit 36 af 42"
+            },
+            "channel" : "boomerangtv.dk",
+            "stop" : "1523125500",
+            "subTitle" : {
+               "da" : "Skr\u00e6mmelejren"
+            }
+         },
+         {
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2014",
+            "new" : null,
+            "title" : {
+               "da" : "Tom & Jerry Show"
+            },
+            "start" : "1523125500",
+            "desc" : {
+               "da" : "Tom er fast besluttet p\u00e5 at fange den forn\u00f8jelse Jerry og Tuffy har med at lave papirfly. Toms sk\u00e6g og ballade bliver v\u00e6rre, n\u00e5r han indser, a han har lavet et papirfly fra Gingers oldemors v\u00e6rdsatte frugtkageopskrift."
+            },
+            "subTitle" : {
+               "da" : "Papirfly-r\u00e6s"
+            },
+            "stop" : "1523125800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 591 af 215",
+               "xmltv_ns" : ". 590/215 ."
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 601 af 215",
+               "xmltv_ns" : ". 600/215 ."
+            },
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "stop" : "1523126400",
+            "subTitle" : {
+               "da" : "Nedtur/Retur"
+            },
+            "start" : "1523125800",
+            "desc" : {
+               "da" : "Hvis en kv\u00e6stet Tom ikke bliver bedre, f\u00f8r Rick og Ginger tager afsted p\u00e5 deres weekendferie, bliver Tom n\u00f8dt til at blive hos Jolly Friends Pet Oasis, som slet ikke er sjovt for Tom."
+            },
+            "title" : {
+               "da" : "Tom & Jerry Show"
+            },
+            "new" : null,
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2014"
+         },
+         {
+            "subTitle" : {
+               "da" : "En kattens forelskelse"
+            },
+            "stop" : "1523126700",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 611 af 215",
+               "xmltv_ns" : ". 610/215 ."
+            },
+            "date" : "2014",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Tom & Jerry Show"
+            },
+            "desc" : {
+               "da" : "Ginger bringer en kattekilling hjem, som hun vil opfostre, indtil hun den et permanent hjem. Alle i huset bliver forelsket i kattekillingen, undtagen Tom."
+            },
+            "start" : "1523126400"
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : ". 620/215 .",
+               "onscreen" : "Afsnit 621 af 215"
+            },
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "stop" : "1523127600",
+            "subTitle" : {
+               "da" : "Osteknas p\u00e5 linjen"
+            },
+            "start" : "1523126700",
+            "desc" : {
+               "da" : "Tom, Jerry og Butch ser en Smack-n-Cheese Cheesy Cheese Puffs reklame, og n\u00e5r de h\u00f8rer , \"SUPPLIES ARE RUNNING OUT!\" (Forsyningerne l\u00f8ber ud)"
+            },
+            "title" : {
+               "da" : "Tom & Jerry Show"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2014"
+         },
+         {
+            "stop" : "1523129100",
+            "subTitle" : {
+               "da" : "Det Scooby-Doo siger er man selv"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8 af 52",
+               "xmltv_ns" : ". 7/52 ."
+            },
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2015",
+            "desc" : {
+               "da" : "Efter at have bes\u00f8gt et flygtesikret f\u00e6ngsel, m\u00e5 Jan l\u00f8se et mysterium om en sp\u00f8gelses-agtig fange, der terroriserer f\u00e6ngslet."
+            },
+            "start" : "1523127600",
+            "title" : {
+               "da" : "Du er cool, Scooby Doo"
+            }
+         },
+         {
+            "date" : "2010",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Looney Tunes Show"
+            },
+            "start" : "1523129100",
+            "desc" : {
+               "da" : "Daffy tager klaver lektioner fra Granny trods hans manglende evne til at l\u00e6re. Som f\u00f8lge heraf f\u00e5r Bugs st\u00f8jreducerende \u00f8retelefoner og indser hurtigt, at han kan tune alt fra Daffy's frygtelige klaverspil til kedelige samtaler."
+            },
+            "subTitle" : {
+               "da" : "The Grand Old Duck of York"
+            },
+            "stop" : "1523130600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 44 af 52",
+               "xmltv_ns" : ". 43/52 ."
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Dragen i Hong Kong"
+            },
+            "stop" : "1523132100",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 36/42 .",
+               "onscreen" : "Afsnit 37 af 42"
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2002",
+            "new" : null,
+            "title" : {
+               "da" : "Hva' s\u00e5 Scooby Doo?"
+            },
+            "start" : "1523130600"
+         },
+         {
+            "subTitle" : {
+               "da" : "Area 50 Bunn"
+            },
+            "stop" : "1523133000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 55/90 .",
+               "onscreen" : "Afsnit 56 af 90"
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2016",
+            "new" : null,
+            "title" : {
+               "da" : "Kanicula"
+            },
+            "start" : "1523132100",
+            "desc" : {
+               "da" : "Kanicula har hovedrollen i den paranormale eventyrkomedieserie om vampyrkaninen Kanicula, den paranoide kat, Chester og den elskelige familiehund, Harald."
+            }
+         },
+         {
+            "date" : "2016",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Kanicula"
+            },
+            "start" : "1523133000",
+            "desc" : {
+               "da" : "Kanicula har hovedrollen i den paranormale eventyrkomedieserie om vampyrkaninen Kanicula, den paranoide kat, Chester og den elskelige familiehund, Harald."
+            },
+            "subTitle" : {
+               "da" : "Bunn On A Plane"
+            },
+            "stop" : "1523133900",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 57 af 90",
+               "xmltv_ns" : ". 56/90 ."
+            }
+         },
+         {
+            "new" : null,
+            "date" : "2014",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Jerrys onkel kommer p\u00e5 bes\u00f8g. Tuffy er begejstret for at m\u00f8de den store onkel, han har h\u00f8rt s\u00e5 meget om."
+            },
+            "start" : "1523133900",
+            "title" : {
+               "da" : "Tom & Jerry Show"
+            },
+            "subTitle" : {
+               "da" : "Ballade-bes\u00f8g"
+            },
+            "stop" : "1523134200",
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 630/215 .",
+               "onscreen" : "Afsnit 631 af 215"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Toodles familie kommer p\u00e5 et bes\u00f8g. Problemet er, at de tror at hun er gift med killingerne. Tom spiller den glade rolle som \u00e6gtef\u00e6lle og tilbyder Jerry og Tuffy til at spille deres bed\u00e5rende kattekillinger."
+            },
+            "start" : "1523134200",
+            "title" : {
+               "da" : "Tom & Jerry Show"
+            },
+            "new" : null,
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2014",
+            "episodeNum" : {
+               "xmltv_ns" : ". 640/215 .",
+               "onscreen" : "Afsnit 641 af 215"
+            },
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "stop" : "1523134800",
+            "subTitle" : {
+               "da" : "Fupforhold p\u00e5 Pr\u00f8ve"
+            }
+         },
+         {
+            "date" : "2014",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Tom & Jerry Show"
+            },
+            "desc" : {
+               "da" : "Det er Spikes f\u00f8dselsdag! Han har talt dagene. Hvert \u00e5r g\u00e5r Rick ud for at g\u00f8re det specielt, men ikke denne gang. Han har glemt. N\u00e5r de ser hvor trist Spike er, arbejder Tom og Jerry sammen for at give hunden en f\u00f8dselsdag som de vil huske."
+            },
+            "start" : "1523134800",
+            "subTitle" : {
+               "da" : "F\u00f8dselsdag med fart p\u00e5"
+            },
+            "stop" : "1523135100",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 650/215 .",
+               "onscreen" : "Afsnit 651 af 215"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Jerry har h\u00e5net en \"REWARD IF FOUND\"-plakat med Toms billed og naboens adresse med den vilde hund, der er anf\u00f8rt som Toms hjem."
+            },
+            "start" : "1523135100",
+            "title" : {
+               "da" : "Tom & Jerry Show"
+            },
+            "new" : null,
+            "date" : "2014",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 661 af 215",
+               "xmltv_ns" : ". 660/215 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Kat Efterlyst"
+            },
+            "stop" : "1523135700"
+         },
+         {
+            "start" : "1523135700",
+            "desc" : {
+               "da" : "Slick ans\u00e6tter Newt til at v\u00e6re hans assistant til hans seneste store ambition: Til at v\u00e6re en virkelig fantastisk tryllekunster. Men vil han v\u00e6re villig til at dele scenen med Newt, eller \u00f8nsker han f\u00e5 hele rampelyset for sig selv?"
+            },
+            "title" : {
+               "da" : "Oddbods"
+            },
+            "new" : null,
+            "date" : "2016",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 26/120 .",
+               "onscreen" : "Afsnit 27 af 120"
+            },
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon",
+                  "Comedy"
+               ]
+            },
+            "stop" : "1523136000",
+            "subTitle" : {
+               "da" : "Den fantastiske Slicko"
+            }
+         },
+         {
+            "new" : null,
+            "date" : "2016",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "start" : "1523136000",
+            "desc" : {
+               "da" : "Fuse og Pogo finder ud af at de er stranded inde i Jeffs us, efter at han tager p\u00e5 ferie. L\u00e5st inde i Jeffs hus og fanget af hans sofistikerede sikkerhedssystem, skal de finde en m\u00e5de at komme overens og overleve sammen, indtil Jeff kommer tilbage."
+            },
+            "title" : {
+               "da" : "Oddbods"
+            },
+            "subTitle" : {
+               "da" : "Panikrum"
+            },
+            "stop" : "1523136600",
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 27/120 .",
+               "onscreen" : "Afsnit 28 af 120"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon",
+                  "Comedy"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 29 af 120",
+               "xmltv_ns" : ". 28/120 ."
+            },
+            "channel" : "boomerangtv.dk",
+            "stop" : "1523137200",
+            "subTitle" : {
+               "da" : "Ingen god gerning"
+            },
+            "title" : {
+               "da" : "Oddbods"
+            },
+            "desc" : {
+               "da" : "Fuse bliver reddet af Newt fra en pinlig situation, og Fuse p\u00e5tager sig at genoptage sin g\u00e6ld ved i stedet at blive en helt for hende. I stedet bliver han en torn i hendes side."
+            },
+            "start" : "1523136600",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2016",
+            "new" : null
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2002",
+            "new" : null,
+            "title" : {
+               "da" : "Mr. Bean"
+            },
+            "desc" : {
+               "da" : "Denne serie f\u00f8lger alles yndlingskluddermikkels eventyr. Mr. Bean deler lejlighed med den elskelige Teddy, hvor han tr\u00e6ffer tossede beslutninger og kommer op med geniale l\u00f8sninger."
+            },
+            "start" : "1523137200",
+            "stop" : "1523137800",
+            "subTitle" : {
+               "da" : "Hot Date"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 200/52 .",
+               "onscreen" : "Afsnit 201 af 52"
+            },
+            "channel" : "boomerangtv.dk"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 202 af 52",
+               "xmltv_ns" : ". 201/52 ."
+            },
+            "subTitle" : {
+               "da" : "Wanted"
+            },
+            "stop" : "1523138400",
+            "title" : {
+               "da" : "Mr. Bean"
+            },
+            "start" : "1523137800",
+            "desc" : {
+               "da" : "Denne serie f\u00f8lger alles yndlingskluddermikkels eventyr. Mr. Bean deler lejlighed med den elskelige Teddy, hvor han tr\u00e6ffer tossede beslutninger og kommer op med geniale l\u00f8sninger."
+            },
+            "date" : "2002",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null
+         },
+         {
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "1995",
+            "new" : null,
+            "title" : {
+               "da" : "Pinky & The Brain"
+            },
+            "start" : "1523138400",
+            "stop" : "1523139900",
+            "subTitle" : {
+               "da" : "Hoop Schemes"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 26 af 65",
+               "xmltv_ns" : ". 25/65 ."
+            },
+            "channel" : "boomerangtv.dk"
+         },
+         {
+            "date" : "1995",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Pinky & The Brain"
+            },
+            "start" : "1523139900",
+            "stop" : "1523141100",
+            "subTitle" : {
+               "da" : "Das Mouse"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/65 .",
+               "onscreen" : "Afsnit 1 af 65"
+            },
+            "channel" : "boomerangtv.dk"
+         },
+         {
+            "new" : null,
+            "date" : "1960",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "desc" : {
+               "da" : "Bagekonkurrencen: Wilma og Betty er finalister i en tv-bagekonkurrence, men da den store aften oprinder, f\u00e5r de m\u00e6slinger. If\u00f8rt parykker og kjoler tager Fred og Barney pigernes pladser i konkurrencen."
+            },
+            "start" : "1523141100",
+            "title" : {
+               "da" : "Familien Flintstone"
+            },
+            "stop" : "1523142600",
+            "subTitle" : {
+               "da" : "Kage konkurrencen"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 25 af 166",
+               "xmltv_ns" : ". 24/166 ."
+            },
+            "channel" : "boomerangtv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Team Spirit"
+            },
+            "stop" : "1523143800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 54 af 75",
+               "xmltv_ns" : ". 53/75 ."
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "1962",
+            "new" : null,
+            "title" : {
+               "da" : "Familien Jetson"
+            },
+            "start" : "1523142600"
+         },
+         {
+            "desc" : {
+               "da" : "Top Kat pr\u00f8ver at tjene nogle nemme penge ved at forvandle sm\u00f8gen til en turistattraktion."
+            },
+            "start" : "1523143800",
+            "title" : {
+               "da" : "Top Cat"
+            },
+            "new" : null,
+            "date" : "1966",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "channel" : "boomerangtv.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 18/30 .",
+               "onscreen" : "Afsnit 19 af 30"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Top kat som guide"
+            },
+            "stop" : "1523145300"
+         },
+         {
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "1966",
+            "new" : null,
+            "title" : {
+               "da" : "Top Cat"
+            },
+            "desc" : {
+               "da" : "Da Benny falder for en udspekuleret natklubsangerinde, fors\u00f8ger Top Kat og vennerne at hj\u00e6lpe ham med at f\u00e5 sine tabte penge tilbage."
+            },
+            "start" : "1523145300",
+            "stop" : "1523146500",
+            "subTitle" : {
+               "da" : "Benny's erstatning"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Cartoon"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 20 af 30",
+               "xmltv_ns" : ". 19/30 ."
+            },
+            "channel" : "boomerangtv.dk"
+         }
+      ]
+   }
+}

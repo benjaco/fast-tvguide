@@ -1,0 +1,1296 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Amat\u00f8ropfindere f\u00e5r mulighed for at vise deres produkter til et hold eksperter. Er der nogen af opfindelserne, fra hundeleget\u00f8j til personlige robotter, der er v\u00e6rd at investere i?"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 1",
+               "xmltv_ns" : "0 . 3 ."
+            },
+            "subTitle" : {
+               "da" : "Heat Is On"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "start" : "1531785600",
+            "new" : null,
+            "title" : {
+               "da" : "Invent It Rich"
+            },
+            "channel" : "science.discovery.dk",
+            "stop" : "1531788480"
+         },
+         {
+            "start" : "1531788480",
+            "new" : null,
+            "title" : {
+               "da" : "What Could Possibly Go Wrong?"
+            },
+            "channel" : "science.discovery.dk",
+            "date" : "2015",
+            "stop" : "1531791360",
+            "desc" : {
+               "da" : "Ved hj\u00e6lp af sund fornuft og en smule r\u00e5 magt, arbejder vennerne Grant Reynolds og Kevin Moore p\u00e5 at dechifrere, hvad der gik galt i de mest overdrevne forfejlede internet-videoer."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "thetvdb.com" : "series/291522"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Trash Can Rocketeers"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=291522&seasonid=611886&id=5116621&lid=10"
+            ]
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 s\u00e6son 1",
+               "thetvdb.com" : "series/82403",
+               "xmltv_ns" : "0 . 4 ."
+            },
+            "desc" : {
+               "da" : "Denne udsendelse s\u00e6tter fokus p\u00e5 noget af den mest indbringende ejendomshandel i verden - takket v\u00e6re det canadiske diamant-kapl\u00f8b, som er p\u00e5 vej lige nu."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "subTitle" : {
+               "da" : "The Norwegian gas pipeline"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=82403&seasonid=33439&id=6736753&lid=10"
+            ],
+            "new" : null,
+            "start" : "1531791360",
+            "title" : {
+               "da" : "Building the Biggest"
+            },
+            "channel" : "science.discovery.dk",
+            "stop" : "1531794240"
+         },
+         {
+            "subTitle" : {
+               "da" : "Duck Calls; Wasabi; Accordions"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=80038&seasonid=493827&id=4337631&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "desc" : {
+               "da" : "Hvordan holder man bilerne i Daytona p\u00e5 banen i l\u00f8bets 24 timer? Og hvordan forvandler man de s\u00f8deste sukkerr\u00f8r til den verdensber\u00f8mte caribiske rom? Se med."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "7 . 10 .",
+               "thetvdb.com" : "series/80038",
+               "onscreen" : "Afsnit 11 s\u00e6son 8"
+            },
+            "date" : "2006",
+            "stop" : "1531795680",
+            "start" : "1531794240",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Rupert Degas",
+                     "role" : "Narrator"
+                  }
+               ]
+            },
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "How Do They Do It?"
+            }
+         },
+         {
+            "stop" : "1531797120",
+            "date" : "2014",
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "Food Factory USA"
+            },
+            "start" : "1531795680",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=285389&seasonid=624001&id=5305924&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Peter Piper Picked a Peck..."
+            },
+            "desc" : {
+               "da" : "Tag med til North Carolina og syltefabrikken, der laver syltede pepperoncini-peberfrugter. Og se hemmeligheden bag New Yorker Bagels."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 16 s\u00e6son 2",
+               "thetvdb.com" : "series/285389",
+               "xmltv_ns" : "1 . 15 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Blast Proof House"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=81047&seasonid=29919&id=347066&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "desc" : {
+               "da" : "Kan Crash test-holdet bruge den nyeste flyveteknik til at forhindre en bil eller bus i at skifte vejbane og k\u00f8re ind i den modg\u00e5ende trafik?"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "thetvdb.com" : "series/81047"
+            },
+            "date" : "2007",
+            "stop" : "1531800000",
+            "new" : null,
+            "start" : "1531797120",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Kevin Cook"
+                  },
+                  {
+                     "name" : "Deanne Bell"
+                  },
+                  {
+                     "name" : "Nick Blair"
+                  },
+                  {
+                     "name" : "Chuck Messer"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Smash Lab"
+            },
+            "channel" : "science.discovery.dk"
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "5 . 15 .",
+               "onscreen" : "Afsnit 16 s\u00e6son 6",
+               "thetvdb.com" : "series/80038"
+            },
+            "desc" : {
+               "da" : "Hvordan holder man hajer i verdens st\u00f8rste akvarium? Hvordan udvikler man \u00e6delsten? Og hvad skal der til for at bygge en luksuri\u00f8s Bentley?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=80038&seasonid=396461&id=4109866&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Large Aquarium; Making Sapphire; Bentleys"
+            },
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "How Do They Do It?"
+            },
+            "start" : "1531800000",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Rupert Degas",
+                     "role" : "Narrator"
+                  }
+               ]
+            },
+            "stop" : "1531801560",
+            "date" : "2006"
+         },
+         {
+            "stop" : "1531804440",
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "Invent It Rich"
+            },
+            "new" : null,
+            "start" : "1531801560",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Heat Is On"
+            },
+            "desc" : {
+               "da" : "Amat\u00f8ropfindere f\u00e5r mulighed for at vise deres produkter til et hold eksperter. Er der nogen af opfindelserne, fra hundeleget\u00f8j til personlige robotter, der er v\u00e6rd at investere i?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 3 .",
+               "onscreen" : "Afsnit 4 s\u00e6son 1"
+            }
+         },
+         {
+            "new" : null,
+            "start" : "1531804440",
+            "title" : {
+               "da" : "Building the Biggest"
+            },
+            "channel" : "science.discovery.dk",
+            "stop" : "1531807320",
+            "episodeNum" : {
+               "thetvdb.com" : "series/82403",
+               "onscreen" : "Afsnit 5 s\u00e6son 1",
+               "xmltv_ns" : "0 . 4 ."
+            },
+            "desc" : {
+               "da" : "Denne udsendelse s\u00e6tter fokus p\u00e5 noget af den mest indbringende ejendomshandel i verden - takket v\u00e6re det canadiske diamant-kapl\u00f8b, som er p\u00e5 vej lige nu."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "subTitle" : {
+               "da" : "The Norwegian gas pipeline"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=82403&seasonid=33439&id=6736753&lid=10"
+            ]
+         },
+         {
+            "stop" : "1531810200",
+            "date" : "2012",
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "NASA's Unexplained Files"
+            },
+            "new" : null,
+            "start" : "1531807320",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=279357&seasonid=579361&id=4938863&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "US UFO & The Saturn Mega Hex"
+            },
+            "desc" : {
+               "da" : "NASA's kameraer har indfanget utallige mystiske objekter. Gennem banebrydende interviews med astronauter og videnskabsfolk afsl\u00f8rer vi NASA's ti st\u00f8rste uforklarlige oplevelser."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 4 .",
+               "thetvdb.com" : "series/279357",
+               "onscreen" : "Afsnit 5 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Special Interest"
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Hvordan holder man bilerne i Daytona p\u00e5 banen i l\u00f8bets 24 timer? Og hvordan forvandler man de s\u00f8deste sukkerr\u00f8r til den verdensber\u00f8mte caribiske rom? Se med."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "7 . 10 .",
+               "onscreen" : "Afsnit 11 s\u00e6son 8",
+               "thetvdb.com" : "series/80038"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Duck Calls; Wasabi; Accordions"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=80038&seasonid=493827&id=4337631&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Narrator",
+                     "name" : "Rupert Degas"
+                  }
+               ]
+            },
+            "start" : "1531810200",
+            "title" : {
+               "da" : "How Do They Do It?"
+            },
+            "channel" : "science.discovery.dk",
+            "date" : "2006",
+            "stop" : "1531811640"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Tag med til North Carolina og syltefabrikken, der laver syltede pepperoncini-peberfrugter. Og se hemmeligheden bag New Yorker Bagels."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 16 s\u00e6son 2",
+               "thetvdb.com" : "series/285389",
+               "xmltv_ns" : "1 . 15 ."
+            },
+            "subTitle" : {
+               "da" : "Peter Piper Picked a Peck..."
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=285389&seasonid=624001&id=5305924&lid=10"
+            ],
+            "new" : null,
+            "start" : "1531811640",
+            "title" : {
+               "da" : "Food Factory USA"
+            },
+            "channel" : "science.discovery.dk",
+            "date" : "2014",
+            "stop" : "1531813080"
+         },
+         {
+            "desc" : {
+               "da" : "Amat\u00f8ropfindere f\u00e5r mulighed for at vise deres produkter til et hold eksperter. Er der nogen af opfindelserne, fra hundeleget\u00f8j til personlige robotter, der er v\u00e6rd at investere i?"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 1",
+               "xmltv_ns" : "0 . 3 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Heat Is On"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "new" : null,
+            "start" : "1531813080",
+            "title" : {
+               "da" : "Invent It Rich"
+            },
+            "channel" : "science.discovery.dk",
+            "stop" : "1531815960"
+         },
+         {
+            "stop" : "1531818840",
+            "date" : "2015",
+            "title" : {
+               "da" : "What Could Possibly Go Wrong?"
+            },
+            "channel" : "science.discovery.dk",
+            "new" : null,
+            "start" : "1531815960",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=291522&seasonid=611886&id=5116621&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Trash Can Rocketeers"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "thetvdb.com" : "series/291522"
+            },
+            "desc" : {
+               "da" : "Ved hj\u00e6lp af sund fornuft og en smule r\u00e5 magt, arbejder vennerne Grant Reynolds og Kevin Moore p\u00e5 at dechifrere, hvad der gik galt i de mest overdrevne forfejlede internet-videoer."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=82403&seasonid=33439&id=6736753&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "The Norwegian gas pipeline"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 s\u00e6son 1",
+               "thetvdb.com" : "series/82403",
+               "xmltv_ns" : "0 . 4 ."
+            },
+            "desc" : {
+               "da" : "Denne udsendelse s\u00e6tter fokus p\u00e5 noget af den mest indbringende ejendomshandel i verden - takket v\u00e6re det canadiske diamant-kapl\u00f8b, som er p\u00e5 vej lige nu."
+            },
+            "stop" : "1531821720",
+            "title" : {
+               "da" : "Building the Biggest"
+            },
+            "channel" : "science.discovery.dk",
+            "start" : "1531818840",
+            "new" : null
+         },
+         {
+            "stop" : "1531824600",
+            "date" : "2007",
+            "title" : {
+               "da" : "Smash Lab"
+            },
+            "channel" : "science.discovery.dk",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Kevin Cook"
+                  },
+                  {
+                     "name" : "Deanne Bell"
+                  },
+                  {
+                     "name" : "Nick Blair"
+                  },
+                  {
+                     "name" : "Chuck Messer"
+                  }
+               ]
+            },
+            "start" : "1531821720",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=81047&seasonid=29919&id=347066&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Blast Proof House"
+            },
+            "desc" : {
+               "da" : "Kan Crash test-holdet bruge den nyeste flyveteknik til at forhindre en bil eller bus i at skifte vejbane og k\u00f8re ind i den modg\u00e5ende trafik?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "thetvdb.com" : "series/81047",
+               "xmltv_ns" : "0 . 0 ."
+            }
+         },
+         {
+            "episodeNum" : {
+               "thetvdb.com" : "series/279357",
+               "onscreen" : "Afsnit 5 s\u00e6son 1",
+               "xmltv_ns" : "0 . 4 ."
+            },
+            "desc" : {
+               "da" : "NASA's kameraer har indfanget utallige mystiske objekter. Gennem banebrydende interviews med astronauter og videnskabsfolk afsl\u00f8rer vi NASA's ti st\u00f8rste uforklarlige oplevelser."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Special Interest"
+               ]
+            },
+            "subTitle" : {
+               "da" : "US UFO & The Saturn Mega Hex"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=279357&seasonid=579361&id=4938863&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "start" : "1531824600",
+            "new" : null,
+            "title" : {
+               "da" : "NASA's Unexplained Files"
+            },
+            "channel" : "science.discovery.dk",
+            "date" : "2012",
+            "stop" : "1531827480"
+         },
+         {
+            "new" : null,
+            "start" : "1531827480",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Narrator",
+                     "name" : "Rupert Degas"
+                  }
+               ]
+            },
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "How Do They Do It?"
+            },
+            "date" : "2006",
+            "stop" : "1531828920",
+            "desc" : {
+               "da" : "Hvordan holder man bilerne i Daytona p\u00e5 banen i l\u00f8bets 24 timer? Og hvordan forvandler man de s\u00f8deste sukkerr\u00f8r til den verdensber\u00f8mte caribiske rom? Se med."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "7 . 10 .",
+               "onscreen" : "Afsnit 11 s\u00e6son 8",
+               "thetvdb.com" : "series/80038"
+            },
+            "subTitle" : {
+               "da" : "Duck Calls; Wasabi; Accordions"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=80038&seasonid=493827&id=4337631&lid=10"
+            ]
+         },
+         {
+            "stop" : "1531830360",
+            "date" : "2014",
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "Food Factory USA"
+            },
+            "start" : "1531828920",
+            "new" : null,
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=285389&seasonid=624001&id=5305924&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "Peter Piper Picked a Peck..."
+            },
+            "desc" : {
+               "da" : "Tag med til North Carolina og syltefabrikken, der laver syltede pepperoncini-peberfrugter. Og se hemmeligheden bag New Yorker Bagels."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 16 s\u00e6son 2",
+               "thetvdb.com" : "series/285389",
+               "xmltv_ns" : "1 . 15 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "start" : "1531830360",
+            "new" : null,
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "Invent It Rich"
+            },
+            "stop" : "1531833240",
+            "desc" : {
+               "da" : "Amat\u00f8ropfindere f\u00e5r mulighed for at vise deres produkter til et hold eksperter. Er der nogen af opfindelserne, fra hundeleget\u00f8j til personlige robotter, der er v\u00e6rd at investere i?"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 1",
+               "xmltv_ns" : "0 . 3 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Heat Is On"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            }
+         },
+         {
+            "new" : null,
+            "start" : "1531833240",
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "What Could Possibly Go Wrong?"
+            },
+            "date" : "2015",
+            "stop" : "1531836120",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "thetvdb.com" : "series/291522",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Ved hj\u00e6lp af sund fornuft og en smule r\u00e5 magt, arbejder vennerne Grant Reynolds og Kevin Moore p\u00e5 at dechifrere, hvad der gik galt i de mest overdrevne forfejlede internet-videoer."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Trash Can Rocketeers"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=291522&seasonid=611886&id=5116621&lid=10"
+            ]
+         },
+         {
+            "subTitle" : {
+               "da" : "US UFO & The Saturn Mega Hex"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=279357&seasonid=579361&id=4938863&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/279357",
+               "onscreen" : "Afsnit 5 s\u00e6son 1",
+               "xmltv_ns" : "0 . 4 ."
+            },
+            "desc" : {
+               "da" : "NASA's kameraer har indfanget utallige mystiske objekter. Gennem banebrydende interviews med astronauter og videnskabsfolk afsl\u00f8rer vi NASA's ti st\u00f8rste uforklarlige oplevelser."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Special Interest"
+               ]
+            },
+            "date" : "2012",
+            "stop" : "1531839000",
+            "start" : "1531836120",
+            "new" : null,
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "NASA's Unexplained Files"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "desc" : {
+               "da" : "Designere og ingeni\u00f8rer st\u00e5r over for en n\u00e6sten umulig udfordring - at bruge maling til lastbiler for at beskytte en hel bygning mod en enorm eksplosion."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1 .",
+               "thetvdb.com" : "series/81047",
+               "onscreen" : "Afsnit 2 s\u00e6son 1"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=81047&seasonid=29919&id=348599&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Crash Absorbing Concrete"
+            },
+            "title" : {
+               "da" : "Smash Lab"
+            },
+            "channel" : "science.discovery.dk",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Kevin Cook"
+                  },
+                  {
+                     "name" : "Deanne Bell"
+                  },
+                  {
+                     "name" : "Nick Blair"
+                  },
+                  {
+                     "name" : "Chuck Messer"
+                  }
+               ]
+            },
+            "new" : null,
+            "start" : "1531839000",
+            "stop" : "1531842000",
+            "date" : "2007"
+         },
+         {
+            "date" : "2006",
+            "stop" : "1531843500",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Rupert Degas",
+                     "role" : "Narrator"
+                  }
+               ]
+            },
+            "start" : "1531842000",
+            "title" : {
+               "da" : "How Do They Do It?"
+            },
+            "channel" : "science.discovery.dk",
+            "subTitle" : {
+               "da" : "Toto Washlets; Fire Scout; Demolition Drills"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=80038&seasonid=493827&id=4337630&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "desc" : {
+               "da" : "Hvordan avler man st\u00f8r til den kostbare kaviar? Hvordan f\u00e5r man \u00e5rhundreders historie ind i japansk porcel\u00e6n? Og hvordan laver man fodboldst\u00f8vler i verdensklasse?"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 12 s\u00e6son 8",
+               "thetvdb.com" : "series/80038",
+               "xmltv_ns" : "7 . 11 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Vi bes\u00f8ger Baltimores historiske peberrodsfabrik og Big League Chew. Vi bes\u00f8ger ogs\u00e5 en cupcakefabrik, der kom i rampelyset efter national sikkerhedsh\u00e6ndelse."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 16 .",
+               "thetvdb.com" : "series/285389",
+               "onscreen" : "Afsnit 17 s\u00e6son 2"
+            },
+            "subTitle" : {
+               "da" : "Mastical Magic"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=285389&seasonid=624001&id=6143102&lid=10"
+            ],
+            "start" : "1531843500",
+            "new" : null,
+            "title" : {
+               "da" : "Food Factory USA"
+            },
+            "channel" : "science.discovery.dk",
+            "date" : "2014",
+            "stop" : "1531845000"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/295027",
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "desc" : {
+               "da" : "F\u00f8lg den hylende morsomme psykologi der ligger bag, n\u00e5r fremmede lyver for at redde en mands \u00e6gteskab, en smagstest der g\u00e5r helt galt og en h\u00e5rrejsende VIP-vaskerioplevelse."
+            },
+            "subTitle" : {
+               "da" : "Very Important Sheeple"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=295027&seasonid=621245&id=5208614&lid=10"
+            ],
+            "start" : "1531845000",
+            "new" : null,
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "Outrageous Acts of Psych"
+            },
+            "date" : "2015",
+            "stop" : "1531846500"
+         },
+         {
+            "desc" : {
+               "da" : "Se hvad der sker n\u00e5r folk skr\u00e6mmes til at k\u00e6mpe eller flygte, tilbydes us\u00e6dvanlige VIP-services, og n\u00e5r deres personlige rum bliver invaderet."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1 .",
+               "thetvdb.com" : "series/295027",
+               "onscreen" : "Afsnit 2 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Masters of Deception"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=295027&seasonid=621245&id=5208615&lid=10"
+            ],
+            "start" : "1531846500",
+            "new" : null,
+            "title" : {
+               "da" : "Outrageous Acts of Psych"
+            },
+            "channel" : "science.discovery.dk",
+            "date" : "2015",
+            "stop" : "1531848000"
+         },
+         {
+            "subTitle" : {
+               "da" : "Underground Singapore"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "F\u00f8lg Singapores nye ring-linje, som koster 38 milliarder kroner. N\u00e5r den er f\u00e6rdig, vil den v\u00e6re det hurtigste f\u00f8rerl\u00f8se jernbanesystem."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 5 .",
+               "onscreen" : "Afsnit 6 s\u00e6son 1"
+            },
+            "stop" : "1531851000",
+            "start" : "1531848000",
+            "new" : null,
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "Building the Biggest"
+            }
+         },
+         {
+            "date" : "2012",
+            "stop" : "1531854000",
+            "start" : "1531851000",
+            "new" : null,
+            "title" : {
+               "da" : "NASA's Unexplained Files"
+            },
+            "channel" : "science.discovery.dk",
+            "subTitle" : {
+               "da" : "The Aristarchus Enigma & Martian Space Station"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=279357&seasonid=579361&id=4939638&lid=10"
+            ],
+            "episodeNum" : {
+               "onscreen" : "Afsnit 6 s\u00e6son 1",
+               "thetvdb.com" : "series/279357",
+               "xmltv_ns" : "0 . 5 ."
+            },
+            "desc" : {
+               "da" : "Da astronauten Leroy Chaos yderst risikable spadseretur i rummet afbrydes af lys, der flyver forbi, s\u00e6tter det en stor unders\u00f8gelse i gang. Kan det tilskrives fremmede livsformer?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Special Interest"
+               ]
+            }
+         },
+         {
+            "new" : null,
+            "start" : "1531854000",
+            "title" : {
+               "da" : "Outrageous Acts of Psych"
+            },
+            "channel" : "science.discovery.dk",
+            "date" : "2015",
+            "stop" : "1531855500",
+            "desc" : {
+               "da" : "F\u00f8lg den hylende morsomme psykologi der ligger bag, n\u00e5r fremmede lyver for at redde en mands \u00e6gteskab, en smagstest der g\u00e5r helt galt og en h\u00e5rrejsende VIP-vaskerioplevelse."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "thetvdb.com" : "series/295027"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Very Important Sheeple"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=295027&seasonid=621245&id=5208614&lid=10"
+            ]
+         },
+         {
+            "desc" : {
+               "da" : "Se hvad der sker n\u00e5r folk skr\u00e6mmes til at k\u00e6mpe eller flygte, tilbydes us\u00e6dvanlige VIP-services, og n\u00e5r deres personlige rum bliver invaderet."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/295027",
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "xmltv_ns" : "0 . 1 ."
+            },
+            "subTitle" : {
+               "da" : "Masters of Deception"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=295027&seasonid=621245&id=5208615&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "new" : null,
+            "start" : "1531855500",
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "Outrageous Acts of Psych"
+            },
+            "date" : "2015",
+            "stop" : "1531857000"
+         },
+         {
+            "subTitle" : {
+               "da" : "In-Human Slingshot"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=291522&seasonid=611886&id=5129219&lid=10"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "desc" : {
+               "da" : "Ved hj\u00e6lp af sund fornuft og en smule r\u00e5 magt, arbejder vennerne Grant Reynolds og Kevin Moore p\u00e5 at dechifrere, hvad der gik galt i de mest overdrevne forfejlede internet-videoer."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1 .",
+               "thetvdb.com" : "series/291522",
+               "onscreen" : "Afsnit 2 s\u00e6son 1"
+            },
+            "date" : "2015",
+            "stop" : "1531860000",
+            "new" : null,
+            "start" : "1531857000",
+            "title" : {
+               "da" : "What Could Possibly Go Wrong?"
+            },
+            "channel" : "science.discovery.dk"
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "7 . 11 .",
+               "thetvdb.com" : "series/80038",
+               "onscreen" : "Afsnit 12 s\u00e6son 8"
+            },
+            "desc" : {
+               "da" : "Hvordan avler man st\u00f8r til den kostbare kaviar? Hvordan f\u00e5r man \u00e5rhundreders historie ind i japansk porcel\u00e6n? Og hvordan laver man fodboldst\u00f8vler i verdensklasse?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Toto Washlets; Fire Scout; Demolition Drills"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=80038&seasonid=493827&id=4337630&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Rupert Degas",
+                     "role" : "Narrator"
+                  }
+               ]
+            },
+            "new" : null,
+            "start" : "1531860000",
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "How Do They Do It?"
+            },
+            "date" : "2006",
+            "stop" : "1531861500"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Vi bes\u00f8ger Baltimores historiske peberrodsfabrik og Big League Chew. Vi bes\u00f8ger ogs\u00e5 en cupcakefabrik, der kom i rampelyset efter national sikkerhedsh\u00e6ndelse."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 16 .",
+               "onscreen" : "Afsnit 17 s\u00e6son 2",
+               "thetvdb.com" : "series/285389"
+            },
+            "subTitle" : {
+               "da" : "Mastical Magic"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=285389&seasonid=624001&id=6143102&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "new" : null,
+            "start" : "1531861500",
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "Food Factory USA"
+            },
+            "date" : "2014",
+            "stop" : "1531863000"
+         },
+         {
+            "stop" : "1531866000",
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "Building the Biggest"
+            },
+            "start" : "1531863000",
+            "new" : null,
+            "subTitle" : {
+               "da" : "Underground Singapore"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "F\u00f8lg Singapores nye ring-linje, som koster 38 milliarder kroner. N\u00e5r den er f\u00e6rdig, vil den v\u00e6re det hurtigste f\u00f8rerl\u00f8se jernbanesystem."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 6 s\u00e6son 1",
+               "xmltv_ns" : "0 . 5 ."
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Crash Absorbing Concrete"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=81047&seasonid=29919&id=348599&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "desc" : {
+               "da" : "Designere og ingeni\u00f8rer st\u00e5r over for en n\u00e6sten umulig udfordring - at bruge maling til lastbiler for at beskytte en hel bygning mod en enorm eksplosion."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "thetvdb.com" : "series/81047",
+               "xmltv_ns" : "0 . 1 ."
+            },
+            "date" : "2007",
+            "stop" : "1531869000",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Kevin Cook"
+                  },
+                  {
+                     "name" : "Deanne Bell"
+                  },
+                  {
+                     "name" : "Nick Blair"
+                  },
+                  {
+                     "name" : "Chuck Messer"
+                  }
+               ]
+            },
+            "start" : "1531866000",
+            "title" : {
+               "da" : "Smash Lab"
+            },
+            "channel" : "science.discovery.dk"
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 5 .",
+               "thetvdb.com" : "series/279357",
+               "onscreen" : "Afsnit 6 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Da astronauten Leroy Chaos yderst risikable spadseretur i rummet afbrydes af lys, der flyver forbi, s\u00e6tter det en stor unders\u00f8gelse i gang. Kan det tilskrives fremmede livsformer?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Special Interest"
+               ]
+            },
+            "subTitle" : {
+               "da" : "The Aristarchus Enigma & Martian Space Station"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=279357&seasonid=579361&id=4939638&lid=10"
+            ],
+            "new" : null,
+            "start" : "1531869000",
+            "title" : {
+               "da" : "NASA's Unexplained Files"
+            },
+            "channel" : "science.discovery.dk",
+            "date" : "2012",
+            "stop" : "1531872000"
+         }
+      ]
+   }
+}

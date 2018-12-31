@@ -1,0 +1,677 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "stop" : "1522566000",
+            "country" : [
+               "DK"
+            ],
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "channel" : "dr2.dr.dk",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2018",
+            "new" : null,
+            "title" : {
+               "da" : "Deadline Nat"
+            },
+            "start" : "1522543200",
+            "desc" : {
+               "da" : "Genudsendelser af aftenens Deadline med udfordrende og overraskende perspektiver p\u00e5 dagens og tidens v\u00e6sentligste historier."
+            }
+         },
+         {
+            "channel" : "dr2.dr.dk",
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "country" : [
+               "DK"
+            ],
+            "stop" : "1522567800",
+            "start" : "1522566000",
+            "title" : {
+               "da" : "Nyheder fra Gr\u00f8nland"
+            },
+            "new" : null,
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2018"
+         },
+         {
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2014",
+            "new" : null,
+            "title" : {
+               "da" : "P\u00e5 nettet for f\u00f8rste gang!"
+            },
+            "desc" : {
+               "da" : "Instrukt\u00f8ren Michael Kleiman boede i ti m\u00e5neder sammen med sin familie i en afsidesliggende landsby i Andesbjergene i Peru og Amazonejunglen, mens alle b\u00f8rnene via et velg\u00f8renhedsprogram fik en laptop. Michael fangede med sit kamere landsbybeboernes f\u00f8rste oplevelse med den nye teknologi. Deres oplevelse med Google og Wikipedia og ikke mindst YouTube og gribende \u00f8jeblikke, da de f\u00e5r kontakt med familie, de ikke har set i \u00e5revis."
+            },
+            "start" : "1522567800",
+            "stop" : "1522571400",
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "Documentary"
+               ]
+            },
+            "channel" : "dr2.dr.dk"
+         },
+         {
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/268272"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2014",
+            "desc" : {
+               "da" : "T\u00e6nk hvis man en dag s\u00e5 sig i spejlet og s\u00e5, ikke sig selv, men verdens m\u00e6gtigste mand. Det skete for Louis Ortiz, da han i 2008 barberede sit fipsk\u00e6g af, kiggede i spejlet og pludselig ikke s\u00e5 den s\u00e6dvanlige midaldrende, arbejdsl\u00f8se puertoricanske familiefar fra Bronx, men i stedet s\u00e5 h\u00e5b, forandringer og penge. Siden har Ortiz fors\u00f8gt at leve af sin forbl\u00f8ffende lighed med pr\u00e6sident Obama."
+            },
+            "start" : "1522571400",
+            "title" : {
+               "da" : "Obama fra Bronx"
+            },
+            "stop" : "1522575000",
+            "previously_shown" : "dr2.dr.dk|2018-03-28 23:50:00",
+            "channel" : "dr2.dr.dk",
+            "episodeNum" : {
+               "themoviedb.org" : "movie/268272"
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Ryan Murdock"
+                  }
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "P\u00e5skedag vises hele Mikael Bertelsens fantastiske vandretur p\u00e5 den eventyrlige japanske \u00f8 Shikoku med de 88 templer. Alle 10 afsnit vises i \u00e9t hug. Mikael Bertelsen er taget til Japan for at begive sig ud p\u00e5 verdens \u00e6ldste pilgrimsvandring. Her vil han fors\u00f8ge at finde ind til den bedste udgave af sig selv. F\u00f8lg med n\u00e5r Mikael Bertelsen m\u00f8der geishaer, munke, zen-bueskytter og pilgrimme fra hele verden p\u00e5 en tur sp\u00e6kket med dramatiske h\u00f8jdepunkter og s\u00e6lsomme begivenheder."
+            },
+            "start" : "1522575000",
+            "title" : {
+               "da" : "Bertelsen p\u00e5 Shikoku 88"
+            },
+            "new" : null,
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2017",
+            "channel" : "dr2.dr.dk",
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1522590900"
+         },
+         {
+            "title" : {
+               "da" : "Ken Folletts Jordens s\u00f8jler"
+            },
+            "desc" : {
+               "da" : "Prior Philip bliver reddet fra galgen, og Jack har ogs\u00e5 med n\u00f8d og n\u00e6ppe undg\u00e5et d\u00f8den, men faren er langt fra ovre. For kong Stephen og prinsesse Mathilde ligger i krig om den engelske trone, og den skruppell\u00f8se duo Regan Hamleigh og biskop Waleran fors\u00f8ger at forhandle en fangeudveksling p\u00e5 plads, der kan v\u00e6re til deres egen fordel. Prior Philip: Matthew Macfadyen. Manuskript: John Pielmeier efter Ken Folletts roman. Instruktion: Sergio Mimica-Gezzan. 4. del sendes i morgen."
+            },
+            "start" : "1522590900",
+            "date" : "2010",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Biskop Waleran Bigod",
+                     "name" : "Ian McShane"
+                  },
+                  {
+                     "name" : "Rufus Sewell",
+                     "role" : "Tom Bygmester"
+                  }
+               ]
+            },
+            "country" : [
+               "GB"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "dr2.dr.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 2/4 .",
+               "onscreen" : "Afsnit 3 af 4"
+            },
+            "previously_shown" : "dr2.dr.dk|2018-03-31 16:15:00",
+            "stop" : "1522597200"
+         },
+         {
+            "stop" : "1522603800",
+            "episodeNum" : {
+               "xmltv_ns" : ". 3/4 .",
+               "onscreen" : "Afsnit 4 af 4"
+            },
+            "channel" : "dr2.dr.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "country" : [
+               "GB"
+            ],
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Biskop Waleran Bigod",
+                     "name" : "Ian McShane"
+                  },
+                  {
+                     "role" : "Tom Bygmester",
+                     "name" : "Rufus Sewell"
+                  }
+               ]
+            },
+            "new" : null,
+            "date" : "2010",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "start" : "1522597200",
+            "desc" : {
+               "da" : "Det lykkes Aliena at opspore Jack i Frankrig, og sammen tager de tilbage til England, hvor Jack vil fors\u00f8ge at f\u00e6rdigg\u00f8re Tom Bygmesters katedral. Snart genforenes Jack med sin mor, Ellen, der afsl\u00f8rer, hvem det var, der myrdede hans far. Prior Philip: Matthew Macfadyen. Manuskript: John Pielmeier efter Ken Folletts roman. Instruktion: Sergio Mimica-Gezzan."
+            },
+            "title" : {
+               "da" : "Ken Folletts Jordens s\u00f8jler"
+            }
+         },
+         {
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "1999",
+            "url" : [
+               "http://www.themoviedb.org/movie/497"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "Den gr\u00f8nne mil"
+            },
+            "rating" : {
+               "stars" : "8.3 / 10"
+            },
+            "desc" : {
+               "da" : "Paul Edgecomb er vagt p\u00e5 d\u00f8dsgangen, og han har f\u00f8rt mange indsatte ud p\u00e5 deres livs sidste g\u00e5tur. Men Paul har aldrig f\u00f8r sendt nogen i den elektriske stol som John Coffey, en gigantisk, sort mand, der er d\u00f8mt til d\u00f8den for det brutale mord p\u00e5 to sm\u00e5 hvide piger. Paul indser, at der gemmer sig en ualmindelig blid mand bag det barske ydre. Og efterh\u00e5nden begynder han at tvivle p\u00e5, at Coffey er skyidig. John Coffey: Michael Clarke Duncan."
+            },
+            "start" : "1522603800",
+            "stop" : "1522614600",
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "David Valdes"
+                  },
+                  {
+                     "name" : "Frank Darabont"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Frank Darabont"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Paul Edgecomb",
+                     "name" : "Tom Hanks"
+                  },
+                  {
+                     "role" : "John Coffey",
+                     "name" : "Michael Clarke Duncan"
+                  },
+                  {
+                     "name" : "David Morse",
+                     "role" : "Brutus \"Brutal\" Howell"
+                  },
+                  {
+                     "role" : "Jan Edgecomb",
+                     "name" : "Bonnie Hunt"
+                  },
+                  {
+                     "role" : "Warden Hal Moores",
+                     "name" : "James Cromwell"
+                  },
+                  {
+                     "name" : "Patricia Clarkson",
+                     "role" : "Melinda Moores"
+                  },
+                  {
+                     "name" : "Michael Jeter",
+                     "role" : "Eduard Delacroix"
+                  },
+                  {
+                     "role" : "'Wild Bill' Wharton",
+                     "name" : "Sam Rockwell"
+                  },
+                  {
+                     "role" : "Arlen Bitterbuck",
+                     "name" : "Graham Greene"
+                  },
+                  {
+                     "role" : "Percy Wetmore",
+                     "name" : "Doug Hutchison"
+                  },
+                  {
+                     "name" : "Barry Pepper",
+                     "role" : "Dean Stanton"
+                  },
+                  {
+                     "role" : "Harry Terwilliger",
+                     "name" : "Jeffrey DeMunn"
+                  },
+                  {
+                     "role" : "Toot-Toot",
+                     "name" : "Harry Dean Stanton"
+                  },
+                  {
+                     "name" : "Gary Sinise",
+                     "role" : "Lawyer Burt Hammersmith"
+                  },
+                  {
+                     "name" : "Dabbs Greer",
+                     "role" : "Old Paul Edgecomb"
+                  },
+                  {
+                     "role" : "Elaine Connelly",
+                     "name" : "Eve Brent"
+                  },
+                  {
+                     "role" : "Klaus Detterick",
+                     "name" : "William Sadler"
+                  },
+                  {
+                     "role" : "Orderly Hector",
+                     "name" : "Mack Miles"
+                  },
+                  {
+                     "role" : "Man in Nursing Home",
+                     "name" : "Rai Tasco"
+                  },
+                  {
+                     "name" : "Paula Malcomson",
+                     "role" : "Marjorie Detterick"
+                  },
+                  {
+                     "role" : "Sheriff McGee",
+                     "name" : "Brian Libby"
+                  },
+                  {
+                     "name" : "Brent Briscoe",
+                     "role" : "Bill Dodge"
+                  },
+                  {
+                     "role" : "Jack Van Hay",
+                     "name" : "Bill McKinney"
+                  },
+                  {
+                     "name" : "Rachel Singer",
+                     "role" : "Cynthia Hammersmith"
+                  },
+                  {
+                     "role" : "Hammersmith's Son",
+                     "name" : "Scotty Leavenworth"
+                  },
+                  {
+                     "name" : "Bill Gratton",
+                     "role" : "Earl the Plumber"
+                  },
+                  {
+                     "role" : "Woman at Del's Execution",
+                     "name" : "Dee Croxton"
+                  },
+                  {
+                     "name" : "Rebecca Klingler",
+                     "role" : "Wife at Del's Execution"
+                  },
+                  {
+                     "role" : "Husband at Del's Execution",
+                     "name" : "Gary Imhoff"
+                  },
+                  {
+                     "name" : "Van Epperson",
+                     "role" : "Police Officer"
+                  },
+                  {
+                     "role" : "Police Photographer (uncredited)",
+                     "name" : "Phil Hawn"
+                  },
+                  {
+                     "name" : "Ted Hollis",
+                     "role" : "Coffee Execution Witness (uncredited)"
+                  },
+                  {
+                     "role" : "Tower Guard (uncredited)",
+                     "name" : "Robert Malone"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Frank Darabont"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Fantasy",
+                  "Drama",
+                  "Crime"
+               ]
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/497"
+            },
+            "channel" : "dr2.dr.dk"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "country" : [
+               "DK"
+            ],
+            "channel" : "dr2.dr.dk",
+            "stop" : "1522616400",
+            "title" : {
+               "da" : "Deadline"
+            },
+            "start" : "1522614600",
+            "desc" : {
+               "da" : "Udfordrende og overraskende perspektiver p\u00e5 dagens og tidens v\u00e6sentligste historier."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2018",
+            "new" : null
+         },
+         {
+            "rating" : {
+               "stars" : "6.4 / 10"
+            },
+            "desc" : {
+               "da" : "Riggs og Murtaugh er sporet af den tidligere politimand Jack Travis i en sag om stj\u00e5lne v\u00e5ben, mens de fors\u00f8ger at ryste den stadig lige ut\u00e5lelige Leo Getz af sig. Mens Murtaugh ser frem til sin snarlige pension, fors\u00f8ger Riggs at holde op med at ryge, skyde fumleg\u00e6ngere og g\u00f8re indtryk p\u00e5 en kvindelig betjent, som er umulig at imponere. Dertil skal han bruge en pakke hundekiks og en lille h\u00e5ndfuld skuds\u00e5r."
+            },
+            "start" : "1522616400",
+            "title" : {
+               "da" : "D\u00f8dbringende v\u00e5ben 3"
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/943"
+            ],
+            "new" : null,
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "1992",
+            "channel" : "dr2.dr.dk",
+            "episodeNum" : {
+               "themoviedb.org" : "movie/943"
+            },
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Richard Donner"
+                  },
+                  {
+                     "name" : "Joel Silver"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Mel Gibson",
+                     "role" : "Martin Riggs"
+                  },
+                  {
+                     "name" : "Danny Glover",
+                     "role" : "Roger Murtaugh"
+                  },
+                  {
+                     "name" : "Joe Pesci",
+                     "role" : "Leo Getz"
+                  },
+                  {
+                     "name" : "Rene Russo",
+                     "role" : "Lorna Cole"
+                  },
+                  {
+                     "name" : "Stuart Wilson",
+                     "role" : "Jack Travis"
+                  },
+                  {
+                     "name" : "Steve Kahan",
+                     "role" : "Captain Ed Murphy"
+                  },
+                  {
+                     "role" : "Stephanie Woods",
+                     "name" : "Mary Ellen Trainor"
+                  },
+                  {
+                     "role" : "Trish Murtaugh",
+                     "name" : "Darlene Love"
+                  },
+                  {
+                     "name" : "Traci Wolfe",
+                     "role" : "Rianne Murtaugh"
+                  },
+                  {
+                     "name" : "Ebonie Smith",
+                     "role" : "Carrie Murtaugh"
+                  },
+                  {
+                     "role" : "Nick Murtaugh",
+                     "name" : "Damon Hines"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Richard Donner"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Jeffrey Boam"
+                  },
+                  {
+                     "name" : "Robert Mark Kamen"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Adventure",
+                  "Action",
+                  "Comedy",
+                  "Thriller",
+                  "Crime"
+               ]
+            },
+            "stop" : "1522623300"
+         },
+         {
+            "episodeNum" : {
+               "themoviedb.org" : "movie/19265"
+            },
+            "channel" : "dr2.dr.dk",
+            "country" : [
+               "FR",
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Comedy",
+                  "Romance"
+               ]
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Woody Allen"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Boris Yellnikoff",
+                     "name" : "Larry David"
+                  },
+                  {
+                     "role" : "Melodie St. Ann Celestine",
+                     "name" : "Evan Rachel Wood"
+                  },
+                  {
+                     "role" : "Boris' Friend #1",
+                     "name" : "Adam Brooks"
+                  },
+                  {
+                     "role" : "Joe - Boris' Friend #3",
+                     "name" : "Michael McKean"
+                  },
+                  {
+                     "role" : "Boris' Friend #2",
+                     "name" : "Lyle Kanouse"
+                  },
+                  {
+                     "role" : "Jessica",
+                     "name" : "Carolyn McCormick"
+                  },
+                  {
+                     "name" : "John Gallagher Jr.",
+                     "role" : "Perry"
+                  },
+                  {
+                     "name" : "Conleth Hill",
+                     "role" : "Leo Brockman"
+                  },
+                  {
+                     "name" : "Nicole Patrick",
+                     "role" : "Perry's Friend"
+                  },
+                  {
+                     "role" : "Marietta",
+                     "name" : "Patricia Clarkson"
+                  },
+                  {
+                     "role" : "Randy James",
+                     "name" : "Henry Cavill"
+                  },
+                  {
+                     "role" : "Morgenstern",
+                     "name" : "Olek Krupa"
+                  },
+                  {
+                     "name" : "Ed Begley Jr.",
+                     "role" : "John"
+                  },
+                  {
+                     "name" : "Christopher Evan Welch",
+                     "role" : "Howard"
+                  },
+                  {
+                     "name" : "Jessica Hecht",
+                     "role" : "Helena"
+                  },
+                  {
+                     "role" : "Melodie Club Friend #3",
+                     "name" : "Kristen Ruhlin"
+                  },
+                  {
+                     "role" : "Boy's Mother",
+                     "name" : "Yolonda Ross"
+                  },
+                  {
+                     "role" : "Chess Mother",
+                     "name" : "Samantha Bee"
+                  },
+                  {
+                     "role" : "Chess Girl",
+                     "name" : "Willa Cuthrell-Tuttleman"
+                  },
+                  {
+                     "role" : "Cafe Waitress",
+                     "name" : "Julie Basem"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Letty Aronson"
+                  },
+                  {
+                     "name" : "Stephen Tenenbaum"
+                  }
+               ]
+            },
+            "stop" : "1522628700",
+            "rating" : {
+               "stars" : "6.9 / 10"
+            },
+            "start" : "1522623300",
+            "desc" : {
+               "da" : "Den midaldrende newyorker Boris er en uforbederlig pessimist, der ikke ved noget bedre end at brokke sig over livets meningsl\u00f8shed og menneskehedens idioti. Boris bor alene efter en skilsmisse, og han har ingen planer om nogen sinde at finde sammen med en kvinde igen. S\u00e5 det kommer som noget af en overraskelse, ikke mindst for Boris selv, da den sarkastiske gnavpot falder for den naive, optimistiske sydstatspige Melody. Melody: Evan Rachel Wood. Marietta: Patricia Clarkson."
+            },
+            "title" : {
+               "da" : "Mig og Melody"
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/19265"
+            ],
+            "new" : null,
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2009"
+         }
+      ]
+   }
+}

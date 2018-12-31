@@ -1,0 +1,865 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "stop" : "1522890000",
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "date" : "2014",
+            "desc" : {
+               "da" : "Nat-tv bes\u00f8ger nogle af de mange Midt- og Vestjyder, der hver nat m\u00e5 m\u00f8de p\u00e5 arbejde. Nat-tv bes\u00f8ger alt fra mejeristerne til bageren og natteravnene. I nat fra Bang og Olufsen i Struer"
+            },
+            "start" : "1522886400",
+            "title" : {
+               "da" : "Nattv: Bang og Olufsen"
+            }
+         },
+         {
+            "stop" : "1522904700",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk",
+            "date" : "2015",
+            "new" : null,
+            "title" : {
+               "da" : "Foredrag: Menneskets sprog"
+            },
+            "desc" : {
+               "da" : "Hvor stammer sproget fra, og hvorfor har det udviklet sig gennem tiderne, filosoferer lektor p\u00e5 Skive gymnasium, Niels-Henrik Buchtrup over. Foredraget var arrangeret af Skive Gymnasium & HF i 2015."
+            },
+            "start" : "1522890000"
+         },
+         {
+            "title" : {
+               "da" : "Nyheder og Affaldssortering i Viborg"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1522904700",
+            "desc" : {
+               "da" : "Nyheder Affaldssortering i Viborg Borgerne i Viborg kommune skal g\u00e5 fra skraldes\u00e6kke til at sortere deres skrald i forskellige containere derhjemme. 80.000 nye containere skal ud til borgerne og en omfattende oplysningskampagne er sat i gang."
+            },
+            "channel" : "tvmidtvest.dk",
+            "stop" : "1522906200",
+            "new" : null
+         },
+         {
+            "title" : {
+               "da" : "\u00c5lens Mysterium"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1522906200",
+            "channel" : "tvmidtvest.dk",
+            "stop" : "1522908000",
+            "new" : null
+         },
+         {
+            "new" : null,
+            "stop" : "1522909800",
+            "channel" : "tvmidtvest.dk",
+            "start" : "1522908000",
+            "desc" : {
+               "da" : "Fodboldmagasin. Dan S\u00f8rensen har hver uge aktuelle fodbold-g\u00e6ster i studiet. 4-4-2 kigger tilbage p\u00e5 Superligaens forrige runde og frem mod den kommende runde."
+            },
+            "title" : {
+               "da" : "Fodboldmagasinet 4-4-2"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk",
+            "stop" : "1522911600",
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "desc" : {
+               "da" : "De seneste uger og m\u00e5neder har journalist Thomas Uhrskov bes\u00f8gt 20 forskellige idr\u00e6tsklubber for at finde ud af, hvad det er for et f\u00e6llesskab, der hersker i dem. Det er blevet til programserien \"Min Klub\", som bliver sendt p\u00e5 TV 2 Lorry. H\u00f8r om Thomas' oplevelser i dag, n\u00e5r han er Henriette Honor\u00e9s medv\u00e6rt, og m\u00f8d ogs\u00e5 \"Kantmaskerne\" fra Or\u00f8, hvis kombination af strik og velg\u00f8renhed efterh\u00e5nden har spredt sig til hele Danmark."
+            },
+            "start" : "1522909800",
+            "date" : "2018",
+            "new" : null
+         },
+         {
+            "stop" : "1522913100",
+            "new" : null,
+            "title" : {
+               "da" : "Nyheder og Affaldssortering i Viborg"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1522911600",
+            "desc" : {
+               "da" : "Nyheder Affaldssortering i Viborg Borgerne i Viborg kommune skal g\u00e5 fra skraldes\u00e6kke til at sortere deres skrald i forskellige containere derhjemme. 80.000 nye containere skal ud til borgerne og en omfattende oplysningskampagne er sat i gang."
+            },
+            "channel" : "tvmidtvest.dk"
+         },
+         {
+            "channel" : "tvmidtvest.dk",
+            "start" : "1522913100",
+            "title" : {
+               "da" : "\u00c5lens Mysterium"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522914900"
+         },
+         {
+            "desc" : {
+               "da" : "Fodboldmagasin. Dan S\u00f8rensen har hver uge aktuelle fodbold-g\u00e6ster i studiet. 4-4-2 kigger tilbage p\u00e5 Superligaens forrige runde og frem mod den kommende runde."
+            },
+            "start" : "1522914900",
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Fodboldmagasinet 4-4-2"
+            },
+            "new" : null,
+            "stop" : "1522916700"
+         },
+         {
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "desc" : {
+               "da" : "De seneste uger og m\u00e5neder har journalist Thomas Uhrskov bes\u00f8gt 20 forskellige idr\u00e6tsklubber for at finde ud af, hvad det er for et f\u00e6llesskab, der hersker i dem. Det er blevet til programserien \"Min Klub\", som bliver sendt p\u00e5 TV 2 Lorry. H\u00f8r om Thomas' oplevelser i dag, n\u00e5r han er Henriette Honor\u00e9s medv\u00e6rt, og m\u00f8d ogs\u00e5 \"Kantmaskerne\" fra Or\u00f8, hvis kombination af strik og velg\u00f8renhed efterh\u00e5nden har spredt sig til hele Danmark."
+            },
+            "start" : "1522916700",
+            "date" : "2018",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk",
+            "stop" : "1522918500"
+         },
+         {
+            "stop" : "1522918800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 af 8",
+               "xmltv_ns" : ". 3/8 ."
+            },
+            "channel" : "tvmidtvest.dk",
+            "new" : null,
+            "title" : {
+               "da" : "Fangstgaranti"
+            },
+            "start" : "1522918500",
+            "desc" : {
+               "da" : "Normalt er det med krog og stang, n\u00e5r lystfiskerne i Fangstgaranti tager p\u00e5 tur. Men i aften er de taget afsted uden st\u00e6nger for at afpr\u00f8ve en helt speciel teknik. Og det er selv for en fiskeekspert en sv\u00e6r opgave."
+            }
+         },
+         {
+            "new" : null,
+            "stop" : "1522920600",
+            "channel" : "tvmidtvest.dk",
+            "start" : "1522918800",
+            "desc" : {
+               "da" : "N\u00e5r det handler om anciennitet i Folketinget er der i nyere tid ingen i Midt- og Vestjylland, der overg\u00e5r Kristian Jensen! Den 11. marts kan Finansminister Kristian Jensen fejre sit 20-\u00e5rs jubil\u00e6um som folketingsmedlem. For Venstre-manden fra Herning er karrieren stort set kun g\u00e5et opad. Men p\u00e5 hjemmefronten har de mange politiske ambitioner haft en pris."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Kristian Jensen - 20 \u00e5r p\u00e5 Tinge"
+            }
+         },
+         {
+            "new" : null,
+            "date" : "2018",
+            "desc" : {
+               "da" : "Spil golf i nogenlunde samme rammer, som de professionelle. Vi er med til \u00e5rets DA Masters i Marokko. En turnering for klubgolffere fra hele Danmark."
+            },
+            "start" : "1522920600",
+            "title" : {
+               "da" : "Golfmagasinet - DA Masters 2018"
+            },
+            "stop" : "1522922400",
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "title" : {
+               "da" : "7 d\u00f8gn p\u00e5 hospice"
+            },
+            "start" : "1522922400",
+            "desc" : {
+               "da" : "Det eneste vi er sikre p\u00e5, n\u00e5r vi bliver f\u00f8dt er, at vi skal d\u00f8. Alligevel er d\u00f8den et tabu for mange. Men hvorfor er det egentlig s\u00e5dan? En fotograf og en journalist flyttede ind p\u00e5 Hospice Vendsyssel i 7 d\u00f8gn for at f\u00f8lge livet - og d\u00f8den - p\u00e5 n\u00e6rmeste hold. Det er der kommet 4 unikke programmer ud af. Tilrettel\u00e6ggelse: Jesper Bradsted og S\u00f8ren Broust Hansen"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/4 .",
+               "onscreen" : "Afsnit 1 af 4"
+            },
+            "stop" : "1522924200"
+         },
+         {
+            "stop" : "1522924500",
+            "new" : null,
+            "title" : {
+               "da" : "Nyheder"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Regionale Nyheder. F\u00e5 de seneste nyheder fra Midt- og Vestjylland. - Se mere p\u00e5 www.tvmidtvest.dk"
+            },
+            "start" : "1522924200",
+            "channel" : "tvmidtvest.dk"
+         },
+         {
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522926300",
+            "start" : "1522924500",
+            "desc" : {
+               "da" : "Hvor mon Fotovognen ender? Vi k\u00f8rer ud et tilf\u00e6ldigt sted og m\u00f8der de folk der bor der. Denne gang ender den i Bjerregrav."
+            },
+            "title" : {
+               "da" : "Fotovognen - Bjerregrav"
+            },
+            "new" : null,
+            "date" : "2018"
+         },
+         {
+            "stop" : "1522928100",
+            "channel" : "tvmidtvest.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8 af 10",
+               "xmltv_ns" : ". 7/10 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "start" : "1522926300",
+            "desc" : {
+               "da" : "Denne gang bes\u00f8ger vi f\u00f8rst Or\u00f8 i Isefjorden og bes\u00f8ger blandt andre \u00f8ens store kunstner. Videre til Sejer\u00f8. Her bor vi i husb\u00e5d og ser p\u00e5 flotte jyske heste."
+            },
+            "title" : {
+               "da" : "\u00d8-Hop"
+            }
+         },
+         {
+            "stop" : "1522929900",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 af 12",
+               "xmltv_ns" : ". 3/12 ."
+            },
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "date" : "2018",
+            "desc" : {
+               "da" : "Man kan sige det samme p\u00e5 mange forskellige m\u00e5der her i Danmark. Kom med i krinkelkrogene i det danske sprog, n\u00e5r Jylland og \u00f8erne t\u00f8rner sammen i en dyst, hvor det handler om at forvirre hinanden og hj\u00e6lpe hinanden gennem junglen af lokale udtryk, slang og dialekt. De tre jyder rapper Jonny Hefty, foredragsholder Gitte Hornsh\u00f8j og l\u00e6rer Anette Karkov k\u00e6mper for hovedlandet. P\u00e5 \u00f8-holdet samles det verbale skyts af musiker Jason Svendstorp , studerende Daniel Mieritz og Entertainer Bjarne Kure. V\u00e6rt er Sussi R\u00f8mer Rasmussen"
+            },
+            "start" : "1522928100",
+            "title" : {
+               "da" : "Sprogblomster - det sk\u00f8nne danske sprog"
+            }
+         },
+         {
+            "new" : null,
+            "date" : "1998",
+            "start" : "1522929900",
+            "desc" : {
+               "da" : "TV/MIDT-VEST retro giver dig alle dagens nyheder - som de var idag for 20 \u00e5r siden. Se eller gense de store og sm\u00e5 dramaer, der udspillede sig i det midt- og vestjyske for 20 \u00e5r siden."
+            },
+            "title" : {
+               "da" : "TV MIDTVEST Retro"
+            },
+            "stop" : "1522931700",
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522935300",
+            "desc" : {
+               "da" : "Joachim Seiler fort\u00e6ller om k\u00e6rlighedens forskellige udtryk op gennem historien. Han kommer bl.a. ind p\u00e5 k\u00e6rlighedsbegreberne romantik, stormende forelskelser og hverdagsk\u00e6rlighed. Foredraget er lavet i samarbejde med TALER\u00d8RET, som arrangerer foredrag med studerende p\u00e5 universitetet som til dagligt arbejder med den nyeste viden p\u00e5 et omr\u00e5de. Foredraget var arrangeret af Taler\u00f8ret og Herning Bibliotek i 2015."
+            },
+            "start" : "1522931700",
+            "title" : {
+               "da" : "Foredrag: Om k\u00e6rlighed"
+            },
+            "new" : null,
+            "date" : "2015"
+         },
+         {
+            "channel" : "tvmidtvest.dk",
+            "start" : "1522935300",
+            "desc" : {
+               "da" : "Metaldetektiverne er p\u00e5 ekspedition omkring landbrugsmuseet Skarregaard p\u00e5 Nordmors, hvor de is\u00e6r h\u00e5ber at finde sk\u00e6ftet fra et 3000 \u00e5r gammel bronzesv\u00e6rd. Klingen blev fundet af en landmand I 1982 - men museet mangler sk\u00e6ftet s\u00e5 de kan bestemme typen."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Metaldetektiverne: Sv\u00e6rdets Broderskab"
+            },
+            "new" : null,
+            "stop" : "1522937100"
+         },
+         {
+            "new" : null,
+            "date" : "2017",
+            "desc" : {
+               "da" : "Lauge Bonde er anl\u00e6gsgartner og entrepren\u00f8r. For\u00e5ret giver travlhed med b\u00e5de haver og anl\u00e6gsarbejde.Virksomheden startede i 1996, og har i dag over 20 ansatte."
+            },
+            "start" : "1522937100",
+            "title" : {
+               "da" : "Fast arbejde: Lauge Bonde i Borris"
+            },
+            "stop" : "1522937700",
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "new" : null,
+            "title" : {
+               "da" : "Piloteleverne"
+            },
+            "desc" : {
+               "da" : "Efter en rolig f\u00f8rste uge p\u00e5 Flyveskolen, er tempoet allerede steget og der er meget der skal l\u00e6res p\u00e5 kort tid. Eleverne skal i gang med at l\u00e6re de mange checks udenad og s\u00e5 skal de ud p\u00e5 deres f\u00f8rste tur hvis vejret tillader det."
+            },
+            "start" : "1522937700",
+            "stop" : "1522939500",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 8",
+               "xmltv_ns" : ". 1/8 ."
+            },
+            "channel" : "tvmidtvest.dk"
+         },
+         {
+            "new" : null,
+            "desc" : {
+               "da" : "Det eneste vi er sikre p\u00e5, n\u00e5r vi bliver f\u00f8dt er, at vi skal d\u00f8. Alligevel er d\u00f8den et tabu for mange. Men hvorfor er det egentlig s\u00e5dan? En fotograf og en journalist flyttede ind p\u00e5 Hospice Vendsyssel i 7 d\u00f8gn for at f\u00f8lge livet - og d\u00f8den - p\u00e5 n\u00e6rmeste hold. Det er der kommet 4 unikke programmer ud af. Tilrettel\u00e6ggelse: Jesper Bradsted og S\u00f8ren Broust Hansen"
+            },
+            "start" : "1522939500",
+            "title" : {
+               "da" : "7 d\u00f8gn p\u00e5 hospice"
+            },
+            "stop" : "1522941360",
+            "channel" : "tvmidtvest.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/4 .",
+               "onscreen" : "Afsnit 1 af 4"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Regionale Nyheder. F\u00e5 de seneste nyheder fra Midt- og Vestjylland. - Se mere p\u00e5 www.tvmidtvest.dk"
+            },
+            "start" : "1522941360",
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Nyheder"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522941600"
+         },
+         {
+            "start" : "1522941600",
+            "desc" : {
+               "da" : "De seneste uger og m\u00e5neder har journalist Thomas Uhrskov bes\u00f8gt 20 forskellige idr\u00e6tsklubber for at finde ud af, hvad det er for et f\u00e6llesskab, der hersker i dem. Det er blevet til programserien \"Min Klub\", som bliver sendt p\u00e5 TV 2 Lorry. H\u00f8r om Thomas' oplevelser i dag, n\u00e5r han er Henriette Honor\u00e9s medv\u00e6rt, og m\u00f8d ogs\u00e5 \"Kantmaskerne\" fra Or\u00f8, hvis kombination af strik og velg\u00f8renhed efterh\u00e5nden har spredt sig til hele Danmark."
+            },
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "new" : null,
+            "date" : "2018",
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522943400"
+         },
+         {
+            "stop" : "1522945200",
+            "new" : null,
+            "title" : {
+               "da" : "\u00c5lens Mysterium"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk",
+            "start" : "1522943400"
+         },
+         {
+            "desc" : {
+               "da" : "Regionale Nyheder. F\u00e5 de seneste nyheder fra Midt- og Vestjylland. - Se mere p\u00e5 www.tvmidtvest.dk"
+            },
+            "start" : "1522945200",
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Nyheder"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522945500"
+         },
+         {
+            "new" : null,
+            "stop" : "1522947300",
+            "desc" : {
+               "da" : "Fodboldmagasin. Dan S\u00f8rensen har hver uge aktuelle fodbold-g\u00e6ster i studiet. 4-4-2 kigger tilbage p\u00e5 Superligaens forrige runde og frem mod den kommende runde."
+            },
+            "start" : "1522945500",
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Fodboldmagasinet 4-4-2"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "stop" : "1522947600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 3/8 .",
+               "onscreen" : "Afsnit 4 af 8"
+            },
+            "channel" : "tvmidtvest.dk",
+            "new" : null,
+            "title" : {
+               "da" : "Fangstgaranti"
+            },
+            "start" : "1522947300",
+            "desc" : {
+               "da" : "Normalt er det med krog og stang, n\u00e5r lystfiskerne i Fangstgaranti tager p\u00e5 tur. Men i aften er de taget afsted uden st\u00e6nger for at afpr\u00f8ve en helt speciel teknik. Og det er selv for en fiskeekspert en sv\u00e6r opgave."
+            }
+         },
+         {
+            "desc" : {
+               "da" : "N\u00e5r det handler om anciennitet i Folketinget er der i nyere tid ingen i Midt- og Vestjylland, der overg\u00e5r Kristian Jensen! Den 11. marts kan Finansminister Kristian Jensen fejre sit 20-\u00e5rs jubil\u00e6um som folketingsmedlem. For Venstre-manden fra Herning er karrieren stort set kun g\u00e5et opad. Men p\u00e5 hjemmefronten har de mange politiske ambitioner haft en pris."
+            },
+            "start" : "1522947600",
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Kristian Jensen - 20 \u00e5r p\u00e5 Tinge"
+            },
+            "new" : null,
+            "stop" : "1522949400"
+         },
+         {
+            "stop" : "1522950900",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder og Sidste dag i Brugsen"
+            },
+            "desc" : {
+               "da" : "Nyheder Sidste dag i Brugsen De skilles efter 40 \u00e5r. Kirstine og Brugsen. Uddeleren i Kloster afslutter et langt arbejdsliv bag disken."
+            },
+            "start" : "1522949400",
+            "channel" : "tvmidtvest.dk"
+         },
+         {
+            "stop" : "1522952700",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 2/4 .",
+               "onscreen" : "Afsnit 3 af 4"
+            },
+            "channel" : "tvmidtvest.dk",
+            "new" : null,
+            "title" : {
+               "da" : "Thy, h\u00e5b og k\u00e6rlighed"
+            },
+            "start" : "1522950900",
+            "desc" : {
+               "da" : "P\u00e5 skulderen af Danmark ligger landsdelen Thy. En landsdel, der har m\u00e5ttet l\u00e6gge \u00f8re til megen snak om udkantsdanmark og r\u00e5dne bananer. Men stille og roligt \u00e6ndrer snakken sig. Nu er det hipt at bo i Thy, huspriserne stiger og b\u00f8lgerne er gode at surfe p\u00e5. I fire programmer m\u00f8der vi tilflyttere, fastboere og alle de andre, der har tre ting til f\u00e6lles: \"Thy, H\u00e5b & K\u00e6rlighed\". Tilrettel\u00e6ggelse: Jesper Bradsted"
+            }
+         },
+         {
+            "stop" : "1522954500",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk",
+            "date" : "2018",
+            "new" : null,
+            "title" : {
+               "da" : "Ugens g\u00e6st: Adoptivb\u00f8rns sv\u00e6re opv\u00e6kst"
+            },
+            "start" : "1522952700",
+            "desc" : {
+               "da" : "Som adoptivbarn fra Columbia f\u00f8lte hun sig som barn og igennem hele sin skoletid fremmedgjort. Nu har hun skrevet en bog, der skal skabe forst\u00e5else om at v\u00e6re adopteret og udsat for grov mobning."
+            }
+         },
+         {
+            "date" : "2018",
+            "new" : null,
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "start" : "1522954500",
+            "desc" : {
+               "da" : "Thomas Uhrskov er tilbage som Henriette Honor\u00e9s medv\u00e6rt, og i dag skal vi blandt andre m\u00f8de en mand, der er s\u00e5 stor fan af Tintin, at den lille figur har fulgt ham hele livet og endda medvirkede til, at han k\u00f8bte sit hus!"
+            },
+            "stop" : "1522956300",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk"
+         },
+         {
+            "new" : null,
+            "title" : {
+               "da" : "7 d\u00f8gn p\u00e5 hospice"
+            },
+            "desc" : {
+               "da" : "Det eneste vi er sikre p\u00e5, n\u00e5r vi bliver f\u00f8dt er, at vi skal d\u00f8. Alligevel er d\u00f8den et tabu for mange. Men hvorfor er det egentlig s\u00e5dan? En fotograf og en journalist flyttede ind p\u00e5 Hospice Vendsyssel i 7 d\u00f8gn for at f\u00f8lge livet - og d\u00f8den - p\u00e5 n\u00e6rmeste hold. Det er der kommet 4 unikke programmer ud af. Tilrettel\u00e6ggelse: Jesper Bradsted og S\u00f8ren Broust Hansen"
+            },
+            "start" : "1522956300",
+            "stop" : "1522958100",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 4",
+               "xmltv_ns" : ". 0/4 ."
+            },
+            "channel" : "tvmidtvest.dk"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk",
+            "stop" : "1522958700",
+            "title" : {
+               "da" : "Fast arbejde: Lauge Bonde i Borris"
+            },
+            "desc" : {
+               "da" : "Lauge Bonde er anl\u00e6gsgartner og entrepren\u00f8r. For\u00e5ret giver travlhed med b\u00e5de haver og anl\u00e6gsarbejde.Virksomheden startede i 1996, og har i dag over 20 ansatte."
+            },
+            "start" : "1522958100",
+            "date" : "2017",
+            "new" : null
+         },
+         {
+            "stop" : "1522959900",
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "date" : "2018",
+            "start" : "1522958700",
+            "desc" : {
+               "da" : "Direkte fra studiet i Aabybro byder vi p\u00e5 levende fjernsyn med n\u00e6rv\u00e6rende nordjyske reportager, aktuelle g\u00e6ster i studiet, dagens vigtigste historier fra Nordjylland og aktuelle emner til debat."
+            },
+            "title" : {
+               "da" : "Nyheder fra TV2/NORD"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "De sene regionale nyheder. F\u00e5 et overblik over det seneste nye fra Midt- og Vestjylland."
+            },
+            "start" : "1522959900",
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder"
+            },
+            "new" : null,
+            "stop" : "1522960500"
+         },
+         {
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522962300",
+            "desc" : {
+               "da" : "Som adoptivbarn fra Columbia f\u00f8lte hun sig som barn og igennem hele sin skoletid fremmedgjort. Nu har hun skrevet en bog, der skal skabe forst\u00e5else om at v\u00e6re adopteret og udsat for grov mobning."
+            },
+            "start" : "1522960500",
+            "title" : {
+               "da" : "Ugens g\u00e6st: Adoptivb\u00f8rns sv\u00e6re opv\u00e6kst"
+            },
+            "new" : null,
+            "date" : "2018"
+         },
+         {
+            "title" : {
+               "da" : "Nyheder og Sidste dag i Brugsen"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk",
+            "start" : "1522962300",
+            "desc" : {
+               "da" : "Nyheder Sidste dag i Brugsen De skilles efter 40 \u00e5r. Kirstine og Brugsen. Uddeleren i Kloster afslutter et langt arbejdsliv bag disken."
+            },
+            "stop" : "1522963800",
+            "new" : null
+         },
+         {
+            "channel" : "tvmidtvest.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 2/4 .",
+               "onscreen" : "Afsnit 3 af 4"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522965600",
+            "desc" : {
+               "da" : "P\u00e5 skulderen af Danmark ligger landsdelen Thy. En landsdel, der har m\u00e5ttet l\u00e6gge \u00f8re til megen snak om udkantsdanmark og r\u00e5dne bananer. Men stille og roligt \u00e6ndrer snakken sig. Nu er det hipt at bo i Thy, huspriserne stiger og b\u00f8lgerne er gode at surfe p\u00e5. I fire programmer m\u00f8der vi tilflyttere, fastboere og alle de andre, der har tre ting til f\u00e6lles: \"Thy, H\u00e5b & K\u00e6rlighed\". Tilrettel\u00e6ggelse: Jesper Bradsted"
+            },
+            "start" : "1522963800",
+            "title" : {
+               "da" : "Thy, h\u00e5b og k\u00e6rlighed"
+            },
+            "new" : null
+         },
+         {
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522967400",
+            "desc" : {
+               "da" : "Thomas Uhrskov er tilbage som Henriette Honor\u00e9s medv\u00e6rt, og i dag skal vi blandt andre m\u00f8de en mand, der er s\u00e5 stor fan af Tintin, at den lille figur har fulgt ham hele livet og endda medvirkede til, at han k\u00f8bte sit hus!"
+            },
+            "start" : "1522965600",
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "new" : null,
+            "date" : "2018"
+         },
+         {
+            "stop" : "1522969200",
+            "new" : null,
+            "title" : {
+               "da" : "Metaldetektiverne: Sv\u00e6rdets Broderskab"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1522967400",
+            "desc" : {
+               "da" : "Metaldetektiverne er p\u00e5 ekspedition omkring landbrugsmuseet Skarregaard p\u00e5 Nordmors, hvor de is\u00e6r h\u00e5ber at finde sk\u00e6ftet fra et 3000 \u00e5r gammel bronzesv\u00e6rd. Klingen blev fundet af en landmand I 1982 - men museet mangler sk\u00e6ftet s\u00e5 de kan bestemme typen."
+            },
+            "channel" : "tvmidtvest.dk"
+         },
+         {
+            "date" : "2015",
+            "new" : null,
+            "title" : {
+               "da" : "Foredrag: Om k\u00e6rlighed"
+            },
+            "desc" : {
+               "da" : "Joachim Seiler fort\u00e6ller om k\u00e6rlighedens forskellige udtryk op gennem historien. Han kommer bl.a. ind p\u00e5 k\u00e6rlighedsbegreberne romantik, stormende forelskelser og hverdagsk\u00e6rlighed. Foredraget er lavet i samarbejde med TALER\u00d8RET, som arrangerer foredrag med studerende p\u00e5 universitetet som til dagligt arbejder med den nyeste viden p\u00e5 et omr\u00e5de. Foredraget var arrangeret af Taler\u00f8ret og Herning Bibliotek i 2015."
+            },
+            "start" : "1522969200",
+            "stop" : "1522972800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk"
+         }
+      ]
+   }
+}

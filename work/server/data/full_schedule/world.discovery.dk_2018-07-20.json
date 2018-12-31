@@ -1,0 +1,1205 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "subTitle" : {
+               "da" : "Abu Dhabi"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=72702&seasonid=182281&id=1631991&lid=10"
+            ],
+            "rating" : {
+               "stars" : "7.7 / 9"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "6 . 6 .",
+               "thetvdb.com" : "series/72702",
+               "onscreen" : "Afsnit 7 s\u00e6son 7"
+            },
+            "desc" : {
+               "da" : "Danny tager til Indien for at se p\u00e5 et af landets mest ambiti\u00f8se projekter nogensinde - udvidelsen af Mumbai lufthavn, som vil l\u00f8be op i 2 mia. dollar."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "date" : "2003",
+            "stop" : "1532048400",
+            "new" : null,
+            "start" : "1532045700",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Joseph Giotta"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Extreme Engineering"
+            },
+            "channel" : "world.discovery.dk"
+         },
+         {
+            "subTitle" : {
+               "da" : "Cannon Balls/Dream Ruger"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=252571&seasonid=475938&id=4206297&lid=10"
+            ],
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 6 .",
+               "onscreen" : "Afsnit 7 s\u00e6son 1",
+               "thetvdb.com" : "series/252571"
+            },
+            "desc" : {
+               "da" : "De ligner en typisk forstadsfamilie, men Wyatt-familien ejer Gunsmoke - en af verdens f\u00f8rende skydev\u00e5benvirksomheder. Se med, n\u00e5r Rich og Renee k\u00f8ber, s\u00e6lger og handler v\u00e5ben."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "date" : "2011",
+            "stop" : "1532051100",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Renee Wyatt"
+                  },
+                  {
+                     "name" : "Rich Wyatt"
+                  },
+                  {
+                     "name" : "Paige Wyatt"
+                  },
+                  {
+                     "name" : "Kurt Wyatt"
+                  }
+               ]
+            },
+            "start" : "1532048400",
+            "title" : {
+               "da" : "American Guns"
+            },
+            "channel" : "world.discovery.dk"
+         },
+         {
+            "date" : "2014",
+            "stop" : "1532053800",
+            "new" : null,
+            "start" : "1532051100",
+            "channel" : "world.discovery.dk",
+            "title" : {
+               "da" : "Codes and Conspiracies"
+            },
+            "subTitle" : {
+               "da" : "Ancient Astronauts"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=279034&seasonid=613752&id=5148710&lid=10"
+            ],
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 2",
+               "thetvdb.com" : "series/279034",
+               "xmltv_ns" : "1 . 2 ."
+            },
+            "desc" : {
+               "da" : "Blev pyramiderne bygget med hj\u00e6lp fra rumv\u00e6sener? Eller kan tanken om 'forhistoriske astronauter' f\u00f8res tilbage til Erich von D\u00e4niken, hvis b\u00f8ger udforder religion og videnskab?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "date" : "2010",
+            "stop" : "1532056500",
+            "start" : "1532053800",
+            "new" : null,
+            "channel" : "world.discovery.dk",
+            "title" : {
+               "da" : "HMS Ark Royal"
+            },
+            "subTitle" : {
+               "da" : "Episode 1"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=252103&seasonid=474894&id=4177012&lid=10"
+            ],
+            "desc" : {
+               "da" : "HMS Ark Royal drager ud p\u00e5 en fem m\u00e5neder lang mission for at f\u00f8re en international taskforce tv\u00e6rs over Atlanterhavet i den st\u00f8rste fl\u00e5deoperation i fredstid i et \u00e5rti."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "thetvdb.com" : "series/252103"
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 6 .",
+               "onscreen" : "Afsnit 7 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Nature"
+               ]
+            },
+            "desc" : {
+               "da" : "Tatoveringsantropolog Lars Krutak finder ud af, hvad der ligger bag kropsudsmykningsritualer. Fra kannibaler til krigere: Lars afsl\u00f8rer disse unikke kulturer, f\u00f8r de forsvinder."
+            },
+            "subTitle" : {
+               "da" : "Brazil"
+            },
+            "start" : "1532056500",
+            "new" : null,
+            "title" : {
+               "da" : "Tattoo Hunter"
+            },
+            "channel" : "world.discovery.dk",
+            "stop" : "1532059200"
+         },
+         {
+            "subTitle" : {
+               "da" : "Russia"
+            },
+            "rating" : {
+               "stars" : "8.2 / 9"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=79668&seasonid=16908&id=316136&lid=10"
+            ],
+            "desc" : {
+               "da" : "Anthony Bourdain er i Hong Kong for at udforske dens kulinariske gl\u00e6der. Han opdager snart, at den farverige og pulserende by sp\u00e6nder over et unikt miks af tradition og fornyelse."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 4 .",
+               "onscreen" : "Afsnit 5 s\u00e6son 3",
+               "thetvdb.com" : "series/79668"
+            },
+            "date" : "2005",
+            "stop" : "1532061900",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Himself - Host",
+                     "name" : "Anthony Bourdain"
+                  },
+                  {
+                     "name" : "Zamir Gotta"
+                  }
+               ]
+            },
+            "start" : "1532059200",
+            "channel" : "world.discovery.dk",
+            "title" : {
+               "da" : "Anthony Bourdain: No Reservations"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Tatoveringsantropolog Lars Krutak finder ud af, hvad der ligger bag kropsudsmykningsritualer. Fra kannibaler til krigere: Lars afsl\u00f8rer disse unikke kulturer, f\u00f8r de forsvinder."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Nature"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "subTitle" : {
+               "da" : "Hawaii"
+            },
+            "channel" : "world.discovery.dk",
+            "title" : {
+               "da" : "Tattoo Hunter"
+            },
+            "start" : "1532061900",
+            "new" : null,
+            "stop" : "1532064600"
+         },
+         {
+            "subTitle" : {
+               "da" : "Hallandsas Ridge Tunnel: Sweden"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=72702&seasonid=16986&id=316971&lid=10"
+            ],
+            "rating" : {
+               "stars" : "7.7 / 9"
+            },
+            "desc" : {
+               "da" : "Den nye tunnel gennem Andesbjergene skal forbedre landbrugets muligheder i det vestlige Peru. Danny unders\u00f8ger planerne, der vil \u00e6ndre tilv\u00e6relsen for mange."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "4 . 5 .",
+               "onscreen" : "Afsnit 6 s\u00e6son 5",
+               "thetvdb.com" : "series/72702"
+            },
+            "date" : "2003",
+            "stop" : "1532067300",
+            "new" : null,
+            "start" : "1532064600",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Joseph Giotta"
+                  }
+               ]
+            },
+            "channel" : "world.discovery.dk",
+            "title" : {
+               "da" : "Extreme Engineering"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "P\u00e5 h\u00f8jdepunktet af Den Kolde Krig fors\u00f8gte USA at skabe en generation af 'supersoldater', der skulle bruge telepati til at vinde kampe."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 5 .",
+               "thetvdb.com" : "series/279034",
+               "onscreen" : "Afsnit 6 s\u00e6son 2"
+            },
+            "subTitle" : {
+               "da" : "Experimental Soldiers"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=279034&seasonid=613752&id=5167884&lid=10"
+            ],
+            "start" : "1532067300",
+            "new" : null,
+            "channel" : "world.discovery.dk",
+            "title" : {
+               "da" : "Codes and Conspiracies"
+            },
+            "date" : "2014",
+            "stop" : "1532070000"
+         },
+         {
+            "new" : null,
+            "start" : "1532070000",
+            "title" : {
+               "da" : "Origins"
+            },
+            "channel" : "world.discovery.dk",
+            "stop" : "1532071200",
+            "desc" : {
+               "da" : "Udforsk historierne bag hundredevis af verdens mest betydningsfulde opdagelser, objekter og ideer. Denne gang med den tophemmelige historie om intelligens-bureauerne."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 19 s\u00e6son 2",
+               "xmltv_ns" : "1 . 18 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Nature"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Episode 19"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Wayne markedsf\u00f8rer og s\u00e6lger Porsche Special Hill Climb-bilen. F\u00f8rst tager han den med til Hershey Hill Climb-l\u00f8bet, og derefter s\u00e6lger han den p\u00e5 auktion."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "4 . 19 .",
+               "thetvdb.com" : "series/172181",
+               "onscreen" : "Afsnit 20 s\u00e6son 5"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=172181&seasonid=489341&id=4436120&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "Still Racy"
+            },
+            "title" : {
+               "da" : "Chasing Classic Cars"
+            },
+            "channel" : "world.discovery.dk",
+            "new" : null,
+            "start" : "1532071200",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "star",
+                     "name" : "Wayne Carini"
+                  }
+               ]
+            },
+            "stop" : "1532072700",
+            "date" : "2008"
+         },
+         {
+            "subTitle" : {
+               "da" : "Los Angeles"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=79668&seasonid=16908&id=316137&lid=10"
+            ],
+            "rating" : {
+               "stars" : "8.2 / 9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 5 .",
+               "thetvdb.com" : "series/79668",
+               "onscreen" : "Afsnit 6 s\u00e6son 3"
+            },
+            "desc" : {
+               "da" : "F\u00f8lg kokken Anthony Bourdain p\u00e5 hans rejse gennem Fransk Polynesien. Han opdager, at Tahiti har mere at byde p\u00e5, end man f\u00f8rst tror, bl.a. beretninger om kannibalisme."
+            },
+            "date" : "2005",
+            "stop" : "1532075400",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Himself - Host",
+                     "name" : "Anthony Bourdain"
+                  },
+                  {
+                     "name" : "Jerry Stahl"
+                  }
+               ]
+            },
+            "new" : null,
+            "start" : "1532072700",
+            "title" : {
+               "da" : "Anthony Bourdain: No Reservations"
+            },
+            "channel" : "world.discovery.dk"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Nature"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Tatoveringsantropolog Lars Krutak finder ud af, hvad der ligger bag kropsudsmykningsritualer. Fra kannibaler til krigere: Lars afsl\u00f8rer disse unikke kulturer, f\u00f8r de forsvinder."
+            },
+            "subTitle" : {
+               "da" : "Philippines"
+            },
+            "start" : "1532075400",
+            "new" : null,
+            "title" : {
+               "da" : "Tattoo Hunter"
+            },
+            "channel" : "world.discovery.dk",
+            "stop" : "1532078100"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Oplev arkitekturens fremtid i Abu Dhabi's forbl\u00f8ffende strandprojekt Al Raha til 500 milliarder dollars, hvor bygherrerne byggede p\u00e5 land indvundet fra havet."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7 s\u00e6son 7",
+               "thetvdb.com" : "series/72702",
+               "xmltv_ns" : "6 . 6 ."
+            },
+            "rating" : {
+               "stars" : "7.7 / 9"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=72702&seasonid=182281&id=1631991&lid=7"
+            ],
+            "subTitle" : {
+               "da" : "Abu Dhabi"
+            },
+            "title" : {
+               "da" : "Extreme Engineering"
+            },
+            "channel" : "world.discovery.dk",
+            "new" : null,
+            "start" : "1532078100",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Joseph Giotta"
+                  }
+               ]
+            },
+            "stop" : "1532080800",
+            "date" : "2003"
+         },
+         {
+            "date" : "2014",
+            "stop" : "1532083500",
+            "start" : "1532080800",
+            "new" : null,
+            "channel" : "world.discovery.dk",
+            "title" : {
+               "da" : "Codes and Conspiracies"
+            },
+            "subTitle" : {
+               "da" : "Founding Fathers"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=279034&seasonid=613752&id=5133618&lid=10"
+            ],
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 2",
+               "thetvdb.com" : "series/279034"
+            },
+            "desc" : {
+               "da" : "Hvorfor var Las Vegas et af nazisternes sabotagem\u00e5l, afpr\u00f8vningssted for atombomber samt m\u00f8dested for 9/11-terrorister? H\u00f8r om byens hemmeligheder."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Top Ten Fighting Ships"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Nature"
+               ]
+            },
+            "desc" : {
+               "da" : "Forbl\u00f8ffende statistik og utrolige arkivfilm g\u00f8r dette til 'drenge-tv' for voksne. Her er en top ti over alle verdens krigsskibe."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 2",
+               "xmltv_ns" : "1 . 2 ."
+            },
+            "stop" : "1532086200",
+            "start" : "1532083500",
+            "new" : null,
+            "channel" : "world.discovery.dk",
+            "title" : {
+               "da" : "Top Tens"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Episode 19"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Nature"
+               ]
+            },
+            "desc" : {
+               "da" : "Udforsk historierne bag hundredevis af verdens mest betydningsfulde opdagelser, objekter og ideer. Denne gang med den tophemmelige historie om intelligens-bureauerne."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 18 .",
+               "onscreen" : "Afsnit 19 s\u00e6son 2"
+            },
+            "stop" : "1532087400",
+            "title" : {
+               "da" : "Origins"
+            },
+            "channel" : "world.discovery.dk",
+            "new" : null,
+            "start" : "1532086200"
+         },
+         {
+            "subTitle" : {
+               "da" : "Still Racy"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=172181&seasonid=489341&id=4436120&lid=10"
+            ],
+            "episodeNum" : {
+               "xmltv_ns" : "4 . 19 .",
+               "thetvdb.com" : "series/172181",
+               "onscreen" : "Afsnit 20 s\u00e6son 5"
+            },
+            "desc" : {
+               "da" : "Wayne markedsf\u00f8rer og s\u00e6lger Porsche Special Hill Climb-bilen. F\u00f8rst tager han den med til Hershey Hill Climb-l\u00f8bet, og derefter s\u00e6lger han den p\u00e5 auktion."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "date" : "2008",
+            "stop" : "1532088900",
+            "new" : null,
+            "start" : "1532087400",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Wayne Carini",
+                     "role" : "star"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Chasing Classic Cars"
+            },
+            "channel" : "world.discovery.dk"
+         },
+         {
+            "stop" : "1532091600",
+            "date" : "2005",
+            "channel" : "world.discovery.dk",
+            "title" : {
+               "da" : "Anthony Bourdain: No Reservations"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Anthony Bourdain",
+                     "role" : "Himself - Host"
+                  },
+                  {
+                     "name" : "Norman Van Aken"
+                  }
+               ]
+            },
+            "new" : null,
+            "start" : "1532088900",
+            "rating" : {
+               "stars" : "8.2 / 9"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=79668&seasonid=16907&id=316118&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "South Florida"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 2 .",
+               "thetvdb.com" : "series/79668",
+               "onscreen" : "Afsnit 3 s\u00e6son 2"
+            },
+            "desc" : {
+               "da" : "I 'Anthony Bourdain: ingen reservationer' bringer rejsen ham frem til mennesker og steder, hvor det ikke kun handler om mad - fra Island til New Zealand og fra Paris til New York."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "stop" : "1532094300",
+            "title" : {
+               "da" : "Tattoo Hunter"
+            },
+            "channel" : "world.discovery.dk",
+            "new" : null,
+            "start" : "1532091600",
+            "subTitle" : {
+               "da" : "Thailand"
+            },
+            "desc" : {
+               "da" : "Tatoveringsantropolog Lars Krutak finder ud af, hvad der ligger bag kropsudsmykningsritualer. Fra kannibaler til krigere: Lars afsl\u00f8rer disse unikke kulturer, f\u00f8r de forsvinder."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Nature"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 1",
+               "xmltv_ns" : "0 . 2 ."
+            }
+         },
+         {
+            "stop" : "1532097000",
+            "date" : "2003",
+            "channel" : "world.discovery.dk",
+            "title" : {
+               "da" : "Extreme Engineering"
+            },
+            "new" : null,
+            "start" : "1532094300",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Joseph Giotta"
+                  }
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=72702&seasonid=182281&id=3120801&lid=7"
+            ],
+            "rating" : {
+               "stars" : "7.7 / 9"
+            },
+            "subTitle" : {
+               "da" : "NASA"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Kom med bag kulisserne, og f\u00e5 et enest\u00e5ende glimt af de nyeste modeller udviklet af NASA. Ares er en ny futuristisk raket, der skal revolutionere rumforskningen."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8 s\u00e6son 7",
+               "thetvdb.com" : "series/72702",
+               "xmltv_ns" : "6 . 7 ."
+            }
+         },
+         {
+            "date" : "2014",
+            "stop" : "1532099700",
+            "new" : null,
+            "start" : "1532097000",
+            "title" : {
+               "da" : "Codes and Conspiracies"
+            },
+            "channel" : "world.discovery.dk",
+            "subTitle" : {
+               "da" : "American Nazis"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=279034&seasonid=613752&id=5142135&lid=10"
+            ],
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 1 .",
+               "thetvdb.com" : "series/279034",
+               "onscreen" : "Afsnit 2 s\u00e6son 2"
+            },
+            "desc" : {
+               "da" : "Amerikanske nazister terroriserede USA i 1930'erne - lige fra storm\u00f8der i Madison Square Garden til sammensv\u00e6rgelser om at stj\u00e6le hemmelige oplysninger om landets krigsv\u00e5ben."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Army"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=128741&seasonid=157181&id=1409571&lid=10"
+            ],
+            "desc" : {
+               "da" : "Se de avancerede tr\u00e6ningsteknikker, der g\u00f8r helt almindelige m\u00e6nd til intelligente, opfindsomme soldater, og hvad det kr\u00e6ver at blive en af de v\u00e6bnede styrkers bedste snigskytter."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Reality",
+                  "Special Interest"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "thetvdb.com" : "series/128741",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            },
+            "date" : "2009",
+            "stop" : "1532102400",
+            "new" : null,
+            "start" : "1532099700",
+            "channel" : "world.discovery.dk",
+            "title" : {
+               "da" : "Modern Sniper"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Udforsk historierne bag hundredevis af verdens mest betydningsfulde opdagelser, objekter og ideer. Denne gang h\u00f8rer vi swimmingpoolens historie."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Nature"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 20 s\u00e6son 2",
+               "xmltv_ns" : "1 . 19 ."
+            },
+            "subTitle" : {
+               "da" : "Episode 20"
+            },
+            "start" : "1532102400",
+            "new" : null,
+            "title" : {
+               "da" : "Origins"
+            },
+            "channel" : "world.discovery.dk",
+            "stop" : "1532103600"
+         },
+         {
+            "stop" : "1532105100",
+            "date" : "2008",
+            "channel" : "world.discovery.dk",
+            "title" : {
+               "da" : "Chasing Classic Cars"
+            },
+            "start" : "1532103600",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Wayne Carini",
+                     "role" : "star"
+                  }
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=172181&seasonid=489341&id=4436121&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "Horse Trading"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "desc" : {
+               "da" : "Waynes kunde m\u00e5 vinke farvel til sin elskede Cadillac fra 30'erne. Han er dog ikke helt klar til at stille k\u00f8reskoene og udfordrer Wayne til at finde den perfekte Model A til ham."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "4 . 20 .",
+               "onscreen" : "Afsnit 21 s\u00e6son 5",
+               "thetvdb.com" : "series/172181"
+            }
+         },
+         {
+            "date" : "2005",
+            "stop" : "1532107800",
+            "start" : "1532105100",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Himself - Host",
+                     "name" : "Anthony Bourdain"
+                  },
+                  {
+                     "name" : "Chuck Palahniuk"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Anthony Bourdain: No Reservations"
+            },
+            "channel" : "world.discovery.dk",
+            "subTitle" : {
+               "da" : "Pacific Northwest"
+            },
+            "rating" : {
+               "stars" : "8.2 / 9"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=79668&seasonid=16908&id=316134&lid=10"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Reality"
+               ]
+            },
+            "desc" : {
+               "da" : "Anthony Bourdain elsker New Yorks pulserende liv, men han er bange for, at byen er blevet for turistet. Sammen med Andrew Zimmern genopdager han dog magien i denne betonjungle."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 3",
+               "thetvdb.com" : "series/79668",
+               "xmltv_ns" : "2 . 2 ."
+            }
+         },
+         {
+            "new" : null,
+            "start" : "1532107800",
+            "channel" : "world.discovery.dk",
+            "title" : {
+               "da" : "Tattoo Hunter"
+            },
+            "stop" : "1532110500",
+            "desc" : {
+               "da" : "Tatoveringsantropolog Lars Krutak finder ud af, hvad der ligger bag kropsudsmykningsritualer. Fra kannibaler til krigere: Lars afsl\u00f8rer disse unikke kulturer, f\u00f8r de forsvinder."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 7 .",
+               "onscreen" : "Afsnit 8 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Nature"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Benin"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Extreme Engineering"
+            },
+            "channel" : "world.discovery.dk",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Joseph Giotta"
+                  }
+               ]
+            },
+            "start" : "1532110500",
+            "stop" : "1532113200",
+            "date" : "2003",
+            "episodeNum" : {
+               "xmltv_ns" : "6 . 7 .",
+               "thetvdb.com" : "series/72702",
+               "onscreen" : "Afsnit 8 s\u00e6son 7"
+            },
+            "desc" : {
+               "da" : "Danny tager til Tyrkiet, hvor de er ved at opf\u00f8re en af de h\u00f8jeste og st\u00e6rkeste d\u00e6mninger nogensinde midt i landets mest udfordrende terr\u00e6n."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=72702&seasonid=182281&id=3120801&lid=10"
+            ],
+            "rating" : {
+               "stars" : "7.7 / 9"
+            },
+            "subTitle" : {
+               "da" : "NASA"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Nature"
+               ]
+            },
+            "title" : {
+               "da" : "Disaster on K2"
+            },
+            "desc" : {
+               "da" : "K2, jordens andeth\u00f8jeste bjerg, bliver sidste stop for mange bjergbestigere. I 2008 blev syv klatrere fanget n\u00e6r toppen. Se deres utrolige historie."
+            },
+            "channel" : "world.discovery.dk",
+            "start" : "1532113200",
+            "new" : null,
+            "stop" : "1532115900"
+         },
+         {
+            "new" : null,
+            "start" : "1532115900",
+            "title" : {
+               "da" : "Mega Beasts"
+            },
+            "channel" : "world.discovery.dk",
+            "date" : "2009",
+            "stop" : "1532118600",
+            "desc" : {
+               "da" : "Den st\u00f8rste og ondeste fugl, der nogensinde har h\u00e6rget planeten, er \"terrorfuglen\", som brugte sit 45 cm lange n\u00e6b til at smadre sine ofres hoveder og slugte k\u00e6mpegnavere i \u00e9n bid."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Mini"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "thetvdb.com" : "series/264001",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "subTitle" : {
+               "da" : "Terror Bird"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=264001&seasonid=505054&id=4434111&lid=10"
+            ]
+         },
+         {
+            "stop" : "1532121300",
+            "date" : "2010",
+            "channel" : "world.discovery.dk",
+            "title" : {
+               "da" : "HMS Ark Royal"
+            },
+            "new" : null,
+            "start" : "1532118600",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=252103&seasonid=474894&id=4177013&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "Episode 2"
+            },
+            "desc" : {
+               "da" : "Flere dage inde i togtet beordrer premierministeren HMS Ark Royal til at komme britiske passagerer til unds\u00e6tning, der er fanget i kaosset fra den islandske vulkan i udbrud."
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/252103",
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "xmltv_ns" : "0 . 1 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "stop" : "1532124000",
+            "date" : "2003",
+            "channel" : "world.discovery.dk",
+            "title" : {
+               "da" : "Extreme Engineering"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Joseph Giotta"
+                  }
+               ]
+            },
+            "new" : null,
+            "start" : "1532121300",
+            "rating" : {
+               "stars" : "7.7 / 9"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=72702&seasonid=182281&id=3120801&lid=7"
+            ],
+            "subTitle" : {
+               "da" : "NASA"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8 s\u00e6son 7",
+               "thetvdb.com" : "series/72702",
+               "xmltv_ns" : "6 . 7 ."
+            },
+            "desc" : {
+               "da" : "Kom med bag kulisserne, og f\u00e5 et enest\u00e5ende glimt af de nyeste modeller udviklet af NASA. Ares er en ny futuristisk raket, der skal revolutionere rumforskningen."
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Episode 20"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 20 s\u00e6son 2",
+               "xmltv_ns" : "1 . 19 ."
+            },
+            "desc" : {
+               "da" : "Udforsk historierne bag hundredevis af verdens mest betydningsfulde opdagelser, objekter og ideer. Denne gang h\u00f8rer vi swimmingpoolens historie."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Nature"
+               ]
+            },
+            "stop" : "1532125200",
+            "new" : null,
+            "start" : "1532124000",
+            "channel" : "world.discovery.dk",
+            "title" : {
+               "da" : "Origins"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 21 s\u00e6son 5",
+               "thetvdb.com" : "series/172181",
+               "xmltv_ns" : "4 . 20 ."
+            },
+            "desc" : {
+               "da" : "Waynes kunde m\u00e5 vinke farvel til sin elskede Cadillac fra 30'erne. Han er dog ikke helt klar til at stille k\u00f8reskoene og udfordrer Wayne til at finde den perfekte Model A til ham."
+            },
+            "subTitle" : {
+               "da" : "Horse Trading"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=172181&seasonid=489341&id=4436121&lid=10"
+            ],
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Wayne Carini",
+                     "role" : "star"
+                  }
+               ]
+            },
+            "start" : "1532125200",
+            "title" : {
+               "da" : "Chasing Classic Cars"
+            },
+            "channel" : "world.discovery.dk",
+            "date" : "2008",
+            "stop" : "1532126700"
+         },
+         {
+            "rating" : {
+               "stars" : "8.2 / 9"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=79668&seasonid=16908&id=316134&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "Pacific Northwest"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 3",
+               "thetvdb.com" : "series/79668",
+               "xmltv_ns" : "2 . 2 ."
+            },
+            "desc" : {
+               "da" : "Anthony Bourdain elsker New Yorks pulserende liv, men han er bange for, at byen er blevet for turistet. Sammen med Andrew Zimmern genopdager han dog magien i denne betonjungle."
+            },
+            "stop" : "1532129400",
+            "date" : "2005",
+            "channel" : "world.discovery.dk",
+            "title" : {
+               "da" : "Anthony Bourdain: No Reservations"
+            },
+            "start" : "1532126700",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Himself - Host",
+                     "name" : "Anthony Bourdain"
+                  },
+                  {
+                     "name" : "Chuck Palahniuk"
+                  }
+               ]
+            }
+         },
+         {
+            "stop" : "1532132100",
+            "title" : {
+               "da" : "Tattoo Hunter"
+            },
+            "channel" : "world.discovery.dk",
+            "new" : null,
+            "start" : "1532129400",
+            "subTitle" : {
+               "da" : "Benin"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 7 .",
+               "onscreen" : "Afsnit 8 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Tatoveringsantropolog Lars Krutak finder ud af, hvad der ligger bag kropsudsmykningsritualer. Fra kannibaler til krigere: Lars afsl\u00f8rer disse unikke kulturer, f\u00f8r de forsvinder."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Nature"
+               ]
+            }
+         }
+      ]
+   }
+}

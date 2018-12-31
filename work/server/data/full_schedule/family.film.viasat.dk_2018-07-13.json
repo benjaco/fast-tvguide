@@ -1,0 +1,1396 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "episodeNum" : {
+               "themoviedb.org" : "movie/12569"
+            },
+            "country" : [
+               "US"
+            ],
+            "date" : "2009",
+            "channel" : "family.film.viasat.dk",
+            "title" : {
+               "da" : "Extract"
+            },
+            "stop" : "1531450800",
+            "new" : null,
+            "start" : "1531443600",
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "John Altschuler"
+                  },
+                  {
+                     "name" : "Michael Rotenberg"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Mike Judge"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Joel",
+                     "name" : "Jason Bateman"
+                  },
+                  {
+                     "name" : "Mila Kunis",
+                     "role" : "Cindy"
+                  },
+                  {
+                     "role" : "Suzie",
+                     "name" : "Kristen Wiig"
+                  },
+                  {
+                     "name" : "Ben Affleck",
+                     "role" : "Dean"
+                  },
+                  {
+                     "name" : "J.K. Simmons",
+                     "role" : "Brian"
+                  },
+                  {
+                     "role" : "Step",
+                     "name" : "Clifton Collins Jr."
+                  },
+                  {
+                     "name" : "Dustin Milligan",
+                     "role" : "Brad"
+                  },
+                  {
+                     "role" : "Nathan",
+                     "name" : "David Koechner"
+                  },
+                  {
+                     "name" : "Beth Grant",
+                     "role" : "Mary"
+                  },
+                  {
+                     "role" : "Rory",
+                     "name" : "T.J. Miller"
+                  },
+                  {
+                     "name" : "Javier Guti\u00e9rrez",
+                     "role" : "Hector"
+                  },
+                  {
+                     "role" : "Gabriella",
+                     "name" : "Lidia Porto"
+                  },
+                  {
+                     "name" : "Gene Simmons",
+                     "role" : "Joe Adler"
+                  },
+                  {
+                     "name" : "Matt Schulze",
+                     "role" : "Willie"
+                  },
+                  {
+                     "name" : "Lamberto Gutierrez",
+                     "role" : "Victor"
+                  },
+                  {
+                     "role" : "Phil",
+                     "name" : "Brent Briscoe"
+                  },
+                  {
+                     "name" : "Hal Sparks",
+                     "role" : "Guitar Salesman #1"
+                  },
+                  {
+                     "role" : "Guitar Salesman #2",
+                     "name" : "Nick Thune"
+                  },
+                  {
+                     "role" : "Guitar Customer",
+                     "name" : "Tom Virtue"
+                  },
+                  {
+                     "name" : "Christopher Rocha",
+                     "role" : "Pawn Shop Guy"
+                  },
+                  {
+                     "role" : "Joel's Secretary",
+                     "name" : "Jenny O'Hara"
+                  },
+                  {
+                     "name" : "Gary Cole",
+                     "role" : "Bar Patron (uncredited)"
+                  },
+                  {
+                     "role" : "Jim (uncredited)",
+                     "name" : "Mike Judge"
+                  },
+                  {
+                     "role" : "Bar Patron (uncredited)",
+                     "name" : "Briston Meeney"
+                  },
+                  {
+                     "role" : "Lawyer (uncredited)",
+                     "name" : "Marilyn Monrovia"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Mike Judge"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Joel ejer en fabrik, der laver planteudtr\u00e6k, og pr\u00f8ver at f\u00e5 styr p\u00e5 utallige personlige og arbejdsrelaterede problemer - deriblandt, at hans hustru m\u00e5ske er ham utro, og at nogle af hans ansatte ser ud til at ville udnytte ham."
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Comedy"
+               ]
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/12569"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "rating" : {
+               "stars" : "5.8 / 10"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/458787"
+            ],
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Onkel Georg",
+                     "name" : "Brian Lykke"
+                  },
+                  {
+                     "name" : "Luca Reichardt Ben Coker",
+                     "role" : "Bertram"
+                  },
+                  {
+                     "name" : "Alfred Bjerre Larsen",
+                     "role" : "Anders"
+                  },
+                  {
+                     "role" : "Winni",
+                     "name" : "Mette Svane Pedersen"
+                  },
+                  {
+                     "role" : "Oskar",
+                     "name" : "Samuel Hallas"
+                  },
+                  {
+                     "name" : "Anders Brink Madsen",
+                     "role" : "Far"
+                  },
+                  {
+                     "name" : "Therese Damsgaard",
+                     "role" : "Mor"
+                  },
+                  {
+                     "role" : "Bernards far",
+                     "name" : "Kristian Ibler"
+                  },
+                  {
+                     "role" : "Bernard",
+                     "name" : "Cornelius M\u00fcller"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Frederik Meldal N\u00f8rgaard"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Frederik Meldal N\u00f8rgaard"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Comedy",
+                  "Crime",
+                  "Family"
+               ]
+            },
+            "desc" : {
+               "da" : "Bertram og hans s\u00f8skende kommer altid i problemer, takket v\u00e6re deres h\u00e5bl\u00f8se - men charmerende - onkel. Lille Bertram er den yngste i en s\u00f8skendeflok af fire. Deres far er arbejdsl\u00f8s og tidligere kriminel - og Bertrams onkel George er en bondefanger, der altid er p\u00e5 udkig efter \"smarte\" m\u00e5der at tjene penge p\u00e5. Hans seneste plan er, at familien skal kidnappe en ung mands s\u00f8n og kr\u00e6ve l\u00f8sepenge. Desv\u00e6rre kidnapper de det forkerte barn, og derfra g\u00e5r alt galt."
+            },
+            "start" : "1531450800",
+            "new" : null,
+            "stop" : "1531458000",
+            "title" : {
+               "da" : "Kidnapning"
+            },
+            "country" : [
+               "DK"
+            ],
+            "date" : "2017",
+            "channel" : "family.film.viasat.dk",
+            "episodeNum" : {
+               "themoviedb.org" : "movie/458787"
+            }
+         },
+         {
+            "episodeNum" : {
+               "themoviedb.org" : "movie/69246"
+            },
+            "country" : [
+               "NO"
+            ],
+            "date" : "2010",
+            "channel" : "family.film.viasat.dk",
+            "title" : {
+               "da" : "Asfaltenglene"
+            },
+            "start" : "1531458000",
+            "new" : null,
+            "stop" : "1531465200",
+            "desc" : {
+               "da" : "Der er ferie. 12-\u00e5rige Maja, Rikke og Ohna har store ambitioner om ikke at l\u00f8fte en finger denne sommer, men s\u00e5 finder politiet narko skjult i Ohnas families restaurant, Saigon House. Den er lukket, og Ohnas storebror bliver arresteret. Pigerne ved, at han er uskyldig, men han kan ikke komme ud af f\u00e6ngslet, inden narkokartellet bliver afsl\u00f8ret. Det er lige en sag for Asfaltenglene."
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Lars Berg"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Nini Bakke Kristiansen",
+                     "role" : "Rikke"
+                  },
+                  {
+                     "name" : "Helene Nybr\u00e5ten",
+                     "role" : "Ohna"
+                  },
+                  {
+                     "role" : "Maja",
+                     "name" : "Emma H\u00f8gh \u00c5slein"
+                  },
+                  {
+                     "name" : "Edward Schultheiss",
+                     "role" : "Sverre"
+                  },
+                  {
+                     "role" : "Abrahamsen",
+                     "name" : "Kristin Skogheim"
+                  },
+                  {
+                     "name" : "Jeff Ranara",
+                     "role" : "Chang"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Family",
+                  "Adventure"
+               ]
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/69246"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Comedy",
+                  "Family",
+                  "Drama"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Rikke",
+                     "name" : "Ellen Hillings\u00f8"
+                  },
+                  {
+                     "name" : "Nicolaj Kopernikus",
+                     "role" : "Leif"
+                  },
+                  {
+                     "name" : "Allan Olsen",
+                     "role" : "Allan"
+                  },
+                  {
+                     "role" : "B\u00f8rnelokker",
+                     "name" : "S\u00f8ren Malling"
+                  },
+                  {
+                     "name" : "Elena Arndt-Jensen"
+                  },
+                  {
+                     "name" : "Nikolaj St\u00f8vring Hansen"
+                  },
+                  {
+                     "name" : "Jonathan Werner Juel"
+                  },
+                  {
+                     "name" : "Kristian Halken"
+                  },
+                  {
+                     "name" : "Paw Henriksen"
+                  },
+                  {
+                     "name" : "Ulla Henningsen"
+                  },
+                  {
+                     "name" : "Lars Knutzon"
+                  },
+                  {
+                     "name" : "Laura Rihan"
+                  },
+                  {
+                     "name" : "David Petersen"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Charlotte Sachs Bostrup"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Den 10-\u00e5rige Karla har et puslespil at l\u00e6gge. Hun vil s\u00e5 gerne holde jul sammen med hele sin familie, men det er ikke lige det letteste at f\u00e5 arrangeret - is\u00e6r ikke n\u00e5r man er skilsmissebarn og desuden har to totalt ut\u00e5lelige og opfindsomme lillebr\u00f8dre, der altid er ude p\u00e5 ballade."
+            },
+            "stop" : "1531472400",
+            "new" : null,
+            "start" : "1531465200",
+            "url" : [
+               "http://www.themoviedb.org/movie/46316"
+            ],
+            "title" : {
+               "da" : "Karlas kabale"
+            },
+            "country" : [
+               "DK"
+            ],
+            "channel" : "family.film.viasat.dk",
+            "date" : "2007",
+            "episodeNum" : {
+               "themoviedb.org" : "movie/46316"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Askepop - The Movie"
+            },
+            "channel" : "family.film.viasat.dk",
+            "country" : [
+               "DK"
+            ],
+            "date" : "2003",
+            "episodeNum" : {
+               "themoviedb.org" : "movie/78473"
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Comedy",
+                  "Family",
+                  "Musical"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Mille",
+                     "name" : "Sofie Lassen-Kahlke"
+                  },
+                  {
+                     "name" : "Karl Bille",
+                     "role" : "Topper"
+                  },
+                  {
+                     "role" : "Gabriel",
+                     "name" : "Henrik Prip"
+                  },
+                  {
+                     "name" : "Lars Lohmann",
+                     "role" : "Volle"
+                  },
+                  {
+                     "role" : "Johnny",
+                     "name" : "Joachim Knop"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Charlotte Sachs Bostrup"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "I denne musical-komedie m\u00f8der vi den unge Mille, der bor sammen med sin mor i 50'ernes Danmark. Mille dr\u00f8mmer om at blive musicalstjerne, og hendes fattige mor st\u00f8tter hende s\u00e5 godt som hun kan, med penge til sang - og danseundervisning. Vejen til toppen er dog b\u00e5de lang og kringlet, men heldigvis f\u00e5r Mille hj\u00e6lp af en god fe, Topper, og et par af himmelens engle!"
+            },
+            "new" : null,
+            "start" : "1531472400",
+            "stop" : "1531479600",
+            "url" : [
+               "http://www.themoviedb.org/movie/78473"
+            ]
+         },
+         {
+            "url" : [
+               "http://www.themoviedb.org/movie/131381"
+            ],
+            "new" : null,
+            "start" : "1531479600",
+            "stop" : "1531486800",
+            "desc" : {
+               "da" : "Jagten p\u00e5 de forsvundne kronjuveler leder Egon og vennerne til byen Kongsberg og dens royale miner. I Kongsberg tager intrigerne til for Egon og vennerne, efterh\u00e5nden som politi og forbrydere ankommer til byen."
+            },
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Roy Anderson"
+                  },
+                  {
+                     "name" : "Rune H. Trondsen"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Ola Isaac H\u00f8g\u00e5sen M\u00e6hlen",
+                     "role" : "Egon"
+                  },
+                  {
+                     "name" : "Robert Opsahl",
+                     "role" : "Kjell"
+                  },
+                  {
+                     "role" : "Benny",
+                     "name" : "Ole Martin W\u00f8lner"
+                  },
+                  {
+                     "name" : "Jacob Beranek Hvattum",
+                     "role" : "Dynamitt-Harry"
+                  },
+                  {
+                     "role" : "Valborg",
+                     "name" : "Maren Eikli Hjorth"
+                  },
+                  {
+                     "name" : "Tora Hagen Frogner",
+                     "role" : "Ingrid"
+                  },
+                  {
+                     "role" : "Herman",
+                     "name" : "Ole Martin Synnes"
+                  },
+                  {
+                     "role" : "Biffen",
+                     "name" : "Daniel Damvall"
+                  },
+                  {
+                     "role" : "Jonny",
+                     "name" : "Sindre Tveiten"
+                  },
+                  {
+                     "name" : "Jacob Vigeland",
+                     "role" : "Knut"
+                  },
+                  {
+                     "role" : "Preben von Klem",
+                     "name" : "Thomas Stenerud"
+                  },
+                  {
+                     "name" : "Jan Gr\u00f8nli",
+                     "role" : "Maximilian von Klem"
+                  },
+                  {
+                     "role" : "Monica von Klem",
+                     "name" : "Iren Reppen"
+                  },
+                  {
+                     "role" : "Gjertrud S\u00f8rensen",
+                     "name" : "Elisabeth Moberg"
+                  },
+                  {
+                     "role" : "Politioverbetjent Hermansen",
+                     "name" : "Anders Hatlo"
+                  },
+                  {
+                     "name" : "Johannes Joner",
+                     "role" : "Politif\u00f8rstebetjent Holm"
+                  },
+                  {
+                     "name" : "Kari Ann Gr\u00f8nsund",
+                     "role" : "Gudrun"
+                  },
+                  {
+                     "name" : "Trond Br\u00e6nne",
+                     "role" : "Bassefar"
+                  },
+                  {
+                     "role" : "Syvertsen",
+                     "name" : "Thor Michael Aamodt"
+                  },
+                  {
+                     "name" : "Stein Gr\u00f8nli",
+                     "role" : "L\u00e6rer Kvasshaug"
+                  },
+                  {
+                     "role" : "Tutta",
+                     "name" : "Thea Sofie Loch N\u00e6ss"
+                  },
+                  {
+                     "role" : "Hoffmarskalk K\u00e5e",
+                     "name" : "Ivar N\u00f8rve"
+                  },
+                  {
+                     "role" : "Fr\u00f8ken Pirkedal",
+                     "name" : "Tonie Lunde"
+                  },
+                  {
+                     "name" : "Jeppe Beck Laursen",
+                     "role" : "Feier"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Arne Lindtner N\u00e6ss"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Comedy",
+                  "Family"
+               ]
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/131381"
+            },
+            "country" : [
+               "NO"
+            ],
+            "channel" : "family.film.viasat.dk",
+            "date" : "2007",
+            "title" : {
+               "da" : "Olsenbanden Jr. S\u00f8lvgruvens hemmelighet"
+            }
+         },
+         {
+            "rating" : {
+               "stars" : "6.5 / 10"
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/12609"
+            ],
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Stefan Fjeldmark"
+                  },
+                  {
+                     "name" : "Karsten Kiilerich"
+                  },
+                  {
+                     "name" : "John Stefan Olsen"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Russell Boland"
+                  },
+                  {
+                     "name" : "Eberhard Junkersdorf"
+                  },
+                  {
+                     "name" : "Anders Mastrup"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Joe (voice)",
+                     "name" : "Alan Rickman"
+                  },
+                  {
+                     "role" : "Professor MacKrill (voice)",
+                     "name" : "Terry Jones"
+                  },
+                  {
+                     "role" : "Moderen (voice)",
+                     "name" : "Paprika Steen"
+                  },
+                  {
+                     "name" : "Morten Kern Nielsen"
+                  },
+                  {
+                     "name" : "Aaron Paul",
+                     "role" : "Chuck"
+                  },
+                  {
+                     "role" : "Fly",
+                     "name" : "Jeff Pace"
+                  },
+                  {
+                     "role" : "Shark",
+                     "name" : "David Bateson"
+                  },
+                  {
+                     "role" : "Sasha",
+                     "name" : "Louise Fribo"
+                  },
+                  {
+                     "role" : "Lisa / The Mother",
+                     "name" : "Teryl Rothery"
+                  },
+                  {
+                     "role" : "Aunt Anna",
+                     "name" : "Pauline Newstone"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Stefan Fjeldmark"
+                  },
+                  {
+                     "name" : "Michael Hegner"
+                  },
+                  {
+                     "name" : "Greg Manwaring"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "(Dansk tale) Efter en vild fisketur havner tre b\u00f8rn i en mystisk professors laboratorium. Professoren er ved at udvikle en mikstur, der vil g\u00f8re det muligt for mennesker at leve under vandet. Ved et uheld kommer et af b\u00f8rnene til at drikke eliksiren - og bliver forvandlet til en sv\u00e6rdfisk!"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Adventure",
+                  "Animation",
+                  "Comedy"
+               ]
+            },
+            "new" : null,
+            "stop" : "1531494000",
+            "start" : "1531486800",
+            "title" : {
+               "da" : "Hj\u00e6lp! Jeg er en fisk!"
+            },
+            "country" : [
+               "DK",
+               "IE",
+               "DE"
+            ],
+            "channel" : "family.film.viasat.dk",
+            "date" : "2000",
+            "episodeNum" : {
+               "themoviedb.org" : "movie/12609"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Family"
+               ]
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Malene Vilstrup"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Rose Marie Hermannsen",
+                     "role" : "Anna"
+                  },
+                  {
+                     "name" : "Katrine Schnoor",
+                     "role" : "Sharbat"
+                  },
+                  {
+                     "role" : "Jens",
+                     "name" : "Henrik Lykkegaard"
+                  },
+                  {
+                     "name" : "Claus Bue",
+                     "role" : "Niels"
+                  },
+                  {
+                     "name" : "Charlotte Munksgaard",
+                     "role" : "Bente"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Annas s\u00f8ster blev i et uheld dr\u00e6bt af hesten Zafir. Siden ulykken har hesten v\u00e6ret lukket inde i en lade, men Anna vil gerne ride p\u00e5 hesten, selvom hendes for\u00e6ldre s\u00e6tter sig imod."
+            },
+            "new" : null,
+            "stop" : "1531501200",
+            "start" : "1531494000",
+            "url" : [
+               "http://www.themoviedb.org/movie/21289"
+            ],
+            "title" : {
+               "da" : "Zafir"
+            },
+            "date" : "2003",
+            "country" : [
+               "DK"
+            ],
+            "channel" : "family.film.viasat.dk",
+            "episodeNum" : {
+               "themoviedb.org" : "movie/21289"
+            }
+         },
+         {
+            "url" : [
+               "http://www.themoviedb.org/movie/458787"
+            ],
+            "stop" : "1531508400",
+            "new" : null,
+            "start" : "1531501200",
+            "desc" : {
+               "da" : "Bertram og hans s\u00f8skende kommer altid i problemer, takket v\u00e6re deres h\u00e5bl\u00f8se - men charmerende - onkel. Lille Bertram er den yngste i en s\u00f8skendeflok af fire. Deres far er arbejdsl\u00f8s og tidligere kriminel - og Bertrams onkel George er en bondefanger, der altid er p\u00e5 udkig efter \"smarte\" m\u00e5der at tjene penge p\u00e5. Hans seneste plan er, at familien skal kidnappe en ung mands s\u00f8n og kr\u00e6ve l\u00f8sepenge. Desv\u00e6rre kidnapper de det forkerte barn, og derfra g\u00e5r alt galt."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Brian Lykke",
+                     "role" : "Onkel Georg"
+                  },
+                  {
+                     "name" : "Luca Reichardt Ben Coker",
+                     "role" : "Bertram"
+                  },
+                  {
+                     "role" : "Anders",
+                     "name" : "Alfred Bjerre Larsen"
+                  },
+                  {
+                     "name" : "Mette Svane Pedersen",
+                     "role" : "Winni"
+                  },
+                  {
+                     "role" : "Oskar",
+                     "name" : "Samuel Hallas"
+                  },
+                  {
+                     "role" : "Far",
+                     "name" : "Anders Brink Madsen"
+                  },
+                  {
+                     "role" : "Mor",
+                     "name" : "Therese Damsgaard"
+                  },
+                  {
+                     "role" : "Bernards far",
+                     "name" : "Kristian Ibler"
+                  },
+                  {
+                     "role" : "Bernard",
+                     "name" : "Cornelius M\u00fcller"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Frederik Meldal N\u00f8rgaard"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Frederik Meldal N\u00f8rgaard"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Comedy",
+                  "Crime",
+                  "Family"
+               ]
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/458787"
+            },
+            "date" : "2017",
+            "country" : [
+               "DK"
+            ],
+            "channel" : "family.film.viasat.dk",
+            "title" : {
+               "da" : "Kidnapning"
+            }
+         },
+         {
+            "start" : "1531508400",
+            "new" : null,
+            "stop" : "1531515600",
+            "desc" : {
+               "da" : "En almindelig teenager i New York beslutter sig for at if\u00f8re sig et kostume og stoppe kriminaliteten. N\u00f8rden Dave Lizewski har ikke nogen s\u00e6rlige kr\u00e6fter - men det betyder ikke, at han ikke kan bek\u00e6mpe kriminalitet, n\u00e5r han er forkl\u00e6dt som helt. Snart bliver han en sensation, og inspirerer andre helte. Big Daddy og Hit-Girl er en duo, der ogs\u00e5 bek\u00e6mper kriminalitet, og som har mafiabossen Frank D'Amico p\u00e5 radaren. Da Franks m\u00e6nd g\u00e5r til angreb, er scenen sat for en omgang superhelte-action."
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Matthew Vaughn"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Aaron Taylor-Johnson",
+                     "role" : "Dave Lizewski / Kick-Ass"
+                  },
+                  {
+                     "name" : "Chlo\u00eb Grace Moretz",
+                     "role" : "Mindy Macready / Hit-Girl"
+                  },
+                  {
+                     "role" : "Chris D'Amico / Red Mist",
+                     "name" : "Christopher Mintz-Plasse"
+                  },
+                  {
+                     "role" : "Damon Macready / Big Daddy",
+                     "name" : "Nicolas Cage"
+                  },
+                  {
+                     "name" : "Mark Strong",
+                     "role" : "Frank D'Amico"
+                  },
+                  {
+                     "role" : "Marcus",
+                     "name" : "Omari Hardwick"
+                  },
+                  {
+                     "name" : "Xander Berkeley",
+                     "role" : "Detective Vic Gigante"
+                  },
+                  {
+                     "name" : "Clark Duke",
+                     "role" : "Marty"
+                  },
+                  {
+                     "name" : "Garrett M. Brown",
+                     "role" : "Mr. Lizewski"
+                  },
+                  {
+                     "name" : "Evan Peters",
+                     "role" : "Todd"
+                  },
+                  {
+                     "role" : "Mrs. Zane",
+                     "name" : "Deborah Twiss"
+                  },
+                  {
+                     "role" : "Katie Deauxma",
+                     "name" : "Lyndsy Fonseca"
+                  },
+                  {
+                     "name" : "Sophie Wu",
+                     "role" : "Erika Cho"
+                  },
+                  {
+                     "name" : "Elizabeth McGovern",
+                     "role" : "Mrs. Lizewski"
+                  },
+                  {
+                     "name" : "Stu 'Large' Riley",
+                     "role" : "Huge Goon"
+                  },
+                  {
+                     "role" : "Big Joe",
+                     "name" : "Michael Rispoli"
+                  },
+                  {
+                     "name" : "Corey Johnson",
+                     "role" : "Sporty Goon"
+                  },
+                  {
+                     "role" : "Scary Goon",
+                     "name" : "Kenneth Simmons"
+                  },
+                  {
+                     "role" : "Baby Goon",
+                     "name" : "Anthony Desio"
+                  },
+                  {
+                     "name" : "Randall Batinkoff",
+                     "role" : "Tre Fernandez"
+                  },
+                  {
+                     "name" : "Dexter Fletcher",
+                     "role" : "Cody"
+                  },
+                  {
+                     "role" : "Angie D'Amico",
+                     "name" : "Yancy Butler"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Craig Ferguson"
+                  },
+                  {
+                     "role" : "Lobby Goon",
+                     "name" : "Jason Flemyng"
+                  },
+                  {
+                     "role" : "Ginger Goon",
+                     "name" : "Adrian Martinez"
+                  },
+                  {
+                     "name" : "Joe Bacino",
+                     "role" : "Posh Goon"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Jane Goldman"
+                  },
+                  {
+                     "name" : "Matthew Vaughn"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Brad Pitt"
+                  },
+                  {
+                     "name" : "Adam Bohling"
+                  },
+                  {
+                     "name" : "Kris Thykier"
+                  },
+                  {
+                     "name" : "Matthew Vaughn"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Crime"
+               ]
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/23483"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "rating" : {
+               "stars" : "7.1 / 10"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/23483"
+            },
+            "channel" : "family.film.viasat.dk",
+            "country" : [
+               "GB",
+               "US"
+            ],
+            "date" : "2010",
+            "title" : {
+               "da" : "Kick-Ass"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Extract"
+            },
+            "channel" : "family.film.viasat.dk",
+            "country" : [
+               "US"
+            ],
+            "date" : "2009",
+            "episodeNum" : {
+               "themoviedb.org" : "movie/12569"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "rating" : {
+               "stars" : "5.8 / 10"
+            },
+            "desc" : {
+               "da" : "Joel ejer en fabrik, der laver planteudtr\u00e6k, og pr\u00f8ver at f\u00e5 styr p\u00e5 utallige personlige og arbejdsrelaterede problemer - deriblandt, at hans hustru m\u00e5ske er ham utro, og at nogle af hans ansatte ser ud til at ville udnytte ham."
+            },
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "John Altschuler"
+                  },
+                  {
+                     "name" : "Michael Rotenberg"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Mike Judge"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Mike Judge"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Jason Bateman",
+                     "role" : "Joel"
+                  },
+                  {
+                     "name" : "Mila Kunis",
+                     "role" : "Cindy"
+                  },
+                  {
+                     "name" : "Kristen Wiig",
+                     "role" : "Suzie"
+                  },
+                  {
+                     "name" : "Ben Affleck",
+                     "role" : "Dean"
+                  },
+                  {
+                     "role" : "Brian",
+                     "name" : "J.K. Simmons"
+                  },
+                  {
+                     "role" : "Step",
+                     "name" : "Clifton Collins Jr."
+                  },
+                  {
+                     "role" : "Brad",
+                     "name" : "Dustin Milligan"
+                  },
+                  {
+                     "name" : "David Koechner",
+                     "role" : "Nathan"
+                  },
+                  {
+                     "name" : "Beth Grant",
+                     "role" : "Mary"
+                  },
+                  {
+                     "role" : "Rory",
+                     "name" : "T.J. Miller"
+                  },
+                  {
+                     "name" : "Javier Guti\u00e9rrez",
+                     "role" : "Hector"
+                  },
+                  {
+                     "name" : "Lidia Porto",
+                     "role" : "Gabriella"
+                  },
+                  {
+                     "name" : "Gene Simmons",
+                     "role" : "Joe Adler"
+                  },
+                  {
+                     "role" : "Willie",
+                     "name" : "Matt Schulze"
+                  },
+                  {
+                     "name" : "Lamberto Gutierrez",
+                     "role" : "Victor"
+                  },
+                  {
+                     "name" : "Brent Briscoe",
+                     "role" : "Phil"
+                  },
+                  {
+                     "name" : "Hal Sparks",
+                     "role" : "Guitar Salesman #1"
+                  },
+                  {
+                     "role" : "Guitar Salesman #2",
+                     "name" : "Nick Thune"
+                  },
+                  {
+                     "role" : "Guitar Customer",
+                     "name" : "Tom Virtue"
+                  },
+                  {
+                     "role" : "Pawn Shop Guy",
+                     "name" : "Christopher Rocha"
+                  },
+                  {
+                     "name" : "Jenny O'Hara",
+                     "role" : "Joel's Secretary"
+                  },
+                  {
+                     "name" : "Gary Cole",
+                     "role" : "Bar Patron (uncredited)"
+                  },
+                  {
+                     "name" : "Mike Judge",
+                     "role" : "Jim (uncredited)"
+                  },
+                  {
+                     "name" : "Briston Meeney",
+                     "role" : "Bar Patron (uncredited)"
+                  },
+                  {
+                     "name" : "Marilyn Monrovia",
+                     "role" : "Lawyer (uncredited)"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Comedy"
+               ]
+            },
+            "stop" : "1531522800",
+            "new" : null,
+            "start" : "1531515600",
+            "url" : [
+               "http://www.themoviedb.org/movie/12569"
+            ]
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "rating" : {
+               "stars" : "5.7 / 10"
+            },
+            "stop" : "1531530000",
+            "new" : null,
+            "start" : "1531522800",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Adventure",
+                  "Comedy",
+                  "Drama",
+                  "Family",
+                  "Fantasy"
+               ]
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Jason Keller"
+                  },
+                  {
+                     "name" : "Marc Klein"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Bernie Goldmann"
+                  },
+                  {
+                     "name" : "Ryan Kavanaugh"
+                  },
+                  {
+                     "name" : "Ken Halsband"
+                  },
+                  {
+                     "name" : "Ajit Singh"
+                  },
+                  {
+                     "name" : "Nico Soultanakis"
+                  },
+                  {
+                     "name" : "Brett Ratner"
+                  },
+                  {
+                     "name" : "Andy Berman"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Evil Queen",
+                     "name" : "Julia Roberts"
+                  },
+                  {
+                     "name" : "Lily Collins",
+                     "role" : "Snow White"
+                  },
+                  {
+                     "role" : "Prince Andrew Alcott",
+                     "name" : "Armie Hammer"
+                  },
+                  {
+                     "name" : "Nathan Lane",
+                     "role" : "Brighton"
+                  },
+                  {
+                     "role" : "Butcher",
+                     "name" : "Martin Klebba"
+                  },
+                  {
+                     "name" : "Jordan Prentice",
+                     "role" : "Napoleon"
+                  },
+                  {
+                     "role" : "Half Pint",
+                     "name" : "Mark Povinelli"
+                  },
+                  {
+                     "name" : "Joe Gnoffo",
+                     "role" : "Grub"
+                  },
+                  {
+                     "name" : "Danny Woodburn",
+                     "role" : "Grimm"
+                  },
+                  {
+                     "role" : "Wolf",
+                     "name" : "Sebastian Saraceno"
+                  },
+                  {
+                     "role" : "Chuckles",
+                     "name" : "Ronald Lee Clark"
+                  },
+                  {
+                     "role" : "Charles Renbock",
+                     "name" : "Robert Emms"
+                  },
+                  {
+                     "name" : "Mare Winningham",
+                     "role" : "Baker Margaret"
+                  },
+                  {
+                     "name" : "Michael Lerner",
+                     "role" : "Baron"
+                  },
+                  {
+                     "role" : "King",
+                     "name" : "Sean Bean"
+                  },
+                  {
+                     "name" : "Bonnie Bentley",
+                     "role" : "Caroline"
+                  },
+                  {
+                     "role" : "Noble #1",
+                     "name" : "Arthur Holden"
+                  },
+                  {
+                     "name" : "Kwasi Songui",
+                     "role" : "Noble #2"
+                  },
+                  {
+                     "name" : "Eric Davis",
+                     "role" : "Noble #3"
+                  },
+                  {
+                     "name" : "Kathleen Fee",
+                     "role" : "Noble #4"
+                  },
+                  {
+                     "name" : "Nadia Verrucci",
+                     "role" : "Servant"
+                  },
+                  {
+                     "role" : "Townswoman / Old Lady",
+                     "name" : "Dawn Ford"
+                  },
+                  {
+                     "name" : "Alex Ivanovici",
+                     "role" : "Town Magistrate"
+                  },
+                  {
+                     "name" : "Richard Jutras",
+                     "role" : "Townsman"
+                  },
+                  {
+                     "role" : "Child",
+                     "name" : "M\u00e9lodie Simard"
+                  },
+                  {
+                     "role" : "Villager",
+                     "name" : "Kimberly-Sue Murray"
+                  },
+                  {
+                     "name" : "Lisa Roberts Gillan",
+                     "role" : "Mirror Queen"
+                  },
+                  {
+                     "role" : "Servant #2",
+                     "name" : "Adam Butcher"
+                  },
+                  {
+                     "name" : "Andr\u00e9 Lanthier",
+                     "role" : "Lord Waverly"
+                  },
+                  {
+                     "name" : "Lisa Noto",
+                     "role" : "Magical Cottage Queen"
+                  },
+                  {
+                     "role" : "Door Guard #1",
+                     "name" : "William Calvert"
+                  },
+                  {
+                     "name" : "Nicholas Guest",
+                     "role" : "Door Guard #2"
+                  },
+                  {
+                     "role" : "Mannequins / Beast (voice)",
+                     "name" : "Frank Welker"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Tarsem Singh"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "\"Eventyret om Snehvide - Lille spejl p\u00e5 v\u00e6ggen der\" er en humoristisk genfort\u00e6lling af legenden om Snehvide. Den fremadstormende Lily Collins spiller Snehvide, en prinsesse i eksil, mens Julia Roberts har rollen som den onde dronning, der styrer konged\u00f8mmet med n\u00e5del\u00f8s h\u00e5nd. Syv modige og rebelske dv\u00e6rge g\u00e5r sammen med Snehvide i kampen for at kr\u00e6ve kronen tilbage og vinde prinsens hjerte i en udspekuleret h\u00e6vnaktion. Armie Hammer og Nathan Lane er ligeledes blandt de medvirkende i denne magiske komedie, hvor b\u00e5de jalousi, romantik og svigt er i spil."
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/62764"
+            ],
+            "channel" : "family.film.viasat.dk",
+            "country" : [
+               "US"
+            ],
+            "date" : "2012",
+            "title" : {
+               "da" : "Eventyret om Snehvide - Lille spejl p\u00e5 v\u00e6ggen der"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/62764"
+            }
+         }
+      ]
+   }
+}

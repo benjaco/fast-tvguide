@@ -1,0 +1,1384 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "date" : "2013",
+            "desc" : {
+               "da" : "Elvis, Johnny og de andre r\u00f8dder."
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1522555200",
+            "title" : {
+               "da" : "Conrad og Bernhard"
+            },
+            "new" : null,
+            "stop" : "1522555800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "date" : "2013",
+            "title" : {
+               "da" : "Conrad og Bernhard"
+            },
+            "desc" : {
+               "da" : "Johns ven."
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1522555800",
+            "stop" : "1522556700",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            }
+         },
+         {
+            "stop" : "1522557900",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 23 .",
+               "onscreen" : "Afsnit 24"
+            },
+            "country" : [
+               "GB"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2015",
+            "title" : {
+               "da" : "Thunderbirds"
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1522556700"
+         },
+         {
+            "new" : null,
+            "previously_shown" : "ultra.dr.dk|2018-02-11 15:25:00",
+            "stop" : "1522559100",
+            "episodeNum" : {
+               "xmltv_ns" : ". 6 .",
+               "onscreen" : "Afsnit 7"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "start" : "1522557900",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Zorro"
+            },
+            "date" : "2015"
+         },
+         {
+            "start" : "1522559100",
+            "desc" : {
+               "da" : "Alvin, Simon og Theodore er m\u00e5ske nok rockstjerner, men de er ogs\u00e5 helt almindelige b\u00f8rn, der er n\u00f8dt til at passe skolen og g\u00e5 ud med skraldet! Sammen med pigerne fra The Chipettes g\u00f8r de hver dag til en fest - og deres adoptivfar Dave sander hurtigt, at det kr\u00e6ver sin mand at have huset fyldt med syngende jordegern..."
+            },
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Alvin og de fr\u00e6kke jordegern"
+            },
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522560000"
+         },
+         {
+            "stop" : "1522560600",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "title" : {
+               "da" : "Alvin og de fr\u00e6kke jordegern"
+            },
+            "desc" : {
+               "da" : "Alvin, Simon og Theodore er m\u00e5ske nok rockstjerner, men de er ogs\u00e5 helt almindelige b\u00f8rn, der er n\u00f8dt til at passe skolen og g\u00e5 ud med skraldet! Sammen med pigerne fra The Chipettes g\u00f8r de hver dag til en fest - og deres adoptivfar Dave sander hurtigt, at det kr\u00e6ver sin mand at have huset fyldt med syngende jordegern..."
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1522560000"
+         },
+         {
+            "stop" : "1522561800",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "CA"
+            ],
+            "title" : {
+               "da" : "Wild Kratts"
+            },
+            "start" : "1522560600",
+            "channel" : "ultra.dr.dk",
+            "date" : "2011"
+         },
+         {
+            "start" : "1522561800",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Wild Kratts"
+            },
+            "date" : "2011",
+            "country" : [
+               "CA"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522563300"
+         },
+         {
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "title" : {
+               "da" : "Junglebanden"
+            },
+            "start" : "1522563300",
+            "channel" : "ultra.dr.dk",
+            "date" : "2015",
+            "stop" : "1522563900",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522564500",
+            "channel" : "ultra.dr.dk",
+            "start" : "1522563900",
+            "title" : {
+               "da" : "Junglebanden"
+            },
+            "date" : "2015",
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "stop" : "1522565100",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "3. 26 .",
+               "onscreen" : "Afsnit 27 s\u00e6son 4"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "US"
+            ],
+            "title" : {
+               "da" : "Gumball"
+            },
+            "start" : "1522564500",
+            "channel" : "ultra.dr.dk",
+            "date" : "2016"
+         },
+         {
+            "date" : "2016",
+            "channel" : "ultra.dr.dk",
+            "start" : "1522565100",
+            "title" : {
+               "da" : "Gumball"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "US"
+            ],
+            "episodeNum" : {
+               "xmltv_ns" : "3. 27 .",
+               "onscreen" : "Afsnit 28 s\u00e6son 4"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522566000"
+         },
+         {
+            "stop" : "1522572300",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "title" : {
+               "da" : "Descendants"
+            },
+            "desc" : {
+               "da" : "M\u00f8d en ny generation skurke i Disneys Descendants! Malavia, Den onde dronning, Jafar og Cruella de Vils b\u00f8rn ville aldrig have forladt \u00f8en, hvor deres for\u00e6ldre er f\u00e6ngslet ... f\u00f8r nu! De sendes til idylliske Auradon for at g\u00e5 i skole sammen med Disney Heroes b\u00f8rnene og udarbejde en plan for at hj\u00e6lpe deres onde for\u00e6ldre til at f\u00e5 verdensdominans! Skal de g\u00e5 i deres for\u00e6ldres fodspor, eller vil de finde deres indre godhed frem og redde riget?"
+            },
+            "start" : "1522566000",
+            "channel" : "ultra.dr.dk",
+            "date" : "2015"
+         },
+         {
+            "date" : "2017",
+            "title" : {
+               "da" : "BaseBoys - Skal vi v\u00e6re stjerner?"
+            },
+            "channel" : "ultra.dr.dk",
+            "desc" : {
+               "da" : "De fire venner Oliver, Emil, A.J. og Mikkel spiller CS:GO sammen. Men da wifi-routeren i Mikkels morfars k\u00e6lder g\u00e5r i stykker, m\u00e5 de g\u00e5 i aktion for at f\u00e5 internetforbindelsen igen. Samme dag finder Oliver ud af, at Emils tvillinges\u00f8ster, Matilde, er helt vild med boybands. Oliver er hemmeligt forelsket i Matilde, og derfor fors\u00f8ger han at overtale de andre drenge til, at de skal stille op i skolens musikkonkurrence Band Battle."
+            },
+            "start" : "1522572300",
+            "country" : [
+               "DK"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 0 .",
+               "onscreen" : "Afsnit 1"
+            },
+            "stop" : "1522573200",
+            "previously_shown" : "ultra.dr.dk|2018-02-16 16:45:00",
+            "new" : null
+         },
+         {
+            "previously_shown" : "ultra.dr.dk|2018-02-16 17:00:00",
+            "new" : null,
+            "stop" : "1522574100",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2",
+               "xmltv_ns" : ". 1 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "DK"
+            ],
+            "date" : "2017",
+            "desc" : {
+               "da" : "A.J. og Mikkel fors\u00f8ger at tjene penge til en ny wifi-router, s\u00e5 de kan game uforstyrret videre i k\u00e6lderen. De s\u00e6lger hjemmelavet GunPowder-energidrik i frikvarteret, men deres planer bliver \u00f8delagt, fordi skolens tyranner Sten og Marcus stj\u00e6ler fra deres bod i skoleg\u00e5rden. Drengene beslutter sig for at melde sig til skolens musikkonkurrence Band Battle, s\u00e5 de kan sl\u00e5 Sten og Marcus, som hele tiden er efter dem."
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1522573200",
+            "title" : {
+               "da" : "BaseBoys - S\u00e6lger ulovlig energidrik"
+            }
+         },
+         {
+            "new" : null,
+            "previously_shown" : "ultra.dr.dk|2018-02-19 16:45:00",
+            "stop" : "1522575000",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3",
+               "xmltv_ns" : ". 2 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "DK"
+            ],
+            "start" : "1522574100",
+            "desc" : {
+               "da" : "Drengene skal deltage i Band Battle, men Emil t\u00f8r ikke synge alene. Derfor tilbyder Oliver at optr\u00e6de playback til Emils stemme. Da drengene g\u00e5r p\u00e5 scenen, spolerer Sten og Markus deres show foran hele skolen. Drengene g\u00e5r nedtrykte hjem, og tilbage i k\u00e6lderen producerer A.J. en ny udgave af deres forfejlede sang, som lyder meget bedre. I hemmelighed opretter Oliver en YouTube-profil med navnet \"BaseBoys\" og l\u00e6gger sangen op p\u00e5 nettet."
+            },
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "BaseBoys - Til grin foran skolen?"
+            },
+            "date" : "2017"
+         },
+         {
+            "title" : {
+               "da" : "BaseBoys - Det mystiske hit"
+            },
+            "desc" : {
+               "da" : "BaseBoys' sang \"Level 1000\" er blevet et k\u00e6mpe hit p\u00e5 YouTube, men ingen i skolen tror p\u00e5, at det er Emil, Mikkel, A.J. og Oliver, som st\u00e5r bag den. Stjerne-agenten Ricco La Cour fra musikbureauet SuperStar kontakter drengene. De aftaler at m\u00f8des p\u00e5 Tivoli Hotel, selvom ingen af drengene ved noget om, hvordan man er et boyband - endnu."
+            },
+            "start" : "1522575000",
+            "channel" : "ultra.dr.dk",
+            "date" : "2017",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "DK"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4",
+               "xmltv_ns" : ". 3 ."
+            },
+            "stop" : "1522575900",
+            "new" : null,
+            "previously_shown" : "ultra.dr.dk|2018-02-20 16:45:00"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 4 .",
+               "onscreen" : "Afsnit 5"
+            },
+            "stop" : "1522576800",
+            "previously_shown" : "ultra.dr.dk|2018-02-21 16:45:00",
+            "new" : null,
+            "title" : {
+               "da" : "BaseBoys - En mega makeover"
+            },
+            "desc" : {
+               "da" : "Drengene sp\u00f8rger Matilde til r\u00e5ds om, hvordan man ligner et rigtig boyband. De tager p\u00e5 shoppetur inden m\u00f8det med stjerne-agenten Ricco La Cour. Oliver k\u00e6mper med at fort\u00e6lle Matilde, at han er vild med hende. Mikkel f\u00e5r morfar til at optr\u00e6de som drengenes manager, s\u00e5 Ricco La Cour ikke fatter mistanke om, at de bare er fire helt normale drenge."
+            },
+            "start" : "1522575900",
+            "channel" : "ultra.dr.dk",
+            "date" : "2017",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "DK"
+            ]
+         },
+         {
+            "date" : "2017",
+            "desc" : {
+               "da" : "Drengene skal have fat i en suite p\u00e5 Tivoli Hotel, hvis de skal overbevise Ricco La Cour fra musikselskabet SuperStar om, at de er et rigtig boyband. Oliver og Emil s\u00e6tter en alarm i gang p\u00e5 hotellet, s\u00e5 A.J. kan liste sig ind i receptionen og booke et hotelv\u00e6relse til dem. Drengene f\u00e5r overbevist en lettere skeptisk receptionist om, at morfar har booket et v\u00e6relse under navnet \"Manager\"."
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1522576800",
+            "title" : {
+               "da" : "BaseBoys - Hacker et hotel"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "DK"
+            ],
+            "episodeNum" : {
+               "xmltv_ns" : ". 5 .",
+               "onscreen" : "Afsnit 6"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "previously_shown" : "ultra.dr.dk|2018-02-22 16:45:00",
+            "stop" : "1522577700"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 6 .",
+               "onscreen" : "Afsnit 7"
+            },
+            "stop" : "1522578600",
+            "previously_shown" : "ultra.dr.dk|2018-02-23 16:45:00",
+            "new" : null,
+            "date" : "2017",
+            "title" : {
+               "da" : "BaseBoys - Kan han se vi lyver?"
+            },
+            "start" : "1522577700",
+            "desc" : {
+               "da" : "Ricco La Cour ankommer til Tivoli Hotel, hvor drengene har snydt sig til en luksus-suite. Morfar og en uventet omgang roomservice er t\u00e6t p\u00e5 at forpurre deres planer, men drengene f\u00e5r overbevist Ricco La Cour om, at de er \u00e6gte superstjerner. De underskriver en bindende kontrakt. BaseBoys er officielt et boyband."
+            },
+            "channel" : "ultra.dr.dk",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "DK"
+            ]
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : ". 7 .",
+               "onscreen" : "Afsnit 8"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "previously_shown" : "ultra.dr.dk|2018-02-26 16:45:00",
+            "new" : null,
+            "stop" : "1522579500",
+            "channel" : "ultra.dr.dk",
+            "desc" : {
+               "da" : "Drengene ankommer i limousine til SuperStars hovedkvarter, hvor de skal holde presse-release p\u00e5 YouTube. Alle i skolen f\u00f8lger sp\u00e6ndt med p\u00e5 deres telefoner, hvor BaseBoys-medlemmernes identiteter snart skal afsl\u00f8res. I live-streamen kommer A.J. til at afsl\u00f8re, hvor drengene befinder sig, og inden l\u00e6nge bliver omr\u00e5det stormet af skrigende fans. Imens modtager Emil en flabet besked fra Marcus, som for alvor g\u00f8r ham vred."
+            },
+            "start" : "1522578600",
+            "title" : {
+               "da" : "BaseBoys - Flygter fra vores fans"
+            },
+            "date" : "2017",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "DK"
+            ]
+         },
+         {
+            "title" : {
+               "da" : "BaseBoys - H\u00e6vn over mobning"
+            },
+            "desc" : {
+               "da" : "Oliver tager hjem til Matilde for at fort\u00e6lle hende, at han er vild med hende, men hans plan bliver spoleret af en gruppe p\u00e5g\u00e5ende fans. I skolen er alle vilde med BaseBoys, og drengene bliver m\u00f8dt af klapsalver, da de tr\u00e6der ind i klassen. Sten og Marcus driller Emil igen, og denne gang svarer Emil igen med en sang, som g\u00f8r grin med Sten og Marcus. Alle fra klassen griner, men Mikkel, Oliver og A.J. synes, at teksterne var lidt for grove."
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1522579500",
+            "date" : "2017",
+            "country" : [
+               "DK"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 8 .",
+               "onscreen" : "Afsnit 9"
+            },
+            "stop" : "1522580400",
+            "new" : null,
+            "previously_shown" : "ultra.dr.dk|2018-02-27 16:45:00"
+         },
+         {
+            "new" : null,
+            "previously_shown" : "ultra.dr.dk|2018-02-28 16:45:00",
+            "stop" : "1522581300",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 10",
+               "xmltv_ns" : ". 9 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "DK"
+            ],
+            "date" : "2017",
+            "start" : "1522580400",
+            "desc" : {
+               "da" : "BaseBoys skal indspille musikvideo. Emil har problemer uden sin astmaspray, s\u00e5 Matilde kommer forbi med den. A.J. finder ud af, at Oliver er vild med Matilde, og hun opfordrer ham til at skrive en sang til hende. Imens hiver instrukt\u00f8ren Emil ud af musikvideoen, fordi han ikke kan f\u00f8lge med i koreografien. Men hvis Emil ikke kan v\u00e6re med, vil de andre drenge heller ikke."
+            },
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "BaseBoys - Skrider fra musikvideo"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 10 .",
+               "onscreen" : "Afsnit 11"
+            },
+            "stop" : "1522582200",
+            "previously_shown" : "ultra.dr.dk|2018-03-01 16:45:00",
+            "new" : null,
+            "title" : {
+               "da" : "BaseBoys - Fester med VIP-stjerne"
+            },
+            "desc" : {
+               "da" : "Ricco La Cour vil have BaseBoys til at lave et nyt hit. Samtidigt har Matilde f\u00e5et drengene inviteret til fest hos superstjernen Liam. Da de kommer derhen, er det kun BaseBoys, som st\u00e5r p\u00e5 g\u00e6stelisten, ikke Matilde. Oliver k\u00e6mper for at snige hende ind, og da det lykkes, falder Matilde straks i snak med Liam. En nedtrykt Oliver m\u00f8der MGP-stjernen L\u00e6rke, som gerne vil hj\u00e6lpe ham med at skrive en sang til Matilde. Nogle piger tager et billede af Oliver og L\u00e6rke sammen."
+            },
+            "start" : "1522581300",
+            "channel" : "ultra.dr.dk",
+            "date" : "2017",
+            "country" : [
+               "DK"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "stop" : "1522582800",
+            "new" : null,
+            "previously_shown" : "ultra.dr.dk|2018-03-14 16:30:00",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 1 .",
+               "onscreen" : "Afsnit 2"
+            },
+            "country" : [
+               "DK"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2017",
+            "title" : {
+               "da" : "Cykel Karaoke - Bastian fra MGP"
+            },
+            "desc" : {
+               "da" : "I dette afsnit af Cykel Karaoke f\u00e5r Jannik bes\u00f8g af Bastian... igen! Der er nemlig sket mange sp\u00e6ndende og vilde ting for Bastian siden den f\u00f8rste cykeltur. Bastian fort\u00e6ller om sin hovedrolle i Ultra's nye serie Baseboys. Er det sv\u00e6rt at synge opera, og vil Bastian helst spise Pizza eller Myrer? Det finder vi ud af, og selvf\u00f8lgelig skal vi synge Bastians nyeste hit- 'Stormvind'. Kom i gear og tag med os p\u00e5 cykeltur!"
+            },
+            "start" : "1522582200",
+            "channel" : "ultra.dr.dk"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 13",
+               "xmltv_ns" : ". 12 ."
+            },
+            "stop" : "1522583400",
+            "previously_shown" : "ultra.dr.dk|2018-02-20 12:15:00",
+            "new" : null,
+            "title" : {
+               "da" : "Livredderne II - Hvem vinder pokalen?"
+            },
+            "start" : "1522582800",
+            "desc" : {
+               "da" : "Det hele afg\u00f8res nu. Bliver det Hold R\u00f8d eller Hold Gul, der l\u00f8ber med sejren og bliver k\u00e5ret som Danmarks Bedste Livreddere? Udfordringerne har v\u00e6ret mange, og begge hold har k\u00e6mpet det bedste de har l\u00e6rt. Men kun et hold kan st\u00e5 tilbage med den store pokal."
+            },
+            "channel" : "ultra.dr.dk",
+            "date" : "2017",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "DK"
+            ]
+         },
+         {
+            "desc" : {
+               "da" : "S\u00e5 er det finaletid. Hold R\u00f8d er g\u00e5et i opl\u00f8sning og de tidligere s\u00e5 gode holdkammerater k\u00e6mper nu imod hinanden. Se om det bliver Gustav, Andreas, Olivia, Emil, Alicia eller Agnes der vinder titlen som Danmarks Bedste Livredder."
+            },
+            "start" : "1522583400",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Livredderne II - Alle mod alle"
+            },
+            "date" : "2017",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "DK"
+            ],
+            "episodeNum" : {
+               "xmltv_ns" : ". 13 .",
+               "onscreen" : "Afsnit 14"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "previously_shown" : "ultra.dr.dk|2018-02-20 12:25:00",
+            "new" : null,
+            "stop" : "1522584000"
+         },
+         {
+            "date" : "2017",
+            "title" : {
+               "da" : "Livredderne II - Den store finale"
+            },
+            "channel" : "ultra.dr.dk",
+            "desc" : {
+               "da" : "Sp\u00e6ndingen er intens. Dramaet er p\u00e5 sit h\u00f8jeste og nerverne er slidt helt i bund. Kun en vinder st\u00e5r tilbage. Se hvem der bliver Danmarks Bedste Livredder."
+            },
+            "start" : "1522584000",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "DK"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 14 .",
+               "onscreen" : "Afsnit 15"
+            },
+            "stop" : "1522584600",
+            "new" : null,
+            "previously_shown" : "ultra.dr.dk|2018-02-21 12:25:00"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/75886",
+               "xmltv_ns" : "6 . 14 .",
+               "onscreen" : "Afsnit 15 s\u00e6son 7"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Patchy The Pirate"
+                  },
+                  {
+                     "role" : "Mrs. Poppy Puff",
+                     "name" : "Mary Jo Catlett"
+                  },
+                  {
+                     "name" : "Rodger Bumpass",
+                     "role" : "Squidward Tentacles"
+                  },
+                  {
+                     "name" : "Stephen Hillenburg",
+                     "role" : "Potty The Parrot"
+                  },
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "Squilliam Fancyson, Perch Perkins, Old Man Jenkins"
+                  },
+                  {
+                     "name" : "Carolyn Lawrence",
+                     "role" : "Sandy Cheeks"
+                  },
+                  {
+                     "name" : "Brian Doyle-Murray",
+                     "role" : "The Flying Dutchman"
+                  },
+                  {
+                     "name" : "Clancy Brown",
+                     "role" : "Mr. Eugene Krabs"
+                  },
+                  {
+                     "role" : "Sheldon J. Plankton / Larry the Lobster",
+                     "name" : "Mr. Lawrence"
+                  },
+                  {
+                     "role" : "Karen (the Computer Wife)",
+                     "name" : "Jill Talley"
+                  },
+                  {
+                     "role" : "Kid / Kid Fish #2 / Boy Fish",
+                     "name" : "Camryn Walling"
+                  },
+                  {
+                     "role" : "Patrick Star",
+                     "name" : "Bill Fagerbakke"
+                  },
+                  {
+                     "name" : "Tom Kenny",
+                     "role" : "Spongebob Squarepants"
+                  },
+                  {
+                     "role" : "Mama Krabs, Mrs. SquarePants",
+                     "name" : "Sirena Irwin"
+                  },
+                  {
+                     "name" : "Lori Alan",
+                     "role" : "Pearl Krabs"
+                  }
+               ]
+            },
+            "stop" : "1522586100",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=75886&seasonid=133071&id=1197391&lid=10"
+            ],
+            "date" : "1999",
+            "rating" : {
+               "stars" : "7.5 / 9"
+            },
+            "title" : {
+               "da" : "Svampebob Firkant"
+            },
+            "start" : "1522584600",
+            "channel" : "ultra.dr.dk",
+            "subTitle" : {
+               "da" : "The Inside Job"
+            },
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            }
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "subTitle" : {
+               "da" : "Stuck in the Wringer"
+            },
+            "title" : {
+               "da" : "Svampebob Firkant"
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1522586100",
+            "date" : "1999",
+            "rating" : {
+               "stars" : "7.5 / 9"
+            },
+            "stop" : "1522587600",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Patchy The Pirate"
+                  },
+                  {
+                     "role" : "Mrs. Poppy Puff",
+                     "name" : "Mary Jo Catlett"
+                  },
+                  {
+                     "role" : "Squidward Tentacles",
+                     "name" : "Rodger Bumpass"
+                  },
+                  {
+                     "role" : "Potty The Parrot",
+                     "name" : "Stephen Hillenburg"
+                  },
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "Squilliam Fancyson, Perch Perkins, Old Man Jenkins"
+                  },
+                  {
+                     "role" : "Sandy Cheeks",
+                     "name" : "Carolyn Lawrence"
+                  },
+                  {
+                     "role" : "The Flying Dutchman",
+                     "name" : "Brian Doyle-Murray"
+                  },
+                  {
+                     "role" : "Mr. Eugene Krabs",
+                     "name" : "Clancy Brown"
+                  },
+                  {
+                     "role" : "Sheldon J. Plankton / Larry the Lobster",
+                     "name" : "Mr. Lawrence"
+                  },
+                  {
+                     "role" : "Karen (the Computer Wife)",
+                     "name" : "Jill Talley"
+                  },
+                  {
+                     "name" : "Camryn Walling",
+                     "role" : "Kid / Kid Fish #2 / Boy Fish"
+                  },
+                  {
+                     "role" : "Patrick Star",
+                     "name" : "Bill Fagerbakke"
+                  },
+                  {
+                     "role" : "Spongebob Squarepants",
+                     "name" : "Tom Kenny"
+                  },
+                  {
+                     "name" : "Sirena Irwin",
+                     "role" : "Mama Krabs, Mrs. SquarePants"
+                  },
+                  {
+                     "name" : "Lori Alan",
+                     "role" : "Pearl Krabs"
+                  }
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=75886&seasonid=133071&id=1197401&lid=10"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/75886",
+               "xmltv_ns" : "6 . 15 .",
+               "onscreen" : "Afsnit 16 s\u00e6son 7"
+            }
+         },
+         {
+            "new" : null,
+            "previously_shown" : "ramasjang.dr.dk|2018-02-17 06:30:00",
+            "stop" : "1522592400",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Alex",
+                     "name" : "S\u00f8ren Fauli"
+                  },
+                  {
+                     "name" : "Mick \u00d8gendahl",
+                     "role" : "Marty"
+                  },
+                  {
+                     "name" : "Jesper Asholt",
+                     "role" : "Melman"
+                  },
+                  {
+                     "name" : "Trine Dyrholm",
+                     "role" : "Gloria"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Movies"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2005",
+            "desc" : {
+               "da" : "L\u00f8ven Alex, zebraen Marty, giraffen Melman og flodhesten Gloria lever trygt og godt i New Yorks zoologiske have. Men en dag beslutter Marty sig for at udforske verden uden for havens mure. Da hans bekymrede venner f\u00f8lger efter ham, bliver de alle sammen fanget og sat p\u00e5 en b\u00e5d med kurs mod Afrika. Vennerne havner p\u00e5 den tropiske \u00f8 Madagascar, men hvordan skal de fire tamme luksusdyr klare sig i en vaske\u00e6gte jungle? Instruktion: Eric Darnell og Tom McGrath."
+            },
+            "start" : "1522587600",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Madagascar"
+            }
+         },
+         {
+            "stop" : "1522593600",
+            "previously_shown" : "ultra.dr.dk|2018-02-16 05:45:00",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 19",
+               "xmltv_ns" : ". 18 ."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "title" : {
+               "da" : "Zorro"
+            },
+            "start" : "1522592400",
+            "channel" : "ultra.dr.dk",
+            "date" : "2015"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "start" : "1522593600",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Zorro"
+            },
+            "date" : "2015",
+            "new" : null,
+            "previously_shown" : "ramasjang.dr.dk|2018-03-05 18:25:00",
+            "stop" : "1522594800",
+            "episodeNum" : {
+               "xmltv_ns" : ". 19 .",
+               "onscreen" : "Afsnit 20"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "date" : "2011",
+            "title" : {
+               "da" : "Wild Kratts"
+            },
+            "start" : "1522594800",
+            "channel" : "ultra.dr.dk",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "CA"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522596300",
+            "new" : null
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522597500",
+            "new" : null,
+            "title" : {
+               "da" : "Wild Kratts"
+            },
+            "start" : "1522596300",
+            "channel" : "ultra.dr.dk",
+            "date" : "2011",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "CA"
+            ]
+         },
+         {
+            "channel" : "ultra.dr.dk",
+            "start" : "1522597500",
+            "title" : {
+               "da" : "Junglebanden"
+            },
+            "date" : "2015",
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522598100"
+         },
+         {
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "title" : {
+               "da" : "Junglebanden"
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1522598100",
+            "date" : "2015",
+            "stop" : "1522599000",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522599600",
+            "channel" : "ultra.dr.dk",
+            "start" : "1522599000",
+            "title" : {
+               "da" : "Junglebanden"
+            },
+            "date" : "2015",
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Alvin og de fr\u00e6kke jordegern"
+            },
+            "channel" : "ultra.dr.dk",
+            "desc" : {
+               "da" : "Alvin, Simon og Theodore er m\u00e5ske nok rockstjerner, men de er ogs\u00e5 helt almindelige b\u00f8rn, der er n\u00f8dt til at passe skolen og g\u00e5 ud med skraldet! Sammen med pigerne fra The Chipettes g\u00f8r de hver dag til en fest - og deres adoptivfar Dave sander hurtigt, at det kr\u00e6ver sin mand at have huset fyldt med syngende jordegern..."
+            },
+            "start" : "1522599600",
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "stop" : "1522600200",
+            "new" : null
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Alvin, Simon og Theodore er m\u00e5ske nok rockstjerner, men de er ogs\u00e5 helt almindelige b\u00f8rn, der er n\u00f8dt til at passe skolen og g\u00e5 ud med skraldet! Sammen med pigerne fra The Chipettes g\u00f8r de hver dag til en fest - og deres adoptivfar Dave sander hurtigt, at det kr\u00e6ver sin mand at have huset fyldt med syngende jordegern..."
+            },
+            "start" : "1522600200",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Alvin og de fr\u00e6kke jordegern"
+            },
+            "new" : null,
+            "stop" : "1522600800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "stop" : "1522601700",
+            "new" : null,
+            "title" : {
+               "da" : "Alvin og de fr\u00e6kke jordegern"
+            },
+            "desc" : {
+               "da" : "Alvin, Simon og Theodore er m\u00e5ske nok rockstjerner, men de er ogs\u00e5 helt almindelige b\u00f8rn, der er n\u00f8dt til at passe skolen og g\u00e5 ud med skraldet! Sammen med pigerne fra The Chipettes g\u00f8r de hver dag til en fest - og deres adoptivfar Dave sander hurtigt, at det kr\u00e6ver sin mand at have huset fyldt med syngende jordegern..."
+            },
+            "start" : "1522600800",
+            "channel" : "ultra.dr.dk",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "US"
+            ]
+         },
+         {
+            "stop" : "1522602000",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "country" : [
+               "DK"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "title" : {
+               "da" : "Insta Answer med Sofie Linde"
+            },
+            "start" : "1522601700",
+            "desc" : {
+               "da" : "Tusindvis af sp\u00f8rgsm\u00e5l fra fans, til ejerne af nogle af de mest popul\u00e6re instagramprofiler i Danmark, bliver aldrig besvaret. Hvorfor svarer de ikke? Og hvad ville de svare, hvis ULTRA tvinger dem til det? I dette program bes\u00f8ger Joakim Ingversen sin og ULTRAs helt egen Sofie Linde, for at skaffe os nogle Insta Answers!"
+            },
+            "channel" : "ultra.dr.dk",
+            "date" : "2015"
+         },
+         {
+            "date" : "2016",
+            "title" : {
+               "da" : "Sofie Linde show II (8) - Anders Grau og Martin H\u00f8gsted"
+            },
+            "desc" : {
+               "da" : "I aftenens Sofie Linde Show f\u00e5r Sofie bes\u00f8g af komikerne Anders Grau og Martin H\u00f8gsted. Hun sender de to stand up'ere og radiov\u00e6rter tilbage til folkeskoletiden, hvor tingene m\u00e5ske ikke helt var, som de husker det - og s\u00e5 udfordrer hun dem i quizzen med det udspekulerede navn \"G\u00e6t a job\". Stjernereporter Bubber er ogs\u00e5 p\u00e5 plads i studiet, og han har givet 100.000 danskere en bedre start p\u00e5 dagen. S\u00e5 smid familien over p\u00e5 sofaen og nyd fredagen sammen med Sofie Linde Show!"
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1522602000",
+            "country" : [
+               "DK"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522603800",
+            "new" : null
+         },
+         {
+            "date" : "2014",
+            "title" : {
+               "da" : "Drengen med det tikkende hjerte"
+            },
+            "desc" : {
+               "da" : "Edinburgh, slutningen af det 19. \u00e5rhundrede. Lille Jack er f\u00f8dt p\u00e5 en dag, der var s\u00e5 kold, at hans hjerte fryser til is. Madeleine, jordemoderen erstatter hans hjerte med et kukur. Hans kukur-hjerte kan kun fungere, s\u00e5 l\u00e6nge Jack f\u00f8lger de regler, hun opl\u00e6gger ham, hvoraf den vigtigste er, at han ikke m\u00e5 forelske sig. Men sk\u00e6bnen vil, at han m\u00f8der en meget fascinerende pige, der synger p\u00e5 et gadehj\u00f8rne, og hans beslutning om at s\u00e6tte efter hende vil teste modstanden i hans interimistiske hjerte til bristepunktet ..."
+            },
+            "start" : "1522603800",
+            "channel" : "ultra.dr.dk",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522608900",
+            "new" : null
+         },
+         {
+            "stop" : "1522610400",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "country" : [
+               "GB"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "title" : {
+               "da" : "Vores vilde verden rundt: Falklands\u00f8erne"
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1522608900",
+            "date" : "2012"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522611420",
+            "date" : "2014",
+            "start" : "1522610400",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Snydt!"
+            },
+            "country" : [
+               "CA"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            }
+         }
+      ]
+   }
+}

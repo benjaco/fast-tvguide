@@ -1,0 +1,134 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "new" : null,
+            "start" : "1531803600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Morgennyhederne p\u00e5 NEWS"
+            },
+            "channel" : "news.tv2.dk",
+            "date" : "2018",
+            "stop" : "1531821600"
+         },
+         {
+            "date" : "2018",
+            "stop" : "1531825200",
+            "new" : null,
+            "start" : "1531821600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "news.tv2.dk",
+            "title" : {
+               "da" : "Nyheder med business og vejr"
+            }
+         },
+         {
+            "new" : null,
+            "start" : "1531825200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder, sport, vejr"
+            },
+            "channel" : "news.tv2.dk",
+            "date" : "2018",
+            "stop" : "1531846800"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "news.tv2.dk",
+            "title" : {
+               "da" : "19 Nyhederne"
+            },
+            "start" : "1531846800",
+            "new" : null,
+            "stop" : "1531848300",
+            "date" : "2018"
+         },
+         {
+            "start" : "1531848300",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder, sport, vejr"
+            },
+            "channel" : "news.tv2.dk",
+            "date" : "2018",
+            "stop" : "1531857600"
+         },
+         {
+            "stop" : "1531859100",
+            "date" : "2018",
+            "title" : {
+               "da" : "22 Nyhederne"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "news.tv2.dk",
+            "new" : null,
+            "start" : "1531857600"
+         },
+         {
+            "channel" : "news.tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "News Night"
+            },
+            "start" : "1531859100",
+            "new" : null,
+            "stop" : "1531863000",
+            "date" : "2018"
+         },
+         {
+            "stop" : "1531890000",
+            "date" : "2018",
+            "channel" : "news.tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder, sport, vejr"
+            },
+            "new" : null,
+            "start" : "1531863000"
+         }
+      ]
+   }
+}

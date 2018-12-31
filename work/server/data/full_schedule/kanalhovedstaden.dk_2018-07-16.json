@@ -1,0 +1,478 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "new" : null,
+            "start" : "1531711800",
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "channel" : "kanalhovedstaden.dk",
+            "desc" : {
+               "da" : "Kanal Roskilde"
+            },
+            "title" : {
+               "da" : "Kanal Roskilde"
+            },
+            "stop" : "1531724400"
+         },
+         {
+            "start" : "1531724400",
+            "new" : null,
+            "channel" : "kanalhovedstaden.dk",
+            "title" : {
+               "da" : "TVMarineret - Skolef\u00e6gtning - Amager Strand - Multiraid 6"
+            },
+            "date" : "2018",
+            "stop" : "1531727940",
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "desc" : {
+               "da" : "TVMarineret - Skolef\u00e6gtning - Amager Strand - Multiraid 6 - SP1 1) Skolef\u00e6gtning Med Elever Og For\u00e6ldre Fra Bl\u00e5g\u00e5rdsskolen. 2) Amager Strand - Rosemarie og Ane Pr\u00f8ver Undervandskamera. 3) Multiraid P6 - Medvirkende: G\u00fcrkan Balticilar, Alex Riva, Marialusa Capurso & Crocant"
+            },
+            "subTitle" : {
+               "da" : "Uddrag"
+            }
+         },
+         {
+            "start" : "1531727940",
+            "new" : null,
+            "title" : {
+               "da" : "TVMarineret"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "kanalhovedstaden.dk",
+            "stop" : "1531728000"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "desc" : {
+               "da" : "Frederiksberg Lokal TV"
+            },
+            "channel" : "kanalhovedstaden.dk",
+            "title" : {
+               "da" : "Frederiksberg Lokal TV"
+            },
+            "new" : null,
+            "start" : "1531728000",
+            "stop" : "1531735200"
+         },
+         {
+            "start" : "1531735200",
+            "new" : null,
+            "desc" : {
+               "da" : "Vesterbro Lokal TV"
+            },
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "channel" : "kanalhovedstaden.dk",
+            "title" : {
+               "da" : "Vesterbro Lokal TV"
+            },
+            "stop" : "1531738800"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "desc" : {
+               "da" : "Public Access til Borgerne. KANAL 1 er en ikke-kommerciel lokal-tv station i hovedstadsregionen, der ? udover at producere k\u00f8benhavnsk lokal-tv ? ogs\u00e5 fors\u00f8ger at give kommunikationssvage grupper i plads i et massemedium, tv-mediet."
+            },
+            "channel" : "kanalhovedstaden.dk",
+            "title" : {
+               "da" : "Kanal 1"
+            },
+            "start" : "1531738800",
+            "new" : null,
+            "stop" : "1531746000"
+         },
+         {
+            "new" : null,
+            "start" : "1531747740",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Hovedstaden"
+            },
+            "channel" : "kanalhovedstaden.dk",
+            "stop" : "1531747800"
+         },
+         {
+            "subTitle" : {
+               "da" : "F\u00f8devarem\u00e6rkning fra Omvendtslev"
+            },
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "desc" : {
+               "da" : "Hvorfor er de rene, \u00f8kologiske f\u00f8devarer m\u00e6rket som noget specielt, mens varerne med f.eks. pesticider ikke er det? Burde det ikke v\u00e6re omvendt? Studiev\u00e6rt Mads Tobias Olsen har Anton Carey Bidstrup, manuskriptforfatter og civil\u00f8konom, Kristian Sloth, Landbrugspolitisk r\u00e5dgiver i Greenpeace samt folketingskandidat og medlem af K\u00f8benhavns Borgerrepr\u00e6sentation Helle Bonnesen (C) i studiet til debat."
+            },
+            "date" : "2018",
+            "stop" : "1531749540",
+            "start" : "1531747800",
+            "new" : null,
+            "channel" : "kanalhovedstaden.dk",
+            "title" : {
+               "da" : "Mosaik"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "kanalhovedstaden.dk",
+            "title" : {
+               "da" : "Hovedstaden"
+            },
+            "start" : "1531749540",
+            "new" : null,
+            "stop" : "1531749600"
+         },
+         {
+            "subTitle" : {
+               "da" : "Madpolitik i K\u00f8benhavns kommunes institutioner"
+            },
+            "desc" : {
+               "da" : "Alternativet har f\u00e5et gennemf\u00f8rt et forslag om at nedbringe m\u00e6ngden af k\u00f8d i de k\u00f8benhavnske institutioner. Hvorfor er det s\u00e5 vigtigt? Studiev\u00e6rt Mads Tobias Olsen har Franciska Rosenkilde, medl. af Borgerrepr\u00e6sentation (\u00c5) og Kristian Sloth, Greenpeace til debat om madpolitikken i K\u00f8benhavns kommunes institutioner"
+            },
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "stop" : "1531751220",
+            "date" : "2018",
+            "channel" : "kanalhovedstaden.dk",
+            "title" : {
+               "da" : "Mosaik"
+            },
+            "new" : null,
+            "start" : "1531749600"
+         },
+         {
+            "new" : null,
+            "start" : "1531751220",
+            "title" : {
+               "da" : "Hovedstaden"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "kanalhovedstaden.dk",
+            "stop" : "1531751400"
+         },
+         {
+            "stop" : "1531753140",
+            "date" : "2018",
+            "channel" : "kanalhovedstaden.dk",
+            "title" : {
+               "da" : "Bashy's Corner"
+            },
+            "start" : "1531751400",
+            "new" : null,
+            "subTitle" : {
+               "da" : "Josef Hanji"
+            },
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "desc" : {
+               "da" : "Bashy Quirashy will in an interview with Josef Hanji, chief editor of Magazine Conspiracy, discuss the contradictions in our perception of world event. How each news and event can be seen and explained from different perspectives? Why there is Fake News and conspiracy theories in an age of information? Why media not only produce misinformation but also confuse people about reality and the truth? What is the aim of Magazine Conspiracy that claims to go beyond what mainstream media tell us about important issues? TVK18-333"
+            }
+         },
+         {
+            "start" : "1531753140",
+            "new" : null,
+            "title" : {
+               "da" : "Hovedstaden"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "kanalhovedstaden.dk",
+            "stop" : "1531753200"
+         },
+         {
+            "stop" : "1531767600",
+            "new" : null,
+            "start" : "1531753200",
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "desc" : {
+               "da" : "17:25 GO' AFTEN DANMARK 18:00 LIGETIL NYHEDER P\u00c5 TEGNSPROG 18:30 DR1 TV AVISEN 19:00 TV 2 NYHEDERNE 20:00 LIGETIL NYHEDER P\u00c5 TEGNSPROG (GEN) 20:30 DR1 TV AVISEN (GEN)"
+            },
+            "title" : {
+               "da" : "Tegnsprogskanalen"
+            },
+            "channel" : "kanalhovedstaden.dk"
+         },
+         {
+            "subTitle" : {
+               "da" : "Bo Lilles\u00f8e p\u00e5 festival i Irak"
+            },
+            "desc" : {
+               "da" : "Reportagen - Bo Lilles\u00f8e p\u00e5 festival i Irak Reportagen - Bo Lilles\u00f8e p\u00e5 festival i Irak"
+            },
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "date" : "2018",
+            "stop" : "1531771020",
+            "start" : "1531768740",
+            "new" : null,
+            "title" : {
+               "da" : "Reportagen"
+            },
+            "channel" : "kanalhovedstaden.dk"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "kanalhovedstaden.dk",
+            "title" : {
+               "da" : "TV-Bella *Lokal-tv for Vanl\u00f8se og Br\u00f8nsh\u00f8j"
+            },
+            "new" : null,
+            "start" : "1531773840",
+            "stop" : "1531774800"
+         },
+         {
+            "title" : {
+               "da" : "Hovedstaden"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "kanalhovedstaden.dk",
+            "start" : "1531776480",
+            "new" : null,
+            "stop" : "1531776600"
+         },
+         {
+            "subTitle" : {
+               "da" : "100 dage med Enhedslisten"
+            },
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "desc" : {
+               "da" : "?100 dage med Enhedslisten p\u00e5 vej mod et gr\u00f8nt og solidarisk Danmark? ? s\u00e5dan lyder det fra Enhedslisten. Og det er Enhedslistens folketingsgruppe, der har udarbejdet den plan. Den er et bud p\u00e5, hvordan de f\u00f8rste 100 dage med Enhedslistens politik ville se ud, ?hvis vi f\u00e5r magt, som vi har agt.? Der er tale hele 100 konkrete tiltag. Og de er alle eksempler p\u00e5, hvor meget mere b\u00e6redygtigt, demokratisk og retf\u00e6rdigt, Danmark faktisk kunne blive ? iflg. Enhedslisten. Det er altid sp\u00e6ndende, n\u00e5r et politisk parti er konkrete i deres budskab, og det er Enhedslisten i dette tilf\u00e6lde. S\u00e5 vi skal h\u00f8re n\u00e6rmere om nogle af de 100 konkrete tiltag, som skal f\u00f8re Danmark frem mod ? og til ? det gr\u00f8nne og solidariske Danmark, som partiet gerne vil. Rune Lund, medl. af Folketinget, Enhedslisten interviewes af studiev\u00e6rt Benny Haugsh\u00f8j om 100 dage med Enhedslisten. TVK18-163"
+            },
+            "date" : "2018",
+            "stop" : "1531778340",
+            "new" : null,
+            "start" : "1531776600",
+            "title" : {
+               "da" : "Dialog"
+            },
+            "channel" : "kanalhovedstaden.dk"
+         },
+         {
+            "stop" : "1531778400",
+            "channel" : "kanalhovedstaden.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Hovedstaden"
+            },
+            "start" : "1531778340",
+            "new" : null
+         },
+         {
+            "date" : "2018",
+            "stop" : "1531780200",
+            "new" : null,
+            "start" : "1531778400",
+            "channel" : "kanalhovedstaden.dk",
+            "title" : {
+               "da" : "Dialog"
+            },
+            "subTitle" : {
+               "da" : "letbanen er p\u00e5 vej til K\u00f8benhavn"
+            },
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "desc" : {
+               "da" : "Trine Gr\u00e6se (Soc.dem.), Borgmester i Gladsaxe og n\u00e6stformand i Hovedstadens Letbanes bestyrelse interviewes af studiev\u00e6rt Benny Haugsh\u00f8j om den kommende Ring 3 letbane Letbanen er kommet tilbage til Danmark. Og om f\u00e5 \u00e5r er den en del af den k\u00f8benhavnske kollektive trafik. Letbanen ? eller sporvognen, som den hed indtil 1972, da den k\u00f8benhavnske linje 5 den 22.april k\u00f8rte for sidste gang. Og s\u00e5 hedder letbanen i \u00f8vrigt sporvogn alle andre steder i verden. Letbanen kom til Aarhus den 21.december 2017 og kommer alts\u00e5 til K\u00f8benhavn i 2024. Fokus i denne udsendelse er p\u00e5 K\u00f8benhavn, hvor Ring 3 Letbanen rundt om K\u00f8benhavn nu er kommet s\u00e5 langt, at arbejdet med at etablere den er g\u00e5et i gang. TVK18-149"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "desc" : {
+               "da" : "Er der opbrud i dansk politik? Helle Bonnesen (kons.), Folketingskandidat, K\u00f8benhavns Storkreds interviewes af studiev\u00e6rt Benny Haugsh\u00f8j Hidtil har vi i dansk politik talt om r\u00f8d blok og bl\u00e5 blok, men pludselig skete der en kovending i begyndelsen af juni m\u00e5ned. Socialdemokratiets formand, Mette Frederiksen, meddelte, at hun ? i tilf\u00e6lde af en valgsejr ? vil danne en S-mindretalsregering og s\u00f8ge samarbejde med alle partier. V\u00e6k med blokpolitikken og ? ikke mindst ? de radikale. D\u00e9t er en interessant melding, og hvad vil den betyde frem mod ? og efter ? den kommende valgkamp. Der sker ogs\u00e5 mere i dansk politik, hvor skolerne med l\u00e6ngere skoledage, som en del skolereformen fra 2013, ikke er helt s\u00e5 lange endda. P\u00e5 energiomr\u00e5det er Danmark faldet tilbage og er nu ikke en del af klimaeliten. TVK18-153"
+            },
+            "subTitle" : {
+               "da" : "opbrud i dansk politik?"
+            },
+            "start" : "1531780200",
+            "new" : null,
+            "channel" : "kanalhovedstaden.dk",
+            "title" : {
+               "da" : "Dialog"
+            },
+            "date" : "2018",
+            "stop" : "1531781880"
+         },
+         {
+            "stop" : "1531782000",
+            "start" : "1531781880",
+            "new" : null,
+            "channel" : "kanalhovedstaden.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Hovedstaden"
+            }
+         },
+         {
+            "stop" : "1531783740",
+            "date" : "2018",
+            "title" : {
+               "da" : "Dialog ? Danmark f\u00f8rste letbane"
+            },
+            "channel" : "kanalhovedstaden.dk",
+            "new" : null,
+            "start" : "1531782000",
+            "desc" : {
+               "da" : "Dette program handler om noget, der er kommet tilbage til Danmark efter mange \u00e5rs frav\u00e6r. Letbanen ? eller sporvognen, som den hed indtil 1972, da den k\u00f8benhavnske linje 5 k\u00f8rte for sidste gang. Og s\u00e5 hedder letbanen i \u00f8vrigt sporvogn i alle andre steder i verden. Letbanen kom til Aarhus den 21.december 2017, den kommer til Odense i 2020 og til K\u00f8benhavn i 2023, hvor den kommer til at hedde Ring3-letbanen, fordi den k\u00f8rer rundt om K\u00f8benhavn. Der arbejdes ogs\u00e5 med planer om letbane inde i K\u00f8benhavn, som afventer mere konkrete tiltag, f\u00f8r der kan siges yderligere herom. Fokus i dette program er p\u00e5 Aarhus, hvor virkningen af en letbane tegner sig i praksis. Og det vil siden ogs\u00e5 vise sig i b\u00e5de Odense og K\u00f8benhavn. I studiet interviewes trafikkonsulent Morten Engelbrecht af studiev\u00e6rt Benny Haugsh\u00f8j. TVK18-136"
+            },
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            }
+         },
+         {
+            "title" : {
+               "da" : "Hovedstaden"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "kanalhovedstaden.dk",
+            "start" : "1531783740",
+            "new" : null,
+            "stop" : "1531783800"
+         },
+         {
+            "stop" : "1531785480",
+            "date" : "2018",
+            "title" : {
+               "da" : "Dialog"
+            },
+            "channel" : "kanalhovedstaden.dk",
+            "start" : "1531783800",
+            "new" : null,
+            "subTitle" : {
+               "da" : "Sporvognen er tilbage i Danmark"
+            },
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "desc" : {
+               "da" : "Med \u00e5bningen af letbanen i Aarhus 21.december 2017 er sporvognen, som den hed indtil 1972, tilbage i Danmark. Selvom det var en forsinket \u00e5bning p\u00e5 et halvt \u00e5r, s\u00e5 er den der. Og den kommer i 2020 i Odense og i K\u00f8benhavn i 2024. I denne udsendelse viser vi den aarhussianske letbane, L2's, k\u00f8rertur fra Aarhus Hovedbaneg\u00e5rd til Aarhus Univesitetshospital - en k\u00f8retur p\u00e5 knap 28 minutter. Turen k\u00f8rtes den 6.januar 2018 med udsigt ud af letbanef\u00f8rerens vindue. God forn\u00f8jelse. TVK18-161"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "kanalhovedstaden.dk",
+            "title" : {
+               "da" : "Hovedstaden"
+            },
+            "start" : "1531785480",
+            "new" : null,
+            "stop" : "1531785600"
+         }
+      ]
+   }
+}

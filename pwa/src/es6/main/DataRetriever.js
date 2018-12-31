@@ -31,7 +31,7 @@ export default class DataRetriever {
     fetchData(day, save, idb) {
         let channels = this._app.channelList.channels;
 
-        let url = "../server/get_overview.php?" + Param({
+        let url = "../overview?" + Param({
                 channels: channels,
                 dates: [day]
             });
@@ -175,7 +175,7 @@ export default class DataRetriever {
         this.openDatabase().then(idb => {
             this.cleanUp(idb);
 
-            fetch("../server/data/last_update.json?"+Date.now())
+            fetch("../last_update?"+Date.now())
                 .then(lastUpdated => lastUpdated.json())
                 .then(lastUpdated => {
                     let lastUpdatedForProgramScope = this.lastUpdatedForProgramScope(lastUpdated);

@@ -1,0 +1,3734 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "date" : "2016",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Comedy",
+                  "Drama",
+                  "Music",
+                  "Romance"
+               ]
+            },
+            "channel" : "hits.film.viasat.dk",
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/313369"
+            ],
+            "start" : "1522368000",
+            "stop" : "1522375800",
+            "title" : {
+               "da" : "La La Land"
+            },
+            "desc" : {
+               "da" : "Mia Dolan (Emma Stone i en prisvindende optr\u00e6den) er en ambiti\u00f8s skuespillerinde, som tjener penge ved at arbejde p\u00e5 caf\u00e9er imellem hendes mislykkede auditions. Efter et tilf\u00e6ldigt m\u00f8de med den str\u00e6bsomme pianist, Sebastian Wilder (Ryan Gosling), begynder de to en stormfuld romance. Denne spirende romance m\u00e5 st\u00e5 sin pr\u00f8ve, da dr\u00f8mmene, de begge har k\u00e6mpet for, truer med at \u00f8del\u00e6gge forholdet."
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/313369"
+            },
+            "rating" : {
+               "stars" : "7.9 / 10"
+            },
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Jordan Horowitz"
+                  },
+                  {
+                     "name" : "Fred Berger"
+                  },
+                  {
+                     "name" : "Marc Platt"
+                  },
+                  {
+                     "name" : "Gary Gilbert"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Damien Chazelle"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Sebastian Wilder",
+                     "name" : "Ryan Gosling"
+                  },
+                  {
+                     "name" : "Emma Stone",
+                     "role" : "Mia Dolan"
+                  },
+                  {
+                     "role" : "Keith",
+                     "name" : "John Legend"
+                  },
+                  {
+                     "role" : "Laura Wilder",
+                     "name" : "Rosemarie DeWitt"
+                  },
+                  {
+                     "name" : "J.K. Simmons",
+                     "role" : "Bill"
+                  },
+                  {
+                     "role" : "Famous Actress",
+                     "name" : "Ami\u00e9e Conn"
+                  },
+                  {
+                     "role" : "Linda",
+                     "name" : "Terry Walters"
+                  },
+                  {
+                     "name" : "Thom Shelton",
+                     "role" : "Coffee Spiller"
+                  },
+                  {
+                     "role" : "Casting Director",
+                     "name" : "Cinda Adams"
+                  },
+                  {
+                     "name" : "Callie Hernandez",
+                     "role" : "Tracy"
+                  },
+                  {
+                     "name" : "Jessica Rothe",
+                     "role" : "Alexis"
+                  },
+                  {
+                     "role" : "Caitlin",
+                     "name" : "Sonoya Mizuno"
+                  },
+                  {
+                     "name" : "Claudine Claudio",
+                     "role" : "Karen"
+                  },
+                  {
+                     "role" : "Carlo",
+                     "name" : "Jason Fuchs"
+                  },
+                  {
+                     "role" : "80's singer",
+                     "name" : "D.A. Wallach"
+                  },
+                  {
+                     "name" : "Trevor Lissauer",
+                     "role" : "Valet"
+                  },
+                  {
+                     "name" : "Olivia Hamilton",
+                     "role" : "Bree"
+                  },
+                  {
+                     "role" : "Sarah",
+                     "name" : "Anna Chazelle"
+                  },
+                  {
+                     "name" : "Marius De Vries",
+                     "role" : "Clyde"
+                  },
+                  {
+                     "name" : "Finn Wittrock",
+                     "role" : "Greg Earnest"
+                  },
+                  {
+                     "name" : "Josh Pence",
+                     "role" : "Josh"
+                  },
+                  {
+                     "name" : "Nicole Coulon",
+                     "role" : "Josh's Fiance"
+                  },
+                  {
+                     "name" : "Damon Gupton",
+                     "role" : "Harry"
+                  },
+                  {
+                     "name" : "Christopher Michael Stevens",
+                     "role" : "Malcolm"
+                  },
+                  {
+                     "name" : "Keith Harris",
+                     "role" : "Cole"
+                  },
+                  {
+                     "role" : "Tom",
+                     "name" : "Kaveh Rastegar"
+                  },
+                  {
+                     "role" : "Echo Backup Singer",
+                     "name" : "Briana Lee"
+                  },
+                  {
+                     "role" : "Ty",
+                     "name" : "David Douglas"
+                  },
+                  {
+                     "name" : "Miles Anderson",
+                     "role" : "Alistair"
+                  },
+                  {
+                     "role" : "Photographer's Assistant",
+                     "name" : "Bobo Chang"
+                  },
+                  {
+                     "role" : "Mrs. Dolan",
+                     "name" : "Meagen Fay"
+                  },
+                  {
+                     "role" : "Frank",
+                     "name" : "John Hindman"
+                  },
+                  {
+                     "role" : "Amy Brandt",
+                     "name" : "Valarie Rae Miller"
+                  },
+                  {
+                     "role" : "Amy Brandt's Assistant",
+                     "name" : "Nicole Wolf"
+                  },
+                  {
+                     "name" : "Corrin Evans",
+                     "role" : "New Barista"
+                  },
+                  {
+                     "name" : "Kiff VandenHeuvel",
+                     "role" : "New Coffee Shop Manager"
+                  },
+                  {
+                     "role" : "David",
+                     "name" : "Tom Everett Scott"
+                  },
+                  {
+                     "name" : "Hemky Madera",
+                     "role" : "Jimmy"
+                  },
+                  {
+                     "name" : "Zo\u00eb Hall",
+                     "role" : "Chelsea"
+                  },
+                  {
+                     "name" : "Dempsey Pappion",
+                     "role" : "Charles"
+                  },
+                  {
+                     "name" : "Sandra Rosko",
+                     "role" : "Dream Audience"
+                  },
+                  {
+                     "role" : "Traffic Dancer - Girl #1",
+                     "name" : "Reshma Gajjar"
+                  },
+                  {
+                     "name" : "Candice Coke",
+                     "role" : "Traffic Dancer - Girl #2"
+                  },
+                  {
+                     "role" : "Traffic Dancer - 1st Man",
+                     "name" : "Hunter Hamilton"
+                  },
+                  {
+                     "name" : "Damian Gomez",
+                     "role" : "Traffic Dancer - 2nd Man"
+                  },
+                  {
+                     "role" : "Traffic Dancer - Conductor",
+                     "name" : "Amanda Balen"
+                  },
+                  {
+                     "name" : "Cindera Che",
+                     "role" : "Traffic Dancer"
+                  },
+                  {
+                     "name" : "Chris Moss",
+                     "role" : "Traffic Dancer"
+                  },
+                  {
+                     "name" : "Marissa Labog",
+                     "role" : "Traffic Dancer"
+                  },
+                  {
+                     "role" : "Traffic Dancer",
+                     "name" : "Tiffany Daniels"
+                  },
+                  {
+                     "name" : "Melinda Sullivan",
+                     "role" : "Traffic Dancer"
+                  },
+                  {
+                     "role" : "Traffic Dancer",
+                     "name" : "Britt Stewart"
+                  },
+                  {
+                     "role" : "Traffic Dancer",
+                     "name" : "Clarice Ordaz"
+                  },
+                  {
+                     "role" : "Traffic Dancer",
+                     "name" : "Nathan Prevost"
+                  },
+                  {
+                     "name" : "Scott Hislop",
+                     "role" : "Hollywood Party Dancer - Creepy Guy"
+                  },
+                  {
+                     "role" : "Hollywood Party Dancer",
+                     "name" : "Kc Monnie"
+                  },
+                  {
+                     "name" : "Krystal Ellsworth",
+                     "role" : "Hollywood Party Dancer"
+                  },
+                  {
+                     "role" : "Hollywood Party Dancer",
+                     "name" : "Sarah Mitchell"
+                  },
+                  {
+                     "role" : "Hollywood Party Dancer",
+                     "name" : "Morgan Larson"
+                  },
+                  {
+                     "name" : "Becca Sweitzer",
+                     "role" : "Restaurant Dancer"
+                  },
+                  {
+                     "name" : "Gakenia Muigai",
+                     "role" : "Restaurant Dancer"
+                  },
+                  {
+                     "role" : "Restaurant Dancer",
+                     "name" : "Michael Stein"
+                  },
+                  {
+                     "name" : "Mario Diaz",
+                     "role" : "Restaurant Dancer"
+                  },
+                  {
+                     "role" : "Epilogue Dancer",
+                     "name" : "Julie Schmid"
+                  },
+                  {
+                     "name" : "Lexie Contursi",
+                     "role" : "Epilogue Dancer"
+                  },
+                  {
+                     "name" : "Eartha Robinson",
+                     "role" : "Epilogue Dancer"
+                  },
+                  {
+                     "name" : "Sybil Azur",
+                     "role" : "Epilogue Dancer"
+                  },
+                  {
+                     "name" : "Tara Nicole Hughes",
+                     "role" : "Epilogue Dancer"
+                  },
+                  {
+                     "name" : "Kayla Kalbfleisch",
+                     "role" : "Epilogue Dancer"
+                  },
+                  {
+                     "role" : "Epilogue Dancer",
+                     "name" : "Martha Nichols"
+                  },
+                  {
+                     "role" : "Epilogue Dancer",
+                     "name" : "Anthony Marciona"
+                  },
+                  {
+                     "name" : "Bill Prudich",
+                     "role" : "Epilogue Dancer"
+                  },
+                  {
+                     "name" : "Ryan Novak",
+                     "role" : "Epilogue Dancer"
+                  },
+                  {
+                     "name" : "Demian Boergadine",
+                     "role" : "Epilogue Dancer"
+                  },
+                  {
+                     "role" : "Epilogue Dancer",
+                     "name" : "Gustavo Vargas"
+                  },
+                  {
+                     "role" : "Angry Neighbor",
+                     "name" : "Robert Haynes"
+                  },
+                  {
+                     "role" : "Young Actress (uncredited)",
+                     "name" : "Ana Flavia Gavlak"
+                  },
+                  {
+                     "role" : "Coffee Shop Customer (uncredited)",
+                     "name" : "Andres Perez-Molina"
+                  },
+                  {
+                     "name" : "Phillip E. Walker",
+                     "role" : "Jazz Club Patron (uncredited)"
+                  },
+                  {
+                     "role" : "Coffee Shop Customer #2 (uncredited)",
+                     "name" : "Milica Govich"
+                  },
+                  {
+                     "role" : "Producer's Girlfriend (uncredited)",
+                     "name" : "Kaye L. Morris"
+                  },
+                  {
+                     "role" : "Coffee Shop Customer (uncredited)",
+                     "name" : "Nilla Elizabeth Watkins"
+                  },
+                  {
+                     "name" : "Holly Houk",
+                     "role" : "Kissing Couple (uncredited)"
+                  },
+                  {
+                     "name" : "Jesse Houk",
+                     "role" : "Kissing Couple (uncredited)"
+                  },
+                  {
+                     "name" : "Kristin Slaysman",
+                     "role" : "Coffee Shop Customer (uncredited)"
+                  },
+                  {
+                     "role" : "Jazz Club Patron (uncredited)",
+                     "name" : "Cameron Brinkman"
+                  },
+                  {
+                     "name" : "Jordan Ray Fox",
+                     "role" : "Nathan (uncredited)"
+                  },
+                  {
+                     "role" : "Espresso Coffee Shop Customer (uncredited)",
+                     "name" : "Caroline Jaden Stussi"
+                  },
+                  {
+                     "role" : "Jazz Club Goer (uncredited)",
+                     "name" : "Margaret Newborn"
+                  },
+                  {
+                     "role" : "Club Patron (uncredited)",
+                     "name" : "Nadia Tumanova"
+                  },
+                  {
+                     "role" : "Audition Actress (uncredited)",
+                     "name" : "Crystal Nichol"
+                  },
+                  {
+                     "name" : "Kristin Elliott",
+                     "role" : "Audition Actress (uncredited)"
+                  },
+                  {
+                     "name" : "Andrea Lareo",
+                     "role" : "Casting Assistant (uncredited)"
+                  },
+                  {
+                     "role" : "Cowboy (uncredited)",
+                     "name" : "Christopher Aber"
+                  },
+                  {
+                     "name" : "Anna Lunberry",
+                     "role" : "Publicist (uncredited)"
+                  },
+                  {
+                     "role" : "Hollywood Starlet (uncredited)",
+                     "name" : "Courtney Hart"
+                  },
+                  {
+                     "name" : "Shannon Leann",
+                     "role" : "Hollywood Starlet (uncredited)"
+                  },
+                  {
+                     "name" : "Jenna Curtis",
+                     "role" : "Waitress (uncredited)"
+                  },
+                  {
+                     "role" : "Young Man (uncredited)",
+                     "name" : "Noah James"
+                  },
+                  {
+                     "name" : "Tommy Cooley",
+                     "role" : "Kissing Couple (uncredited)"
+                  },
+                  {
+                     "name" : "Morgan Cohen",
+                     "role" : "Kissing Couple (uncredited)"
+                  },
+                  {
+                     "role" : "Freeway Truck Musician (uncredited)",
+                     "name" : "Jeremy Nathan Tisser"
+                  },
+                  {
+                     "name" : "Patty Tobin",
+                     "role" : "Casting Director (uncredited)"
+                  },
+                  {
+                     "role" : "Young Man's Date (uncredited)",
+                     "name" : "Heather Turman"
+                  },
+                  {
+                     "role" : "Jazz Club Patron (uncredited)",
+                     "name" : "Susie Ganiere"
+                  },
+                  {
+                     "name" : "Ottavio Taddei",
+                     "role" : "Swing Dancer (uncredited)"
+                  },
+                  {
+                     "role" : "Audition Girl (uncredited)",
+                     "name" : "April Martucci"
+                  },
+                  {
+                     "role" : "Sailor (uncredited)",
+                     "name" : "Trent Kerpsack"
+                  },
+                  {
+                     "role" : "Jazz Club Patron (uncredited)",
+                     "name" : "Lynn Moore"
+                  },
+                  {
+                     "role" : "Coffee Guy (uncredited)",
+                     "name" : "Vince Donvito"
+                  },
+                  {
+                     "name" : "Steffen Dziczek",
+                     "role" : "Moviegoer (uncredited)"
+                  },
+                  {
+                     "role" : "Waiter (uncredited)",
+                     "name" : "Melvin LaThomas Brimm"
+                  },
+                  {
+                     "name" : "Kelly Kennedy",
+                     "role" : "Bubblegum Girl (uncredited)"
+                  },
+                  {
+                     "name" : "Clarence Robinson",
+                     "role" : "Lighthouse Bass Player (uncredited)"
+                  },
+                  {
+                     "name" : "Dapo Torimiro",
+                     "role" : "Jazz Club Guitar Player (uncredited)"
+                  },
+                  {
+                     "name" : "Destinee Handly",
+                     "role" : "Barista (uncredited)"
+                  },
+                  {
+                     "role" : "Extra - Robert Evans (uncredited)",
+                     "name" : "Tommy Otis"
+                  },
+                  {
+                     "role" : "Red Head Actress (uncredited)",
+                     "name" : "Amanda Fields"
+                  },
+                  {
+                     "name" : "Frederick Keeve",
+                     "role" : "Restaurant Patron (uncredited)"
+                  },
+                  {
+                     "role" : "Street dance (uncredited)",
+                     "name" : "Kayla Bechor"
+                  },
+                  {
+                     "role" : "Epilogue Dancer",
+                     "name" : "Robert Roldan"
+                  }
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Family",
+                  "Fantasy",
+                  "Romance"
+               ]
+            },
+            "channel" : "hits.film.viasat.dk",
+            "url" : [
+               "http://www.themoviedb.org/movie/321612"
+            ],
+            "new" : null,
+            "start" : "1522375800",
+            "stop" : "1522383600",
+            "date" : "2017",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "rating" : {
+               "stars" : "6.8 / 10"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Emma Watson",
+                     "role" : "Belle"
+                  },
+                  {
+                     "role" : "Beast",
+                     "name" : "Dan Stevens"
+                  },
+                  {
+                     "role" : "Gaston",
+                     "name" : "Luke Evans"
+                  },
+                  {
+                     "name" : "Kevin Kline",
+                     "role" : "Maurice"
+                  },
+                  {
+                     "name" : "Josh Gad",
+                     "role" : "LeFou"
+                  },
+                  {
+                     "role" : "Lumi\u00e8re",
+                     "name" : "Ewan McGregor"
+                  },
+                  {
+                     "name" : "Stanley Tucci",
+                     "role" : "Maestro Cadenza"
+                  },
+                  {
+                     "role" : "Madame Garderobe",
+                     "name" : "Audra McDonald"
+                  },
+                  {
+                     "role" : "Plumette",
+                     "name" : "Gugu Mbatha-Raw"
+                  },
+                  {
+                     "name" : "Ian McKellen",
+                     "role" : "Cogsworth"
+                  },
+                  {
+                     "role" : "Mrs. Potts",
+                     "name" : "Emma Thompson"
+                  },
+                  {
+                     "name" : "Nathan Mack",
+                     "role" : "Chip Potts"
+                  },
+                  {
+                     "name" : "Hattie Morahan",
+                     "role" : "Agathe"
+                  },
+                  {
+                     "role" : "Monsieur D'Arque",
+                     "name" : "Adrian Schiller"
+                  },
+                  {
+                     "role" : "Jean Potts",
+                     "name" : "Gerard Horan"
+                  },
+                  {
+                     "name" : "Haydn Gwynne",
+                     "role" : "Clothilde"
+                  },
+                  {
+                     "name" : "Ray Fearon",
+                     "role" : "P\u00e8re Robert"
+                  },
+                  {
+                     "role" : "Cuisinier",
+                     "name" : "Clive Rowe"
+                  },
+                  {
+                     "name" : "Thomas Padden",
+                     "role" : "Chapeau"
+                  },
+                  {
+                     "role" : "Stanley",
+                     "name" : "Alexis Loizon"
+                  },
+                  {
+                     "name" : "Jimmy Johnston",
+                     "role" : "Tom"
+                  },
+                  {
+                     "role" : "Dick",
+                     "name" : "Dean Street"
+                  },
+                  {
+                     "name" : "Michael Jibson",
+                     "role" : "Tavern Keeper"
+                  },
+                  {
+                     "name" : "Zoe Rainey",
+                     "role" : "Belle's Mother"
+                  },
+                  {
+                     "role" : "Young Maurice",
+                     "name" : "Jolyon Coy"
+                  },
+                  {
+                     "role" : "Young Prince",
+                     "name" : "Rudi Goodman"
+                  },
+                  {
+                     "name" : "Henry Garrett",
+                     "role" : "The King"
+                  },
+                  {
+                     "role" : "The Queen",
+                     "name" : "Harriet Jones"
+                  },
+                  {
+                     "role" : "Village Lass",
+                     "name" : "Sophie Reid"
+                  },
+                  {
+                     "role" : "Village Lass",
+                     "name" : "Rafa\u00eblle Cohen"
+                  },
+                  {
+                     "name" : "Carla Nella",
+                     "role" : "Village Lass"
+                  },
+                  {
+                     "role" : "Fishmonger",
+                     "name" : "Tom Oakley"
+                  },
+                  {
+                     "role" : "Jam Seller",
+                     "name" : "Beth Willetts"
+                  },
+                  {
+                     "role" : "Wood Carrier",
+                     "name" : "Simone Sault"
+                  },
+                  {
+                     "name" : "Mandy Montanez",
+                     "role" : "Bread Buyer"
+                  },
+                  {
+                     "name" : "Leo Andrew",
+                     "role" : "Apothecary"
+                  },
+                  {
+                     "name" : "Steven Butler",
+                     "role" : "Cheese Maker"
+                  },
+                  {
+                     "name" : "Daniel Ioannou",
+                     "role" : "Barber"
+                  },
+                  {
+                     "name" : "Dale Branston",
+                     "role" : "Baker"
+                  },
+                  {
+                     "name" : "Lynne Wilmot",
+                     "role" : "Barmaid"
+                  },
+                  {
+                     "name" : "Jane Fowler",
+                     "role" : "Pretty Female Fishmonger"
+                  },
+                  {
+                     "name" : "D.J. Bailey",
+                     "role" : "Vagrant"
+                  },
+                  {
+                     "name" : "Rita Davies",
+                     "role" : "Enchantress Beggar Woman"
+                  },
+                  {
+                     "role" : "Cheese Maker",
+                     "name" : "Sharon Gomez"
+                  },
+                  {
+                     "role" : "Baby Belle",
+                     "name" : "Daisy Duczmal"
+                  },
+                  {
+                     "role" : "School Boy",
+                     "name" : "Harry Marcus"
+                  },
+                  {
+                     "role" : "School Boy",
+                     "name" : "Oscar Francisco"
+                  },
+                  {
+                     "name" : "Kai Gordon",
+                     "role" : "School Boy"
+                  },
+                  {
+                     "role" : "School Boy",
+                     "name" : "Tom Burgering"
+                  },
+                  {
+                     "role" : "School Boy",
+                     "name" : "Joey Brown"
+                  },
+                  {
+                     "role" : "School Boy",
+                     "name" : "Freddie Hunter"
+                  },
+                  {
+                     "name" : "Daniel Daszek-Green",
+                     "role" : "School Boy"
+                  },
+                  {
+                     "name" : "Samuel Brown",
+                     "role" : "School Boy"
+                  },
+                  {
+                     "role" : "School Boy",
+                     "name" : "Max Brophy"
+                  },
+                  {
+                     "role" : "Washer Girl",
+                     "name" : "Skye Lucia Degruttola"
+                  },
+                  {
+                     "name" : "Lara Decaro",
+                     "role" : "Little Girl"
+                  },
+                  {
+                     "name" : "Gemma Fray",
+                     "role" : "Little Girl"
+                  },
+                  {
+                     "role" : "Little Girl\u200b",
+                     "name" : "Adelaide Morgan"
+                  },
+                  {
+                     "name" : "Timia Julien-Box",
+                     "role" : "Little Girl"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Sonoya Mizuno"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Abigayle Honeywill"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Jazz Peters"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Lily Frazer"
+                  },
+                  {
+                     "name" : "Stephanie Elstob",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "name" : "Nicole O'Neill",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Cassie Clare"
+                  },
+                  {
+                     "name" : "Sophie Carmen-Jones",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Sophia Brown"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Leah West"
+                  },
+                  {
+                     "name" : "Naomi Weijand",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "name" : "Jasmine Takacs",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Ruth Steele"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Lucy St Louis"
+                  },
+                  {
+                     "name" : "Katie Singh",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Kayla Radam"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Courtney Pruce"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Nicola Mooi"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Anna Momcilovic"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Samira Mighty"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Fiona McDonald"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Abiona Omonua"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Cassie Macmillian"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Emily Loumba"
+                  },
+                  {
+                     "name" : "Jennifer Leung",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "name" : "Ella Kora",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Hannah Kenna-Thomas"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Billie Kay-Piper"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Shireen Jathoonia"
+                  },
+                  {
+                     "name" : "Blythe Jandoo",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "name" : "Chelsea Inez",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Leah Hill"
+                  },
+                  {
+                     "name" : "Selina Hamilton",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Helen Gulstan"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Lucy Alexa Gilbert"
+                  },
+                  {
+                     "name" : "Cj Field",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Cordelia Farnworth"
+                  },
+                  {
+                     "name" : "Paige Drury-Lawrence",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "name" : "Natalie Davis",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Tanya Cumberland"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Ava Brennan"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Daisy Boyles"
+                  },
+                  {
+                     "name" : "Holly Bluett",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Koko Basigara"
+                  },
+                  {
+                     "name" : "Sophie Atkins",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "name" : "Gabby Antrobus",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Rhianne Alleyn"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Hayley Ainsley"
+                  },
+                  {
+                     "name" : "Danielle Acors",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "name" : "Marina Abdeen",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "role" : "Male Villager",
+                     "name" : "Nathan Vaughan Harris"
+                  },
+                  {
+                     "role" : "Male Villager",
+                     "name" : "Ben Clare"
+                  },
+                  {
+                     "name" : "Ben Fox",
+                     "role" : "Male Villager"
+                  },
+                  {
+                     "name" : "Tim Stanley",
+                     "role" : "Male Villager"
+                  },
+                  {
+                     "role" : "Male Villager",
+                     "name" : "Jody Hall"
+                  },
+                  {
+                     "name" : "Rebecca Mckinnis",
+                     "role" : "Female Villager"
+                  },
+                  {
+                     "name" : "Dawn Buckland",
+                     "role" : "Female Villager"
+                  },
+                  {
+                     "role" : "Female Villager",
+                     "name" : "Ellen O'Grady"
+                  },
+                  {
+                     "name" : "Alison Jenkins",
+                     "role" : "Female Villager / Celebration Woman"
+                  },
+                  {
+                     "role" : "Female Villager / Celebration Woman",
+                     "name" : "Ebony Molina"
+                  },
+                  {
+                     "role" : "Female Villager / Celebration Woman",
+                     "name" : "Nicola Keen"
+                  },
+                  {
+                     "name" : "Freddie August",
+                     "role" : "Fiddler"
+                  },
+                  {
+                     "role" : "Fiddler",
+                     "name" : "Phil Grannel"
+                  },
+                  {
+                     "role" : "Apothecary's Patient",
+                     "name" : "Jak Allen-Anderson"
+                  },
+                  {
+                     "role" : "Stable Boy",
+                     "name" : "William Bozier"
+                  },
+                  {
+                     "role" : "Village Lass's Mother",
+                     "name" : "Vivien Parry"
+                  },
+                  {
+                     "name" : "Jacqui Jameson",
+                     "role" : "Cheese Maker"
+                  },
+                  {
+                     "role" : "Washer Woman",
+                     "name" : "Norma Atallah"
+                  },
+                  {
+                     "name" : "Wendy Baldock",
+                     "role" : "Washer Woman"
+                  },
+                  {
+                     "name" : "Peter Challis",
+                     "role" : "Butcher"
+                  },
+                  {
+                     "name" : "Sandy Strallen",
+                     "role" : "Cobbler"
+                  },
+                  {
+                     "role" : "Housewife",
+                     "name" : "Jemma Alexander"
+                  },
+                  {
+                     "role" : "Nasty Headmaster",
+                     "name" : "Chris Andrew Mellon"
+                  },
+                  {
+                     "role" : "Head Washer",
+                     "name" : "Alison Harding"
+                  },
+                  {
+                     "role" : "Flirtatious Farmer",
+                     "name" : "Obioma Ugoala"
+                  },
+                  {
+                     "role" : "Froufrou",
+                     "name" : "Gizmo"
+                  },
+                  {
+                     "role" : "Villager (uncredited)",
+                     "name" : "Alex Gillison"
+                  },
+                  {
+                     "name" : "Dan Trotter",
+                     "role" : "Villager (uncredited)"
+                  },
+                  {
+                     "name" : "Karl Farrer",
+                     "role" : "Villager (uncredited)"
+                  },
+                  {
+                     "name" : "Charlotte Worwood",
+                     "role" : "Villager (uncredited)"
+                  },
+                  {
+                     "role" : "Villager (uncredited)",
+                     "name" : "Marat Khairoullin"
+                  },
+                  {
+                     "name" : "Johanna Smitz",
+                     "role" : "Village Woman (uncredited)"
+                  },
+                  {
+                     "name" : "Lindy Pieri",
+                     "role" : "Village Woman (uncredited)"
+                  },
+                  {
+                     "name" : "Tyrone Love",
+                     "role" : "Village Gent (uncredited)"
+                  },
+                  {
+                     "role" : "Market Shopper (uncredited)",
+                     "name" : "Alona Leoine"
+                  },
+                  {
+                     "name" : "Erica Melargo",
+                     "role" : "Flower Girl / Debutante (uncredited)"
+                  },
+                  {
+                     "role" : "Silversmith (uncredited)",
+                     "name" : "Richard Banks"
+                  },
+                  {
+                     "role" : "Baker's Boy (uncredited)",
+                     "name" : "Jeremy Cave"
+                  },
+                  {
+                     "role" : "Singing Villager (uncredited)",
+                     "name" : "Luke Fictitious"
+                  },
+                  {
+                     "role" : "Village Lass (uncredited)",
+                     "name" : "Chloe Collingwood"
+                  },
+                  {
+                     "name" : "Isobel Hamilton",
+                     "role" : "Fishmonger / Villagewoman (uncredited)"
+                  },
+                  {
+                     "name" : "Rossana Silva",
+                     "role" : "Village Woman / Barmaid (uncredited)"
+                  },
+                  {
+                     "name" : "Crystal Compton",
+                     "role" : "Village Woman / Barmaid (uncredited)"
+                  },
+                  {
+                     "role" : "Village Man / Cage Seller / Lavender Seller (uncredited)",
+                     "name" : "Marlonde Pierre"
+                  },
+                  {
+                     "role" : "Detective (uncredited)",
+                     "name" : "Paul De La Rosa"
+                  },
+                  {
+                     "name" : "Clem So",
+                     "role" : "Debutante's Parent (uncredited)"
+                  },
+                  {
+                     "role" : "Debutantes Mother (uncredited)",
+                     "name" : "Teresa Shaughnessy"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Stephen Chbosky"
+                  },
+                  {
+                     "name" : "Evan Spiliotopoulos"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Bill Condon"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "David Hoberman"
+                  },
+                  {
+                     "name" : "Todd Lieberman"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Sk\u00f8nheden og Udyret"
+            },
+            "desc" : {
+               "da" : "Den smukke Belle (Emma Watson) bliver taget til fange af det skr\u00e6kkelige Udyr (Dan Stevens). Hun bliver holdt fanget i slottet, hvor hans tjenere er blevet forvandlet til omvandrende- og talende ure og bestik. Belle opdager, at hendes fangevogter hviler under en hemmelig forbandelse: Han vil v\u00e6re fanget i hans animalske form i al evighed, hvis han ikke n\u00e5r at forelske sig inden en fortryllet rose taber sit sidste blomsterblad. Med tiden begynder k\u00e6rligheden at spire mellem de to. Men Belle bliver samtidig det ufrivillige bytte for den arrogante j\u00e6ger, Gaston (Luke Evans), som planl\u00e6gger at tvinge hende til at gifte sig med ham."
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/321612"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Rejsen til Amerika [Dubbet version]"
+            },
+            "desc" : {
+               "da" : "[Dubbet version] Fievel er en ung, russisk mus, der bliver v\u00e6k fra sine for\u00e6ldre p\u00e5 vej til USA; et land, som de tror, ikke har nogen katte. Da han ankommer til Den Nye Verden, holder han hum\u00f8ret h\u00f8jt mens han leder efter sin familie. Han f\u00e5r nye venner, men m\u00e5 flygte fra de katte, som han troede, han blev fri for."
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Don Bluth"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Philip Glasser"
+                  },
+                  {
+                     "name" : "Amy Green"
+                  },
+                  {
+                     "name" : "Pat Musick"
+                  },
+                  {
+                     "name" : "Christopher Plummer"
+                  },
+                  {
+                     "name" : "Dom DeLuise"
+                  }
+               ]
+            },
+            "date" : "1986",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Animation",
+                  "Adventure",
+                  "Family",
+                  "Kids"
+               ]
+            },
+            "channel" : "hits.film.viasat.dk",
+            "stop" : "1522389600",
+            "start" : "1522383600"
+         },
+         {
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Phil Nibbelink"
+                  },
+                  {
+                     "name" : "Simon Wells"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Steven Spielberg"
+                  },
+                  {
+                     "name" : "Robert Watts"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Fievel Mousekewitz (voice)",
+                     "name" : "Phillip Glasser"
+                  },
+                  {
+                     "role" : "Wylie Burp (voice)",
+                     "name" : "James Stewart"
+                  },
+                  {
+                     "role" : "Mama Mousekewitz (voice)",
+                     "name" : "Erica Yohn"
+                  },
+                  {
+                     "name" : "Cathy Cavadini",
+                     "role" : "Tanya Mousekewitz (voice)"
+                  },
+                  {
+                     "role" : "Papa Mousekewitz (voice)",
+                     "name" : "Nehemiah Persoff"
+                  },
+                  {
+                     "name" : "Amy Irving",
+                     "role" : "Miss Kitty (voice)"
+                  },
+                  {
+                     "name" : "John Cleese",
+                     "role" : "Cat R. Waul (voice)"
+                  },
+                  {
+                     "name" : "Dom DeLuise",
+                     "role" : "Tiger (voice)"
+                  },
+                  {
+                     "role" : "Additional Voices (voice)",
+                     "name" : "Sherry Lynn"
+                  },
+                  {
+                     "role" : "New York Mice/Country Mice (voice)",
+                     "name" : "Mickie McGowan"
+                  },
+                  {
+                     "role" : "Frenchy (voice)",
+                     "name" : "Jack Angel"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Flint Dille"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "6.2 / 10"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/10380"
+            },
+            "title" : {
+               "da" : "Rejsen til Amerika 2 [D\u00f8bt udgave]"
+            },
+            "desc" : {
+               "da" : "[D\u00f8bt udgave] Da familien Mousekewitz endelig finder sig til rette i Amerika, opdager de at de fortsat har problemer med kattene. Derfor pr\u00f8ver de at flytte vestp\u00e5, de har nemlig h\u00f8rt at katte og mus lever i fred side om side i det vilde vesten.... Danske stemmer: Jess Ingerslev, Thomas Eje, Lars H\u00f8jbye, Susse Wold, Bent Mejding, S\u00f8ren \u00d8stergaard, Elin Reimer, Jesper Klein, Christine Skou og Kristian Boland."
+            },
+            "start" : "1522389600",
+            "stop" : "1522396800",
+            "channel" : "hits.film.viasat.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Adventure",
+                  "Animation",
+                  "Family"
+               ]
+            },
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/10380"
+            ],
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "1991"
+         },
+         {
+            "url" : [
+               "http://www.themoviedb.org/movie/267935"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Adventure",
+                  "Family",
+                  "Fantasy"
+               ]
+            },
+            "channel" : "hits.film.viasat.dk",
+            "stop" : "1522404000",
+            "start" : "1522396800",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2016",
+            "country" : [
+               "IN",
+               "US"
+            ],
+            "rating" : {
+               "stars" : "6.1 / 10"
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Steven Spielberg"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Frank Marshall"
+                  },
+                  {
+                     "name" : "Sam Mercer"
+                  },
+                  {
+                     "name" : "Steven Spielberg"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Ruby Barnhill",
+                     "role" : "Sophie"
+                  },
+                  {
+                     "name" : "Mark Rylance",
+                     "role" : "The BFG"
+                  },
+                  {
+                     "name" : "Rebecca Hall",
+                     "role" : "Mary"
+                  },
+                  {
+                     "name" : "Jemaine Clement",
+                     "role" : "Fleshlumpeater"
+                  },
+                  {
+                     "role" : "Bloodbottler",
+                     "name" : "Bill Hader"
+                  },
+                  {
+                     "name" : "Penelope Wilton",
+                     "role" : "The Queen"
+                  },
+                  {
+                     "role" : "Matron",
+                     "name" : "Marilyn Norry"
+                  },
+                  {
+                     "name" : "Chris Shields",
+                     "role" : "General #1"
+                  },
+                  {
+                     "name" : "Matt Frewer",
+                     "role" : "General #2"
+                  },
+                  {
+                     "name" : "Geoffrey Wade",
+                     "role" : "General #3"
+                  },
+                  {
+                     "role" : "Mr. Tibbs",
+                     "name" : "Rafe Spall"
+                  },
+                  {
+                     "name" : "Haig Sutherland",
+                     "role" : "Danish Father"
+                  },
+                  {
+                     "name" : "John Emmet Tracy",
+                     "role" : "Footman #1"
+                  },
+                  {
+                     "name" : "Adam Godley",
+                     "role" : "Manhugger / Lout #1"
+                  },
+                  {
+                     "role" : "Bonecruncher / Lout #2",
+                     "name" : "Daniel Bacon"
+                  },
+                  {
+                     "name" : "Paul Moniz de Sa",
+                     "role" : "Meatdripper / Lout #3"
+                  },
+                  {
+                     "role" : "The BFG",
+                     "name" : "Alejandro Cuello"
+                  },
+                  {
+                     "name" : "\u00d3lafur Darri \u00d3lafsson",
+                     "role" : "Maidmasher / Cook"
+                  },
+                  {
+                     "name" : "Michael Adamthwaite",
+                     "role" : "Butcher Boy / Danish Driver"
+                  },
+                  {
+                     "name" : "Gabrielle Rose",
+                     "role" : "Cook"
+                  },
+                  {
+                     "name" : "Lucia Ryan",
+                     "role" : "Orphan Girl #1 / Sophie Understudy"
+                  },
+                  {
+                     "role" : "Orphan Girl #2",
+                     "name" : "Julia Torrance"
+                  },
+                  {
+                     "name" : "Graham Curry",
+                     "role" : "Palace Guardsman"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Melissa Mathison"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "[Dubbet version]. Sophie (Ruby Barnhill) bor p\u00e5 et b\u00f8rnehjem i London. En nat m\u00f8der hun den Store Venlige K\u00e6mpe (Mark Rylance), der inds\u00e6tter dr\u00f8mme i hovederne p\u00e5 sovende b\u00f8rn. Han tager hende med til sit hjem i 'K\u00e6mpernes Land', hvor de indsamler vilde dr\u00f8mme, som kan give gl\u00e6de hos de slumrende unger. Men Sophie kommer snart i knibe, da hendes tilstedev\u00e6relse bliver opdaget af SVKs brutale storebr\u00f8dre; Fleshlumpeater (Jemaine Clement), Bloodbottler (Bill Hader) og Maidmasher (\u00d3lafur Darri \u00d3lafsson). Snart m\u00e5 det us\u00e6dvanlige makkerpar finde p\u00e5 en plan, for at besejre de forf\u00e6rdelige uhyrer."
+            },
+            "title" : {
+               "da" : "BFG [Dubbet version]"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/267935"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Animation",
+                  "Adventure",
+                  "Family"
+               ]
+            },
+            "channel" : "hits.film.viasat.dk",
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/12144"
+            ],
+            "start" : "1522404000",
+            "stop" : "1522411200",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "1988",
+            "country" : [
+               "IE",
+               "US"
+            ],
+            "rating" : {
+               "stars" : "6.9 / 10"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Gabriel Damon",
+                     "role" : "Littlefoot"
+                  },
+                  {
+                     "name" : "Candace Hutson",
+                     "role" : "Cera"
+                  },
+                  {
+                     "name" : "Judith Barsi",
+                     "role" : "Ducky"
+                  },
+                  {
+                     "role" : "Petrie",
+                     "name" : "Will Ryan"
+                  },
+                  {
+                     "name" : "Pat Hingle",
+                     "role" : "Narrator"
+                  },
+                  {
+                     "role" : "Littlefoot's Mother",
+                     "name" : "Helen Shaver"
+                  },
+                  {
+                     "name" : "Bill Erwin",
+                     "role" : "Grandfather"
+                  },
+                  {
+                     "name" : "Burke Byrnes",
+                     "role" : "Daddy Topps"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Stu Krieger"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Don Bluth"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Don Bluth"
+                  },
+                  {
+                     "name" : "Gary Goldman"
+                  },
+                  {
+                     "name" : "John Pomeroy"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Landet for l\u00e6nge siden"
+            },
+            "desc" : {
+               "da" : "[Dubbet version]. Med sine frodige, dr\u00f8mmeagtige \u00e5bningssekvens og sine episke landskaber, er Don Bluths 'Landet for l\u00e6nge siden' et fortryllende, forhistorisk eventyr. Lillefod (Gabriel Damon) er en lille Brachiosaurus, der er faret vild og p\u00e5 egen h\u00e5nd, mens han og hans for\u00e6ldre er p\u00e5 rejse mod fourageringsomr\u00e5derne ved den Store Dal. Lillefod m\u00e5, sammen med de andre baby-dinosaurvenner, begive sig ud i farligt terr\u00e6n, for at komme frem til den Store Dal, hvor de st\u00f8der p\u00e5 farer og nye eventyrer p\u00e5 deres vej. LANDET FOR L\u00c6NGE SIDEN er en perle inden for animation, ved brug af traditionelle metoder, til at skabe farverige, detaljerede scener og realistiske bev\u00e6gelser. Filmen fungerer som en perfekt introduktion for sm\u00e5 b\u00f8rn til dinosaurernes fascinerende verden."
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/12144"
+            }
+         },
+         {
+            "date" : "2016",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "new" : null,
+            "channel" : "hits.film.viasat.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Animation",
+                  "Adventure"
+               ]
+            },
+            "start" : "1522411200",
+            "stop" : "1522418400",
+            "title" : {
+               "da" : "Vaiana [Dubbet version]"
+            },
+            "desc" : {
+               "da" : "\"[Dubbet version] Auli'I Cravalho, Dwayne Johnson og Jermaine Clement medvirker i denne fort\u00e6lling; om en ung polynesier-pige, der g\u00e5r sammen med en halvgud, for at opfylde sk\u00e6bnen, der blev startet af hendes forf\u00e6dre."
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Ron Clements"
+                  },
+                  {
+                     "name" : "John Musker"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Auli'I Cravalho"
+                  },
+                  {
+                     "name" : "Dwayne Johnson"
+                  },
+                  {
+                     "name" : "Jermaine Clement"
+                  },
+                  {
+                     "name" : "Nicole Scherzinger"
+                  },
+                  {
+                     "name" : "Alan Tudyk"
+                  }
+               ]
+            }
+         },
+         {
+            "channel" : "hits.film.viasat.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Family",
+                  "Fantasy",
+                  "Comedy"
+               ]
+            },
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/14442"
+            ],
+            "stop" : "1522425000",
+            "start" : "1522418400",
+            "date" : "2004",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "IE",
+               "GB"
+            ],
+            "rating" : {
+               "stars" : "5.9 / 10"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Anne Hathaway",
+                     "role" : "Ella of Frell"
+                  },
+                  {
+                     "role" : "Prince \"Char\" Charmont",
+                     "name" : "Hugh Dancy"
+                  },
+                  {
+                     "role" : "King Edgar",
+                     "name" : "Cary Elwes"
+                  },
+                  {
+                     "role" : "Lucinda",
+                     "name" : "Vivica A. Fox"
+                  },
+                  {
+                     "name" : "Joanna Lumley",
+                     "role" : "Dame Olga"
+                  },
+                  {
+                     "role" : "Benny",
+                     "name" : "Jimi Mistry"
+                  },
+                  {
+                     "name" : "Steve Coogan",
+                     "role" : "Heston (voice)"
+                  },
+                  {
+                     "name" : "Aidan McArdle",
+                     "role" : "Slannen"
+                  },
+                  {
+                     "role" : "Brumhilda",
+                     "name" : "Heidi Klum"
+                  },
+                  {
+                     "name" : "Jim Carter",
+                     "role" : "Nish"
+                  },
+                  {
+                     "name" : "Jennifer Higham",
+                     "role" : "Olive"
+                  },
+                  {
+                     "role" : "Areida",
+                     "name" : "Parminder Nagra"
+                  },
+                  {
+                     "role" : "Hattie",
+                     "name" : "Lucy Punch"
+                  },
+                  {
+                     "name" : "Minnie Driver",
+                     "role" : "Mandy"
+                  },
+                  {
+                     "role" : "Sir Peter",
+                     "name" : "Patrick Bergin"
+                  },
+                  {
+                     "name" : "Eric Idle",
+                     "role" : "Narrator"
+                  },
+                  {
+                     "name" : "Donna Dent",
+                     "role" : "Ella's Mother"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Laurie Craig"
+                  },
+                  {
+                     "name" : "Karen McCullah Lutz"
+                  },
+                  {
+                     "name" : "Kirsten Smith"
+                  },
+                  {
+                     "name" : "Jennifer Heath"
+                  },
+                  {
+                     "name" : "Michele J. Wolff"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Tommy O'Haver"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Jane Startz"
+                  },
+                  {
+                     "name" : "David Parfitt"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Magiske Ella"
+            },
+            "desc" : {
+               "da" : "I en magisk verden er alle b\u00f8rn velsignet med en fortryllelse. Men for Ella (Anne Hathaway) g\u00e5r det galt, da hendes fe-gudmor, Lucinda (Vivica A. Fox), ufors\u00e6tligt kommer til at forbande hende med \"evnen til lydighed.\" Ella m\u00e5 adlyde enhver form for ordre, uanset hendes mening om ordren. I et fors\u00f8g p\u00e5 at genvinde kontrollen over sit liv, begiver hun sig ud p\u00e5 en rejse for at slippe af med forbandelsen. P\u00e5 hendes vej m\u00f8der hun den elegante prins Charmont (Hugh Dancy), der er p\u00e5 flugt fra hans fanklub af piger. Tilbage p\u00e5 slottet p\u00f8nser hans onde onkel, Sir Edgar (Cary Elwes), p\u00e5 at stj\u00e6le nev\u00f8ens krone. Ella vil hj\u00e6lpe den naive, unge prins med at genvinde tronen, mens hun bearbejder sine egne problemer med eftergivenhed."
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/14442"
+            }
+         },
+         {
+            "stop" : "1522432800",
+            "start" : "1522425000",
+            "channel" : "hits.film.viasat.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Family",
+                  "Fantasy",
+                  "Romance"
+               ]
+            },
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/321612"
+            ],
+            "country" : [
+               "US"
+            ],
+            "date" : "2017",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Stephen Chbosky"
+                  },
+                  {
+                     "name" : "Evan Spiliotopoulos"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Belle",
+                     "name" : "Emma Watson"
+                  },
+                  {
+                     "role" : "Beast",
+                     "name" : "Dan Stevens"
+                  },
+                  {
+                     "role" : "Gaston",
+                     "name" : "Luke Evans"
+                  },
+                  {
+                     "name" : "Kevin Kline",
+                     "role" : "Maurice"
+                  },
+                  {
+                     "role" : "LeFou",
+                     "name" : "Josh Gad"
+                  },
+                  {
+                     "role" : "Lumi\u00e8re",
+                     "name" : "Ewan McGregor"
+                  },
+                  {
+                     "role" : "Maestro Cadenza",
+                     "name" : "Stanley Tucci"
+                  },
+                  {
+                     "role" : "Madame Garderobe",
+                     "name" : "Audra McDonald"
+                  },
+                  {
+                     "role" : "Plumette",
+                     "name" : "Gugu Mbatha-Raw"
+                  },
+                  {
+                     "role" : "Cogsworth",
+                     "name" : "Ian McKellen"
+                  },
+                  {
+                     "role" : "Mrs. Potts",
+                     "name" : "Emma Thompson"
+                  },
+                  {
+                     "role" : "Chip Potts",
+                     "name" : "Nathan Mack"
+                  },
+                  {
+                     "name" : "Hattie Morahan",
+                     "role" : "Agathe"
+                  },
+                  {
+                     "name" : "Adrian Schiller",
+                     "role" : "Monsieur D'Arque"
+                  },
+                  {
+                     "role" : "Jean Potts",
+                     "name" : "Gerard Horan"
+                  },
+                  {
+                     "role" : "Clothilde",
+                     "name" : "Haydn Gwynne"
+                  },
+                  {
+                     "role" : "P\u00e8re Robert",
+                     "name" : "Ray Fearon"
+                  },
+                  {
+                     "role" : "Cuisinier",
+                     "name" : "Clive Rowe"
+                  },
+                  {
+                     "role" : "Chapeau",
+                     "name" : "Thomas Padden"
+                  },
+                  {
+                     "name" : "Alexis Loizon",
+                     "role" : "Stanley"
+                  },
+                  {
+                     "role" : "Tom",
+                     "name" : "Jimmy Johnston"
+                  },
+                  {
+                     "name" : "Dean Street",
+                     "role" : "Dick"
+                  },
+                  {
+                     "name" : "Michael Jibson",
+                     "role" : "Tavern Keeper"
+                  },
+                  {
+                     "name" : "Zoe Rainey",
+                     "role" : "Belle's Mother"
+                  },
+                  {
+                     "role" : "Young Maurice",
+                     "name" : "Jolyon Coy"
+                  },
+                  {
+                     "role" : "Young Prince",
+                     "name" : "Rudi Goodman"
+                  },
+                  {
+                     "name" : "Henry Garrett",
+                     "role" : "The King"
+                  },
+                  {
+                     "role" : "The Queen",
+                     "name" : "Harriet Jones"
+                  },
+                  {
+                     "role" : "Village Lass",
+                     "name" : "Sophie Reid"
+                  },
+                  {
+                     "role" : "Village Lass",
+                     "name" : "Rafa\u00eblle Cohen"
+                  },
+                  {
+                     "name" : "Carla Nella",
+                     "role" : "Village Lass"
+                  },
+                  {
+                     "name" : "Tom Oakley",
+                     "role" : "Fishmonger"
+                  },
+                  {
+                     "role" : "Jam Seller",
+                     "name" : "Beth Willetts"
+                  },
+                  {
+                     "name" : "Simone Sault",
+                     "role" : "Wood Carrier"
+                  },
+                  {
+                     "role" : "Bread Buyer",
+                     "name" : "Mandy Montanez"
+                  },
+                  {
+                     "role" : "Apothecary",
+                     "name" : "Leo Andrew"
+                  },
+                  {
+                     "role" : "Cheese Maker",
+                     "name" : "Steven Butler"
+                  },
+                  {
+                     "name" : "Daniel Ioannou",
+                     "role" : "Barber"
+                  },
+                  {
+                     "role" : "Baker",
+                     "name" : "Dale Branston"
+                  },
+                  {
+                     "role" : "Barmaid",
+                     "name" : "Lynne Wilmot"
+                  },
+                  {
+                     "role" : "Pretty Female Fishmonger",
+                     "name" : "Jane Fowler"
+                  },
+                  {
+                     "role" : "Vagrant",
+                     "name" : "D.J. Bailey"
+                  },
+                  {
+                     "role" : "Enchantress Beggar Woman",
+                     "name" : "Rita Davies"
+                  },
+                  {
+                     "role" : "Cheese Maker",
+                     "name" : "Sharon Gomez"
+                  },
+                  {
+                     "name" : "Daisy Duczmal",
+                     "role" : "Baby Belle"
+                  },
+                  {
+                     "name" : "Harry Marcus",
+                     "role" : "School Boy"
+                  },
+                  {
+                     "name" : "Oscar Francisco",
+                     "role" : "School Boy"
+                  },
+                  {
+                     "role" : "School Boy",
+                     "name" : "Kai Gordon"
+                  },
+                  {
+                     "name" : "Tom Burgering",
+                     "role" : "School Boy"
+                  },
+                  {
+                     "role" : "School Boy",
+                     "name" : "Joey Brown"
+                  },
+                  {
+                     "name" : "Freddie Hunter",
+                     "role" : "School Boy"
+                  },
+                  {
+                     "role" : "School Boy",
+                     "name" : "Daniel Daszek-Green"
+                  },
+                  {
+                     "role" : "School Boy",
+                     "name" : "Samuel Brown"
+                  },
+                  {
+                     "role" : "School Boy",
+                     "name" : "Max Brophy"
+                  },
+                  {
+                     "name" : "Skye Lucia Degruttola",
+                     "role" : "Washer Girl"
+                  },
+                  {
+                     "role" : "Little Girl",
+                     "name" : "Lara Decaro"
+                  },
+                  {
+                     "role" : "Little Girl",
+                     "name" : "Gemma Fray"
+                  },
+                  {
+                     "role" : "Little Girl\u200b",
+                     "name" : "Adelaide Morgan"
+                  },
+                  {
+                     "role" : "Little Girl",
+                     "name" : "Timia Julien-Box"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Sonoya Mizuno"
+                  },
+                  {
+                     "name" : "Abigayle Honeywill",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "name" : "Jazz Peters",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "name" : "Lily Frazer",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "name" : "Stephanie Elstob",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Nicole O'Neill"
+                  },
+                  {
+                     "name" : "Cassie Clare",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "name" : "Sophie Carmen-Jones",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "name" : "Sophia Brown",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Leah West"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Naomi Weijand"
+                  },
+                  {
+                     "name" : "Jasmine Takacs",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Ruth Steele"
+                  },
+                  {
+                     "name" : "Lucy St Louis",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "name" : "Katie Singh",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Kayla Radam"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Courtney Pruce"
+                  },
+                  {
+                     "name" : "Nicola Mooi",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Anna Momcilovic"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Samira Mighty"
+                  },
+                  {
+                     "name" : "Fiona McDonald",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Abiona Omonua"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Cassie Macmillian"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Emily Loumba"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Jennifer Leung"
+                  },
+                  {
+                     "name" : "Ella Kora",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Hannah Kenna-Thomas"
+                  },
+                  {
+                     "name" : "Billie Kay-Piper",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "name" : "Shireen Jathoonia",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "name" : "Blythe Jandoo",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "name" : "Chelsea Inez",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Leah Hill"
+                  },
+                  {
+                     "name" : "Selina Hamilton",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Helen Gulstan"
+                  },
+                  {
+                     "name" : "Lucy Alexa Gilbert",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Cj Field"
+                  },
+                  {
+                     "name" : "Cordelia Farnworth",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "name" : "Paige Drury-Lawrence",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "name" : "Natalie Davis",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "name" : "Tanya Cumberland",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "name" : "Ava Brennan",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Daisy Boyles"
+                  },
+                  {
+                     "name" : "Holly Bluett",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "name" : "Koko Basigara",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "name" : "Sophie Atkins",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "name" : "Gabby Antrobus",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Rhianne Alleyn"
+                  },
+                  {
+                     "name" : "Hayley Ainsley",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "role" : "Debutante",
+                     "name" : "Danielle Acors"
+                  },
+                  {
+                     "name" : "Marina Abdeen",
+                     "role" : "Debutante"
+                  },
+                  {
+                     "role" : "Male Villager",
+                     "name" : "Nathan Vaughan Harris"
+                  },
+                  {
+                     "name" : "Ben Clare",
+                     "role" : "Male Villager"
+                  },
+                  {
+                     "role" : "Male Villager",
+                     "name" : "Ben Fox"
+                  },
+                  {
+                     "name" : "Tim Stanley",
+                     "role" : "Male Villager"
+                  },
+                  {
+                     "role" : "Male Villager",
+                     "name" : "Jody Hall"
+                  },
+                  {
+                     "role" : "Female Villager",
+                     "name" : "Rebecca Mckinnis"
+                  },
+                  {
+                     "role" : "Female Villager",
+                     "name" : "Dawn Buckland"
+                  },
+                  {
+                     "name" : "Ellen O'Grady",
+                     "role" : "Female Villager"
+                  },
+                  {
+                     "role" : "Female Villager / Celebration Woman",
+                     "name" : "Alison Jenkins"
+                  },
+                  {
+                     "role" : "Female Villager / Celebration Woman",
+                     "name" : "Ebony Molina"
+                  },
+                  {
+                     "role" : "Female Villager / Celebration Woman",
+                     "name" : "Nicola Keen"
+                  },
+                  {
+                     "name" : "Freddie August",
+                     "role" : "Fiddler"
+                  },
+                  {
+                     "role" : "Fiddler",
+                     "name" : "Phil Grannel"
+                  },
+                  {
+                     "name" : "Jak Allen-Anderson",
+                     "role" : "Apothecary's Patient"
+                  },
+                  {
+                     "name" : "William Bozier",
+                     "role" : "Stable Boy"
+                  },
+                  {
+                     "name" : "Vivien Parry",
+                     "role" : "Village Lass's Mother"
+                  },
+                  {
+                     "name" : "Jacqui Jameson",
+                     "role" : "Cheese Maker"
+                  },
+                  {
+                     "role" : "Washer Woman",
+                     "name" : "Norma Atallah"
+                  },
+                  {
+                     "role" : "Washer Woman",
+                     "name" : "Wendy Baldock"
+                  },
+                  {
+                     "name" : "Peter Challis",
+                     "role" : "Butcher"
+                  },
+                  {
+                     "name" : "Sandy Strallen",
+                     "role" : "Cobbler"
+                  },
+                  {
+                     "role" : "Housewife",
+                     "name" : "Jemma Alexander"
+                  },
+                  {
+                     "name" : "Chris Andrew Mellon",
+                     "role" : "Nasty Headmaster"
+                  },
+                  {
+                     "role" : "Head Washer",
+                     "name" : "Alison Harding"
+                  },
+                  {
+                     "name" : "Obioma Ugoala",
+                     "role" : "Flirtatious Farmer"
+                  },
+                  {
+                     "name" : "Gizmo",
+                     "role" : "Froufrou"
+                  },
+                  {
+                     "name" : "Alex Gillison",
+                     "role" : "Villager (uncredited)"
+                  },
+                  {
+                     "role" : "Villager (uncredited)",
+                     "name" : "Dan Trotter"
+                  },
+                  {
+                     "role" : "Villager (uncredited)",
+                     "name" : "Karl Farrer"
+                  },
+                  {
+                     "name" : "Charlotte Worwood",
+                     "role" : "Villager (uncredited)"
+                  },
+                  {
+                     "role" : "Villager (uncredited)",
+                     "name" : "Marat Khairoullin"
+                  },
+                  {
+                     "name" : "Johanna Smitz",
+                     "role" : "Village Woman (uncredited)"
+                  },
+                  {
+                     "name" : "Lindy Pieri",
+                     "role" : "Village Woman (uncredited)"
+                  },
+                  {
+                     "name" : "Tyrone Love",
+                     "role" : "Village Gent (uncredited)"
+                  },
+                  {
+                     "role" : "Market Shopper (uncredited)",
+                     "name" : "Alona Leoine"
+                  },
+                  {
+                     "role" : "Flower Girl / Debutante (uncredited)",
+                     "name" : "Erica Melargo"
+                  },
+                  {
+                     "name" : "Richard Banks",
+                     "role" : "Silversmith (uncredited)"
+                  },
+                  {
+                     "role" : "Baker's Boy (uncredited)",
+                     "name" : "Jeremy Cave"
+                  },
+                  {
+                     "role" : "Singing Villager (uncredited)",
+                     "name" : "Luke Fictitious"
+                  },
+                  {
+                     "name" : "Chloe Collingwood",
+                     "role" : "Village Lass (uncredited)"
+                  },
+                  {
+                     "role" : "Fishmonger / Villagewoman (uncredited)",
+                     "name" : "Isobel Hamilton"
+                  },
+                  {
+                     "role" : "Village Woman / Barmaid (uncredited)",
+                     "name" : "Rossana Silva"
+                  },
+                  {
+                     "role" : "Village Woman / Barmaid (uncredited)",
+                     "name" : "Crystal Compton"
+                  },
+                  {
+                     "name" : "Marlonde Pierre",
+                     "role" : "Village Man / Cage Seller / Lavender Seller (uncredited)"
+                  },
+                  {
+                     "role" : "Detective (uncredited)",
+                     "name" : "Paul De La Rosa"
+                  },
+                  {
+                     "name" : "Clem So",
+                     "role" : "Debutante's Parent (uncredited)"
+                  },
+                  {
+                     "role" : "Debutantes Mother (uncredited)",
+                     "name" : "Teresa Shaughnessy"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Bill Condon"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "David Hoberman"
+                  },
+                  {
+                     "name" : "Todd Lieberman"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "6.8 / 10"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/321612"
+            },
+            "desc" : {
+               "da" : "Den smukke Belle (Emma Watson) bliver taget til fange af det skr\u00e6kkelige Udyr (Dan Stevens). Hun bliver holdt fanget i slottet, hvor hans tjenere er blevet forvandlet til omvandrende- og talende ure og bestik. Belle opdager, at hendes fangevogter hviler under en hemmelig forbandelse: Han vil v\u00e6re fanget i hans animalske form i al evighed, hvis han ikke n\u00e5r at forelske sig inden en fortryllet rose taber sit sidste blomsterblad. Med tiden begynder k\u00e6rligheden at spire mellem de to. Men Belle bliver samtidig det ufrivillige bytte for den arrogante j\u00e6ger, Gaston (Luke Evans), som planl\u00e6gger at tvinge hende til at gifte sig med ham."
+            },
+            "title" : {
+               "da" : "Sk\u00f8nheden og Udyret"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Da showbiz-koalaen Buster Moons (Matthew McConaughey) teater st\u00e5r over for en trussel om at blive lukket, afholder han en sangkonkurrence. Det \u00e5bner en mulighed for de lokale dyr. Grisen Rosita (Reese Witherspoon) er en hjemmeg\u00e5ende \"husmor\", der opgav sin livsdr\u00f8m om at blive sanger. Teenage-tr\u00e6pindsvinet Ash (Scarlett Johansson) er en punkrocker i et band, der spiller alternativ musik. Gorillaen Johnny (Taron Egerton) bliver opl\u00e6rt af faderen, Big Daddy (Peter Serafinowicz), til at f\u00f8lge i hans fodspor og blive bankr\u00f8ver. Men Johnny leder efter en vej ud af kriminaliteten. Hver af disse dyr s\u00f8ger efter en mulighed at realisere deres dr\u00f8m p\u00e5!"
+            },
+            "title" : {
+               "da" : "Syng"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/335797"
+            },
+            "rating" : {
+               "stars" : "6.9 / 10"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Buster Moon (voice)",
+                     "name" : "Matthew McConaughey"
+                  },
+                  {
+                     "name" : "Reese Witherspoon",
+                     "role" : "Rosita (voice)"
+                  },
+                  {
+                     "name" : "Seth MacFarlane",
+                     "role" : "Mike (voice)"
+                  },
+                  {
+                     "name" : "Scarlett Johansson",
+                     "role" : "Ash (voice)"
+                  },
+                  {
+                     "role" : "Eddie (voice)",
+                     "name" : "John C. Reilly"
+                  },
+                  {
+                     "name" : "Taron Egerton",
+                     "role" : "Johnny (voice)"
+                  },
+                  {
+                     "name" : "Tori Kelly",
+                     "role" : "Meena (voice)"
+                  },
+                  {
+                     "name" : "Rhea Perlman",
+                     "role" : "Judith (voice)"
+                  },
+                  {
+                     "role" : "Gunter (voice)",
+                     "name" : "Nick Kroll"
+                  },
+                  {
+                     "role" : "Norman (voice)",
+                     "name" : "Nick Offerman"
+                  },
+                  {
+                     "role" : "Miss Crawly / Additional Voices (voice)",
+                     "name" : "Garth Jennings"
+                  },
+                  {
+                     "role" : "Big Daddy (voice)",
+                     "name" : "Peter Serafinowicz"
+                  },
+                  {
+                     "name" : "Beck Bennett",
+                     "role" : "Lance (voice)"
+                  },
+                  {
+                     "name" : "Jennifer Saunders",
+                     "role" : "Nana (voice)"
+                  },
+                  {
+                     "name" : "Jennifer Hudson",
+                     "role" : "Young Nana (voice)"
+                  },
+                  {
+                     "name" : "Jay Pharoah",
+                     "role" : "Meena's Grandfather (voice)"
+                  },
+                  {
+                     "name" : "Laraine Newman",
+                     "role" : "Meena's Grandmother / Additional Voices (voice)"
+                  },
+                  {
+                     "name" : "Bill Farmer",
+                     "role" : "News Reporter Dog (voice)"
+                  },
+                  {
+                     "role" : "Stan (voice)",
+                     "name" : "Adam Buxton"
+                  },
+                  {
+                     "name" : "Brad Morris",
+                     "role" : "Baboon (voice)"
+                  },
+                  {
+                     "name" : "Wes Anderson",
+                     "role" : "Additional Voices (voice)"
+                  },
+                  {
+                     "name" : "Chris Renaud",
+                     "role" : "Additional Voices (voice)"
+                  },
+                  {
+                     "role" : "Additional Voices (voice)",
+                     "name" : "Edgar Wright"
+                  },
+                  {
+                     "name" : "Asher Blinkoff",
+                     "role" : "Piglet (voice)"
+                  },
+                  {
+                     "name" : "Jessica Rau",
+                     "role" : "Additional Voices (voice)"
+                  },
+                  {
+                     "role" : "Additional Voices (voice)",
+                     "name" : "Carlos Alazraqui"
+                  },
+                  {
+                     "name" : "Sara Mann",
+                     "role" : "Additional Voices (voice)"
+                  },
+                  {
+                     "role" : "Additional Voices (voice)",
+                     "name" : "Daamen J. Krall"
+                  },
+                  {
+                     "role" : "Additional Voices (voice)",
+                     "name" : "Bob Bergen"
+                  },
+                  {
+                     "role" : "Additional Voices (voice)",
+                     "name" : "Doug Burch"
+                  },
+                  {
+                     "name" : "Cathy Cavadini",
+                     "role" : "Additional Voices (voice)"
+                  },
+                  {
+                     "role" : "Additional Voices (voice)",
+                     "name" : "Jason Pace"
+                  },
+                  {
+                     "role" : "Additional Voices (voice)",
+                     "name" : "Townsend Coleman"
+                  },
+                  {
+                     "role" : "Additional Voices (voice)",
+                     "name" : "Abby Craden"
+                  },
+                  {
+                     "name" : "Jim Cummings",
+                     "role" : "Additional Voices (voice)"
+                  },
+                  {
+                     "role" : "Additional Voices (voice)",
+                     "name" : "John DeMita"
+                  },
+                  {
+                     "role" : "Additional Voices (voice)",
+                     "name" : "Willow Geer"
+                  },
+                  {
+                     "name" : "Tara Strong",
+                     "role" : "Additional Voices (voice)"
+                  },
+                  {
+                     "role" : "Additional Voices (voice)",
+                     "name" : "Jess Harnell"
+                  },
+                  {
+                     "role" : "Meena's Mother (voice)",
+                     "name" : "Leslie Jones"
+                  },
+                  {
+                     "role" : "Piglet (voice)",
+                     "name" : "Oscar Jennings"
+                  },
+                  {
+                     "role" : "Piglet (voice)",
+                     "name" : "Leo Jennings"
+                  },
+                  {
+                     "name" : "Caspar Jennings",
+                     "role" : "Piglet (voice)"
+                  },
+                  {
+                     "role" : "Piglet (voice)",
+                     "name" : "Asa Jennings"
+                  },
+                  {
+                     "role" : "Frog (voice)",
+                     "name" : "Jon Robert Hall"
+                  },
+                  {
+                     "role" : "Spider (voice)",
+                     "name" : "Laura Dickinson"
+                  },
+                  {
+                     "role" : "Singer (voice)",
+                     "name" : "Jen Faith Brown"
+                  },
+                  {
+                     "role" : "Voice 1",
+                     "name" : "\u00c1urea"
+                  },
+                  {
+                     "role" : "Voice 2",
+                     "name" : "Marisa Liz"
+                  },
+                  {
+                     "name" : "Mickael Carreira",
+                     "role" : "Voice 3"
+                  },
+                  {
+                     "name" : "Deolinda Kinzimba",
+                     "role" : "Voice 4"
+                  },
+                  {
+                     "name" : "Jeremy Maxwell",
+                     "role" : "Additional Voices (voice)"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Janet Healy"
+                  },
+                  {
+                     "name" : "Christopher Meledandri"
+                  },
+                  {
+                     "name" : "Joby Talbot"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Garth Jennings"
+                  }
+               ]
+            },
+            "date" : "2016",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "channel" : "hits.film.viasat.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Animation",
+                  "Comedy",
+                  "Drama",
+                  "Family",
+                  "Music"
+               ]
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/335797"
+            ],
+            "new" : null,
+            "start" : "1522432800",
+            "stop" : "1522440000"
+         },
+         {
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/313369"
+            ],
+            "channel" : "hits.film.viasat.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Comedy",
+                  "Drama",
+                  "Music",
+                  "Romance"
+               ]
+            },
+            "start" : "1522440000",
+            "stop" : "1522447800",
+            "date" : "2016",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "rating" : {
+               "stars" : "7.9 / 10"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Ryan Gosling",
+                     "role" : "Sebastian Wilder"
+                  },
+                  {
+                     "name" : "Emma Stone",
+                     "role" : "Mia Dolan"
+                  },
+                  {
+                     "name" : "John Legend",
+                     "role" : "Keith"
+                  },
+                  {
+                     "name" : "Rosemarie DeWitt",
+                     "role" : "Laura Wilder"
+                  },
+                  {
+                     "role" : "Bill",
+                     "name" : "J.K. Simmons"
+                  },
+                  {
+                     "role" : "Famous Actress",
+                     "name" : "Ami\u00e9e Conn"
+                  },
+                  {
+                     "role" : "Linda",
+                     "name" : "Terry Walters"
+                  },
+                  {
+                     "role" : "Coffee Spiller",
+                     "name" : "Thom Shelton"
+                  },
+                  {
+                     "role" : "Casting Director",
+                     "name" : "Cinda Adams"
+                  },
+                  {
+                     "name" : "Callie Hernandez",
+                     "role" : "Tracy"
+                  },
+                  {
+                     "name" : "Jessica Rothe",
+                     "role" : "Alexis"
+                  },
+                  {
+                     "role" : "Caitlin",
+                     "name" : "Sonoya Mizuno"
+                  },
+                  {
+                     "role" : "Karen",
+                     "name" : "Claudine Claudio"
+                  },
+                  {
+                     "name" : "Jason Fuchs",
+                     "role" : "Carlo"
+                  },
+                  {
+                     "role" : "80's singer",
+                     "name" : "D.A. Wallach"
+                  },
+                  {
+                     "role" : "Valet",
+                     "name" : "Trevor Lissauer"
+                  },
+                  {
+                     "role" : "Bree",
+                     "name" : "Olivia Hamilton"
+                  },
+                  {
+                     "role" : "Sarah",
+                     "name" : "Anna Chazelle"
+                  },
+                  {
+                     "role" : "Clyde",
+                     "name" : "Marius De Vries"
+                  },
+                  {
+                     "name" : "Finn Wittrock",
+                     "role" : "Greg Earnest"
+                  },
+                  {
+                     "name" : "Josh Pence",
+                     "role" : "Josh"
+                  },
+                  {
+                     "name" : "Nicole Coulon",
+                     "role" : "Josh's Fiance"
+                  },
+                  {
+                     "name" : "Damon Gupton",
+                     "role" : "Harry"
+                  },
+                  {
+                     "name" : "Christopher Michael Stevens",
+                     "role" : "Malcolm"
+                  },
+                  {
+                     "role" : "Cole",
+                     "name" : "Keith Harris"
+                  },
+                  {
+                     "role" : "Tom",
+                     "name" : "Kaveh Rastegar"
+                  },
+                  {
+                     "role" : "Echo Backup Singer",
+                     "name" : "Briana Lee"
+                  },
+                  {
+                     "name" : "David Douglas",
+                     "role" : "Ty"
+                  },
+                  {
+                     "name" : "Miles Anderson",
+                     "role" : "Alistair"
+                  },
+                  {
+                     "name" : "Bobo Chang",
+                     "role" : "Photographer's Assistant"
+                  },
+                  {
+                     "role" : "Mrs. Dolan",
+                     "name" : "Meagen Fay"
+                  },
+                  {
+                     "role" : "Frank",
+                     "name" : "John Hindman"
+                  },
+                  {
+                     "role" : "Amy Brandt",
+                     "name" : "Valarie Rae Miller"
+                  },
+                  {
+                     "role" : "Amy Brandt's Assistant",
+                     "name" : "Nicole Wolf"
+                  },
+                  {
+                     "role" : "New Barista",
+                     "name" : "Corrin Evans"
+                  },
+                  {
+                     "role" : "New Coffee Shop Manager",
+                     "name" : "Kiff VandenHeuvel"
+                  },
+                  {
+                     "name" : "Tom Everett Scott",
+                     "role" : "David"
+                  },
+                  {
+                     "name" : "Hemky Madera",
+                     "role" : "Jimmy"
+                  },
+                  {
+                     "name" : "Zo\u00eb Hall",
+                     "role" : "Chelsea"
+                  },
+                  {
+                     "name" : "Dempsey Pappion",
+                     "role" : "Charles"
+                  },
+                  {
+                     "role" : "Dream Audience",
+                     "name" : "Sandra Rosko"
+                  },
+                  {
+                     "name" : "Reshma Gajjar",
+                     "role" : "Traffic Dancer - Girl #1"
+                  },
+                  {
+                     "name" : "Candice Coke",
+                     "role" : "Traffic Dancer - Girl #2"
+                  },
+                  {
+                     "name" : "Hunter Hamilton",
+                     "role" : "Traffic Dancer - 1st Man"
+                  },
+                  {
+                     "name" : "Damian Gomez",
+                     "role" : "Traffic Dancer - 2nd Man"
+                  },
+                  {
+                     "name" : "Amanda Balen",
+                     "role" : "Traffic Dancer - Conductor"
+                  },
+                  {
+                     "role" : "Traffic Dancer",
+                     "name" : "Cindera Che"
+                  },
+                  {
+                     "role" : "Traffic Dancer",
+                     "name" : "Chris Moss"
+                  },
+                  {
+                     "name" : "Marissa Labog",
+                     "role" : "Traffic Dancer"
+                  },
+                  {
+                     "name" : "Tiffany Daniels",
+                     "role" : "Traffic Dancer"
+                  },
+                  {
+                     "role" : "Traffic Dancer",
+                     "name" : "Melinda Sullivan"
+                  },
+                  {
+                     "name" : "Britt Stewart",
+                     "role" : "Traffic Dancer"
+                  },
+                  {
+                     "role" : "Traffic Dancer",
+                     "name" : "Clarice Ordaz"
+                  },
+                  {
+                     "name" : "Nathan Prevost",
+                     "role" : "Traffic Dancer"
+                  },
+                  {
+                     "name" : "Scott Hislop",
+                     "role" : "Hollywood Party Dancer - Creepy Guy"
+                  },
+                  {
+                     "name" : "Kc Monnie",
+                     "role" : "Hollywood Party Dancer"
+                  },
+                  {
+                     "name" : "Krystal Ellsworth",
+                     "role" : "Hollywood Party Dancer"
+                  },
+                  {
+                     "role" : "Hollywood Party Dancer",
+                     "name" : "Sarah Mitchell"
+                  },
+                  {
+                     "name" : "Morgan Larson",
+                     "role" : "Hollywood Party Dancer"
+                  },
+                  {
+                     "name" : "Becca Sweitzer",
+                     "role" : "Restaurant Dancer"
+                  },
+                  {
+                     "name" : "Gakenia Muigai",
+                     "role" : "Restaurant Dancer"
+                  },
+                  {
+                     "role" : "Restaurant Dancer",
+                     "name" : "Michael Stein"
+                  },
+                  {
+                     "name" : "Mario Diaz",
+                     "role" : "Restaurant Dancer"
+                  },
+                  {
+                     "name" : "Julie Schmid",
+                     "role" : "Epilogue Dancer"
+                  },
+                  {
+                     "role" : "Epilogue Dancer",
+                     "name" : "Lexie Contursi"
+                  },
+                  {
+                     "name" : "Eartha Robinson",
+                     "role" : "Epilogue Dancer"
+                  },
+                  {
+                     "name" : "Sybil Azur",
+                     "role" : "Epilogue Dancer"
+                  },
+                  {
+                     "name" : "Tara Nicole Hughes",
+                     "role" : "Epilogue Dancer"
+                  },
+                  {
+                     "name" : "Kayla Kalbfleisch",
+                     "role" : "Epilogue Dancer"
+                  },
+                  {
+                     "role" : "Epilogue Dancer",
+                     "name" : "Martha Nichols"
+                  },
+                  {
+                     "role" : "Epilogue Dancer",
+                     "name" : "Anthony Marciona"
+                  },
+                  {
+                     "name" : "Bill Prudich",
+                     "role" : "Epilogue Dancer"
+                  },
+                  {
+                     "role" : "Epilogue Dancer",
+                     "name" : "Ryan Novak"
+                  },
+                  {
+                     "role" : "Epilogue Dancer",
+                     "name" : "Demian Boergadine"
+                  },
+                  {
+                     "name" : "Gustavo Vargas",
+                     "role" : "Epilogue Dancer"
+                  },
+                  {
+                     "role" : "Angry Neighbor",
+                     "name" : "Robert Haynes"
+                  },
+                  {
+                     "name" : "Ana Flavia Gavlak",
+                     "role" : "Young Actress (uncredited)"
+                  },
+                  {
+                     "role" : "Coffee Shop Customer (uncredited)",
+                     "name" : "Andres Perez-Molina"
+                  },
+                  {
+                     "name" : "Phillip E. Walker",
+                     "role" : "Jazz Club Patron (uncredited)"
+                  },
+                  {
+                     "role" : "Coffee Shop Customer #2 (uncredited)",
+                     "name" : "Milica Govich"
+                  },
+                  {
+                     "role" : "Producer's Girlfriend (uncredited)",
+                     "name" : "Kaye L. Morris"
+                  },
+                  {
+                     "name" : "Nilla Elizabeth Watkins",
+                     "role" : "Coffee Shop Customer (uncredited)"
+                  },
+                  {
+                     "name" : "Holly Houk",
+                     "role" : "Kissing Couple (uncredited)"
+                  },
+                  {
+                     "role" : "Kissing Couple (uncredited)",
+                     "name" : "Jesse Houk"
+                  },
+                  {
+                     "name" : "Kristin Slaysman",
+                     "role" : "Coffee Shop Customer (uncredited)"
+                  },
+                  {
+                     "name" : "Cameron Brinkman",
+                     "role" : "Jazz Club Patron (uncredited)"
+                  },
+                  {
+                     "role" : "Nathan (uncredited)",
+                     "name" : "Jordan Ray Fox"
+                  },
+                  {
+                     "name" : "Caroline Jaden Stussi",
+                     "role" : "Espresso Coffee Shop Customer (uncredited)"
+                  },
+                  {
+                     "role" : "Jazz Club Goer (uncredited)",
+                     "name" : "Margaret Newborn"
+                  },
+                  {
+                     "name" : "Nadia Tumanova",
+                     "role" : "Club Patron (uncredited)"
+                  },
+                  {
+                     "name" : "Crystal Nichol",
+                     "role" : "Audition Actress (uncredited)"
+                  },
+                  {
+                     "role" : "Audition Actress (uncredited)",
+                     "name" : "Kristin Elliott"
+                  },
+                  {
+                     "name" : "Andrea Lareo",
+                     "role" : "Casting Assistant (uncredited)"
+                  },
+                  {
+                     "role" : "Cowboy (uncredited)",
+                     "name" : "Christopher Aber"
+                  },
+                  {
+                     "name" : "Anna Lunberry",
+                     "role" : "Publicist (uncredited)"
+                  },
+                  {
+                     "role" : "Hollywood Starlet (uncredited)",
+                     "name" : "Courtney Hart"
+                  },
+                  {
+                     "role" : "Hollywood Starlet (uncredited)",
+                     "name" : "Shannon Leann"
+                  },
+                  {
+                     "role" : "Waitress (uncredited)",
+                     "name" : "Jenna Curtis"
+                  },
+                  {
+                     "name" : "Noah James",
+                     "role" : "Young Man (uncredited)"
+                  },
+                  {
+                     "name" : "Tommy Cooley",
+                     "role" : "Kissing Couple (uncredited)"
+                  },
+                  {
+                     "name" : "Morgan Cohen",
+                     "role" : "Kissing Couple (uncredited)"
+                  },
+                  {
+                     "role" : "Freeway Truck Musician (uncredited)",
+                     "name" : "Jeremy Nathan Tisser"
+                  },
+                  {
+                     "name" : "Patty Tobin",
+                     "role" : "Casting Director (uncredited)"
+                  },
+                  {
+                     "role" : "Young Man's Date (uncredited)",
+                     "name" : "Heather Turman"
+                  },
+                  {
+                     "role" : "Jazz Club Patron (uncredited)",
+                     "name" : "Susie Ganiere"
+                  },
+                  {
+                     "name" : "Ottavio Taddei",
+                     "role" : "Swing Dancer (uncredited)"
+                  },
+                  {
+                     "role" : "Audition Girl (uncredited)",
+                     "name" : "April Martucci"
+                  },
+                  {
+                     "name" : "Trent Kerpsack",
+                     "role" : "Sailor (uncredited)"
+                  },
+                  {
+                     "role" : "Jazz Club Patron (uncredited)",
+                     "name" : "Lynn Moore"
+                  },
+                  {
+                     "name" : "Vince Donvito",
+                     "role" : "Coffee Guy (uncredited)"
+                  },
+                  {
+                     "role" : "Moviegoer (uncredited)",
+                     "name" : "Steffen Dziczek"
+                  },
+                  {
+                     "name" : "Melvin LaThomas Brimm",
+                     "role" : "Waiter (uncredited)"
+                  },
+                  {
+                     "role" : "Bubblegum Girl (uncredited)",
+                     "name" : "Kelly Kennedy"
+                  },
+                  {
+                     "role" : "Lighthouse Bass Player (uncredited)",
+                     "name" : "Clarence Robinson"
+                  },
+                  {
+                     "role" : "Jazz Club Guitar Player (uncredited)",
+                     "name" : "Dapo Torimiro"
+                  },
+                  {
+                     "name" : "Destinee Handly",
+                     "role" : "Barista (uncredited)"
+                  },
+                  {
+                     "name" : "Tommy Otis",
+                     "role" : "Extra - Robert Evans (uncredited)"
+                  },
+                  {
+                     "role" : "Red Head Actress (uncredited)",
+                     "name" : "Amanda Fields"
+                  },
+                  {
+                     "role" : "Restaurant Patron (uncredited)",
+                     "name" : "Frederick Keeve"
+                  },
+                  {
+                     "role" : "Street dance (uncredited)",
+                     "name" : "Kayla Bechor"
+                  },
+                  {
+                     "name" : "Robert Roldan",
+                     "role" : "Epilogue Dancer"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Jordan Horowitz"
+                  },
+                  {
+                     "name" : "Fred Berger"
+                  },
+                  {
+                     "name" : "Marc Platt"
+                  },
+                  {
+                     "name" : "Gary Gilbert"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Damien Chazelle"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Mia Dolan (Emma Stone i en prisvindende optr\u00e6den) er en ambiti\u00f8s skuespillerinde, som tjener penge ved at arbejde p\u00e5 caf\u00e9er imellem hendes mislykkede auditions. Efter et tilf\u00e6ldigt m\u00f8de med den str\u00e6bsomme pianist, Sebastian Wilder (Ryan Gosling), begynder de to en stormfuld romance. Denne spirende romance m\u00e5 st\u00e5 sin pr\u00f8ve, da dr\u00f8mmene, de begge har k\u00e6mpet for, truer med at \u00f8del\u00e6gge forholdet."
+            },
+            "title" : {
+               "da" : "La La Land"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/313369"
+            }
+         },
+         {
+            "date" : "1993",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Animation",
+                  "Sci-Fi",
+                  "Family"
+               ]
+            },
+            "channel" : "hits.film.viasat.dk",
+            "url" : [
+               "http://www.themoviedb.org/movie/18890"
+            ],
+            "new" : null,
+            "stop" : "1522453800",
+            "start" : "1522447800",
+            "desc" : {
+               "da" : "[Dubbet version]. Kaptajn 'New Eyes' (Walter Cronkite) rejser tilbage i tiden, for at g\u00f8re dinosaurerne intelligente og venlige. De bliver enige om at tage til Middle Future, for at opfylde b\u00f8rnene i New Yorks \u00f8nsker. De m\u00f8der Dr. Bleeb (Julia Child) fra Naturhistorisk Museum, men bliver afledt af eventyret med deres nye venner - og l\u00f8ber ind i Kaptajn New Eyes' onde bror, professor 'Screw Eyes' (Kenneth Mars), der har forbryderiske planer med dinosaurerne."
+            },
+            "title" : {
+               "da" : "Med dinosaurerne p\u00e5 sjove eventyr"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/18890"
+            },
+            "rating" : {
+               "stars" : "5.8 / 10"
+            },
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Steve Hickner"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Phil Nibbelink"
+                  },
+                  {
+                     "name" : "Simon Wells"
+                  },
+                  {
+                     "name" : "Dick Zondag"
+                  },
+                  {
+                     "name" : "Ralph Zondag"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "John Patrick Shanley"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Rex (voice)",
+                     "name" : "John Goodman"
+                  },
+                  {
+                     "name" : "Jay Leno",
+                     "role" : "Vorb (voice)"
+                  },
+                  {
+                     "role" : "Captain Neweyes (voice)",
+                     "name" : "Walter Cronkite"
+                  },
+                  {
+                     "role" : "Buster (voice)",
+                     "name" : "Blaze Berdahl"
+                  },
+                  {
+                     "role" : "Mother Bird (voice)",
+                     "name" : "Rhea Perlman"
+                  },
+                  {
+                     "role" : "Woog (voice)",
+                     "name" : "Ren\u00e9 Le Vant"
+                  },
+                  {
+                     "name" : "Felicity Kendal",
+                     "role" : "Elsa (voice)"
+                  },
+                  {
+                     "role" : "Dweeb (voice)",
+                     "name" : "Charles Fleischer"
+                  },
+                  {
+                     "role" : "Himself (voice)",
+                     "name" : "Larry King"
+                  },
+                  {
+                     "name" : "Julia Child",
+                     "role" : "Dr. Bleeb (voice)"
+                  }
+               ]
+            }
+         },
+         {
+            "title" : {
+               "da" : "Guardians of the Galaxy Vol. 2"
+            },
+            "desc" : {
+               "da" : "Mens Star Lord (Chris Pratt) st\u00e5r med efterf\u00f8lgerne fra et mislykket kup, m\u00f8der han Ego (Kurt Russell), der viser sig at v\u00e6re hans forsvundne far. Quill-familien er ikke de eneste, der er h\u00e5rdt pr\u00f8vet, da Gamora (Zoe Saldana) st\u00e5r over for s\u00f8steren Nebulas (Karen Gillan) konstante fors\u00f8g p\u00e5 at sl\u00e5 hendes ihjel. Rocket Raccoon (stemme af Bradley Cooper) og Yondu Udonta (Michael Rooker) slutter sig modvilligt til gruppen, og f\u00e5r hj\u00e6lp fra den tapre og bed\u00e5rende helt, Baby Groot (stemme af Vin Diesel), til at flygte fra et rumskib, der bruges som et f\u00e6ngsel."
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/283995"
+            },
+            "rating" : {
+               "stars" : "7.6 / 10"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Chris Pratt",
+                     "role" : "Peter Quill / Star-Lord"
+                  },
+                  {
+                     "role" : "Gamora",
+                     "name" : "Zoe Saldana"
+                  },
+                  {
+                     "role" : "Drax",
+                     "name" : "Dave Bautista"
+                  },
+                  {
+                     "name" : "Vin Diesel",
+                     "role" : "Baby Groot (voice)"
+                  },
+                  {
+                     "role" : "Rocket (voice)",
+                     "name" : "Bradley Cooper"
+                  },
+                  {
+                     "role" : "Yondu",
+                     "name" : "Michael Rooker"
+                  },
+                  {
+                     "role" : "Nebula",
+                     "name" : "Karen Gillan"
+                  },
+                  {
+                     "name" : "Pom Klementieff",
+                     "role" : "Mantis"
+                  },
+                  {
+                     "role" : "Kraglin / On-Set Rocket",
+                     "name" : "Sean Gunn"
+                  },
+                  {
+                     "name" : "Laura Haddock",
+                     "role" : "Meredith Quill"
+                  },
+                  {
+                     "name" : "Kurt Russell",
+                     "role" : "Ego"
+                  },
+                  {
+                     "name" : "Elizabeth Debicki",
+                     "role" : "Ayesha"
+                  },
+                  {
+                     "role" : "Stakar Ogord",
+                     "name" : "Sylvester Stallone"
+                  },
+                  {
+                     "name" : "Chris Sullivan",
+                     "role" : "Taserface"
+                  },
+                  {
+                     "name" : "Tommy Flanagan",
+                     "role" : "Tullk"
+                  },
+                  {
+                     "name" : "Hannah Gottesman",
+                     "role" : "Sovereign Chambermaid"
+                  },
+                  {
+                     "name" : "Hilty Bowen",
+                     "role" : "Sovereign Pilot"
+                  },
+                  {
+                     "name" : "Ben Browder",
+                     "role" : "Sovereign Admiral"
+                  },
+                  {
+                     "role" : "Zylak (as Alex Klein)",
+                     "name" : "Alexander Klein"
+                  },
+                  {
+                     "role" : "Zylak's Frenemy",
+                     "name" : "Luke Cook"
+                  },
+                  {
+                     "name" : "Evan Jones",
+                     "role" : "Retch"
+                  },
+                  {
+                     "name" : "Joe Fria",
+                     "role" : "Oblo"
+                  },
+                  {
+                     "name" : "Terence Rosemore",
+                     "role" : "Narblik"
+                  },
+                  {
+                     "role" : "Halfnut",
+                     "name" : "Jimmy Urine"
+                  },
+                  {
+                     "role" : "Brahl",
+                     "name" : "Stephen Blackehart"
+                  },
+                  {
+                     "name" : "Steve Agee",
+                     "role" : "Gef"
+                  },
+                  {
+                     "name" : "Blondy Baruti",
+                     "role" : "Huhtar"
+                  },
+                  {
+                     "role" : "\"Down There!\"",
+                     "name" : "Richard Christy"
+                  },
+                  {
+                     "name" : "Rob Zombie",
+                     "role" : "Unseen Ravager"
+                  },
+                  {
+                     "role" : "Robot Courtesan",
+                     "name" : "Sierra Love"
+                  },
+                  {
+                     "name" : "Kendra Carelli",
+                     "role" : "Robot Courtesan (as Kendra Staub)"
+                  },
+                  {
+                     "role" : "Robot Courtesan",
+                     "name" : "Milynn Sarley"
+                  },
+                  {
+                     "role" : "Howard the Duck (voice)",
+                     "name" : "Seth Green"
+                  },
+                  {
+                     "name" : "Molly C. Quinn",
+                     "role" : "Howard's Date (as Molly Quinn)"
+                  },
+                  {
+                     "name" : "Michael Rosenbaum",
+                     "role" : "Martinex"
+                  },
+                  {
+                     "name" : "Rhoda Griffis",
+                     "role" : "Sneeper Madame"
+                  },
+                  {
+                     "name" : "Stan Lee",
+                     "role" : "Watcher Informant"
+                  },
+                  {
+                     "role" : "The Form of David Hasselhoff",
+                     "name" : "David Hasselhoff"
+                  },
+                  {
+                     "role" : "Officer Fitzgibbon",
+                     "name" : "Mac Wells"
+                  },
+                  {
+                     "role" : "Weird Old Man (as James Gunn, Sr.)",
+                     "name" : "Jim Gunn Sr."
+                  },
+                  {
+                     "role" : "Weird Old Man's Mistress",
+                     "name" : "Leota Gunn"
+                  },
+                  {
+                     "name" : "Elizabeth Ludlow",
+                     "role" : "Easik Mother"
+                  },
+                  {
+                     "name" : "Wyatt Oleff",
+                     "role" : "Young Peter Quill"
+                  },
+                  {
+                     "name" : "Gregg Henry",
+                     "role" : "Grandpa Quill"
+                  },
+                  {
+                     "role" : "Grandpa Quill's Friend",
+                     "name" : "Damita Jane Howard"
+                  },
+                  {
+                     "name" : "Ving Rhames",
+                     "role" : "Charlie-27"
+                  },
+                  {
+                     "role" : "Aleta Ogord",
+                     "name" : "Michelle Yeoh"
+                  },
+                  {
+                     "name" : "Donny Carrington",
+                     "role" : "Kree Monk (uncredited)"
+                  },
+                  {
+                     "name" : "Brian Clackley",
+                     "role" : "Alien (uncredited)"
+                  },
+                  {
+                     "name" : "Miley Cyrus",
+                     "role" : "Mainframe (voice) (uncredited)"
+                  },
+                  {
+                     "name" : "Nea Dune",
+                     "role" : "Lovebot (uncredited)"
+                  },
+                  {
+                     "name" : "Fred",
+                     "role" : "Cosmo the Space Dog (uncredited)"
+                  },
+                  {
+                     "name" : "Fred Galle",
+                     "role" : "Sovereign Leader (uncredited)"
+                  },
+                  {
+                     "name" : "Tahseen Ghauri",
+                     "role" : "Pedestrian Runner (uncredited)"
+                  },
+                  {
+                     "role" : "Grandmaster (uncredited)",
+                     "name" : "Jeff Goldblum"
+                  },
+                  {
+                     "role" : "Ravager (uncredited)",
+                     "name" : "Alphonso A'Qen-Aten Jackson"
+                  },
+                  {
+                     "role" : "Daisy Kiu (uncredited)",
+                     "name" : "Kelly Richardson"
+                  },
+                  {
+                     "role" : "Cop #2 (uncredited)",
+                     "name" : "Guillermo Rodriguez"
+                  },
+                  {
+                     "role" : "Humanoid Ravager (uncredited)",
+                     "name" : "Josh Tipis"
+                  },
+                  {
+                     "role" : "Ravager #7 (uncredited)",
+                     "name" : "Stephen Vining"
+                  },
+                  {
+                     "role" : "Huge Guard of the Sovereign Nation (uncredited)",
+                     "name" : "Jason Williams"
+                  },
+                  {
+                     "role" : "Robot Courtesan (uncredited)",
+                     "name" : "Cheyanna Lavon Zubas"
+                  },
+                  {
+                     "role" : "Young Ego Facial Reference",
+                     "name" : "Aaron Schwartz"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Kevin Feige"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "James Gunn"
+                  }
+               ]
+            },
+            "date" : "2017",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "http://www.themoviedb.org/movie/283995"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Adventure",
+                  "Comedy",
+                  "Sci-Fi"
+               ]
+            },
+            "channel" : "hits.film.viasat.dk",
+            "start" : "1522453800",
+            "stop" : "1522462200"
+         }
+      ]
+   }
+}

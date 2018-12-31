@@ -1,0 +1,892 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "title" : {
+               "da" : "Europa-planeten og det hinsides"
+            },
+            "desc" : {
+               "da" : "Gnu-vandringen er den st\u00f8rste udvandring i dyreriget. Dette kan opleves i denne sp\u00e6ndende dokumentar om den afrikanske savanne."
+            },
+            "start" : "1522634400",
+            "date" : "2015",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Nature"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 2"
+            },
+            "channel" : "nature.viasat.dk",
+            "stop" : "1522637700"
+         },
+         {
+            "new" : null,
+            "date" : "2015",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Set fra de antarktiske gletsjere, udforsker denne dokumentar landskabets fascinerende population af pingviner, s\u00e6ler og hvaler. Den viser ogs\u00e5 de mange havfugle, der lever her."
+            },
+            "start" : "1522637700",
+            "title" : {
+               "da" : "Europa-planeten og det hinsides"
+            },
+            "stop" : "1522642200",
+            "channel" : "nature.viasat.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 2",
+               "xmltv_ns" : "1 . 2 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Nature"
+               ]
+            }
+         },
+         {
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2010",
+            "start" : "1522642200",
+            "desc" : {
+               "da" : "Giraffen Jenny har en knude i hoven og skal omg\u00e5ende opereres. Men det, der burde v\u00e6re en let operation, er nu kritisk, for Jenny kan ikke t\u00e5le bed\u00f8velsen."
+            },
+            "title" : {
+               "da" : "Dublin Zoo"
+            },
+            "stop" : "1522643700",
+            "channel" : "nature.viasat.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Nature"
+               ]
+            }
+         },
+         {
+            "stop" : "1522645200",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 1"
+            },
+            "channel" : "nature.viasat.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Nature"
+               ]
+            },
+            "new" : null,
+            "date" : "2010",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "start" : "1522643700",
+            "desc" : {
+               "da" : "Dyrpasser James opdager, at gorillaen har meget ondt, og ved n\u00e6rmere eftersyn viser det sig, at hun har virkeligt d\u00e5rlige t\u00e6nder."
+            },
+            "title" : {
+               "da" : "Dublin Zoo"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Det er lige s\u00e5 let at definere noget s\u00e5 sv\u00e6vende som charme, som det er at spise suppe med en gaffel, s\u00e5 kan man overhovedet bed\u00f8mme, hvilket dyr der er det dejligste p\u00e5 jorden? Se med, og find ud af det!"
+            },
+            "start" : "1522645200",
+            "title" : {
+               "da" : "72 nuttede dyr"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2016",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 10 s\u00e6son 1",
+               "xmltv_ns" : "0 . 9 ."
+            },
+            "channel" : "nature.viasat.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1522646700"
+         },
+         {
+            "desc" : {
+               "da" : "Missionen for at finde jordens mest bed\u00e5rende dyr er n\u00e6rmest som et lotteri, men der bliver fundet en vinder. Vil \u00e9n af disse deltagere vinde?"
+            },
+            "start" : "1522646700",
+            "title" : {
+               "da" : "72 nuttede dyr"
+            },
+            "new" : null,
+            "date" : "2016",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 11 s\u00e6son 1",
+               "xmltv_ns" : "0 . 10 ."
+            },
+            "channel" : "nature.viasat.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1522648500"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2016",
+            "new" : null,
+            "title" : {
+               "da" : "72 nuttede dyr"
+            },
+            "start" : "1522648500",
+            "desc" : {
+               "da" : "Serien, der vover at udpege 72 dyr som de mest bed\u00e5rende p\u00e5 jorden, fremviser de sidste seks deltagere i dette afsnit, og den mest nuttede af dem udpeges uden blusel."
+            },
+            "stop" : "1522650300",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 12 s\u00e6son 1",
+               "xmltv_ns" : "0 . 11 ."
+            },
+            "channel" : "nature.viasat.dk"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "nature.viasat.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7 s\u00e6son 1",
+               "xmltv_ns" : "0 . 6 ."
+            },
+            "stop" : "1522651800",
+            "title" : {
+               "da" : "Chris Humfrey's Dyre-instinkter"
+            },
+            "desc" : {
+               "da" : "Chris l\u00e6rer sine to dage gamle emuer at spise og drikke for f\u00f8rste gang, og k\u00e6nguruen Reuben pr\u00f8ver at stj\u00e6le rampelyset."
+            },
+            "start" : "1522650300",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2016",
+            "new" : null
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8 s\u00e6son 1",
+               "xmltv_ns" : "0 . 7 ."
+            },
+            "channel" : "nature.viasat.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1522653300",
+            "start" : "1522651800",
+            "desc" : {
+               "da" : "Chris tager til Atherton Tablelands i Queensland for at hj\u00e6lpe en ven med at passe tre tr\u00e6k\u00e6nguruer."
+            },
+            "title" : {
+               "da" : "Chris Humfrey's Dyre-instinkter"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2016"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "nature.viasat.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 8 .",
+               "onscreen" : "Afsnit 9 s\u00e6son 1"
+            },
+            "stop" : "1522654800",
+            "title" : {
+               "da" : "Chris Humfrey's Dyre-instinkter"
+            },
+            "start" : "1522653300",
+            "desc" : {
+               "da" : "Chris har travlt p\u00e5 sin sidste dag i Queensland, hvor han vil sl\u00e5 sin egen rekord i at finde flest hypsilurus-firben p\u00e5 \u00e9n s\u00f8gning."
+            },
+            "date" : "2016",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null
+         },
+         {
+            "desc" : {
+               "da" : "Chris starter dagen med at sofasurfe med Edi og Eli, de fire uger gamle emuer."
+            },
+            "start" : "1522654800",
+            "title" : {
+               "da" : "Chris Humfrey's Dyre-instinkter"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2016",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 9 .",
+               "onscreen" : "Afsnit 10 s\u00e6son 1"
+            },
+            "channel" : "nature.viasat.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1522656300"
+         },
+         {
+            "title" : {
+               "da" : "Chris Humfrey's Dyre-instinkter"
+            },
+            "desc" : {
+               "da" : "Mowgli, Pugsly og Maisy, de truede bjergdv\u00e6rgpungrotter, skal vejes."
+            },
+            "start" : "1522656300",
+            "date" : "2016",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 11 s\u00e6son 1",
+               "xmltv_ns" : "0 . 10 ."
+            },
+            "channel" : "nature.viasat.dk",
+            "stop" : "1522657800"
+         },
+         {
+            "desc" : {
+               "da" : "Chris tager til Potoroo Palace i New South Wales for at m\u00f8de Priscilla, det seneste medlem af dyrefamilien."
+            },
+            "start" : "1522657800",
+            "title" : {
+               "da" : "Chris Humfrey's Dyre-instinkter"
+            },
+            "new" : null,
+            "date" : "2016",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "channel" : "nature.viasat.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 12 s\u00e6son 1",
+               "xmltv_ns" : "0 . 11 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1522659300"
+         },
+         {
+            "channel" : "nature.viasat.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 13 s\u00e6son 1",
+               "xmltv_ns" : "0 . 12 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1522660800",
+            "start" : "1522659300",
+            "desc" : {
+               "da" : "Alt er, som det plejer at v\u00e6re, i Chris' zoo, hvor morgenmaden altid er lang og larmende."
+            },
+            "title" : {
+               "da" : "Chris Humfrey's Dyre-instinkter"
+            },
+            "new" : null,
+            "date" : "2016",
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Pandaunger"
+            },
+            "desc" : {
+               "da" : "Programmet er optaget i tre pandacentre i Kina og f\u00f8lger de nuttede unger fra f\u00f8dslen og frem."
+            },
+            "start" : "1522660800",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "nature.viasat.dk",
+            "stop" : "1522663800"
+         },
+         {
+            "date" : "2014",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Honninggr\u00e6vlinger - Kongerne af ravage"
+            },
+            "start" : "1522663800",
+            "desc" : {
+               "da" : "I rekordb\u00f8gerne er honninggr\u00e6vlingen det mest frygtl\u00f8se af alle dyr. Men er det virkelig sandt? I en sp\u00e6ndende dokumentar afsl\u00f8rer vi sandheden om deres rygte."
+            },
+            "stop" : "1522666800",
+            "country" : [
+               "GB"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "nature.viasat.dk"
+         },
+         {
+            "desc" : {
+               "da" : "To dyretr\u00e6nere f\u00e5r en sjov udfordring, n\u00e5r de hj\u00e6lper familier, der vil tr\u00e6ne deres k\u00e6ledyr til at lave et sjovt trick til en s\u00e6rlig lejlighed."
+            },
+            "start" : "1522666800",
+            "title" : {
+               "da" : "Kan mit dyr det?"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2017",
+            "channel" : "nature.viasat.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1522668300"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "nature.viasat.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "xmltv_ns" : "0 . 1 ."
+            },
+            "stop" : "1522669800",
+            "title" : {
+               "da" : "Kan mit dyr det?"
+            },
+            "desc" : {
+               "da" : "Chowchow'en Kevin og miniaturegrisen Rambo l\u00e6rer at tigge og rulle rundt. Stjernen er Pudsey, den f\u00f8rste hund, der vandt \"Britain's Got Talent\"."
+            },
+            "start" : "1522668300",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2017",
+            "new" : null
+         },
+         {
+            "stop" : "1522671300",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 1"
+            },
+            "channel" : "nature.viasat.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "new" : null,
+            "date" : "2017",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Hos Alexander Armstrong l\u00e6rer en golden retriever og en burh\u00f8ne at t\u00f8rre f\u00f8dderne p\u00e5 kommando. Stjernen er Mr Bean, en hest med mange talenter."
+            },
+            "start" : "1522669800",
+            "title" : {
+               "da" : "Kan mit dyr det?"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "nature.viasat.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 1",
+               "xmltv_ns" : "0 . 3 ."
+            },
+            "stop" : "1522672800",
+            "title" : {
+               "da" : "Kan mit dyr det?"
+            },
+            "start" : "1522671300",
+            "desc" : {
+               "da" : "Alexander Armstrong arbejder med en cocker spaniel og en miniaturehest for at se, om de kan l\u00e6re at lukke k\u00f8kkend\u00f8re. Stjernen er Melanie, en tam vaskebj\u00f8rn."
+            },
+            "date" : "2017",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null
+         },
+         {
+            "title" : {
+               "da" : "Kan mit dyr det?"
+            },
+            "desc" : {
+               "da" : "Se, hvordan sch\u00e6feren Declan og fritten Biscuit l\u00e6rer at ringe med en klokke for at f\u00e5 opm\u00e6rksomhed. Stjernen er Chaska, en dygtig angrebshund."
+            },
+            "start" : "1522672800",
+            "date" : "2017",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 s\u00e6son 1",
+               "xmltv_ns" : "0 . 4 ."
+            },
+            "channel" : "nature.viasat.dk",
+            "stop" : "1522674300"
+         },
+         {
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2017",
+            "desc" : {
+               "da" : "Miniaturevovsen Boomer og ponyen Stinky skal finde og hente en ringende mobiltelefon og give den til ejeren. Stjernen er boxeren Charlie."
+            },
+            "start" : "1522674300",
+            "title" : {
+               "da" : "Kan mit dyr det?"
+            },
+            "stop" : "1522675800",
+            "channel" : "nature.viasat.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 5 .",
+               "onscreen" : "Afsnit 6 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7 s\u00e6son 1",
+               "xmltv_ns" : "0 . 6 ."
+            },
+            "channel" : "nature.viasat.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1522677300",
+            "start" : "1522675800",
+            "desc" : {
+               "da" : "Geden Ethel og kragen Fagin l\u00e6rer at rydde op efter sig. Stjernen er terrieren Smurf."
+            },
+            "title" : {
+               "da" : "Kan mit dyr det?"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2017"
+         },
+         {
+            "stop" : "1522678800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "nature.viasat.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8 s\u00e6son 1",
+               "xmltv_ns" : "0 . 7 ."
+            },
+            "date" : "2017",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Kan mit dyr det?"
+            },
+            "start" : "1522677300",
+            "desc" : {
+               "da" : "En gammel Jack Russell og en miniatureged l\u00e6rer at t\u00e6nde og slukke lyset. Stjernen er papeg\u00f8jen Charlie."
+            }
+         },
+         {
+            "stop" : "1522682100",
+            "channel" : "nature.viasat.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "country" : [
+               "GB"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "new" : null,
+            "date" : "2014",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "T\u00f8rken er forbi, og flyvehundene kommer for at drikke, men skal undg\u00e5 at blive \u00e6dt af krokodillerne. Regnen bringer millioner af krabber med for at gyde ud for Jule\u00f8ens kyster."
+            },
+            "start" : "1522678800",
+            "title" : {
+               "da" : "Monsunens land"
+            }
+         },
+         {
+            "country" : [
+               "GB"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 1"
+            },
+            "channel" : "nature.viasat.dk",
+            "stop" : "1522685400",
+            "title" : {
+               "da" : "Monsunens land"
+            },
+            "desc" : {
+               "da" : "I Thailand m\u00e6sker aber sig i snegle, som regnen har bragt med sig. Ud for Sri Lankas kyster nyder bl\u00e5hvalerne monsunens rige buffet."
+            },
+            "start" : "1522682100",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2014",
+            "new" : null
+         },
+         {
+            "new" : null,
+            "date" : "2014",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "start" : "1522685400",
+            "desc" : {
+               "da" : "Asiens st\u00f8rste kunstige s\u00f8 bliver vandhul for desperate elefanter, der jages af krokodillerne. I Pushkar afholder man i starten af t\u00f8rken verdens st\u00f8rste kamelskue."
+            },
+            "title" : {
+               "da" : "Monsunens land"
+            },
+            "stop" : "1522688700",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 1"
+            },
+            "channel" : "nature.viasat.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "country" : [
+               "GB"
+            ]
+         },
+         {
+            "country" : [
+               "GB"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "nature.viasat.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 3 .",
+               "onscreen" : "Afsnit 4 s\u00e6son 1"
+            },
+            "stop" : "1522692000",
+            "title" : {
+               "da" : "Monsunens land"
+            },
+            "desc" : {
+               "da" : "Kombinationen med monsun og vulkaner har gjort Sulawesi, en indonesisk \u00f8, til det rene paradis. Men i Borneo har den hyppige regn \u00f8delagt jorden, men evolutionen byder p\u00e5 fantastiske l\u00f8sninger!"
+            },
+            "start" : "1522688700",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2014",
+            "new" : null
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "nature.viasat.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 2"
+            },
+            "stop" : "1522693800",
+            "title" : {
+               "da" : "D\u00f8delig top ti"
+            },
+            "start" : "1522692000",
+            "desc" : {
+               "da" : "Se med, n\u00e5r Steve Backshall viser de ultimativt ti mest d\u00f8dbringende dyr i verden. Denne gang skal Steve v\u00e6lge de ti mest supersansende dyr!"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2011",
+            "new" : null
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 2",
+               "xmltv_ns" : "1 . 2 ."
+            },
+            "channel" : "nature.viasat.dk",
+            "stop" : "1522695600",
+            "title" : {
+               "da" : "D\u00f8delig top ti"
+            },
+            "desc" : {
+               "da" : "Se med, n\u00e5r Steve Backshall viser de ultimativt ti mest d\u00f8dbringende dyr i verden. Denne gang skal Steve v\u00e6lge de ti mest ekstreme dyr!"
+            },
+            "start" : "1522693800",
+            "date" : "2011",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "nature.viasat.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "stop" : "1522698600",
+            "title" : {
+               "da" : "Den vilde verden"
+            },
+            "start" : "1522695600",
+            "desc" : {
+               "da" : "De seneste klima\u00e6ndringer har medf\u00f8rt ekstreme vejrf\u00e6nomener. Naturkatastrofer som orkaner, tornadoer, hedeb\u00f8lger og oversv\u00f8mmelse sker hyppigere og mere uforudsigeligt."
+            },
+            "date" : "2016",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null
+         },
+         {
+            "stop" : "1522701600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "nature.viasat.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 1"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2016",
+            "new" : null,
+            "title" : {
+               "da" : "Den vilde verden"
+            },
+            "desc" : {
+               "da" : "De seneste klima\u00e6ndringer har medf\u00f8rt ekstreme vejrf\u00e6nomener. Naturkatastrofer som orkaner, tornadoer, hedeb\u00f8lger og oversv\u00f8mmelse sker hyppigere og mere uforudsigeligt."
+            },
+            "start" : "1522698600"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2016",
+            "new" : null,
+            "title" : {
+               "da" : "Dyrepolitiet: Phoenix"
+            },
+            "start" : "1522701600",
+            "desc" : {
+               "da" : "Dyrepolitiet redder en kanin med hedeslag og hj\u00e6lper syv l\u00e6nkede hunde til et bedre liv."
+            },
+            "stop" : "1522706400",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "nature.viasat.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Viasat Nature er tilbage kl. 04:00"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "start" : "1522706400",
+            "channel" : "nature.viasat.dk",
+            "stop" : "1522720800",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "new" : null
+         }
+      ]
+   }
+}

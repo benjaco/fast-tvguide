@@ -1,0 +1,808 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "5 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 6",
+               "thetvdb.com" : "series/80198"
+            },
+            "title" : {
+               "da" : "The Universe"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "rating" : {
+               "stars" : "6.8 / 9"
+            },
+            "subTitle" : {
+               "da" : "Catastrophes that Changed the Planets"
+            },
+            "channel" : "h2.historytv.dk",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Host",
+                     "name" : "Erik Thompson"
+                  }
+               ]
+            },
+            "stop" : "1522459800",
+            "date" : "2007",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=80198&seasonid=476666&id=4190009&lid=7"
+            ],
+            "desc" : {
+               "da" : "Ud fra Einsteins teorier og utallige videnskabelige studier vil vi finde du af, hvordan disse g\u00e6ster kan rejse over de enorme afstande mellem stjernerne. Og hvis de kan overleve s\u00e5 farlige rejser, er de s\u00e5 af k\u00f8d og blod eller intelligente maskiner?"
+            },
+            "start" : "1522456800"
+         },
+         {
+            "channel" : "h2.historytv.dk",
+            "stop" : "1522462800",
+            "desc" : {
+               "da" : "Forstod vores forf\u00e6dre at generere energi tusinder af \u00e5r f\u00f8r det moderne menneske? Giorgio Tsoukalos har en teori om, at nogle af jordens mest ber\u00f8mte ruiner kan v\u00e6re for l\u00e6ngst glemte kraftv\u00e6rker med en overjordisk forbindelse."
+            },
+            "start" : "1522459800",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 1",
+               "xmltv_ns" : "0 . 3 ."
+            },
+            "title" : {
+               "da" : "Ancient Aliens: The Ultimate Evidence"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Alien Power Plants"
+            }
+         },
+         {
+            "channel" : "h2.historytv.dk",
+            "stop" : "1522465800",
+            "date" : "2015",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=298741&seasonid=633219&id=5288514&lid=7"
+            ],
+            "desc" : {
+               "da" : "I 1950 forsvandt et af h\u00e6rens transportfly med 44 personer ombord i Alaska-trekanten og er aldrig blevet fundet. Skyldes dets forsvinden d\u00e5rligt vejr eller noget mere dystert?"
+            },
+            "start" : "1522462800",
+            "title" : {
+               "da" : "Missing in Alaska"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 .",
+               "thetvdb.com" : "series/298741"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Vanished in a Vortex"
+            }
+         },
+         {
+            "stop" : "1522468800",
+            "channel" : "h2.historytv.dk",
+            "start" : "1522465800",
+            "desc" : {
+               "da" : "F\u00e5 et lift p\u00e5 en komet p\u00e5 dens vej fra det kolde, m\u00f8rke ydre rum i solsystemet til solens ildsprudlende overflade. Bes\u00f8g alle planeterne, og oplev bjergene p\u00e5 Neptuns m\u00e5ner, grotterne under Mars' overflade og en sol-tsunami."
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 13 s\u00e6son 6",
+               "xmltv_ns" : "5 . 12 ."
+            },
+            "title" : {
+               "da" : "The Universe"
+            },
+            "subTitle" : {
+               "da" : "Ride the Comet"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "date" : "2017",
+            "channel" : "h2.historytv.dk",
+            "stop" : "1522472400",
+            "start" : "1522468800",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=326031&seasonid=705511&id=6305698&lid=7"
+            ],
+            "desc" : {
+               "da" : "Den romerske civilisation formede verden, som vi kender den, og skabte noget af den mest avancerede ingeni\u00f8rkunst i antikken. Hvilken konstruktion p\u00e5 top 10-listen over romersk ingeni\u00f8rkunst er den mest banebrydende?"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 s\u00e6son 1",
+               "xmltv_ns" : "0 . 4 .",
+               "thetvdb.com" : "series/326031"
+            },
+            "title" : {
+               "da" : "Ancient Top 10"
+            },
+            "subTitle" : {
+               "da" : "Rome's Greatest Hits"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "start" : "1522472400",
+            "desc" : {
+               "da" : "Teamet fors\u00f8ger at l\u00f8se en af de mest besynderlige uopklarede forbrydelser for FBI: Sagen fra 1971 om flykapreren D.B. Cooper, der sprang ud fra et jetjager i 3 kilometers h\u00f8jde med to faldsk\u00e6rme og 200.000 dollars i l\u00f8sepenge."
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=208101&seasonid=362481&id=3271141&lid=7"
+            ],
+            "date" : "2010",
+            "stop" : "1522476000",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Himself - Professor",
+                     "name" : "Buddy Levy"
+                  },
+                  {
+                     "name" : "Scott Rolle",
+                     "role" : "Himself - Attorney"
+                  },
+                  {
+                     "name" : "Christine McKinley",
+                     "role" : "Herself - Engineer"
+                  },
+                  {
+                     "name" : "Brad Meltzer",
+                     "role" : "Himself - Host"
+                  }
+               ]
+            },
+            "channel" : "h2.historytv.dk",
+            "subTitle" : {
+               "da" : "D.B. Cooper"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Reality"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 5 .",
+               "onscreen" : "Afsnit 6 s\u00e6son 1",
+               "thetvdb.com" : "series/208101"
+            },
+            "title" : {
+               "da" : "Brad Meltzer's Decoded"
+            }
+         },
+         {
+            "start" : "1522476000",
+            "desc" : {
+               "da" : "Forstod vores forf\u00e6dre at generere energi tusinder af \u00e5r f\u00f8r det moderne menneske? Giorgio Tsoukalos har en teori om, at nogle af jordens mest ber\u00f8mte ruiner kan v\u00e6re for l\u00e6ngst glemte kraftv\u00e6rker med en overjordisk forbindelse."
+            },
+            "channel" : "h2.historytv.dk",
+            "stop" : "1522479600",
+            "subTitle" : {
+               "da" : "Alien Power Plants"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Ancient Aliens: The Ultimate Evidence"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 3 .",
+               "onscreen" : "Afsnit 4 s\u00e6son 1"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Den romerske civilisation formede verden, som vi kender den, og skabte noget af den mest avancerede ingeni\u00f8rkunst i antikken. Hvilken konstruktion p\u00e5 top 10-listen over romersk ingeni\u00f8rkunst er den mest banebrydende?"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=326031&seasonid=705511&id=6305698&lid=7"
+            ],
+            "start" : "1522479600",
+            "stop" : "1522483200",
+            "channel" : "h2.historytv.dk",
+            "date" : "2017",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Rome's Greatest Hits"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 4 .",
+               "onscreen" : "Afsnit 5 s\u00e6son 1",
+               "thetvdb.com" : "series/326031"
+            },
+            "title" : {
+               "da" : "Ancient Top 10"
+            },
+            "new" : null
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=208101&seasonid=362481&id=3271141&lid=7"
+            ],
+            "desc" : {
+               "da" : "Teamet fors\u00f8ger at l\u00f8se en af de mest besynderlige uopklarede forbrydelser for FBI: Sagen fra 1971 om flykapreren D.B. Cooper, der sprang ud fra et jetjager i 3 kilometers h\u00f8jde med to faldsk\u00e6rme og 200.000 dollars i l\u00f8sepenge."
+            },
+            "start" : "1522483200",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Buddy Levy",
+                     "role" : "Himself - Professor"
+                  },
+                  {
+                     "role" : "Himself - Attorney",
+                     "name" : "Scott Rolle"
+                  },
+                  {
+                     "role" : "Herself - Engineer",
+                     "name" : "Christine McKinley"
+                  },
+                  {
+                     "name" : "Brad Meltzer",
+                     "role" : "Himself - Host"
+                  }
+               ]
+            },
+            "channel" : "h2.historytv.dk",
+            "stop" : "1522486800",
+            "date" : "2010",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "da" : "D.B. Cooper"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/208101",
+               "onscreen" : "Afsnit 6 s\u00e6son 1",
+               "xmltv_ns" : "0 . 5 ."
+            },
+            "title" : {
+               "da" : "Brad Meltzer's Decoded"
+            },
+            "new" : null
+         },
+         {
+            "new" : null,
+            "title" : {
+               "da" : "The King Who Tricked Hitler"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "date" : "2013",
+            "channel" : "h2.historytv.dk",
+            "stop" : "1522490400",
+            "start" : "1522486800",
+            "desc" : {
+               "da" : "Den 23. august 1944 meddelte Rum\u00e6niens kong Michael, at han havde arresteret premiereministeren og vendt ryggen til Hitler. Det siges at have forkortet krigen med m\u00e5neder, og han blev h\u00e6dret af de allierede, men friheden var kortvarig."
+            }
+         },
+         {
+            "new" : null,
+            "episodeNum" : {
+               "thetvdb.com" : "series/80198",
+               "onscreen" : "Afsnit 1 s\u00e6son 6",
+               "xmltv_ns" : "5 . 0 ."
+            },
+            "title" : {
+               "da" : "The Universe"
+            },
+            "subTitle" : {
+               "da" : "Catastrophes that Changed the Planets"
+            },
+            "rating" : {
+               "stars" : "6.8 / 9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "date" : "2007",
+            "stop" : "1522494000",
+            "channel" : "h2.historytv.dk",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Erik Thompson",
+                     "role" : "Host"
+                  }
+               ]
+            },
+            "start" : "1522490400",
+            "desc" : {
+               "da" : "Ud fra Einsteins teorier og utallige videnskabelige studier vil vi finde du af, hvordan disse g\u00e6ster kan rejse over de enorme afstande mellem stjernerne. Og hvis de kan overleve s\u00e5 farlige rejser, er de s\u00e5 af k\u00f8d og blod eller intelligente maskiner?"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=80198&seasonid=476666&id=4190009&lid=7"
+            ]
+         },
+         {
+            "start" : "1522494000",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=80198&seasonid=476666&id=4193576&lid=7"
+            ],
+            "desc" : {
+               "da" : "Se, hvordan voldsomme begivenheder formede universet, blandt andet den katastrofe, der forvandlede Mars til en gold og ug\u00e6stfri \u00f8rken."
+            },
+            "date" : "2007",
+            "channel" : "h2.historytv.dk",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Host",
+                     "name" : "Erik Thompson"
+                  }
+               ]
+            },
+            "stop" : "1522497600",
+            "subTitle" : {
+               "da" : "Nemesis: The Sun's Evil Twin"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "rating" : {
+               "stars" : "6.6 / 9"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "thetvdb.com" : "series/80198",
+               "onscreen" : "Afsnit 2 s\u00e6son 6",
+               "xmltv_ns" : "5 . 1 ."
+            },
+            "title" : {
+               "da" : "The Universe"
+            }
+         },
+         {
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "5 . 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 6",
+               "thetvdb.com" : "series/80198"
+            },
+            "title" : {
+               "da" : "The Universe"
+            },
+            "subTitle" : {
+               "da" : "How the Solar System was Made"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "rating" : {
+               "stars" : "6.9 / 9"
+            },
+            "date" : "2007",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Erik Thompson",
+                     "role" : "Host"
+                  }
+               ]
+            },
+            "channel" : "h2.historytv.dk",
+            "stop" : "1522501200",
+            "start" : "1522497600",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=80198&seasonid=476666&id=4197876&lid=7"
+            ],
+            "desc" : {
+               "da" : "Dokumentar, der udforsker solsystemets turbulente historie, begyndende med dets forunderlige opst\u00e5en fra en tynd sky af st\u00f8v og gas."
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Crash Landing on Mars"
+            },
+            "rating" : {
+               "stars" : "6.8 / 9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "5 . 3 .",
+               "onscreen" : "Afsnit 4 s\u00e6son 6",
+               "thetvdb.com" : "series/80198"
+            },
+            "title" : {
+               "da" : "The Universe"
+            },
+            "start" : "1522501200",
+            "desc" : {
+               "da" : "P\u00e5 overfladen virker Jorden g\u00e6stfri, men nye opdagelser afsl\u00f8rer, at den har oplevet mere kaos og \u00f8del\u00e6ggelse, end videnskaben nogensinde har forestillet sig."
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=80198&seasonid=476666&id=4198130&lid=7"
+            ],
+            "date" : "2007",
+            "stop" : "1522504800",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Erik Thompson",
+                     "role" : "Host"
+                  }
+               ]
+            },
+            "channel" : "h2.historytv.dk"
+         },
+         {
+            "title" : {
+               "da" : "The Universe"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 s\u00e6son 6",
+               "xmltv_ns" : "5 . 4 .",
+               "thetvdb.com" : "series/80198"
+            },
+            "new" : null,
+            "rating" : {
+               "stars" : "6.8 / 9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Worst Days on Planet Earth"
+            },
+            "stop" : "1522508400",
+            "channel" : "h2.historytv.dk",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Erik Thompson",
+                     "role" : "Host"
+                  }
+               ]
+            },
+            "date" : "2007",
+            "desc" : {
+               "da" : "Eksperter er p\u00e5 jagt efter en d\u00f8dsstjerne, der mist\u00e6nkes for at v\u00e6re skyld i alle masseudryddelser i historien. Find ud af, hvorfor jordens sk\u00e6bne muligvis afh\u00e6nger af, at den bliver fundet."
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=80198&seasonid=476666&id=4198131&lid=7"
+            ],
+            "start" : "1522504800"
+         },
+         {
+            "new" : null,
+            "stop" : "1522515600",
+            "title" : {
+               "da" : "The President's Book of Secrets"
+            },
+            "channel" : "h2.historytv.dk",
+            "start" : "1522508400",
+            "desc" : {
+               "da" : "Kan det passe, at detaljer om Roswell-begivenheden, en mulig 11. september-sammensv\u00e6rgelse og mordet p\u00e5 Kennedy bliver overbragt fra pr\u00e6sident til pr\u00e6sident? Eksperter unders\u00f8ger nogle af USA's st\u00f8rste hemmeligheder."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "start" : "1522515600",
+            "desc" : {
+               "da" : "For nogle m\u00e6nd i de allieredes tjeneste blev det sidste \u00e5r af Anden Verdenskrig det v\u00e6rste. Selvom sejren var inden for r\u00e6kkevidde, ventede der stadig nogle af de h\u00e5rdeste kampe."
+            },
+            "stop" : "1522519200",
+            "channel" : "h2.historytv.dk",
+            "subTitle" : {
+               "da" : "Victory"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 12 s\u00e6son 1",
+               "xmltv_ns" : "0 . 11 ."
+            },
+            "title" : {
+               "da" : "The Colour of War"
+            }
+         },
+         {
+            "start" : "1522519200",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=313523&seasonid=671632&id=5655589&lid=7"
+            ],
+            "desc" : {
+               "da" : "Se, hvordan de gamle gr\u00e6kere n\u00e5ede civilisationens h\u00f8jdepunkt ved at revolutionere kunst, arkitektur, drama, filosofi og styreform."
+            },
+            "date" : "2016",
+            "channel" : "h2.historytv.dk",
+            "stop" : "1522522800",
+            "subTitle" : {
+               "da" : "Chasing Greatness"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "thetvdb.com" : "series/313523",
+               "xmltv_ns" : "0 . 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 1"
+            },
+            "title" : {
+               "da" : "The Greeks"
+            }
+         },
+         {
+            "start" : "1522522800",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=294331&seasonid=619477&id=5227312&lid=7"
+            ],
+            "desc" : {
+               "da" : "Hvorfor styrtede det asiatiske fly 214 fyldt med passagerer pludselig ned og slog vejrm\u00f8ller hen ad San Francisco International Airports landingsbane? Tre af de dr\u00e6btes familier \u00f8nsker svar."
+            },
+            "date" : "2015",
+            "channel" : "h2.historytv.dk",
+            "stop" : "1522526400",
+            "subTitle" : {
+               "da" : "Raging Rocket"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "thetvdb.com" : "series/294331",
+               "onscreen" : "Afsnit 7 s\u00e6son 1",
+               "xmltv_ns" : "0 . 6 ."
+            },
+            "title" : {
+               "da" : "Engineering Disasters"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Exploding Manhole Covers"
+            },
+            "title" : {
+               "da" : "Engineering Disasters"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/294331",
+               "onscreen" : "Afsnit 8 s\u00e6son 1",
+               "xmltv_ns" : "0 . 7 ."
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=294331&seasonid=619477&id=5227314&lid=7"
+            ],
+            "desc" : {
+               "da" : "Et mudderskred, der opsluger et helt kvarter og forbl\u00f8ffer forskerne, bliver efterforsket. Kan der ligge en ingeni\u00f8rfejl bag over 200.000 menneskers d\u00f8d p\u00e5 Haiti?"
+            },
+            "start" : "1522526400",
+            "channel" : "h2.historytv.dk",
+            "stop" : "1522530000",
+            "date" : "2015"
+         },
+         {
+            "rating" : {
+               "stars" : "6.8 / 9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Crash Landing on Mars"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/80198",
+               "xmltv_ns" : "5 . 3 .",
+               "onscreen" : "Afsnit 4 s\u00e6son 6"
+            },
+            "title" : {
+               "da" : "The Universe"
+            },
+            "new" : null,
+            "desc" : {
+               "da" : "P\u00e5 overfladen virker Jorden g\u00e6stfri, men nye opdagelser afsl\u00f8rer, at den har oplevet mere kaos og \u00f8del\u00e6ggelse, end videnskaben nogensinde har forestillet sig."
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=80198&seasonid=476666&id=4198130&lid=7"
+            ],
+            "start" : "1522530000",
+            "stop" : "1522533600",
+            "channel" : "h2.historytv.dk",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Erik Thompson",
+                     "role" : "Host"
+                  }
+               ]
+            },
+            "date" : "2007"
+         },
+         {
+            "new" : null,
+            "episodeNum" : {
+               "thetvdb.com" : "series/80198",
+               "xmltv_ns" : "5 . 4 .",
+               "onscreen" : "Afsnit 5 s\u00e6son 6"
+            },
+            "title" : {
+               "da" : "The Universe"
+            },
+            "subTitle" : {
+               "da" : "Worst Days on Planet Earth"
+            },
+            "rating" : {
+               "stars" : "6.8 / 9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "date" : "2007",
+            "stop" : "1522537200",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Host",
+                     "name" : "Erik Thompson"
+                  }
+               ]
+            },
+            "channel" : "h2.historytv.dk",
+            "start" : "1522533600",
+            "desc" : {
+               "da" : "Eksperter er p\u00e5 jagt efter en d\u00f8dsstjerne, der mist\u00e6nkes for at v\u00e6re skyld i alle masseudryddelser i historien. Find ud af, hvorfor jordens sk\u00e6bne muligvis afh\u00e6nger af, at den bliver fundet."
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=80198&seasonid=476666&id=4198131&lid=7"
+            ]
+         },
+         {
+            "channel" : "h2.historytv.dk",
+            "stop" : "1522540200",
+            "desc" : {
+               "da" : "For nogle m\u00e6nd i de allieredes tjeneste blev det sidste \u00e5r af Anden Verdenskrig det v\u00e6rste. Selvom sejren var inden for r\u00e6kkevidde, ventede der stadig nogle af de h\u00e5rdeste kampe."
+            },
+            "start" : "1522537200",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 11 .",
+               "onscreen" : "Afsnit 12 s\u00e6son 1"
+            },
+            "title" : {
+               "da" : "The Colour of War"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Victory"
+            }
+         },
+         {
+            "channel" : "h2.historytv.dk",
+            "stop" : "1522543200",
+            "date" : "2016",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=313523&seasonid=671632&id=5655589&lid=7"
+            ],
+            "desc" : {
+               "da" : "Se, hvordan de gamle gr\u00e6kere n\u00e5ede civilisationens h\u00f8jdepunkt ved at revolutionere kunst, arkitektur, drama, filosofi og styreform."
+            },
+            "start" : "1522540200",
+            "title" : {
+               "da" : "The Greeks"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/313523",
+               "onscreen" : "Afsnit 3 s\u00e6son 1",
+               "xmltv_ns" : "0 . 2 ."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Chasing Greatness"
+            }
+         }
+      ]
+   }
+}

@@ -1,0 +1,248 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "news.tv2.dk",
+            "title" : {
+               "da" : "Morgennyhederne p\u00e5 NEWS"
+            },
+            "new" : null,
+            "start" : "1531544400",
+            "stop" : "1531555500",
+            "date" : "2018"
+         },
+         {
+            "new" : null,
+            "start" : "1531555500",
+            "channel" : "news.tv2.dk",
+            "title" : {
+               "da" : "NEWS & Co"
+            },
+            "date" : "2018",
+            "stop" : "1531558800",
+            "desc" : {
+               "da" : "Hver l\u00f8rdag og s\u00f8ndag sommeren over vender panelet i 'NEWS & Co.' ugens aktuelle historier, og hvorfor det lige var de historier, der l\u00f8b med opm\u00e6rksomheden."
+            },
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            }
+         },
+         {
+            "start" : "1531558800",
+            "new" : null,
+            "title" : {
+               "da" : "Nyheder, sport, vejr"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "news.tv2.dk",
+            "date" : "2018",
+            "stop" : "1531566300"
+         },
+         {
+            "date" : "2018",
+            "stop" : "1531569600",
+            "new" : null,
+            "start" : "1531566300",
+            "title" : {
+               "da" : "NEWS & Co"
+            },
+            "channel" : "news.tv2.dk",
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "desc" : {
+               "da" : "Hver l\u00f8rdag og s\u00f8ndag sommeren over vender panelet i 'NEWS & Co.' ugens aktuelle historier, og hvorfor det lige var de historier, der l\u00f8b med opm\u00e6rksomheden."
+            }
+         },
+         {
+            "start" : "1531569600",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder, sport, vejr"
+            },
+            "channel" : "news.tv2.dk",
+            "date" : "2018",
+            "stop" : "1531575000"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Verden er blevet farligere, og intet g\u00e5r den rigtige vej. S\u00e5dan lyder vurderingen fra forsvarschef Bj\u00f8rn Bisserup i talkshowet 'Lippert'. Danmarks forsvarschef mener dog ikke, at Danmark st\u00e5r over for en konkret trussel, selvom is\u00e6r truslen mod Estland skal tages alvorligt efter Ruslands annektering af Ukraine."
+            },
+            "date" : "2018",
+            "stop" : "1531576800",
+            "start" : "1531575000",
+            "new" : null,
+            "channel" : "news.tv2.dk",
+            "title" : {
+               "da" : "Lippert med Bj\u00f8rn Bisserup"
+            }
+         },
+         {
+            "date" : "2018",
+            "stop" : "1531584300",
+            "start" : "1531576800",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "news.tv2.dk",
+            "title" : {
+               "da" : "Nyheder, sport, vejr"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Hver l\u00f8rdag og s\u00f8ndag sommeren over vender panelet i 'NEWS & Co.' ugens aktuelle historier, og hvorfor det lige var de historier, der l\u00f8b med opm\u00e6rksomheden."
+            },
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "date" : "2018",
+            "stop" : "1531587600",
+            "start" : "1531584300",
+            "new" : null,
+            "title" : {
+               "da" : "NEWS & Co"
+            },
+            "channel" : "news.tv2.dk"
+         },
+         {
+            "start" : "1531587600",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "news.tv2.dk",
+            "title" : {
+               "da" : "19 Nyhederne"
+            },
+            "date" : "2018",
+            "stop" : "1531589100"
+         },
+         {
+            "date" : "2018",
+            "stop" : "1531595100",
+            "start" : "1531589100",
+            "new" : null,
+            "title" : {
+               "da" : "Nyheder, sport, vejr"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "news.tv2.dk"
+         },
+         {
+            "new" : null,
+            "start" : "1531595100",
+            "channel" : "news.tv2.dk",
+            "title" : {
+               "da" : "NEWS & Co"
+            },
+            "date" : "2018",
+            "stop" : "1531598400",
+            "desc" : {
+               "da" : "Hver l\u00f8rdag og s\u00f8ndag sommeren over vender panelet i 'NEWS & Co.' ugens aktuelle historier, og hvorfor det lige var de historier, der l\u00f8b med opm\u00e6rksomheden."
+            },
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "desc" : {
+               "da" : "I '22NEWS' f\u00e5r du det prioriterede overblik over dagens vigtigste nyheder, og der bliver ogs\u00e5 tid til at g\u00e5 i dybden, n\u00e5r de store historier analyseres, perspektiveres og debatteres. Karen-Helene Hjort og Anders Havndrup er v\u00e6rter og f\u00e5r bes\u00f8g af dagens og ugens hovedpersoner."
+            },
+            "channel" : "news.tv2.dk",
+            "title" : {
+               "da" : "22NEWS"
+            },
+            "new" : null,
+            "start" : "1531598400",
+            "stop" : "1531602000",
+            "date" : "2018"
+         },
+         {
+            "stop" : "1531603800",
+            "date" : "2018",
+            "title" : {
+               "da" : "News Night"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "news.tv2.dk",
+            "start" : "1531602000",
+            "new" : null
+         },
+         {
+            "title" : {
+               "da" : "Nyheder, sport, vejr"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "news.tv2.dk",
+            "new" : null,
+            "start" : "1531603800",
+            "stop" : "1531630800",
+            "date" : "2018"
+         }
+      ]
+   }
+}

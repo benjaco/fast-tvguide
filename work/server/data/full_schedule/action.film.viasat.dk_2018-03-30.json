@@ -1,0 +1,2271 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Jan de Bont"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Mark Gordon"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Graham Yost"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Jack Traven",
+                     "name" : "Keanu Reeves"
+                  },
+                  {
+                     "name" : "Dennis Hopper",
+                     "role" : "Howard Payne"
+                  },
+                  {
+                     "role" : "Annie Porter",
+                     "name" : "Sandra Bullock"
+                  },
+                  {
+                     "role" : "Capt. McMahon",
+                     "name" : "Joe Morton"
+                  },
+                  {
+                     "role" : "Harold 'Harry' Temple",
+                     "name" : "Jeff Daniels"
+                  },
+                  {
+                     "name" : "Alan Ruck",
+                     "role" : "Stephens"
+                  },
+                  {
+                     "role" : "Jaguar Owner",
+                     "name" : "Glenn Plummer"
+                  },
+                  {
+                     "role" : "Norwood",
+                     "name" : "Richard Lineback"
+                  },
+                  {
+                     "name" : "Beth Grant",
+                     "role" : "Helen"
+                  },
+                  {
+                     "name" : "Hawthorne James",
+                     "role" : "Sam"
+                  },
+                  {
+                     "role" : "Ortiz",
+                     "name" : "Carlos Carrasco"
+                  },
+                  {
+                     "role" : "Terry",
+                     "name" : "David Kriegel"
+                  },
+                  {
+                     "name" : "Natsuko Ohama",
+                     "role" : "Mrs. Kamino"
+                  },
+                  {
+                     "name" : "Daniel Villarreal",
+                     "role" : "Ray"
+                  },
+                  {
+                     "role" : "Bus Passenger #1",
+                     "name" : "Simone Gad"
+                  },
+                  {
+                     "role" : "Bus Passenger #2",
+                     "name" : "Loretta Jean"
+                  },
+                  {
+                     "name" : "Sherri Villanueva",
+                     "role" : "Bus Passenger #3"
+                  },
+                  {
+                     "name" : "Margaret Medina",
+                     "role" : "Robin"
+                  },
+                  {
+                     "name" : "Jordan Lund",
+                     "role" : "Bagwell"
+                  },
+                  {
+                     "role" : "Young Executive",
+                     "name" : "Robert Mailhouse"
+                  },
+                  {
+                     "role" : "Friend of Executive",
+                     "name" : "Patrick Fischler"
+                  },
+                  {
+                     "name" : "Patrick John Hurley",
+                     "role" : "CEO"
+                  },
+                  {
+                     "role" : "Female Executive",
+                     "name" : "Susan Barnes"
+                  },
+                  {
+                     "role" : "S.W.A.T. Driver",
+                     "name" : "Rick Dano"
+                  },
+                  {
+                     "name" : "Michael Sottile",
+                     "role" : "S.W.A.T. Cop"
+                  },
+                  {
+                     "role" : "Baby Carriage Woman #1",
+                     "name" : "Jane Crawley"
+                  },
+                  {
+                     "name" : "Anne O'Sullivan",
+                     "role" : "Baby Carriage Woman #2"
+                  },
+                  {
+                     "name" : "Beau Starr",
+                     "role" : "Commissioner"
+                  },
+                  {
+                     "role" : "Bob",
+                     "name" : "John Capodice"
+                  },
+                  {
+                     "role" : "Vince",
+                     "name" : "Thomas Rosales, Jr."
+                  },
+                  {
+                     "role" : "Workman",
+                     "name" : "James DuMont"
+                  },
+                  {
+                     "name" : "Antonio Mora",
+                     "role" : "News Anchor #1"
+                  },
+                  {
+                     "role" : "News Anchor #2",
+                     "name" : "Patty Toy"
+                  },
+                  {
+                     "role" : "News Cameraman",
+                     "name" : "Todd Gordon"
+                  },
+                  {
+                     "name" : "Bruce Wright",
+                     "role" : "Reporter #1"
+                  },
+                  {
+                     "name" : "Mark Kriski",
+                     "role" : "Reporter #2"
+                  },
+                  {
+                     "name" : "Dagny Hultgreen",
+                     "role" : "Reporter #3"
+                  },
+                  {
+                     "name" : "Richard Schiff",
+                     "role" : "Train Driver"
+                  },
+                  {
+                     "name" : "Joseph Carberry",
+                     "role" : "Cop"
+                  },
+                  {
+                     "name" : "Sandy Martin",
+                     "role" : "Bartender"
+                  },
+                  {
+                     "name" : "Neisha Folkes-LeMelle",
+                     "role" : "Mrs. McMahon"
+                  },
+                  {
+                     "name" : "Jim Mapp",
+                     "role" : "Additional Bus Passenger #1"
+                  },
+                  {
+                     "role" : "Additional Bus Passenger #2",
+                     "name" : "Milton Quon"
+                  },
+                  {
+                     "name" : "Sonia Jackson",
+                     "role" : "Additional Bus Passenger #3"
+                  },
+                  {
+                     "role" : "Additional Bus Passenger #4",
+                     "name" : "Carmen Williams"
+                  },
+                  {
+                     "name" : "Paula Montes",
+                     "role" : "Additional Bus Passenger #5"
+                  },
+                  {
+                     "role" : "Additional Bus Passenger #6",
+                     "name" : "Loyda Ramos"
+                  },
+                  {
+                     "role" : "Additional Bus Passenger #7",
+                     "name" : "Julia Vera"
+                  },
+                  {
+                     "role" : "Additional Bus Passenger #8",
+                     "name" : "Marylou Lim"
+                  },
+                  {
+                     "name" : "Brian K. Grant",
+                     "role" : "Elevator Passenger #1"
+                  },
+                  {
+                     "role" : "Elevator Passenger #2",
+                     "name" : "Barry Kramer"
+                  },
+                  {
+                     "role" : "Elevator Passenger #3",
+                     "name" : "Robin McKee"
+                  },
+                  {
+                     "role" : "Elevator Passenger #4",
+                     "name" : "Paige Goodman"
+                  },
+                  {
+                     "name" : "Christina Fitzgerald",
+                     "role" : "Elevator Passenger #5"
+                  },
+                  {
+                     "role" : "Elevator Passenger #6",
+                     "name" : "Tara Thomas"
+                  },
+                  {
+                     "role" : "Elevator Passenger #7",
+                     "name" : "Cece Tsou"
+                  },
+                  {
+                     "role" : "Elevator Passenger #8",
+                     "name" : "Michael N. Fujimoto"
+                  },
+                  {
+                     "name" : "Richard Gelb",
+                     "role" : "Elevator Passenger #9"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "6.8 / 10"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/1637"
+            },
+            "desc" : {
+               "da" : "En bindegal bombemand har placeret en bombe p\u00e5 en bus. Antiterror-eksperten Jack Traven (Keanu Reeves) f\u00e5r imidlertid hj\u00e6lp af en af passagererne p\u00e5 bussen, Annie (Sandra Bullock). Sammen skal de s\u00f8rge for at bomben ikke spr\u00e6nger, men det er lettere sagt end gjort, for idet \u00f8jeblik at bussens hastighed kommer under 80 kilometer i timen, bliver bomben aktiveret. Filmen vandt i \u00f8vrigt to Oscar-statuetter, \u00e9n for bedste lyd, og \u00e9n for bedste effekter og klipning af lydeffekter."
+            },
+            "title" : {
+               "da" : "Speed"
+            },
+            "stop" : "1522375200",
+            "start" : "1522368000",
+            "url" : [
+               "http://www.themoviedb.org/movie/1637"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Adventure",
+                  "Crime"
+               ]
+            },
+            "channel" : "action.film.viasat.dk",
+            "country" : [
+               "US"
+            ],
+            "date" : "1994",
+            "video" : {
+               "aspect" : "4:3"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2007",
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama"
+               ]
+            },
+            "channel" : "action.film.viasat.dk",
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/13074"
+            ],
+            "start" : "1522375200",
+            "stop" : "1522382400",
+            "desc" : {
+               "da" : "Eric Kernan Jr. (Josh Hartnett) er en sportsjournalist, der har arbejdet p\u00e5 en avis i Denver - men hans artikler form\u00e5r ikke at imponere redakt\u00f8ren Ralph Metz (Alan Alda). Da Kernan forlader en boksekamp, stopper han nogle unge b\u00f8ller fra et t\u00e6ve en hjeml\u00f8s mand. Det viser sig at v\u00e6re den tidligere sv\u00e6rv\u00e6gtsboksemester Bob Satterfield (Samuel L. Jackson). Kernan begiver sig ud p\u00e5 en rejse, for at fort\u00e6lle boksemesterens historie. Imens fors\u00f8ger han at f\u00e5 sit eget liv tilbage p\u00e5 rette spor."
+            },
+            "title" : {
+               "da" : "Resurrecting the Champ"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/13074"
+            },
+            "rating" : {
+               "stars" : "6 / 10"
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Michael Bortman"
+                  },
+                  {
+                     "name" : "Allison Burnett"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Samuel L. Jackson",
+                     "role" : "Champ"
+                  },
+                  {
+                     "name" : "Josh Hartnett",
+                     "role" : "Erik Kenman Jr."
+                  },
+                  {
+                     "role" : "Ralph Metz",
+                     "name" : "Alan Alda"
+                  },
+                  {
+                     "role" : "Andrea Flak",
+                     "name" : "Teri Hatcher"
+                  },
+                  {
+                     "role" : "Joyce Kernan",
+                     "name" : "Kathryn Morris"
+                  },
+                  {
+                     "name" : "Dakota Goyo",
+                     "role" : "Teddy Kernan"
+                  },
+                  {
+                     "name" : "Rachel Nichols",
+                     "role" : "Polly"
+                  },
+                  {
+                     "role" : "Marciano",
+                     "name" : "Nick Sandow"
+                  },
+                  {
+                     "name" : "Kristen Shaw",
+                     "role" : "Kristen Shaw"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Marc Frydman"
+                  },
+                  {
+                     "name" : "Rod Lurie"
+                  },
+                  {
+                     "name" : "Mike Medavoy"
+                  },
+                  {
+                     "name" : "Bob Yari"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Rod Lurie"
+                  }
+               ]
+            }
+         },
+         {
+            "episodeNum" : {
+               "themoviedb.org" : "movie/70667"
+            },
+            "desc" : {
+               "da" : "Den norske opdagelsesrejsende, Thor Heyerdahl, krydsede Stillehavet i en b\u00e5d i balsatr\u00e6 i 1947. Sammen med fem mand ville han bevise, at Sydamerikanerne tilbage i Colombias tidlige tid kunne have krydset havet og sl\u00e5et sig ned i Polynesien. Efter at have finansieret turen med l\u00e5n og donationer, tager de afsted p\u00e5 en episk 101 dag lang tur, otte tusinde kilometer lang - mens verden venter p\u00e5 resultatet af deres tur."
+            },
+            "title" : {
+               "da" : "Kon-Tiki"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Thor Heyerdahl",
+                     "name" : "P\u00e5l Sverre Hagen"
+                  },
+                  {
+                     "name" : "Anders Baasmo Christiansen",
+                     "role" : "Herman Watzinger"
+                  },
+                  {
+                     "name" : "Tobias Santelmann",
+                     "role" : "Knut Haugland"
+                  },
+                  {
+                     "role" : "Bengt Danielsson",
+                     "name" : "Gustaf Skarsg\u00e5rd"
+                  },
+                  {
+                     "name" : "Odd-Magnus Williamson",
+                     "role" : "Erik Hesselberg"
+                  },
+                  {
+                     "name" : "Jakob Oftebro",
+                     "role" : "Torstein Raaby"
+                  },
+                  {
+                     "role" : "Liv Heyerdahl",
+                     "name" : "Agnes Kittelsen"
+                  },
+                  {
+                     "role" : "Jose Bustamente",
+                     "name" : "Manuel Cauchi"
+                  },
+                  {
+                     "role" : "L\u00f8ytnant Lewis",
+                     "name" : "Richard Trinder"
+                  },
+                  {
+                     "name" : "S\u00f8ren Pilmark",
+                     "role" : "Freuchen"
+                  },
+                  {
+                     "role" : "Spinden",
+                     "name" : "Peter Wight"
+                  },
+                  {
+                     "name" : "Jo Adrian Haavind",
+                     "role" : "Journalist"
+                  },
+                  {
+                     "role" : "Sailor",
+                     "name" : "Ian Bonar"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Aage Aaberge"
+                  },
+                  {
+                     "name" : "Jeremy Thomas"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Joachim R\u00f8nning"
+                  },
+                  {
+                     "name" : "Espen Sandberg"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "7 / 10"
+            },
+            "country" : [
+               "DK",
+               "DE",
+               "NO",
+               "SE",
+               "GB"
+            ],
+            "date" : "2012",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "stop" : "1522389600",
+            "start" : "1522382400",
+            "channel" : "action.film.viasat.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Adventure",
+                  "History"
+               ]
+            },
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/70667"
+            ]
+         },
+         {
+            "date" : "2017",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "DK"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Comedy",
+                  "Crime",
+                  "Drama"
+               ]
+            },
+            "channel" : "action.film.viasat.dk",
+            "url" : [
+               "http://www.themoviedb.org/movie/425716"
+            ],
+            "new" : null,
+            "start" : "1522389600",
+            "stop" : "1522396800",
+            "desc" : {
+               "da" : "De to erhvervsdrivende, Ib (Nicolas Bro) og Edward (Ulrich Thomsen), er tr\u00e6tte af deres k\u00e6rlighedsl\u00f8se \u00e6gteskaber, og de to dr\u00f8mmer om et sp\u00e6ndende liv, hvor de kan leve af de penge, som de har skaffet gennem \u00e5rene med sort arbejde. Efter et bittert sk\u00e6nderi med konerne, drikker de sig fulde og hyrer en russisk lejemorder, der skal dr\u00e6be deres koner. Men de har kraftigt undervurderet deres koner, og dette bliver starten p\u00e5 en absurd rejse, hvor Ib og Edward lander p\u00e5 toppen af en d\u00f8dsliste."
+            },
+            "title" : {
+               "da" : "Dr\u00e6berne fra Nibe"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/425716"
+            },
+            "rating" : {
+               "stars" : "6.3 / 10"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Nicolas Bro",
+                     "role" : "Ib"
+                  },
+                  {
+                     "role" : "Edward",
+                     "name" : "Ulrich Thomsen"
+                  },
+                  {
+                     "name" : "Mia Lyhne",
+                     "role" : "Gritt"
+                  },
+                  {
+                     "role" : "Ingrid",
+                     "name" : "Lene Maria Christensen"
+                  },
+                  {
+                     "role" : "Heinz",
+                     "name" : "S\u00f8ren Malling"
+                  },
+                  {
+                     "role" : "Terapeut",
+                     "name" : "Birthe Neumann"
+                  },
+                  {
+                     "role" : "Advokat",
+                     "name" : "Ole Thestrup"
+                  },
+                  {
+                     "name" : "Gwen Taylor",
+                     "role" : "Miss Nippleworthy"
+                  },
+                  {
+                     "name" : "Marcin Dorocinski",
+                     "role" : "Igor Ladpolny"
+                  },
+                  {
+                     "role" : "Fru Hansen",
+                     "name" : "Elsebeth Steentoft"
+                  },
+                  {
+                     "name" : "Joel Spira",
+                     "role" : "Malte"
+                  },
+                  {
+                     "name" : "Jens Andersen",
+                     "role" : "Bent"
+                  },
+                  {
+                     "name" : "Alexander Behrang Keshtkar",
+                     "role" : "Taxachauff\u00f8r"
+                  },
+                  {
+                     "name" : "Johanne Louise Schmidt",
+                     "role" : "Pernille"
+                  },
+                  {
+                     "name" : "Mikkel Arendt",
+                     "role" : "Henrik"
+                  },
+                  {
+                     "name" : "Kim Kold",
+                     "role" : "Tolder"
+                  },
+                  {
+                     "role" : "Tolder 2",
+                     "name" : "J\u00f8rgen W. Larsen"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Ole Bornedal"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Peter Bose"
+                  },
+                  {
+                     "name" : "Jonas Allen"
+                  }
+               ]
+            }
+         },
+         {
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Paul Feig"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Ivan Reitman"
+                  },
+                  {
+                     "name" : "Amy Pascal"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Katie Dippold"
+                  },
+                  {
+                     "name" : "Paul Feig"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Abby Yates",
+                     "name" : "Melissa McCarthy"
+                  },
+                  {
+                     "name" : "Kristen Wiig",
+                     "role" : "Erin Gilbert"
+                  },
+                  {
+                     "role" : "Jillian Holtzmann",
+                     "name" : "Kate McKinnon"
+                  },
+                  {
+                     "role" : "Patty Tolan",
+                     "name" : "Leslie Jones"
+                  },
+                  {
+                     "name" : "Chris Hemsworth",
+                     "role" : "Kevin Smith"
+                  },
+                  {
+                     "name" : "Neil Casey",
+                     "role" : "Rowan North"
+                  },
+                  {
+                     "role" : "Harold Fillmore",
+                     "name" : "Charles Dance"
+                  },
+                  {
+                     "role" : "Agent Hawkins",
+                     "name" : "Michael Kenneth Williams"
+                  },
+                  {
+                     "role" : "Jennifer Lynch",
+                     "name" : "Cecily Strong"
+                  },
+                  {
+                     "role" : "Mayor Bradley",
+                     "name" : "Andy Garc\u00eda"
+                  },
+                  {
+                     "name" : "Matt Walsh",
+                     "role" : "Agent Rorke"
+                  },
+                  {
+                     "name" : "Ed Begley Jr.",
+                     "role" : "Ed Mulgrave"
+                  },
+                  {
+                     "name" : "Steve Higgins",
+                     "role" : "Dean Jones"
+                  },
+                  {
+                     "name" : "Michael McDonald",
+                     "role" : "Jonathan the Theater Manager"
+                  },
+                  {
+                     "name" : "Karan Soni",
+                     "role" : "Benny"
+                  },
+                  {
+                     "name" : "Zach Woods",
+                     "role" : "Tour Guide Garrett"
+                  },
+                  {
+                     "name" : "Nate Corddry",
+                     "role" : "Graffiti Artist"
+                  },
+                  {
+                     "name" : "Toby Huss",
+                     "role" : "Officer Stevenson"
+                  },
+                  {
+                     "name" : "Katie Dippold",
+                     "role" : "Rental Agent"
+                  },
+                  {
+                     "role" : "Waitress",
+                     "name" : "Jessica Chaffin"
+                  },
+                  {
+                     "role" : "Waitress",
+                     "name" : "Jamie Denbo"
+                  },
+                  {
+                     "role" : "Electrocuted Ghost",
+                     "name" : "Dave Allen"
+                  },
+                  {
+                     "name" : "Steve Bannos",
+                     "role" : "Flasher Ghost"
+                  },
+                  {
+                     "name" : "Adam Ray",
+                     "role" : "Lead Singer / Voice of Slimer"
+                  },
+                  {
+                     "name" : "Bill Murray",
+                     "role" : "Martin Heiss"
+                  },
+                  {
+                     "name" : "Dan Aykroyd",
+                     "role" : "Frustrated Cabbie"
+                  },
+                  {
+                     "role" : "Uncle Bill",
+                     "name" : "Ernie Hudson"
+                  },
+                  {
+                     "role" : "Rebecca Gorin",
+                     "name" : "Sigourney Weaver"
+                  },
+                  {
+                     "name" : "Annie Potts",
+                     "role" : "Desk Clerk"
+                  },
+                  {
+                     "name" : "Ozzy Osbourne",
+                     "role" : "Famous Rock Star"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Al Roker"
+                  },
+                  {
+                     "name" : "Rosanna Scotto",
+                     "role" : "Fox 5 News Anchor"
+                  },
+                  {
+                     "name" : "Greg Kelly",
+                     "role" : "Fox 5 News Anchor"
+                  },
+                  {
+                     "role" : "Metal Head",
+                     "name" : "Daniel Ramis"
+                  },
+                  {
+                     "name" : "Sam Richardson",
+                     "role" : "Basement Cop"
+                  },
+                  {
+                     "name" : "Milana Vayntrub",
+                     "role" : "Subway Rat Woman"
+                  },
+                  {
+                     "role" : "Gertrude Aldridge Ghost",
+                     "name" : "Bess Rous"
+                  },
+                  {
+                     "name" : "Pat Kiernan",
+                     "role" : "NY1 News Anchor #1"
+                  },
+                  {
+                     "role" : "Bass Guitarist",
+                     "name" : "Eugene Cordero"
+                  },
+                  {
+                     "role" : "Reporter Outside Theater",
+                     "name" : "Jeanine Ramirez"
+                  },
+                  {
+                     "name" : "Tom Yi",
+                     "role" : "Flashed Man"
+                  },
+                  {
+                     "name" : "Susan Park",
+                     "role" : "Flashed Woman"
+                  },
+                  {
+                     "role" : "Police Officer",
+                     "name" : "Stephen Boss"
+                  },
+                  {
+                     "role" : "Lady Slimer (voice)",
+                     "name" : "Robin Shelby"
+                  },
+                  {
+                     "role" : "Higgins Student",
+                     "name" : "John Milhiser"
+                  },
+                  {
+                     "role" : "Higgins Student",
+                     "name" : "Ben Harris"
+                  },
+                  {
+                     "role" : "Fernando the Janitor",
+                     "name" : "Jaime Pacheco"
+                  },
+                  {
+                     "name" : "Davey Jones",
+                     "role" : "Ely the Drummer"
+                  },
+                  {
+                     "role" : "Rock Guitarist",
+                     "name" : "Ryan Levine"
+                  },
+                  {
+                     "name" : "Dan Teicher",
+                     "role" : "Rock Guitarist"
+                  },
+                  {
+                     "role" : "Keyboardist",
+                     "name" : "Theodore Shapiro"
+                  },
+                  {
+                     "role" : "Lightboard Operator",
+                     "name" : "Matteo Borghese"
+                  },
+                  {
+                     "name" : "Cheryl Wills",
+                     "role" : "NY1 News Anchor #2"
+                  },
+                  {
+                     "role" : "Police Officer",
+                     "name" : "Tony Viveiros"
+                  },
+                  {
+                     "name" : "Johnny Higgins",
+                     "role" : "Baba Booey Shouter"
+                  },
+                  {
+                     "role" : "Phyllis Adler",
+                     "name" : "Elizabeth Perkins"
+                  },
+                  {
+                     "role" : "Ghost Prostitute / College Student (uncredited)",
+                     "name" : "Kristen Annese"
+                  },
+                  {
+                     "role" : "Restaurant Patron (uncredited)",
+                     "name" : "Stephanie Atkinson"
+                  },
+                  {
+                     "role" : "Frank (uncredited)",
+                     "name" : "Brian Baumgartner"
+                  },
+                  {
+                     "name" : "Amanda Blattner",
+                     "role" : "Aldridge Mansion Tourist (uncredited)"
+                  },
+                  {
+                     "role" : "Pedestrian (uncredited)",
+                     "name" : "Chemi Che-Mponda"
+                  },
+                  {
+                     "name" : "Kadian Clarke",
+                     "role" : "AA News Reporter (uncredited)"
+                  },
+                  {
+                     "role" : "Concert Goer (uncredited)",
+                     "name" : "Mackenzie Hawe"
+                  },
+                  {
+                     "name" : "Erin Katrina Hayes",
+                     "role" : "Coffeeshop Patron / Concert Goer (uncredited)"
+                  },
+                  {
+                     "role" : "NYC Pedestrian (uncredited)",
+                     "name" : "Sigrid Lium"
+                  },
+                  {
+                     "role" : "Concert Goer (uncredited)",
+                     "name" : "Paige MacLean"
+                  },
+                  {
+                     "name" : "Lesley Nicol",
+                     "role" : "Mrs. Potter (uncredited)"
+                  },
+                  {
+                     "name" : "Diane Pimentel",
+                     "role" : "Concert Goer (uncredited)"
+                  },
+                  {
+                     "role" : "Guitar Technician (uncredited)",
+                     "name" : "Lexie Roth"
+                  },
+                  {
+                     "role" : "Woman in Subway (uncredited)",
+                     "name" : "Stephanie Ann Saunders"
+                  },
+                  {
+                     "name" : "Kallie Tabor",
+                     "role" : "Community College Student (uncredited)"
+                  },
+                  {
+                     "name" : "Jordan Tofalo",
+                     "role" : "1950s Ghost (uncredited)"
+                  },
+                  {
+                     "role" : "Show Girl Ghost (uncredited)/Double for Gertrude Aldridge Ghost & Bess Rous",
+                     "name" : "Chaunty Spillane"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "5.3 / 10"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/43074"
+            },
+            "title" : {
+               "da" : "Ghostbusters"
+            },
+            "desc" : {
+               "da" : "Fysikerne Dr. Abigail \"Abi\" Yates (Melissa McCarthy) og Dr. Erin Gilbert (Kristen Wiig), ingeni\u00f8ren Dr. Jillian \"Holtz\" Holtzmann (Kate McKinnon) samt metro-medarbejderen Patricia \"Patty\" Tolan (Leslie Jones) g\u00e5r sammen, for at danne 'Ghostbusters', for at g\u00e5 til kamp mod det stigende antal af paranormale f\u00e6nomener i New York."
+            },
+            "start" : "1522396800",
+            "stop" : "1522404000",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Fantasy",
+                  "Comedy"
+               ]
+            },
+            "channel" : "action.film.viasat.dk",
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/43074"
+            ],
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2016"
+         },
+         {
+            "title" : {
+               "da" : "Space Truckers"
+            },
+            "desc" : {
+               "da" : "Dennis Hopper, Stephen Dorff og Charles Dance medvirker i denne actionfyldte- og humoristiske komedie. De sidste, uafh\u00e6ngige fragtpiloter f\u00e5r til opgave at fragte noget ulovligt gods."
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/10690"
+            },
+            "rating" : {
+               "stars" : "5.5 / 10"
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Stuart Gordon"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Mary Breen-Farrelly"
+                  },
+                  {
+                     "name" : "Stuart Gordon"
+                  },
+                  {
+                     "name" : "Greg Johnson"
+                  },
+                  {
+                     "name" : "Peter Newman"
+                  },
+                  {
+                     "name" : "Ted Mann"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Dennis Hopper",
+                     "role" : "John Canyon"
+                  },
+                  {
+                     "name" : "Stephen Dorff",
+                     "role" : "Mike Pucci"
+                  },
+                  {
+                     "role" : "Cindy",
+                     "name" : "Debi Mazar"
+                  },
+                  {
+                     "name" : "George Wendt",
+                     "role" : "Keller"
+                  },
+                  {
+                     "name" : "Charles Dance",
+                     "role" : "Nabel / Macanudo"
+                  },
+                  {
+                     "name" : "Shane Rimmer",
+                     "role" : "E. J. Saggs"
+                  },
+                  {
+                     "role" : "Bitchin' Betty",
+                     "name" : "Sandra Dickinson"
+                  },
+                  {
+                     "role" : "Mel",
+                     "name" : "Sean Lawlor"
+                  },
+                  {
+                     "name" : "Vernon Wells",
+                     "role" : "Mister Cutt"
+                  },
+                  {
+                     "role" : "Tommy",
+                     "name" : "Mike Hagerty"
+                  },
+                  {
+                     "role" : "Delia",
+                     "name" : "Carolyn Purdy-Gordon"
+                  },
+                  {
+                     "name" : "Barbara Crampton",
+                     "role" : "Carol"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Ted Mann"
+                  }
+               ]
+            },
+            "date" : "1996",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "IE",
+               "GB",
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Comedy",
+                  "Sci-Fi",
+                  "Thriller",
+                  "Adventure"
+               ]
+            },
+            "channel" : "action.film.viasat.dk",
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/10690"
+            ],
+            "stop" : "1522411200",
+            "start" : "1522404000"
+         },
+         {
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Eran Creevy"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Casey Stein",
+                     "name" : "Nicholas Hoult"
+                  },
+                  {
+                     "name" : "Felicity Jones",
+                     "role" : "Juliette Marne"
+                  },
+                  {
+                     "name" : "Anthony Hopkins",
+                     "role" : "Hagen Kahl"
+                  },
+                  {
+                     "name" : "Ben Kingsley",
+                     "role" : "Geran"
+                  },
+                  {
+                     "name" : "Marwan Kenzari",
+                     "role" : "Matthias"
+                  },
+                  {
+                     "role" : "Jonas",
+                     "name" : "Aleksandar Jovanovi\u0107"
+                  },
+                  {
+                     "name" : "Christian Rubeck",
+                     "role" : "Kay"
+                  },
+                  {
+                     "name" : "Erdal Yildiz",
+                     "role" : "Rainer"
+                  },
+                  {
+                     "name" : "Clemens Schick",
+                     "role" : "Mirko"
+                  },
+                  {
+                     "name" : "Johnny Palmiero",
+                     "role" : "Fitch"
+                  },
+                  {
+                     "role" : "Wolfgang",
+                     "name" : "Joachim Kr\u00f3l"
+                  },
+                  {
+                     "role" : "Talaz",
+                     "name" : "Markus Andreas Klauk"
+                  },
+                  {
+                     "name" : "Nadia Hilker",
+                     "role" : "Wrong Juliette"
+                  },
+                  {
+                     "name" : "Christina Hecke",
+                     "role" : "Doctor"
+                  },
+                  {
+                     "name" : "Ben Hecker",
+                     "role" : "Filling Station Clerk"
+                  },
+                  {
+                     "name" : "Michael Epp",
+                     "role" : "Family Car Owner"
+                  },
+                  {
+                     "role" : "Sick Girl",
+                     "name" : "Lara Melina Siebertz"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "5.6 / 10"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/195590"
+            },
+            "desc" : {
+               "da" : "Casey Stein (Nicholas Hoult), der arbejder for den excentriske narkosmugler Geran (Ben Kingsley), er desperat for at skaffe penge, da han backpacker gennem Tyskland. Mens han tjener under Geran, m\u00f8der han den smukke Juliette Marne (Felicity Jones) - men hun afviser hans tiln\u00e6rmelser, da hun ikke vil date en kriminel. Casey dropper sin ulovlige \"karriere\" for at v\u00e6re sammen med hende. Juliettes f\u00e5r nyresvigt, men er ikke i stand til at f\u00e5 d\u00e6kning, da hun ikke er tysker. Casey g\u00e5r til Geran for hj\u00e6lp. Geran f\u00e5r Casey til at deltage i et narkor\u00f8veri, hvor de planl\u00e6gger at r\u00f8ve fra Gerans st\u00f8rste rival; Hagen Kahl (Anthony Hopkins). Da Juliette kommer i fare, bliver Casey presset til sit yderste."
+            },
+            "title" : {
+               "da" : "Autobahn"
+            },
+            "start" : "1522411200",
+            "stop" : "1522418400",
+            "url" : [
+               "http://www.themoviedb.org/movie/195590"
+            ],
+            "new" : null,
+            "channel" : "action.film.viasat.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Thriller",
+                  "Action"
+               ]
+            },
+            "country" : [
+               "CN",
+               "DE",
+               "GB"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2016"
+         },
+         {
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Patrick Massett"
+                  },
+                  {
+                     "name" : "Matthew McConaughey"
+                  },
+                  {
+                     "name" : "Michael Nozik"
+                  },
+                  {
+                     "name" : "Teddy Schwarzman"
+                  },
+                  {
+                     "name" : "John Zinman"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Stephen Gaghan"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Matthew McConaughey",
+                     "role" : "Kenny Wells"
+                  },
+                  {
+                     "name" : "Bryce Dallas Howard",
+                     "role" : "Kay"
+                  },
+                  {
+                     "role" : "Michael Acosta",
+                     "name" : "Edgar Ram\u00edrez"
+                  },
+                  {
+                     "name" : "Timothy Simons",
+                     "role" : "Jackson"
+                  },
+                  {
+                     "name" : "Michael Landes",
+                     "role" : "Binkert"
+                  },
+                  {
+                     "role" : "Clive Coleman",
+                     "name" : "Stacy Keach"
+                  },
+                  {
+                     "name" : "Rachael Taylor",
+                     "role" : "Rachel Hill"
+                  },
+                  {
+                     "role" : "Mark Hancock",
+                     "name" : "Bruce Greenwood"
+                  },
+                  {
+                     "name" : "Craig T. Nelson",
+                     "role" : "Kenny Wells"
+                  },
+                  {
+                     "name" : "Corey Stoll",
+                     "role" : "Brian Woolf"
+                  },
+                  {
+                     "role" : "Jennings",
+                     "name" : "Toby Kebbell"
+                  },
+                  {
+                     "name" : "Macon Blair",
+                     "role" : "Connie Wright"
+                  },
+                  {
+                     "role" : "Hollis Dresher",
+                     "name" : "Bill Camp"
+                  },
+                  {
+                     "name" : "Lora Martinez-Cunningham",
+                     "role" : "Donna"
+                  },
+                  {
+                     "name" : "Frank Wood",
+                     "role" : "Scottie Nevins"
+                  },
+                  {
+                     "role" : "Bobby Burns",
+                     "name" : "Adam LeFevre"
+                  },
+                  {
+                     "name" : "Dylan Kenin",
+                     "role" : "Levine"
+                  },
+                  {
+                     "name" : "Joshua Harto",
+                     "role" : "Lloyd Stanton"
+                  },
+                  {
+                     "name" : "Matthew Page",
+                     "role" : "Hart Hubbard"
+                  },
+                  {
+                     "role" : "Carl",
+                     "name" : "Jackamoe Buzzell"
+                  },
+                  {
+                     "role" : "Minister of Mining",
+                     "name" : "Sahajak Boonthanakit"
+                  },
+                  {
+                     "name" : "Kristen Rakes",
+                     "role" : "Carissa"
+                  },
+                  {
+                     "name" : "Stafford Douglas",
+                     "role" : "Henry Andrews"
+                  },
+                  {
+                     "role" : "Investor / Broker",
+                     "name" : "Richard Beal"
+                  },
+                  {
+                     "role" : "Finance Show Host",
+                     "name" : "Hank Rogerson"
+                  },
+                  {
+                     "role" : "FBI Agent",
+                     "name" : "Jacob Browne"
+                  },
+                  {
+                     "name" : "Bob Jesser",
+                     "role" : "Angry Investor #1 - Harrah's"
+                  },
+                  {
+                     "role" : "Owens",
+                     "name" : "Bhavesh Patel"
+                  },
+                  {
+                     "role" : "Bar Patron",
+                     "name" : "Cheo Tapia"
+                  },
+                  {
+                     "role" : "Bev",
+                     "name" : "Joanne Camp"
+                  },
+                  {
+                     "role" : "Angry Investor #5",
+                     "name" : "Danny Winn"
+                  },
+                  {
+                     "role" : "Walt Kealer",
+                     "name" : "William Sterchi"
+                  },
+                  {
+                     "role" : "Banks",
+                     "name" : "Ben Whitehair"
+                  },
+                  {
+                     "role" : "Angry Investor",
+                     "name" : "Catherine Haun"
+                  },
+                  {
+                     "role" : "Cranepool",
+                     "name" : "John Wojda"
+                  },
+                  {
+                     "role" : "Bar Patron",
+                     "name" : "Julian Wondolowski"
+                  },
+                  {
+                     "role" : "Rachel's Friend",
+                     "name" : "Marybeth Massett"
+                  },
+                  {
+                     "role" : "Board Room Member",
+                     "name" : "Joe Girard"
+                  },
+                  {
+                     "role" : "Bar Patron",
+                     "name" : "Karan Choudhary"
+                  },
+                  {
+                     "role" : "Luis Bungalon",
+                     "name" : "Lionel Archuleta"
+                  },
+                  {
+                     "role" : "Angry Investor #3",
+                     "name" : "Ramona King"
+                  },
+                  {
+                     "name" : "John Pirkis",
+                     "role" : "Lewis Horne"
+                  },
+                  {
+                     "role" : "Roy Baker",
+                     "name" : "Vic Browder"
+                  },
+                  {
+                     "name" : "Art Tedesco",
+                     "role" : "Golden Pickaxe M.C."
+                  },
+                  {
+                     "name" : "Stephen Bogardus",
+                     "role" : "Roger"
+                  },
+                  {
+                     "name" : "Nicole Brady",
+                     "role" : "Reno News Anchor"
+                  },
+                  {
+                     "role" : "Reno News Reporter",
+                     "name" : "Tad Jones"
+                  },
+                  {
+                     "role" : "Geologist",
+                     "name" : "Frank Bond"
+                  },
+                  {
+                     "role" : "Coast-to-Coast News Anchor",
+                     "name" : "Casey Messer"
+                  },
+                  {
+                     "role" : "Mining Expert",
+                     "name" : "John Lawlor"
+                  },
+                  {
+                     "name" : "Joe Berryman",
+                     "role" : "Angry Investor #2"
+                  },
+                  {
+                     "name" : "Russ Dillen",
+                     "role" : "Angry Investor #4"
+                  },
+                  {
+                     "name" : "Jessica Cummings",
+                     "role" : "Jackson's Wife"
+                  },
+                  {
+                     "name" : "Patrick Duggan",
+                     "role" : "Waldorf-Astoria Doorman"
+                  },
+                  {
+                     "name" : "Ed Trucco",
+                     "role" : "Bartender"
+                  },
+                  {
+                     "name" : "Jirayu Tantrakul",
+                     "role" : "Darmadi 'Danny' Suharto"
+                  },
+                  {
+                     "name" : "Yothin Mapobphun",
+                     "role" : "Dayak Foreman"
+                  },
+                  {
+                     "name" : "Nophand Boonyai",
+                     "role" : "Indo Patrol Soldier #1"
+                  },
+                  {
+                     "name" : "Ratiwat Bubpsasawat",
+                     "role" : "Soldier with Rifle - Washoe Site"
+                  },
+                  {
+                     "name" : "Tanapol Chuksrida",
+                     "role" : "Indo Military Officer - Airport"
+                  },
+                  {
+                     "role" : "Richest Man in Delaware",
+                     "name" : "Jory Levine"
+                  },
+                  {
+                     "role" : "Investor",
+                     "name" : "Shad Adair"
+                  },
+                  {
+                     "name" : "Lorus Allen",
+                     "role" : "Gala Waiter / Mover"
+                  },
+                  {
+                     "role" : "Reno Police Officer",
+                     "name" : "Rick Anglada"
+                  },
+                  {
+                     "name" : "Patrick Burns",
+                     "role" : "News Reporter"
+                  },
+                  {
+                     "role" : "Prospector",
+                     "name" : "Kurt Capalbo"
+                  },
+                  {
+                     "name" : "Warren M. Christopher",
+                     "role" : "Bar Patron"
+                  },
+                  {
+                     "role" : "NYPD Officer",
+                     "name" : "Neil Fleischer"
+                  },
+                  {
+                     "role" : "Angry Investor / Hobbyist",
+                     "name" : "Alison Grainger"
+                  },
+                  {
+                     "role" : "Showgirl",
+                     "name" : "Evan Bryn Graves"
+                  },
+                  {
+                     "name" : "William Greely",
+                     "role" : "FBI Agent"
+                  },
+                  {
+                     "name" : "Sylvie Grontis Hagan",
+                     "role" : "Hotel Guess Gala Guest"
+                  },
+                  {
+                     "name" : "Mohammed Hossain",
+                     "role" : "Passerby / Waldorf Guest"
+                  },
+                  {
+                     "name" : "Darrick Hurst",
+                     "role" : "Bartender"
+                  },
+                  {
+                     "role" : "Washoe Broker",
+                     "name" : "Bill Jones"
+                  },
+                  {
+                     "role" : "Officer Worker",
+                     "name" : "Jamie H. Jung"
+                  },
+                  {
+                     "role" : "Socialite",
+                     "name" : "Bobby Knudsen"
+                  },
+                  {
+                     "name" : "Steve Larese",
+                     "role" : "Angry Investor / Silver Cadillac Driver"
+                  },
+                  {
+                     "name" : "Jameson Macmillan",
+                     "role" : "Motel Guest / Hobbiest / Casino Patron / Bar Patron"
+                  },
+                  {
+                     "role" : "Mob Guest",
+                     "name" : "Jose Martinez"
+                  },
+                  {
+                     "name" : "Jose B. Martinez",
+                     "role" : "Wall Street Trader"
+                  },
+                  {
+                     "role" : "Blackjack Dealer",
+                     "name" : "Gustavo Montes"
+                  },
+                  {
+                     "role" : "Small Market Prospector / Gala Guest",
+                     "name" : "Justin D. Moore"
+                  },
+                  {
+                     "name" : "Phil Oddo",
+                     "role" : "Pedestrian"
+                  },
+                  {
+                     "name" : "Philip David Pickard",
+                     "role" : "Trader"
+                  },
+                  {
+                     "name" : "Alexander Daniel Pimentel",
+                     "role" : "News Reporter"
+                  },
+                  {
+                     "role" : "FBI Agent",
+                     "name" : "Michael Neal Powell"
+                  },
+                  {
+                     "name" : "Michael Prather",
+                     "role" : "Washoe Employee"
+                  },
+                  {
+                     "role" : "Hero Washoe Broker",
+                     "name" : "James Rishe"
+                  },
+                  {
+                     "role" : "Hotel Concierge",
+                     "name" : "James Tyler Robinson"
+                  },
+                  {
+                     "role" : "Investor Attorney",
+                     "name" : "Joseph P. Santillanes"
+                  },
+                  {
+                     "role" : "Photographer",
+                     "name" : "Kate Sears"
+                  },
+                  {
+                     "role" : "Socialite",
+                     "name" : "Nora Sommerkamp"
+                  },
+                  {
+                     "role" : "NYSE Security Guard",
+                     "name" : "Michael E. Stogner"
+                  },
+                  {
+                     "name" : "Kevin Wester",
+                     "role" : "Hero Washoe Broker"
+                  },
+                  {
+                     "name" : "Kathie Westgate",
+                     "role" : "Wife"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "6.6 / 10"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/334524"
+            },
+            "desc" : {
+               "da" : "Kenny Wells (Matthew McConaughey) har arvet et guld-prospekter firma - men dens formue er skrantende. Den ivrige geolog, Michael Acosta (\u00c8dgar Ram\u00edrez), overtaler ham til at \u00e5bne en mine i Indonesiens jungle. Kenny p\u00e5drager sig malaria og han er sengeliggende i flere dage. Da han kommer sig, fort\u00e6ller Michael ham, at de har fundet guld. Efter at have importeret guldet til USA, bliver Kennys Washoe Mining-firma et m\u00e5l for de ubarmhjertige Wall Street-handlere, der er fast besluttet p\u00e5 at udhule hans forretning for penge. Med opmuntring og tillid fra k\u00e6resten Kay (Bryce Dallas Howard), drager Kenny afsted ud for at forsvare sit guld."
+            },
+            "title" : {
+               "da" : "Gold"
+            },
+            "stop" : "1522425600",
+            "start" : "1522418400",
+            "channel" : "action.film.viasat.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Adventure",
+                  "Drama",
+                  "Thriller"
+               ]
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/334524"
+            ],
+            "new" : null,
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2016"
+         },
+         {
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Michael Bortman"
+                  },
+                  {
+                     "name" : "Allison Burnett"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Champ",
+                     "name" : "Samuel L. Jackson"
+                  },
+                  {
+                     "role" : "Erik Kenman Jr.",
+                     "name" : "Josh Hartnett"
+                  },
+                  {
+                     "name" : "Alan Alda",
+                     "role" : "Ralph Metz"
+                  },
+                  {
+                     "name" : "Teri Hatcher",
+                     "role" : "Andrea Flak"
+                  },
+                  {
+                     "role" : "Joyce Kernan",
+                     "name" : "Kathryn Morris"
+                  },
+                  {
+                     "role" : "Teddy Kernan",
+                     "name" : "Dakota Goyo"
+                  },
+                  {
+                     "role" : "Polly",
+                     "name" : "Rachel Nichols"
+                  },
+                  {
+                     "role" : "Marciano",
+                     "name" : "Nick Sandow"
+                  },
+                  {
+                     "role" : "Kristen Shaw",
+                     "name" : "Kristen Shaw"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Rod Lurie"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Marc Frydman"
+                  },
+                  {
+                     "name" : "Rod Lurie"
+                  },
+                  {
+                     "name" : "Mike Medavoy"
+                  },
+                  {
+                     "name" : "Bob Yari"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "6 / 10"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/13074"
+            },
+            "desc" : {
+               "da" : "Eric Kernan Jr. (Josh Hartnett) er en sportsjournalist, der har arbejdet p\u00e5 en avis i Denver - men hans artikler form\u00e5r ikke at imponere redakt\u00f8ren Ralph Metz (Alan Alda). Da Kernan forlader en boksekamp, stopper han nogle unge b\u00f8ller fra et t\u00e6ve en hjeml\u00f8s mand. Det viser sig at v\u00e6re den tidligere sv\u00e6rv\u00e6gtsboksemester Bob Satterfield (Samuel L. Jackson). Kernan begiver sig ud p\u00e5 en rejse, for at fort\u00e6lle boksemesterens historie. Imens fors\u00f8ger han at f\u00e5 sit eget liv tilbage p\u00e5 rette spor."
+            },
+            "title" : {
+               "da" : "Resurrecting the Champ"
+            },
+            "start" : "1522425600",
+            "stop" : "1522432800",
+            "url" : [
+               "http://www.themoviedb.org/movie/13074"
+            ],
+            "new" : null,
+            "channel" : "action.film.viasat.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2007"
+         },
+         {
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Luc Besson"
+                  },
+                  {
+                     "name" : "Steve Chasman"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Louis Leterrier"
+                  },
+                  {
+                     "name" : "Corey Yuen"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Jason Statham",
+                     "role" : "Frank Martin"
+                  },
+                  {
+                     "role" : "Lai",
+                     "name" : "Shu Qi"
+                  },
+                  {
+                     "role" : "Tarconi",
+                     "name" : "Fran\u00e7ois Berl\u00e9and"
+                  },
+                  {
+                     "name" : "Matt Schulze",
+                     "role" : "Wall Street"
+                  },
+                  {
+                     "name" : "Ric Young",
+                     "role" : "Mr. Kwai"
+                  },
+                  {
+                     "name" : "Doug Rand",
+                     "role" : "Leader"
+                  },
+                  {
+                     "role" : "Boss",
+                     "name" : "Didier Saint Melin"
+                  },
+                  {
+                     "name" : "Vincent Nemeth",
+                     "role" : "Pilot"
+                  },
+                  {
+                     "role" : "Little Thug",
+                     "name" : "Jean-Yves Bilien"
+                  },
+                  {
+                     "name" : "Jean-Marie Paris",
+                     "role" : "Giant Thug"
+                  },
+                  {
+                     "role" : "Young Thug",
+                     "name" : "Laurent Jumeaucourt"
+                  },
+                  {
+                     "name" : "Fr\u00e9d\u00e9ric Vallet",
+                     "role" : "Tractor Trailer Driver"
+                  },
+                  {
+                     "name" : "Cameron Watson",
+                     "role" : "Official"
+                  },
+                  {
+                     "role" : "Pr\u00e9sentateur",
+                     "name" : "Adrian Dearnell"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Luc Besson"
+                  },
+                  {
+                     "name" : "Robert Mark Kamen"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "6.6 / 10"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/4108"
+            },
+            "title" : {
+               "da" : "The Transporter"
+            },
+            "desc" : {
+               "da" : "Frank Martin (Jason Statham) er en tidligere elitesoldat, bosat p\u00e5 den franske Riviera. Han arbejder nu som smugler, og har kun tre regler: Planerne m\u00e5 ikke \u00e6ndre sig, ingen rigtige navne m\u00e5 anvendes, og han \u00e5bner aldrig en forsendelse. Under en transport bliver han chokeret over at finde ud af, at pakken indeholder en smuk kvinde fra Taiwan kaldet Lai (Shu Qi). Frank f\u00e5r moralske skrupler, hvilket medf\u00f8rer en r\u00e6kke h\u00e6sbl\u00e6sende begivenheder."
+            },
+            "start" : "1522432800",
+            "stop" : "1522440000",
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/4108"
+            ],
+            "channel" : "action.film.viasat.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Crime",
+                  "Thriller"
+               ]
+            },
+            "country" : [
+               "US",
+               "FR"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2002"
+         },
+         {
+            "title" : {
+               "da" : "Speed"
+            },
+            "desc" : {
+               "da" : "En bindegal bombemand har placeret en bombe p\u00e5 en bus. Antiterror-eksperten Jack Traven (Keanu Reeves) f\u00e5r imidlertid hj\u00e6lp af en af passagererne p\u00e5 bussen, Annie (Sandra Bullock). Sammen skal de s\u00f8rge for at bomben ikke spr\u00e6nger, men det er lettere sagt end gjort, for idet \u00f8jeblik at bussens hastighed kommer under 80 kilometer i timen, bliver bomben aktiveret. Filmen vandt i \u00f8vrigt to Oscar-statuetter, \u00e9n for bedste lyd, og \u00e9n for bedste effekter og klipning af lydeffekter."
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/1637"
+            },
+            "rating" : {
+               "stars" : "6.8 / 10"
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Graham Yost"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Jack Traven",
+                     "name" : "Keanu Reeves"
+                  },
+                  {
+                     "name" : "Dennis Hopper",
+                     "role" : "Howard Payne"
+                  },
+                  {
+                     "name" : "Sandra Bullock",
+                     "role" : "Annie Porter"
+                  },
+                  {
+                     "name" : "Joe Morton",
+                     "role" : "Capt. McMahon"
+                  },
+                  {
+                     "role" : "Harold 'Harry' Temple",
+                     "name" : "Jeff Daniels"
+                  },
+                  {
+                     "name" : "Alan Ruck",
+                     "role" : "Stephens"
+                  },
+                  {
+                     "name" : "Glenn Plummer",
+                     "role" : "Jaguar Owner"
+                  },
+                  {
+                     "role" : "Norwood",
+                     "name" : "Richard Lineback"
+                  },
+                  {
+                     "role" : "Helen",
+                     "name" : "Beth Grant"
+                  },
+                  {
+                     "role" : "Sam",
+                     "name" : "Hawthorne James"
+                  },
+                  {
+                     "role" : "Ortiz",
+                     "name" : "Carlos Carrasco"
+                  },
+                  {
+                     "role" : "Terry",
+                     "name" : "David Kriegel"
+                  },
+                  {
+                     "role" : "Mrs. Kamino",
+                     "name" : "Natsuko Ohama"
+                  },
+                  {
+                     "name" : "Daniel Villarreal",
+                     "role" : "Ray"
+                  },
+                  {
+                     "name" : "Simone Gad",
+                     "role" : "Bus Passenger #1"
+                  },
+                  {
+                     "name" : "Loretta Jean",
+                     "role" : "Bus Passenger #2"
+                  },
+                  {
+                     "role" : "Bus Passenger #3",
+                     "name" : "Sherri Villanueva"
+                  },
+                  {
+                     "name" : "Margaret Medina",
+                     "role" : "Robin"
+                  },
+                  {
+                     "name" : "Jordan Lund",
+                     "role" : "Bagwell"
+                  },
+                  {
+                     "role" : "Young Executive",
+                     "name" : "Robert Mailhouse"
+                  },
+                  {
+                     "name" : "Patrick Fischler",
+                     "role" : "Friend of Executive"
+                  },
+                  {
+                     "name" : "Patrick John Hurley",
+                     "role" : "CEO"
+                  },
+                  {
+                     "name" : "Susan Barnes",
+                     "role" : "Female Executive"
+                  },
+                  {
+                     "role" : "S.W.A.T. Driver",
+                     "name" : "Rick Dano"
+                  },
+                  {
+                     "name" : "Michael Sottile",
+                     "role" : "S.W.A.T. Cop"
+                  },
+                  {
+                     "role" : "Baby Carriage Woman #1",
+                     "name" : "Jane Crawley"
+                  },
+                  {
+                     "role" : "Baby Carriage Woman #2",
+                     "name" : "Anne O'Sullivan"
+                  },
+                  {
+                     "name" : "Beau Starr",
+                     "role" : "Commissioner"
+                  },
+                  {
+                     "role" : "Bob",
+                     "name" : "John Capodice"
+                  },
+                  {
+                     "name" : "Thomas Rosales, Jr.",
+                     "role" : "Vince"
+                  },
+                  {
+                     "name" : "James DuMont",
+                     "role" : "Workman"
+                  },
+                  {
+                     "name" : "Antonio Mora",
+                     "role" : "News Anchor #1"
+                  },
+                  {
+                     "role" : "News Anchor #2",
+                     "name" : "Patty Toy"
+                  },
+                  {
+                     "name" : "Todd Gordon",
+                     "role" : "News Cameraman"
+                  },
+                  {
+                     "name" : "Bruce Wright",
+                     "role" : "Reporter #1"
+                  },
+                  {
+                     "role" : "Reporter #2",
+                     "name" : "Mark Kriski"
+                  },
+                  {
+                     "name" : "Dagny Hultgreen",
+                     "role" : "Reporter #3"
+                  },
+                  {
+                     "role" : "Train Driver",
+                     "name" : "Richard Schiff"
+                  },
+                  {
+                     "role" : "Cop",
+                     "name" : "Joseph Carberry"
+                  },
+                  {
+                     "role" : "Bartender",
+                     "name" : "Sandy Martin"
+                  },
+                  {
+                     "name" : "Neisha Folkes-LeMelle",
+                     "role" : "Mrs. McMahon"
+                  },
+                  {
+                     "name" : "Jim Mapp",
+                     "role" : "Additional Bus Passenger #1"
+                  },
+                  {
+                     "name" : "Milton Quon",
+                     "role" : "Additional Bus Passenger #2"
+                  },
+                  {
+                     "role" : "Additional Bus Passenger #3",
+                     "name" : "Sonia Jackson"
+                  },
+                  {
+                     "name" : "Carmen Williams",
+                     "role" : "Additional Bus Passenger #4"
+                  },
+                  {
+                     "name" : "Paula Montes",
+                     "role" : "Additional Bus Passenger #5"
+                  },
+                  {
+                     "role" : "Additional Bus Passenger #6",
+                     "name" : "Loyda Ramos"
+                  },
+                  {
+                     "role" : "Additional Bus Passenger #7",
+                     "name" : "Julia Vera"
+                  },
+                  {
+                     "role" : "Additional Bus Passenger #8",
+                     "name" : "Marylou Lim"
+                  },
+                  {
+                     "name" : "Brian K. Grant",
+                     "role" : "Elevator Passenger #1"
+                  },
+                  {
+                     "name" : "Barry Kramer",
+                     "role" : "Elevator Passenger #2"
+                  },
+                  {
+                     "role" : "Elevator Passenger #3",
+                     "name" : "Robin McKee"
+                  },
+                  {
+                     "name" : "Paige Goodman",
+                     "role" : "Elevator Passenger #4"
+                  },
+                  {
+                     "name" : "Christina Fitzgerald",
+                     "role" : "Elevator Passenger #5"
+                  },
+                  {
+                     "name" : "Tara Thomas",
+                     "role" : "Elevator Passenger #6"
+                  },
+                  {
+                     "role" : "Elevator Passenger #7",
+                     "name" : "Cece Tsou"
+                  },
+                  {
+                     "role" : "Elevator Passenger #8",
+                     "name" : "Michael N. Fujimoto"
+                  },
+                  {
+                     "role" : "Elevator Passenger #9",
+                     "name" : "Richard Gelb"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Jan de Bont"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Mark Gordon"
+                  }
+               ]
+            },
+            "date" : "1994",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Adventure",
+                  "Crime"
+               ]
+            },
+            "channel" : "action.film.viasat.dk",
+            "url" : [
+               "http://www.themoviedb.org/movie/1637"
+            ],
+            "new" : null,
+            "start" : "1522440000",
+            "stop" : "1522447200"
+         },
+         {
+            "date" : "2012",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "US",
+               "CA"
+            ],
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/77883"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Horror",
+                  "Thriller"
+               ]
+            },
+            "channel" : "action.film.viasat.dk",
+            "stop" : "1522454400",
+            "start" : "1522447200",
+            "title" : {
+               "da" : "The Possession"
+            },
+            "desc" : {
+               "da" : "Kort efter for\u00e6ldrenes skilsmisse, k\u00f8ber en ung pige en udsmykket, antik boks p\u00e5 et lommemarked. I de efterf\u00f8lgende uger begynder pigen intenst at fiksere p\u00e5 boksen, og hendes adf\u00e6rd bliver mere og mere bizar, idet hun havner i kl\u00f8erne p\u00e5 et diabolsk genf\u00e6rd. Da pigens far opdager, at relikviet faktisk er en holdecelle for en afkoblet sj\u00e6l fra en afd\u00f8d person, som er blevet n\u00e6gtet indgang til det hinsidige, k\u00e6mper han for at f\u00e5 det onde fordrevet, f\u00f8r den \u00e6der pigens krop og sj\u00e6l op."
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/77883"
+            },
+            "rating" : {
+               "stars" : "5.8 / 10"
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Ole Bornedal"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Jeffrey Dean Morgan",
+                     "role" : "Clyde"
+                  },
+                  {
+                     "role" : "Em",
+                     "name" : "Natasha Calis"
+                  },
+                  {
+                     "role" : "Hannah",
+                     "name" : "Madison Davenport"
+                  },
+                  {
+                     "name" : "Kyra Sedgwick",
+                     "role" : "Stephanie"
+                  },
+                  {
+                     "name" : "Rob LaBelle",
+                     "role" : "Russell"
+                  },
+                  {
+                     "role" : "Darius",
+                     "name" : "Nana Gbewonyo"
+                  },
+                  {
+                     "name" : "Jim Thorburn",
+                     "role" : "Man"
+                  },
+                  {
+                     "role" : "Tzadok",
+                     "name" : "Matisyahu"
+                  },
+                  {
+                     "name" : "Quinn Lord",
+                     "role" : "Student"
+                  },
+                  {
+                     "role" : "Professor McMannis",
+                     "name" : "Jay Brazeau"
+                  },
+                  {
+                     "role" : "Possessed Italian Girl",
+                     "name" : "Erin Simms"
+                  },
+                  {
+                     "name" : "John Cassini",
+                     "role" : "Stephanie's Attorney"
+                  },
+                  {
+                     "name" : "Grant Show",
+                     "role" : "Brett"
+                  },
+                  {
+                     "role" : "Officer",
+                     "name" : "Tim Perez"
+                  },
+                  {
+                     "name" : "Ned Bellamy",
+                     "role" : "Trevor"
+                  }
+               ]
+            }
+         }
+      ]
+   }
+}

@@ -1,0 +1,1852 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "date" : "2016",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "DE",
+               "US"
+            ],
+            "channel" : "hits.film.viasat.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama",
+                  "Thriller"
+               ]
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/302401"
+            ],
+            "new" : null,
+            "start" : "1522974600",
+            "stop" : "1522982400",
+            "desc" : {
+               "da" : "Edward Snowden (Joseph Gordon-Levitt) tr\u00e6nede for at komme i h\u00e6ren, indtil han br\u00e6kkede sine ben, hvilket tvang ham til at blive hjemsendt. Han bliver udvalgt til at deltage i CIAs cyberwarfare-program, hvor han hurtigt imponerer sine overordene med sine programmeringsevner. Senere flyttes han til NSA, men opdager her, at den amerikanske regering i det skjulte - og ulovligt - har overv\u00e5get p\u00e5 sine borgere. Med hj\u00e6lpen fra sin idealistiske k\u00e6reste, Lindsay Mills (Shailene Woodley), beslutter Snowden at afsl\u00f8re agenturets kriminelle aktiviteter over for pressen. Men med hans samvittighedsfulde handlinger f\u00f8lger ogs\u00e5 en h\u00f8j pris."
+            },
+            "title" : {
+               "da" : "Snowden"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/302401"
+            },
+            "rating" : {
+               "stars" : "7 / 10"
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Kieran Fitzgerald"
+                  },
+                  {
+                     "name" : "Oliver Stone"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Edward Snowden",
+                     "name" : "Joseph Gordon-Levitt"
+                  },
+                  {
+                     "role" : "Lindsay Mills",
+                     "name" : "Shailene Woodley"
+                  },
+                  {
+                     "role" : "Laura Poitras",
+                     "name" : "Melissa Leo"
+                  },
+                  {
+                     "name" : "Zachary Quinto",
+                     "role" : "Glenn Greenwald"
+                  },
+                  {
+                     "name" : "Tom Wilkinson",
+                     "role" : "Ewen MacAskill"
+                  },
+                  {
+                     "role" : "Trevor James",
+                     "name" : "Scott Eastwood"
+                  },
+                  {
+                     "name" : "Timothy Olyphant",
+                     "role" : "CIA Agent Geneva"
+                  },
+                  {
+                     "name" : "Ben Schnetzer",
+                     "role" : "Gabriel Sol"
+                  },
+                  {
+                     "role" : "Patrick Haynes",
+                     "name" : "Keith Stanfield"
+                  },
+                  {
+                     "role" : "Corbin O'Brian",
+                     "name" : "Rhys Ifans"
+                  },
+                  {
+                     "name" : "Nicolas Cage",
+                     "role" : "Hank Forrester"
+                  },
+                  {
+                     "name" : "Joely Richardson",
+                     "role" : "Janine Gibson"
+                  },
+                  {
+                     "name" : "Jaymes Butler",
+                     "role" : "Master Sgt. Robinson"
+                  },
+                  {
+                     "name" : "Robert Firth",
+                     "role" : "Dr. Stilwell"
+                  },
+                  {
+                     "role" : "Robert Tibbo",
+                     "name" : "Ben Chaplin"
+                  },
+                  {
+                     "role" : "Marwan Al-Kirmani",
+                     "name" : "Bhasker Patel"
+                  },
+                  {
+                     "role" : "Edward Snowden",
+                     "name" : "Edward Snowden"
+                  },
+                  {
+                     "role" : "Dr. Laurel",
+                     "name" : "Christy Meyer"
+                  },
+                  {
+                     "name" : "Gregory Schwabe",
+                     "role" : "Drill Sgt. 2 Martinez"
+                  },
+                  {
+                     "name" : "Patrick Joseph Byrnes",
+                     "role" : "NSA Dep. Director Lowell"
+                  },
+                  {
+                     "name" : "Jamie Hodge",
+                     "role" : "Coffee Shop Patron / Pedestrian"
+                  },
+                  {
+                     "name" : "Mathangi Ray",
+                     "role" : "Mother - Tong Lau Hong Kong"
+                  },
+                  {
+                     "name" : "Alan Rusbridger",
+                     "role" : "Moderator"
+                  },
+                  {
+                     "role" : "Female Drone Pilot",
+                     "name" : "Stephanie Simbeck"
+                  },
+                  {
+                     "role" : "Male Drone Pilot",
+                     "name" : "Logan Marshall-Green"
+                  },
+                  {
+                     "role" : "CIA Supervisor",
+                     "name" : "Demetri Goritsas"
+                  },
+                  {
+                     "role" : "CIA Polygraph Adminstrator",
+                     "name" : "Rachel Handshaw"
+                  },
+                  {
+                     "role" : "CIA Psychologist",
+                     "name" : "Christian Contreras"
+                  },
+                  {
+                     "name" : "Parker Sawyers",
+                     "role" : "CIA Interviewer"
+                  },
+                  {
+                     "role" : "CIA Student",
+                     "name" : "Michael Benz"
+                  },
+                  {
+                     "name" : "Ken Thomas",
+                     "role" : "Warrenton Gate Guard"
+                  },
+                  {
+                     "name" : "Nicholas Rowe",
+                     "role" : "Assistant Editor Guardian"
+                  },
+                  {
+                     "role" : "Diplomat Party Guest",
+                     "name" : "Erol Sander"
+                  },
+                  {
+                     "name" : "Anatoly Kucherena",
+                     "role" : "Russian Diplomat"
+                  },
+                  {
+                     "role" : "NSA Tunnel Guard 1",
+                     "name" : "Eric Kofi Abrefa"
+                  },
+                  {
+                     "role" : "NSA Tunnel Guard 2",
+                     "name" : "Stanley I. Walker Jr."
+                  },
+                  {
+                     "role" : "Pole Dancer",
+                     "name" : "Olga Koda"
+                  },
+                  {
+                     "role" : "CIA Trainee Bangkok (uncredited)",
+                     "name" : "Alexandra Adomaitis"
+                  },
+                  {
+                     "name" : "Andreas Dubois",
+                     "role" : "Audience"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Moritz Borman"
+                  },
+                  {
+                     "name" : "Eric Kopeloff"
+                  },
+                  {
+                     "name" : "Philip Schulz-Deyle"
+                  },
+                  {
+                     "name" : "Fernando Sulichin"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Oliver Stone"
+                  }
+               ]
+            }
+         },
+         {
+            "rating" : {
+               "stars" : "7 / 10"
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Derek Cianfrance"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Tom Sherbourne",
+                     "name" : "Michael Fassbender"
+                  },
+                  {
+                     "name" : "Alicia Vikander",
+                     "role" : "Isabel Sherbourne"
+                  },
+                  {
+                     "name" : "Rachel Weisz",
+                     "role" : "Hannah Roennfeldt"
+                  },
+                  {
+                     "name" : "Bryan Brown",
+                     "role" : "Septimus Potts"
+                  },
+                  {
+                     "name" : "Jack Thompson",
+                     "role" : "Ralph Addicott"
+                  },
+                  {
+                     "role" : "Adult Lucy-Grace",
+                     "name" : "Caren Pistorius"
+                  },
+                  {
+                     "role" : "Lucy-Grace",
+                     "name" : "Florence Clery"
+                  },
+                  {
+                     "role" : "Sergeant Vernon Knuckey",
+                     "name" : "Anthony Hayes"
+                  },
+                  {
+                     "role" : "Gwen Potts",
+                     "name" : "Emily Barclay"
+                  },
+                  {
+                     "name" : "Leon Ford",
+                     "role" : "Frank Roennfeldt"
+                  },
+                  {
+                     "name" : "Benedict Hardie",
+                     "role" : "Constable Harry Garstone"
+                  },
+                  {
+                     "name" : "Thomas Unger",
+                     "role" : "Bluey Smart"
+                  },
+                  {
+                     "name" : "Georgie Jean Gascoigne",
+                     "role" : "1 yr old Lucy / Grace"
+                  },
+                  {
+                     "name" : "Scott Wills",
+                     "role" : "McGowan (uncredited)"
+                  },
+                  {
+                     "name" : "Jane Menelaus",
+                     "role" : "Violet Graysmark"
+                  },
+                  {
+                     "name" : "Garry MacDonald",
+                     "role" : "Bill Graysmark"
+                  },
+                  {
+                     "role" : "Bill Graysmark",
+                     "name" : "Garry McDonald"
+                  },
+                  {
+                     "name" : "Stephen Ure",
+                     "role" : "Neville Whittnish"
+                  },
+                  {
+                     "role" : "Sergeant Spragg",
+                     "name" : "Peter McCauley"
+                  },
+                  {
+                     "name" : "Jonathan Wagstaff",
+                     "role" : "Constable Bob Lynch"
+                  },
+                  {
+                     "role" : "Captain Percy Hasluck",
+                     "name" : "Gerald Bryan"
+                  },
+                  {
+                     "name" : "Elizabeth Hawthorne",
+                     "role" : "Mrs. Hasluck"
+                  },
+                  {
+                     "role" : "Freda",
+                     "name" : "Rosella Hart"
+                  },
+                  {
+                     "name" : "Michael Wallace",
+                     "role" : "Reverend Norkels"
+                  },
+                  {
+                     "name" : "Peter Hayden",
+                     "role" : "Dr. Sumpton"
+                  },
+                  {
+                     "role" : "Bernie Gutcher",
+                     "name" : "Gary Blackman"
+                  },
+                  {
+                     "name" : "Carmel McGlone",
+                     "role" : "Bertha Chipper"
+                  },
+                  {
+                     "role" : "Cyril Chipper",
+                     "name" : "Jeffrey Thomas"
+                  },
+                  {
+                     "role" : "Piano Tuner",
+                     "name" : "Edwin Lancashire"
+                  },
+                  {
+                     "role" : "Drunken Soldier",
+                     "name" : "Dean Morganty"
+                  },
+                  {
+                     "role" : "Mrs. Mouchmore",
+                     "name" : "Elsa May"
+                  },
+                  {
+                     "name" : "Kerrie Waterworth",
+                     "role" : "Fanny Darnley"
+                  },
+                  {
+                     "name" : "John Bach",
+                     "role" : "Mayor Jock Johnson"
+                  },
+                  {
+                     "name" : "Marshall Napier",
+                     "role" : "Mr. Coughlan"
+                  },
+                  {
+                     "name" : "Hilary Norris",
+                     "role" : "Matron"
+                  },
+                  {
+                     "role" : "Maisee McPhee",
+                     "name" : "Miriam Noonan"
+                  },
+                  {
+                     "role" : "Town Photographer",
+                     "name" : "Graham Warman"
+                  },
+                  {
+                     "name" : "George Vozar",
+                     "role" : "Police Photographer"
+                  },
+                  {
+                     "role" : "Lucy-Grace 12 Months Old",
+                     "name" : "Imogen Wilmhurst"
+                  },
+                  {
+                     "role" : "Lucy-Grace 12 Months Old",
+                     "name" : "Lucy Wilmhurst"
+                  },
+                  {
+                     "name" : "Emily Wilmhurst",
+                     "role" : "Lucy-Grace 12 Months Old"
+                  },
+                  {
+                     "name" : "Elliot Newbery",
+                     "role" : "Lucy-Grace 3 Months Old"
+                  },
+                  {
+                     "name" : "Evangeline Newbery",
+                     "role" : "Lucy-Grace 3 Months Old"
+                  },
+                  {
+                     "role" : "Lucy-Grace Newborn",
+                     "name" : "Christine Foote"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "David Heyman"
+                  },
+                  {
+                     "name" : "Jeffrey Clifford"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Derek Cianfrance"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Den australske krigsveteran Tom Sherbourne (Michael Fassbender) og hans kone, Isabel, blev gift i 1921 - men var ikke i stand til at f\u00e5 et barn. Kort efter hendes anden, spontane abort, skylder en lille b\u00e5d op p\u00e5 kysten, n\u00e6r deres fyrt\u00e5rn. Om bord er en baby samt liget af en mand, der kan have v\u00e6ret hendes far. Isabel overbeviser Tom om, at de skal adoptere barnet, da hun frygter, at babyen vil blive sendt p\u00e5 b\u00f8rnehjem. Et par \u00e5r senere st\u00f8der han p\u00e5 den s\u00f8rgende Hannah Roennfeldt (Rachel Weisz), der s\u00f8rger over tabet af hendes mand og baby - begge forlist p\u00e5 havet. Han indser, at deres barn, Lucy (Florence Clery), er enkens datter, s\u00e5 han og Isabel m\u00e5 foretage et pinefuldt valg."
+            },
+            "title" : {
+               "da" : "Lyset i havet"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/283552"
+            },
+            "channel" : "hits.film.viasat.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama"
+               ]
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/283552"
+            ],
+            "new" : null,
+            "stop" : "1522990500",
+            "start" : "1522982400",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2016",
+            "country" : [
+               "NZ"
+            ]
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "date" : "2000",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "start" : "1522990500",
+            "stop" : "1523000100",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama",
+                  "Thriller"
+               ]
+            },
+            "channel" : "hits.film.viasat.dk",
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/11973"
+            ],
+            "episodeNum" : {
+               "themoviedb.org" : "movie/11973"
+            },
+            "desc" : {
+               "da" : "Vi er i oktober 1962. Billeder fra et amerikansk spionfly viser, at Sovjetunionen er i gang med at placere atommissiler p\u00e5 Cuba. Disse v\u00e5ben har potentialet til at tilintetg\u00f8re USA's \u00f8stlige og sydlige kyst p\u00e5 fem minutter. Pr\u00e6sident John F. Kennedy (Bruce Greenwood) og hans r\u00e5dgivere m\u00e5 udt\u00e6nke en plan mod den forest\u00e5ende trussel fra de sovjetiske styrker. Kennedy er fast besluttet p\u00e5 at vise, at han er st\u00e6rk nok til at modst\u00e5 truslen. Pentagon anbefaler, at milit\u00e6ret foretager angreb mod Cuba, der ville kunne lede til en ny amerikansk invasion af \u00f8en. Men Kennedy er imidlertid tilbageholdende med at s\u00f8s\u00e6tte operationen, da en invasion kan lede til, at Sovjetunionen vil retaliere og angribe USA's europ\u00e6iske allierede. En nuklear styrkepr\u00f8ve synes at v\u00e6re uundg\u00e5elig."
+            },
+            "title" : {
+               "da" : "Thirteen Days"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Kevin Costner",
+                     "role" : "Kenneth O'Donnell"
+                  },
+                  {
+                     "role" : "John F. Kennedy",
+                     "name" : "Bruce Greenwood"
+                  },
+                  {
+                     "role" : "Robert F. Kennedy",
+                     "name" : "Steven Culp"
+                  },
+                  {
+                     "name" : "Dylan Baker",
+                     "role" : "Robert McNamara"
+                  },
+                  {
+                     "name" : "Shawn Driscoll",
+                     "role" : "U-2 Pilot"
+                  },
+                  {
+                     "name" : "Drake Cook",
+                     "role" : "Mark O'Donnell"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "David Self"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Peter O. Almond"
+                  },
+                  {
+                     "name" : "Armyan Bernstein"
+                  },
+                  {
+                     "name" : "Kevin Costner"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Roger Donaldson"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "6.9 / 10"
+            }
+         },
+         {
+            "stop" : "1523006100",
+            "start" : "1523000100",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Comedy"
+               ]
+            },
+            "channel" : "hits.film.viasat.dk",
+            "country" : [
+               "DK"
+            ],
+            "date" : "2017",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Casper Christensen"
+                  },
+                  {
+                     "name" : "Frank Hvam"
+                  },
+                  {
+                     "name" : "Peter Gantzler"
+                  },
+                  {
+                     "name" : "Mia Lyhne"
+                  },
+                  {
+                     "name" : "Lars Hjortsh\u00f8j"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Jesper Rofelt"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Vi er i Danmark i starten af 1980'erne. En lille gruppe af excentriske dr\u00f8mmere beslutter af opn\u00e5 det umulige: De vil udvikle verdens f\u00f8rste elektriske bil; \"The Hope Whisper\" og skabe historie."
+            },
+            "title" : {
+               "da" : "Dan-dream"
+            }
+         },
+         {
+            "stop" : "1523012700",
+            "start" : "1523006100",
+            "url" : [
+               "http://www.themoviedb.org/movie/9787"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama"
+               ]
+            },
+            "channel" : "hits.film.viasat.dk",
+            "country" : [
+               "DE",
+               "US"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2005",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Jay",
+                     "name" : "Emile Hirsch"
+                  },
+                  {
+                     "name" : "Victor Rasuk",
+                     "role" : "Tony Alva"
+                  },
+                  {
+                     "role" : "Philaine",
+                     "name" : "Rebecca De Mornay"
+                  },
+                  {
+                     "name" : "John Robinson",
+                     "role" : "Stacy"
+                  },
+                  {
+                     "role" : "Sid",
+                     "name" : "Michael Angarano"
+                  },
+                  {
+                     "role" : "Kathy Alva",
+                     "name" : "Nikki Reed"
+                  },
+                  {
+                     "name" : "Johnny Knoxville",
+                     "role" : "Topper Burks"
+                  },
+                  {
+                     "name" : "Heath Ledger",
+                     "role" : "Skip"
+                  },
+                  {
+                     "name" : "Vincent Laresca",
+                     "role" : "Chino"
+                  },
+                  {
+                     "role" : "Donnie",
+                     "name" : "William Mapother"
+                  },
+                  {
+                     "role" : "Mr. Alva",
+                     "name" : "Julio Oscar Mechoso"
+                  },
+                  {
+                     "name" : "Brian Zarate",
+                     "role" : "Montoya"
+                  },
+                  {
+                     "name" : "Pablo Schreiber",
+                     "role" : "Stecyk"
+                  },
+                  {
+                     "name" : "Elden Henson",
+                     "role" : "Billy Z"
+                  },
+                  {
+                     "role" : "Urethane Wheels Guy",
+                     "name" : "Mitch Hedberg"
+                  },
+                  {
+                     "name" : "Laura Ramsey",
+                     "role" : "Gabrielle"
+                  },
+                  {
+                     "name" : "America Ferrera",
+                     "role" : "Thunder Monkey"
+                  },
+                  {
+                     "role" : "Amelia",
+                     "name" : "Sof\u00eda Vergara"
+                  },
+                  {
+                     "role" : "Manager",
+                     "name" : "Jeremy Renner"
+                  },
+                  {
+                     "name" : "Shea Whigham"
+                  },
+                  {
+                     "name" : "Matt Malloy",
+                     "role" : "Contest Official"
+                  },
+                  {
+                     "role" : "Peter Darling",
+                     "name" : "Ned Bellamy"
+                  },
+                  {
+                     "name" : "Tony Hawk",
+                     "role" : "Astronaut"
+                  },
+                  {
+                     "role" : "TV Reporter",
+                     "name" : "Joel McHale"
+                  },
+                  {
+                     "role" : "Punky Photographer",
+                     "name" : "Bai Ling"
+                  },
+                  {
+                     "role" : "Jay Adams Manager (uncredited)",
+                     "name" : "Jeremy Renner"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Catherine Hardwicke"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "John Linson"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "7 / 10"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/9787"
+            },
+            "title" : {
+               "da" : "Lords of Dogtown"
+            },
+            "desc" : {
+               "da" : "Filmen er baseret p\u00e5 den virkelige historie om en gruppe drenge, der vokser op med skateboards under f\u00f8dderne i slumbyen Dogtown i Santa Monica. Under navnet \"The Z-Boys\" tr\u00e6ner de i de velhavende forst\u00e6ders tomme swimmingpools, n\u00e5r v\u00e6rterne ikke er hjemme. Det bliver starten p\u00e5 en nervepirrende ny sport, og med tiden opn\u00e5r drengene n\u00e6rmest legendarisk status."
+            }
+         },
+         {
+            "stop" : "1523019000",
+            "start" : "1523012700",
+            "channel" : "hits.film.viasat.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama",
+                  "History",
+                  "Music"
+               ]
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/14299"
+            ],
+            "new" : null,
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2008",
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Andrew Lack"
+                  },
+                  {
+                     "name" : "Sofia Sondervan"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Darnell Martin"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Leonard Chess",
+                     "name" : "Adrien Brody"
+                  },
+                  {
+                     "name" : "Jeffrey Wright",
+                     "role" : "Muddy Waters"
+                  },
+                  {
+                     "role" : "Etta James",
+                     "name" : "Beyonc\u00e9 Knowles"
+                  },
+                  {
+                     "name" : "Gabrielle Union",
+                     "role" : "Geneva Wade"
+                  },
+                  {
+                     "name" : "Columbus Short",
+                     "role" : "Little Walter"
+                  },
+                  {
+                     "name" : "Cedric the Entertainer",
+                     "role" : "Willie Dixon"
+                  },
+                  {
+                     "name" : "Emmanuelle Chriqui",
+                     "role" : "Revetta Chess"
+                  },
+                  {
+                     "role" : "Howlin' Wolf",
+                     "name" : "Eamonn Walker"
+                  },
+                  {
+                     "name" : "Yasiin Bey",
+                     "role" : "Chuck Berry"
+                  },
+                  {
+                     "name" : "Valence Thomas",
+                     "role" : "James Cotton"
+                  },
+                  {
+                     "name" : "Jay O. Sanders",
+                     "role" : "Mr. Feder"
+                  },
+                  {
+                     "role" : "Chess Engineer",
+                     "name" : "Norman Reedus"
+                  },
+                  {
+                     "name" : "Aaron Munoz",
+                     "role" : "Manager"
+                  },
+                  {
+                     "name" : "Kevin Mambo",
+                     "role" : "Jimmy Rogers"
+                  },
+                  {
+                     "role" : "Girlfriend",
+                     "name" : "Chyna Layne"
+                  },
+                  {
+                     "role" : "Hubert Sumlin",
+                     "name" : "Albert Jones"
+                  },
+                  {
+                     "role" : "Maid",
+                     "name" : "Osas Ighodaro"
+                  },
+                  {
+                     "name" : "Jordan Haynes",
+                     "role" : "Pot Strong"
+                  },
+                  {
+                     "role" : "Minnie Ripperton",
+                     "name" : "Suzette Gunn"
+                  },
+                  {
+                     "role" : "Shelly Feder",
+                     "name" : "Jill Flint"
+                  },
+                  {
+                     "name" : "Shiloh Fernandez",
+                     "role" : "Phil Chess"
+                  },
+                  {
+                     "role" : "Charles Waters",
+                     "name" : "Eshaya Draper"
+                  },
+                  {
+                     "role" : "Alan Freed",
+                     "name" : "Eric Bogosian"
+                  },
+                  {
+                     "role" : "Isabelle Allan",
+                     "name" : "Tammy Blanchard"
+                  },
+                  {
+                     "name" : "Tony Bentley",
+                     "role" : "Lomax"
+                  },
+                  {
+                     "role" : "Blonde Girl",
+                     "name" : "Veronika Dash"
+                  },
+                  {
+                     "role" : "Geneva's Teenage Son",
+                     "name" : "Dexter Darden"
+                  },
+                  {
+                     "role" : "Bouncer",
+                     "name" : "Wade Mylius"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "7 / 10"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/14299"
+            },
+            "title" : {
+               "da" : "Cadillac Records"
+            },
+            "desc" : {
+               "da" : "I denne biografiske musical om sex, vold, raceforhold og rock & roll i 1950'ernes Chicago f\u00f8lger vi nogle af de amerikanske musiklegender, der var tilknyttet Chess Records, i deres sp\u00e6ndende, men turbulente liv. I denne fiktive gengivelse af 'Cadillac Records', m\u00f8der vi blandt andre Mos Def som rock & roll-pioneren Chuck Berry, Beyonc\u00e9 Knowles som soulsangeren Etta James og Adrien Brody som den hvide fyr Leonard Chess, der s\u00e5 den sorte musiks kommercielle potentiale."
+            }
+         },
+         {
+            "episodeNum" : {
+               "themoviedb.org" : "movie/390337"
+            },
+            "title" : {
+               "da" : "FOR\u00c6LDRE"
+            },
+            "desc" : {
+               "da" : "Da deres s\u00f8n Esben (Anton Honik) flytter ud, beslutter Kjeld (S\u00f8ren Malling) og Vibeke (Bodil J\u00f8rgensen) at flytte i en mindre bolig. De opdager, at lejligheden som de boede i under studentertiden, er sat til salg - og de bliver enige om at k\u00f8be den og skabe en ny start: Kjeld m\u00f8blerer lejligheden, som den var, da de boede i den dengang, og for en kort stund genoplever de to deres gamle dage. Men tingene tager en drejning, som ingen af dem havde forudset, da de v\u00e5gner op en morgen, og opdager, at de er blevet tredive \u00e5r yngre. Nu m\u00e5 Kjeld (Elliott Crosseest Hove) og Vibeke (Miri Ann Beuschel) fors\u00f8ge at tilpasse sig deres forhold til dette nye, underlige milj\u00f8."
+            },
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Thomas Heinesen"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Christian Tafdrup"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "S\u00f8ren Malling",
+                     "role" : "Kjeld"
+                  },
+                  {
+                     "role" : "Vibeke",
+                     "name" : "Bodil J\u00f8rgensen"
+                  },
+                  {
+                     "role" : "Kjeld at 22",
+                     "name" : "Elliott Crosset Hove"
+                  },
+                  {
+                     "name" : "Miri Ann Beuschel",
+                     "role" : "Vibeke at 22"
+                  },
+                  {
+                     "name" : "Anton Honik",
+                     "role" : "Espen"
+                  },
+                  {
+                     "name" : "Christian Tafdrup",
+                     "role" : "Real Estate Agent"
+                  }
+               ]
+            },
+            "country" : [
+               "DK"
+            ],
+            "date" : "2016",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "stop" : "1523024400",
+            "start" : "1523019000",
+            "url" : [
+               "http://www.themoviedb.org/movie/390337"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama"
+               ]
+            },
+            "channel" : "hits.film.viasat.dk"
+         },
+         {
+            "desc" : {
+               "da" : "Enkemanden og t\u00f8mreren, Daniel Blake (Dave Johns), f\u00e5r et hjerteanfald mens han arbejder i Newcastle. Hans kardiolog forbyder ham at vende tilbage til jobbet - men han vurderes imidlertid egnet efter en evaluering fra staten. Det f\u00f8rer til, at han bliver n\u00e6gtet \u00f8konomisk bistand. Han bliver rasende over at opdage, at l\u00e6gen ikke blev konsulteret om Daniels tilstand, og han anker sagen. Processen viser sig at v\u00e6re frustrerende, da den finder sted online, og Daniel har meget lidt forstand p\u00e5 computere. Mens han er p\u00e5 jobcentret, hj\u00e6lper han den frustrerede, enlige mor, Katie Morgan (Hayley Squires), der ikke f\u00e5r noget hj\u00e6lp fra personalet. De bliver begge to smidt ud. Daniel bliver venner med hende og hendes barn, da han reparerer og bygger leget\u00f8j."
+            },
+            "title" : {
+               "da" : "Jeg, Daniel Blake"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/374473"
+            },
+            "rating" : {
+               "stars" : "7.7 / 10"
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Ken Loach"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Rebecca O'Brien"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Paul Laverty"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Dave Johns",
+                     "role" : "Daniel"
+                  },
+                  {
+                     "role" : "Katie",
+                     "name" : "Hayley Squires"
+                  },
+                  {
+                     "name" : "Dylan McKiernan",
+                     "role" : "Dylan"
+                  },
+                  {
+                     "name" : "Briana Shann",
+                     "role" : "Daisy"
+                  },
+                  {
+                     "role" : "Ann",
+                     "name" : "Kate Rutter"
+                  },
+                  {
+                     "role" : "Sheila",
+                     "name" : "Sharon Percy"
+                  },
+                  {
+                     "role" : "China",
+                     "name" : "Kema Sikazwe"
+                  },
+                  {
+                     "role" : "Employment Support Allowance Assessor",
+                     "name" : "Natalie Ann Jamieson"
+                  },
+                  {
+                     "role" : "Ivan",
+                     "name" : "Micky McGregor"
+                  },
+                  {
+                     "role" : "Postman",
+                     "name" : "Colin Coombs"
+                  },
+                  {
+                     "name" : "Harriet Ghost",
+                     "role" : "Appeal Receptionist"
+                  },
+                  {
+                     "role" : "Job Centre Floor Manager",
+                     "name" : "Stephen Clegg"
+                  },
+                  {
+                     "role" : "Telephone Benefits Advisor",
+                     "name" : "David Murray"
+                  },
+                  {
+                     "role" : "Police Officer",
+                     "name" : "Bryn Jones"
+                  },
+                  {
+                     "name" : "Andy Kidd",
+                     "role" : "Job Centre Guard"
+                  },
+                  {
+                     "role" : "Madam",
+                     "name" : "Julie Nicholson"
+                  },
+                  {
+                     "name" : "Viktoria Kay",
+                     "role" : "Woman of the House"
+                  },
+                  {
+                     "role" : "Welfare Benefits Advisor",
+                     "name" : "Mick Laffey"
+                  },
+                  {
+                     "role" : "CV Manager",
+                     "name" : "John Sumner"
+                  },
+                  {
+                     "role" : "Man with Dog",
+                     "name" : "Mickey Hutton"
+                  },
+                  {
+                     "role" : "Librarian",
+                     "name" : "Jane Birch"
+                  },
+                  {
+                     "role" : "Stan Li",
+                     "name" : "Dan Li"
+                  },
+                  {
+                     "role" : "Furniture Dealer",
+                     "name" : "Stephen Halliday"
+                  },
+                  {
+                     "name" : "Malcolm Shields",
+                     "role" : "Mad Scotsman"
+                  },
+                  {
+                     "name" : "Shaun Prendergast",
+                     "role" : "Carpenter"
+                  },
+                  {
+                     "role" : "Shopper (uncredited)",
+                     "name" : "James Hepworth"
+                  },
+                  {
+                     "name" : "Rob Kirtley",
+                     "role" : "Man In Food Bank (uncredited)"
+                  }
+               ]
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2016",
+            "country" : [
+               "BE",
+               "FR",
+               "GB"
+            ],
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/374473"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama"
+               ]
+            },
+            "channel" : "hits.film.viasat.dk",
+            "start" : "1523024400",
+            "stop" : "1523030400"
+         },
+         {
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Derek Cianfrance"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Michael Fassbender",
+                     "role" : "Tom Sherbourne"
+                  },
+                  {
+                     "name" : "Alicia Vikander",
+                     "role" : "Isabel Sherbourne"
+                  },
+                  {
+                     "role" : "Hannah Roennfeldt",
+                     "name" : "Rachel Weisz"
+                  },
+                  {
+                     "role" : "Septimus Potts",
+                     "name" : "Bryan Brown"
+                  },
+                  {
+                     "role" : "Ralph Addicott",
+                     "name" : "Jack Thompson"
+                  },
+                  {
+                     "role" : "Adult Lucy-Grace",
+                     "name" : "Caren Pistorius"
+                  },
+                  {
+                     "name" : "Florence Clery",
+                     "role" : "Lucy-Grace"
+                  },
+                  {
+                     "name" : "Anthony Hayes",
+                     "role" : "Sergeant Vernon Knuckey"
+                  },
+                  {
+                     "role" : "Gwen Potts",
+                     "name" : "Emily Barclay"
+                  },
+                  {
+                     "name" : "Leon Ford",
+                     "role" : "Frank Roennfeldt"
+                  },
+                  {
+                     "name" : "Benedict Hardie",
+                     "role" : "Constable Harry Garstone"
+                  },
+                  {
+                     "role" : "Bluey Smart",
+                     "name" : "Thomas Unger"
+                  },
+                  {
+                     "name" : "Georgie Jean Gascoigne",
+                     "role" : "1 yr old Lucy / Grace"
+                  },
+                  {
+                     "role" : "McGowan (uncredited)",
+                     "name" : "Scott Wills"
+                  },
+                  {
+                     "name" : "Jane Menelaus",
+                     "role" : "Violet Graysmark"
+                  },
+                  {
+                     "role" : "Bill Graysmark",
+                     "name" : "Garry MacDonald"
+                  },
+                  {
+                     "role" : "Bill Graysmark",
+                     "name" : "Garry McDonald"
+                  },
+                  {
+                     "name" : "Stephen Ure",
+                     "role" : "Neville Whittnish"
+                  },
+                  {
+                     "name" : "Peter McCauley",
+                     "role" : "Sergeant Spragg"
+                  },
+                  {
+                     "name" : "Jonathan Wagstaff",
+                     "role" : "Constable Bob Lynch"
+                  },
+                  {
+                     "name" : "Gerald Bryan",
+                     "role" : "Captain Percy Hasluck"
+                  },
+                  {
+                     "name" : "Elizabeth Hawthorne",
+                     "role" : "Mrs. Hasluck"
+                  },
+                  {
+                     "name" : "Rosella Hart",
+                     "role" : "Freda"
+                  },
+                  {
+                     "role" : "Reverend Norkels",
+                     "name" : "Michael Wallace"
+                  },
+                  {
+                     "role" : "Dr. Sumpton",
+                     "name" : "Peter Hayden"
+                  },
+                  {
+                     "name" : "Gary Blackman",
+                     "role" : "Bernie Gutcher"
+                  },
+                  {
+                     "name" : "Carmel McGlone",
+                     "role" : "Bertha Chipper"
+                  },
+                  {
+                     "name" : "Jeffrey Thomas",
+                     "role" : "Cyril Chipper"
+                  },
+                  {
+                     "name" : "Edwin Lancashire",
+                     "role" : "Piano Tuner"
+                  },
+                  {
+                     "role" : "Drunken Soldier",
+                     "name" : "Dean Morganty"
+                  },
+                  {
+                     "name" : "Elsa May",
+                     "role" : "Mrs. Mouchmore"
+                  },
+                  {
+                     "name" : "Kerrie Waterworth",
+                     "role" : "Fanny Darnley"
+                  },
+                  {
+                     "role" : "Mayor Jock Johnson",
+                     "name" : "John Bach"
+                  },
+                  {
+                     "name" : "Marshall Napier",
+                     "role" : "Mr. Coughlan"
+                  },
+                  {
+                     "name" : "Hilary Norris",
+                     "role" : "Matron"
+                  },
+                  {
+                     "role" : "Maisee McPhee",
+                     "name" : "Miriam Noonan"
+                  },
+                  {
+                     "role" : "Town Photographer",
+                     "name" : "Graham Warman"
+                  },
+                  {
+                     "role" : "Police Photographer",
+                     "name" : "George Vozar"
+                  },
+                  {
+                     "role" : "Lucy-Grace 12 Months Old",
+                     "name" : "Imogen Wilmhurst"
+                  },
+                  {
+                     "name" : "Lucy Wilmhurst",
+                     "role" : "Lucy-Grace 12 Months Old"
+                  },
+                  {
+                     "role" : "Lucy-Grace 12 Months Old",
+                     "name" : "Emily Wilmhurst"
+                  },
+                  {
+                     "name" : "Elliot Newbery",
+                     "role" : "Lucy-Grace 3 Months Old"
+                  },
+                  {
+                     "name" : "Evangeline Newbery",
+                     "role" : "Lucy-Grace 3 Months Old"
+                  },
+                  {
+                     "role" : "Lucy-Grace Newborn",
+                     "name" : "Christine Foote"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Derek Cianfrance"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "David Heyman"
+                  },
+                  {
+                     "name" : "Jeffrey Clifford"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "7 / 10"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/283552"
+            },
+            "title" : {
+               "da" : "Lyset i havet"
+            },
+            "desc" : {
+               "da" : "Den australske krigsveteran Tom Sherbourne (Michael Fassbender) og hans kone, Isabel, blev gift i 1921 - men var ikke i stand til at f\u00e5 et barn. Kort efter hendes anden, spontane abort, skylder en lille b\u00e5d op p\u00e5 kysten, n\u00e6r deres fyrt\u00e5rn. Om bord er en baby samt liget af en mand, der kan have v\u00e6ret hendes far. Isabel overbeviser Tom om, at de skal adoptere barnet, da hun frygter, at babyen vil blive sendt p\u00e5 b\u00f8rnehjem. Et par \u00e5r senere st\u00f8der han p\u00e5 den s\u00f8rgende Hannah Roennfeldt (Rachel Weisz), der s\u00f8rger over tabet af hendes mand og baby - begge forlist p\u00e5 havet. Han indser, at deres barn, Lucy (Florence Clery), er enkens datter, s\u00e5 han og Isabel m\u00e5 foretage et pinefuldt valg."
+            },
+            "stop" : "1523038500",
+            "start" : "1523030400",
+            "channel" : "hits.film.viasat.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama"
+               ]
+            },
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/283552"
+            ],
+            "country" : [
+               "NZ"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2016"
+         },
+         {
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2006",
+            "country" : [
+               "US"
+            ],
+            "new" : null,
+            "channel" : "hits.film.viasat.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Drama",
+                  "War"
+               ]
+            },
+            "stop" : "1523046000",
+            "start" : "1523038500",
+            "title" : {
+               "da" : "Rescue Dawn"
+            },
+            "desc" : {
+               "da" : "Autentisk fort\u00e6lling om den amerikanske jagerpilot Dieter Dengler, som kommer fra en tysk-amerikansk baggrund og blev skudt ned og taget til fange i Laos under Vietnamkrigen. Dengler organiserer en d\u00f8dsensfarlig flugt for en lille gruppe krigsfanger, inklusive Duane Martin. Et uventet forr\u00e6deri splitter imidlertid gruppen, og Dieter og Duane finder ud af, at det rent faktisk er junglen, der er deres f\u00e6ngsel."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Christian Bale",
+                     "role" : "Dieter"
+                  },
+                  {
+                     "role" : "Duane",
+                     "name" : "Steve Zahn"
+                  },
+                  {
+                     "role" : "Gene",
+                     "name" : "Jeremy Davies"
+                  },
+                  {
+                     "name" : "Marshall Bell",
+                     "role" : "Admiral"
+                  },
+                  {
+                     "role" : "Province Governor",
+                     "name" : "Fran\u00e7ois Chau"
+                  }
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Edward Snowden (Joseph Gordon-Levitt) tr\u00e6nede for at komme i h\u00e6ren, indtil han br\u00e6kkede sine ben, hvilket tvang ham til at blive hjemsendt. Han bliver udvalgt til at deltage i CIAs cyberwarfare-program, hvor han hurtigt imponerer sine overordene med sine programmeringsevner. Senere flyttes han til NSA, men opdager her, at den amerikanske regering i det skjulte - og ulovligt - har overv\u00e5get p\u00e5 sine borgere. Med hj\u00e6lpen fra sin idealistiske k\u00e6reste, Lindsay Mills (Shailene Woodley), beslutter Snowden at afsl\u00f8re agenturets kriminelle aktiviteter over for pressen. Men med hans samvittighedsfulde handlinger f\u00f8lger ogs\u00e5 en h\u00f8j pris."
+            },
+            "title" : {
+               "da" : "Snowden"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/302401"
+            },
+            "rating" : {
+               "stars" : "7 / 10"
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Oliver Stone"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Moritz Borman"
+                  },
+                  {
+                     "name" : "Eric Kopeloff"
+                  },
+                  {
+                     "name" : "Philip Schulz-Deyle"
+                  },
+                  {
+                     "name" : "Fernando Sulichin"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Kieran Fitzgerald"
+                  },
+                  {
+                     "name" : "Oliver Stone"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Edward Snowden",
+                     "name" : "Joseph Gordon-Levitt"
+                  },
+                  {
+                     "name" : "Shailene Woodley",
+                     "role" : "Lindsay Mills"
+                  },
+                  {
+                     "name" : "Melissa Leo",
+                     "role" : "Laura Poitras"
+                  },
+                  {
+                     "name" : "Zachary Quinto",
+                     "role" : "Glenn Greenwald"
+                  },
+                  {
+                     "name" : "Tom Wilkinson",
+                     "role" : "Ewen MacAskill"
+                  },
+                  {
+                     "role" : "Trevor James",
+                     "name" : "Scott Eastwood"
+                  },
+                  {
+                     "role" : "CIA Agent Geneva",
+                     "name" : "Timothy Olyphant"
+                  },
+                  {
+                     "role" : "Gabriel Sol",
+                     "name" : "Ben Schnetzer"
+                  },
+                  {
+                     "name" : "Keith Stanfield",
+                     "role" : "Patrick Haynes"
+                  },
+                  {
+                     "name" : "Rhys Ifans",
+                     "role" : "Corbin O'Brian"
+                  },
+                  {
+                     "role" : "Hank Forrester",
+                     "name" : "Nicolas Cage"
+                  },
+                  {
+                     "name" : "Joely Richardson",
+                     "role" : "Janine Gibson"
+                  },
+                  {
+                     "role" : "Master Sgt. Robinson",
+                     "name" : "Jaymes Butler"
+                  },
+                  {
+                     "name" : "Robert Firth",
+                     "role" : "Dr. Stilwell"
+                  },
+                  {
+                     "role" : "Robert Tibbo",
+                     "name" : "Ben Chaplin"
+                  },
+                  {
+                     "name" : "Bhasker Patel",
+                     "role" : "Marwan Al-Kirmani"
+                  },
+                  {
+                     "name" : "Edward Snowden",
+                     "role" : "Edward Snowden"
+                  },
+                  {
+                     "name" : "Christy Meyer",
+                     "role" : "Dr. Laurel"
+                  },
+                  {
+                     "name" : "Gregory Schwabe",
+                     "role" : "Drill Sgt. 2 Martinez"
+                  },
+                  {
+                     "role" : "NSA Dep. Director Lowell",
+                     "name" : "Patrick Joseph Byrnes"
+                  },
+                  {
+                     "role" : "Coffee Shop Patron / Pedestrian",
+                     "name" : "Jamie Hodge"
+                  },
+                  {
+                     "role" : "Mother - Tong Lau Hong Kong",
+                     "name" : "Mathangi Ray"
+                  },
+                  {
+                     "name" : "Alan Rusbridger",
+                     "role" : "Moderator"
+                  },
+                  {
+                     "role" : "Female Drone Pilot",
+                     "name" : "Stephanie Simbeck"
+                  },
+                  {
+                     "role" : "Male Drone Pilot",
+                     "name" : "Logan Marshall-Green"
+                  },
+                  {
+                     "name" : "Demetri Goritsas",
+                     "role" : "CIA Supervisor"
+                  },
+                  {
+                     "name" : "Rachel Handshaw",
+                     "role" : "CIA Polygraph Adminstrator"
+                  },
+                  {
+                     "name" : "Christian Contreras",
+                     "role" : "CIA Psychologist"
+                  },
+                  {
+                     "name" : "Parker Sawyers",
+                     "role" : "CIA Interviewer"
+                  },
+                  {
+                     "role" : "CIA Student",
+                     "name" : "Michael Benz"
+                  },
+                  {
+                     "role" : "Warrenton Gate Guard",
+                     "name" : "Ken Thomas"
+                  },
+                  {
+                     "role" : "Assistant Editor Guardian",
+                     "name" : "Nicholas Rowe"
+                  },
+                  {
+                     "role" : "Diplomat Party Guest",
+                     "name" : "Erol Sander"
+                  },
+                  {
+                     "role" : "Russian Diplomat",
+                     "name" : "Anatoly Kucherena"
+                  },
+                  {
+                     "role" : "NSA Tunnel Guard 1",
+                     "name" : "Eric Kofi Abrefa"
+                  },
+                  {
+                     "role" : "NSA Tunnel Guard 2",
+                     "name" : "Stanley I. Walker Jr."
+                  },
+                  {
+                     "role" : "Pole Dancer",
+                     "name" : "Olga Koda"
+                  },
+                  {
+                     "role" : "CIA Trainee Bangkok (uncredited)",
+                     "name" : "Alexandra Adomaitis"
+                  },
+                  {
+                     "name" : "Andreas Dubois",
+                     "role" : "Audience"
+                  }
+               ]
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2016",
+            "country" : [
+               "DE",
+               "US"
+            ],
+            "url" : [
+               "http://www.themoviedb.org/movie/302401"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama",
+                  "Thriller"
+               ]
+            },
+            "channel" : "hits.film.viasat.dk",
+            "start" : "1523046000",
+            "stop" : "1523053800"
+         },
+         {
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Jason Blum"
+                  },
+                  {
+                     "name" : "Edward H. Hamm Jr."
+                  },
+                  {
+                     "name" : "Sean McKittrick"
+                  },
+                  {
+                     "name" : "Jordan Peele"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Jordan Peele"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Chris Washington",
+                     "name" : "Daniel Kaluuya"
+                  },
+                  {
+                     "name" : "Allison Williams",
+                     "role" : "Rose Armitage"
+                  },
+                  {
+                     "role" : "Dean Armitage",
+                     "name" : "Bradley Whitford"
+                  },
+                  {
+                     "name" : "Catherine Keener",
+                     "role" : "Missy Armitage"
+                  },
+                  {
+                     "name" : "Caleb Landry Jones",
+                     "role" : "Jeremy Armitage"
+                  },
+                  {
+                     "role" : "Jim Hudson",
+                     "name" : "Stephen Root"
+                  },
+                  {
+                     "role" : "Andre Hayworth / Logan King",
+                     "name" : "Keith Stanfield"
+                  },
+                  {
+                     "name" : "LilRel Howery",
+                     "role" : "Rod Williams"
+                  },
+                  {
+                     "role" : "Georgina",
+                     "name" : "Betty Gabriel"
+                  },
+                  {
+                     "name" : "Marcus Henderson",
+                     "role" : "Walter"
+                  },
+                  {
+                     "role" : "Chris (11 Years Old)",
+                     "name" : "Zailand Adams"
+                  },
+                  {
+                     "role" : "Detective Latoya",
+                     "name" : "Erika Alexander"
+                  },
+                  {
+                     "role" : "Lisa Deets",
+                     "name" : "Ashley LeConte Campbell"
+                  },
+                  {
+                     "name" : "Lyle Brocato",
+                     "role" : "Richard Shaw"
+                  },
+                  {
+                     "name" : "Julie Ann Doan",
+                     "role" : "April Dray"
+                  },
+                  {
+                     "role" : "Philomena King",
+                     "name" : "Geraldine Singer"
+                  },
+                  {
+                     "name" : "Trey Burvant",
+                     "role" : "Officer Ryan"
+                  },
+                  {
+                     "name" : "Jana Allen",
+                     "role" : "Nancy Shaw (uncredited)"
+                  },
+                  {
+                     "role" : "Detective Drake",
+                     "name" : "Jeronimo Spinx"
+                  },
+                  {
+                     "role" : "Emily Green",
+                     "name" : "Caren L. Larkey"
+                  },
+                  {
+                     "role" : "Joshua Shaw",
+                     "name" : "Ben Ladner"
+                  },
+                  {
+                     "name" : "Rutherford Cravens",
+                     "role" : "Parker Dray"
+                  },
+                  {
+                     "name" : "Brad Spiers",
+                     "role" : "Officer Gause (uncredited)"
+                  },
+                  {
+                     "name" : "Mark Baynard Baggs",
+                     "role" : "Frederick Walton (uncredited)"
+                  },
+                  {
+                     "role" : "Nelson Deets (uncredited)",
+                     "name" : "Lory Tom Thompson Sr."
+                  },
+                  {
+                     "role" : "Party Goer (uncredited)",
+                     "name" : "Michael Amstutz"
+                  },
+                  {
+                     "name" : "Gary Wayne Loper",
+                     "role" : "Chauffeur (uncredited)"
+                  },
+                  {
+                     "name" : "Jack Teague",
+                     "role" : "Wealthy Party Goer (uncredited)"
+                  },
+                  {
+                     "role" : "Detective (uncredited)",
+                     "name" : "Jamie Gliddon"
+                  },
+                  {
+                     "name" : "Matthew McCrocklin",
+                     "role" : "Friend Derrick (uncredited)"
+                  },
+                  {
+                     "name" : "Evan Shafran",
+                     "role" : "Travel Passenger (uncredited)"
+                  },
+                  {
+                     "role" : "Richard Shaw (uncredited)",
+                     "name" : "Lyle Brocato"
+                  },
+                  {
+                     "name" : "Sean Paul Braud",
+                     "role" : "Police Officer #2"
+                  },
+                  {
+                     "role" : "Detective Garcia",
+                     "name" : "Ian Casselberry"
+                  },
+                  {
+                     "role" : "Roman Armitage",
+                     "name" : "Richard Herd"
+                  },
+                  {
+                     "name" : "Jordan Peele",
+                     "role" : "UNFC Commercial Narrator/Wounder Deer (Sounds)"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "7.4 / 10"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/419430"
+            },
+            "desc" : {
+               "da" : "Nu da Chris og Rose har n\u00e5et deres m\u00f8det-med-for\u00e6ldrene-milep\u00e6l i deres forhold, inviterer hun ham p\u00e5 en weekend i hendes for\u00e6ldres hus i udkantsbyen. F\u00f8rst l\u00e6ser Chris familiens st\u00e6rkt im\u00f8dekommende adf\u00e6rd som et nerv\u00f8st fors\u00f8g p\u00e5 at h\u00e5ndtere datterens raceblandede forhold. Men som weekenden skrider frem, g\u00f8r Chris en r\u00e6kke foruroligende opdagelser, der leder til nogle afsl\u00f8ringer, han aldrig kunne have forestillet sig."
+            },
+            "title" : {
+               "da" : "Get Out"
+            },
+            "start" : "1523053800",
+            "stop" : "1523060100",
+            "url" : [
+               "http://www.themoviedb.org/movie/419430"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Mystery",
+                  "Thriller",
+                  "Horror"
+               ]
+            },
+            "channel" : "hits.film.viasat.dk",
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2017"
+         }
+      ]
+   }
+}

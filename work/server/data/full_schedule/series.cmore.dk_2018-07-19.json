@@ -1,0 +1,2996 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "channel" : "series.cmore.dk",
+            "start" : "1531959300",
+            "subTitle" : {
+               "da" : "La Posada del Laurel"
+            },
+            "country" : [
+               "GB"
+            ],
+            "date" : "2017",
+            "title" : {
+               "da" : "The Trip to Spain"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Steve Coogan"
+                  },
+                  {
+                     "name" : "Rob Brydon"
+                  }
+               ]
+            },
+            "stop" : "1531961100",
+            "desc" : {
+               "da" : "Steve og Rob spiser frokost p\u00e5 La Posada del Laurel i La Rioja, og ser efterf\u00f8lgende p\u00e5 et velbevaret dinosaurspor, inden turen g\u00e5r videre til hotellet Parador de Sig\u00fcenza. Receptionisten fort\u00e6ller dem, at Marlon Brando indspillede en film der."
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 af 6 s\u00e6son 1",
+               "xmltv_ns" : "0 . 2/6 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            }
+         },
+         {
+            "date" : "2015",
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 4 .",
+               "thetvdb.com" : "series/289079",
+               "onscreen" : "Afsnit 5 s\u00e6son 3"
+            },
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "title" : {
+               "da" : "Into the Badlands"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Alexia Ioannides",
+                     "role" : "Tilda"
+                  },
+                  {
+                     "name" : "Madeleine Mantock",
+                     "role" : "Veil"
+                  },
+                  {
+                     "name" : "Marton Csokas",
+                     "role" : "Quinn"
+                  },
+                  {
+                     "name" : "Sarah Bolger",
+                     "role" : "Jade"
+                  },
+                  {
+                     "role" : "Waldo",
+                     "name" : "Stephen Lang"
+                  },
+                  {
+                     "name" : "Sherman Augustus",
+                     "role" : "Nathaniel Moon"
+                  },
+                  {
+                     "role" : "M.K.",
+                     "name" : "Aramis Knight"
+                  },
+                  {
+                     "role" : "Gaius Chau",
+                     "name" : "Lewis Tan"
+                  },
+                  {
+                     "name" : "Lorraine Toussaint",
+                     "role" : "Cressida"
+                  },
+                  {
+                     "role" : "Ryder",
+                     "name" : "Oliver Stark"
+                  },
+                  {
+                     "role" : "Nix",
+                     "name" : "Ella-Rae Smith"
+                  },
+                  {
+                     "name" : "Daniel Wu",
+                     "role" : "Sunny"
+                  },
+                  {
+                     "role" : "Bajie",
+                     "name" : "Nick Frost"
+                  },
+                  {
+                     "name" : "Babou Ceesay",
+                     "role" : "Pilgrim"
+                  },
+                  {
+                     "role" : "Lydia",
+                     "name" : "Orla Brady"
+                  },
+                  {
+                     "role" : "The Widow",
+                     "name" : "Emily Beecham"
+                  }
+               ]
+            },
+            "stop" : "1531963500",
+            "desc" : {
+               "da" : "Sunny og Bajie beder en tidligere mester, der lever et tilbagetrukket liv, om hj\u00e6lp. Enken m\u00e5 konfrontere et sp\u00f8gelse fra sin fortid i skikkelse af Chaus slave."
+            },
+            "subTitle" : {
+               "da" : "Carry Tiger to Mountain"
+            },
+            "start" : "1531961100",
+            "channel" : "series.cmore.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=289079&seasonid=731857&id=6638555&lid=10"
+            ],
+            "country" : [
+               "US"
+            ]
+         },
+         {
+            "desc" : {
+               "da" : "Sunny og Bajie kr\u00e6ver at f\u00e5 en tjeneste geng\u00e6ldt, som Bajie blev lovet i sin tif. Enken afh\u00f8rer en vigtig fange, der truer den nuv\u00e6rende fred mellem hende og Pilgrim."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Tilda",
+                     "name" : "Alexia Ioannides"
+                  },
+                  {
+                     "name" : "Madeleine Mantock",
+                     "role" : "Veil"
+                  },
+                  {
+                     "role" : "Quinn",
+                     "name" : "Marton Csokas"
+                  },
+                  {
+                     "name" : "Sarah Bolger",
+                     "role" : "Jade"
+                  },
+                  {
+                     "name" : "Stephen Lang",
+                     "role" : "Waldo"
+                  },
+                  {
+                     "name" : "Sherman Augustus",
+                     "role" : "Nathaniel Moon"
+                  },
+                  {
+                     "role" : "M.K.",
+                     "name" : "Aramis Knight"
+                  },
+                  {
+                     "role" : "Gaius Chau",
+                     "name" : "Lewis Tan"
+                  },
+                  {
+                     "name" : "Lorraine Toussaint",
+                     "role" : "Cressida"
+                  },
+                  {
+                     "role" : "Ryder",
+                     "name" : "Oliver Stark"
+                  },
+                  {
+                     "role" : "Nix",
+                     "name" : "Ella-Rae Smith"
+                  },
+                  {
+                     "role" : "Sunny",
+                     "name" : "Daniel Wu"
+                  },
+                  {
+                     "name" : "Nick Frost",
+                     "role" : "Bajie"
+                  },
+                  {
+                     "name" : "Babou Ceesay",
+                     "role" : "Pilgrim"
+                  },
+                  {
+                     "name" : "Orla Brady",
+                     "role" : "Lydia"
+                  },
+                  {
+                     "name" : "Emily Beecham",
+                     "role" : "The Widow"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Into the Badlands"
+            },
+            "stop" : "1531966200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "thetvdb.com" : "series/289079",
+               "onscreen" : "Afsnit 6 s\u00e6son 3",
+               "xmltv_ns" : "2 . 5 ."
+            },
+            "date" : "2015",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=289079&seasonid=731857&id=6638556&lid=10"
+            ],
+            "country" : [
+               "US"
+            ],
+            "start" : "1531963500",
+            "channel" : "series.cmore.dk",
+            "subTitle" : {
+               "da" : "Black Wind Howls"
+            }
+         },
+         {
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 16 af 44 s\u00e6son 2",
+               "xmltv_ns" : "1 . 15/44 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Close Up"
+            },
+            "stop" : "1531968000",
+            "desc" : {
+               "da" : "Tom Hanks, Jennifer Lopez og Denzel Washington er blandt de i alt 30 Hollywoodstjerner, der portr\u00e6tteres i denne nyproducerede dokumentarserie. Gennem interviews med venner og kolleger krydret med klassiske filmklip, f\u00e5r vi et sp\u00e6ndende indblik i skuespillerenes glamour\u00f8se liv. Del 16/44. Catherine Zeta-Jones."
+            },
+            "date" : "2014",
+            "country" : [
+               "US"
+            ],
+            "subTitle" : {
+               "da" : "Catherine Zeta-Jones"
+            },
+            "channel" : "series.cmore.dk",
+            "start" : "1531966200"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 17 af 44 s\u00e6son 2",
+               "xmltv_ns" : "1 . 16/44 ."
+            },
+            "stop" : "1531969800",
+            "title" : {
+               "da" : "Close Up"
+            },
+            "desc" : {
+               "da" : "Tom Hanks, Jennifer Lopez og Denzel Washington er blandt de i alt 30 Hollywoodstjerner, der portr\u00e6tteres i denne nyproducerede dokumentarserie. Gennem interviews med venner og kolleger krydret med klassiske filmklip, f\u00e5r vi et sp\u00e6ndende indblik i skuespillerenes glamour\u00f8se liv. Del 17/44. Dustin Hoffman."
+            },
+            "date" : "2014",
+            "country" : [
+               "US"
+            ],
+            "subTitle" : {
+               "da" : "Dustin Hoffman"
+            },
+            "start" : "1531968000",
+            "channel" : "series.cmore.dk"
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "subTitle" : {
+               "da" : "Scarlett Johansson"
+            },
+            "channel" : "series.cmore.dk",
+            "start" : "1531969800",
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 26 af 60 s\u00e6son 1",
+               "xmltv_ns" : "0 . 25/60 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1531971900",
+            "title" : {
+               "da" : "Close Up"
+            },
+            "desc" : {
+               "da" : "Brad Pitt, Scarlett Johansson og Al Pacino er blandt de i alt 60 Hollywoodstjerner, der portr\u00e6tteres i denne nyproducerede dokumentarserie. Gennem interviews med venner og kolleger og masser af klassiske filmklip, giver serien et sp\u00e6ndende indblik i skuespillernes glamour\u00f8se liv. Del 26/60. Scarlett Johansson."
+            },
+            "date" : "2014"
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "subTitle" : {
+               "da" : "Jackie Chan"
+            },
+            "channel" : "series.cmore.dk",
+            "start" : "1531971900",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 27 af 60 s\u00e6son 1",
+               "xmltv_ns" : "0 . 26/60 ."
+            },
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Brad Pitt, Scarlett Johansson og Al Pacino er blandt de i alt 60 Hollywoodstjerner, der portr\u00e6tteres i denne nyproducerede dokumentarserie. Gennem interviews med venner og kolleger og masser af klassiske filmklip, giver serien et sp\u00e6ndende indblik i skuespillernes glamour\u00f8se liv. Del 27/60. Jackie Chan."
+            },
+            "stop" : "1531973700",
+            "title" : {
+               "da" : "Close Up"
+            },
+            "date" : "2014"
+         },
+         {
+            "date" : "2014",
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 33/60 .",
+               "onscreen" : "Afsnit 34 af 60 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Close Up"
+            },
+            "desc" : {
+               "da" : "Brad Pitt, Scarlett Johansson og Al Pacino er blandt de i alt 60 Hollywoodstjerner, der portr\u00e6tteres i denne nyproducerede dokumentarserie. Gennem interviews med venner og kolleger og masser af klassiske filmklip, giver serien et sp\u00e6ndende indblik i skuespillernes glamour\u00f8se liv. Del 34/60. Angelina Jolie."
+            },
+            "stop" : "1531975500",
+            "subTitle" : {
+               "da" : "Angelina Jolie"
+            },
+            "channel" : "series.cmore.dk",
+            "start" : "1531973700",
+            "country" : [
+               "US"
+            ]
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "channel" : "series.cmore.dk",
+            "start" : "1531975500",
+            "subTitle" : {
+               "da" : "Kim Basinger"
+            },
+            "title" : {
+               "da" : "Close Up"
+            },
+            "desc" : {
+               "da" : "Tom Hanks, Jennifer Lopez og Denzel Washington er blandt de i alt 30 Hollywoodstjerner, der portr\u00e6tteres i denne nyproducerede dokumentarserie. Gennem interviews med venner og kolleger krydret med klassiske filmklip, f\u00e5r vi et sp\u00e6ndende indblik i skuespillerenes glamour\u00f8se liv. Del 22/44. Kim Basinger."
+            },
+            "stop" : "1531977300",
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 21/44 .",
+               "onscreen" : "Afsnit 22 af 44 s\u00e6son 2"
+            },
+            "date" : "2014"
+         },
+         {
+            "start" : "1531977300",
+            "channel" : "series.cmore.dk",
+            "subTitle" : {
+               "da" : "Poisoned River"
+            },
+            "rating" : {
+               "stars" : "9 / 9"
+            },
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=323115&seasonid=697453&id=5947245&lid=10"
+            ],
+            "date" : "2017",
+            "stop" : "1531980000",
+            "title" : {
+               "da" : "Rise"
+            },
+            "desc" : {
+               "da" : "Simons f\u00f8lelser p\u00e5virker hans pr\u00e6station p\u00e5 scenen, og Maashous modtager store nyheder. Gwens familiestridigheder f\u00f8rer til en vild aften i byen, og Michael fors\u00f8ger at puste nyt liv i et gammelt venskab."
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "thetvdb.com" : "series/323115",
+               "onscreen" : "Afsnit 7 s\u00e6son 1",
+               "xmltv_ns" : "0 . 6 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "stop" : "1531982400",
+            "desc" : {
+               "da" : "Hele skolen f\u00e5r kendskab til Lous produktion via uofficielle kanaler, da et link indeholdende en meget provokerende video bliver delt vidt og bredt. Robbie kastes ud i en tillidskrise, og Maashous grubler over en famili\u00e6r genforening, der tr\u00e6kker t\u00e6nder ud."
+            },
+            "title" : {
+               "da" : "Rise"
+            },
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/323115",
+               "onscreen" : "Afsnit 8 s\u00e6son 1",
+               "xmltv_ns" : "0 . 7 ."
+            },
+            "date" : "2017",
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=323115&seasonid=697453&id=5964418&lid=10"
+            ],
+            "channel" : "series.cmore.dk",
+            "start" : "1531980000",
+            "subTitle" : {
+               "da" : "Warriors Rising"
+            },
+            "rating" : {
+               "stars" : "9 / 9"
+            }
+         },
+         {
+            "country" : [
+               "SE"
+            ],
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=293174&seasonid=732542&id=6424345&lid=10"
+            ],
+            "start" : "1531982400",
+            "channel" : "series.cmore.dk",
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 6 .",
+               "onscreen" : "Afsnit 7 s\u00e6son 2",
+               "thetvdb.com" : "series/293174"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "title" : {
+               "da" : "Ack V\u00e4rmland"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Grannens fru",
+                     "name" : "Lotta Tejle"
+                  },
+                  {
+                     "role" : "Anette",
+                     "name" : "Mia Sk\u00e4ringer"
+                  },
+                  {
+                     "role" : "Sol-Britt",
+                     "name" : "Sussie Eriksson"
+                  },
+                  {
+                     "role" : "Grannen",
+                     "name" : "Bengt Alsterlind"
+                  },
+                  {
+                     "role" : "Janne",
+                     "name" : "Tomas Tjerneld"
+                  },
+                  {
+                     "role" : "Bea",
+                     "name" : "Hanna Ingman"
+                  },
+                  {
+                     "role" : "Fanny",
+                     "name" : "Ida Hallquist"
+                  },
+                  {
+                     "name" : "Johan \u00d6stling",
+                     "role" : "Ola"
+                  },
+                  {
+                     "name" : "Bj\u00f6rn Starrin",
+                     "role" : "Pontus"
+                  }
+               ]
+            },
+            "stop" : "1531983900",
+            "desc" : {
+               "da" : "Fanny finder en gammel dagbog og f\u00f8ler sig pludselig gammel, da hun mener, at hun havde det sjovere f\u00f8r i tiden. Som en konsekvens begynder hun, Ola, Sol-Britt og Janne at g\u00e5 til dans. Anette begynder til geng\u00e6ld at interessere sig for sl\u00e6gtsforskning."
+            },
+            "date" : "2015"
+         },
+         {
+            "date" : "2015",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Lotta Tejle",
+                     "role" : "Grannens fru"
+                  },
+                  {
+                     "role" : "Anette",
+                     "name" : "Mia Sk\u00e4ringer"
+                  },
+                  {
+                     "name" : "Sussie Eriksson",
+                     "role" : "Sol-Britt"
+                  },
+                  {
+                     "name" : "Bengt Alsterlind",
+                     "role" : "Grannen"
+                  },
+                  {
+                     "name" : "Tomas Tjerneld",
+                     "role" : "Janne"
+                  },
+                  {
+                     "name" : "Hanna Ingman",
+                     "role" : "Bea"
+                  },
+                  {
+                     "name" : "Ida Hallquist",
+                     "role" : "Fanny"
+                  },
+                  {
+                     "name" : "Johan \u00d6stling",
+                     "role" : "Ola"
+                  },
+                  {
+                     "role" : "Pontus",
+                     "name" : "Bj\u00f6rn Starrin"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Anette beder Pontus om at v\u00e6re babysitter, og sammen med Ola tager han b\u00f8rnene med i biografen for at se en h\u00e6sbl\u00e6sende actionfilm. Fannys ven Bea kommer p\u00e5 bes\u00f8g med sin franske k\u00e6reste Jean-Luc."
+            },
+            "stop" : "1531985400",
+            "title" : {
+               "da" : "Ack V\u00e4rmland"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 7 .",
+               "thetvdb.com" : "series/293174",
+               "onscreen" : "Afsnit 8 s\u00e6son 2"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "channel" : "series.cmore.dk",
+            "start" : "1531983900",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=293174&seasonid=732542&id=6424351&lid=10"
+            ],
+            "country" : [
+               "SE"
+            ]
+         },
+         {
+            "channel" : "series.cmore.dk",
+            "start" : "1531985400",
+            "subTitle" : {
+               "da" : "Meet the New Boss"
+            },
+            "rating" : {
+               "stars" : "6.5 / 9"
+            },
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=94551&seasonid=310691&id=3412861&lid=8"
+            ],
+            "date" : "2010",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Joel Graham",
+                     "name" : "Sam Jaeger"
+                  },
+                  {
+                     "role" : "Evan Knight",
+                     "name" : "Zachary Knighton"
+                  },
+                  {
+                     "role" : "Jasmine Trussell",
+                     "name" : "Joy Bryant"
+                  },
+                  {
+                     "role" : "Dr. Pelikan",
+                     "name" : "Tom Amandes"
+                  },
+                  {
+                     "role" : "Crosby Braverman",
+                     "name" : "Dax Shepard"
+                  },
+                  {
+                     "role" : "Ed Brooks",
+                     "name" : "David Denman"
+                  },
+                  {
+                     "name" : "Erika Christensen",
+                     "role" : "Julia Braverman-Graham"
+                  },
+                  {
+                     "role" : "Sarah Braverman",
+                     "name" : "Lauren Graham"
+                  },
+                  {
+                     "role" : "Zeek Braverman",
+                     "name" : "Craig T. Nelson"
+                  },
+                  {
+                     "role" : "Kristina Braverman",
+                     "name" : "Monica Potter"
+                  },
+                  {
+                     "name" : "Mae Whitman",
+                     "role" : "Amber Holt"
+                  },
+                  {
+                     "name" : "Max Burkholder",
+                     "role" : "Max Braverman"
+                  },
+                  {
+                     "role" : "Drew Holt",
+                     "name" : "Miles Heizer"
+                  },
+                  {
+                     "role" : "Haddie Braverman",
+                     "name" : "Sarah Ramos"
+                  },
+                  {
+                     "name" : "Nick Krause",
+                     "role" : "Berto"
+                  },
+                  {
+                     "role" : "Sydney Graham",
+                     "name" : "Savannah Paige Rae"
+                  },
+                  {
+                     "name" : "Lyndon Smith",
+                     "role" : "Natalie"
+                  },
+                  {
+                     "name" : "Peter Krause",
+                     "role" : "Adam Braverman"
+                  },
+                  {
+                     "name" : "Tyree Brown",
+                     "role" : "Jabbar Trussell"
+                  },
+                  {
+                     "role" : "Camille Braverman",
+                     "name" : "Bonnie Bedelia"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Sarah Watson"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Lawrence Trilling"
+                  }
+               ]
+            },
+            "stop" : "1531987800",
+            "desc" : {
+               "da" : "Adam fors\u00f8ger at v\u00e6nne sig til sin nye chef og er samtidig bekymret for sit job. Crosby fors\u00f8ger at arrangere en forestilling p\u00e5 Jabbars skole, og Amber har ogs\u00e5 sceneplaner, men modtager kritik fra uventet kant."
+            },
+            "title" : {
+               "da" : "Parenthood"
+            },
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 12 s\u00e6son 2",
+               "thetvdb.com" : "series/94551",
+               "xmltv_ns" : "1 . 11 ."
+            }
+         },
+         {
+            "episodeNum" : {
+               "thetvdb.com" : "series/94551",
+               "onscreen" : "Afsnit 13 s\u00e6son 2",
+               "xmltv_ns" : "1 . 12 ."
+            },
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Sam Jaeger",
+                     "role" : "Joel Graham"
+                  },
+                  {
+                     "name" : "Zachary Knighton",
+                     "role" : "Evan Knight"
+                  },
+                  {
+                     "role" : "Jasmine Trussell",
+                     "name" : "Joy Bryant"
+                  },
+                  {
+                     "role" : "Dr. Pelikan",
+                     "name" : "Tom Amandes"
+                  },
+                  {
+                     "name" : "Dax Shepard",
+                     "role" : "Crosby Braverman"
+                  },
+                  {
+                     "role" : "Ed Brooks",
+                     "name" : "David Denman"
+                  },
+                  {
+                     "role" : "Julia Braverman-Graham",
+                     "name" : "Erika Christensen"
+                  },
+                  {
+                     "name" : "Lauren Graham",
+                     "role" : "Sarah Braverman"
+                  },
+                  {
+                     "role" : "Zeek Braverman",
+                     "name" : "Craig T. Nelson"
+                  },
+                  {
+                     "role" : "Kristina Braverman",
+                     "name" : "Monica Potter"
+                  },
+                  {
+                     "name" : "Mae Whitman",
+                     "role" : "Amber Holt"
+                  },
+                  {
+                     "role" : "Max Braverman",
+                     "name" : "Max Burkholder"
+                  },
+                  {
+                     "name" : "Miles Heizer",
+                     "role" : "Drew Holt"
+                  },
+                  {
+                     "name" : "Sarah Ramos",
+                     "role" : "Haddie Braverman"
+                  },
+                  {
+                     "role" : "Berto",
+                     "name" : "Nick Krause"
+                  },
+                  {
+                     "role" : "Sydney Graham",
+                     "name" : "Savannah Paige Rae"
+                  },
+                  {
+                     "name" : "Lyndon Smith",
+                     "role" : "Natalie"
+                  },
+                  {
+                     "name" : "Peter Krause",
+                     "role" : "Adam Braverman"
+                  },
+                  {
+                     "name" : "Tyree Brown",
+                     "role" : "Jabbar Trussell"
+                  },
+                  {
+                     "role" : "Camille Braverman",
+                     "name" : "Bonnie Bedelia"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Monica Henderson"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Ken Whittingham"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Parenthood"
+            },
+            "stop" : "1531990200",
+            "desc" : {
+               "da" : "Kristina og Adam opdager, at Haddie h\u00e6nger ud sammen med Alex og forbyder hende at se mere til ham. Sarah f\u00e5r en udfordring, da Drew fort\u00e6ller ham, at han skal s\u00e6lge gavepapir til en v\u00e6rdi af 500 dollars. Jabbar har f\u00e5et sceneskr\u00e6k forud for skoleforestillingen."
+            },
+            "date" : "2010",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=94551&seasonid=310691&id=3456841&lid=8"
+            ],
+            "country" : [
+               "US"
+            ],
+            "rating" : {
+               "stars" : "6.7 / 9"
+            },
+            "subTitle" : {
+               "da" : "Opening Night"
+            },
+            "start" : "1531987800",
+            "channel" : "series.cmore.dk"
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=94551&seasonid=310691&id=3506161&lid=8"
+            ],
+            "country" : [
+               "US"
+            ],
+            "rating" : {
+               "stars" : "6 / 9"
+            },
+            "start" : "1531990200",
+            "channel" : "series.cmore.dk",
+            "subTitle" : {
+               "da" : "A House Divided"
+            },
+            "stop" : "1531992900",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Sam Jaeger",
+                     "role" : "Joel Graham"
+                  },
+                  {
+                     "name" : "Zachary Knighton",
+                     "role" : "Evan Knight"
+                  },
+                  {
+                     "name" : "Joy Bryant",
+                     "role" : "Jasmine Trussell"
+                  },
+                  {
+                     "name" : "Tom Amandes",
+                     "role" : "Dr. Pelikan"
+                  },
+                  {
+                     "role" : "Crosby Braverman",
+                     "name" : "Dax Shepard"
+                  },
+                  {
+                     "role" : "Ed Brooks",
+                     "name" : "David Denman"
+                  },
+                  {
+                     "role" : "Julia Braverman-Graham",
+                     "name" : "Erika Christensen"
+                  },
+                  {
+                     "role" : "Sarah Braverman",
+                     "name" : "Lauren Graham"
+                  },
+                  {
+                     "name" : "Craig T. Nelson",
+                     "role" : "Zeek Braverman"
+                  },
+                  {
+                     "name" : "Monica Potter",
+                     "role" : "Kristina Braverman"
+                  },
+                  {
+                     "role" : "Amber Holt",
+                     "name" : "Mae Whitman"
+                  },
+                  {
+                     "role" : "Max Braverman",
+                     "name" : "Max Burkholder"
+                  },
+                  {
+                     "name" : "Miles Heizer",
+                     "role" : "Drew Holt"
+                  },
+                  {
+                     "role" : "Haddie Braverman",
+                     "name" : "Sarah Ramos"
+                  },
+                  {
+                     "role" : "Berto",
+                     "name" : "Nick Krause"
+                  },
+                  {
+                     "role" : "Sydney Graham",
+                     "name" : "Savannah Paige Rae"
+                  },
+                  {
+                     "name" : "Lyndon Smith",
+                     "role" : "Natalie"
+                  },
+                  {
+                     "name" : "Peter Krause",
+                     "role" : "Adam Braverman"
+                  },
+                  {
+                     "role" : "Jabbar Trussell",
+                     "name" : "Tyree Brown"
+                  },
+                  {
+                     "name" : "Bonnie Bedelia",
+                     "role" : "Camille Braverman"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Ken Whittingham"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Tyler Bensinger"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Kristina og Adam n\u00e6gter Haddie at m\u00f8des med Alex, s\u00e5 hun flytter ind hos sine bedstefor\u00e6ldre. Sarah beder om l\u00f8nforh\u00f8jelse, s\u00e5 hun kan betale Ambers skole. Max og Zeek tager p\u00e5 en campingtur, der forl\u00f8ber alt andet end glat. Julia organiserer et polterabend for Jasmine."
+            },
+            "title" : {
+               "da" : "Parenthood"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "thetvdb.com" : "series/94551",
+               "onscreen" : "Afsnit 14 s\u00e6son 2",
+               "xmltv_ns" : "1 . 13 ."
+            },
+            "date" : "2010"
+         },
+         {
+            "subTitle" : {
+               "da" : "Just Go Home"
+            },
+            "channel" : "series.cmore.dk",
+            "start" : "1531992900",
+            "rating" : {
+               "stars" : "6.6 / 9"
+            },
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=94551&seasonid=310691&id=3550611&lid=8"
+            ],
+            "date" : "2010",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "thetvdb.com" : "series/94551",
+               "onscreen" : "Afsnit 15 s\u00e6son 2",
+               "xmltv_ns" : "1 . 14 ."
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Lawrence Trilling"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Bridget Carpenter"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Joel Graham",
+                     "name" : "Sam Jaeger"
+                  },
+                  {
+                     "role" : "Evan Knight",
+                     "name" : "Zachary Knighton"
+                  },
+                  {
+                     "role" : "Jasmine Trussell",
+                     "name" : "Joy Bryant"
+                  },
+                  {
+                     "name" : "Tom Amandes",
+                     "role" : "Dr. Pelikan"
+                  },
+                  {
+                     "role" : "Crosby Braverman",
+                     "name" : "Dax Shepard"
+                  },
+                  {
+                     "role" : "Ed Brooks",
+                     "name" : "David Denman"
+                  },
+                  {
+                     "role" : "Julia Braverman-Graham",
+                     "name" : "Erika Christensen"
+                  },
+                  {
+                     "role" : "Sarah Braverman",
+                     "name" : "Lauren Graham"
+                  },
+                  {
+                     "role" : "Zeek Braverman",
+                     "name" : "Craig T. Nelson"
+                  },
+                  {
+                     "role" : "Kristina Braverman",
+                     "name" : "Monica Potter"
+                  },
+                  {
+                     "role" : "Amber Holt",
+                     "name" : "Mae Whitman"
+                  },
+                  {
+                     "role" : "Max Braverman",
+                     "name" : "Max Burkholder"
+                  },
+                  {
+                     "name" : "Miles Heizer",
+                     "role" : "Drew Holt"
+                  },
+                  {
+                     "name" : "Sarah Ramos",
+                     "role" : "Haddie Braverman"
+                  },
+                  {
+                     "role" : "Berto",
+                     "name" : "Nick Krause"
+                  },
+                  {
+                     "role" : "Sydney Graham",
+                     "name" : "Savannah Paige Rae"
+                  },
+                  {
+                     "role" : "Natalie",
+                     "name" : "Lyndon Smith"
+                  },
+                  {
+                     "role" : "Adam Braverman",
+                     "name" : "Peter Krause"
+                  },
+                  {
+                     "name" : "Tyree Brown",
+                     "role" : "Jabbar Trussell"
+                  },
+                  {
+                     "role" : "Camille Braverman",
+                     "name" : "Bonnie Bedelia"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Parenthood"
+            },
+            "stop" : "1531995300",
+            "desc" : {
+               "da" : "Sarah og Adam diskuterer en situation med Haddie. Amber, Max og Haddie st\u00f8der p\u00e5 Alex, Jasmine f\u00e5r \u00e6gteskabelige r\u00e5d af sin pr\u00e6st, og Drew m\u00f8des med sin far, Seth."
+            }
+         },
+         {
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 16 s\u00e6son 2",
+               "thetvdb.com" : "series/94551",
+               "xmltv_ns" : "1 . 15 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Sam Jaeger",
+                     "role" : "Joel Graham"
+                  },
+                  {
+                     "name" : "Zachary Knighton",
+                     "role" : "Evan Knight"
+                  },
+                  {
+                     "name" : "Joy Bryant",
+                     "role" : "Jasmine Trussell"
+                  },
+                  {
+                     "role" : "Dr. Pelikan",
+                     "name" : "Tom Amandes"
+                  },
+                  {
+                     "role" : "Crosby Braverman",
+                     "name" : "Dax Shepard"
+                  },
+                  {
+                     "name" : "David Denman",
+                     "role" : "Ed Brooks"
+                  },
+                  {
+                     "role" : "Julia Braverman-Graham",
+                     "name" : "Erika Christensen"
+                  },
+                  {
+                     "name" : "Lauren Graham",
+                     "role" : "Sarah Braverman"
+                  },
+                  {
+                     "name" : "Craig T. Nelson",
+                     "role" : "Zeek Braverman"
+                  },
+                  {
+                     "name" : "Monica Potter",
+                     "role" : "Kristina Braverman"
+                  },
+                  {
+                     "role" : "Amber Holt",
+                     "name" : "Mae Whitman"
+                  },
+                  {
+                     "role" : "Max Braverman",
+                     "name" : "Max Burkholder"
+                  },
+                  {
+                     "name" : "Miles Heizer",
+                     "role" : "Drew Holt"
+                  },
+                  {
+                     "name" : "Sarah Ramos",
+                     "role" : "Haddie Braverman"
+                  },
+                  {
+                     "role" : "Berto",
+                     "name" : "Nick Krause"
+                  },
+                  {
+                     "name" : "Savannah Paige Rae",
+                     "role" : "Sydney Graham"
+                  },
+                  {
+                     "role" : "Natalie",
+                     "name" : "Lyndon Smith"
+                  },
+                  {
+                     "role" : "Adam Braverman",
+                     "name" : "Peter Krause"
+                  },
+                  {
+                     "name" : "Tyree Brown",
+                     "role" : "Jabbar Trussell"
+                  },
+                  {
+                     "role" : "Camille Braverman",
+                     "name" : "Bonnie Bedelia"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Lawrence Trilling"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Kerry Ehrin"
+                  }
+               ]
+            },
+            "stop" : "1531998000",
+            "desc" : {
+               "da" : "Kristina og Adam arrangerer f\u00f8dselsdagsfest for Max. Crosby og Jasmine st\u00e5r ved skillevej i deres forhold. Julia og Joel arbejder p\u00e5 at f\u00e5 et barn mere."
+            },
+            "title" : {
+               "da" : "Parenthood"
+            },
+            "date" : "2010",
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=94551&seasonid=310691&id=3550621&lid=8"
+            ],
+            "subTitle" : {
+               "da" : "Amazing Andy & His Wonderful World of Bugs"
+            },
+            "channel" : "series.cmore.dk",
+            "start" : "1531995300",
+            "rating" : {
+               "stars" : "6.7 / 9"
+            }
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=94551&seasonid=310691&id=3677641&lid=8"
+            ],
+            "subTitle" : {
+               "da" : "Do Not Sleep With Your Autistic Nephew's Therapist"
+            },
+            "start" : "1531998000",
+            "channel" : "series.cmore.dk",
+            "rating" : {
+               "stars" : "6.7 / 9"
+            },
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 16 .",
+               "onscreen" : "Afsnit 17 s\u00e6son 2",
+               "thetvdb.com" : "series/94551"
+            },
+            "desc" : {
+               "da" : "Crosby m\u00e5 betale prisen for en fejltagelse. Adam bliver irriteret over Alex' mange bes\u00f8g. Drew f\u00e5r en trist besked af sin far. Kristina og Adam m\u00e5 h\u00e5ndtere et stort problem for Max."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Sam Jaeger",
+                     "role" : "Joel Graham"
+                  },
+                  {
+                     "name" : "Zachary Knighton",
+                     "role" : "Evan Knight"
+                  },
+                  {
+                     "role" : "Jasmine Trussell",
+                     "name" : "Joy Bryant"
+                  },
+                  {
+                     "role" : "Dr. Pelikan",
+                     "name" : "Tom Amandes"
+                  },
+                  {
+                     "role" : "Crosby Braverman",
+                     "name" : "Dax Shepard"
+                  },
+                  {
+                     "name" : "David Denman",
+                     "role" : "Ed Brooks"
+                  },
+                  {
+                     "role" : "Julia Braverman-Graham",
+                     "name" : "Erika Christensen"
+                  },
+                  {
+                     "name" : "Lauren Graham",
+                     "role" : "Sarah Braverman"
+                  },
+                  {
+                     "name" : "Craig T. Nelson",
+                     "role" : "Zeek Braverman"
+                  },
+                  {
+                     "role" : "Kristina Braverman",
+                     "name" : "Monica Potter"
+                  },
+                  {
+                     "name" : "Mae Whitman",
+                     "role" : "Amber Holt"
+                  },
+                  {
+                     "role" : "Max Braverman",
+                     "name" : "Max Burkholder"
+                  },
+                  {
+                     "role" : "Drew Holt",
+                     "name" : "Miles Heizer"
+                  },
+                  {
+                     "role" : "Haddie Braverman",
+                     "name" : "Sarah Ramos"
+                  },
+                  {
+                     "role" : "Berto",
+                     "name" : "Nick Krause"
+                  },
+                  {
+                     "role" : "Sydney Graham",
+                     "name" : "Savannah Paige Rae"
+                  },
+                  {
+                     "name" : "Lyndon Smith",
+                     "role" : "Natalie"
+                  },
+                  {
+                     "name" : "Peter Krause",
+                     "role" : "Adam Braverman"
+                  },
+                  {
+                     "name" : "Tyree Brown",
+                     "role" : "Jabbar Trussell"
+                  },
+                  {
+                     "name" : "Bonnie Bedelia",
+                     "role" : "Camille Braverman"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Jason Katims"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Jason Katims"
+                  }
+               ]
+            },
+            "stop" : "1532000700",
+            "title" : {
+               "da" : "Parenthood"
+            },
+            "date" : "2010"
+         },
+         {
+            "subTitle" : {
+               "da" : "Matthew McConaughey"
+            },
+            "channel" : "series.cmore.dk",
+            "start" : "1532000700",
+            "country" : [
+               "US"
+            ],
+            "date" : "2014",
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 10/60 .",
+               "onscreen" : "Afsnit 11 af 60 s\u00e6son 1"
+            },
+            "title" : {
+               "da" : "Close Up"
+            },
+            "stop" : "1532002200",
+            "desc" : {
+               "da" : "Brad Pitt, Scarlett Johansson og Al Pacino er blandt de i alt 60 Hollywoodstjerner, der portr\u00e6tteres i denne nyproducerede dokumentarserie. Gennem interviews med venner og kolleger og masser af klassiske filmklip, giver serien et sp\u00e6ndende indblik i skuespillernes glamour\u00f8se liv. Del 11/60. Matthew McConaughey."
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Fanny finder en gammel dagbog og f\u00f8ler sig pludselig gammel, da hun mener, at hun havde det sjovere f\u00f8r i tiden. Som en konsekvens begynder hun, Ola, Sol-Britt og Janne at g\u00e5 til dans. Anette begynder til geng\u00e6ld at interessere sig for sl\u00e6gtsforskning."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Grannens fru",
+                     "name" : "Lotta Tejle"
+                  },
+                  {
+                     "role" : "Anette",
+                     "name" : "Mia Sk\u00e4ringer"
+                  },
+                  {
+                     "name" : "Sussie Eriksson",
+                     "role" : "Sol-Britt"
+                  },
+                  {
+                     "role" : "Grannen",
+                     "name" : "Bengt Alsterlind"
+                  },
+                  {
+                     "name" : "Tomas Tjerneld",
+                     "role" : "Janne"
+                  },
+                  {
+                     "role" : "Bea",
+                     "name" : "Hanna Ingman"
+                  },
+                  {
+                     "name" : "Ida Hallquist",
+                     "role" : "Fanny"
+                  },
+                  {
+                     "role" : "Ola",
+                     "name" : "Johan \u00d6stling"
+                  },
+                  {
+                     "role" : "Pontus",
+                     "name" : "Bj\u00f6rn Starrin"
+                  }
+               ]
+            },
+            "stop" : "1532003700",
+            "title" : {
+               "da" : "Ack V\u00e4rmland"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 6 .",
+               "onscreen" : "Afsnit 7 s\u00e6son 2",
+               "thetvdb.com" : "series/293174"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "date" : "2015",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=293174&seasonid=732542&id=6424345&lid=10"
+            ],
+            "country" : [
+               "SE"
+            ],
+            "channel" : "series.cmore.dk",
+            "start" : "1532002200"
+         },
+         {
+            "start" : "1532003700",
+            "channel" : "series.cmore.dk",
+            "country" : [
+               "SE"
+            ],
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=293174&seasonid=732542&id=6424351&lid=10"
+            ],
+            "date" : "2015",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Lotta Tejle",
+                     "role" : "Grannens fru"
+                  },
+                  {
+                     "name" : "Mia Sk\u00e4ringer",
+                     "role" : "Anette"
+                  },
+                  {
+                     "role" : "Sol-Britt",
+                     "name" : "Sussie Eriksson"
+                  },
+                  {
+                     "name" : "Bengt Alsterlind",
+                     "role" : "Grannen"
+                  },
+                  {
+                     "role" : "Janne",
+                     "name" : "Tomas Tjerneld"
+                  },
+                  {
+                     "name" : "Hanna Ingman",
+                     "role" : "Bea"
+                  },
+                  {
+                     "role" : "Fanny",
+                     "name" : "Ida Hallquist"
+                  },
+                  {
+                     "role" : "Ola",
+                     "name" : "Johan \u00d6stling"
+                  },
+                  {
+                     "name" : "Bj\u00f6rn Starrin",
+                     "role" : "Pontus"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Anette beder Pontus om at v\u00e6re babysitter, og sammen med Ola tager han b\u00f8rnene med i biografen for at se en h\u00e6sbl\u00e6sende actionfilm. Fannys ven Bea kommer p\u00e5 bes\u00f8g med sin franske k\u00e6reste Jean-Luc."
+            },
+            "stop" : "1532004900",
+            "title" : {
+               "da" : "Ack V\u00e4rmland"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 7 .",
+               "onscreen" : "Afsnit 8 s\u00e6son 2",
+               "thetvdb.com" : "series/293174"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Rise"
+            },
+            "stop" : "1532007300",
+            "desc" : {
+               "da" : "Simons f\u00f8lelser p\u00e5virker hans pr\u00e6station p\u00e5 scenen, og Maashous modtager store nyheder. Gwens familiestridigheder f\u00f8rer til en vild aften i byen, og Michael fors\u00f8ger at puste nyt liv i et gammelt venskab."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 6 .",
+               "thetvdb.com" : "series/323115",
+               "onscreen" : "Afsnit 7 s\u00e6son 1"
+            },
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "date" : "2017",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=323115&seasonid=697453&id=5947245&lid=10"
+            ],
+            "country" : [
+               "US"
+            ],
+            "rating" : {
+               "stars" : "9 / 9"
+            },
+            "start" : "1532004900",
+            "channel" : "series.cmore.dk",
+            "subTitle" : {
+               "da" : "Poisoned River"
+            }
+         },
+         {
+            "rating" : {
+               "stars" : "9 / 9"
+            },
+            "channel" : "series.cmore.dk",
+            "start" : "1532007300",
+            "subTitle" : {
+               "da" : "Warriors Rising"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=323115&seasonid=697453&id=5964418&lid=10"
+            ],
+            "country" : [
+               "US"
+            ],
+            "date" : "2017",
+            "desc" : {
+               "da" : "Hele skolen f\u00e5r kendskab til Lous produktion via uofficielle kanaler, da et link indeholdende en meget provokerende video bliver delt vidt og bredt. Robbie kastes ud i en tillidskrise, og Maashous grubler over en famili\u00e6r genforening, der tr\u00e6kker t\u00e6nder ud."
+            },
+            "title" : {
+               "da" : "Rise"
+            },
+            "stop" : "1532010000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8 s\u00e6son 1",
+               "thetvdb.com" : "series/323115",
+               "xmltv_ns" : "0 . 7 ."
+            }
+         },
+         {
+            "title" : {
+               "da" : "Close Up"
+            },
+            "stop" : "1532011500",
+            "desc" : {
+               "da" : "Brad Pitt, Scarlett Johansson og Al Pacino er blandt de i alt 60 Hollywoodstjerner, der portr\u00e6tteres i denne nyproducerede dokumentarserie. Gennem interviews med venner og kolleger og masser af klassiske filmklip, giver serien et sp\u00e6ndende indblik i skuespillernes glamour\u00f8se liv. Del 15/60. Jack Nicholson."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 14/60 .",
+               "onscreen" : "Afsnit 15 af 60 s\u00e6son 1"
+            },
+            "date" : "2014",
+            "country" : [
+               "US"
+            ],
+            "start" : "1532010000",
+            "channel" : "series.cmore.dk",
+            "subTitle" : {
+               "da" : "Jack Nicholson"
+            }
+         },
+         {
+            "start" : "1532011500",
+            "channel" : "series.cmore.dk",
+            "subTitle" : {
+               "da" : "Meet the New Boss"
+            },
+            "rating" : {
+               "stars" : "6.5 / 9"
+            },
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=94551&seasonid=310691&id=3412861&lid=8"
+            ],
+            "date" : "2010",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Sarah Watson"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Lawrence Trilling"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Joel Graham",
+                     "name" : "Sam Jaeger"
+                  },
+                  {
+                     "name" : "Zachary Knighton",
+                     "role" : "Evan Knight"
+                  },
+                  {
+                     "role" : "Jasmine Trussell",
+                     "name" : "Joy Bryant"
+                  },
+                  {
+                     "name" : "Tom Amandes",
+                     "role" : "Dr. Pelikan"
+                  },
+                  {
+                     "role" : "Crosby Braverman",
+                     "name" : "Dax Shepard"
+                  },
+                  {
+                     "name" : "David Denman",
+                     "role" : "Ed Brooks"
+                  },
+                  {
+                     "role" : "Julia Braverman-Graham",
+                     "name" : "Erika Christensen"
+                  },
+                  {
+                     "role" : "Sarah Braverman",
+                     "name" : "Lauren Graham"
+                  },
+                  {
+                     "role" : "Zeek Braverman",
+                     "name" : "Craig T. Nelson"
+                  },
+                  {
+                     "name" : "Monica Potter",
+                     "role" : "Kristina Braverman"
+                  },
+                  {
+                     "role" : "Amber Holt",
+                     "name" : "Mae Whitman"
+                  },
+                  {
+                     "role" : "Max Braverman",
+                     "name" : "Max Burkholder"
+                  },
+                  {
+                     "role" : "Drew Holt",
+                     "name" : "Miles Heizer"
+                  },
+                  {
+                     "role" : "Haddie Braverman",
+                     "name" : "Sarah Ramos"
+                  },
+                  {
+                     "role" : "Berto",
+                     "name" : "Nick Krause"
+                  },
+                  {
+                     "name" : "Savannah Paige Rae",
+                     "role" : "Sydney Graham"
+                  },
+                  {
+                     "name" : "Lyndon Smith",
+                     "role" : "Natalie"
+                  },
+                  {
+                     "name" : "Peter Krause",
+                     "role" : "Adam Braverman"
+                  },
+                  {
+                     "name" : "Tyree Brown",
+                     "role" : "Jabbar Trussell"
+                  },
+                  {
+                     "role" : "Camille Braverman",
+                     "name" : "Bonnie Bedelia"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Parenthood"
+            },
+            "stop" : "1532014200",
+            "desc" : {
+               "da" : "Adam fors\u00f8ger at v\u00e6nne sig til sin nye chef og er samtidig bekymret for sit job. Crosby fors\u00f8ger at arrangere en forestilling p\u00e5 Jabbars skole, og Amber har ogs\u00e5 sceneplaner, men modtager kritik fra uventet kant."
+            },
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/94551",
+               "onscreen" : "Afsnit 12 s\u00e6son 2",
+               "xmltv_ns" : "1 . 11 ."
+            }
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=94551&seasonid=310691&id=3456841&lid=8"
+            ],
+            "start" : "1532014200",
+            "channel" : "series.cmore.dk",
+            "subTitle" : {
+               "da" : "Opening Night"
+            },
+            "rating" : {
+               "stars" : "6.7 / 9"
+            },
+            "title" : {
+               "da" : "Parenthood"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Joel Graham",
+                     "name" : "Sam Jaeger"
+                  },
+                  {
+                     "name" : "Zachary Knighton",
+                     "role" : "Evan Knight"
+                  },
+                  {
+                     "role" : "Jasmine Trussell",
+                     "name" : "Joy Bryant"
+                  },
+                  {
+                     "role" : "Dr. Pelikan",
+                     "name" : "Tom Amandes"
+                  },
+                  {
+                     "role" : "Crosby Braverman",
+                     "name" : "Dax Shepard"
+                  },
+                  {
+                     "name" : "David Denman",
+                     "role" : "Ed Brooks"
+                  },
+                  {
+                     "role" : "Julia Braverman-Graham",
+                     "name" : "Erika Christensen"
+                  },
+                  {
+                     "role" : "Sarah Braverman",
+                     "name" : "Lauren Graham"
+                  },
+                  {
+                     "name" : "Craig T. Nelson",
+                     "role" : "Zeek Braverman"
+                  },
+                  {
+                     "name" : "Monica Potter",
+                     "role" : "Kristina Braverman"
+                  },
+                  {
+                     "role" : "Amber Holt",
+                     "name" : "Mae Whitman"
+                  },
+                  {
+                     "name" : "Max Burkholder",
+                     "role" : "Max Braverman"
+                  },
+                  {
+                     "role" : "Drew Holt",
+                     "name" : "Miles Heizer"
+                  },
+                  {
+                     "role" : "Haddie Braverman",
+                     "name" : "Sarah Ramos"
+                  },
+                  {
+                     "role" : "Berto",
+                     "name" : "Nick Krause"
+                  },
+                  {
+                     "role" : "Sydney Graham",
+                     "name" : "Savannah Paige Rae"
+                  },
+                  {
+                     "name" : "Lyndon Smith",
+                     "role" : "Natalie"
+                  },
+                  {
+                     "name" : "Peter Krause",
+                     "role" : "Adam Braverman"
+                  },
+                  {
+                     "role" : "Jabbar Trussell",
+                     "name" : "Tyree Brown"
+                  },
+                  {
+                     "name" : "Bonnie Bedelia",
+                     "role" : "Camille Braverman"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Monica Henderson"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Ken Whittingham"
+                  }
+               ]
+            },
+            "stop" : "1532016600",
+            "desc" : {
+               "da" : "Kristina og Adam opdager, at Haddie h\u00e6nger ud sammen med Alex og forbyder hende at se mere til ham. Sarah f\u00e5r en udfordring, da Drew fort\u00e6ller ham, at han skal s\u00e6lge gavepapir til en v\u00e6rdi af 500 dollars. Jabbar har f\u00e5et sceneskr\u00e6k forud for skoleforestillingen."
+            },
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 12 .",
+               "onscreen" : "Afsnit 13 s\u00e6son 2",
+               "thetvdb.com" : "series/94551"
+            },
+            "date" : "2010"
+         },
+         {
+            "rating" : {
+               "stars" : "6 / 9"
+            },
+            "channel" : "series.cmore.dk",
+            "start" : "1532016600",
+            "subTitle" : {
+               "da" : "A House Divided"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=94551&seasonid=310691&id=3506161&lid=8"
+            ],
+            "country" : [
+               "US"
+            ],
+            "date" : "2010",
+            "stop" : "1532019000",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Joel Graham",
+                     "name" : "Sam Jaeger"
+                  },
+                  {
+                     "role" : "Evan Knight",
+                     "name" : "Zachary Knighton"
+                  },
+                  {
+                     "role" : "Jasmine Trussell",
+                     "name" : "Joy Bryant"
+                  },
+                  {
+                     "role" : "Dr. Pelikan",
+                     "name" : "Tom Amandes"
+                  },
+                  {
+                     "role" : "Crosby Braverman",
+                     "name" : "Dax Shepard"
+                  },
+                  {
+                     "name" : "David Denman",
+                     "role" : "Ed Brooks"
+                  },
+                  {
+                     "name" : "Erika Christensen",
+                     "role" : "Julia Braverman-Graham"
+                  },
+                  {
+                     "name" : "Lauren Graham",
+                     "role" : "Sarah Braverman"
+                  },
+                  {
+                     "role" : "Zeek Braverman",
+                     "name" : "Craig T. Nelson"
+                  },
+                  {
+                     "name" : "Monica Potter",
+                     "role" : "Kristina Braverman"
+                  },
+                  {
+                     "name" : "Mae Whitman",
+                     "role" : "Amber Holt"
+                  },
+                  {
+                     "name" : "Max Burkholder",
+                     "role" : "Max Braverman"
+                  },
+                  {
+                     "role" : "Drew Holt",
+                     "name" : "Miles Heizer"
+                  },
+                  {
+                     "role" : "Haddie Braverman",
+                     "name" : "Sarah Ramos"
+                  },
+                  {
+                     "role" : "Berto",
+                     "name" : "Nick Krause"
+                  },
+                  {
+                     "name" : "Savannah Paige Rae",
+                     "role" : "Sydney Graham"
+                  },
+                  {
+                     "role" : "Natalie",
+                     "name" : "Lyndon Smith"
+                  },
+                  {
+                     "name" : "Peter Krause",
+                     "role" : "Adam Braverman"
+                  },
+                  {
+                     "role" : "Jabbar Trussell",
+                     "name" : "Tyree Brown"
+                  },
+                  {
+                     "role" : "Camille Braverman",
+                     "name" : "Bonnie Bedelia"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Ken Whittingham"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Tyler Bensinger"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Kristina og Adam n\u00e6gter Haddie at m\u00f8des med Alex, s\u00e5 hun flytter ind hos sine bedstefor\u00e6ldre. Sarah beder om l\u00f8nforh\u00f8jelse, s\u00e5 hun kan betale Ambers skole. Max og Zeek tager p\u00e5 en campingtur, der forl\u00f8ber alt andet end glat. Julia organiserer et polterabend for Jasmine."
+            },
+            "title" : {
+               "da" : "Parenthood"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 13 .",
+               "thetvdb.com" : "series/94551",
+               "onscreen" : "Afsnit 14 s\u00e6son 2"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            }
+         },
+         {
+            "rating" : {
+               "stars" : "6.6 / 9"
+            },
+            "subTitle" : {
+               "da" : "Just Go Home"
+            },
+            "start" : "1532019000",
+            "channel" : "series.cmore.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=94551&seasonid=310691&id=3550611&lid=8"
+            ],
+            "country" : [
+               "US"
+            ],
+            "date" : "2010",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "thetvdb.com" : "series/94551",
+               "onscreen" : "Afsnit 15 s\u00e6son 2",
+               "xmltv_ns" : "1 . 14 ."
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Lawrence Trilling"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Bridget Carpenter"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Sam Jaeger",
+                     "role" : "Joel Graham"
+                  },
+                  {
+                     "name" : "Zachary Knighton",
+                     "role" : "Evan Knight"
+                  },
+                  {
+                     "name" : "Joy Bryant",
+                     "role" : "Jasmine Trussell"
+                  },
+                  {
+                     "role" : "Dr. Pelikan",
+                     "name" : "Tom Amandes"
+                  },
+                  {
+                     "role" : "Crosby Braverman",
+                     "name" : "Dax Shepard"
+                  },
+                  {
+                     "role" : "Ed Brooks",
+                     "name" : "David Denman"
+                  },
+                  {
+                     "name" : "Erika Christensen",
+                     "role" : "Julia Braverman-Graham"
+                  },
+                  {
+                     "role" : "Sarah Braverman",
+                     "name" : "Lauren Graham"
+                  },
+                  {
+                     "name" : "Craig T. Nelson",
+                     "role" : "Zeek Braverman"
+                  },
+                  {
+                     "role" : "Kristina Braverman",
+                     "name" : "Monica Potter"
+                  },
+                  {
+                     "role" : "Amber Holt",
+                     "name" : "Mae Whitman"
+                  },
+                  {
+                     "name" : "Max Burkholder",
+                     "role" : "Max Braverman"
+                  },
+                  {
+                     "role" : "Drew Holt",
+                     "name" : "Miles Heizer"
+                  },
+                  {
+                     "name" : "Sarah Ramos",
+                     "role" : "Haddie Braverman"
+                  },
+                  {
+                     "role" : "Berto",
+                     "name" : "Nick Krause"
+                  },
+                  {
+                     "name" : "Savannah Paige Rae",
+                     "role" : "Sydney Graham"
+                  },
+                  {
+                     "name" : "Lyndon Smith",
+                     "role" : "Natalie"
+                  },
+                  {
+                     "role" : "Adam Braverman",
+                     "name" : "Peter Krause"
+                  },
+                  {
+                     "role" : "Jabbar Trussell",
+                     "name" : "Tyree Brown"
+                  },
+                  {
+                     "name" : "Bonnie Bedelia",
+                     "role" : "Camille Braverman"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Parenthood"
+            },
+            "desc" : {
+               "da" : "Sarah og Adam diskuterer en situation med Haddie. Amber, Max og Haddie st\u00f8der p\u00e5 Alex, Jasmine f\u00e5r \u00e6gteskabelige r\u00e5d af sin pr\u00e6st, og Drew m\u00f8des med sin far, Seth."
+            },
+            "stop" : "1532021700"
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=94551&seasonid=310691&id=3550621&lid=8"
+            ],
+            "subTitle" : {
+               "da" : "Amazing Andy & His Wonderful World of Bugs"
+            },
+            "start" : "1532021700",
+            "channel" : "series.cmore.dk",
+            "rating" : {
+               "stars" : "6.7 / 9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "thetvdb.com" : "series/94551",
+               "onscreen" : "Afsnit 16 s\u00e6son 2",
+               "xmltv_ns" : "1 . 15 ."
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Lawrence Trilling"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Kerry Ehrin"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Sam Jaeger",
+                     "role" : "Joel Graham"
+                  },
+                  {
+                     "name" : "Zachary Knighton",
+                     "role" : "Evan Knight"
+                  },
+                  {
+                     "role" : "Jasmine Trussell",
+                     "name" : "Joy Bryant"
+                  },
+                  {
+                     "role" : "Dr. Pelikan",
+                     "name" : "Tom Amandes"
+                  },
+                  {
+                     "name" : "Dax Shepard",
+                     "role" : "Crosby Braverman"
+                  },
+                  {
+                     "name" : "David Denman",
+                     "role" : "Ed Brooks"
+                  },
+                  {
+                     "name" : "Erika Christensen",
+                     "role" : "Julia Braverman-Graham"
+                  },
+                  {
+                     "name" : "Lauren Graham",
+                     "role" : "Sarah Braverman"
+                  },
+                  {
+                     "name" : "Craig T. Nelson",
+                     "role" : "Zeek Braverman"
+                  },
+                  {
+                     "role" : "Kristina Braverman",
+                     "name" : "Monica Potter"
+                  },
+                  {
+                     "name" : "Mae Whitman",
+                     "role" : "Amber Holt"
+                  },
+                  {
+                     "role" : "Max Braverman",
+                     "name" : "Max Burkholder"
+                  },
+                  {
+                     "role" : "Drew Holt",
+                     "name" : "Miles Heizer"
+                  },
+                  {
+                     "name" : "Sarah Ramos",
+                     "role" : "Haddie Braverman"
+                  },
+                  {
+                     "name" : "Nick Krause",
+                     "role" : "Berto"
+                  },
+                  {
+                     "role" : "Sydney Graham",
+                     "name" : "Savannah Paige Rae"
+                  },
+                  {
+                     "role" : "Natalie",
+                     "name" : "Lyndon Smith"
+                  },
+                  {
+                     "name" : "Peter Krause",
+                     "role" : "Adam Braverman"
+                  },
+                  {
+                     "name" : "Tyree Brown",
+                     "role" : "Jabbar Trussell"
+                  },
+                  {
+                     "name" : "Bonnie Bedelia",
+                     "role" : "Camille Braverman"
+                  }
+               ]
+            },
+            "stop" : "1532024100",
+            "title" : {
+               "da" : "Parenthood"
+            },
+            "desc" : {
+               "da" : "Kristina og Adam arrangerer f\u00f8dselsdagsfest for Max. Crosby og Jasmine st\u00e5r ved skillevej i deres forhold. Julia og Joel arbejder p\u00e5 at f\u00e5 et barn mere."
+            },
+            "date" : "2010"
+         },
+         {
+            "date" : "2010",
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 16 .",
+               "thetvdb.com" : "series/94551",
+               "onscreen" : "Afsnit 17 s\u00e6son 2"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Joel Graham",
+                     "name" : "Sam Jaeger"
+                  },
+                  {
+                     "name" : "Zachary Knighton",
+                     "role" : "Evan Knight"
+                  },
+                  {
+                     "name" : "Joy Bryant",
+                     "role" : "Jasmine Trussell"
+                  },
+                  {
+                     "name" : "Tom Amandes",
+                     "role" : "Dr. Pelikan"
+                  },
+                  {
+                     "role" : "Crosby Braverman",
+                     "name" : "Dax Shepard"
+                  },
+                  {
+                     "role" : "Ed Brooks",
+                     "name" : "David Denman"
+                  },
+                  {
+                     "name" : "Erika Christensen",
+                     "role" : "Julia Braverman-Graham"
+                  },
+                  {
+                     "role" : "Sarah Braverman",
+                     "name" : "Lauren Graham"
+                  },
+                  {
+                     "role" : "Zeek Braverman",
+                     "name" : "Craig T. Nelson"
+                  },
+                  {
+                     "role" : "Kristina Braverman",
+                     "name" : "Monica Potter"
+                  },
+                  {
+                     "name" : "Mae Whitman",
+                     "role" : "Amber Holt"
+                  },
+                  {
+                     "role" : "Max Braverman",
+                     "name" : "Max Burkholder"
+                  },
+                  {
+                     "role" : "Drew Holt",
+                     "name" : "Miles Heizer"
+                  },
+                  {
+                     "role" : "Haddie Braverman",
+                     "name" : "Sarah Ramos"
+                  },
+                  {
+                     "name" : "Nick Krause",
+                     "role" : "Berto"
+                  },
+                  {
+                     "role" : "Sydney Graham",
+                     "name" : "Savannah Paige Rae"
+                  },
+                  {
+                     "name" : "Lyndon Smith",
+                     "role" : "Natalie"
+                  },
+                  {
+                     "name" : "Peter Krause",
+                     "role" : "Adam Braverman"
+                  },
+                  {
+                     "role" : "Jabbar Trussell",
+                     "name" : "Tyree Brown"
+                  },
+                  {
+                     "role" : "Camille Braverman",
+                     "name" : "Bonnie Bedelia"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Jason Katims"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Jason Katims"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Crosby m\u00e5 betale prisen for en fejltagelse. Adam bliver irriteret over Alex' mange bes\u00f8g. Drew f\u00e5r en trist besked af sin far. Kristina og Adam m\u00e5 h\u00e5ndtere et stort problem for Max."
+            },
+            "stop" : "1532026800",
+            "title" : {
+               "da" : "Parenthood"
+            },
+            "subTitle" : {
+               "da" : "Do Not Sleep With Your Autistic Nephew's Therapist"
+            },
+            "start" : "1532024100",
+            "channel" : "series.cmore.dk",
+            "rating" : {
+               "stars" : "6.7 / 9"
+            },
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=94551&seasonid=310691&id=3677641&lid=8"
+            ]
+         },
+         {
+            "subTitle" : {
+               "da" : "Evaristo Salas: The Informant"
+            },
+            "channel" : "series.cmore.dk",
+            "start" : "1532026800",
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=345189&seasonid=758177&id=6622388&lid=10"
+            ],
+            "date" : "2018",
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "thetvdb.com" : "series/345189"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Den nu pensionerede chefefterforsker Jim Rivard beskriver, hvordan det gik til, at mistanken faldt p\u00e5 Salas. Sp\u00f8rgsm\u00e5lene st\u00e5r snart i k\u00f8, og da Rivards kilde endelig st\u00e5r frem og giver sin version af historien, f\u00e5r teamet et chok."
+            },
+            "stop" : "1532029800",
+            "title" : {
+               "da" : "Wrong Man"
+            }
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=148581&seasonid=621186&id=5236098&lid=10"
+            ],
+            "country" : [
+               "GB"
+            ],
+            "rating" : {
+               "stars" : "7.6 / 9"
+            },
+            "subTitle" : {
+               "da" : "Legacy: Episode 7"
+            },
+            "channel" : "series.cmore.dk",
+            "start" : "1532029800",
+            "episodeNum" : {
+               "xmltv_ns" : "4 . 6 .",
+               "onscreen" : "Afsnit 7 s\u00e6son 5",
+               "thetvdb.com" : "series/148581"
+            },
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "stop" : "1532032500",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Rhona Mitra",
+                     "role" : "Maj. Rachel Dalton"
+                  },
+                  {
+                     "role" : "Layla Thompson",
+                     "name" : "Jodhi May"
+                  },
+                  {
+                     "name" : "Richard Armitage",
+                     "role" : "John Porter"
+                  },
+                  {
+                     "name" : "Shelley Conn",
+                     "role" : "Danni Prendiville"
+                  },
+                  {
+                     "role" : "Lt. Col. Philip Locke",
+                     "name" : "Robson Green"
+                  },
+                  {
+                     "name" : "Rhashan Stone",
+                     "role" : "Major Oliver Sinclair"
+                  },
+                  {
+                     "role" : "Sgt. Damien Scott",
+                     "name" : "Sullivan Stapleton"
+                  },
+                  {
+                     "name" : "Roxanne McKee",
+                     "role" : "Natalie Roberts"
+                  },
+                  {
+                     "role" : "LCpl. Will Jensen",
+                     "name" : "Phil Dunster"
+                  },
+                  {
+                     "role" : "Sgt. Samuel Wyatt",
+                     "name" : "Daniel MacPherson"
+                  },
+                  {
+                     "name" : "Philip Winchester",
+                     "role" : "Sgt. Michael Stonebridge"
+                  },
+                  {
+                     "name" : "Warren Brown",
+                     "role" : "Sgt. Daniel \"Mac\" Macallister"
+                  },
+                  {
+                     "name" : "Andrew Lincoln",
+                     "role" : "Hugh Collinson"
+                  },
+                  {
+                     "name" : "Michelle Lukes",
+                     "role" : "Sgt. Julia Richmond"
+                  },
+                  {
+                     "name" : "Colin Salmon",
+                     "role" : "James Middleton"
+                  },
+                  {
+                     "role" : "Gracie Novin",
+                     "name" : "Alin Sumarwata"
+                  },
+                  {
+                     "role" : "Col. Eleanor Grant",
+                     "name" : "Amanda Mealing"
+                  },
+                  {
+                     "name" : "Lyne Renee",
+                     "role" : "Rebecca"
+                  },
+                  {
+                     "name" : "Nina Sosanya",
+                     "role" : "Col. Adeena Donovan"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Strike Back"
+            },
+            "desc" : {
+               "da" : "Section 20 leder efter den tidligere CIA-kontakt Rachel Sheridan i et fors\u00f8g p\u00e5 at holde trit med Lowry. Wyatt bearbejder Rachels datter Lila, samtidig bringer Jensen sig selv i fare i sine bestr\u00e6belser p\u00e5 at n\u00e6rme sig Novin."
+            },
+            "date" : "2010"
+         },
+         {
+            "subTitle" : {
+               "da" : "Legacy: Episode 8"
+            },
+            "channel" : "series.cmore.dk",
+            "start" : "1532032500",
+            "rating" : {
+               "stars" : "7.6 / 9"
+            },
+            "country" : [
+               "GB"
+            ],
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=148581&seasonid=621186&id=5236099&lid=10"
+            ],
+            "date" : "2010",
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "4 . 7 .",
+               "thetvdb.com" : "series/148581",
+               "onscreen" : "Afsnit 8 s\u00e6son 5"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "desc" : {
+               "da" : "Mac og Wyatt sporer sig ind p\u00e5 en terrorist, der har interesse for b\u00e5de Lowry og oberst Parker. Jensen, der er tilbage p\u00e5 arbejdet under Donovans skrappe ledelse, fors\u00f8ger at bryde en vigtig kode."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Rhona Mitra",
+                     "role" : "Maj. Rachel Dalton"
+                  },
+                  {
+                     "role" : "Layla Thompson",
+                     "name" : "Jodhi May"
+                  },
+                  {
+                     "role" : "John Porter",
+                     "name" : "Richard Armitage"
+                  },
+                  {
+                     "name" : "Shelley Conn",
+                     "role" : "Danni Prendiville"
+                  },
+                  {
+                     "name" : "Robson Green",
+                     "role" : "Lt. Col. Philip Locke"
+                  },
+                  {
+                     "role" : "Major Oliver Sinclair",
+                     "name" : "Rhashan Stone"
+                  },
+                  {
+                     "name" : "Sullivan Stapleton",
+                     "role" : "Sgt. Damien Scott"
+                  },
+                  {
+                     "name" : "Roxanne McKee",
+                     "role" : "Natalie Roberts"
+                  },
+                  {
+                     "role" : "LCpl. Will Jensen",
+                     "name" : "Phil Dunster"
+                  },
+                  {
+                     "name" : "Daniel MacPherson",
+                     "role" : "Sgt. Samuel Wyatt"
+                  },
+                  {
+                     "name" : "Philip Winchester",
+                     "role" : "Sgt. Michael Stonebridge"
+                  },
+                  {
+                     "name" : "Warren Brown",
+                     "role" : "Sgt. Daniel \"Mac\" Macallister"
+                  },
+                  {
+                     "role" : "Hugh Collinson",
+                     "name" : "Andrew Lincoln"
+                  },
+                  {
+                     "role" : "Sgt. Julia Richmond",
+                     "name" : "Michelle Lukes"
+                  },
+                  {
+                     "name" : "Colin Salmon",
+                     "role" : "James Middleton"
+                  },
+                  {
+                     "name" : "Alin Sumarwata",
+                     "role" : "Gracie Novin"
+                  },
+                  {
+                     "name" : "Amanda Mealing",
+                     "role" : "Col. Eleanor Grant"
+                  },
+                  {
+                     "name" : "Lyne Renee",
+                     "role" : "Rebecca"
+                  },
+                  {
+                     "role" : "Col. Adeena Donovan",
+                     "name" : "Nina Sosanya"
+                  }
+               ]
+            },
+            "stop" : "1532035200",
+            "title" : {
+               "da" : "Strike Back"
+            }
+         },
+         {
+            "stop" : "1532037900",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Paolo Sorrentino"
+                  },
+                  {
+                     "name" : "Tony Grisoni"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Paolo Sorrentino"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Ludivine Sagnier",
+                     "role" : "Esther Aubry"
+                  },
+                  {
+                     "name" : "James Cromwell",
+                     "role" : "Cardinal Michael Spencer"
+                  },
+                  {
+                     "name" : "Toni Bertorelli",
+                     "role" : "Cardinal Caltanissetta"
+                  },
+                  {
+                     "name" : "Diane Keaton",
+                     "role" : "Sister Mary"
+                  },
+                  {
+                     "name" : "Javier C\u00e1mara",
+                     "role" : "Monsignor Bernardo Gutierrez"
+                  },
+                  {
+                     "role" : "Cardinal Aguirre",
+                     "name" : "Ram\u00f3n Garc\u00eda"
+                  },
+                  {
+                     "name" : "Silvio Orlando",
+                     "role" : "Cardinal Angelo Voiello"
+                  },
+                  {
+                     "name" : "Jude Law",
+                     "role" : "Pope Pius XIII"
+                  },
+                  {
+                     "name" : "Scott Shepherd",
+                     "role" : "Cardinal Andrew Dussolier"
+                  },
+                  {
+                     "name" : "C\u00e9cile de France",
+                     "role" : "Sofia Dubois"
+                  },
+                  {
+                     "role" : "Father Valente",
+                     "name" : "Ignazio Oliva"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "The Young Pope"
+            },
+            "desc" : {
+               "da" : "En ung mand mist\u00e6nkt for at v\u00e6re homoseksuel beg\u00e5r selvmord efter beskeden om, at han ikke kan blive pr\u00e6st, og Dussolier f\u00f8ler sig medskyldig. Lenny begynder at tro, at hans tid som pave snart er forbi."
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/313969",
+               "onscreen" : "Afsnit 7 s\u00e6son 1",
+               "xmltv_ns" : "0 . 6 ."
+            },
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Mini"
+               ]
+            },
+            "date" : "2016",
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=313969&seasonid=675730&id=5795170&lid=10"
+            ],
+            "channel" : "series.cmore.dk",
+            "start" : "1532035200",
+            "subTitle" : {
+               "da" : "Episode 7"
+            }
+         },
+         {
+            "date" : "2016",
+            "title" : {
+               "da" : "The Young Pope"
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Paolo Sorrentino"
+                  },
+                  {
+                     "name" : "Tony Grisoni"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Paolo Sorrentino"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Esther Aubry",
+                     "name" : "Ludivine Sagnier"
+                  },
+                  {
+                     "name" : "James Cromwell",
+                     "role" : "Cardinal Michael Spencer"
+                  },
+                  {
+                     "role" : "Cardinal Caltanissetta",
+                     "name" : "Toni Bertorelli"
+                  },
+                  {
+                     "name" : "Diane Keaton",
+                     "role" : "Sister Mary"
+                  },
+                  {
+                     "name" : "Javier C\u00e1mara",
+                     "role" : "Monsignor Bernardo Gutierrez"
+                  },
+                  {
+                     "role" : "Cardinal Aguirre",
+                     "name" : "Ram\u00f3n Garc\u00eda"
+                  },
+                  {
+                     "role" : "Cardinal Angelo Voiello",
+                     "name" : "Silvio Orlando"
+                  },
+                  {
+                     "role" : "Pope Pius XIII",
+                     "name" : "Jude Law"
+                  },
+                  {
+                     "role" : "Cardinal Andrew Dussolier",
+                     "name" : "Scott Shepherd"
+                  },
+                  {
+                     "name" : "C\u00e9cile de France",
+                     "role" : "Sofia Dubois"
+                  },
+                  {
+                     "role" : "Father Valente",
+                     "name" : "Ignazio Oliva"
+                  }
+               ]
+            },
+            "stop" : "1532041200",
+            "desc" : {
+               "da" : "Pius XIII drager noget overraskende af sted p\u00e5 en rejse til Afrika. Der m\u00f8der han den h\u00f8jt skattede mission\u00e6r s\u00f8ster Antonia, som ikke bryder som Lenny og hans politiske dagsorden. S\u00f8ster Mary og Voiello bliver forsonet."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 7 .",
+               "thetvdb.com" : "series/313969",
+               "onscreen" : "Afsnit 8 s\u00e6son 1"
+            },
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Mini"
+               ]
+            },
+            "channel" : "series.cmore.dk",
+            "start" : "1532037900",
+            "subTitle" : {
+               "da" : "Episode 8"
+            },
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=313969&seasonid=675730&id=5795171&lid=10"
+            ]
+         },
+         {
+            "subTitle" : {
+               "da" : "N\u00f6la"
+            },
+            "start" : "1532041200",
+            "channel" : "series.cmore.dk",
+            "country" : [
+               "GB"
+            ],
+            "date" : "2017",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 af 6 s\u00e6son 1",
+               "xmltv_ns" : "0 . 3/6 ."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Steve Coogan"
+                  },
+                  {
+                     "name" : "Rob Brydon"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "The Trip to Spain"
+            },
+            "stop" : "1532043000",
+            "desc" : {
+               "da" : "Steve og Rob spiser frokost p\u00e5 N\u00f6la i Sig\u00fcenza og k\u00f8rer derefter videre til deres hotel i den storsl\u00e5ede by Cuenca. Steve ringer til sin agent, mens Rob f\u00e5r et opkald fra Matt, Steves tidligere agent, der nu vil have Rob til at hyre ham."
+            }
+         },
+         {
+            "date" : "2017",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 4/6 .",
+               "onscreen" : "Afsnit 5 af 6 s\u00e6son 1"
+            },
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Steve Coogan"
+                  },
+                  {
+                     "name" : "Rob Brydon"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Steve og Rob m\u00f8des med Claire og Yolanda til fotografering og frokost p\u00e5 Parador de Almagro i La Mancha. Dagen slutter p\u00e5 Parador de Granada ved Alhambra, hvor Steve inviterer Yolanda p\u00e5 en drink."
+            },
+            "title" : {
+               "da" : "The Trip to Spain"
+            },
+            "stop" : "1532044800",
+            "subTitle" : {
+               "da" : "Parador de Almagro"
+            },
+            "channel" : "series.cmore.dk",
+            "start" : "1532043000",
+            "country" : [
+               "GB"
+            ]
+         }
+      ]
+   }
+}

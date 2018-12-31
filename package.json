@@ -1,25 +1,44 @@
 {
     "name": "tvguide",
-    "version": "2.379.0",
+    "version": "2.459.0",
     "description": "The goal of this project is to make a tv guide there loads within 500ms on a mobile device (my personal high-end phone).",
     "main": "webpack.config.js",
-    "dependencies": {},
+    "dependencies": {
+        "express": "4.*",
+        "jimp": "^0.2.28",
+        "moment": "^2.20.1",
+        "request": "^2.83.0",
+        "request-promise-native": "^1.0.5",
+        "xml2js": "^0.4.19",
+        "spdy": "^4.0.0",
+        "joi": "14.*"
+    },
     "devDependencies": {
         "babel-core": "^6.24.1",
         "babel-loader": "^7.0.0",
-        "babili-webpack-plugin": "^0.1.1",
         "babel-preset-es2015": "^6.24.1",
+        "babili-webpack-plugin": "^0.1.1",
+        "copyfiles": "^1.2.0",
         "css-loader": "^0.28.2",
+        "del-cli": "^1.1.0",
         "extract-text-webpack-plugin": "^2.1.0",
         "html-minifier": "^3.5.2",
         "optimize-css-assets-webpack-plugin": "^1.3.2",
+        "replace-x": "^1.5.0",
         "uglifycss": "^0.0.27",
         "uglifyjs-webpack-plugin": "^0.4.3",
         "webpack": "^2.5.1",
-        "webpack-auto-inject-version": "^0.5.14"
+        "webpack-auto-inject-version": "^0.5.14",
+        "webpack-sources": "1.0.1"
     },
     "scripts": {
-        "build": "npm-run uglifycss pwa/src/style.css > pwa/style.min.css & npm-run webpack --env.minor & npm-run html-minifier pwa/src/index.html -o pwa/index.html --collapse-whitespace --remove-comments"
+        "build-general": "npm-run uglifycss pwa/src/style.css > pwa/style.min.css && npm-run webpack --env.minor --config build_scripts/webpack.config.js && node build_scripts/inline.js pwa/index.html /*(inline-styles)*/ pwa/src/style-inline.css && npm-run html-minifier pwa/index.html -o pwa/index.html --collapse-whitespace --remove-comments --minify-css",
+        "build-pre-copy-files": "npm run cleanup && npm-run copyfiles -u -f ./pwa/src/sw.js ./pwa/src/index.html ./pwa/src/slip.min.js ./pwa",
+        "build": "npm run build-with-manifest",
+        "buildwom": "npm run build-without-manifest",
+        "cleanup": "npm-run del-cli pwa/*.*",
+        "build-with-manifest": "npm run build-pre-copy-files && npm-run replace-x \"// only on installable\" \"\" pwa/sw.js && npm-run replace-x \"<!-- \\(only on installable\\) (.*)-->\" \"$1\" pwa/index.html && npm run build-general && npm-run copyfiles -u -f ./pwa/src/manifest.json ./pwa",
+        "build-without-manifest": "npm run build-pre-copy-files && npm run build-general"
     },
     "repository": {
         "type": "git",

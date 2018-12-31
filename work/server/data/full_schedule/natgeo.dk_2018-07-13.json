@@ -1,0 +1,894 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "start" : "1531440000",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "natgeo.dk",
+            "date" : "2018",
+            "title" : {
+               "da" : "Dictator fra A til Z"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 af 6 s\u00e6son 1",
+               "xmltv_ns" : "0 . 3/6 ."
+            },
+            "previously_shown" : "natgeo.dk|2018-07-08 19:00:00",
+            "new" : "0",
+            "country" : [
+               "US"
+            ],
+            "subTitle" : {
+               "da" : "Idi Amin"
+            },
+            "desc" : {
+               "da" : "En unders\u00f8gelse af de metoder Idi Amin brugte, til at g\u00e5 fra ydmyge forhold og til at blive en magtfuld diktator i Uganda."
+            },
+            "stop" : "1531443600"
+         },
+         {
+            "start" : "1531443600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Reality"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "channel" : "natgeo.dk",
+            "title" : {
+               "da" : "Vintervejens Helte"
+            },
+            "date" : "2015",
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 2",
+               "thetvdb.com" : "series/299304"
+            },
+            "new" : "0",
+            "previously_shown" : "natgeo.dk|2017-12-15 17:00:00",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=299304&seasonid=678283&id=5723749&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "Ferry Go Round"
+            },
+            "desc" : {
+               "da" : "Ferie betyder flere p\u00e5 vejene og dermed mere arbejde, og Thord st\u00e5r over for en udfordring, der kan f\u00e5 hans liv til h\u00e6nge i en tynd tr\u00e5d."
+            },
+            "stop" : "1531447200"
+         },
+         {
+            "new" : "0",
+            "previously_shown" : "natgeo.dk|2017-12-10 15:00:00",
+            "country" : [
+               "US"
+            ],
+            "start" : "1531447200",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "channel" : "natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "title" : {
+               "da" : "Gr\u00e6nsen er n\u00e5et"
+            },
+            "date" : "2017",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 4/9 .",
+               "onscreen" : "Afsnit 5 af 9 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Hver eneste dag g\u00f8r agenter og betjente fra Department of Homeland Security alt, de kan for at sikre landet til lands, til vands og i luften."
+            },
+            "stop" : "1531450800",
+            "subTitle" : {
+               "da" : "Til lands, til vands og i luften"
+            }
+         },
+         {
+            "start" : "1531450800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "channel" : "natgeo.dk",
+            "title" : {
+               "da" : "Drugs Inc"
+            },
+            "date" : "2010",
+            "episodeNum" : {
+               "xmltv_ns" : "5 . 9 .",
+               "onscreen" : "Afsnit 10 s\u00e6son 6",
+               "thetvdb.com" : "series/174501"
+            },
+            "new" : "0",
+            "country" : [
+               "UK"
+            ],
+            "rating" : {
+               "stars" : "7.5 / 9"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=174501&seasonid=602962&id=5091627&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "Mardi Gras"
+            },
+            "desc" : {
+               "da" : "Chicago er en af de farligste byer i USA, og narkohandlere benytter sig af festfyrv\u00e6rkeriet den 4. juli til at plyndre deres rivaler."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Herself",
+                     "name" : "Christina Aguilera"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Adam Levine"
+                  },
+                  {
+                     "name" : "Javier Colon",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Christina Milian",
+                     "role" : "Social Media Correspondent"
+                  },
+                  {
+                     "name" : "Carson Daly",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Blake Shelton",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "CeeLo Green"
+                  }
+               ]
+            },
+            "stop" : "1531454400"
+         },
+         {
+            "title" : {
+               "da" : "Sekunder fra katastrofen"
+            },
+            "date" : "2004",
+            "episodeNum" : {
+               "thetvdb.com" : "series/79772",
+               "xmltv_ns" : "1 . 4 .",
+               "onscreen" : "Afsnit 5 s\u00e6son 2"
+            },
+            "start" : "1531454400",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "channel" : "natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "country" : [
+               "UK"
+            ],
+            "rating" : {
+               "stars" : "7.7 / 9"
+            },
+            "new" : "0",
+            "previously_shown" : "natgeo.dk|2017-12-20 19:00:00",
+            "subTitle" : {
+               "da" : "Zeebrugge Ferry Disaster"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=79772&seasonid=17170&id=319106&lid=10"
+            ],
+            "stop" : "1531458000",
+            "desc" : {
+               "da" : "Nairobi, Kenya, august 7, 1998: Terrorister spr\u00e6nger en lastbil i luften ved bagsiden af ambassaden og \u00f8del\u00e6gger bygningen."
+            }
+         },
+         {
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "channel" : "natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "start" : "1531458000",
+            "episodeNum" : {
+               "thetvdb.com" : "series/280473",
+               "xmltv_ns" : "2 . 12 .",
+               "onscreen" : "Afsnit 13 s\u00e6son 3"
+            },
+            "title" : {
+               "da" : "Dum, Dummere, Derfor!"
+            },
+            "date" : "2014",
+            "previously_shown" : "natgeo.dk|2017-12-05 00:00:00",
+            "new" : "0",
+            "country" : [
+               "UK"
+            ],
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=280473&seasonid=661965&id=5614013&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "Episode 13"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Richard Hammond",
+                     "role" : "Host"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Trejde s\u00e6son af showet med en blanding af h\u00e5rd videnskab og de mest spektakul\u00e6re og smertefulde klip, der nogenside er optaget."
+            },
+            "stop" : "1531459800"
+         },
+         {
+            "country" : [
+               "UK"
+            ],
+            "previously_shown" : "natgeo.dk|2017-12-06 00:00:00",
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 15 s\u00e6son 3",
+               "xmltv_ns" : "2 . 14 .",
+               "thetvdb.com" : "series/280473"
+            },
+            "title" : {
+               "da" : "Dum, Dummere, Derfor!"
+            },
+            "date" : "2014",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "channel" : "natgeo.dk",
+            "start" : "1531459800",
+            "stop" : "1531461600",
+            "desc" : {
+               "da" : "Trejde s\u00e6son af showet med en blanding af h\u00e5rd videnskab og de mest spektakul\u00e6re og smertefulde klip, der nogenside er optaget."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Host",
+                     "name" : "Richard Hammond"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Episode 15"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=280473&seasonid=661965&id=5620587&lid=10"
+            ]
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "6 . 13/16 .",
+               "onscreen" : "Afsnit 14 af 16 s\u00e6son 7"
+            },
+            "date" : "2018",
+            "title" : {
+               "da" : "Wicked Tuna"
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "channel" : "natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "start" : "1531461600",
+            "country" : [
+               "US"
+            ],
+            "new" : "0",
+            "subTitle" : {
+               "da" : "Chik og m\u00e5ll\u00f8shed"
+            },
+            "stop" : "1531465200",
+            "desc" : {
+               "da" : "Der er kun to uger tilbage at fiske i, og mesterb\u00e5den tuna.com f\u00f8rer endnu engang an i feltet."
+            }
+         },
+         {
+            "date" : "2015",
+            "title" : {
+               "da" : "Mine Kings"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 7/8 .",
+               "onscreen" : "Afsnit 8 af 8 s\u00e6son 1"
+            },
+            "start" : "1531465200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Action"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "channel" : "natgeo.dk",
+            "country" : [
+               "UK"
+            ],
+            "new" : "0",
+            "subTitle" : {
+               "da" : "Spr\u00e6ngstoffer og smaragder"
+            },
+            "stop" : "1531468800",
+            "desc" : {
+               "da" : "Mine Kings drager ind i Zambias industrielle \"Copperbelt\" - et omr\u00e5de, der er kendt for sine illegale miner og smugling."
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "channel" : "natgeo.dk",
+            "start" : "1531468800",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7 af 11 s\u00e6son 13",
+               "xmltv_ns" : "12 . 6/11 ."
+            },
+            "title" : {
+               "da" : "Unders\u00f8gelse af flystyrt"
+            },
+            "date" : "2014",
+            "new" : "0",
+            "subTitle" : {
+               "da" : "Concorde i flammer"
+            },
+            "desc" : {
+               "da" : "Et Concorde-fly styrter ned lige efter takeoff, og tre mystiske genstande dukker op p\u00e5 startbanen. Men hvordan h\u00e6nger disse spor sammen?"
+            },
+            "stop" : "1531472400"
+         },
+         {
+            "subTitle" : {
+               "da" : "Blodbad i centrum"
+            },
+            "stop" : "1531476000",
+            "desc" : {
+               "da" : "Et Learjet 45-fly med Mexicos indenrigsminister ombord styrter ned i Mexico Citys finansdistrikt. Alle ombord plus syv p\u00e5 jorden mister livet."
+            },
+            "title" : {
+               "da" : "Unders\u00f8gelse af flystyrt"
+            },
+            "date" : "2014",
+            "episodeNum" : {
+               "xmltv_ns" : "12 . 7/11 .",
+               "onscreen" : "Afsnit 8 af 11 s\u00e6son 13"
+            },
+            "start" : "1531472400",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "channel" : "natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "new" : "0"
+         },
+         {
+            "subTitle" : {
+               "da" : "2. afsnit"
+            },
+            "desc" : {
+               "da" : "F\u00f8lg de m\u00e6nd og kvinder, som har ansvar for at stoppe det ulovlige smugleri af narko og mennesker i Colombias travleste lufthavn."
+            },
+            "stop" : "1531479600",
+            "start" : "1531476000",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "channel" : "natgeo.dk",
+            "date" : "2017",
+            "title" : {
+               "da" : "Airport Security Colombia"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 7 s\u00e6son 2",
+               "xmltv_ns" : "1 . 1/7 ."
+            },
+            "new" : "0"
+         },
+         {
+            "stop" : "1531483200",
+            "desc" : {
+               "da" : "Da Steve Patersons fors\u00f8g p\u00e5 at smugle marihuana ind i Amerika blev forpurret af politiet i Tijuana, r\u00f8g han i det berygtede La Mesa f\u00e6ngsel."
+            },
+            "subTitle" : {
+               "da" : "Fanget ved den mexicanske gr\u00e6nse"
+            },
+            "country" : [
+               "UK"
+            ],
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "10 . 3/6 .",
+               "onscreen" : "Afsnit 4 af 6 s\u00e6son 11"
+            },
+            "title" : {
+               "da" : "Fanget i Udlandet"
+            },
+            "date" : "2017",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "channel" : "natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "start" : "1531479600"
+         },
+         {
+            "new" : "0",
+            "country" : [
+               "UK"
+            ],
+            "start" : "1531483200",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "natgeo.dk",
+            "title" : {
+               "da" : "Dum, Dummere, Derfor!"
+            },
+            "date" : "2017",
+            "episodeNum" : {
+               "xmltv_ns" : "4 . 9/20 .",
+               "onscreen" : "Afsnit 10 af 20 s\u00e6son 5"
+            },
+            "desc" : {
+               "da" : "I dette afsnit l\u00e6rer vi, hvordan man kan komme til skade ved at lave armb\u00f8jninger, bombeudspring og spille frisbee golf."
+            },
+            "stop" : "1531485000",
+            "subTitle" : {
+               "da" : "Episode 10"
+            }
+         },
+         {
+            "stop" : "1531486800",
+            "desc" : {
+               "da" : "I dette afsnit ser vi, hvor galt man kan komme af sted ved at springe over en parkb\u00e6nk, tandem-poledans og surfing."
+            },
+            "subTitle" : {
+               "da" : "Episode 20"
+            },
+            "country" : [
+               "UK"
+            ],
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "4 . 19/20 .",
+               "onscreen" : "Afsnit 20 af 20 s\u00e6son 5"
+            },
+            "title" : {
+               "da" : "Dum, Dummere, Derfor!"
+            },
+            "date" : "2017",
+            "channel" : "natgeo.dk",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "start" : "1531485000"
+         },
+         {
+            "new" : "0",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "natgeo.dk",
+            "start" : "1531486800",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 af 6 s\u00e6son 1",
+               "xmltv_ns" : "0 . 4/6 ."
+            },
+            "title" : {
+               "da" : "2. verdenskrig - Det unders\u00f8iske helvede"
+            },
+            "date" : "2016",
+            "desc" : {
+               "da" : "I juni 1944 lurer seks allierede kommandoer Japans handelsskibe, men trues, da deres skjulte operation opdages af fjenden."
+            },
+            "stop" : "1531490400",
+            "subTitle" : {
+               "da" : "Dr\u00e6bende destroyer"
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0/6 .",
+               "onscreen" : "Afsnit 1 af 6 s\u00e6son 1"
+            },
+            "title" : {
+               "da" : "2. verdenskrig - Det unders\u00f8iske helvede"
+            },
+            "date" : "2016",
+            "channel" : "natgeo.dk",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "start" : "1531490400",
+            "new" : "0",
+            "subTitle" : {
+               "da" : "Wolfpack"
+            },
+            "stop" : "1531494000",
+            "desc" : {
+               "da" : "Otto Kretschmer st\u00e5r i spidsen for Tysklands f\u00f8rste succesfulde ub\u00e5dsangreb med Wolfpack, men de allierede sl\u00e5r igen med ny teknologi mod ub\u00e5de."
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Jordens tabte verdener"
+            },
+            "stop" : "1531497600",
+            "desc" : {
+               "da" : "Astrofysikeren Neil deGrasse Tyson er v\u00e6rt, og Seth MacFarlane er producer, n\u00e5r den ber\u00f8mte videnskabsserie genopst\u00e5r i optimeret form."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 10 af 13 s\u00e6son 1",
+               "xmltv_ns" : "0 . 9/13 ."
+            },
+            "title" : {
+               "da" : "Kosmos: En rejse i tid og rum"
+            },
+            "date" : "2013",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "channel" : "natgeo.dk",
+            "start" : "1531494000",
+            "country" : [
+               "US"
+            ],
+            "new" : "0"
+         },
+         {
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "channel" : "natgeo.dk",
+            "start" : "1531497600",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 6 af 7 s\u00e6son 2",
+               "xmltv_ns" : "1 . 5/7 ."
+            },
+            "title" : {
+               "da" : "Airport Security Colombia"
+            },
+            "date" : "2017",
+            "desc" : {
+               "da" : "F\u00f8lg de m\u00e6nd og kvinder der st\u00e5r i spidsen for at stoppe stoffer og illegal immigration i Colombias travleste lufthavn"
+            },
+            "stop" : "1531501200",
+            "subTitle" : {
+               "da" : "Afsnit 6"
+            }
+         },
+         {
+            "start" : "1531501200",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "channel" : "natgeo.dk",
+            "date" : "2011",
+            "title" : {
+               "da" : "Unders\u00f8gelse af flystyrt"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "10 . 12/13 .",
+               "onscreen" : "Afsnit 13 af 13 s\u00e6son 11"
+            },
+            "new" : "0",
+            "subTitle" : {
+               "da" : "Air France 447: Forsvundet"
+            },
+            "desc" : {
+               "da" : "Vi unders\u00f8ger, hvordan flysikkerheden forbedres pga. de styrt, der sker. Unders\u00f8gelse af flystyrt ser p\u00e5 legendariske flykatastrofer."
+            },
+            "stop" : "1531504800"
+         },
+         {
+            "new" : "0",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "natgeo.dk",
+            "start" : "1531504800",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 6 s\u00e6son 1",
+               "xmltv_ns" : "0 . 1/6 ."
+            },
+            "date" : "2016",
+            "title" : {
+               "da" : "2. verdenskrig - Det unders\u00f8iske helvede"
+            },
+            "desc" : {
+               "da" : "De tyske ub\u00e5de h\u00e5ber at drage fordel af kaosset efter Pearl Harbor og starter et overraskelsesangreb mod kystsejladsen i Atlanterhavet."
+            },
+            "stop" : "1531508400",
+            "subTitle" : {
+               "da" : "Hitlers h\u00e6vn"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Kampen i Kursk"
+            },
+            "stop" : "1531512000",
+            "desc" : {
+               "da" : "Dette er historien om Hitlers fors\u00f8g p\u00e5 at likvidere det russiske folk, for at f\u00e5 plads til sin ariske race."
+            },
+            "title" : {
+               "da" : "Nazi Megakonstruktioner: Rusland's Krig"
+            },
+            "date" : "2018",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1/3 .",
+               "onscreen" : "Afsnit 2 af 3 s\u00e6son 1"
+            },
+            "start" : "1531508400",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "channel" : "natgeo.dk",
+            "new" : "0"
+         },
+         {
+            "subTitle" : {
+               "da" : "Hitlers tr\u00e6ningslejr"
+            },
+            "stop" : "1531515600",
+            "desc" : {
+               "da" : "Hitlers h\u00e6r m\u00e5 s\u00e6tte sin lid til k\u00e6mpestore forsvarsbygninger, innovativ teknologi og fast beslutsomhed for at standse sovjetternes indtog."
+            },
+            "date" : "2018",
+            "title" : {
+               "da" : "Nazi Megakonstruktioner: Rusland's Krig"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 2/3 .",
+               "onscreen" : "Afsnit 3 af 3 s\u00e6son 1"
+            },
+            "start" : "1531512000",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "natgeo.dk",
+            "new" : "0"
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "9 . 12/13 .",
+               "onscreen" : "Afsnit 13 af 13 s\u00e6son 10"
+            },
+            "date" : "2012",
+            "title" : {
+               "da" : "Unders\u00f8gelse af flystyrt"
+            },
+            "channel" : "natgeo.dk",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "start" : "1531515600",
+            "new" : "0",
+            "subTitle" : {
+               "da" : "Ildkuglen i luften"
+            },
+            "stop" : "1531519200",
+            "desc" : {
+               "da" : "Da motorerne satte ud, fors\u00f8gte piloterne p\u00e5 United Airlines at lande i Sioux City, men flyet eksploderede, og halvdelen blev dr\u00e6bt."
+            }
+         },
+         {
+            "new" : "0",
+            "previously_shown" : "natgeo.dk|2018-02-18 00:00:00",
+            "country" : [
+               "UK"
+            ],
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "natgeo.dk",
+            "start" : "1531519200",
+            "episodeNum" : {
+               "xmltv_ns" : "7 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 8",
+               "thetvdb.com" : "series/264367"
+            },
+            "date" : "2009",
+            "title" : {
+               "da" : "Fanget i udlandet"
+            },
+            "desc" : {
+               "da" : "Scott Campbell gl\u00e6der sig til at tage en tur til Kina med sin ukendte far. Han ved ikke, at hans far har planlagt noget ganske andet..."
+            },
+            "stop" : "1531522800",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=264367&seasonid=507022&id=4454326&lid=10"
+            ]
+         },
+         {
+            "stop" : "1531526400",
+            "desc" : {
+               "da" : "Livets byggesten findes overalt i universet, men trods det er liv en sj\u00e6ldenhed. Hvad er det der adskiller Jorden og kan det ske andre steder?"
+            },
+            "subTitle" : {
+               "da" : "Genesis"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=342190&seasonid=749937&id=6596594&lid=10"
+            ],
+            "country" : [
+               "UK"
+            ],
+            "previously_shown" : "natgeo.dk|2018-07-01 06:00:00",
+            "new" : "0",
+            "date" : "2018",
+            "title" : {
+               "da" : "Vores utrolige planet"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/342190",
+               "xmltv_ns" : "0 . 3 .",
+               "onscreen" : "Afsnit 4 s\u00e6son 1"
+            },
+            "start" : "1531522800",
+            "channel" : "natgeo.dk",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         }
+      ]
+   }
+}

@@ -1,0 +1,410 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "channel" : "tv2nord.dk",
+            "desc" : {
+               "da" : "I dag skal det handle om sladder i S\u00e5danmark, for Henriette Honor\u00e9s medv\u00e6rt er Ditte Okman, som er v\u00e6rt p\u00e5 sladdermagasinet Det Vi Taler Om p\u00e5 Radio 24Syv. H\u00f8r blandt andet historien om det, de sladrer om i Glamsbjerg for tiden, swingerklubben, som snart \u00e5bner i den lille by."
+            },
+            "start" : "1522501200",
+            "stop" : "1522503000",
+            "new" : null
+         },
+         {
+            "stop" : "1522504500",
+            "credits" : {
+               "presenter" : [
+                  {
+                     "name" : "Mads Gudiksen"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2nord.dk",
+            "new" : null,
+            "title" : {
+               "da" : "Mad med Mads og David"
+            },
+            "desc" : {
+               "da" : "Mads tager p\u00e5 jagt efter regionens gode r\u00e5varer, og derefter bliver de brugt som en del af maden, n\u00e5r Mads og David g\u00e5r i k\u00f8kkenet."
+            },
+            "start" : "1522503000"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Fangstgaranti"
+            },
+            "channel" : "tv2nord.dk",
+            "start" : "1522504500",
+            "desc" : {
+               "da" : "Fangstgaranti titlen forpligter - det handler ganske enkelt om at hive en masse forskellige fisk i land. I hvert afsnit tager programmets v\u00e6rt Morten Stamm Mikkelsen p\u00e5 fisketur med en lystfisker, der er ekspert i at fange dagens fisk. Det kan v\u00e6re alt fra hav\u00f8rreder og laks, over gedder, st\u00f8r og karper til kulmuler og store torsk."
+            },
+            "stop" : "1522506300",
+            "new" : null
+         },
+         {
+            "new" : null,
+            "desc" : {
+               "da" : "N\u00e5r man h\u00f8rer navnet Assing Kirke er det n\u00e6rliggende at tro, at kirken h\u00f8rer til en by af samme navn. Men nej - Assing Kirke h\u00f8rer faktisk til byen Kib\u00e6k, flere kilometer fra kirken. Hvordan det h\u00e6nger sammen og om der, trods alt, er mening med galskaben, kigger vi blandt andet n\u00e6rmere p\u00e5 i denne udgave af Vorherre Bevares. Vi skal ogs\u00e5 m\u00f8de en efterskolel\u00e6rer fra Fars\u00f8, som netop er startet som sognepr\u00e6st og to veninder, der netop har v\u00e6ret udsendt som frivillige til Tanzania og Cameroun. Vi skal ogs\u00e5 til Frederikshavn, hvor Abildg\u00e5rd Kirke har f\u00e5et ny sognepr\u00e6st. Tilrettel\u00e6ggelse: Christian French"
+            },
+            "start" : "1522506300",
+            "title" : {
+               "da" : "Vorherre Bevares"
+            },
+            "stop" : "1522508100",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 af 11",
+               "xmltv_ns" : ". 2/11 ."
+            },
+            "channel" : "tv2nord.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "new" : null,
+            "title" : {
+               "da" : "Livet p\u00e5 landet - M\u00e6h, siger det lille lam"
+            },
+            "start" : "1522508100",
+            "desc" : {
+               "da" : "V\u00e6rt Maria Bernhard f\u00f8lger hverdagen og arbejdslivet p\u00e5 fire af regionens landbrug."
+            },
+            "stop" : "1522509900",
+            "credits" : {
+               "presenter" : [
+                  {
+                     "name" : "Maria Bernhard"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2nord.dk"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2nord.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/2 .",
+               "onscreen" : "Afsnit 1 af 2"
+            },
+            "stop" : "1522511700",
+            "title" : {
+               "da" : "Historisk Rally Monte Carlo"
+            },
+            "desc" : {
+               "da" : "Denne gang er vi med til Rally Monte-Carlo Historique. Vi f\u00f8lger de 7 Danske teams under hele l\u00f8bet fra Pre-Starten i Assens p\u00e5 Fyn til m\u00e5lrampen i Monaco."
+            },
+            "start" : "1522509900",
+            "date" : "2018",
+            "new" : null
+         },
+         {
+            "new" : null,
+            "stop" : "1522513500",
+            "channel" : "tv2nord.dk",
+            "start" : "1522511700",
+            "desc" : {
+               "da" : "Mogens og Ivan kommer forbi Tornby ved Hirtshals. Kjeld Torbj\u00f8rn, kendt fra bandet, Sl\u00e5Brok Band, har skrevet en sang om Hirtshals. Han bliver samlet op af Boblen, og vi skal selvf\u00f8lgelig h\u00f8re sangen i Boblen. Derudover bor den tidligere danske mester i Skihop ogs\u00e5 i Tornby - Peter Jacobi finder de gamle st\u00f8vede ski frem fra \"skunken\" og s\u00e5 g\u00e5r det ellers mod Hj\u00f8rring Bjerge hvor Peter blev dansk mester i 1967. Her viser og fort\u00e6ller han om den store dag Tilrettel\u00e6ggelse: Mogens J\u00f8rgensen og Ivan Hansen"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Mogens Kom forbi - Tornby"
+            }
+         },
+         {
+            "start" : "1522513500",
+            "desc" : {
+               "da" : "Nyhedsopdatering fra TV2/NORD - f\u00f8lg med p\u00e5 tv2nord.dk"
+            },
+            "channel" : "tv2nord.dk",
+            "title" : {
+               "da" : "18-Nyhederne"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522513800"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2nord.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 11/40 .",
+               "onscreen" : "Afsnit 12 af 40"
+            },
+            "stop" : "1522515600",
+            "title" : {
+               "da" : "Nordliv"
+            },
+            "start" : "1522513800",
+            "desc" : {
+               "da" : "Hvad foreg\u00e5r der i det nordjyske kulturliv? Magasinet Nordliv skildrer den mangfoldighed af muligheder, der findes i Nordjylland. Programmet er et mix af sp\u00e6ndende g\u00e6ster i studiet og reportager om den nordjyske kultur og livsstil."
+            },
+            "new" : null
+         },
+         {
+            "channel" : "tv2nord.dk",
+            "desc" : {
+               "da" : "Ditte Okman er tilbage som Henriette Honor\u00e9s medv\u00e6rt, og i dag handler det blandt andet om en mand, der har meldt sig ind i en \"gul\" fagforening, og derfor har t\u00e6nkt sig at blive ved med at arbejde, n\u00e5r hans kolleger strejker. Vi skal ogs\u00e5 med til rollerderby i Aalborg med nogle rigtigt seje kvinder."
+            },
+            "start" : "1522515600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "new" : null,
+            "stop" : "1522517400"
+         },
+         {
+            "new" : null,
+            "stop" : "1522518300",
+            "channel" : "tv2nord.dk",
+            "start" : "1522517400",
+            "desc" : {
+               "da" : "Direkte fra studiet i Aabybro byder vi p\u00e5 levende fjernsyn med n\u00e6rv\u00e6rende nordjyske reportager, aktuelle g\u00e6ster i studiet, dagens vigtigste historier fra Nordjylland og aktuelle emner til debat."
+            },
+            "title" : {
+               "da" : "Nordjylland Live"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "channel" : "tv2nord.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 3/6 .",
+               "onscreen" : "Afsnit 4 af 6"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522519800",
+            "desc" : {
+               "da" : "I dette afsnit leder medlemmerne af Thy Mors Detektorforening efter Vikingebj\u00f8rnen p\u00e5 en markomr\u00e5de ved Stoholm. Tilrettel\u00e6ggelse: Uffe Bregendahl"
+            },
+            "start" : "1522518300",
+            "title" : {
+               "da" : "Metaldetektiverne"
+            },
+            "new" : null
+         },
+         {
+            "stop" : "1522521900",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 12 af 12",
+               "xmltv_ns" : ". 11/12 ."
+            },
+            "channel" : "tv2nord.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "start" : "1522519800",
+            "desc" : {
+               "da" : "TV2 Nord ops\u00f8ger nordjyder, som arbejder mens vi andre sover. I dette program tager vi til banko p\u00e5 diskotek Crazy Daisy i Aars og p\u00e5 nattevagt p\u00e5 PH Sp\u00e5nteknik i Aalestrup. Tilrettel\u00e6ggelse: Robert Bedsted, Tor L\u00f8kken og Michael Kragmann Genudsendelse fra 2017"
+            },
+            "title" : {
+               "da" : "Mens du sover"
+            }
+         },
+         {
+            "new" : null,
+            "stop" : "1522523700",
+            "channel" : "tv2nord.dk",
+            "start" : "1522521900",
+            "desc" : {
+               "da" : "I Nordliv er der hver eneste gang fantastiske reportager fra nordjydernes liv. De er samlet i denne serie. Tilrettel\u00e6ggelse: Torben N\u00f8rgaard"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Reportagen"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2nord.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 17 af 20",
+               "xmltv_ns" : ". 16/20 ."
+            },
+            "stop" : "1522525500",
+            "title" : {
+               "da" : "Highlight"
+            },
+            "start" : "1522523700",
+            "desc" : {
+               "da" : "Highlight giver seerne muligheden for et gensyn med en r\u00e6kke af de allerst\u00e6rkeste historier, som TV2/Nord har fortalt gennem \u00e5rene. Historier, hvor vi har v\u00e6ret helt t\u00e6t p\u00e5 nordjydernes hverdag - b\u00e5de de sm\u00e5 begivenheder og de store \u00f8jeblikke. Tilrettel\u00e6ggelse: Niels Gorm Andersen"
+            },
+            "new" : null
+         },
+         {
+            "stop" : "1522527300",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "desc" : {
+               "da" : "Mascha Vang er tilbage som medv\u00e6rt i S\u00e5danmark, og i dag skal hun og Annemette Voss se historien om et ungt par p\u00e5 Fyn, der fandt ud af, at de var kommet til at k\u00f8be et hus, som st\u00e5r p\u00e5 en forurenet grund. M\u00f8d ogs\u00e5 en af de kvinder, som lige nu har travlt med at besvare telefoner hos Skat i Ribe."
+            },
+            "start" : "1522525500",
+            "channel" : "tv2nord.dk"
+         },
+         {
+            "stop" : "1522529100",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 12 af 15",
+               "xmltv_ns" : ". 11/15 ."
+            },
+            "channel" : "tv2nord.dk",
+            "new" : null,
+            "title" : {
+               "da" : "Gymnastik-Magasinet"
+            },
+            "start" : "1522527300",
+            "desc" : {
+               "da" : "Andreas Brix Kr\u00f8ner satsede alt og slap gennem n\u00e5le\u00f8jet til det verdensber\u00f8mte Cirque du Soleil. Eventyret fik dog en brat afslutning for den 22-\u00e5rige gymnast."
+            }
+         },
+         {
+            "channel" : "tv2nord.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 11/12 .",
+               "onscreen" : "Afsnit 12 af 12"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522530600",
+            "start" : "1522529100",
+            "desc" : {
+               "da" : "TV/Syd har fulgt de ansatte i Legoland igennem hele s\u00e6sonen 2014. Alle skal have fokus p\u00e5, at g\u00e6sterne f\u00e5r en god oplevelse, og at parken fungerer optimalt. For der skal meget til at holde en af Danmarks st\u00f8rste forlystelsesparker k\u00f8rende igennem en hel s\u00e6son med nye udfordringer. I dette program er det \u00e5rets sidste dag, hvor der er g\u00e6ster i Legoland, og det er altid en meget s\u00e6rlig dag. Mange medarbejdere skal sige farvel til hinanden og andre p\u00e5 gensyn, og for nogle af dem er det helt farvel. Men for nogle ansatte er det nu, at de f\u00e5r meget travlt. Og som altid slutter dagen med et festligt brag, der fejrer, at s\u00e6sonen 2014 er forbi."
+            },
+            "title" : {
+               "da" : "Legoland bag kulissen"
+            },
+            "new" : null
+         },
+         {
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2nord.dk",
+            "desc" : {
+               "da" : "Josefine Ottesen er en succesrig forfatter, men nu er hun ogs\u00e5 ejer af et forsamlingshus. Hun har nemlig k\u00f8bt en bygning i sin hjemby, svendborg, og den 31. marts \u00e5bner hun Svendborg Forsamlingshus. Det fort\u00e6ller hun Annemette Voss om i dag, n\u00e5r hun er medv\u00e6rt. M\u00f8d ogs\u00e5 de driftige folk i \u00e5rets landsby i Midtjylland, Sall, som lige nu er i gang med at bygge et whiskydestilleri."
+            },
+            "start" : "1522530600",
+            "stop" : "1522532400",
+            "new" : null
+         },
+         {
+            "stop" : "1522587300",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder fra tv2nord.dk"
+            },
+            "channel" : "tv2nord.dk",
+            "start" : "1522532400"
+         }
+      ]
+   }
+}

@@ -1,0 +1,1435 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "stop" : "1531625400",
+            "title" : {
+               "da" : "Ultra siger godnat"
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1531618200",
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "DK"
+            ],
+            "start" : "1531625400",
+            "new" : null,
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Ultra siger godnat"
+            },
+            "stop" : "1531627200"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Hop ombord i jeepen, for nu skal vi p\u00e5 safari til den vilde savanne, hvor l\u00f8ven Leon spiller med musklerne. Men pas hellere p\u00e5, for Leon er verdens mest uheldige l\u00f8ve. S\u00e5 selvom han som dyrenes konge gang p\u00e5 gang pr\u00f8ver at br\u00f8le frygtindgydende, er han bare s\u00f8d og bl\u00f8d."
+            },
+            "date" : "2008",
+            "stop" : "1531627260",
+            "new" : null,
+            "start" : "1531627200",
+            "title" : {
+               "da" : "Leon"
+            },
+            "channel" : "ultra.dr.dk"
+         },
+         {
+            "title" : {
+               "da" : "Zorro"
+            },
+            "channel" : "ultra.dr.dk",
+            "previously_shown" : "ramasjang.dr.dk|2018-02-24 18:25:00",
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "new" : null,
+            "start" : "1531627260",
+            "stop" : "1531628700",
+            "date" : "2015",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 12",
+               "xmltv_ns" : ". 11 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : ". 3 .",
+               "onscreen" : "Afsnit 4"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "title" : {
+               "da" : "Dybet"
+            },
+            "channel" : "ultra.dr.dk",
+            "country" : [
+               "CA"
+            ],
+            "start" : "1531628700",
+            "new" : null,
+            "previously_shown" : "ultra.dr.dk|2018-05-03 14:45:00",
+            "stop" : "1531629900",
+            "date" : "2015"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 34",
+               "xmltv_ns" : ". 33 ."
+            },
+            "date" : "2015",
+            "stop" : "1531630200",
+            "previously_shown" : "ultra.dr.dk|2018-05-01 15:00:00",
+            "start" : "1531629900",
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "new" : null,
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Grizzy og lemmingerne"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 35",
+               "xmltv_ns" : ". 34 ."
+            },
+            "date" : "2015",
+            "stop" : "1531630800",
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "start" : "1531630200",
+            "new" : null,
+            "previously_shown" : "ultra.dr.dk|2018-05-02 04:45:00",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Grizzy og lemmingerne"
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : ". 35 .",
+               "onscreen" : "Afsnit 36"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Grizzy og lemmingerne"
+            },
+            "new" : null,
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "start" : "1531630800",
+            "previously_shown" : "ultra.dr.dk|2018-05-02 04:50:00",
+            "stop" : "1531631100",
+            "date" : "2015"
+         },
+         {
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Junglebanden"
+            },
+            "start" : "1531631100",
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "new" : null,
+            "stop" : "1531631700",
+            "date" : "2015",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "date" : "2015",
+            "stop" : "1531632600",
+            "start" : "1531631700",
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "Junglebanden"
+            },
+            "channel" : "ultra.dr.dk",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            }
+         },
+         {
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Wild Kratts"
+            },
+            "start" : "1531632600",
+            "country" : [
+               "CA"
+            ],
+            "new" : null,
+            "previously_shown" : "ultra.dr.dk|2018-06-21 13:45:00",
+            "stop" : "1531633800",
+            "date" : "2012",
+            "desc" : {
+               "da" : "Tortuga-opgradering."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 15",
+               "xmltv_ns" : ". 14 ."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Pindsvinefisk-eksplosion."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 15 .",
+               "onscreen" : "Afsnit 16"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "CA"
+            ],
+            "new" : null,
+            "start" : "1531633800",
+            "previously_shown" : "ultra.dr.dk|2018-06-15 04:01:00",
+            "title" : {
+               "da" : "Wild Kratts"
+            },
+            "channel" : "ultra.dr.dk",
+            "date" : "2012",
+            "stop" : "1531635000"
+         },
+         {
+            "stop" : "1531635900",
+            "country" : [
+               "US"
+            ],
+            "start" : "1531635000",
+            "new" : null,
+            "title" : {
+               "da" : "Alvin og de fr\u00e6kke jordegern"
+            },
+            "channel" : "ultra.dr.dk",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Alvin, Simon og Theodore er m\u00e5ske nok rockstjerner, men de er ogs\u00e5 helt almindelige b\u00f8rn, der er n\u00f8dt til at passe skolen og g\u00e5 ud med skraldet! Sammen med pigerne fra The Chipettes g\u00f8r de hver dag til en fest - og deres adoptivfar Dave sander hurtigt, at det kr\u00e6ver sin mand at have huset fyldt med syngende jordegern..."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Alvin, Simon og Theodore er m\u00e5ske nok rockstjerner, men de er ogs\u00e5 helt almindelige b\u00f8rn, der er n\u00f8dt til at passe skolen og g\u00e5 ud med skraldet! Sammen med pigerne fra The Chipettes g\u00f8r de hver dag til en fest - og deres adoptivfar Dave sander hurtigt, at det kr\u00e6ver sin mand at have huset fyldt med syngende jordegern..."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "stop" : "1531636500",
+            "country" : [
+               "US"
+            ],
+            "new" : null,
+            "start" : "1531635900",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Alvin og de fr\u00e6kke jordegern"
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "3. 22 .",
+               "onscreen" : "Afsnit 23 s\u00e6son 4"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Gumball"
+            },
+            "new" : null,
+            "country" : [
+               "US"
+            ],
+            "start" : "1531636500",
+            "previously_shown" : "ultra.dr.dk|2018-03-25 06:35:00",
+            "stop" : "1531637100",
+            "date" : "2016"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 24 s\u00e6son 4",
+               "xmltv_ns" : "3. 23 ."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "US"
+            ],
+            "start" : "1531637100",
+            "new" : null,
+            "previously_shown" : "ultra.dr.dk|2018-03-25 06:45:00",
+            "title" : {
+               "da" : "Gumball"
+            },
+            "channel" : "ultra.dr.dk",
+            "date" : "2016",
+            "stop" : "1531638000"
+         },
+         {
+            "new" : null,
+            "start" : "1531638000",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Ups! Hvor er arken?"
+            },
+            "date" : "2015",
+            "stop" : "1531642800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Verdens undergang er n\u00e6r, og nogen har bygget en ark til alle dyrene, s\u00e5 de kan overleve flodb\u00f8lgen. De to nestrianerdyr Dan og Fini f\u00e5r dog ikke plads om bord, men takket v\u00e6re grympdyrene Hanne og Lea lykkes det dem at komme med alligevel. Desv\u00e6rre falder ungerne, Fini og Lea, overbord, og deres respektive for\u00e6ldre, Dan og Hanne, m\u00e5 finde en m\u00e5de at vende arken p\u00e5, s\u00e5 de kan redde b\u00f8rnene."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "stop" : "1531643700",
+            "date" : "2015",
+            "title" : {
+               "da" : "Junglebanden"
+            },
+            "channel" : "ultra.dr.dk",
+            "new" : null,
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "start" : "1531642800",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            }
+         },
+         {
+            "stop" : "1531644300",
+            "date" : "2015",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Junglebanden"
+            },
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "new" : null,
+            "start" : "1531643700",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Golf-kanonen (11:15) Minigolf er sjov. Rigtig golf er meget sjov. En super voldsom golf-kanon er verdens sjoveste! S\u00e5 s\u00e5dan en bygger K\u00e5re og Emil. V\u00e6rter: Br\u00f8drene K\u00e5re Nielsen og Emil Nielsen. www.dr.dk/noerd."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1531645500",
+            "date" : "2010",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Store N\u00f8rd: Golfboldkanon"
+            },
+            "country" : [
+               "DK"
+            ],
+            "start" : "1531644300",
+            "new" : null
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "R\u00f8gkanon (12:15) K\u00e5re og Emil gider ikke have, at alle mulige kan rode rundt deres togvognshule. Derfor bygger de en r\u00f8gkanon, der kan fylde hulen lynhurtigt, s\u00e5 man ingenting kan se. V\u00e6rter: Br\u00f8drene K\u00e5re Nielsen og Emil Nielsen. www.dr.dk/noerd."
+            },
+            "stop" : "1531646400",
+            "date" : "2010",
+            "title" : {
+               "da" : "Store N\u00f8rd: R\u00f8gkanon"
+            },
+            "channel" : "ultra.dr.dk",
+            "country" : [
+               "DK"
+            ],
+            "start" : "1531645500",
+            "new" : null
+         },
+         {
+            "date" : "2018",
+            "stop" : "1531647300",
+            "previously_shown" : "ultra.dr.dk|2018-07-02 15:30:00",
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "start" : "1531646400",
+            "title" : {
+               "da" : "Brohave og Harding p\u00e5 tur - Alt g\u00e5r galt for Rasmus"
+            },
+            "channel" : "ultra.dr.dk",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 0 .",
+               "onscreen" : "Afsnit 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Joakim Ingversen ans\u00e6tter Youtuberen Rasmus Brohave p\u00e5 pr\u00f8ve i h\u00e5b om, at han kan v\u00e6re hans vikar p\u00e5 DR Ultras nye ferieprogram \"Den store sommertour\". Som en test sender han Rasmus afsted til Tivoli med et tomt manuskript, og derfor g\u00e5r alt selvf\u00f8lgelig ikke helt som Rasmus havde h\u00e5bet p\u00e5."
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Rasmus f\u00e5r v\u00e6rtsjobbet af Joakim Ingversen, som sender ham til trampolinparken X-Jump for at lave dagens sommerindslag. Undervejs m\u00f8der han sin ven Youtuberen Casper Harding, der vender op og ned p\u00e5 hele programmet. Han vil nemlig gerne have fat i Rasmus, s\u00e5 han kan blive hans nye medv\u00e6rt."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 1 .",
+               "onscreen" : "Afsnit 2"
+            },
+            "date" : "2018",
+            "stop" : "1531647900",
+            "country" : [
+               "DK"
+            ],
+            "start" : "1531647300",
+            "new" : null,
+            "previously_shown" : "ultra.dr.dk|2018-07-03 15:30:00",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Brohave og Harding p\u00e5 tur - Casper smadrer b\u00f8rn"
+            }
+         },
+         {
+            "date" : "2018",
+            "stop" : "1531648500",
+            "previously_shown" : "ultra.dr.dk|2018-07-04 15:30:00",
+            "start" : "1531647900",
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "Brohave og Harding p\u00e5 tur - Den store blender Challenge"
+            },
+            "channel" : "ultra.dr.dk",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "En t\u00f8vende Joakim Ingversen accepterer, at Casper Harding kan blive Rasmus Brohaves nye medv\u00e6rt - is\u00e6r da han h\u00f8rer, at han ikke skal have betaling for det. Derfor tager drengene p\u00e5 deres f\u00f8rste optagelse sammen, hvor de skal lave et sommerindslag fra Den Bl\u00e5 Planet, som bl.a. byder p\u00e5 fodring af hajer."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 2 .",
+               "onscreen" : "Afsnit 3"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Rasmus og Caspers makkerskab er for alvor i gang. I dagens afsnit skal de bes\u00f8ge Sagnlandet Lejre. Casper misforst\u00e5r, hvor de skal hen og kl\u00e6der sig helt forkert ud til bes\u00f8get. De f\u00e5r dog alligevel lavet et godt program, inden Casper igen dummer sig ved at bruge alt for mange penge p\u00e5 souvenirs. Rasmus g\u00e5r i panik, da han opdager, at Casper har betalt for det hele med et DR-Dankort."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 3 .",
+               "onscreen" : "Afsnit 4"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "title" : {
+               "da" : "Brohave og Harding p\u00e5 tur - Casper t\u00f8mmer dankortet"
+            },
+            "channel" : "ultra.dr.dk",
+            "previously_shown" : "ultra.dr.dk|2018-07-05 15:30:00",
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "start" : "1531648500",
+            "stop" : "1531649100",
+            "date" : "2018"
+         },
+         {
+            "date" : "2017",
+            "stop" : "1531649700",
+            "country" : [
+               "DK"
+            ],
+            "start" : "1531649100",
+            "new" : null,
+            "previously_shown" : "ultra.dr.dk|2018-03-04 12:40:00",
+            "title" : {
+               "da" : "Livredderne II - Livsfarlig bilulykke"
+            },
+            "channel" : "ultra.dr.dk",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 0 .",
+               "onscreen" : "Afsnit 1"
+            },
+            "desc" : {
+               "da" : "2 nye hold bliver kastet ud i en actionfyldt redningsaktion. Hver beslutning betyder liv eller d\u00f8d for ofrene. Kan holdene holde hovedet koldt og redde passagerenes liv?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "De to hold v\u00e6lger deres holdkaptajner og de kommer straks p\u00e5 pr\u00f8ve, n\u00e5r holdet skal s\u00e6ttes til den f\u00f8rste udfordring p\u00e5 vandet. \u00c8n af kaptajnerne f\u00e5r direkte indflydelse p\u00e5 konkurrencen."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 1 .",
+               "onscreen" : "Afsnit 2"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1531650300",
+            "date" : "2017",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Livredderne II - Nu Starter Kampen"
+            },
+            "previously_shown" : "ultra.dr.dk|2018-03-04 12:50:00",
+            "country" : [
+               "DK"
+            ],
+            "start" : "1531649700",
+            "new" : null
+         },
+         {
+            "title" : {
+               "da" : "Livredderne II - Snyd p\u00e5 stranden"
+            },
+            "channel" : "ultra.dr.dk",
+            "previously_shown" : "ultra.dr.dk|2018-03-04 13:00:00",
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "start" : "1531650300",
+            "stop" : "1531651200",
+            "date" : "2017",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Konkurrencen forts\u00e6tter og et af holdene f\u00e5r en velsmagende bel\u00f8nning mens det andet hold kommer til at lugte lidt af fisk."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 2 .",
+               "onscreen" : "Afsnit 3"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Mit 50/50 liv - F\u00f8dselsdagen"
+            },
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "start" : "1531651200",
+            "previously_shown" : "ultra.dr.dk|2018-02-25 10:00:00",
+            "stop" : "1531652100",
+            "date" : "2014",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1",
+               "xmltv_ns" : ". 0 ."
+            },
+            "desc" : {
+               "da" : "Efter sidste \u00e5rs katastrofe af en f\u00f8dselsdag, hvor Louis' mor Camilla og hans papmor Mette kom op at sk\u00e6ndes foran hele klassen, vil Louis for alt i verden ikke have for\u00e6ldrene sammen igen i \u00e5r. Louis lover derfor b\u00e5de sin mor og sin far, at de hver is\u00e6r skal holde hans f\u00f8dselsdag. Men for\u00e6ldrene opdager Louis' dobbeltspil og arrangerer igen, at de skal holde den sammen. Louis frygter det v\u00e6rste, har de voksne l\u00e6rt at styre sig eller bliver det v\u00e6rre end sidste \u00e5r?!!"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2",
+               "xmltv_ns" : ". 1 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Det er ikke let for Louis at holde styr p\u00e5 alle de forskellige regler, der er i hans to meget forskellige hjem. Hos far Jesper, m\u00e5 Louis gerne tegne p\u00e5 v\u00e6ggen, men skydespil er strengt forbudt. Hos mor Camilla er det lige omvendt. Louis kludrer i det og kommer seri\u00f8st i klemme da han spiller skydespil i smug hos sin far, og pr\u00f8ver at skjule en v\u00e6gtegning hos sin mor."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Mit 50/50 liv - Spilleregler"
+            },
+            "previously_shown" : "ultra.dr.dk|2018-02-25 10:15:00",
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "start" : "1531652100",
+            "stop" : "1531653000",
+            "date" : "2014"
+         },
+         {
+            "date" : "2017",
+            "stop" : "1531653900",
+            "country" : [
+               "DK"
+            ],
+            "start" : "1531653000",
+            "new" : null,
+            "previously_shown" : "ultra.dr.dk|2018-02-24 15:10:00",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Designtalenterne - Outfit of the Day"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 0 .",
+               "onscreen" : "Afsnit 1"
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2",
+               "xmltv_ns" : ". 1 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Designtalenterne - Outfit of the Day"
+            },
+            "previously_shown" : "ultra.dr.dk|2018-02-24 15:25:00",
+            "new" : null,
+            "country" : [
+               "DK"
+            ],
+            "start" : "1531653900",
+            "stop" : "1531655100",
+            "date" : "2017"
+         },
+         {
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Designtalenterne - Outfit of the Day"
+            },
+            "previously_shown" : "ultra.dr.dk|2018-02-24 15:40:00",
+            "country" : [
+               "DK"
+            ],
+            "start" : "1531655100",
+            "new" : null,
+            "stop" : "1531656000",
+            "date" : "2017",
+            "episodeNum" : {
+               "xmltv_ns" : ". 2 .",
+               "onscreen" : "Afsnit 3"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4",
+               "xmltv_ns" : ". 3 ."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Designtalenterne - Outfit of the Day"
+            },
+            "new" : null,
+            "country" : [
+               "DK"
+            ],
+            "start" : "1531656000",
+            "previously_shown" : "ultra.dr.dk|2018-02-24 16:00:00",
+            "stop" : "1531657200",
+            "date" : "2017"
+         },
+         {
+            "date" : "2017",
+            "stop" : "1531658100",
+            "previously_shown" : "ultra.dr.dk|2018-02-24 16:15:00",
+            "country" : [
+               "DK"
+            ],
+            "start" : "1531657200",
+            "new" : null,
+            "title" : {
+               "da" : "Designtalenterne - Afg\u00f8relsen"
+            },
+            "channel" : "ultra.dr.dk",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5",
+               "xmltv_ns" : ". 4 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Alvin, Simon og Theodore er m\u00e5ske nok rockstjerner, men de er ogs\u00e5 helt almindelige b\u00f8rn, der er n\u00f8dt til at passe skolen og g\u00e5 ud med skraldet! Sammen med pigerne fra The Chipettes g\u00f8r de hver dag til en fest - og deres adoptivfar Dave sander hurtigt, at det kr\u00e6ver sin mand at have huset fyldt med syngende jordegern..."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "stop" : "1531658700",
+            "start" : "1531658100",
+            "country" : [
+               "US"
+            ],
+            "new" : null,
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Alvin og de fr\u00e6kke jordegern"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Alvin, Simon og Theodore er m\u00e5ske nok rockstjerner, men de er ogs\u00e5 helt almindelige b\u00f8rn, der er n\u00f8dt til at passe skolen og g\u00e5 ud med skraldet! Sammen med pigerne fra The Chipettes g\u00f8r de hver dag til en fest - og deres adoptivfar Dave sander hurtigt, at det kr\u00e6ver sin mand at have huset fyldt med syngende jordegern..."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "title" : {
+               "da" : "Alvin og de fr\u00e6kke jordegern"
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1531658700",
+            "country" : [
+               "US"
+            ],
+            "new" : null,
+            "stop" : "1531659600"
+         },
+         {
+            "title" : {
+               "da" : "Fuglekrigen i Kan\u00f8fleskoven"
+            },
+            "channel" : "ultra.dr.dk",
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "start" : "1531659600",
+            "stop" : "1531663500",
+            "date" : "1990",
+            "desc" : {
+               "da" : "Idyllen er hele tiden truet af den grumme rovfugl Fagin, men de to sm\u00e5 fugle Oliver og Olivia vil bek\u00e6mpe ham. De andre fugle er uvillige til at hj\u00e6lpe, b\u00e5de den gnavne ugle, der ligner W.C. Fields, gr\u00e5spurven Betty og den musikalske m\u00e5ge Armstrong. Til geng\u00e6ld f\u00e5r de hj\u00e6lp fra musene Ingolf og Frederik, som forfremmes til fugle."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "aspect" : "4:3"
+            }
+         },
+         {
+            "stop" : "1531664400",
+            "date" : "2015",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Junglebanden"
+            },
+            "start" : "1531663500",
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            }
+         },
+         {
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "start" : "1531664400",
+            "new" : null,
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Junglebanden"
+            },
+            "date" : "2015",
+            "stop" : "1531665000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "date" : "2015",
+            "stop" : "1531665600",
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "start" : "1531665000",
+            "new" : null,
+            "title" : {
+               "da" : "Junglebanden"
+            },
+            "channel" : "ultra.dr.dk",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            }
+         },
+         {
+            "stop" : "1531666800",
+            "date" : "2015",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Dybet"
+            },
+            "previously_shown" : "ultra.dr.dk|2018-05-15 14:45:00",
+            "new" : null,
+            "country" : [
+               "CA"
+            ],
+            "start" : "1531665600",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 11 .",
+               "onscreen" : "Afsnit 12"
+            }
+         },
+         {
+            "date" : "2012",
+            "stop" : "1531668300",
+            "country" : [
+               "CA"
+            ],
+            "new" : null,
+            "start" : "1531666800",
+            "previously_shown" : "ultra.dr.dk|2018-06-19 13:50:00",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Wild Kratts"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "At tale delfinesisk."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 13",
+               "xmltv_ns" : ". 12 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "date" : "2012",
+            "stop" : "1531669500",
+            "country" : [
+               "CA"
+            ],
+            "new" : null,
+            "start" : "1531668300",
+            "previously_shown" : "ultra.dr.dk|2018-06-20 13:45:00",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Wild Kratts"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Vandfr\u00f8."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 13 .",
+               "onscreen" : "Afsnit 14"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "P\u00e5 DR Ultra giver vi dig alt det VM ogs\u00e5 er! Her beh\u00f8ver du ikke vide, hvad offside, 4-4-2 eller indirekte frispark er. Her g\u00f8r vi VM til en fest for ALLE! Vi fyrer den af med quizzer, fede g\u00e6ster og sjove konkurrencer, n\u00e5r Joakim og Anna er v\u00e6rter for Ultras eget og helt s\u00e6rlige VM-show direkte fra Dokk1. VM p\u00e5 Ultra er VM for ALLE!"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "start" : "1531669500",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Ultras vilde VM-show"
+            },
+            "date" : "2018",
+            "stop" : "1531670400"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "stop" : "1531671000",
+            "date" : "2015",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Junglebanden"
+            },
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "start" : "1531670400",
+            "new" : null
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 0 .",
+               "onscreen" : "Afsnit 1"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "previously_shown" : "ultra.dr.dk|2018-04-14 15:05:00",
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "new" : null,
+            "start" : "1531671000",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Grizzy og lemmingerne"
+            },
+            "date" : "2015",
+            "stop" : "1531671300"
+         },
+         {
+            "stop" : "1531672200",
+            "new" : null,
+            "country" : [
+               "US"
+            ],
+            "start" : "1531671300",
+            "title" : {
+               "da" : "Alvin og de fr\u00e6kke jordegern"
+            },
+            "channel" : "ultra.dr.dk",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Alvin, Simon og Theodore er m\u00e5ske nok rockstjerner, men de er ogs\u00e5 helt almindelige b\u00f8rn, der er n\u00f8dt til at passe skolen og g\u00e5 ud med skraldet! Sammen med pigerne fra The Chipettes g\u00f8r de hver dag til en fest - og deres adoptivfar Dave sander hurtigt, at det kr\u00e6ver sin mand at have huset fyldt med syngende jordegern..."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "desc" : {
+               "da" : "Alvin, Simon og Theodore er m\u00e5ske nok rockstjerner, men de er ogs\u00e5 helt almindelige b\u00f8rn, der er n\u00f8dt til at passe skolen og g\u00e5 ud med skraldet! Sammen med pigerne fra The Chipettes g\u00f8r de hver dag til en fest - og deres adoptivfar Dave sander hurtigt, at det kr\u00e6ver sin mand at have huset fyldt med syngende jordegern..."
+            },
+            "stop" : "1531672800",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Alvin og de fr\u00e6kke jordegern"
+            },
+            "country" : [
+               "US"
+            ],
+            "new" : null,
+            "start" : "1531672200"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "I Sofie Linde Show f\u00e5r Sofie i aften bes\u00f8g af Rebecca Emilie Sattrup, Petra Maria Scott Nielsen og S\u00f8ren Malling, der spiller sammen i filmen Skammerens Datter. Rebecca og Emilie har v\u00e6ret p\u00e5 crash-kursus i at skabe sig som \u00e6gte film-divaer. S\u00f8ren Malling skal dyste med Sofie i en afsl\u00f8rende omgang \"Jeg har aldrig\", hvor taberen ender i skammekrogen! Og sammen med sin personlige b\u00f8rne-assistent Jakob, tager reporteren Bubber ud for at r\u00e5de bod p\u00e5 en stor skam, der har hjems\u00f8gt ham i 23 \u00e5r... Det er l\u00f8rdag - det er familietid - og nu tvinger vi b\u00f8rn og voksne tilbage ind i hinandens liv!"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "date" : "2014",
+            "stop" : "1531674600",
+            "start" : "1531672800",
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "Sofie Linde Show I (2) - Skammerens Datter"
+            },
+            "channel" : "ultra.dr.dk"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Flugten."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2",
+               "xmltv_ns" : ". 1 ."
+            },
+            "stop" : "1531677600",
+            "new" : null,
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "start" : "1531674600",
+            "previously_shown" : "ultra.dr.dk|2018-02-13 12:25:00",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Den meget lange ferie"
+            }
+         },
+         {
+            "stop" : "1531683600",
+            "country" : [
+               "US"
+            ],
+            "start" : "1531677600",
+            "new" : null,
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Dreamer"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Ben Crane er en forhenv\u00e6rende rytter, der spilder sit talent som tr\u00e6ner p\u00e5 at g\u00f8re alle andre end sig selv til rige m\u00e6nd. Samtidig m\u00e5 den engang s\u00e5 succesrige v\u00e6ddel\u00f8bshest Sonya efter et benbrud erkende, at karrieren er for kraftigt nedadg\u00e5ende. Ben har l\u00f8n til gode og f\u00e5r Sonya i fratr\u00e6delsesgodtg\u00f8relse. Mon de to har nogen chance for sammen at vinde the Breeder's Cup Classic?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "stop" : "1531690800",
+            "start" : "1531683600",
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Ultra siger godnat"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "start" : "1531690800",
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Ultra siger godnat"
+            },
+            "stop" : "1531698000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "DK"
+            ],
+            "start" : "1531698000",
+            "new" : null,
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Ultra siger godnat"
+            },
+            "stop" : "1531704900"
+         }
+      ]
+   }
+}

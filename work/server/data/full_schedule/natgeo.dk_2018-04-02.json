@@ -1,0 +1,899 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "stop" : "1522630800",
+            "start" : "1522627200",
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "natgeo.dk",
+            "country" : [
+               "US"
+            ],
+            "date" : "2018",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "subTitle" : {
+               "da" : "Kim Jong-Un Den uautoriserede biografi"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0/1 ."
+            },
+            "previously_shown" : "natgeo.dk|2018-04-01 20:00:00",
+            "desc" : {
+               "da" : "Han er den levende hersker over en af verdens atommagter. En ung mand der i hemmelighed blev opfostret til at overtage det nordkoreanske regime."
+            },
+            "title" : {
+               "da" : "Kim Jong-Un Den uautoriserede biografi"
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 af 5 s\u00e6son 1",
+               "xmltv_ns" : "0 . 2/5 ."
+            },
+            "previously_shown" : "natgeo.dk|2018-03-14 03:00:00",
+            "desc" : {
+               "da" : "To m\u00e6nd ankommer fra hver sit kontinent tilsyneladende uden narko, men deres nerver og usammenh\u00e6ngende historier g\u00f8r betjentene mist\u00e6nksomme."
+            },
+            "title" : {
+               "da" : "S\u00e5dan fanger man en smugler"
+            },
+            "subTitle" : {
+               "da" : "Skjult heroin"
+            },
+            "country" : [
+               "US"
+            ],
+            "date" : "2012",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "start" : "1522630800",
+            "stop" : "1522634400",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "natgeo.dk",
+            "new" : "0"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2015",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Reality"
+               ]
+            },
+            "channel" : "natgeo.dk",
+            "new" : "0",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=299304&seasonid=636049&id=5326041&lid=7"
+            ],
+            "start" : "1522634400",
+            "stop" : "1522638000",
+            "desc" : {
+               "da" : "Bj\u00f8rn L\u00e6greid m\u00e5 ud i det vilde vejr for at hj\u00e6lpe en lastbil og g\u00f8re plads til sneplovene, men ender med selv at sidde fast og beh\u00f8ve hj\u00e6lp."
+            },
+            "title" : {
+               "da" : "Vintervejens Helte"
+            },
+            "previously_shown" : "natgeo.dk|2018-02-01 17:00:00",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 6 .",
+               "thetvdb.com" : "series/299304",
+               "onscreen" : "Afsnit 7 s\u00e6son 1"
+            },
+            "subTitle" : {
+               "da" : "Stuck Trucks"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Vintervejens Helte"
+            },
+            "desc" : {
+               "da" : "Sydp\u00e5 reparerer Bj\u00f8rn L\u00e6greid en sneplov og giver en minister et lift, mens Jo Roger Blengsli sk\u00f8jter rundt p\u00e5 de glatte veje l\u00e6ngere nordp\u00e5."
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/299304",
+               "xmltv_ns" : "0 . 4 .",
+               "onscreen" : "Afsnit 5 s\u00e6son 1"
+            },
+            "previously_shown" : "natgeo.dk|2018-02-01 21:00:00",
+            "subTitle" : {
+               "da" : "Black Ice"
+            },
+            "date" : "2015",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=299304&seasonid=636049&id=5321860&lid=7"
+            ],
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Reality"
+               ]
+            },
+            "channel" : "natgeo.dk",
+            "start" : "1522638000",
+            "stop" : "1522641600"
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "date" : "2013",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "start" : "1522641600",
+            "stop" : "1522643400",
+            "channel" : "natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "new" : "0",
+            "previously_shown" : "natgeo.dk|2018-02-12 05:00:00",
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 10/20 .",
+               "onscreen" : "Afsnit 11 af 20 s\u00e6son 3"
+            },
+            "title" : {
+               "da" : "Brain Games"
+            },
+            "desc" : {
+               "da" : "Oplev, hvordan din hjerne opfatter verdenen, n\u00e5r eksperter i kognitiv videnskab, neurovidenskab og psykologi forklarer 'hvorfor' bag dit 'wow'."
+            },
+            "subTitle" : {
+               "da" : "Hjernemad"
+            }
+         },
+         {
+            "start" : "1522643400",
+            "stop" : "1522645200",
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "natgeo.dk",
+            "country" : [
+               "US"
+            ],
+            "date" : "2013",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Risky Business"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 11/20 .",
+               "onscreen" : "Afsnit 12 af 20 s\u00e6son 3"
+            },
+            "previously_shown" : "natgeo.dk|2018-02-12 05:30:00",
+            "title" : {
+               "da" : "Brain Games"
+            },
+            "desc" : {
+               "da" : "Se hvordan din hjerne beregner risici, og hvordan den, selv om den er bygget til det, ikke altid tr\u00e6ffer de mest logiske beslutninger."
+            }
+         },
+         {
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Host",
+                     "name" : "Richard Hammond"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "High Jumps and Shallow Water"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 17 s\u00e6son 2",
+               "thetvdb.com" : "series/280473",
+               "xmltv_ns" : "1 . 16 ."
+            },
+            "previously_shown" : "natgeo.dk|2018-03-05 13:00:00",
+            "title" : {
+               "da" : "Dum, Dummere, Derfor"
+            },
+            "desc" : {
+               "da" : "Videnskabseksperter afsl\u00f8rer pr\u00e6cis, hvordan og hvorfor eventyrlige oplevelser kan ende i det modsatte."
+            },
+            "stop" : "1522647000",
+            "start" : "1522645200",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=280473&seasonid=622812&id=5296705&lid=7"
+            ],
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "natgeo.dk",
+            "country" : [
+               "UK"
+            ],
+            "date" : "2014",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "previously_shown" : "natgeo.dk|2018-03-05 13:30:00",
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 17 .",
+               "thetvdb.com" : "series/280473",
+               "onscreen" : "Afsnit 18 s\u00e6son 2"
+            },
+            "title" : {
+               "da" : "Dum, Dummere, Derfor"
+            },
+            "desc" : {
+               "da" : "Videnskabseksperter afsl\u00f8rer pr\u00e6cis, hvordan og hvorfor eventyrlige oplevelser kan ende i det modsatte."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Richard Hammond",
+                     "role" : "Host"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Piggyback Rides and Ladder Climbing"
+            },
+            "country" : [
+               "UK"
+            ],
+            "date" : "2014",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "stop" : "1522648800",
+            "start" : "1522647000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "natgeo.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=280473&seasonid=622812&id=5296706&lid=7"
+            ],
+            "new" : "0"
+         },
+         {
+            "previously_shown" : "natgeo.dk|2018-03-30 06:00:00",
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 4/10 .",
+               "onscreen" : "Afsnit 5 af 10 s\u00e6son 3"
+            },
+            "desc" : {
+               "da" : "For tredje gang vender National Geographic Channels' \"Wicked Tuna: Nord mod Syd\" tilbage til Outer Banks - verdens farligste sted at fange tun."
+            },
+            "title" : {
+               "da" : "Wicked Tuna - Nord mod Syd"
+            },
+            "subTitle" : {
+               "da" : "Ikke s\u00e5dan vi g\u00f8r"
+            },
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2016",
+            "stop" : "1522652400",
+            "start" : "1522648800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Action"
+               ]
+            },
+            "channel" : "natgeo.dk",
+            "new" : "0"
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=267736&seasonid=613019&id=5141915&lid=7"
+            ],
+            "new" : "0",
+            "channel" : "natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "start" : "1522652400",
+            "stop" : "1522656000",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2013",
+            "subTitle" : {
+               "da" : "Under Pressure"
+            },
+            "desc" : {
+               "da" : "Minearbejderparret Nika og Chris er under maksimalt pres, da planen om at flytte deres sluse til det n\u00e6ste jordlod ikke g\u00e5r helt som forventet."
+            },
+            "title" : {
+               "da" : "Yukon Gold"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 3",
+               "thetvdb.com" : "series/267736",
+               "xmltv_ns" : "2 . 3 ."
+            },
+            "previously_shown" : "natgeo.dk|2018-02-02 08:00:00"
+         },
+         {
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2017",
+            "stop" : "1522659600",
+            "start" : "1522656000",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "natgeo.dk",
+            "new" : "0",
+            "previously_shown" : "natgeo.dk|2018-03-30 09:00:00",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 af 10 s\u00e6son 16",
+               "xmltv_ns" : "15 . 2/10 ."
+            },
+            "desc" : {
+               "da" : "Unders\u00f8gelse af flystyrt afsl\u00f8rer sandheden bag de mest berygtede flykatastrofer, med \u00f8jenvidneberetninger, CGI og rekonstruktion."
+            },
+            "title" : {
+               "da" : "Unders\u00f8gelse af flystyrt"
+            },
+            "subTitle" : {
+               "da" : "Nye indfaldsvinkler"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "natgeo.dk",
+            "new" : "0",
+            "start" : "1522659600",
+            "stop" : "1522663200",
+            "date" : "2017",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "subTitle" : {
+               "da" : "Spr\u00e6ngfarligt bevis"
+            },
+            "title" : {
+               "da" : "Unders\u00f8gelse af flystyrt"
+            },
+            "desc" : {
+               "da" : "Kort efter TWA Fly 800 lettede, rev en stor eksplosion flyet i sm\u00e5stykker. Det f\u00f8rte til en af de mest udfordrende efterforskninger nogensinde."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 af 10 s\u00e6son 16",
+               "xmltv_ns" : "15 . 3/10 ."
+            }
+         },
+         {
+            "desc" : {
+               "da" : "F\u00f8lg de m\u00e6nd og kvinder der st\u00e5r i spidsen for at stoppe stoffer og illegal immigration i Colombias travleste lufthavn"
+            },
+            "title" : {
+               "da" : "Airport Security Colombia"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 5/7 .",
+               "onscreen" : "Afsnit 6 af 7 s\u00e6son 2"
+            },
+            "subTitle" : {
+               "da" : "Afsnit 6"
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2017",
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "natgeo.dk",
+            "stop" : "1522666800",
+            "start" : "1522663200"
+         },
+         {
+            "subTitle" : {
+               "da" : "Fiat Dino"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 af 10 s\u00e6son 5",
+               "xmltv_ns" : "4 . 2/10 ."
+            },
+            "previously_shown" : "natgeo.dk|2018-02-08 20:00:00",
+            "title" : {
+               "da" : "Biler i n\u00f8d"
+            },
+            "desc" : {
+               "da" : "Bilelskeren Chris satte restaureringen af sin elskede Fiat Dino coupe p\u00e5 pause, da han fik cancer. Nu er det op til Tim og Fuzz."
+            },
+            "start" : "1522666800",
+            "stop" : "1522670400",
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "natgeo.dk",
+            "country" : [
+               "UK"
+            ],
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "date" : "2017"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2009",
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=97821&seasonid=74561&id=723501&lid=7"
+            ],
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "natgeo.dk",
+            "start" : "1522670400",
+            "stop" : "1522674000",
+            "title" : {
+               "da" : "Englands st\u00f8rste maskiner"
+            },
+            "desc" : {
+               "da" : "V\u00e6rten Chris Barrie ser p\u00e5 en kampvogn fra 2. verdenskrig, en Sentinel-damplastbil og et prisvindende fly fra 1930'erne."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "thetvdb.com" : "series/97821",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "subTitle" : {
+               "da" : "1930s: The Road to War"
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Jeremy Cadel"
+                  }
+               ]
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2013",
+            "country" : [
+               "UK"
+            ],
+            "channel" : "natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "new" : "0",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=275439&seasonid=611086&id=5111049&lid=7"
+            ],
+            "stop" : "1522677600",
+            "start" : "1522674000",
+            "desc" : {
+               "da" : "I deres jagt efter verdensherred\u00f8mmet byggede nazisterne noget af vor tids st\u00f8rste, mest d\u00f8dbringende milit\u00e6rudstyr og ondskabsfulde teknologi."
+            },
+            "title" : {
+               "da" : "Nazi Megakonstruktioner"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/275439",
+               "xmltv_ns" : "1 . 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 2"
+            },
+            "previously_shown" : "natgeo.dk|2018-02-26 23:00:00",
+            "subTitle" : {
+               "da" : "Himmler's SS"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Richard Lintern",
+                     "role" : "Narrator"
+                  }
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Vi g\u00e5r helt t\u00e6t p\u00e5 de fire vigtige teknologiske opfindelser, som gjorde Panama-kanalen til et af menneskets st\u00f8rste tekniske vidundere."
+            },
+            "title" : {
+               "da" : "Stor, st\u00f8rre, st\u00f8rst"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 0/6 .",
+               "onscreen" : "Afsnit 1 af 6 s\u00e6son 3"
+            },
+            "subTitle" : {
+               "da" : "Kanalzonen"
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2011",
+            "country" : [
+               "UK"
+            ],
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "natgeo.dk",
+            "start" : "1522677600",
+            "stop" : "1522681200"
+         },
+         {
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "natgeo.dk",
+            "stop" : "1522684800",
+            "start" : "1522681200",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2017",
+            "country" : [
+               "UK"
+            ],
+            "subTitle" : {
+               "da" : "Caterham 7"
+            },
+            "desc" : {
+               "da" : "Tim og Fuzz finder en britisk sportsvogn, enhver amat\u00f8rracers dr\u00f8m: en Caterham 7. Kan de hj\u00e6lpe ejeren Jason med at f\u00e5 den ud at k\u00f8re?"
+            },
+            "title" : {
+               "da" : "Biler i n\u00f8d"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8 af 10 s\u00e6son 5",
+               "xmltv_ns" : "4 . 7/10 ."
+            },
+            "previously_shown" : "natgeo.dk|2018-03-03 04:00:00"
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 9 af 10 s\u00e6son 5",
+               "xmltv_ns" : "4 . 8/10 ."
+            },
+            "previously_shown" : "natgeo.dk|2018-03-11 09:00:00",
+            "title" : {
+               "da" : "Biler i n\u00f8d"
+            },
+            "desc" : {
+               "da" : "Tim og Fuzz g\u00e5r i gang med en utroligt velbevaret Austin 10 Utility Truck fra 1941. Fuzz vil bevare den, som den er, men vil Tim ogs\u00e5 det?"
+            },
+            "subTitle" : {
+               "da" : "Austin Tilly Truck"
+            },
+            "country" : [
+               "UK"
+            ],
+            "date" : "2017",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "stop" : "1522688400",
+            "start" : "1522684800",
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "natgeo.dk"
+         },
+         {
+            "subTitle" : {
+               "da" : "9/11: Angrebet p\u00e5 Pentagon"
+            },
+            "previously_shown" : "natgeo.dk|2018-03-16 10:00:00",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 10 s\u00e6son 15",
+               "xmltv_ns" : "14 . 1/10 ."
+            },
+            "title" : {
+               "da" : "Unders\u00f8gelse af flystyrt"
+            },
+            "desc" : {
+               "da" : "Den 11. september 2001 fl\u00f8j flykaprere Flight 77 fra American Airlines ind i Pentagon, og i New York ramte jetfly World Trade Center."
+            },
+            "start" : "1522688400",
+            "stop" : "1522692000",
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "natgeo.dk",
+            "date" : "2016",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Kim Jong-Un Den uautoriserede biografi"
+            },
+            "title" : {
+               "da" : "Kim Jong-Un Den uautoriserede biografi"
+            },
+            "desc" : {
+               "da" : "Han er den levende hersker over en af verdens atommagter. En ung mand der i hemmelighed blev opfostret til at overtage det nordkoreanske regime."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0/1 ."
+            },
+            "previously_shown" : "natgeo.dk|2018-04-01 20:00:00",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "natgeo.dk",
+            "new" : "0",
+            "start" : "1522692000",
+            "stop" : "1522695600",
+            "date" : "2018",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "US"
+            ]
+         },
+         {
+            "subTitle" : {
+               "da" : "Bl\u00e6st v\u00e6k"
+            },
+            "desc" : {
+               "da" : "TransAsia Flight 222 styrter ned i Penghu. En cyklon f\u00e5r skylden, men en systemfejl afsl\u00f8res, da selskabet har en anden ulykke"
+            },
+            "title" : {
+               "da" : "Unders\u00f8gelse af flystyrt"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "16 . 1/10 .",
+               "onscreen" : "Afsnit 2 af 10 s\u00e6son 17"
+            },
+            "previously_shown" : "natgeo.dk|2018-03-10 17:00:00",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "natgeo.dk",
+            "new" : "0",
+            "stop" : "1522699200",
+            "start" : "1522695600",
+            "date" : "2018",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "US"
+            ]
+         },
+         {
+            "subTitle" : {
+               "da" : "Lancia Delta Integrale"
+            },
+            "title" : {
+               "da" : "Biler i n\u00f8d"
+            },
+            "desc" : {
+               "da" : "Tim og Fuzz henter bilentusiasten Garys Lancia Integrale Evo II fra 1994: En verdenskendt rallybil, der er rustet igennem."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 10 s\u00e6son 6",
+               "xmltv_ns" : "5 . 1/10 ."
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "natgeo.dk",
+            "new" : "1",
+            "stop" : "1522702800",
+            "start" : "1522699200",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "date" : "2018",
+            "country" : [
+               "UK"
+            ]
+         },
+         {
+            "start" : "1522702800",
+            "stop" : "1522706400",
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "natgeo.dk",
+            "date" : "2011",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "subTitle" : {
+               "da" : "P\u00e5 katastrofekurs"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "10 . 11/13 .",
+               "onscreen" : "Afsnit 12 af 13 s\u00e6son 11"
+            },
+            "previously_shown" : "natgeo.dk|2018-02-07 10:00:00",
+            "desc" : {
+               "da" : "Da en alarm lyder og advarer piloterne p\u00e5 fly 518 om, at de er farligt t\u00e6t p\u00e5 jorden, smadres flyet pludseligt mod et bjerg."
+            },
+            "title" : {
+               "da" : "Unders\u00f8gelse af flystyrt"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Afsporet i England"
+            },
+            "title" : {
+               "da" : "Fanget i Udlandet"
+            },
+            "desc" : {
+               "da" : "Pieter Tritton, fanget i Ecuador med 2 kg kokain, finder snart ud af, om han kan overleve i et af verdens meste korrupte strafferetlige systemer."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "10 . 0/6 .",
+               "onscreen" : "Afsnit 1 af 6 s\u00e6son 11"
+            },
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "natgeo.dk",
+            "stop" : "1522710000",
+            "start" : "1522706400",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2017",
+            "country" : [
+               "UK"
+            ]
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 2/10 .",
+               "onscreen" : "Afsnit 3 af 10 s\u00e6son 3"
+            },
+            "desc" : {
+               "da" : "Tim og Fuzz giver den historiske racerbil Austin-Healey Sebring Sprite en ordentlig overhaling, s\u00e5 Sir Stirling Moss kan komme bag rattet igen."
+            },
+            "title" : {
+               "da" : "Biler i n\u00f8d"
+            },
+            "subTitle" : {
+               "da" : "Stirling Moss Sprite Special"
+            },
+            "country" : [
+               "UK"
+            ],
+            "date" : "2015",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "stop" : "1522713600",
+            "start" : "1522710000",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "natgeo.dk",
+            "new" : "0"
+         }
+      ]
+   }
+}

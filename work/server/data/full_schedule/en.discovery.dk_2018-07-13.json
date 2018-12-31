@@ -1,0 +1,631 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "desc" : {
+               "en" : "Thousands of tonnes of fertiliser must be moved before rains threatens to destroy the cargo. A classic car dealer ships a load of vintage motors worth \u00a32 million."
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 1 season 2",
+               "xmltv_ns" : "1 . 0 ."
+            },
+            "subTitle" : {
+               "en" : "Episode 1"
+            },
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Mega Shippers"
+            },
+            "start" : "1531440000",
+            "new" : null,
+            "stop" : "1531443600"
+         },
+         {
+            "stop" : "1531446900",
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Naked And Afraid"
+            },
+            "start" : "1531443600",
+            "new" : null,
+            "subTitle" : {
+               "en" : "Terror in Tanzania"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "desc" : {
+               "en" : "Two survivalists, EJ Snyder and Kellie Nightlinger, put their skills to the test: to survive the African Serengeti for 21 days - with no food, water or clothes."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Episode 1 season 1"
+            }
+         },
+         {
+            "title" : {
+               "en" : "Deadliest Catch"
+            },
+            "channel" : "en.discovery.dk",
+            "new" : null,
+            "start" : "1531446900",
+            "stop" : "1531452900",
+            "desc" : {
+               "en" : "Intense weather and even more damage to his battered boat take a toll on Sig's heart. And the USCG attempts a dangerous medevac."
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 17 season 12",
+               "xmltv_ns" : "11 . 16 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "en" : "The Widowmaker: Part 1"
+            }
+         },
+         {
+            "stop" : "1531454400",
+            "title" : {
+               "en" : "How It's Made"
+            },
+            "channel" : "en.discovery.dk",
+            "start" : "1531452900",
+            "new" : null,
+            "subTitle" : {
+               "en" : "Aluminium Canoes, Wood Bowls"
+            },
+            "desc" : {
+               "en" : "More everyday items go under the microscope with a look at how objects including aluminum canoes, wood bowls and marimbas are made."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "20 . 7 .",
+               "onscreen" : "Episode 8 season 21"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "en" : "More everyday items go under the microscope with a look at how indie car seats, paper flowers and stand-by generators are made."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 9 season 21",
+               "xmltv_ns" : "20 . 8 ."
+            },
+            "subTitle" : {
+               "en" : "Indy Car Seats, Paper Flowers, Stand-By Generators"
+            },
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "How It's Made"
+            },
+            "new" : null,
+            "start" : "1531454400",
+            "stop" : "1531455900"
+         },
+         {
+            "desc" : {
+               "en" : "Paul and the team prepare for their next auction, which includes a WWII Japanese rifle and sword still wrapped in the paper they were mailed to the US in."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 7 season 1",
+               "xmltv_ns" : "0 . 6 ."
+            },
+            "subTitle" : {
+               "en" : "Iwo Jima Sword"
+            },
+            "new" : null,
+            "start" : "1531455900",
+            "title" : {
+               "en" : "Auction Kings"
+            },
+            "channel" : "en.discovery.dk",
+            "stop" : "1531457700"
+         },
+         {
+            "subTitle" : {
+               "en" : "Love Meter"
+            },
+            "desc" : {
+               "en" : "The auction includes a sword from a secret society and a 1637 prayer book; meanwhile, Delfino repairs a love meter game that the team use to crown the gallery's best lover!"
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 8 season 1",
+               "xmltv_ns" : "0 . 7 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1531459200",
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Auction Kings"
+            },
+            "new" : null,
+            "start" : "1531457700"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 7 .",
+               "onscreen" : "Episode 8 season 3"
+            },
+            "desc" : {
+               "en" : "Wayde and Brett recreate a spine insert for an aquarium that will stand in a rehabilitation facility's office. Later, they create an underwater forest."
+            },
+            "subTitle" : {
+               "en" : "Just What The Doctor Ordered"
+            },
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Tanked"
+            },
+            "new" : null,
+            "start" : "1531459200",
+            "stop" : "1531462500"
+         },
+         {
+            "title" : {
+               "en" : "Devil's Canyon"
+            },
+            "channel" : "en.discovery.dk",
+            "new" : null,
+            "start" : "1531462500",
+            "stop" : "1531465500",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 5 .",
+               "onscreen" : "Episode 6 season 1"
+            },
+            "desc" : {
+               "en" : "It's the final push before winter hits and season goals slip away. Pump problems for Boyce put his gold haul at risk, and Ben banks on his skills to survive."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "en" : "Devil's Handshake"
+            }
+         },
+         {
+            "desc" : {
+               "en" : "Mike tries to find a V8-powered Land Rover Defender that Edd can turn into a cool urban cruiser. With just \u00a35,000 can he find a decent car and spec it up?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "6 . 7 .",
+               "onscreen" : "Episode 8 season 7"
+            },
+            "subTitle" : {
+               "en" : "Land Rover Defender"
+            },
+            "title" : {
+               "en" : "Wheeler Dealers"
+            },
+            "channel" : "en.discovery.dk",
+            "new" : null,
+            "start" : "1531465500",
+            "stop" : "1531468800"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 2 .",
+               "onscreen" : "Episode 3 season 1"
+            },
+            "desc" : {
+               "en" : "Heavy D adds a second truck to their latest giveaway, with a snowmobile race to promote it. And, the team is in Houston to help hurricane victims."
+            },
+            "subTitle" : {
+               "en" : "Hurricanes, Trucks And Snowmobiles"
+            },
+            "title" : {
+               "en" : "Diesel Brothers"
+            },
+            "channel" : "en.discovery.dk",
+            "new" : null,
+            "start" : "1531468800",
+            "stop" : "1531472400"
+         },
+         {
+            "subTitle" : {
+               "en" : "The Widowmaker: Part 2"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "desc" : {
+               "en" : "Sig fights to survive a massive heart attack, Bill learns a dark secret about his son, Josh fights to prove himself, and Jake learns a valuable lesson."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "11 . 17 .",
+               "onscreen" : "Episode 18 season 12"
+            },
+            "stop" : "1531479600",
+            "new" : null,
+            "start" : "1531472400",
+            "title" : {
+               "en" : "Deadliest Catch"
+            },
+            "channel" : "en.discovery.dk"
+         },
+         {
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Gold Rush"
+            },
+            "start" : "1531479600",
+            "new" : null,
+            "stop" : "1531483200",
+            "desc" : {
+               "en" : "Faced with losing McKinnon Creek, Todd goes mining for nuggets and a new claim. Tony steers the dredge in a new direction and Parker pushes his crew to the limit."
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 17 season 6",
+               "xmltv_ns" : "5 . 16 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "en" : "Oregon Gold"
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Episode 3 season 7",
+               "xmltv_ns" : "6 . 2 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "desc" : {
+               "en" : "For 80 years, the Kilchers have relied on an array of equipment to survive. And it's these dangerous tools that keep the homestead from falling apart."
+            },
+            "subTitle" : {
+               "en" : "Big Machines, Bigger Risks"
+            },
+            "start" : "1531483200",
+            "new" : null,
+            "title" : {
+               "en" : "Alaska: The Last Frontier (Season Specials)"
+            },
+            "channel" : "en.discovery.dk",
+            "stop" : "1531486800"
+         },
+         {
+            "subTitle" : {
+               "en" : "The Jungle Strikes Back"
+            },
+            "desc" : {
+               "en" : "Parker and the gang have set up their own gold mine in Marudi. But their dreams are derailed by a local land dispute that threatens to turn violent."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 5 season 2",
+               "xmltv_ns" : "1 . 4 ."
+            },
+            "stop" : "1531490400",
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Gold Rush: Parker's Trail"
+            },
+            "start" : "1531486800",
+            "new" : null
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Episode 5 season 9",
+               "xmltv_ns" : "8 . 4 ."
+            },
+            "desc" : {
+               "en" : "From the largest hospital ship on the planet to an expedition cruise ship, an unprecedented see-all, hear-all access to the most sophisticated ships ever built."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "en" : "Episode 5"
+            },
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Mighty Ships"
+            },
+            "start" : "1531490400",
+            "new" : null,
+            "stop" : "1531494000"
+         },
+         {
+            "start" : "1531494000",
+            "new" : null,
+            "title" : {
+               "en" : "Salvage Hunters"
+            },
+            "channel" : "en.discovery.dk",
+            "stop" : "1531497600",
+            "desc" : {
+               "en" : "Drew visits Britain's biggest private home, where he is stumped on negotiations, finds some cool head carvings and discovers the actual tartan of Elvis Presley."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "4 . 2 .",
+               "onscreen" : "Episode 3 season 5"
+            },
+            "subTitle" : {
+               "en" : "Episode 3"
+            }
+         },
+         {
+            "subTitle" : {
+               "en" : "Volvo P1800s"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "6 . 8 .",
+               "onscreen" : "Episode 9 season 7"
+            },
+            "desc" : {
+               "en" : "The team can't wait to get hold of a Volvo P1800 but the problem is, these cars are rare and Mike can only find a single car that's in budget. Will it be good enough?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1531501200",
+            "new" : null,
+            "start" : "1531497600",
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Wheeler Dealers"
+            }
+         },
+         {
+            "subTitle" : {
+               "en" : "Episode 7"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 6 .",
+               "onscreen" : "Episode 7 season 2"
+            },
+            "desc" : {
+               "en" : "In a wild frontier world of blistering heat and vast distances, an army of workers work tirelessly day and night to keep Australia's railway network on time and on track."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1531504800",
+            "title" : {
+               "en" : "Railroad Australia"
+            },
+            "channel" : "en.discovery.dk",
+            "new" : null,
+            "start" : "1531501200"
+         },
+         {
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Deadliest Catch"
+            },
+            "new" : null,
+            "start" : "1531504800",
+            "stop" : "1531508400",
+            "desc" : {
+               "en" : "Accidents hit the decks. As winter rocks the fleet with huge swells and strong winds, the Bering Sea takes a brutal toll on a rookie. On the Wizard, mutiny is looming."
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 12 season 14",
+               "xmltv_ns" : "13 . 11 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "en" : "Bad Blood"
+            }
+         },
+         {
+            "desc" : {
+               "en" : "A violent and treacherous midsummer storm forces the fleet off the mining grounds. And, the crews repair and improve their dredges before the season's end."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "6 . 0 .",
+               "onscreen" : "Episode 1 season 7"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "en" : "Miners On The Storm"
+            },
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Gold Divers"
+            },
+            "start" : "1531508400",
+            "new" : null,
+            "stop" : "1531512000"
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 13 .",
+               "onscreen" : "Episode 14 season 1"
+            },
+            "desc" : {
+               "en" : "Ryan Martin, Chuck, and Birdman fight for the lead in points. The racers are in Orangeburg, South Carolina, using callouts and strategy to try to get ahead."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "en" : "Carolina Callouts"
+            },
+            "new" : null,
+            "start" : "1531512000",
+            "title" : {
+               "en" : "Street Outlaws: No Prep Kings (Special)"
+            },
+            "channel" : "en.discovery.dk",
+            "stop" : "1531515600"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "desc" : {
+               "en" : "The racers move into round two of the sixth race in South Carolina. As the track improves, the racers turn it up to try to win - and they fight to survive."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 5 .",
+               "onscreen" : "Episode 6 season 1"
+            },
+            "subTitle" : {
+               "en" : "South Carolina Two Step"
+            },
+            "title" : {
+               "en" : "Street Outlaws: No Prep Kings"
+            },
+            "channel" : "en.discovery.dk",
+            "start" : "1531515600",
+            "new" : null,
+            "stop" : "1531519200"
+         },
+         {
+            "start" : "1531519200",
+            "new" : null,
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Cooper's Treasure"
+            },
+            "stop" : "1531522800",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 5 .",
+               "onscreen" : "Episode 6 season 1"
+            },
+            "desc" : {
+               "en" : "The discovery of a lifetime becomes a massive salvage operation. Pulling up and verifying Columbus' anchor might be the biggest challenge yet."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "en" : "The Columbus Treasure"
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Episode 1 season 7",
+               "xmltv_ns" : "6 . 0 ."
+            },
+            "desc" : {
+               "en" : "A violent and treacherous midsummer storm forces the fleet off the mining grounds. And, the crews repair and improve their dredges before the season's end."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "en" : "Miners On The Storm"
+            },
+            "new" : null,
+            "start" : "1531522800",
+            "title" : {
+               "en" : "Gold Divers"
+            },
+            "channel" : "en.discovery.dk",
+            "stop" : "1531526400"
+         }
+      ]
+   }
+}

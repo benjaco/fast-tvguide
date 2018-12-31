@@ -1,0 +1,840 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "date" : "2015",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Sp\u00e6ndende opfindelser"
+            },
+            "desc" : {
+               "da" : "Det mest essentielle v\u00e6rkt\u00f8j til den moderne fotograf er digitalkameraet. Men vidste du, at kameraet oprindeligt stammer fra milit\u00e6ret? Vi udforsker ogs\u00e5 historien om uret og proteser."
+            },
+            "start" : "1522800900",
+            "stop" : "1522802700",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "history.viasat.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "xmltv_ns" : "0 . 1 ."
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 5",
+               "xmltv_ns" : "4 . 3 ."
+            },
+            "channel" : "history.viasat.dk",
+            "stop" : "1522805400",
+            "title" : {
+               "da" : "Museumsmysterier"
+            },
+            "desc" : {
+               "da" : "Don Wildman unders\u00f8ger en pistol, der er knyttet til en r\u00e6kke s\u00e6re begivenheder i Det Vilde Vesten."
+            },
+            "start" : "1522802700",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2014",
+            "new" : null
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "history.viasat.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "6 . 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 7"
+            },
+            "stop" : "1522808100",
+            "title" : {
+               "da" : "Museumsmysterier"
+            },
+            "start" : "1522805400",
+            "desc" : {
+               "da" : "Don Wildman unders\u00f8ger et manuskript, der startede et opr\u00f8r, en monokel, der blev brugt til en flugt fra bag fjendens linjer, og indpakningen til et produkt, der blev brugt til postsvindel."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2015",
+            "new" : null
+         },
+         {
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2015",
+            "desc" : {
+               "da" : "Jamie unders\u00f8ger den us\u00e6dvanlige teori om, at Hitler ikke begik selvmord, men i stedet flygtede fra den berygtede bunker."
+            },
+            "start" : "1522808100",
+            "title" : {
+               "da" : "Forbudt historie"
+            },
+            "stop" : "1522811100",
+            "channel" : "history.viasat.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 3",
+               "xmltv_ns" : "2 . 1 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "stop" : "1522814400",
+            "channel" : "history.viasat.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2016",
+            "start" : "1522811100",
+            "desc" : {
+               "da" : "I 2012 og 2015 fandt man under Crossrail-byggeriet kranier i London - og dermed et af byens ark\u00e6ologis mest sp\u00e6ndende mysterier."
+            },
+            "title" : {
+               "da" : "Mysteriet om de romerske kranier"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 4"
+            },
+            "channel" : "history.viasat.dk",
+            "stop" : "1522814700",
+            "title" : {
+               "da" : "Verdens vidundere"
+            },
+            "start" : "1522814400",
+            "desc" : {
+               "da" : "Fyld"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null
+         },
+         {
+            "stop" : "1522816500",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "history.viasat.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 18 .",
+               "onscreen" : "Afsnit 19 s\u00e6son 1"
+            },
+            "date" : "2015",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Sp\u00e6ndende opfindelser"
+            },
+            "desc" : {
+               "da" : "Der er en meget stor chance for, at mange af dine k\u00f8kkenting er fremstillet af teflon. Vidste du, at det, i Manhattan-projektet, blev brugt til at holde p\u00e5 uran? L\u00e6r ogs\u00e5 om 3D-brillens oprindelse."
+            },
+            "start" : "1522814700"
+         },
+         {
+            "new" : null,
+            "date" : "2013",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Don Wildman ser p\u00e5 et v\u00e5ben, der tilh\u00f8rte en hemmelig spionring p\u00e5 amerikansk jord, og p\u00e5 en taske, der tilh\u00f8rte en banebrydende journalist."
+            },
+            "start" : "1522816500",
+            "title" : {
+               "da" : "Museumsmysterier"
+            },
+            "stop" : "1522819200",
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 4"
+            },
+            "channel" : "history.viasat.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 1"
+            },
+            "channel" : "history.viasat.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1522821900",
+            "start" : "1522819200",
+            "desc" : {
+               "da" : "Vi ser, hvordan nazisterne begyndte at pr\u00e6ge Tyskland og de lande, Tyskland erobrede, med planer om et nyt Berlin til Warszawas \u00f8del\u00e6ggelse."
+            },
+            "title" : {
+               "da" : "Hitlers imperium: Efterkrigsplanen"
+            },
+            "new" : null,
+            "date" : "2018",
+            "video" : {
+               "aspect" : "4:3"
+            }
+         },
+         {
+            "stop" : "1522824900",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 1"
+            },
+            "channel" : "history.viasat.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "new" : null,
+            "date" : "2018",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "start" : "1522821900",
+            "desc" : {
+               "da" : "I dette afsnit ser vi, hvordan Hitler brugte OL til nazi-propaganda og styrede borgernes fritid og ferier ved at udvikle verdens st\u00f8rste rejsebureau."
+            },
+            "title" : {
+               "da" : "Hitlers imperium: Efterkrigsplanen"
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "xmltv_ns" : "0 . 1 ."
+            },
+            "channel" : "history.viasat.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "country" : [
+               "GB"
+            ],
+            "stop" : "1522827900",
+            "start" : "1522824900",
+            "desc" : {
+               "da" : "Afsnittet tager et kig p\u00e5 den chokerende teori om, at den tidligere konge af Storbritannien, Edward Duke of Windsor, og hans kone Wallies, skulle have v\u00e6ret skabsnazister under Anden Verdenskrig."
+            },
+            "title" : {
+               "da" : "Konspirationer"
+            },
+            "new" : null,
+            "date" : "2015",
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2015",
+            "new" : null,
+            "title" : {
+               "da" : "Forbudt historie"
+            },
+            "start" : "1522827900",
+            "desc" : {
+               "da" : "Jamie fors\u00f8ger at se l\u00e6ngere frem, end de anerkendte ortodoksi og overbevisninger, mens dette afsnit tager os under jorden, for at unders\u00f8ge den us\u00e6dvanlige historie om 'Church of Satan'."
+            },
+            "stop" : "1522830900",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "history.viasat.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 s\u00e6son 3",
+               "xmltv_ns" : "2 . 4 ."
+            }
+         },
+         {
+            "channel" : "history.viasat.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1522833900",
+            "start" : "1522830900",
+            "desc" : {
+               "da" : "Tracy Borman opdager, at dronning Victoria, der siges at have v\u00e6ret stram og uden humor, faktisk var stikmodsat. Den unge Victoria var glad for karry og tyggegummi med kokain og for at flirte."
+            },
+            "title" : {
+               "da" : "De kongeliges hemmeligheder"
+            },
+            "new" : null,
+            "date" : "2016",
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "channel" : "history.viasat.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1522836900",
+            "start" : "1522833900",
+            "desc" : {
+               "da" : "George III blev kaldt \"bonde-George\", men Tracy opdager, at han faktisk var et dannet familiemenneske med et fremragende intellekt. Hun finder ogs\u00e5 ud af mere om Georges psykiske helbred."
+            },
+            "title" : {
+               "da" : "De kongeliges hemmeligheder"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2016"
+         },
+         {
+            "title" : {
+               "da" : "De seks hustruers hemmelighed"
+            },
+            "start" : "1522836900",
+            "desc" : {
+               "da" : "Lucy fort\u00e6ller om Henrik 8. og Katharina af Aragoniens \u00e6gteskab, der var hans f\u00f8rste. Trods hendes evner som dronning f\u00f8dte hun ingen s\u00f8nner som \u00f8nsket, og kongen faldt da for Anne Boleyn."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2016",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "history.viasat.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "stop" : "1522840500"
+         },
+         {
+            "stop" : "1522844100",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "history.viasat.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "xmltv_ns" : "0 . 1 ."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2016",
+            "new" : null,
+            "title" : {
+               "da" : "De seks hustruers hemmelighed"
+            },
+            "desc" : {
+               "da" : "Henrik bryder med den katolske kirke og gifter sig med Anne Boleyn, men bliver tr\u00e6t af hende og falder for Jane Seymour. Annes sk\u00e6bne er forseglet, og hun henrettes, s\u00e5 Henrik kan gifte sig med Jane."
+            },
+            "start" : "1522840500"
+         },
+         {
+            "title" : {
+               "da" : "Forbudt historie"
+            },
+            "desc" : {
+               "da" : "Jamie rejser til Rum\u00e6nien, frygtl\u00f8st bev\u00e6bnet med et krucifiks og hvidl\u00f8g, for at udforske hvor meget af vampyrlegenden egentlig er baseret p\u00e5 virkelighed."
+            },
+            "start" : "1522844100",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2015",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "history.viasat.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 3 .",
+               "onscreen" : "Afsnit 4 s\u00e6son 3"
+            },
+            "stop" : "1522847100"
+         },
+         {
+            "new" : null,
+            "date" : "2016",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Krig, konflikter og behovet for at udforske det ukendte er katalysator for menneskets teknologiske fremskridt. N\u00e5r mennesket er mest innovative, er vi ogs\u00e5 mest destruktive."
+            },
+            "start" : "1522847100",
+            "title" : {
+               "da" : "Sp\u00e6ndende opfindelser"
+            },
+            "stop" : "1522848900",
+            "channel" : "history.viasat.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 23 s\u00e6son 2",
+               "xmltv_ns" : "1 . 22 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "start" : "1522848900",
+            "desc" : {
+               "da" : "Hvordan kunne et lille og ekstremt parti under ledelse af en falleret kunstner overbevise et helt land om at f\u00e5 magten?"
+            },
+            "title" : {
+               "da" : "Projekt nazi"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2017",
+            "channel" : "history.viasat.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1522852500"
+         },
+         {
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2013",
+            "start" : "1522852500",
+            "desc" : {
+               "da" : "Don Wildman ser p\u00e5 et v\u00e5ben, der tilh\u00f8rte en hemmelig spionring p\u00e5 amerikansk jord, og p\u00e5 en taske, der tilh\u00f8rte en banebrydende journalist."
+            },
+            "title" : {
+               "da" : "Museumsmysterier"
+            },
+            "stop" : "1522855500",
+            "channel" : "history.viasat.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 4"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Jamie fors\u00f8ger at se l\u00e6ngere frem, end de anerkendte ortodoksi og overbevisninger, mens dette afsnit tager os under jorden, for at unders\u00f8ge den us\u00e6dvanlige historie om 'Church of Satan'."
+            },
+            "start" : "1522855500",
+            "title" : {
+               "da" : "Forbudt historie"
+            },
+            "new" : null,
+            "date" : "2015",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 s\u00e6son 3",
+               "xmltv_ns" : "2 . 4 ."
+            },
+            "channel" : "history.viasat.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1522858500"
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 4 .",
+               "onscreen" : "Afsnit 5 s\u00e6son 1"
+            },
+            "channel" : "history.viasat.dk",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "War"
+                  },
+                  {
+                     "name" : "History"
+                  },
+                  {
+                     "name" : "Documentary"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1522861500",
+            "desc" : {
+               "da" : "M\u00f8rkl\u00e6gningen var uundg\u00e5elig i Nazityskland og Storbritannien. I dette afsnit ser vi p\u00e5 to seriemordere, der i ly af det m\u00f8rke uds\u00e5 sig ofre i London og Berlin."
+            },
+            "start" : "1522858500",
+            "title" : {
+               "da" : "Krigskriminalitet"
+            },
+            "new" : null,
+            "date" : "2017",
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Colombus anede ikke, at Jordens geologi og geografi ville afholde ham fra at n\u00e5 frem, eller at hans rejse ville v\u00e6re en af historiens mest indflydelsesrige ekspeditioner."
+            },
+            "start" : "1522861500",
+            "title" : {
+               "da" : "Dyb historie"
+            },
+            "new" : null,
+            "date" : "2016",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "xmltv_ns" : "0 . 1 ."
+            },
+            "channel" : "history.viasat.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1522864800"
+         },
+         {
+            "date" : "2015",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Kort over mord"
+            },
+            "desc" : {
+               "da" : "Verden s\u00e5 med, da dronning Elizabeth II blev kronet om sommeren 1953. Dagen f\u00f8r kroningen fandt man liget af en pige i Themsen. F\u00e5 dage efter fandt man endnu et..."
+            },
+            "start" : "1522864800",
+            "stop" : "1522867800",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Crime"
+                  },
+                  {
+                     "name" : "History"
+                  },
+                  {
+                     "name" : "Documentary"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "history.viasat.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 3"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2015",
+            "new" : null,
+            "title" : {
+               "da" : "Jagten p\u00e5 historiens forbrydere: Retsvidenskabens historie"
+            },
+            "start" : "1522867800",
+            "desc" : {
+               "da" : "Episoden omhandler den f\u00f8rste efterforskning, hvor DNA-fingeraftryk blev brugt til at d\u00f8mme en seriemorder. Samtidig afd\u00e6kker den en sag, der omhandler en pedel, der valgte at blive detektiv."
+            },
+            "stop" : "1522871100",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "history.viasat.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "history.viasat.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 1"
+            },
+            "stop" : "1522874700",
+            "title" : {
+               "da" : "Anden Verdenskrigs skjulte hemmeligheder"
+            },
+            "start" : "1522871100",
+            "desc" : {
+               "da" : "I denne episode udforskes det andet vendepunkt, der f\u00f8rte til slutningen af krigen - befrielsen af Frankrig."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2015",
+            "new" : null
+         },
+         {
+            "title" : {
+               "da" : "2. Verdenskrig: Et imperiums pris"
+            },
+            "start" : "1522874700",
+            "desc" : {
+               "da" : "Invasionen af Polen tvinger selv modstr\u00e6bende lande til at erkl\u00e6re krig. Storbritanniens premierminister bliver erstattet af Winston Churchill. De f\u00f8rste fl\u00e5deman\u00f8vrer begynder at forme krigen."
+            },
+            "date" : "2015",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "War"
+               ]
+            },
+            "country" : [
+               "GB"
+            ],
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 1"
+            },
+            "channel" : "history.viasat.dk",
+            "stop" : "1522878000"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2015",
+            "new" : null,
+            "title" : {
+               "da" : "Forbudt historie"
+            },
+            "start" : "1522878000",
+            "desc" : {
+               "da" : "Jamie rejser til Rum\u00e6nien, frygtl\u00f8st bev\u00e6bnet med et krucifiks og hvidl\u00f8g, for at udforske hvor meget af vampyrlegenden egentlig er baseret p\u00e5 virkelighed."
+            },
+            "stop" : "1522881000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 3 .",
+               "onscreen" : "Afsnit 4 s\u00e6son 3"
+            },
+            "channel" : "history.viasat.dk"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2015",
+            "new" : null,
+            "title" : {
+               "da" : "Sp\u00e6ndende opfindelser"
+            },
+            "desc" : {
+               "da" : "Du tror m\u00e5ske, at nylon kun bruges til str\u00f8mper - men du ville blive overrasket over, hvor meget det anvendes til. Fra polymerer til faldsk\u00e6rme, se hvordan milit\u00e6ret fremstillede materialerne."
+            },
+            "start" : "1522881000",
+            "stop" : "1522882800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 1"
+            },
+            "channel" : "history.viasat.dk"
+         },
+         {
+            "title" : {
+               "da" : "Myter og monstre"
+            },
+            "start" : "1522882800",
+            "desc" : {
+               "da" : "I dette afsnit unders\u00f8ger vi den kontroversielle teori om, at der er en f\u00e6lles struktur i mytologien, der overskrider kulturel og historisk p\u00e5virkning."
+            },
+            "date" : "2017",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            },
+            "channel" : "history.viasat.dk",
+            "stop" : "1522885500"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "history.viasat.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 2",
+               "xmltv_ns" : "1 . 2 ."
+            },
+            "stop" : "1522887300",
+            "title" : {
+               "da" : "Sp\u00e6ndende opfindelser"
+            },
+            "desc" : {
+               "da" : "Gr\u00e6ssl\u00e5maskinen - hvordan luftpudeteknologi hj\u00e6lper med at sl\u00e5 gr\u00e6s. Kuglepennen - forbindelsen imellem planter og et foretrukkent skriveredskab - og rullesk\u00f8jter."
+            },
+            "start" : "1522885500",
+            "date" : "2016",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null
+         }
+      ]
+   }
+}

@@ -1,0 +1,245 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "channel" : "golf.cmore.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "2017 . 12 .",
+               "onscreen" : "Afsnit 13 s\u00e6son 2018"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Golf"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Golf: Inside PGA TOUR 2018 13"
+            },
+            "stop" : "1522387800",
+            "desc" : {
+               "da" : "Del 13/45."
+            },
+            "start" : "1522386000",
+            "title" : {
+               "da" : "Inside the PGA TOUR"
+            },
+            "new" : "0",
+            "date" : "2018"
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 11 af 43 s\u00e6son 2018",
+               "xmltv_ns" : "2017 . 10/43 ."
+            },
+            "channel" : "golf.cmore.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Golf"
+               ]
+            },
+            "stop" : "1522391400",
+            "subTitle" : {
+               "da" : "Golf: PGA TOUR Highlights Corales Puntacana Resort & Club 11 Championship"
+            },
+            "desc" : {
+               "da" : "Del 11/43."
+            },
+            "start" : "1522387800",
+            "title" : {
+               "da" : "PGA TOUR Highlights"
+            },
+            "new" : "0",
+            "date" : "2018"
+         },
+         {
+            "date" : "2018",
+            "new" : "0",
+            "title" : {
+               "da" : "Golf: PGA TOUR (DK)"
+            },
+            "desc" : {
+               "da" : "Genudsendelse af kampen fra 29/3."
+            },
+            "start" : "1522391400",
+            "stop" : "1522403100",
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Golf"
+               ]
+            },
+            "channel" : "golf.cmore.dk"
+         },
+         {
+            "stop" : "1522406700",
+            "subTitle" : {
+               "da" : "Golf: PGA TOUR Highlights Corales Puntacana Resort & Club 11 Championship"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Golf"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 11 af 43 s\u00e6son 2018",
+               "xmltv_ns" : "2017 . 10/43 ."
+            },
+            "channel" : "golf.cmore.dk",
+            "date" : "2018",
+            "new" : "0",
+            "title" : {
+               "da" : "PGA TOUR Highlights"
+            },
+            "start" : "1522403100",
+            "desc" : {
+               "da" : "Del 11/43."
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Golf. PGA TOUR Champions Highlights Rapiscan Systems Classic 6"
+            },
+            "stop" : "1522410300",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Golf"
+               ]
+            },
+            "channel" : "golf.cmore.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "2017 . 5/25 .",
+               "onscreen" : "Afsnit 6 af 25 s\u00e6son 2018"
+            },
+            "date" : "2018",
+            "new" : "0",
+            "title" : {
+               "da" : "PGA TOUR Highlights"
+            },
+            "desc" : {
+               "da" : "Del 6/25."
+            },
+            "start" : "1522406700"
+         },
+         {
+            "new" : "0",
+            "date" : "2017",
+            "start" : "1522410300",
+            "desc" : {
+               "da" : "Del 10/15."
+            },
+            "title" : {
+               "da" : "Golf: Players Profile"
+            },
+            "stop" : "1522411200",
+            "subTitle" : {
+               "da" : "Golf: Players Profile: Jon Rahm 10"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "2016 . 9 .",
+               "onscreen" : "Afsnit 10 s\u00e6son 2017"
+            },
+            "channel" : "golf.cmore.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Golf"
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Del 13/45."
+            },
+            "start" : "1522411200",
+            "title" : {
+               "da" : "Inside the PGA TOUR"
+            },
+            "new" : "0",
+            "date" : "2018",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 13 s\u00e6son 2018",
+               "xmltv_ns" : "2017 . 12 ."
+            },
+            "channel" : "golf.cmore.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Golf"
+               ]
+            },
+            "stop" : "1522413000",
+            "subTitle" : {
+               "da" : "Golf: Inside PGA TOUR 2018 13"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Del 30/90."
+            },
+            "start" : "1522413000",
+            "title" : {
+               "da" : "PGA TOUR LIVE"
+            },
+            "new" : "0",
+            "date" : "2018",
+            "episodeNum" : {
+               "xmltv_ns" : "2017 . 29 .",
+               "onscreen" : "Afsnit 30 s\u00e6son 2018"
+            },
+            "channel" : "golf.cmore.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Golf"
+               ]
+            },
+            "stop" : "1522440000",
+            "subTitle" : {
+               "da" : "Golf: PGA TOUR LIVE Houston Open 2018"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Golf"
+               ]
+            },
+            "channel" : "golf.cmore.dk",
+            "stop" : "1522451700",
+            "title" : {
+               "da" : "Golf: PGA TOUR (DK)"
+            },
+            "desc" : {
+               "da" : "Direkte"
+            },
+            "start" : "1522440000",
+            "date" : "2018",
+            "new" : "0"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Golf"
+               ]
+            },
+            "channel" : "golf.cmore.dk",
+            "stop" : "1522472400",
+            "title" : {
+               "da" : "Golf: PGA TOUR (DK)"
+            },
+            "start" : "1522451700",
+            "desc" : {
+               "da" : "Genudsendelse af kampen fra 30/3."
+            },
+            "date" : "2018",
+            "new" : "0"
+         }
+      ]
+   }
+}

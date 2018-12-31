@@ -1,0 +1,638 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "stop" : "1522729800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 1/2 .",
+               "onscreen" : "Afsnit 2 af 2"
+            },
+            "channel" : "tvsyd.dk",
+            "new" : null,
+            "title" : {
+               "da" : "S\u00e5danmark, medv\u00e6rt Mascha Vang"
+            },
+            "desc" : {
+               "da" : "Mascha Vang er tilbage som medv\u00e6rt i S\u00e5danmark, og i dag skal hun og Annemette Voss se historien om et ungt par p\u00e5 Fyn, der fandt ud af, at de var kommet til at k\u00f8be et hus, som st\u00e5r p\u00e5 en forurenet grund. M\u00f8d ogs\u00e5 en af de kvinder, som lige nu har travlt med at besvare telefoner hos Skat i Ribe."
+            },
+            "start" : "1522728060"
+         },
+         {
+            "stop" : "1522731300",
+            "new" : null,
+            "title" : {
+               "da" : "Nyheder fra TV SYD"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvsyd.dk",
+            "start" : "1522729800",
+            "desc" : {
+               "da" : "Dagens nyheder og aktuelle reportager"
+            }
+         },
+         {
+            "stop" : "1522733400",
+            "new" : null,
+            "title" : {
+               "da" : "TVSYD.DK"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvsyd.dk",
+            "desc" : {
+               "da" : "Nyheder fra TV SYDs webredaktion"
+            },
+            "start" : "1522731300"
+         },
+         {
+            "new" : null,
+            "stop" : "1522734900",
+            "desc" : {
+               "da" : "Dagens nyheder og aktuelle reportager"
+            },
+            "start" : "1522733400",
+            "channel" : "tvsyd.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder fra TV SYD"
+            }
+         },
+         {
+            "start" : "1522734900",
+            "desc" : {
+               "da" : "Nyheder fra TV SYDs webredaktion"
+            },
+            "channel" : "tvsyd.dk",
+            "title" : {
+               "da" : "TVSYD.DK"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522737000"
+         },
+         {
+            "new" : null,
+            "stop" : "1522738500",
+            "start" : "1522737000",
+            "desc" : {
+               "da" : "Dagens nyheder og aktuelle reportager"
+            },
+            "channel" : "tvsyd.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder fra TV SYD"
+            }
+         },
+         {
+            "channel" : "tvsyd.dk",
+            "desc" : {
+               "da" : "Nyheder fra TV SYDs webredaktion"
+            },
+            "start" : "1522738500",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "TVSYD.DK"
+            },
+            "new" : null,
+            "stop" : "1522744200"
+         },
+         {
+            "stop" : "1522746000",
+            "new" : null,
+            "title" : {
+               "da" : "Bunkerne (4): Festung Hanstholm"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Bunkerne langs Vestkysten rummer dramatiske, tragiske - og romantiske historier. Historier, der tilsammen giver et nyt og nuanceret billede af Anden Verdenskrig i Vestjylland. Et stykke danmarkshistorie, der aldrig f\u00f8r har v\u00e6ret vist p\u00e5 TV, kommer frem i serien \"Bunkerne,\" hvor vi blandt andre m\u00f8der b\u00f8rn af tyske bunkersoldater, en bunkerbygger og en r\u00e6kke tyske soldater, der under krigen gjorde tjeneste i Danmark. Flere end 20 personer fra Tyskland, England, USA, Australien og Danmark er interviewet til de ni afsnit i serien - og de bidrager alle til en ny og hudl\u00f8s \u00e6rlig beskrivelse af Verdenskrigen i Vestjylland."
+            },
+            "start" : "1522744200",
+            "channel" : "tvsyd.dk"
+         },
+         {
+            "stop" : "1522747500",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvsyd.dk",
+            "date" : "2018",
+            "new" : null,
+            "title" : {
+               "da" : "Nyheder fra \u00d8stjylland"
+            },
+            "desc" : {
+               "da" : "Regionale nyheder fra \u00d8stjylland."
+            },
+            "start" : "1522746000"
+         },
+         {
+            "channel" : "tvsyd.dk",
+            "start" : "1522747500",
+            "desc" : {
+               "da" : "Nyheder fra V SYDs webredaktion"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "TVSYD.DK"
+            },
+            "new" : null,
+            "stop" : "1522751400"
+         },
+         {
+            "channel" : "tvsyd.dk",
+            "start" : "1522751400",
+            "desc" : {
+               "da" : "Regional nyhedsoversigt"
+            },
+            "title" : {
+               "da" : "Nyheder"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522751700"
+         },
+         {
+            "title" : {
+               "da" : "TVSYD.DK"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvsyd.dk",
+            "desc" : {
+               "da" : "Nyheder fra TV SYDs webredaktion"
+            },
+            "start" : "1522751700",
+            "stop" : "1522758600",
+            "new" : null
+         },
+         {
+            "new" : null,
+            "start" : "1522758600",
+            "desc" : {
+               "da" : "Det er 30 \u00e5r siden, at bandet Michael Learns To Rock blev dannet. Det fort\u00e6ller bandets trommeslager og guitarist, K\u00e5re Wanscher og Mikkel Lentz i dag Henriette Honor\u00e9 om, n\u00e5r de er dagens medv\u00e6rter. M\u00f8d ogs\u00e5 Poul Hove, der hele sit liv har dr\u00f8mt om at opdr\u00e6tte heste og nu h\u00e5ber, at en af hans hingste kan f\u00e5 ham op i international topklasse."
+            },
+            "title" : {
+               "da" : "S\u00e5danmark, medv\u00e6rter K\u00e5re Wanscher og Mikkel Lentz"
+            },
+            "stop" : "1522760400",
+            "channel" : "tvsyd.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 2",
+               "xmltv_ns" : ". 0/2 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "TVSYD.DK"
+            },
+            "start" : "1522760400",
+            "desc" : {
+               "da" : "Nyheder fra TV SYDs webredaktion"
+            },
+            "channel" : "tvsyd.dk",
+            "stop" : "1522768560",
+            "new" : null
+         },
+         {
+            "channel" : "tvsyd.dk",
+            "start" : "1522768560",
+            "desc" : {
+               "da" : "Kort nyhedsoversigt"
+            },
+            "title" : {
+               "da" : "Kort Nyhedsoversigt"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522768800"
+         },
+         {
+            "new" : null,
+            "stop" : "1522769400",
+            "desc" : {
+               "da" : "Nyheder fra TV SYDs webredaktion"
+            },
+            "start" : "1522768800",
+            "channel" : "tvsyd.dk",
+            "title" : {
+               "da" : "TVSYD.DK"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "stop" : "1522771200",
+            "credits" : {
+               "presenter" : [
+                  {
+                     "name" : "Siv Wigh Steffensen"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvsyd.dk",
+            "new" : null,
+            "title" : {
+               "da" : "Naboer: N\u00f8rregade, H\u00f8jer"
+            },
+            "start" : "1522769400",
+            "desc" : {
+               "da" : "P\u00e5 N\u00f8rregade i H\u00f8jer fejrer de p\u00e5sken grundigt. \"Naboer\" bes\u00f8ger Bente og Egon Hagensen, der pynter hele deres have med p\u00e5skeharer, \u00e6g og kyllinger. Kom ogs\u00e5 med indenfor i byens m\u00f8lle, hvor der stadig males mel og bages kager p\u00e5 s\u00f8nderjysk man\u00e9r. Se ogs\u00e5, hvordan byens keramiker laver p\u00e5ske\u00e6g. I en halv time giver TV SYD dig et unikt indblik i syd- og s\u00f8nderjydernes hverdag. Naboer har fokus p\u00e5 relationer og f\u00e6llesskab i et kvarter n\u00e6r dig."
+            }
+         },
+         {
+            "new" : null,
+            "stop" : "1522772400",
+            "channel" : "tvsyd.dk",
+            "desc" : {
+               "da" : "Nyheder fra TV SYDs webredaktion"
+            },
+            "start" : "1522771200",
+            "title" : {
+               "da" : "TVSYD.DK"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "stop" : "1522772700",
+            "new" : null,
+            "title" : {
+               "da" : "Kort nyhedsoversigt"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvsyd.dk",
+            "start" : "1522772400",
+            "desc" : {
+               "da" : "Kort nyhedsoversigt"
+            }
+         },
+         {
+            "stop" : "1522773000",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "TVSYD.DK"
+            },
+            "channel" : "tvsyd.dk",
+            "desc" : {
+               "da" : "Nyheder fra TV SYDs webredaktion"
+            },
+            "start" : "1522772700"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "IQ - Mennesket er et dyr"
+            },
+            "start" : "1522773000",
+            "desc" : {
+               "da" : "(Sendt f\u00f8rste gang 28.02.2012)"
+            },
+            "channel" : "tvsyd.dk",
+            "stop" : "1522774800",
+            "new" : null
+         },
+         {
+            "channel" : "tvsyd.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/2 .",
+               "onscreen" : "Afsnit 1 af 2"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522776600",
+            "start" : "1522774800",
+            "desc" : {
+               "da" : "Det er 30 \u00e5r siden, at bandet Michael Learns To Rock blev dannet. Det fort\u00e6ller bandets trommeslager og guitarist, K\u00e5re Wanscher og Mikkel Lentz i dag Henriette Honor\u00e9 om, n\u00e5r de er dagens medv\u00e6rter. M\u00f8d ogs\u00e5 Poul Hove, der hele sit liv har dr\u00f8mt om at opdr\u00e6tte heste og nu h\u00e5ber, at en af hans hingste kan f\u00e5 ham op i international topklasse."
+            },
+            "title" : {
+               "da" : "S\u00e5danmark, medv\u00e6rter K\u00e5re Wanscher og Mikkel Lentz"
+            },
+            "new" : null
+         },
+         {
+            "start" : "1522776600",
+            "desc" : {
+               "da" : "Dagens nyheder og aktuelle reportager"
+            },
+            "channel" : "tvsyd.dk",
+            "title" : {
+               "da" : "Nyheder fra TV SYD"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522778100"
+         },
+         {
+            "new" : null,
+            "stop" : "1522779900",
+            "start" : "1522778100",
+            "desc" : {
+               "da" : "I Lintrup ligger Wellings Landsbymuseum. En af dagens g\u00e6ster har blandt andet en lampe med, og den viser sig at v\u00e6re mange penge v\u00e6rd."
+            },
+            "channel" : "tvsyd.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Mit k\u00e6reste eje - Lintrup"
+            }
+         },
+         {
+            "start" : "1522779900",
+            "desc" : {
+               "da" : "\u00c5bningsdagen byder bl.a. p\u00e5 verdens st\u00f8rste LEGO-model, som for f\u00f8rste gang bliver vist frem i LEGO-klodsens f\u00f8deby. Modellen er den popul\u00e6re X-Wing-fighter fra Star Wars-filmene, og detaljegraden kombineret med st\u00f8rrelsen g\u00f8r det til noget, man bare m\u00e5 se."
+            },
+            "title" : {
+               "da" : "Naboer: Legolands \u00e5bning"
+            },
+            "new" : null,
+            "channel" : "tvsyd.dk",
+            "credits" : {
+               "presenter" : [
+                  {
+                     "name" : "Christina Hoffmann"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522781700"
+         },
+         {
+            "new" : null,
+            "title" : {
+               "da" : "S\u00e5danmark, medv\u00e6rter K\u00e5re Wanscher og Mikkel Lentz"
+            },
+            "desc" : {
+               "da" : "K\u00e5re Wanscher og Mikkel Lentz fra Michael Learns To Rock er tilbage som Henriette Honor\u00e9s medv\u00e6rter, og i dag skal vi blandt andet til Esbjerg, hvor et fodboldhold for asylans\u00f8gere, Esbjerg United, har stor succes. M\u00f8d ogs\u00e5 \u00f8kolandmanden, som lige har f\u00e5et en pris for sit b\u00e6redygtige arbejde."
+            },
+            "start" : "1522781700",
+            "stop" : "1522783500",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvsyd.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 1/2 .",
+               "onscreen" : "Afsnit 2 af 2"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Nyheder fra TV SYD"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvsyd.dk",
+            "desc" : {
+               "da" : "Dagens nyheder og aktuelle reportager"
+            },
+            "start" : "1522783500",
+            "stop" : "1522785000",
+            "new" : null
+         },
+         {
+            "channel" : "tvsyd.dk",
+            "start" : "1522785000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "TVSYD.DK"
+            },
+            "new" : null,
+            "stop" : "1522785600"
+         },
+         {
+            "start" : "1522785600",
+            "desc" : {
+               "da" : "Regionale nyheder fra \u00d8stjylland."
+            },
+            "title" : {
+               "da" : "Nyheder fra \u00d8stjylland"
+            },
+            "new" : null,
+            "date" : "2018",
+            "channel" : "tvsyd.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522787220"
+         },
+         {
+            "stop" : "1522788000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvsyd.dk",
+            "date" : "2227",
+            "new" : null,
+            "title" : {
+               "da" : "Nyheder"
+            },
+            "start" : "1522787220",
+            "desc" : {
+               "da" : "Dagens sidste nyhedsudsendelse"
+            }
+         },
+         {
+            "new" : null,
+            "title" : {
+               "da" : "Naboer: Legolands \u00e5bning"
+            },
+            "start" : "1522788000",
+            "desc" : {
+               "da" : "\u00c5bningsdagen byder bl.a. p\u00e5 verdens st\u00f8rste LEGO-model, som for f\u00f8rste gang bliver vist frem i LEGO-klodsens f\u00f8deby. Modellen er den popul\u00e6re X-Wing-fighter fra Star Wars-filmene, og detaljegraden kombineret med st\u00f8rrelsen g\u00f8r det til noget, man bare m\u00e5 se."
+            },
+            "stop" : "1522789800",
+            "credits" : {
+               "presenter" : [
+                  {
+                     "name" : "Christina Hoffmann"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvsyd.dk"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 1/2 .",
+               "onscreen" : "Afsnit 2 af 2"
+            },
+            "channel" : "tvsyd.dk",
+            "stop" : "1522791300",
+            "title" : {
+               "da" : "S\u00e5danmark, medv\u00e6rter K\u00e5re Wanscher og Mikkel Lentz"
+            },
+            "start" : "1522789800",
+            "desc" : {
+               "da" : "K\u00e5re Wanscher og Mikkel Lentz fra Michael Learns To Rock er tilbage som Henriette Honor\u00e9s medv\u00e6rter, og i dag skal vi blandt andet til Esbjerg, hvor et fodboldhold for asylans\u00f8gere, Esbjerg United, har stor succes. M\u00f8d ogs\u00e5 \u00f8kolandmanden, som lige har f\u00e5et en pris for sit b\u00e6redygtige arbejde."
+            },
+            "new" : null
+         },
+         {
+            "channel" : "tvsyd.dk",
+            "start" : "1522791300",
+            "title" : {
+               "da" : "TVSYD.DK"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522814460"
+         }
+      ]
+   }
+}

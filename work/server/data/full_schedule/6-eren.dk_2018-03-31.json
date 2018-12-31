@@ -1,0 +1,1932 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "rating" : {
+               "stars" : "6.6 / 9"
+            },
+            "start" : "1522455300",
+            "desc" : {
+               "da" : "Der hersker kaotiske tilstande i Arcadia, hvor der nu returnerer rigtig mange afd\u00f8de, og Martin ser ingen anden udvej end at tilkalde hj\u00e6lp 'udefra', trods sheriffens protester. Og pludselig sker d\u00e9t, som ingen havde kunnet forudse."
+            },
+            "title" : {
+               "da" : "Resurrection"
+            },
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/51370/season/1/episode/8"
+            ],
+            "date" : "2014",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "channel" : "6-eren.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 7/8 .",
+               "onscreen" : "Afsnit 8 af 8 s\u00e6son 1"
+            },
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Aaron Zelman"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Dan Attias"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "J. Martin Bellamy",
+                     "name" : "Omar Epps"
+                  },
+                  {
+                     "role" : "Lucille Langston",
+                     "name" : "Frances Fisher"
+                  },
+                  {
+                     "role" : "Sheriff Fred Langston",
+                     "name" : "Matt Craven"
+                  },
+                  {
+                     "role" : "Maggie Langston",
+                     "name" : "Devin Kelley"
+                  },
+                  {
+                     "name" : "Mark Hildreth",
+                     "role" : "Pastor Tom Hale"
+                  },
+                  {
+                     "name" : "Samaire Armstrong",
+                     "role" : "Elaine Richards"
+                  },
+                  {
+                     "name" : "Sam Hazeldine",
+                     "role" : "Caleb Richards"
+                  },
+                  {
+                     "role" : "Jacob Langston",
+                     "name" : "Landon Gimenez"
+                  },
+                  {
+                     "role" : "Henry Langston",
+                     "name" : "Kurtwood Smith"
+                  },
+                  {
+                     "name" : "Nicholas Gonzalez",
+                     "role" : "Deputy Connor Cuesta"
+                  },
+                  {
+                     "name" : "Kevin Sizemore",
+                     "role" : "Gary Humphrey"
+                  },
+                  {
+                     "name" : "April Billingsley",
+                     "role" : "Barbara Langston"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Sci-Fi",
+                  "Fantasy"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Torn Apart"
+            },
+            "stop" : "1522458900"
+         },
+         {
+            "url" : [
+               "https://www.themoviedb.org/tv/48866/season/2/episode/1"
+            ],
+            "new" : null,
+            "date" : "2014",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "desc" : {
+               "da" : "En fjende vender tilbage, mens Jaha tager en heltemodig beslutning."
+            },
+            "rating" : {
+               "stars" : "8.3 / 10"
+            },
+            "start" : "1522458900",
+            "title" : {
+               "da" : "The 100"
+            },
+            "subTitle" : {
+               "da" : "The 48"
+            },
+            "stop" : "1522461600",
+            "channel" : "6-eren.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 16 s\u00e6son 2",
+               "xmltv_ns" : "1 . 0/16 ."
+            },
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Octavia Blake",
+                     "name" : "Marie Avgeropoulos"
+                  },
+                  {
+                     "role" : "Lexa",
+                     "name" : "Alycia Debnam-Carey"
+                  },
+                  {
+                     "name" : "Henry Ian Cusick",
+                     "role" : "Councilman Marcus Kane"
+                  },
+                  {
+                     "name" : "Isaiah Washington",
+                     "role" : "Chancellor Thelonious Jaha"
+                  },
+                  {
+                     "name" : "Richard Harmon",
+                     "role" : "John Murphy"
+                  },
+                  {
+                     "name" : "Eliza Taylor",
+                     "role" : "Clarke Griffin"
+                  },
+                  {
+                     "role" : "Jasper Jordan",
+                     "name" : "Devon Bostick"
+                  },
+                  {
+                     "role" : "Bellamy Blake",
+                     "name" : "Bob Morley"
+                  },
+                  {
+                     "name" : "Christopher Larkin",
+                     "role" : "Monty Green"
+                  },
+                  {
+                     "role" : "Finn Collins",
+                     "name" : "Thomas McDonell"
+                  },
+                  {
+                     "name" : "Lindsey Morgan",
+                     "role" : "Raven Reyes"
+                  },
+                  {
+                     "name" : "Ricky Whittle",
+                     "role" : "Lincoln"
+                  },
+                  {
+                     "name" : "Paige Turco",
+                     "role" : "Councilwoman Dr. Abigail Griffin"
+                  },
+                  {
+                     "name" : "Alessandro Juliani",
+                     "role" : "Jacapo Sinclair"
+                  },
+                  {
+                     "role" : "Keenan Mykulak",
+                     "name" : "Emily Haines"
+                  },
+                  {
+                     "name" : "Rekha Sharma",
+                     "role" : "Dr. Tsing"
+                  },
+                  {
+                     "name" : "Eve Harlow",
+                     "role" : "Maya"
+                  },
+                  {
+                     "role" : "President Dante Wallace",
+                     "name" : "Raymond J. Barry"
+                  },
+                  {
+                     "name" : "Joseph Gatt",
+                     "role" : "Tristan"
+                  },
+                  {
+                     "name" : "Keenan Tracey",
+                     "role" : "Sterling"
+                  },
+                  {
+                     "role" : "Monroe",
+                     "name" : "Katie Stuart"
+                  },
+                  {
+                     "role" : "John Murphy",
+                     "name" : "Richard Harmon"
+                  },
+                  {
+                     "name" : "Sachin Sahel",
+                     "role" : "Jackson"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Dean White"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Jason Rothenberg"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Sci-Fi",
+                  "Fantasy"
+               ]
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Inclement Weather"
+            },
+            "stop" : "1522464600",
+            "channel" : "6-eren.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 1/16 .",
+               "onscreen" : "Afsnit 2 af 16 s\u00e6son 2"
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Michael Angeli"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Octavia Blake",
+                     "name" : "Marie Avgeropoulos"
+                  },
+                  {
+                     "role" : "Lexa",
+                     "name" : "Alycia Debnam-Carey"
+                  },
+                  {
+                     "name" : "Henry Ian Cusick",
+                     "role" : "Councilman Marcus Kane"
+                  },
+                  {
+                     "role" : "Chancellor Thelonious Jaha",
+                     "name" : "Isaiah Washington"
+                  },
+                  {
+                     "role" : "John Murphy",
+                     "name" : "Richard Harmon"
+                  },
+                  {
+                     "name" : "Eliza Taylor",
+                     "role" : "Clarke Griffin"
+                  },
+                  {
+                     "role" : "Jasper Jordan",
+                     "name" : "Devon Bostick"
+                  },
+                  {
+                     "name" : "Bob Morley",
+                     "role" : "Bellamy Blake"
+                  },
+                  {
+                     "role" : "Monty Green",
+                     "name" : "Christopher Larkin"
+                  },
+                  {
+                     "name" : "Thomas McDonell",
+                     "role" : "Finn Collins"
+                  },
+                  {
+                     "name" : "Lindsey Morgan",
+                     "role" : "Raven Reyes"
+                  },
+                  {
+                     "name" : "Ricky Whittle",
+                     "role" : "Lincoln"
+                  },
+                  {
+                     "role" : "Councilwoman Dr. Abigail Griffin",
+                     "name" : "Paige Turco"
+                  },
+                  {
+                     "role" : "Delano",
+                     "name" : "Brendon Zub"
+                  },
+                  {
+                     "name" : "Aaron Hutchinson",
+                     "role" : "Sgt. Langston"
+                  },
+                  {
+                     "role" : "Sgt. David Miller",
+                     "name" : "Katie Stuart"
+                  },
+                  {
+                     "role" : "Indra",
+                     "name" : "Adina Porter"
+                  },
+                  {
+                     "role" : "Nyko",
+                     "name" : "Ty Olsson"
+                  },
+                  {
+                     "role" : "Major Byrne",
+                     "name" : "Kendall Cross"
+                  },
+                  {
+                     "name" : "Rekha Sharma",
+                     "role" : "Dr. Tsing"
+                  },
+                  {
+                     "name" : "Eve Harlow",
+                     "role" : "Maya"
+                  },
+                  {
+                     "name" : "Raymond J. Barry",
+                     "role" : "President Dante Wallace"
+                  },
+                  {
+                     "role" : "Sterling",
+                     "name" : "Keenan Tracey"
+                  },
+                  {
+                     "role" : "Anya",
+                     "name" : "Dichen Lachman"
+                  },
+                  {
+                     "name" : "Katie Stuart",
+                     "role" : "Monroe"
+                  },
+                  {
+                     "role" : "Nathan Miller",
+                     "name" : "Jarod Joseph"
+                  },
+                  {
+                     "name" : "Eli Goree",
+                     "role" : "Wells Jaha"
+                  },
+                  {
+                     "role" : "John Murphy",
+                     "name" : "Richard Harmon"
+                  },
+                  {
+                     "name" : "Sachin Sahel",
+                     "role" : "Jackson"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "John Showalter"
+                  }
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Sci-Fi",
+                  "Fantasy"
+               ]
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/48866/season/2/episode/2"
+            ],
+            "new" : null,
+            "date" : "2014",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "rating" : {
+               "stars" : "8.2 / 10"
+            },
+            "start" : "1522461600",
+            "desc" : {
+               "da" : "Clarke konfronterer Dante, mens Kane efterforsker \u00e9n af 'de 100' - og Abby udf\u00f8rer en hasteoperation."
+            },
+            "title" : {
+               "da" : "The 100"
+            }
+         },
+         {
+            "date" : "2009",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "new" : null,
+            "title" : {
+               "da" : "What Happened Next"
+            },
+            "desc" : {
+               "da" : "Dokumentarserien unders\u00f8ger den videnskabelige forklaring og teorier bag nogle af de mest utrolige, sjove og overraskende begivenheder som er fanget p\u00e5 kamera. Filmen s\u00e6ttes p\u00e5 pause umiddelbart inden det dramatiske moment og seerene pr\u00e6senteres nu for tre forskellige, og videnskabeligt mulige, slutninger - men hvilken er korrekt?"
+            },
+            "start" : "1522464600",
+            "stop" : "1522467000",
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "6-eren.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 12",
+               "xmltv_ns" : ". 11 ."
+            }
+         },
+         {
+            "title" : {
+               "da" : "Destroyed in Seconds"
+            },
+            "start" : "1522467000",
+            "desc" : {
+               "da" : "I hvert afsnit af denne chokerende og h\u00e6sbl\u00e6sende serie viser v\u00e6rten Ron Pitts klip fra filmoptagelser af vilde stunts med alle former for \u00f8del\u00e6ggelse."
+            },
+            "date" : "2008",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "channel" : "6-eren.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 33 .",
+               "onscreen" : "Afsnit 34"
+            },
+            "stop" : "1522468200"
+         },
+         {
+            "url" : [
+               "https://www.themoviedb.org/tv/61329/season/6/episode/3"
+            ],
+            "new" : null,
+            "date" : "2013",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "desc" : {
+               "da" : "Tanked dumber seerne ned i de mest sp\u00e6ndende akvarier. Acrylic Tank Manufacturing, ATM er verdensmestre i akvarier! De har kreeret de mest banebrydende og ekstraordin\u00e6re akvarier. Kunderne er kr\u00e6vende og lokationen nogle gange liges\u00e5. Holdet rejser landet rundt for at bringe havet i \u00f8jenh\u00f8jde p\u00e5 g\u00e6ster, som bes\u00f8ger s\u00e5 forskellige steder, som casinoer, kirker, museer og zoologiske haver."
+            },
+            "start" : "1522468200",
+            "title" : {
+               "da" : "Tanked"
+            },
+            "stop" : "1522471200",
+            "subTitle" : {
+               "da" : "Gabriel Iglesias' Fluffy Tank"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 af 8 s\u00e6son 6",
+               "xmltv_ns" : "5 . 2/8 ."
+            },
+            "channel" : "6-eren.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Wayde King",
+                     "role" : "Himself - CEO"
+                  },
+                  {
+                     "role" : "Himself - COO",
+                     "name" : "Brett Raymer"
+                  },
+                  {
+                     "role" : "Himself - Office Manager",
+                     "name" : "Irwin Raymer"
+                  },
+                  {
+                     "name" : "Heather King",
+                     "role" : "Herself - Accountant"
+                  },
+                  {
+                     "name" : "Robert Christlieb",
+                     "role" : "Himself - Marine Technician & Plumber"
+                  },
+                  {
+                     "role" : "Herself - Estimator/Coordinator",
+                     "name" : "Agnes Wilczynski"
+                  }
+               ]
+            }
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Animation",
+                  "Action"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Lois Lane (voice)",
+                     "name" : "Pauley Perrette"
+                  },
+                  {
+                     "role" : "Superman / Clark Kent / Robot (voice)",
+                     "name" : "George Newbern"
+                  },
+                  {
+                     "name" : "Robin Atkin Downes",
+                     "role" : "Manchester Black / Pokolistani Ambassador (voice)"
+                  },
+                  {
+                     "name" : "David Kaufman",
+                     "role" : "Jimmy Olsen (voice)"
+                  },
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "Atomic Skull (voice)"
+                  },
+                  {
+                     "name" : "Ogie Banks",
+                     "role" : "Terrence Baxter / Dockworker (voice)"
+                  },
+                  {
+                     "name" : "Catero Colbert",
+                     "role" : "Coldcast (voice)"
+                  },
+                  {
+                     "role" : "Menagerie (voice)",
+                     "name" : "Melissa Disney"
+                  },
+                  {
+                     "name" : "Paul Eiding",
+                     "role" : "Pa Kent (voice)"
+                  },
+                  {
+                     "name" : "Henry Simmons",
+                     "role" : "Efrain Baxter (voice)"
+                  },
+                  {
+                     "role" : "Young Vera (voice)",
+                     "name" : "Tara Strong"
+                  },
+                  {
+                     "name" : "Fred Tatasciore",
+                     "role" : "Perry White (voice)"
+                  },
+                  {
+                     "role" : "MI-5 Agent (voice)",
+                     "name" : "Bruce Timm"
+                  },
+                  {
+                     "name" : "Julie Wittner",
+                     "role" : "Cowering Woman (voice)"
+                  },
+                  {
+                     "role" : "Newscaster #3 (voice)",
+                     "name" : "Laraine Newman"
+                  },
+                  {
+                     "role" : "Newscaster (voice)",
+                     "name" : "Sumalee Montano"
+                  },
+                  {
+                     "role" : "Vera Black (voice)",
+                     "name" : "Marcella Lentz-Pope"
+                  },
+                  {
+                     "name" : "Stephen Stanton",
+                     "role" : "Bialyian Ambassador / Cartoon Superman / Dad (voice)"
+                  },
+                  {
+                     "role" : "Young Manchester (voice)",
+                     "name" : "Grey DeLisle"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Michael Chang"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/103269"
+            },
+            "channel" : "6-eren.dk",
+            "stop" : "1522476000",
+            "title" : {
+               "da" : "Superman Vs. The Elite"
+            },
+            "start" : "1522471200",
+            "rating" : {
+               "stars" : "6.6 / 10"
+            },
+            "desc" : {
+               "da" : "Supermans evner som uovervindelig superhelt bliver betvivlet, da han stilles over for de st\u00e6rke og morderiske antihelte, der kalder sig 'Elite', et team, som ledes af Manchester Black og som myrder alle fjender p\u00e5 deres vej. Pludselig begynder menneskeheden at tvivle p\u00e5 Superman og fremvise deres sande jeg, da de ikke er sikre p\u00e5, om Superman kan redde situationen."
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2012",
+            "url" : [
+               "http://www.themoviedb.org/movie/103269"
+            ],
+            "new" : null
+         },
+         {
+            "stop" : "1522479600",
+            "new" : null,
+            "title" : {
+               "da" : "Homeshopping"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "6-eren.dk",
+            "start" : "1522476000"
+         },
+         {
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2016",
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/58704/season/6/episode/1"
+            ],
+            "title" : {
+               "da" : "Bering Sea Gold"
+            },
+            "rating" : {
+               "stars" : "6.5 / 9"
+            },
+            "desc" : {
+               "da" : "I Nome, Alaska raser guldfeberen! M\u00f8d graverne, som er drevet af feberen, og til tider n\u00f8d, n\u00e5r de dykker i det iskolde og uforudsigeligt Beringstr\u00e6de i h\u00e5b om at ramme den gyldne \u00e5re."
+            },
+            "start" : "1522479600",
+            "subTitle" : {
+               "da" : "The Gamble"
+            },
+            "stop" : "1522483500",
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "6-eren.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 10 s\u00e6son 6",
+               "xmltv_ns" : "5 . 0/10 ."
+            }
+         },
+         {
+            "channel" : "6-eren.dk",
+            "start" : "1522483500",
+            "title" : {
+               "da" : "Homeshopping"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522487100"
+         },
+         {
+            "subTitle" : {
+               "da" : "On the Road Again"
+            },
+            "stop" : "1522490400",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Wayde King",
+                     "role" : "Himself - CEO"
+                  },
+                  {
+                     "name" : "Brett Raymer",
+                     "role" : "Himself - COO"
+                  },
+                  {
+                     "name" : "Irwin Raymer",
+                     "role" : "Himself - Office Manager"
+                  },
+                  {
+                     "role" : "Herself - Accountant",
+                     "name" : "Heather King"
+                  },
+                  {
+                     "name" : "Robert Christlieb",
+                     "role" : "Himself - Marine Technician & Plumber"
+                  },
+                  {
+                     "name" : "Agnes Wilczynski",
+                     "role" : "Herself - Estimator/Coordinator"
+                  }
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "channel" : "6-eren.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 6 af 7 s\u00e6son 3",
+               "xmltv_ns" : "2 . 5/7 ."
+            },
+            "date" : "2012",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/61329/season/3/episode/6"
+            ],
+            "title" : {
+               "da" : "Tanked"
+            },
+            "desc" : {
+               "da" : "Tanked dumber seerne ned i de mest sp\u00e6ndende akvarier. Acrylic Tank Manufacturing, ATM er verdensmestre i akvarier! De har kreeret de mest banebrydende og ekstraordin\u00e6re akvarier. Kunderne er kr\u00e6vende og lokationen nogle gange liges\u00e5. Holdet rejser landet rundt for at bringe havet i \u00f8jenh\u00f8jde p\u00e5 g\u00e6ster, som bes\u00f8ger s\u00e5 forskellige steder, som casinoer, kirker, museer og zoologiske haver."
+            },
+            "start" : "1522487100"
+         },
+         {
+            "stop" : "1522494000",
+            "subTitle" : {
+               "da" : "Love Is An Illusion"
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Wayde King",
+                     "role" : "Himself - CEO"
+                  },
+                  {
+                     "role" : "Himself - COO",
+                     "name" : "Brett Raymer"
+                  },
+                  {
+                     "name" : "Irwin Raymer",
+                     "role" : "Himself - Office Manager"
+                  },
+                  {
+                     "name" : "Heather King",
+                     "role" : "Herself - Accountant"
+                  },
+                  {
+                     "role" : "Himself - Marine Technician & Plumber",
+                     "name" : "Robert Christlieb"
+                  },
+                  {
+                     "name" : "Agnes Wilczynski",
+                     "role" : "Herself - Estimator/Coordinator"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 af 7 s\u00e6son 3",
+               "xmltv_ns" : "2 . 4/7 ."
+            },
+            "channel" : "6-eren.dk",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2012",
+            "url" : [
+               "https://www.themoviedb.org/tv/61329/season/3/episode/5"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "Tanked"
+            },
+            "start" : "1522490400",
+            "desc" : {
+               "da" : "Tanked dumber seerne ned i de mest sp\u00e6ndende akvarier. Acrylic Tank Manufacturing, ATM er verdensmestre i akvarier! De har kreeret de mest banebrydende og ekstraordin\u00e6re akvarier. Kunderne er kr\u00e6vende og lokationen nogle gange liges\u00e5. Holdet rejser landet rundt for at bringe havet i \u00f8jenh\u00f8jde p\u00e5 g\u00e6ster, som bes\u00f8ger s\u00e5 forskellige steder, som casinoer, kirker, museer og zoologiske haver."
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Fodbold: Premier League: Crystal Palace-Liverpool"
+            },
+            "start" : "1522494000",
+            "desc" : {
+               "da" : "Crystal Palace f\u00e5r sin sag for l\u00f8rdag eftermiddag, n\u00e5r topholdet Liverpool g\u00e6ster Selhurst Park. Palace har bare vundet fire kampe p\u00e5 hjemmebane i indev\u00e6rende s\u00e6son ud af 15 mulige, hvilket g\u00f8r dem til Premier Leagues n\u00e6std\u00e5rligste hold p\u00e5 hjemmebane. Omvendt er Liverpool Premier Leagues mest scorende og n\u00e6stmest vindende hold p\u00e5 udebane. L\u00f8ber favoritterne fra Liverpool med sejren og tre vigtige point i kampen om top fire?"
+            },
+            "channel" : "6-eren.dk",
+            "stop" : "1522503000",
+            "new" : null
+         },
+         {
+            "start" : "1522503000",
+            "channel" : "6-eren.dk",
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Fodbold: Premier League: Manchester United-Swansea"
+            },
+            "new" : null,
+            "stop" : "1522513200"
+         },
+         {
+            "start" : "1522513200",
+            "channel" : "6-eren.dk",
+            "title" : {
+               "da" : "Fodbold: Premier League: Everton-Manchester City"
+            },
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522522800"
+         },
+         {
+            "channel" : "6-eren.dk",
+            "episodeNum" : {
+               "themoviedb.org" : "movie/39254"
+            },
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Shawn Levy"
+                  },
+                  {
+                     "name" : "Susan Montford"
+                  },
+                  {
+                     "name" : "Don Murphy"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Leslie Bohem"
+                  },
+                  {
+                     "name" : "John Gatins"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Hugh Jackman",
+                     "role" : "Charlie Kenton"
+                  },
+                  {
+                     "name" : "Dakota Goyo",
+                     "role" : "Max Kenton"
+                  },
+                  {
+                     "name" : "Evangeline Lilly",
+                     "role" : "Bailey Tallet"
+                  },
+                  {
+                     "name" : "Anthony Mackie",
+                     "role" : "Finn"
+                  },
+                  {
+                     "name" : "Kevin Durand",
+                     "role" : "Ricky"
+                  },
+                  {
+                     "name" : "Hope Davis",
+                     "role" : "Aunt Debra"
+                  },
+                  {
+                     "role" : "Marvin",
+                     "name" : "James Rebhorn"
+                  },
+                  {
+                     "role" : "Tak Mashido",
+                     "name" : "Karl Yune"
+                  },
+                  {
+                     "role" : "Farra Lemkova",
+                     "name" : "Olga Fonda"
+                  },
+                  {
+                     "name" : "John Gatins",
+                     "role" : "Kingpin"
+                  },
+                  {
+                     "role" : "Big Sister",
+                     "name" : "Sophie Levy"
+                  },
+                  {
+                     "name" : "Tess Levy",
+                     "role" : "Little Sister"
+                  },
+                  {
+                     "role" : "Littlest Sister",
+                     "name" : "Charlie Levy"
+                  },
+                  {
+                     "name" : "Gregory Sims",
+                     "role" : "Bill Panner"
+                  },
+                  {
+                     "role" : "Large Texan Man",
+                     "name" : "Torey Adkins"
+                  },
+                  {
+                     "role" : "San Leandro Gentleman #1",
+                     "name" : "Tom Carlson"
+                  },
+                  {
+                     "name" : "John Hawkinson",
+                     "role" : "San Leandro Gentleman #2"
+                  },
+                  {
+                     "name" : "David Alan Basche",
+                     "role" : "ESPN Boxing Commentator"
+                  },
+                  {
+                     "name" : "Phil LaMarr",
+                     "role" : "ESPN Boxing Commentator"
+                  },
+                  {
+                     "role" : "Starblaze Arena Reporter",
+                     "name" : "David Herbst"
+                  },
+                  {
+                     "role" : "Starblaze Arena Reporter",
+                     "name" : "Julian Gant"
+                  },
+                  {
+                     "name" : "Ken Alter",
+                     "role" : "Virgin America Spectrum Ring Announcer"
+                  },
+                  {
+                     "name" : "Leilani Barrett",
+                     "role" : "Virgin America Spectrum Ref"
+                  },
+                  {
+                     "role" : "WRB Promoter",
+                     "name" : "Eric Gutman"
+                  },
+                  {
+                     "role" : "Twin Cities Corner Tech",
+                     "name" : "Nicholas Yu"
+                  },
+                  {
+                     "name" : "D.B. Dickerson",
+                     "role" : "Twin Cities Controller"
+                  },
+                  {
+                     "role" : "Bing Arena Announcer",
+                     "name" : "Peter Carey"
+                  },
+                  {
+                     "role" : "Bing Arena Ref",
+                     "name" : "Dan Lemieux"
+                  },
+                  {
+                     "role" : "Older Gentleman",
+                     "name" : "Richard Goteri"
+                  },
+                  {
+                     "name" : "Tim Holmes",
+                     "role" : "Blacktop Controller"
+                  },
+                  {
+                     "role" : "Underground Promoter",
+                     "name" : "Ricky Wayne"
+                  },
+                  {
+                     "name" : "Taris Tyler",
+                     "role" : "Robot Promoter"
+                  },
+                  {
+                     "name" : "Kevin Dorman",
+                     "role" : "Atom Performance Capture"
+                  },
+                  {
+                     "name" : "John Manfredi",
+                     "role" : "Sergei Lemkova"
+                  },
+                  {
+                     "name" : "Wendy Aaron",
+                     "role" : "Robot Handler / Fight Fan (uncredited)"
+                  },
+                  {
+                     "role" : "Pretty Girl (uncredited)",
+                     "name" : "Rachael Adams"
+                  },
+                  {
+                     "role" : "Fight Fan (uncredited)",
+                     "name" : "Mike Ancrile"
+                  },
+                  {
+                     "role" : "Russian / Boxing Fan (uncredited)",
+                     "name" : "Lamar Babi"
+                  },
+                  {
+                     "role" : "Paparazzi (uncredited)",
+                     "name" : "Apollo Bacala"
+                  },
+                  {
+                     "role" : "Upscale Fight Fan (uncredited)",
+                     "name" : "Leah Barkoff"
+                  },
+                  {
+                     "name" : "Joshua Ray Bell",
+                     "role" : "Rodeo Cowboy (uncredited)"
+                  },
+                  {
+                     "name" : "Christina M. Bender",
+                     "role" : "Fight Fan (uncredited)"
+                  },
+                  {
+                     "role" : "Bar Patron (uncredited)",
+                     "name" : "Clark Birchmeier"
+                  },
+                  {
+                     "name" : "Don Boerst",
+                     "role" : "VIP Fight Fan (uncredited)"
+                  },
+                  {
+                     "role" : "Funny Security Guard (uncredited)",
+                     "name" : "Mark Bonto"
+                  },
+                  {
+                     "name" : "Zachary Borromeo",
+                     "role" : "Fair Goer (uncredited)"
+                  },
+                  {
+                     "role" : "Ricky's Henchman (uncredited)",
+                     "name" : "Ben Bray"
+                  },
+                  {
+                     "role" : "Fight Fan (uncredited)",
+                     "name" : "Wayne Brinston"
+                  },
+                  {
+                     "name" : "Wayne E. Brown",
+                     "role" : "Upscale Boxing Fan (uncredited)"
+                  },
+                  {
+                     "role" : "Fight Fan (uncredited)",
+                     "name" : "Geneva Brunetti"
+                  },
+                  {
+                     "name" : "Justin Calkins",
+                     "role" : "Rodeo Cowboy (uncredited)"
+                  },
+                  {
+                     "role" : "Crash Palace Fight Fan (uncredited)",
+                     "name" : "Steven Campbell"
+                  },
+                  {
+                     "name" : "Jeff Caponigro",
+                     "role" : "Bailey's Dad (uncredited)"
+                  },
+                  {
+                     "role" : "Axelrod Handler (uncredited)",
+                     "name" : "Michael Patrick Carmody"
+                  },
+                  {
+                     "role" : "Kingpin's Henchman (uncredited)",
+                     "name" : "Ron Causey"
+                  },
+                  {
+                     "role" : "Twin Cities Fight Fan (uncredited)",
+                     "name" : "Justin Chrzanowski"
+                  },
+                  {
+                     "role" : "Rodeo Fan (uncredited)",
+                     "name" : "Michael B. Clark"
+                  },
+                  {
+                     "name" : "Will Clarke",
+                     "role" : "Photographer (uncredited)"
+                  },
+                  {
+                     "role" : "Twin Cities Upscale Fight Fan (uncredited)",
+                     "name" : "Chris Coldren"
+                  },
+                  {
+                     "role" : "Metro Fan - Big Rock / Zoo (uncredited)",
+                     "name" : "Sandy Coonan"
+                  },
+                  {
+                     "role" : "Panoramic Fight Fan (uncredited)",
+                     "name" : "Jahnel Curfman"
+                  },
+                  {
+                     "role" : "Gang Member (uncredited)",
+                     "name" : "Haylee Detroit Dewar"
+                  },
+                  {
+                     "role" : "Drunkard (uncredited)",
+                     "name" : "John Dezsi"
+                  },
+                  {
+                     "name" : "P.J. Edwards",
+                     "role" : "Axelrod Controller (uncredited)"
+                  },
+                  {
+                     "role" : "Ringside VIP - New York (uncredited)",
+                     "name" : "Shannon Edwards"
+                  },
+                  {
+                     "name" : "Raffi Elias",
+                     "role" : "Ringside Security Guard (uncredited)"
+                  },
+                  {
+                     "role" : "Herself (uncredited)",
+                     "name" : "Rima Fakih"
+                  },
+                  {
+                     "name" : "Tom Feldpausch",
+                     "role" : "Fight Fan (uncredited)"
+                  },
+                  {
+                     "role" : "ESPN Commentator (uncredited)",
+                     "name" : "Johnny Flynn"
+                  },
+                  {
+                     "name" : "Stephen C. Forsell",
+                     "role" : "Rodeo Vendor (uncredited)"
+                  },
+                  {
+                     "role" : "Girl at Fair (uncredited)",
+                     "name" : "Sarah Forton"
+                  },
+                  {
+                     "name" : "Stephen Fosner",
+                     "role" : "Vendor at Rodeo (uncredited)"
+                  },
+                  {
+                     "role" : "Rabid Fight Fan (uncredited)",
+                     "name" : "Logan Fry"
+                  },
+                  {
+                     "name" : "Nesti Gee",
+                     "role" : "Robot Handler (uncredited)"
+                  },
+                  {
+                     "role" : "Texas Fairgoer (uncredited)",
+                     "name" : "Ryan Genther"
+                  },
+                  {
+                     "name" : "Dan Gerics",
+                     "role" : "Townsperson (uncredited)"
+                  },
+                  {
+                     "name" : "Joey Ghinelli",
+                     "role" : "Fight Fan (uncredited)"
+                  },
+                  {
+                     "name" : "Jacob Godzak",
+                     "role" : "Fight Fan (uncredited)"
+                  },
+                  {
+                     "name" : "Ashley Goulson",
+                     "role" : "Fight Fan (uncredited)"
+                  },
+                  {
+                     "role" : "Vendor (uncredited)",
+                     "name" : "Megan Grant"
+                  },
+                  {
+                     "name" : "Brandon Green",
+                     "role" : "Fight Fan (uncredited)"
+                  },
+                  {
+                     "role" : "Crash Palace Fan (uncredited)",
+                     "name" : "J.J. Green"
+                  },
+                  {
+                     "role" : "Fight Fan (uncredited)",
+                     "name" : "Rebecca Guth"
+                  },
+                  {
+                     "name" : "Steven G\u00e4tjen",
+                     "role" : "Starblaze Arena Reporter (uncredited)"
+                  },
+                  {
+                     "name" : "Shane Hagedorn",
+                     "role" : "Photographer (uncredited)"
+                  },
+                  {
+                     "name" : "Joey Harlow",
+                     "role" : "Upper Class Upscale Fight Fan (uncredited)"
+                  },
+                  {
+                     "name" : "Pennie-Marie Hawkins",
+                     "role" : "ESPN Box (uncredited)"
+                  },
+                  {
+                     "name" : "Ron Heisler",
+                     "role" : "Fight Fan (uncredited)"
+                  },
+                  {
+                     "name" : "Robert Herrick",
+                     "role" : "Bar Date (uncredited)"
+                  },
+                  {
+                     "role" : "Fight Fan (uncredited)",
+                     "name" : "Kathryn Henzler"
+                  },
+                  {
+                     "role" : "Rodeo Cowboy (uncredited)",
+                     "name" : "Christopher W. Hodshire"
+                  },
+                  {
+                     "name" : "Suzy Hunt",
+                     "role" : "Upscale Fight Fan (uncredited)"
+                  },
+                  {
+                     "name" : "Markus James",
+                     "role" : "Fight Fan (uncredited)"
+                  },
+                  {
+                     "role" : "Bull Fight Attendee (uncredited)",
+                     "name" : "Pauline Ann Johnson"
+                  },
+                  {
+                     "role" : "Zoo Fight Fan (uncredited)",
+                     "name" : "Traver Johnson"
+                  },
+                  {
+                     "name" : "Gary T. Jones",
+                     "role" : "Rich Man (uncredited)"
+                  },
+                  {
+                     "role" : "Fight Fan (uncredited)",
+                     "name" : "Jennie Kahn-Jacques"
+                  },
+                  {
+                     "role" : "Japenese Reporter #1 (uncredited)",
+                     "name" : "Ko Kaiden"
+                  },
+                  {
+                     "name" : "Douglas King II",
+                     "role" : "Zoo Fight Fan / Spectrum Roadie (uncredited)"
+                  },
+                  {
+                     "role" : "Girl at Fair (uncredited)",
+                     "name" : "Lauren Kole"
+                  },
+                  {
+                     "name" : "Nathan Kranzo",
+                     "role" : "Photographer (uncredited)"
+                  },
+                  {
+                     "role" : "Boxing Fan (uncredited)",
+                     "name" : "Joe Kras"
+                  },
+                  {
+                     "role" : "Fight Fan (uncredited)",
+                     "name" : "Amy LaPlante"
+                  },
+                  {
+                     "role" : "Zeus Robot Handler #1 (uncredited)",
+                     "name" : "Kef Lee"
+                  },
+                  {
+                     "name" : "Amanda Lewan",
+                     "role" : "Waitress (uncredited)"
+                  },
+                  {
+                     "name" : "Anna Li",
+                     "role" : "Fight Fan (uncredited)"
+                  },
+                  {
+                     "role" : "Photographer (uncredited)",
+                     "name" : "Dervis Lici"
+                  },
+                  {
+                     "role" : "Female Livestock Judge (uncredited)",
+                     "name" : "Linda Linsley"
+                  },
+                  {
+                     "name" : "Nathaniel Loveland",
+                     "role" : "Upper Class Fight Fan (uncredited)"
+                  },
+                  {
+                     "role" : "Ring Security Guard (uncredited)",
+                     "name" : "Bill Lowery"
+                  },
+                  {
+                     "name" : "Rich Lozano",
+                     "role" : "Fight Fan (uncredited)"
+                  },
+                  {
+                     "name" : "Bill Lumbert",
+                     "role" : "Fight Fan (uncredited)"
+                  },
+                  {
+                     "name" : "Brad Leo Lyon",
+                     "role" : "Fight Fan (uncredited)"
+                  },
+                  {
+                     "role" : "Usher (uncredited)",
+                     "name" : "Mary Magyari"
+                  },
+                  {
+                     "role" : "Writer #1 (uncredited)",
+                     "name" : "Chris Mannix"
+                  },
+                  {
+                     "role" : "Fight Fan / Fair Goer (uncredited)",
+                     "name" : "Melissa Marra"
+                  },
+                  {
+                     "name" : "Rance Martin",
+                     "role" : "Fight Fan (uncredited)"
+                  },
+                  {
+                     "role" : "Fight Fan (uncredited)",
+                     "name" : "Bryan Matti"
+                  },
+                  {
+                     "role" : "Fight Fan (uncredited)",
+                     "name" : "Jessica McLarty"
+                  },
+                  {
+                     "name" : "Samuel Meadows",
+                     "role" : "Boxing Fan (uncredited)"
+                  },
+                  {
+                     "name" : "Jordan Kenneth Messing",
+                     "role" : "Vendor (uncredited)"
+                  },
+                  {
+                     "name" : "Ralph H. Meyer",
+                     "role" : "Cowboy / Upscale Fan (uncredited)"
+                  },
+                  {
+                     "role" : "Lead Security Guard (uncredited)",
+                     "name" : "Antonio L. Miller"
+                  },
+                  {
+                     "name" : "Wendel Millstead",
+                     "role" : "Farrah's Body Guard (uncredited)"
+                  },
+                  {
+                     "name" : "Gary L. Minix",
+                     "role" : "Laughing Zoo Fight Fan (uncredited)"
+                  },
+                  {
+                     "name" : "Megan Mockensturm",
+                     "role" : "Fight Fan (uncredited)"
+                  },
+                  {
+                     "name" : "Jermaine Moore",
+                     "role" : "Ring Security (uncredited)"
+                  },
+                  {
+                     "role" : "Vendor (uncredited)",
+                     "name" : "Kirstie Munoz"
+                  },
+                  {
+                     "name" : "Anton Narinskiy",
+                     "role" : "Farra's Body Guard (uncredited)"
+                  },
+                  {
+                     "role" : "Western Bar Patron (uncredited)",
+                     "name" : "Steven Hugh Nelson"
+                  },
+                  {
+                     "name" : "Chris Newman",
+                     "role" : "Starblaze Security Guard (uncredited)"
+                  },
+                  {
+                     "name" : "Michael Nicolae",
+                     "role" : "Big Brother (uncredited)"
+                  },
+                  {
+                     "name" : "Chris O'Brien",
+                     "role" : "Crash Palace Fight Fan (uncredited)"
+                  },
+                  {
+                     "role" : "Fight Fan (uncredited)",
+                     "name" : "Wendy Paquette"
+                  },
+                  {
+                     "role" : "Kingpin's Girlfriend (uncredited)",
+                     "name" : "Heather Park"
+                  },
+                  {
+                     "role" : "Upscale Fight Fan (uncredited)",
+                     "name" : "Jessica Petrik"
+                  },
+                  {
+                     "role" : "Helicopter Pilot (uncredited)",
+                     "name" : "Alan D. Purwin"
+                  },
+                  {
+                     "name" : "Ralph A. Recchia",
+                     "role" : "Boxing Fan (uncredited)"
+                  },
+                  {
+                     "role" : "Fight Fan (uncredited)",
+                     "name" : "Jay Reid"
+                  },
+                  {
+                     "name" : "DaJuan Rippy",
+                     "role" : "Fight Fan (uncredited)"
+                  },
+                  {
+                     "role" : "Fair Goer / Fight Fan Panaramic / Fight Fan Metro / Fight Fan Zoo (uncredited)",
+                     "name" : "Nicholas Ritz"
+                  },
+                  {
+                     "role" : "Boxing Fan (uncredited)",
+                     "name" : "Jeff Rosenfeld"
+                  },
+                  {
+                     "role" : "Cliff (uncredited)",
+                     "name" : "Marco Ruggeri"
+                  },
+                  {
+                     "name" : "Maria Lucia Safi",
+                     "role" : "Cat Woman (uncredited)"
+                  },
+                  {
+                     "role" : "Judge (uncredited)",
+                     "name" : "Miguel Sandoval"
+                  },
+                  {
+                     "role" : "Fair Goer (uncredited)",
+                     "name" : "Sebastian Sarkissian"
+                  },
+                  {
+                     "name" : "Steven Scott",
+                     "role" : "Lieutenant - Kingpin (uncredited)"
+                  },
+                  {
+                     "role" : "Fight Crowd Member (uncredited)",
+                     "name" : "Ron Shedd"
+                  },
+                  {
+                     "role" : "Fight Fan / Robot Roadie (uncredited)",
+                     "name" : "Daryl M. Simpson"
+                  },
+                  {
+                     "name" : "Gary Lee Simpson",
+                     "role" : "Upper Class Fight Fan (uncredited)"
+                  },
+                  {
+                     "role" : "Fight Fan (uncredited)",
+                     "name" : "Brian Anderson Smith"
+                  },
+                  {
+                     "name" : "Joseph Smith",
+                     "role" : "Robot Handler (uncredited)"
+                  },
+                  {
+                     "role" : "Fight Fan (uncredited)",
+                     "name" : "Nikki Smith"
+                  },
+                  {
+                     "name" : "Dwight Sora",
+                     "role" : "Japanese Reporter #2 (uncredited)"
+                  },
+                  {
+                     "role" : "Fair Goer (uncredited)",
+                     "name" : "Paul J. Spear"
+                  },
+                  {
+                     "name" : "Alan Stefan",
+                     "role" : "Fight Fan (uncredited)"
+                  },
+                  {
+                     "name" : "Tiffany Stone",
+                     "role" : "Tak's Girl (uncredited)"
+                  },
+                  {
+                     "name" : "Morris Lee Sullivan",
+                     "role" : "Cowboy at Rodeo / Robot Fight Fan (uncredited)"
+                  },
+                  {
+                     "name" : "John E.L. Tenney",
+                     "role" : "Salvage Yard Security Guard (uncredited)"
+                  },
+                  {
+                     "role" : "Twin Cities Fight Fan (uncredited)",
+                     "name" : "Melody Teodoro-Kurtis"
+                  },
+                  {
+                     "name" : "Michael Trobaugh",
+                     "role" : "Fight Fan (uncredited)"
+                  },
+                  {
+                     "name" : "Johnny Truong",
+                     "role" : "Usher (uncredited)"
+                  },
+                  {
+                     "name" : "Eric Tuchelske",
+                     "role" : "Fair Goer (uncredited)"
+                  },
+                  {
+                     "name" : "Laurie Valko",
+                     "role" : "Cowgirl (uncredited)"
+                  },
+                  {
+                     "name" : "Brett VanDunk",
+                     "role" : "Fight Fan (uncredited)"
+                  },
+                  {
+                     "role" : "Fight Fan (uncredited)",
+                     "name" : "Johnathon VanDusen"
+                  },
+                  {
+                     "role" : "Fight Fan (uncredited)",
+                     "name" : "Dan Watson"
+                  },
+                  {
+                     "name" : "Kaitlan Welton",
+                     "role" : "Pretty Girl (uncredited)"
+                  },
+                  {
+                     "role" : "Zoo Fight Fan (uncredited)",
+                     "name" : "Jojuan Westmoreland"
+                  },
+                  {
+                     "role" : "Vendor (uncredited)",
+                     "name" : "Ed Williams"
+                  },
+                  {
+                     "name" : "Amanda Wright",
+                     "role" : "Ricky's Girl (uncredited)"
+                  },
+                  {
+                     "role" : "Photographer (uncredited)",
+                     "name" : "Paul Xiong"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Shawn Levy"
+                  }
+               ]
+            },
+            "country" : [
+               "IN",
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Sci-Fi",
+                  "Drama"
+               ]
+            },
+            "stop" : "1522532400",
+            "rating" : {
+               "stars" : "6.7 / 10"
+            },
+            "desc" : {
+               "da" : "Ensp\u00e6nderen Charlie er en tidligere bokser, som nu tjener til dagen og vejen ved at underholde med en gammel bokserobot, der har set bedre dage. Men da Charlie en dag f\u00e5r ansvaret for sin 11-\u00e5rige s\u00f8n, Max, \u00e6ndres hans liv med det samme. Modtridigt skal far og s\u00f8n nu indhente det fortabte.Medv. Hugh Jackman, Dakota Goyo, Evangeline Lilly og Anthony Mackie"
+            },
+            "start" : "1522522800",
+            "title" : {
+               "da" : "Real Steel"
+            },
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/39254"
+            ],
+            "date" : "2011",
+            "video" : {
+               "quality" : "HDTV"
+            }
+         },
+         {
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2012",
+            "url" : [
+               "http://www.themoviedb.org/movie/70074"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "Bullet to the Head"
+            },
+            "rating" : {
+               "stars" : "5.3 / 10"
+            },
+            "desc" : {
+               "da" : "Da den unge politibetjent, Taylor Kwon og lejemorderen Jimmy Bobo begge bliver vidner til at deres respektive partnere myrdes p\u00e5 brutal vis, f\u00e5r de pludselig \u00e9n ting til f\u00e6lles. Taylor og Jimmy danner alliance, og missionen er ikke at tage fejl af - fjenden skal nedl\u00e6gges, og intet st\u00e5r i vejen for dem. Det umage par unders\u00f8ger alt fra de skumleste baggyder til New Orleans magtelite."
+            },
+            "start" : "1522532400",
+            "stop" : "1522539000",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Sylvester Stallone",
+                     "role" : "James Bonomo"
+                  },
+                  {
+                     "name" : "Sung Kang",
+                     "role" : "Taylor Kwon"
+                  },
+                  {
+                     "role" : "Lisa",
+                     "name" : "Sarah Shahi"
+                  },
+                  {
+                     "name" : "Adewale Akinnuoye-Agbaje",
+                     "role" : "Robert Nkomo Morel"
+                  },
+                  {
+                     "role" : "Keegan",
+                     "name" : "Jason Momoa"
+                  },
+                  {
+                     "role" : "Marcus Baptiste",
+                     "name" : "Christian Slater"
+                  },
+                  {
+                     "name" : "Jon Seda",
+                     "role" : "Louis Blanchard"
+                  },
+                  {
+                     "name" : "Holt McCallany",
+                     "role" : "Hank Greely"
+                  },
+                  {
+                     "name" : "Brian Van Holt",
+                     "role" : "Ronnie Earl"
+                  },
+                  {
+                     "name" : "Weronika Rosati",
+                     "role" : "Lola"
+                  },
+                  {
+                     "name" : "Dominique DuVernay",
+                     "role" : "Waitress"
+                  },
+                  {
+                     "name" : "Don Thai Theerathada",
+                     "role" : "Kim"
+                  },
+                  {
+                     "role" : "Deputy Coroner",
+                     "name" : "Dana Gourrier"
+                  },
+                  {
+                     "role" : "Baby Jack Lemoyne",
+                     "name" : "Douglas M. Griffin"
+                  },
+                  {
+                     "role" : "Newscaster",
+                     "name" : "Donna DuPlantier"
+                  },
+                  {
+                     "name" : "Andrea Frankle",
+                     "role" : "Masseuse"
+                  },
+                  {
+                     "name" : "Teri Wyble",
+                     "role" : "Belle"
+                  },
+                  {
+                     "role" : "Lee",
+                     "name" : "Lin Oeding"
+                  },
+                  {
+                     "role" : "Detective Towne",
+                     "name" : "Marcus Lyle Brown"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Walter Hill"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Alessandro Camon"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Alfred Gough"
+                  },
+                  {
+                     "name" : "Alexandra Milchan"
+                  },
+                  {
+                     "name" : "Miles Millar"
+                  },
+                  {
+                     "name" : "Joel Silver"
+                  },
+                  {
+                     "name" : "Kevin King Templeton"
+                  }
+               ]
+            },
+            "country" : [
+               "CH",
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Crime",
+                  "Thriller"
+               ]
+            },
+            "channel" : "6-eren.dk",
+            "episodeNum" : {
+               "themoviedb.org" : "movie/70074"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Basic"
+            },
+            "start" : "1522539000",
+            "rating" : {
+               "stars" : "6.2 / 10"
+            },
+            "desc" : {
+               "da" : "DEA-agenten Hardy rejser til en amerikansk tr\u00e6ningslejr i Panama for at opklare, hvad der er sket med den legendariske Ranger-instrukt\u00f8r West. West og en r\u00e6kke af hans soldater er forsvundet under en tr\u00e6ningsekspedition, der ser ud til at v\u00e6re g\u00e5et grueligt galt. Kaptain Julia Osborne bliver sammen med Tom Hardy sat til at opklare mysteriet. Trods en masse stridigheder mellem det to, bliver de n\u00f8dt til at holde hovedet koldt, for tiden er nemlig ved at l\u00f8be ud for dem."
+            },
+            "date" : "2003",
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/10782"
+            ],
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Mike Medavoy"
+                  },
+                  {
+                     "name" : "James Vanderbilt"
+                  },
+                  {
+                     "name" : "Arnold Messer"
+                  },
+                  {
+                     "name" : "Michael Tadross"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "James Vanderbilt"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Hardy",
+                     "name" : "John Travolta"
+                  },
+                  {
+                     "name" : "Connie Nielsen",
+                     "role" : "Osborne"
+                  },
+                  {
+                     "role" : "West",
+                     "name" : "Samuel L. Jackson"
+                  },
+                  {
+                     "name" : "Giovanni Ribisi",
+                     "role" : "Kendall"
+                  },
+                  {
+                     "role" : "Styles",
+                     "name" : "Tim Daly"
+                  },
+                  {
+                     "role" : "Dunbar",
+                     "name" : "Brian Van Holt"
+                  },
+                  {
+                     "name" : "Roselyn S\u00e1nchez",
+                     "role" : "Nunez"
+                  },
+                  {
+                     "name" : "Cristi\u00e1n de la Fuente",
+                     "role" : "Castro"
+                  },
+                  {
+                     "role" : "Pike",
+                     "name" : "Taye Diggs"
+                  },
+                  {
+                     "role" : "Mueller",
+                     "name" : "Dash Mihok"
+                  },
+                  {
+                     "name" : "Harry Connick Jr.",
+                     "role" : "Vilmer"
+                  },
+                  {
+                     "name" : "Nick Loren",
+                     "role" : "Helicopter Pilot"
+                  },
+                  {
+                     "role" : "Helicopter Pilot",
+                     "name" : "Cliff Fleming"
+                  },
+                  {
+                     "name" : "Margaret Travolta",
+                     "role" : "Nurse #1"
+                  },
+                  {
+                     "name" : "Chris Byrne",
+                     "role" : "MP"
+                  },
+                  {
+                     "name" : "Jonathan Rau",
+                     "role" : "G.I. on the Tarmac"
+                  },
+                  {
+                     "name" : "Tait Ruppert",
+                     "role" : "Jeep Driver"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "John McTiernan"
+                  }
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Drama",
+                  "Mystery",
+                  "Thriller",
+                  "Crime"
+               ]
+            },
+            "channel" : "6-eren.dk",
+            "episodeNum" : {
+               "themoviedb.org" : "movie/10782"
+            },
+            "stop" : "1522546200"
+         }
+      ]
+   }
+}

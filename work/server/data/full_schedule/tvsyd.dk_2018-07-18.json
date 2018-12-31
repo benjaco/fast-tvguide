@@ -1,0 +1,625 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "stop" : "1531888200",
+            "channel" : "tvsyd.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Frem i rampelyset kommer blandt andet en dukke i en b\u00e6restol og 1800 tals-malerier af den bornholmske maler Lars Hansen. Retroekspert S\u00f8ren Johansen kommer med tips til gamle ting, der kan blive noget v\u00e6rd igen."
+            },
+            "title" : {
+               "da" : "Mit k\u00e6reste eje - Esbjerg"
+            },
+            "new" : null,
+            "start" : "1531886460"
+         },
+         {
+            "stop" : "1531889700",
+            "new" : null,
+            "start" : "1531888200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder fra TV SYD"
+            },
+            "desc" : {
+               "da" : "Dagens nyheder og aktuelle reportager"
+            },
+            "channel" : "tvsyd.dk"
+         },
+         {
+            "stop" : "1531891800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "TVSYD.DK"
+            },
+            "desc" : {
+               "da" : "Nyheder fra TV SYDs webredaktion"
+            },
+            "channel" : "tvsyd.dk",
+            "new" : null,
+            "start" : "1531889700"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Dagens nyheder og aktuelle reportager"
+            },
+            "title" : {
+               "da" : "Nyheder fra TV SYD"
+            },
+            "channel" : "tvsyd.dk",
+            "new" : null,
+            "start" : "1531891800",
+            "stop" : "1531893300"
+         },
+         {
+            "stop" : "1531895400",
+            "start" : "1531893300",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Storkereden i Smedager"
+            },
+            "desc" : {
+               "da" : "Nyheder fra TV SYDs webredaktion"
+            },
+            "channel" : "tvsyd.dk"
+         },
+         {
+            "start" : "1531895400",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Dagens nyheder og aktuelle reportager"
+            },
+            "channel" : "tvsyd.dk",
+            "title" : {
+               "da" : "Nyheder fra TV SYD"
+            },
+            "stop" : "1531896900"
+         },
+         {
+            "stop" : "1531902600",
+            "new" : null,
+            "start" : "1531896900",
+            "channel" : "tvsyd.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Nyheder fra TV SYDs webredaktion"
+            },
+            "title" : {
+               "da" : "Storkereden i Smedager"
+            }
+         },
+         {
+            "channel" : "tvsyd.dk",
+            "title" : {
+               "da" : "S\u00e5danmark, g\u00e6st Ibi Makienok"
+            },
+            "new" : null,
+            "start" : "1531902600",
+            "stop" : "1531904400",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 2",
+               "xmltv_ns" : ". 0/2 ."
+            },
+            "desc" : {
+               "da" : "Det er tv-v\u00e6rt og ambassad\u00f8r for organisationen Organtransplantation- Ja tak, Iben Makienok, som i dag er Annemette Voss' medv\u00e6rt i S\u00e5danmark. H\u00f8r, hvorfor det at f\u00e5 danskerne til at tage stilling til organtransplantation er blevet Ibis hjertesag. Og m\u00f8d Hanne Knudsen, der for 24 \u00e5r siden fik en hjertetransplantation, hvilket bet\u00f8d, at hun har set sine b\u00f8rn vokse op. Men vi skal ogs\u00e5 p\u00e5 bes\u00f8g hos Ragnhold og Vagner Nielsen, som har drevet renseri i Br\u00e6dstrup i \u00e5rtier, men som nu siger stop for at rejse ud og opleve Danmark."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Regionale nyheder fra \u00d8stjylland."
+            },
+            "start" : "1531904400",
+            "new" : null,
+            "title" : {
+               "da" : "Nyheder fra \u00d8stjylland"
+            },
+            "channel" : "tvsyd.dk",
+            "date" : "2018",
+            "stop" : "1531905900"
+         },
+         {
+            "new" : null,
+            "start" : "1531905900",
+            "desc" : {
+               "da" : "Nyheder fra V SYDs webredaktion"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Storkereden i Smedager"
+            },
+            "channel" : "tvsyd.dk",
+            "stop" : "1531909800"
+         },
+         {
+            "stop" : "1531911600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "TVSYD.DK"
+            },
+            "desc" : {
+               "da" : "Nyheder fra TV SYDs webredaktion"
+            },
+            "channel" : "tvsyd.dk",
+            "new" : null,
+            "start" : "1531909800"
+         },
+         {
+            "stop" : "1531917000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvsyd.dk",
+            "desc" : {
+               "da" : "Nyheder fra TV SYDs webredaktion"
+            },
+            "title" : {
+               "da" : "Storkereden i Smedager"
+            },
+            "start" : "1531911600",
+            "new" : null
+         },
+         {
+            "stop" : "1531918800",
+            "start" : "1531917000",
+            "new" : null,
+            "channel" : "tvsyd.dk",
+            "title" : {
+               "da" : "S\u00e5danmark, g\u00e6st Ibi Makienok"
+            },
+            "desc" : {
+               "da" : "Ibi Makienok er tilbage som Annemette Voss' medv\u00e6rt, og i dag skal vi se, om det lykkedes en hypnotis\u00f8r at f\u00e5 reporteren Anders Toft Bro til ikke l\u00e6ngere at v\u00e6re bange for hunde. Vi skal ogs\u00e5 m\u00f8de mor og s\u00f8n, som tr\u00e6ner til Royal Run i maj og to veninder, som skal til VM i issv\u00f8mning."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 1/2 .",
+               "onscreen" : "Afsnit 2 af 2"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "stop" : "1531926960",
+            "desc" : {
+               "da" : "Nyheder fra TV SYDs webredaktion"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Storkereden i Smedager"
+            },
+            "channel" : "tvsyd.dk",
+            "new" : null,
+            "start" : "1531918800"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Kort nyhedsoversigt"
+            },
+            "title" : {
+               "da" : "Kort Nyhedsoversigt"
+            },
+            "channel" : "tvsyd.dk",
+            "new" : null,
+            "start" : "1531926960",
+            "stop" : "1531927200"
+         },
+         {
+            "start" : "1531927200",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "TVSYD.DK"
+            },
+            "desc" : {
+               "da" : "Nyheder fra TV SYDs webredaktion"
+            },
+            "channel" : "tvsyd.dk",
+            "stop" : "1531927800"
+         },
+         {
+            "channel" : "tvsyd.dk",
+            "title" : {
+               "da" : "Elgaards Terrasse: Karin Schwartz"
+            },
+            "new" : null,
+            "credits" : {
+               "presenter" : [
+                  {
+                     "name" : "Claus Elgaard"
+                  }
+               ]
+            },
+            "start" : "1531927800",
+            "stop" : "1531929600",
+            "date" : "2016",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Karin Schwartz fort\u00e6ller Claus Elgaard, at hun havde en voldsom og ulykkelig barndom, hvor hun s\u00f8gte v\u00e6k i et k\u00e6lderrum uden lys. Senere s\u00f8gte Karin Schwartz smerten i den h\u00e5rde tr\u00e6ning for at glemme livet omkring sig. I dag k\u00e6mper Karin Schwartz med hjertet for give de ramte b\u00f8rn plads, rettigheder og muligheder i livet."
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Nyheder fra TV SYDs webredaktion"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "TVSYD.DK"
+            },
+            "channel" : "tvsyd.dk",
+            "new" : null,
+            "start" : "1531929600",
+            "stop" : "1531930200"
+         },
+         {
+            "title" : {
+               "da" : "Kort nyhedsoversigt"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Kort nyhedsoversigt"
+            },
+            "channel" : "tvsyd.dk",
+            "start" : "1531930200",
+            "new" : null,
+            "stop" : "1531931100"
+         },
+         {
+            "stop" : "1531931400",
+            "desc" : {
+               "da" : "Nyheder fra TV SYDs webredaktion"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvsyd.dk",
+            "title" : {
+               "da" : "TVSYD.DK"
+            },
+            "new" : null,
+            "start" : "1531931100"
+         },
+         {
+            "start" : "1531931400",
+            "new" : null,
+            "desc" : {
+               "da" : "Frem i rampelyset kommer blandt andet en dukke i en b\u00e6restol og 1800 tals-malerier af den bornholmske maler Lars Hansen. Retroekspert S\u00f8ren Johansen kommer med tips til gamle ting, der kan blive noget v\u00e6rd igen."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvsyd.dk",
+            "title" : {
+               "da" : "Mit k\u00e6reste eje - Esbjerg"
+            },
+            "stop" : "1531933200"
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : ". 1/2 .",
+               "onscreen" : "Afsnit 2 af 2"
+            },
+            "desc" : {
+               "da" : "Ibi Makienok er tilbage som Annemette Voss' medv\u00e6rt, og i dag skal vi se, om det lykkedes en hypnotis\u00f8r at f\u00e5 reporteren Anders Toft Bro til ikke l\u00e6ngere at v\u00e6re bange for hunde. Vi skal ogs\u00e5 m\u00f8de mor og s\u00f8n, som tr\u00e6ner til Royal Run i maj og to veninder, som skal til VM i issv\u00f8mning."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1531935000",
+            "channel" : "tvsyd.dk",
+            "title" : {
+               "da" : "S\u00e5danmark, g\u00e6st Ibi Makienok"
+            },
+            "new" : null,
+            "start" : "1531933200"
+         },
+         {
+            "start" : "1531935000",
+            "new" : null,
+            "channel" : "tvsyd.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Dagens nyheder og aktuelle reportager"
+            },
+            "title" : {
+               "da" : "Nyheder fra TV SYD"
+            },
+            "stop" : "1531936500"
+         },
+         {
+            "title" : {
+               "da" : "Fabrikken: Crispy Food"
+            },
+            "channel" : "tvsyd.dk",
+            "credits" : {
+               "presenter" : [
+                  {
+                     "name" : "Maria Bernhard"
+                  }
+               ]
+            },
+            "new" : null,
+            "start" : "1531936500",
+            "stop" : "1531938300",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "V\u00e6rt: Maria Bernhard."
+            }
+         },
+         {
+            "stop" : "1531940100",
+            "desc" : {
+               "da" : "I dette afsnit er Ren\u00e9 Rasmussen kommet p\u00e5 skoleb\u00e6nken. Han m\u00f8der Karl Erik Olesen, som fort\u00e6ller om skolev\u00e6senet i S\u00f8nderjylland under preussisk styre og Jes Fabricius M\u00f8ller, som fort\u00e6ller om H\u00f8jskolebev\u00e6gelsen nord for Konge\u00e5en - og om, hvordan h\u00f8jskoletankerne sprang over Konge\u00e5en og satte sit pr\u00e6g p\u00e5 K\u00f8benhoved lige syd for gr\u00e6nsen. Vi skal ogs\u00e5 til Folkehjem i Aabenraa og h\u00f8re om s\u00f8nderjydernes kulturelle og politiske kamp."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "100 \u00e5r i Syd- og S\u00f8nderjylland"
+            },
+            "channel" : "tvsyd.dk",
+            "start" : "1531938300",
+            "new" : null
+         },
+         {
+            "new" : null,
+            "start" : "1531940100",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Storkereden i Smedager"
+            },
+            "channel" : "tvsyd.dk",
+            "stop" : "1531941900"
+         },
+         {
+            "stop" : "1531943400",
+            "channel" : "tvsyd.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Dagens nyheder og aktuelle reportager"
+            },
+            "title" : {
+               "da" : "Nyheder fra TV SYD"
+            },
+            "new" : null,
+            "start" : "1531941900"
+         },
+         {
+            "channel" : "tvsyd.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "TVSYD.DK"
+            },
+            "new" : null,
+            "start" : "1531943400",
+            "stop" : "1531944000"
+         },
+         {
+            "desc" : {
+               "da" : "Regionale nyheder fra \u00d8stjylland."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1531945740",
+            "date" : "2018",
+            "title" : {
+               "da" : "Nyheder fra \u00d8stjylland"
+            },
+            "channel" : "tvsyd.dk",
+            "start" : "1531944000",
+            "new" : null
+         },
+         {
+            "date" : "2227",
+            "stop" : "1531946400",
+            "start" : "1531945740",
+            "new" : null,
+            "channel" : "tvsyd.dk",
+            "title" : {
+               "da" : "Nyheder"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Dagens sidste nyhedsudsendelse"
+            }
+         },
+         {
+            "stop" : "1531948200",
+            "new" : null,
+            "start" : "1531946400",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvsyd.dk",
+            "desc" : {
+               "da" : "I dette afsnit er Ren\u00e9 Rasmussen kommet p\u00e5 skoleb\u00e6nken. Han m\u00f8der Karl Erik Olesen, som fort\u00e6ller om skolev\u00e6senet i S\u00f8nderjylland under preussisk styre og Jes Fabricius M\u00f8ller, som fort\u00e6ller om H\u00f8jskolebev\u00e6gelsen nord for Konge\u00e5en - og om, hvordan h\u00f8jskoletankerne sprang over Konge\u00e5en og satte sit pr\u00e6g p\u00e5 K\u00f8benhoved lige syd for gr\u00e6nsen. Vi skal ogs\u00e5 til Folkehjem i Aabenraa og h\u00f8re om s\u00f8nderjydernes kulturelle og politiske kamp."
+            },
+            "title" : {
+               "da" : "100 \u00e5r i Syd- og S\u00f8nderjylland"
+            }
+         },
+         {
+            "stop" : "1531950300",
+            "new" : null,
+            "start" : "1531948200",
+            "channel" : "tvsyd.dk",
+            "title" : {
+               "da" : "S\u00e5danmark, medv\u00e6rt Casper Steinfath"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/2 .",
+               "onscreen" : "Afsnit 1 af 2"
+            },
+            "desc" : {
+               "da" : "Han blev Danmarksber\u00f8mt, da han i marts padlede fra Danmark til Norge p\u00e5 sit surfbr\u00e6t. H\u00f8r historien om, hvor ondt, det egentlig gjorde, n\u00e5r Casper Steinfath i dag er Henriette Honor\u00e9s medv\u00e6rt. Kom ogs\u00e5 med til Falster, hvor byvicev\u00e6rter forsk\u00f8nner byerne og hygger om de lokale."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "stop" : "1531972860",
+            "channel" : "tvsyd.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "TVSYD.DK"
+            },
+            "start" : "1531950300",
+            "new" : null
+         }
+      ]
+   }
+}

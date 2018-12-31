@@ -1,0 +1,90 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "stop" : "1532115000",
+            "title" : {
+               "da" : "Golf: 147th Open Championship"
+            },
+            "channel" : "golf.viasat.dk",
+            "start" : "1532064600",
+            "new" : null,
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Golf"
+               ]
+            },
+            "desc" : {
+               "da" : "Det er blevet tid til \u00e5rets tredje og dermed n\u00e6stsidste major-turnering, n\u00e5r The Open Championship, ogs\u00e5 kendt som The Open eller British Open, st\u00e5r for d\u00f8ren den 19.-22. juli. Turneringen er den \u00e6ldste af de fire majors, og finder i \u00e5r sted i Skotland p\u00e5 den s\u00e5kaldte 'Carnoustie'. Jordan Spieth sejrede i turneringen sidste \u00e5r. Se med, n\u00e5r vi d\u00e6kker turneringen live med de kommentatorer, du kender."
+            }
+         },
+         {
+            "start" : "1532115000",
+            "new" : null,
+            "channel" : "golf.viasat.dk",
+            "title" : {
+               "da" : "Golf: Viasat Golf m\u00f8der Jean Van de Velde"
+            },
+            "stop" : "1532116800",
+            "desc" : {
+               "da" : "Vi har helt eksklusivt f\u00e5et lov at m\u00f8de Jean Van de Velde, der nok er mest kendt for den dramatiske afslutning i The Open tilbage i 1999."
+            },
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Golf"
+               ]
+            },
+            "video" : {
+               "aspect" : "4:3"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Golf"
+               ]
+            },
+            "desc" : {
+               "da" : "Det er blevet tid til \u00e5rets tredje og dermed n\u00e6stsidste major-turnering, n\u00e5r The Open Championship, ogs\u00e5 kendt som The Open eller British Open, st\u00e5r for d\u00f8ren den 19.-22. juli. Turneringen er den \u00e6ldste af de fire majors, og finder i \u00e5r sted i Skotland p\u00e5 den s\u00e5kaldte 'Carnoustie'. Jordan Spieth sejrede i turneringen sidste \u00e5r. Se med, n\u00e5r vi d\u00e6kker turneringen live med de kommentatorer, du kender."
+            },
+            "stop" : "1532129400",
+            "new" : null,
+            "start" : "1532116800",
+            "channel" : "golf.viasat.dk",
+            "title" : {
+               "da" : "Golf: 147th Open Championship"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Golf"
+               ]
+            },
+            "desc" : {
+               "da" : "Se eller gense h\u00f8jdepunkterne fra den seneste turnering p\u00e5 European Tour: The Open, som blev spillet p\u00e5 Royal Troon Golf i Skotland."
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "start" : "1532129400",
+            "new" : null,
+            "channel" : "golf.viasat.dk",
+            "title" : {
+               "da" : "Golf: The Open Highlights - NEW"
+            },
+            "stop" : "1532131200"
+         }
+      ]
+   }
+}

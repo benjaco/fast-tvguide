@@ -1,0 +1,1914 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "title" : {
+               "da" : "Speed"
+            },
+            "start" : "1531612800",
+            "rating" : {
+               "stars" : "6.9 / 10"
+            },
+            "desc" : {
+               "da" : "En bindegal bombemand har placeret en bombe p\u00e5 en bus. Antiterror-eksperten Jack Traven (Keanu Reeves) f\u00e5r imidlertid hj\u00e6lp af en af passagererne p\u00e5 bussen, Annie (Sandra Bullock). Sammen skal de s\u00f8rge for at bomben ikke spr\u00e6nger, men det er lettere sagt end gjort, for idet \u00f8jeblik at bussens hastighed kommer under 80 kilometer i timen, bliver bomben aktiveret. Filmen vandt i \u00f8vrigt to Oscar-statuetter, \u00e9n for bedste lyd, og \u00e9n for bedste effekter og klipning af lydeffekter."
+            },
+            "date" : "1994",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Adventure",
+                  "Crime"
+               ]
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/1637"
+            ],
+            "stop" : "1531620000",
+            "episodeNum" : {
+               "themoviedb.org" : "movie/1637"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Jack Traven",
+                     "name" : "Keanu Reeves"
+                  },
+                  {
+                     "role" : "Howard Payne",
+                     "name" : "Dennis Hopper"
+                  },
+                  {
+                     "role" : "Annie Porter",
+                     "name" : "Sandra Bullock"
+                  },
+                  {
+                     "name" : "Joe Morton",
+                     "role" : "Capt. McMahon"
+                  },
+                  {
+                     "name" : "Jeff Daniels",
+                     "role" : "Harold 'Harry' Temple"
+                  },
+                  {
+                     "role" : "Stephens",
+                     "name" : "Alan Ruck"
+                  },
+                  {
+                     "name" : "Glenn Plummer",
+                     "role" : "Jaguar Owner"
+                  },
+                  {
+                     "role" : "Norwood",
+                     "name" : "Richard Lineback"
+                  },
+                  {
+                     "name" : "Beth Grant",
+                     "role" : "Helen"
+                  },
+                  {
+                     "name" : "Hawthorne James",
+                     "role" : "Sam"
+                  },
+                  {
+                     "name" : "Carlos Carrasco",
+                     "role" : "Ortiz"
+                  },
+                  {
+                     "role" : "Terry",
+                     "name" : "David Kriegel"
+                  },
+                  {
+                     "name" : "Natsuko Ohama",
+                     "role" : "Mrs. Kamino"
+                  },
+                  {
+                     "role" : "Ray",
+                     "name" : "Daniel Villarreal"
+                  },
+                  {
+                     "role" : "Bus Passenger #1",
+                     "name" : "Simone Gad"
+                  },
+                  {
+                     "name" : "Loretta Jean",
+                     "role" : "Bus Passenger #2"
+                  },
+                  {
+                     "role" : "Bus Passenger #3",
+                     "name" : "Sherri Villanueva"
+                  },
+                  {
+                     "role" : "Robin",
+                     "name" : "Margaret Medina"
+                  },
+                  {
+                     "name" : "Jordan Lund",
+                     "role" : "Bagwell"
+                  },
+                  {
+                     "name" : "Robert Mailhouse",
+                     "role" : "Young Executive"
+                  },
+                  {
+                     "name" : "Patrick Fischler",
+                     "role" : "Friend of Executive"
+                  },
+                  {
+                     "role" : "CEO",
+                     "name" : "Patrick John Hurley"
+                  },
+                  {
+                     "name" : "Susan Barnes",
+                     "role" : "Female Executive"
+                  },
+                  {
+                     "name" : "Rick Dano",
+                     "role" : "S.W.A.T. Driver"
+                  },
+                  {
+                     "name" : "Michael Sottile",
+                     "role" : "S.W.A.T. Cop"
+                  },
+                  {
+                     "role" : "Baby Carriage Woman #1",
+                     "name" : "Jane Crawley"
+                  },
+                  {
+                     "role" : "Baby Carriage Woman #2",
+                     "name" : "Anne O'Sullivan"
+                  },
+                  {
+                     "role" : "Commissioner",
+                     "name" : "Beau Starr"
+                  },
+                  {
+                     "role" : "Bob",
+                     "name" : "John Capodice"
+                  },
+                  {
+                     "name" : "Thomas Rosales, Jr.",
+                     "role" : "Vince"
+                  },
+                  {
+                     "name" : "James DuMont",
+                     "role" : "Workman"
+                  },
+                  {
+                     "name" : "Antonio Mora",
+                     "role" : "News Anchor #1"
+                  },
+                  {
+                     "name" : "Patty Toy",
+                     "role" : "News Anchor #2"
+                  },
+                  {
+                     "role" : "News Cameraman",
+                     "name" : "Todd Gordon"
+                  },
+                  {
+                     "role" : "Reporter #1",
+                     "name" : "Bruce Wright"
+                  },
+                  {
+                     "name" : "Mark Kriski",
+                     "role" : "Reporter #2"
+                  },
+                  {
+                     "role" : "Reporter #3",
+                     "name" : "Dagny Hultgreen"
+                  },
+                  {
+                     "name" : "Richard Schiff",
+                     "role" : "Train Driver"
+                  },
+                  {
+                     "role" : "Cop",
+                     "name" : "Joseph Carberry"
+                  },
+                  {
+                     "name" : "Sandy Martin",
+                     "role" : "Bartender"
+                  },
+                  {
+                     "role" : "Mrs. McMahon",
+                     "name" : "Neisha Folkes-LeMelle"
+                  },
+                  {
+                     "role" : "Additional Bus Passenger #1",
+                     "name" : "Jim Mapp"
+                  },
+                  {
+                     "name" : "Milton Quon",
+                     "role" : "Additional Bus Passenger #2"
+                  },
+                  {
+                     "role" : "Additional Bus Passenger #3",
+                     "name" : "Sonia Jackson"
+                  },
+                  {
+                     "name" : "Carmen Williams",
+                     "role" : "Additional Bus Passenger #4"
+                  },
+                  {
+                     "name" : "Paula Montes",
+                     "role" : "Additional Bus Passenger #5"
+                  },
+                  {
+                     "name" : "Loyda Ramos",
+                     "role" : "Additional Bus Passenger #6"
+                  },
+                  {
+                     "role" : "Additional Bus Passenger #7",
+                     "name" : "Julia Vera"
+                  },
+                  {
+                     "role" : "Additional Bus Passenger #8",
+                     "name" : "Marylou Lim"
+                  },
+                  {
+                     "name" : "Brian K. Grant",
+                     "role" : "Elevator Passenger #1"
+                  },
+                  {
+                     "role" : "Elevator Passenger #2",
+                     "name" : "Barry Kramer"
+                  },
+                  {
+                     "name" : "Robin McKee",
+                     "role" : "Elevator Passenger #3"
+                  },
+                  {
+                     "role" : "Elevator Passenger #4",
+                     "name" : "Paige Goodman"
+                  },
+                  {
+                     "name" : "Christina Fitzgerald",
+                     "role" : "Elevator Passenger #5"
+                  },
+                  {
+                     "role" : "Elevator Passenger #6",
+                     "name" : "Tara Thomas"
+                  },
+                  {
+                     "name" : "Cece Tsou",
+                     "role" : "Elevator Passenger #7"
+                  },
+                  {
+                     "role" : "Elevator Passenger #8",
+                     "name" : "Michael N. Fujimoto"
+                  },
+                  {
+                     "name" : "Richard Gelb",
+                     "role" : "Elevator Passenger #9"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Jan de Bont"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Graham Yost"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Mark Gordon"
+                  }
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "new" : null,
+            "channel" : "action.film.viasat.dk"
+         },
+         {
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "start" : "1531620000",
+            "title" : {
+               "da" : "The Truth About Charlie"
+            },
+            "rating" : {
+               "stars" : "4.7 / 10"
+            },
+            "desc" : {
+               "da" : "Regina Lambert er vendt hjem fra sin ferie. Hun finder sin mand myrdet i deres parisiske hjem og med alle pengene stj\u00e5let. Mens hun stadig s\u00f8rger, bliver hun forh\u00f8rt af myndighederne om de mange alias og falske identiteter, som manden havde. Regina ved ikke noget om dette, men bliver pludselig et m\u00e5l for flere, mystiske grupper, der \u00f8nsker at sl\u00e5 hende ihjel, s\u00e5 de kan f\u00e5 hendes mands stj\u00e5lne penge. En amerikansk mand fors\u00f8ger at beskytte hende - men kan hun stole p\u00e5 ham?"
+            },
+            "date" : "2002",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Mystery",
+                  "Thriller",
+                  "Romance",
+                  "Drama"
+               ]
+            },
+            "stop" : "1531627200",
+            "url" : [
+               "http://www.themoviedb.org/movie/13440"
+            ],
+            "episodeNum" : {
+               "themoviedb.org" : "movie/13440"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Lewis Bartholamew",
+                     "name" : "Mark Wahlberg"
+                  },
+                  {
+                     "name" : "Thandie Newton",
+                     "role" : "Regina Lambert"
+                  },
+                  {
+                     "name" : "Tim Robbins",
+                     "role" : "Carson J. Dyle"
+                  },
+                  {
+                     "role" : "Commandant Dominique",
+                     "name" : "Christine Boisson"
+                  },
+                  {
+                     "role" : "Lola Jansco",
+                     "name" : "LisaGay Hamilton"
+                  },
+                  {
+                     "role" : "Il-Sang Lee",
+                     "name" : "Park Joong-hoon"
+                  },
+                  {
+                     "name" : "Ted Levine",
+                     "role" : "Emil Zadapec"
+                  },
+                  {
+                     "role" : "Charlie",
+                     "name" : "Stephen Dillane"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Jonathan Demme"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Peter Stone"
+                  },
+                  {
+                     "name" : "Jonathan Demme"
+                  },
+                  {
+                     "name" : "Steve Schmidt"
+                  },
+                  {
+                     "name" : "Jessica Bendinger"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Neda Armian"
+                  },
+                  {
+                     "name" : "Mishka Cheyko"
+                  },
+                  {
+                     "name" : "Jonathan Demme"
+                  },
+                  {
+                     "name" : "Ilona Herzberg"
+                  },
+                  {
+                     "name" : "Peter Saraf"
+                  },
+                  {
+                     "name" : "Edward Saxon"
+                  }
+               ]
+            },
+            "country" : [
+               "DE",
+               "US"
+            ],
+            "new" : null,
+            "channel" : "action.film.viasat.dk"
+         },
+         {
+            "episodeNum" : {
+               "themoviedb.org" : "movie/14299"
+            },
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Andrew Lack"
+                  },
+                  {
+                     "name" : "Sofia Sondervan"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Leonard Chess",
+                     "name" : "Adrien Brody"
+                  },
+                  {
+                     "role" : "Muddy Waters",
+                     "name" : "Jeffrey Wright"
+                  },
+                  {
+                     "role" : "Etta James",
+                     "name" : "Beyonc\u00e9 Knowles"
+                  },
+                  {
+                     "name" : "Gabrielle Union",
+                     "role" : "Geneva Wade"
+                  },
+                  {
+                     "role" : "Little Walter",
+                     "name" : "Columbus Short"
+                  },
+                  {
+                     "name" : "Cedric the Entertainer",
+                     "role" : "Willie Dixon"
+                  },
+                  {
+                     "name" : "Emmanuelle Chriqui",
+                     "role" : "Revetta Chess"
+                  },
+                  {
+                     "role" : "Howlin' Wolf",
+                     "name" : "Eamonn Walker"
+                  },
+                  {
+                     "name" : "Yasiin Bey",
+                     "role" : "Chuck Berry"
+                  },
+                  {
+                     "name" : "Valence Thomas",
+                     "role" : "James Cotton"
+                  },
+                  {
+                     "name" : "Jay O. Sanders",
+                     "role" : "Mr. Feder"
+                  },
+                  {
+                     "role" : "Chess Engineer",
+                     "name" : "Norman Reedus"
+                  },
+                  {
+                     "name" : "Aaron Munoz",
+                     "role" : "Manager"
+                  },
+                  {
+                     "role" : "Jimmy Rogers",
+                     "name" : "Kevin Mambo"
+                  },
+                  {
+                     "role" : "Girlfriend",
+                     "name" : "Chyna Layne"
+                  },
+                  {
+                     "name" : "Albert Jones",
+                     "role" : "Hubert Sumlin"
+                  },
+                  {
+                     "role" : "Maid",
+                     "name" : "Osas Ighodaro"
+                  },
+                  {
+                     "role" : "Pot Strong",
+                     "name" : "Jordan Haynes"
+                  },
+                  {
+                     "name" : "Suzette Gunn",
+                     "role" : "Minnie Ripperton"
+                  },
+                  {
+                     "role" : "Shelly Feder",
+                     "name" : "Jill Flint"
+                  },
+                  {
+                     "name" : "Shiloh Fernandez",
+                     "role" : "Phil Chess"
+                  },
+                  {
+                     "role" : "Charles Waters",
+                     "name" : "Eshaya Draper"
+                  },
+                  {
+                     "name" : "Eric Bogosian",
+                     "role" : "Alan Freed"
+                  },
+                  {
+                     "name" : "Tammy Blanchard",
+                     "role" : "Isabelle Allan"
+                  },
+                  {
+                     "name" : "Tony Bentley",
+                     "role" : "Lomax"
+                  },
+                  {
+                     "role" : "Blonde Girl",
+                     "name" : "Veronika Dash"
+                  },
+                  {
+                     "role" : "Geneva's Teenage Son",
+                     "name" : "Dexter Darden"
+                  },
+                  {
+                     "name" : "Wade Mylius",
+                     "role" : "Bouncer"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Darnell Martin"
+                  }
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "new" : null,
+            "channel" : "action.film.viasat.dk",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "title" : {
+               "da" : "Cadillac Records"
+            },
+            "start" : "1531627200",
+            "rating" : {
+               "stars" : "7 / 10"
+            },
+            "date" : "2008",
+            "desc" : {
+               "da" : "I denne biografiske musical om sex, vold, raceforhold og rock & roll i 1950'ernes Chicago f\u00f8lger vi nogle af de amerikanske musiklegender, der var tilknyttet Chess Records, i deres sp\u00e6ndende, men turbulente liv. I denne fiktive gengivelse af 'Cadillac Records', m\u00f8der vi blandt andre Mos Def som rock & roll-pioneren Chuck Berry, Beyonc\u00e9 Knowles som soulsangeren Etta James og Adrien Brody som den hvide fyr Leonard Chess, der s\u00e5 den sorte musiks kommercielle potentiale."
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama",
+                  "History",
+                  "Music"
+               ]
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/14299"
+            ],
+            "stop" : "1531634400"
+         },
+         {
+            "start" : "1531634400",
+            "title" : {
+               "da" : "Digging for Fire"
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/295490"
+            ],
+            "stop" : "1531641600",
+            "rating" : {
+               "stars" : "5.2 / 10"
+            },
+            "date" : "2015",
+            "desc" : {
+               "da" : "Opdagelsen af et ben og en pistol sender en mand og hans kone p\u00e5 hver sit eventyr hen over en weekend."
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama",
+                  "Comedy"
+               ]
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "new" : null,
+            "channel" : "action.film.viasat.dk",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Jake Johnson",
+                     "role" : "Tim"
+                  },
+                  {
+                     "role" : "Lee",
+                     "name" : "Rosemarie DeWitt"
+                  },
+                  {
+                     "role" : "Ben",
+                     "name" : "Orlando Bloom"
+                  },
+                  {
+                     "name" : "Brie Larson",
+                     "role" : "Max"
+                  },
+                  {
+                     "role" : "Ray",
+                     "name" : "Sam Rockwell"
+                  },
+                  {
+                     "name" : "Anna Kendrick",
+                     "role" : "Alicia"
+                  },
+                  {
+                     "name" : "Mike Birbiglia",
+                     "role" : "Phil"
+                  },
+                  {
+                     "name" : "Kent Osborne",
+                     "role" : "Adam"
+                  },
+                  {
+                     "name" : "Sam Elliott",
+                     "role" : "Pop Pop"
+                  },
+                  {
+                     "role" : "Grandma",
+                     "name" : "Judith Light"
+                  },
+                  {
+                     "role" : "Bob",
+                     "name" : "Ron Livingston"
+                  },
+                  {
+                     "role" : "Squiggy",
+                     "name" : "Melanie Lynskey"
+                  },
+                  {
+                     "name" : "Jenny Slate",
+                     "role" : "Yoga Couple"
+                  },
+                  {
+                     "name" : "Timothy Simons",
+                     "role" : "Yoga Couple"
+                  },
+                  {
+                     "name" : "Chris Messina",
+                     "role" : "Billy T"
+                  },
+                  {
+                     "name" : "Jane Adams",
+                     "role" : "Woman on Beach"
+                  },
+                  {
+                     "name" : "Lindsay Burdge",
+                     "role" : "Lucy"
+                  },
+                  {
+                     "name" : "Steve Berg",
+                     "role" : "Paul"
+                  },
+                  {
+                     "name" : "Tom Bower",
+                     "role" : "Tom the Neighbor"
+                  },
+                  {
+                     "role" : "Uber Driver",
+                     "name" : "David Siskind"
+                  },
+                  {
+                     "name" : "Jude Swanberg",
+                     "role" : "Jude"
+                  },
+                  {
+                     "role" : "Brian",
+                     "name" : "Padraic Cassidy"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Joe Swanberg"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Alicia Van Couvering"
+                  },
+                  {
+                     "name" : "Jake Johnson"
+                  },
+                  {
+                     "name" : "Joe Swanberg"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/295490"
+            },
+            "country" : [
+               "US"
+            ]
+         },
+         {
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Comedy"
+               ]
+            },
+            "rating" : {
+               "stars" : "5.5 / 10"
+            },
+            "date" : "2002",
+            "desc" : {
+               "da" : "Undercover Brother er en ukonventionel helt - hans stil er cool, han kan charmere damerne, og han t\u00f8rster efter retf\u00e6rdighed. Han har levet efter sine egne regler, siden han f\u00f8rst stiftede bekendtskab med 70'ernes musik. Undercover Brother skal sammen med The B.R.O.T.H.E.R.H.O.O.D., som arbejder i den sorte mands tjeneste, forhindre den onde leder af det multinationale konglomerat \"The Man\" i at hjernevaske hans br\u00f8dre og s\u00f8stre..."
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/12277"
+            ],
+            "stop" : "1531648800",
+            "title" : {
+               "da" : "Undercover Brother"
+            },
+            "start" : "1531641600",
+            "country" : [
+               "US"
+            ],
+            "episodeNum" : {
+               "themoviedb.org" : "movie/12277"
+            },
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Brian Grazer"
+                  },
+                  {
+                     "name" : "Michael Jenkinson"
+                  },
+                  {
+                     "name" : "Damon Lee"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "John Ridley"
+                  },
+                  {
+                     "name" : "Michael McCullers"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Malcolm D. Lee"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Undercover Brother",
+                     "name" : "Eddie Griffin"
+                  },
+                  {
+                     "name" : "Chris Kattan",
+                     "role" : "Mr. Feather"
+                  },
+                  {
+                     "role" : "White She Devil",
+                     "name" : "Denise Richards"
+                  },
+                  {
+                     "role" : "Sistah Girl",
+                     "name" : "Aunjanue Ellis"
+                  },
+                  {
+                     "name" : "Chi McBride",
+                     "role" : "The Chief"
+                  },
+                  {
+                     "name" : "Neil Patrick Harris",
+                     "role" : "Lance"
+                  },
+                  {
+                     "role" : "Conspiracy Brother",
+                     "name" : "Dave Chappelle"
+                  },
+                  {
+                     "role" : "Smart Brother",
+                     "name" : "Gary Anthony Williams"
+                  },
+                  {
+                     "role" : "Gen. Warren Boutwell",
+                     "name" : "Billy Dee Williams"
+                  },
+                  {
+                     "name" : "Robert Townsend",
+                     "role" : "MR. UB"
+                  },
+                  {
+                     "name" : "James Brown",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Mr. Elias",
+                     "name" : "Jack Noseworthy"
+                  },
+                  {
+                     "name" : "David Sparrow",
+                     "role" : "Golf Cart Guard"
+                  }
+               ]
+            },
+            "channel" : "action.film.viasat.dk",
+            "new" : null
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "rating" : {
+               "stars" : "7 / 10"
+            },
+            "desc" : {
+               "da" : "Filmen er baseret p\u00e5 den virkelige historie om en gruppe drenge, der vokser op med skateboards under f\u00f8dderne i slumbyen Dogtown i Santa Monica. Under navnet \"The Z-Boys\" tr\u00e6ner de i de velhavende forst\u00e6ders tomme swimmingpools, n\u00e5r v\u00e6rterne ikke er hjemme. Det bliver starten p\u00e5 en nervepirrende ny sport, og med tiden opn\u00e5r drengene n\u00e6rmest legendarisk status."
+            },
+            "date" : "2005",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama"
+               ]
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/9787"
+            ],
+            "stop" : "1531656000",
+            "title" : {
+               "da" : "Lords of Dogtown"
+            },
+            "start" : "1531648800",
+            "country" : [
+               "DE",
+               "US"
+            ],
+            "episodeNum" : {
+               "themoviedb.org" : "movie/9787"
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Catherine Hardwicke"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Emile Hirsch",
+                     "role" : "Jay"
+                  },
+                  {
+                     "role" : "Tony Alva",
+                     "name" : "Victor Rasuk"
+                  },
+                  {
+                     "role" : "Philaine",
+                     "name" : "Rebecca De Mornay"
+                  },
+                  {
+                     "role" : "Stacy",
+                     "name" : "John Robinson"
+                  },
+                  {
+                     "name" : "Michael Angarano",
+                     "role" : "Sid"
+                  },
+                  {
+                     "name" : "Nikki Reed",
+                     "role" : "Kathy Alva"
+                  },
+                  {
+                     "role" : "Topper Burks",
+                     "name" : "Johnny Knoxville"
+                  },
+                  {
+                     "role" : "Skip",
+                     "name" : "Heath Ledger"
+                  },
+                  {
+                     "role" : "Chino",
+                     "name" : "Vincent Laresca"
+                  },
+                  {
+                     "name" : "William Mapother",
+                     "role" : "Donnie"
+                  },
+                  {
+                     "role" : "Mr. Alva",
+                     "name" : "Julio Oscar Mechoso"
+                  },
+                  {
+                     "role" : "Montoya",
+                     "name" : "Brian Zarate"
+                  },
+                  {
+                     "role" : "Stecyk",
+                     "name" : "Pablo Schreiber"
+                  },
+                  {
+                     "name" : "Elden Henson",
+                     "role" : "Billy Z"
+                  },
+                  {
+                     "role" : "Urethane Wheels Guy",
+                     "name" : "Mitch Hedberg"
+                  },
+                  {
+                     "name" : "Laura Ramsey",
+                     "role" : "Gabrielle"
+                  },
+                  {
+                     "role" : "Thunder Monkey",
+                     "name" : "America Ferrera"
+                  },
+                  {
+                     "role" : "Amelia",
+                     "name" : "Sof\u00eda Vergara"
+                  },
+                  {
+                     "name" : "Jeremy Renner",
+                     "role" : "Manager"
+                  },
+                  {
+                     "name" : "Shea Whigham"
+                  },
+                  {
+                     "role" : "Contest Official",
+                     "name" : "Matt Malloy"
+                  },
+                  {
+                     "name" : "Ned Bellamy",
+                     "role" : "Peter Darling"
+                  },
+                  {
+                     "role" : "Astronaut",
+                     "name" : "Tony Hawk"
+                  },
+                  {
+                     "name" : "Joel McHale",
+                     "role" : "TV Reporter"
+                  },
+                  {
+                     "name" : "Bai Ling",
+                     "role" : "Punky Photographer"
+                  },
+                  {
+                     "name" : "Jeremy Renner",
+                     "role" : "Jay Adams Manager (uncredited)"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "John Linson"
+                  }
+               ]
+            },
+            "channel" : "action.film.viasat.dk",
+            "new" : null
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/38575"
+            ],
+            "stop" : "1531663200",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Adventure",
+                  "Drama",
+                  "Family"
+               ]
+            },
+            "rating" : {
+               "stars" : "6.2 / 10"
+            },
+            "date" : "2010",
+            "desc" : {
+               "da" : "Dre Parker og hans mor er flyttet til Kina fra Detroit - men han k\u00e6mper med at tilpasse sig de nye omgivelser. I skolen forelsker han sig i sin klassekammerat Mei Yeng, og p\u00e5drager sig s\u00e5ledes klassens mobber og kampsportsf\u00e6nomen, Chengs, vrede. Dre betror sine problemer til den meget jordbundne vicev\u00e6rt, Mr. Han, der er en Kung fu kampsportsmester. Efter et benh\u00e5rdt kursus i tr\u00e6ning og selvdisciplin, forbereder Dre sig p\u00e5 at konfrontere sin nemesis i en karatekonkurrence."
+            },
+            "start" : "1531656000",
+            "title" : {
+               "da" : "The Karate Kid"
+            },
+            "country" : [
+               "CN",
+               "US"
+            ],
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Christopher Murphey"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Jada Pinkett Smith"
+                  },
+                  {
+                     "name" : "Will Smith"
+                  },
+                  {
+                     "name" : "Ken Stovitz"
+                  },
+                  {
+                     "name" : "James Lassiter"
+                  },
+                  {
+                     "name" : "Jerry Weintraub"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Jaden Smith",
+                     "role" : "Dre Parker"
+                  },
+                  {
+                     "name" : "Jackie Chan",
+                     "role" : "Mr. Han"
+                  },
+                  {
+                     "name" : "Taraji P. Henson",
+                     "role" : "Sherry Parker"
+                  },
+                  {
+                     "role" : "Master Li",
+                     "name" : "Yu Rong-Guang"
+                  },
+                  {
+                     "name" : "Tess Liu",
+                     "role" : "History Teacher"
+                  },
+                  {
+                     "name" : "Xu Ming",
+                     "role" : "Bao"
+                  },
+                  {
+                     "name" : "Wang Ji"
+                  },
+                  {
+                     "name" : "Wenwen Han",
+                     "role" : "Meiying"
+                  },
+                  {
+                     "role" : "Meiying's Dad",
+                     "name" : "Zhensu Wu"
+                  },
+                  {
+                     "name" : "Zhiheng Wang",
+                     "role" : "Meiying's Mom"
+                  },
+                  {
+                     "role" : "Cheng",
+                     "name" : "Zhenwei Wang"
+                  },
+                  {
+                     "role" : "Dre's Detroit Friend",
+                     "name" : "Jared Minns"
+                  },
+                  {
+                     "role" : "Liang",
+                     "name" : "Shijia L\u00fc"
+                  },
+                  {
+                     "name" : "Zhao Yi",
+                     "role" : "Zhuang"
+                  },
+                  {
+                     "name" : "Bo Zhang",
+                     "role" : "Song"
+                  },
+                  {
+                     "role" : "Harry",
+                     "name" : "Luke Carberry"
+                  },
+                  {
+                     "role" : "Mark",
+                     "name" : "Cameron Hillman"
+                  },
+                  {
+                     "name" : "Ghye Samuel Brown",
+                     "role" : "Oz"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Harald Zwart"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/38575"
+            },
+            "channel" : "action.film.viasat.dk",
+            "new" : null
+         },
+         {
+            "title" : {
+               "da" : "Abernes Planet: Oprindelsen"
+            },
+            "start" : "1531663200",
+            "rating" : {
+               "stars" : "7.2 / 10"
+            },
+            "date" : "2011",
+            "desc" : {
+               "da" : "Caesar er en chimpanse, der f\u00e5r et menneskeligt intelligensniveau og f\u00f8lelser gennem et eksperimentelt fors\u00f8g med et medikament. Caesar, der er blevet opfostret af fors\u00f8gets ophavsmand, Will Rodman, sammen med primatologen Caroline Aranha, bliver til sidst fjernet fra de mennesker, som han elsker, og derefter sat i et reservat for aber. Sammen med sine \"medfanger\" s\u00f8ger Caesar derfor nu h\u00e6vn, og giver de andre aber det samme medikament, som blev brugt p\u00e5 ham. Derefter skaber han et abeopr\u00f8r."
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Thriller",
+                  "Action",
+                  "Drama",
+                  "Sci-Fi"
+               ]
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/61791"
+            ],
+            "stop" : "1531670400",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "new" : null,
+            "channel" : "action.film.viasat.dk",
+            "episodeNum" : {
+               "themoviedb.org" : "movie/61791"
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Rupert Wyatt"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Will Rodman",
+                     "name" : "James Franco"
+                  },
+                  {
+                     "name" : "Freida Pinto",
+                     "role" : "Caroline Aranha"
+                  },
+                  {
+                     "role" : "Charles Rodman",
+                     "name" : "John Lithgow"
+                  },
+                  {
+                     "name" : "Brian Cox",
+                     "role" : "John Landon"
+                  },
+                  {
+                     "name" : "Tom Felton",
+                     "role" : "Dodge Landon"
+                  },
+                  {
+                     "role" : "Caesar",
+                     "name" : "Andy Serkis"
+                  },
+                  {
+                     "name" : "David Oyelowo",
+                     "role" : "Steven Jacobs"
+                  },
+                  {
+                     "role" : "Robert Franklin",
+                     "name" : "Tyler Labine"
+                  },
+                  {
+                     "name" : "Jamie Harris",
+                     "role" : "Rodney"
+                  },
+                  {
+                     "role" : "John Hamil",
+                     "name" : "Ty Olsson"
+                  },
+                  {
+                     "name" : "David Hewlett",
+                     "role" : "Douglas Hunsiker"
+                  },
+                  {
+                     "name" : "Chelah Horsdal",
+                     "role" : "Irena"
+                  },
+                  {
+                     "role" : "Donnie Thompson",
+                     "name" : "Jesse Reid"
+                  },
+                  {
+                     "name" : "Joey Roche",
+                     "role" : "Todd Hunsiker"
+                  },
+                  {
+                     "name" : "Madison Bell",
+                     "role" : "Alice Hunsiker"
+                  },
+                  {
+                     "role" : "Teenage Alice Hunsiker",
+                     "name" : "Makena Joy"
+                  },
+                  {
+                     "role" : "Dottie",
+                     "name" : "B.J. Harrison"
+                  },
+                  {
+                     "name" : "Mattie Hawkinson",
+                     "role" : "Linda"
+                  },
+                  {
+                     "name" : "Karin Konoval",
+                     "role" : "Maurice / Court Clerk"
+                  },
+                  {
+                     "name" : "Terry Notary",
+                     "role" : "Rocket / Bright Eyes"
+                  },
+                  {
+                     "name" : "Richard Ridings",
+                     "role" : "Buck"
+                  },
+                  {
+                     "role" : "Koda",
+                     "name" : "Christopher Gordon"
+                  },
+                  {
+                     "name" : "Devyn Dalton",
+                     "role" : "Cornelia"
+                  },
+                  {
+                     "name" : "Jay Caputo",
+                     "role" : "Alpha"
+                  },
+                  {
+                     "role" : "Party Girl #1",
+                     "name" : "Leah Gibson"
+                  },
+                  {
+                     "name" : "Tracy Spiridakos",
+                     "role" : "Party Girl #2"
+                  },
+                  {
+                     "role" : "SFPD #2",
+                     "name" : "Chris Shields"
+                  },
+                  {
+                     "name" : "Lauren Watson",
+                     "role" : "Scared Girl in Stairway (uncredited)"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Rick Jaffa"
+                  },
+                  {
+                     "name" : "Amanda Silver"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Peter Chernin"
+                  },
+                  {
+                     "name" : "Dylan Clark"
+                  },
+                  {
+                     "name" : "Rick Jaffa"
+                  },
+                  {
+                     "name" : "Amanda Silver"
+                  }
+               ]
+            },
+            "country" : [
+               "US"
+            ]
+         },
+         {
+            "channel" : "action.film.viasat.dk",
+            "new" : null,
+            "country" : [
+               "DE",
+               "US"
+            ],
+            "episodeNum" : {
+               "themoviedb.org" : "movie/13440"
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Jonathan Demme"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Lewis Bartholamew",
+                     "name" : "Mark Wahlberg"
+                  },
+                  {
+                     "role" : "Regina Lambert",
+                     "name" : "Thandie Newton"
+                  },
+                  {
+                     "role" : "Carson J. Dyle",
+                     "name" : "Tim Robbins"
+                  },
+                  {
+                     "role" : "Commandant Dominique",
+                     "name" : "Christine Boisson"
+                  },
+                  {
+                     "name" : "LisaGay Hamilton",
+                     "role" : "Lola Jansco"
+                  },
+                  {
+                     "role" : "Il-Sang Lee",
+                     "name" : "Park Joong-hoon"
+                  },
+                  {
+                     "name" : "Ted Levine",
+                     "role" : "Emil Zadapec"
+                  },
+                  {
+                     "name" : "Stephen Dillane",
+                     "role" : "Charlie"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Neda Armian"
+                  },
+                  {
+                     "name" : "Mishka Cheyko"
+                  },
+                  {
+                     "name" : "Jonathan Demme"
+                  },
+                  {
+                     "name" : "Ilona Herzberg"
+                  },
+                  {
+                     "name" : "Peter Saraf"
+                  },
+                  {
+                     "name" : "Edward Saxon"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Peter Stone"
+                  },
+                  {
+                     "name" : "Jonathan Demme"
+                  },
+                  {
+                     "name" : "Steve Schmidt"
+                  },
+                  {
+                     "name" : "Jessica Bendinger"
+                  }
+               ]
+            },
+            "date" : "2002",
+            "rating" : {
+               "stars" : "4.7 / 10"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Mystery",
+                  "Thriller",
+                  "Romance",
+                  "Drama"
+               ]
+            },
+            "desc" : {
+               "da" : "Regina Lambert er vendt hjem fra sin ferie. Hun finder sin mand myrdet i deres parisiske hjem og med alle pengene stj\u00e5let. Mens hun stadig s\u00f8rger, bliver hun forh\u00f8rt af myndighederne om de mange alias og falske identiteter, som manden havde. Regina ved ikke noget om dette, men bliver pludselig et m\u00e5l for flere, mystiske grupper, der \u00f8nsker at sl\u00e5 hende ihjel, s\u00e5 de kan f\u00e5 hendes mands stj\u00e5lne penge. En amerikansk mand fors\u00f8ger at beskytte hende - men kan hun stole p\u00e5 ham?"
+            },
+            "stop" : "1531677600",
+            "url" : [
+               "http://www.themoviedb.org/movie/13440"
+            ],
+            "start" : "1531670400",
+            "title" : {
+               "da" : "The Truth About Charlie"
+            },
+            "video" : {
+               "aspect" : "4:3"
+            }
+         },
+         {
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Olivier Megaton"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Frank Martin",
+                     "name" : "Jason Statham"
+                  },
+                  {
+                     "name" : "Fran\u00e7ois Berl\u00e9and",
+                     "role" : "Inspector Tarconi"
+                  },
+                  {
+                     "name" : "Natalya Rudakova",
+                     "role" : "Valentina Vasilev"
+                  },
+                  {
+                     "role" : "Johnson",
+                     "name" : "Robert Knepper"
+                  },
+                  {
+                     "role" : "Malcom Manville",
+                     "name" : "David Atrakchi"
+                  },
+                  {
+                     "role" : "Leonid's Aide",
+                     "name" : "Alex Kobold"
+                  },
+                  {
+                     "name" : "Yann Sundberg",
+                     "role" : "Flag"
+                  },
+                  {
+                     "name" : "Eriq Ebouaney",
+                     "role" : "Ice"
+                  },
+                  {
+                     "role" : "Mighty Joe",
+                     "name" : "Silvio Simac"
+                  },
+                  {
+                     "name" : "Timo Dierkes",
+                     "role" : "Otto"
+                  },
+                  {
+                     "name" : "Sebastien Vandenberghe",
+                     "role" : "Assassin Mercedes"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/13387"
+            },
+            "country" : [
+               "FR",
+               "GB"
+            ],
+            "new" : null,
+            "channel" : "action.film.viasat.dk",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "start" : "1531677600",
+            "title" : {
+               "da" : "Transporter 3"
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/13387"
+            ],
+            "stop" : "1531684800",
+            "rating" : {
+               "stars" : "6 / 10"
+            },
+            "desc" : {
+               "da" : "Frank Martin tager k\u00f8rehandskerne p\u00e5 for at overbringe Valentina - den kidnappede datter af en ukrainsk regeringsrepr\u00e6sentant - fra Marseille til Odessa ved Sortehavet. P\u00e5 vejen kommer han op imod nogle banditter, som vil hindre Valentina i at n\u00e5 sikkert frem, og samtidig m\u00e5 han ikke lade sine personlige f\u00f8lelser komme i vejen for sin farefulde opgave."
+            },
+            "date" : "2008",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Adventure",
+                  "Thriller",
+                  "Crime"
+               ]
+            }
+         },
+         {
+            "channel" : "action.film.viasat.dk",
+            "new" : null,
+            "country" : [
+               "US"
+            ],
+            "episodeNum" : {
+               "themoviedb.org" : "movie/1637"
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Jan de Bont"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Keanu Reeves",
+                     "role" : "Jack Traven"
+                  },
+                  {
+                     "name" : "Dennis Hopper",
+                     "role" : "Howard Payne"
+                  },
+                  {
+                     "name" : "Sandra Bullock",
+                     "role" : "Annie Porter"
+                  },
+                  {
+                     "name" : "Joe Morton",
+                     "role" : "Capt. McMahon"
+                  },
+                  {
+                     "role" : "Harold 'Harry' Temple",
+                     "name" : "Jeff Daniels"
+                  },
+                  {
+                     "role" : "Stephens",
+                     "name" : "Alan Ruck"
+                  },
+                  {
+                     "name" : "Glenn Plummer",
+                     "role" : "Jaguar Owner"
+                  },
+                  {
+                     "role" : "Norwood",
+                     "name" : "Richard Lineback"
+                  },
+                  {
+                     "name" : "Beth Grant",
+                     "role" : "Helen"
+                  },
+                  {
+                     "name" : "Hawthorne James",
+                     "role" : "Sam"
+                  },
+                  {
+                     "name" : "Carlos Carrasco",
+                     "role" : "Ortiz"
+                  },
+                  {
+                     "name" : "David Kriegel",
+                     "role" : "Terry"
+                  },
+                  {
+                     "role" : "Mrs. Kamino",
+                     "name" : "Natsuko Ohama"
+                  },
+                  {
+                     "role" : "Ray",
+                     "name" : "Daniel Villarreal"
+                  },
+                  {
+                     "name" : "Simone Gad",
+                     "role" : "Bus Passenger #1"
+                  },
+                  {
+                     "name" : "Loretta Jean",
+                     "role" : "Bus Passenger #2"
+                  },
+                  {
+                     "role" : "Bus Passenger #3",
+                     "name" : "Sherri Villanueva"
+                  },
+                  {
+                     "role" : "Robin",
+                     "name" : "Margaret Medina"
+                  },
+                  {
+                     "role" : "Bagwell",
+                     "name" : "Jordan Lund"
+                  },
+                  {
+                     "name" : "Robert Mailhouse",
+                     "role" : "Young Executive"
+                  },
+                  {
+                     "name" : "Patrick Fischler",
+                     "role" : "Friend of Executive"
+                  },
+                  {
+                     "role" : "CEO",
+                     "name" : "Patrick John Hurley"
+                  },
+                  {
+                     "name" : "Susan Barnes",
+                     "role" : "Female Executive"
+                  },
+                  {
+                     "name" : "Rick Dano",
+                     "role" : "S.W.A.T. Driver"
+                  },
+                  {
+                     "role" : "S.W.A.T. Cop",
+                     "name" : "Michael Sottile"
+                  },
+                  {
+                     "role" : "Baby Carriage Woman #1",
+                     "name" : "Jane Crawley"
+                  },
+                  {
+                     "role" : "Baby Carriage Woman #2",
+                     "name" : "Anne O'Sullivan"
+                  },
+                  {
+                     "name" : "Beau Starr",
+                     "role" : "Commissioner"
+                  },
+                  {
+                     "role" : "Bob",
+                     "name" : "John Capodice"
+                  },
+                  {
+                     "name" : "Thomas Rosales, Jr.",
+                     "role" : "Vince"
+                  },
+                  {
+                     "name" : "James DuMont",
+                     "role" : "Workman"
+                  },
+                  {
+                     "role" : "News Anchor #1",
+                     "name" : "Antonio Mora"
+                  },
+                  {
+                     "name" : "Patty Toy",
+                     "role" : "News Anchor #2"
+                  },
+                  {
+                     "role" : "News Cameraman",
+                     "name" : "Todd Gordon"
+                  },
+                  {
+                     "role" : "Reporter #1",
+                     "name" : "Bruce Wright"
+                  },
+                  {
+                     "name" : "Mark Kriski",
+                     "role" : "Reporter #2"
+                  },
+                  {
+                     "name" : "Dagny Hultgreen",
+                     "role" : "Reporter #3"
+                  },
+                  {
+                     "role" : "Train Driver",
+                     "name" : "Richard Schiff"
+                  },
+                  {
+                     "name" : "Joseph Carberry",
+                     "role" : "Cop"
+                  },
+                  {
+                     "role" : "Bartender",
+                     "name" : "Sandy Martin"
+                  },
+                  {
+                     "role" : "Mrs. McMahon",
+                     "name" : "Neisha Folkes-LeMelle"
+                  },
+                  {
+                     "name" : "Jim Mapp",
+                     "role" : "Additional Bus Passenger #1"
+                  },
+                  {
+                     "role" : "Additional Bus Passenger #2",
+                     "name" : "Milton Quon"
+                  },
+                  {
+                     "name" : "Sonia Jackson",
+                     "role" : "Additional Bus Passenger #3"
+                  },
+                  {
+                     "name" : "Carmen Williams",
+                     "role" : "Additional Bus Passenger #4"
+                  },
+                  {
+                     "role" : "Additional Bus Passenger #5",
+                     "name" : "Paula Montes"
+                  },
+                  {
+                     "role" : "Additional Bus Passenger #6",
+                     "name" : "Loyda Ramos"
+                  },
+                  {
+                     "name" : "Julia Vera",
+                     "role" : "Additional Bus Passenger #7"
+                  },
+                  {
+                     "name" : "Marylou Lim",
+                     "role" : "Additional Bus Passenger #8"
+                  },
+                  {
+                     "name" : "Brian K. Grant",
+                     "role" : "Elevator Passenger #1"
+                  },
+                  {
+                     "name" : "Barry Kramer",
+                     "role" : "Elevator Passenger #2"
+                  },
+                  {
+                     "role" : "Elevator Passenger #3",
+                     "name" : "Robin McKee"
+                  },
+                  {
+                     "name" : "Paige Goodman",
+                     "role" : "Elevator Passenger #4"
+                  },
+                  {
+                     "name" : "Christina Fitzgerald",
+                     "role" : "Elevator Passenger #5"
+                  },
+                  {
+                     "name" : "Tara Thomas",
+                     "role" : "Elevator Passenger #6"
+                  },
+                  {
+                     "role" : "Elevator Passenger #7",
+                     "name" : "Cece Tsou"
+                  },
+                  {
+                     "role" : "Elevator Passenger #8",
+                     "name" : "Michael N. Fujimoto"
+                  },
+                  {
+                     "name" : "Richard Gelb",
+                     "role" : "Elevator Passenger #9"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Mark Gordon"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Graham Yost"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Adventure",
+                  "Crime"
+               ]
+            },
+            "rating" : {
+               "stars" : "6.9 / 10"
+            },
+            "date" : "1994",
+            "desc" : {
+               "da" : "En bindegal bombemand har placeret en bombe p\u00e5 en bus. Antiterror-eksperten Jack Traven (Keanu Reeves) f\u00e5r imidlertid hj\u00e6lp af en af passagererne p\u00e5 bussen, Annie (Sandra Bullock). Sammen skal de s\u00f8rge for at bomben ikke spr\u00e6nger, men det er lettere sagt end gjort, for idet \u00f8jeblik at bussens hastighed kommer under 80 kilometer i timen, bliver bomben aktiveret. Filmen vandt i \u00f8vrigt to Oscar-statuetter, \u00e9n for bedste lyd, og \u00e9n for bedste effekter og klipning af lydeffekter."
+            },
+            "stop" : "1531692000",
+            "url" : [
+               "http://www.themoviedb.org/movie/1637"
+            ],
+            "start" : "1531684800",
+            "title" : {
+               "da" : "Speed"
+            },
+            "video" : {
+               "aspect" : "4:3"
+            }
+         },
+         {
+            "new" : null,
+            "channel" : "action.film.viasat.dk",
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Robbie Brenner"
+                  },
+                  {
+                     "name" : "Camille Brown"
+                  },
+                  {
+                     "name" : "Mark Canton"
+                  },
+                  {
+                     "name" : "Ken Halsband"
+                  },
+                  {
+                     "name" : "Ryan Kavanaugh"
+                  },
+                  {
+                     "name" : "Tucker Tooley"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "David Twohy"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Milla Jovovich",
+                     "role" : "Cydney"
+                  },
+                  {
+                     "name" : "Timothy Olyphant",
+                     "role" : "Nick"
+                  },
+                  {
+                     "name" : "Steve Zahn",
+                     "role" : "Cliff"
+                  },
+                  {
+                     "role" : "Kale",
+                     "name" : "Chris Hemsworth"
+                  },
+                  {
+                     "name" : "Anthony Ruivivar",
+                     "role" : "Chronic"
+                  },
+                  {
+                     "name" : "Kiele Sanchez",
+                     "role" : "Gina"
+                  },
+                  {
+                     "name" : "Marley Shelton",
+                     "role" : "Cleo"
+                  },
+                  {
+                     "role" : "Debbie Mason / Clerk",
+                     "name" : "Wendy Braun"
+                  },
+                  {
+                     "role" : "Earth Momma",
+                     "name" : "Dale Dickey"
+                  },
+                  {
+                     "role" : "Supply Guy",
+                     "name" : "Peter Navy Tuiasosopo"
+                  },
+                  {
+                     "name" : "Jim Cruz",
+                     "role" : "Helicopter Pilot"
+                  },
+                  {
+                     "name" : "Isaac Santiago",
+                     "role" : "Police shooter"
+                  },
+                  {
+                     "name" : "Holt McCallany",
+                     "role" : "Police Lieutenant"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "David Twohy"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/12403"
+            },
+            "country" : [
+               "US"
+            ],
+            "title" : {
+               "da" : "A Perfect Getaway"
+            },
+            "start" : "1531692000",
+            "url" : [
+               "http://www.themoviedb.org/movie/12403"
+            ],
+            "stop" : "1531699200",
+            "rating" : {
+               "stars" : "6.3 / 10"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Thriller",
+                  "Mystery",
+                  "Adventure"
+               ]
+            },
+            "date" : "2009",
+            "desc" : {
+               "da" : "To par p\u00e5 ferie p\u00e5 Hawaii opdager, at nogle psykopater p\u00e5 \u00f8en f\u00f8lger efter turister og dr\u00e6ber dem. Deres ferie ender hurtigt med at blive et mareridt og langt fra den stille idyl, som de havde h\u00e5bet p\u00e5. Kan de slippe bort fra ondskaben p\u00e5 \u00f8en?"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         }
+      ]
+   }
+}

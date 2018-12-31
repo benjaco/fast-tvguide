@@ -1,0 +1,1701 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "episodeNum" : {
+               "thetvdb.com" : "series/81848",
+               "onscreen" : "Afsnit 40 s\u00e6son 2",
+               "xmltv_ns" : "1 . 39 ."
+            },
+            "channel" : "xd.disneychannel.dk",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Kelly Hu",
+                     "role" : "Stacy Hirano"
+                  },
+                  {
+                     "name" : "Thomas Brodie-Sangster",
+                     "role" : "Ferb Fletcher"
+                  },
+                  {
+                     "role" : "Isabella Garcia-Shapiro",
+                     "name" : "Alyson Stoner"
+                  },
+                  {
+                     "role" : "Phineas Flynn",
+                     "name" : "Vincent Martella"
+                  },
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "Perry the Platypus"
+                  },
+                  {
+                     "name" : "Caroline Rhea",
+                     "role" : "Linda Flynn-Fletcher"
+                  },
+                  {
+                     "name" : "Jeff \"Swampy\" Marsh",
+                     "role" : "Major Monogram"
+                  },
+                  {
+                     "name" : "Mitchel Musso",
+                     "role" : "Jeremy Johnson"
+                  },
+                  {
+                     "role" : "Candace Flynn",
+                     "name" : "Ashley Tisdale"
+                  },
+                  {
+                     "name" : "Jennifer Stone",
+                     "role" : "Amanda"
+                  },
+                  {
+                     "name" : "Dan Povenmire",
+                     "role" : "Dr. Doofenshmirtz"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Comedy"
+               ]
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-01-26 18:14:00",
+            "stop" : "1522470240",
+            "subTitle" : {
+               "da" : "I Was a Middle Aged Robot"
+            },
+            "desc" : {
+               "da" : "Phineas og Ferb vil g\u00f8re hver eneste dag i deres sommerferie helt spektakul\u00e6r! Hver dag finder de p\u00e5 nye fantasirige opfindelser, alt imens deres misundelige stores\u00f8ster, Candace, pr\u00f8ver at sladre om dem til mor. De kan bygge en rutsjebane i baghaven, surfe p\u00e5 forstadens tidevandsb\u00f8lger, eller rejse tilbage til forhistorien. Samtidig lever familiens ikke alt for smarte husdyr, n\u00e6bdyret Perry, et dobbeltliv som hemmelig agent, der i hvert afsnit k\u00e6mper mod den ondskabsfulde Dr. Doofenshmirtz."
+            },
+            "rating" : {
+               "stars" : "7.6 / 9"
+            },
+            "start" : "1522468800",
+            "title" : {
+               "da" : "Phineas og Ferb"
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=81848&seasonid=41208&id=1732391&lid=10"
+            ],
+            "date" : "2007"
+         },
+         {
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=81848&seasonid=32024&id=363265&lid=10"
+            ],
+            "date" : "2007",
+            "rating" : {
+               "stars" : "7.6 / 9"
+            },
+            "desc" : {
+               "da" : "Minigolfbanen bliver lukket, s\u00e5 drengene bygger deres egen. Efter drengene bygger en teleporter, bliver Candace' krop ved en fejl byttet over med Perrys. (S1 Ep20)"
+            },
+            "start" : "1522470240",
+            "title" : {
+               "da" : "Phineas og Ferb"
+            },
+            "stop" : "1522471680",
+            "previously_shown" : "xd.disneychannel.dk|2018-01-16 09:00:00",
+            "subTitle" : {
+               "da" : "Journey to the Center of Candace"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 19 .",
+               "onscreen" : "Afsnit 20 s\u00e6son 1",
+               "thetvdb.com" : "series/81848"
+            },
+            "channel" : "xd.disneychannel.dk",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Stacy Hirano",
+                     "name" : "Kelly Hu"
+                  },
+                  {
+                     "name" : "Thomas Brodie-Sangster",
+                     "role" : "Ferb Fletcher"
+                  },
+                  {
+                     "name" : "Alyson Stoner",
+                     "role" : "Isabella Garcia-Shapiro"
+                  },
+                  {
+                     "role" : "Phineas Flynn",
+                     "name" : "Vincent Martella"
+                  },
+                  {
+                     "role" : "Perry the Platypus",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "role" : "Linda Flynn-Fletcher",
+                     "name" : "Caroline Rhea"
+                  },
+                  {
+                     "name" : "Jeff \"Swampy\" Marsh",
+                     "role" : "Major Monogram"
+                  },
+                  {
+                     "name" : "Mitchel Musso",
+                     "role" : "Jeremy Johnson"
+                  },
+                  {
+                     "role" : "Candace Flynn",
+                     "name" : "Ashley Tisdale"
+                  },
+                  {
+                     "name" : "Jennifer Stone",
+                     "role" : "Amanda"
+                  },
+                  {
+                     "name" : "Dan Povenmire",
+                     "role" : "Dr. Doofenshmirtz"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Dan Povenmire"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Bobby Gaylor"
+                  },
+                  {
+                     "name" : "Martin Olson"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Comedy"
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Phineas og Ferb vil g\u00f8re hver eneste dag i deres sommerferie helt spektakul\u00e6r! Hver dag finder de p\u00e5 nye fantasirige opfindelser, alt imens deres misundelige stores\u00f8ster, Candace, pr\u00f8ver at sladre om dem til mor. De kan bygge en rutsjebane i baghaven, surfe p\u00e5 forstadens tidevandsb\u00f8lger, eller rejse tilbage til forhistorien. Samtidig lever familiens ikke alt for smarte husdyr, n\u00e6bdyret Perry, et dobbeltliv som hemmelig agent, der i hvert afsnit k\u00e6mper mod den ondskabsfulde Dr. Doofenshmirtz."
+            },
+            "start" : "1522471680",
+            "title" : {
+               "da" : "Phineas og Ferb"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 70 s\u00e6son 3",
+               "xmltv_ns" : "2. 69 ."
+            },
+            "channel" : "xd.disneychannel.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-01-07 20:10:00",
+            "stop" : "1522473120"
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=315954&seasonid=678122&id=5722405&lid=10"
+            ],
+            "new" : null,
+            "date" : "2016",
+            "desc" : {
+               "da" : "Melissa og Zack holder Milos f\u00f8rste surprise party, den eneste rigtige f\u00f8dselsdagsfest, han nogensinde har f\u00e5et."
+            },
+            "start" : "1522473120",
+            "title" : {
+               "da" : "Milo Murphys lov"
+            },
+            "subTitle" : {
+               "da" : "Sunny Side Up"
+            },
+            "stop" : "1522474560",
+            "previously_shown" : "xd.disneychannel.dk|2018-01-03 10:00:00",
+            "channel" : "xd.disneychannel.dk",
+            "episodeNum" : {
+               "thetvdb.com" : "series/315954",
+               "onscreen" : "Afsnit 4 s\u00e6son 1",
+               "xmltv_ns" : "0 . 3 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Robert F. Hughes"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "\"Weird Al\" Yankovic",
+                     "role" : "Milo Murphy"
+                  },
+                  {
+                     "name" : "Sabrina Carpenter",
+                     "role" : "Melissa Chase"
+                  },
+                  {
+                     "role" : "Martin Murphy",
+                     "name" : "Diedrich Bader"
+                  },
+                  {
+                     "role" : "Brigette Murphy",
+                     "name" : "Pamela Adlon"
+                  },
+                  {
+                     "role" : "Diogee",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "role" : "Sara Murphy",
+                     "name" : "Kate Micucci"
+                  },
+                  {
+                     "role" : "Bradley Nicholson",
+                     "name" : "Vincent Martella"
+                  },
+                  {
+                     "name" : "Mekai Curtis",
+                     "role" : "Zack Underwood"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Dan Povenmire"
+                  },
+                  {
+                     "name" : "Kyle Menke"
+                  }
+               ]
+            }
+         },
+         {
+            "start" : "1522474560",
+            "desc" : {
+               "da" : "Milo forventer altid det uventede og lige meget hvad, der g\u00e5r galt, er han forberedt, bev\u00e6bnet med viden, en rygs\u00e6k fuld af redskaber og sin ukuelige optimisme.."
+            },
+            "title" : {
+               "da" : "Milo Murphys lov"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=315954&seasonid=678122&id=5777393&lid=10"
+            ],
+            "new" : null,
+            "date" : "2016",
+            "episodeNum" : {
+               "thetvdb.com" : "series/315954",
+               "onscreen" : "Afsnit 5 s\u00e6son 1",
+               "xmltv_ns" : "0 . 4 ."
+            },
+            "channel" : "xd.disneychannel.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Bob Bowen"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "\"Weird Al\" Yankovic",
+                     "role" : "Milo Murphy"
+                  },
+                  {
+                     "name" : "Sabrina Carpenter",
+                     "role" : "Melissa Chase"
+                  },
+                  {
+                     "name" : "Diedrich Bader",
+                     "role" : "Martin Murphy"
+                  },
+                  {
+                     "name" : "Pamela Adlon",
+                     "role" : "Brigette Murphy"
+                  },
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "Diogee"
+                  },
+                  {
+                     "role" : "Sara Murphy",
+                     "name" : "Kate Micucci"
+                  },
+                  {
+                     "role" : "Bradley Nicholson",
+                     "name" : "Vincent Martella"
+                  },
+                  {
+                     "role" : "Zack Underwood",
+                     "name" : "Mekai Curtis"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Joshua Pruett"
+                  }
+               ]
+            },
+            "stop" : "1522476000",
+            "previously_shown" : "xd.disneychannel.dk|2018-01-04 10:00:00",
+            "subTitle" : {
+               "da" : "The Doctor Zone Files"
+            }
+         },
+         {
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Milo Murphy",
+                     "name" : "\"Weird Al\" Yankovic"
+                  },
+                  {
+                     "name" : "Sabrina Carpenter",
+                     "role" : "Melissa Chase"
+                  },
+                  {
+                     "name" : "Diedrich Bader",
+                     "role" : "Martin Murphy"
+                  },
+                  {
+                     "role" : "Brigette Murphy",
+                     "name" : "Pamela Adlon"
+                  },
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "Diogee"
+                  },
+                  {
+                     "name" : "Kate Micucci",
+                     "role" : "Sara Murphy"
+                  },
+                  {
+                     "name" : "Vincent Martella",
+                     "role" : "Bradley Nicholson"
+                  },
+                  {
+                     "name" : "Mekai Curtis",
+                     "role" : "Zack Underwood"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Robert F. Hughes"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Scott Peterson"
+                  },
+                  {
+                     "name" : "Jim Bernstein"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 6 s\u00e6son 1",
+               "thetvdb.com" : "series/315954",
+               "xmltv_ns" : "0 . 5 ."
+            },
+            "channel" : "xd.disneychannel.dk",
+            "stop" : "1522477500",
+            "previously_shown" : "xd.disneychannel.dk|2018-01-05 10:00:00",
+            "subTitle" : {
+               "da" : "The Note"
+            },
+            "title" : {
+               "da" : "Milo Murphys lov"
+            },
+            "desc" : {
+               "da" : "Milo forventer altid det uventede og lige meget hvad, der g\u00e5r galt, er han forberedt, bev\u00e6bnet med viden, en rygs\u00e6k fuld af redskaber og sin ukuelige optimisme.."
+            },
+            "start" : "1522476000",
+            "date" : "2016",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=315954&seasonid=678122&id=5777394&lid=10"
+            ]
+         },
+         {
+            "new" : null,
+            "stop" : "1522481100",
+            "desc" : {
+               "da" : "Rapunzel er ved at forberede sig til sin kroning, men \u00e9n uforglemmelig nat vil forandre hendes h\u00e5r igen!"
+            },
+            "start" : "1522477500",
+            "channel" : "xd.disneychannel.dk",
+            "title" : {
+               "da" : "To p\u00e5 flugt - Flere h\u00e5rrejsende eventyr"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            }
+         },
+         {
+            "stop" : "1522483800",
+            "new" : null,
+            "title" : {
+               "da" : "Phineas og Ferb Mission Marvel"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "channel" : "xd.disneychannel.dk",
+            "desc" : {
+               "da" : "Da Dr. Doofenshmirtz' nyeste \"inator\" kommer til at stj\u00e6le kr\u00e6fterne fra de kendte Marvel-superhelte Spider-Man, Iron Man, Thor og Hulken, s\u00e6tter superheltene kurs mod Danville. Der sl\u00e5r de sig sammen med Phineas och Ferb og tager kampen op for at genvinde deres kr\u00e6fter - og bek\u00e6mpe en flok Marvel-skurke, der er ude efter Doofenshmirtz' kraftstj\u00e6lende teknologi. Kan de redde Danville fra total \u00f8del\u00e6ggelse...?"
+            },
+            "start" : "1522481100"
+         },
+         {
+            "new" : null,
+            "stop" : "1522486620",
+            "start" : "1522483800",
+            "desc" : {
+               "da" : "Det er \u00e5rets l\u00e6ngste dag, og Phineas og Ferb planl\u00e6gger at f\u00e5 mest ud af den ved at rejse jorden rundt p\u00e5 \u00e9n dag. Mor og Far tager samtidig p\u00e5 weekendtur ud af byen og overlader ansvaret til Candace. Hun er splittet mellem at vise sin myndighed over for sine to umulige br\u00f8dre og det at tage med dem for at se Jeremy, der er i Paris. Myndighed eller Jeremy? Det ender med, at hun tager med drengene og deres venner, s\u00e5 hun kan f\u00e5 bevist overfor sig selv, at Jeremy kun er vild med hende. P\u00e5 vejen bliver Phineas' optimisme udfordret, og han skal overkomme sin tvivl for at n\u00e5 hjem, inden solen g\u00e5r ned."
+            },
+            "channel" : "xd.disneychannel.dk",
+            "title" : {
+               "da" : "Phineas og Ferb Sommeren tilh\u00f8rer dig"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            }
+         },
+         {
+            "stop" : "1522489800",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "title" : {
+               "da" : "Phineas og Ferb Star Wars"
+            },
+            "desc" : {
+               "da" : "For l\u00e6nge siden i en galakse langt langt borte... finder vi Phineas og Ferb midt i et galaktisk opr\u00f8r og en episk kamp imellem det gode og onde river nu br\u00f8drene fra hinanden og s\u00e6tter dem op imod hinanden, da Ferb g\u00e5r over til den m\u00f8rke side. I mellemtiden er stormtrooper Candance p\u00e5 sporet af drengene og fors\u00f8ger desperart at stoppe drengene fra at g\u00f8re tingene v\u00e6rre. Men hendes loyalitet begynder at svinde ind, da Phineas redder hende, og hun indser at ikke alle opr\u00f8rerne er d\u00e5rlige. Kun n\u00e6bdyret Perry kender til en endnu st\u00f8rre fare for universet... en ond videnskabs mand ved navn Darth Enshmirtz har skabt en kaft-dreven alliance tankekontrol-inator, som han har planer om at bruge p\u00e5 opr\u00f8rsalliancen."
+            },
+            "start" : "1522486620",
+            "channel" : "xd.disneychannel.dk"
+         },
+         {
+            "title" : {
+               "da" : "Milo Murphys lov"
+            },
+            "start" : "1522489800",
+            "desc" : {
+               "da" : "Milo forventer altid det uventede og lige meget hvad, der g\u00e5r galt, er han forberedt, bev\u00e6bnet med viden, en rygs\u00e6k fuld af redskaber og sin ukuelige optimisme.."
+            },
+            "date" : "2016",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=315954&seasonid=678122&id=5777396&lid=10"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Dani Vetere"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Robert F. Hughes"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "\"Weird Al\" Yankovic",
+                     "role" : "Milo Murphy"
+                  },
+                  {
+                     "name" : "Sabrina Carpenter",
+                     "role" : "Melissa Chase"
+                  },
+                  {
+                     "role" : "Martin Murphy",
+                     "name" : "Diedrich Bader"
+                  },
+                  {
+                     "role" : "Brigette Murphy",
+                     "name" : "Pamela Adlon"
+                  },
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "Diogee"
+                  },
+                  {
+                     "name" : "Kate Micucci",
+                     "role" : "Sara Murphy"
+                  },
+                  {
+                     "name" : "Vincent Martella",
+                     "role" : "Bradley Nicholson"
+                  },
+                  {
+                     "name" : "Mekai Curtis",
+                     "role" : "Zack Underwood"
+                  }
+               ]
+            },
+            "channel" : "xd.disneychannel.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 7 .",
+               "onscreen" : "Afsnit 8 s\u00e6son 1",
+               "thetvdb.com" : "series/315954"
+            },
+            "subTitle" : {
+               "da" : "Smooth Opera-tor"
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-01-07 19:14:00",
+            "stop" : "1522490700"
+         },
+         {
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Joshua Pruett"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Robert F. Hughes"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Milo Murphy",
+                     "name" : "\"Weird Al\" Yankovic"
+                  },
+                  {
+                     "role" : "Melissa Chase",
+                     "name" : "Sabrina Carpenter"
+                  },
+                  {
+                     "name" : "Diedrich Bader",
+                     "role" : "Martin Murphy"
+                  },
+                  {
+                     "role" : "Brigette Murphy",
+                     "name" : "Pamela Adlon"
+                  },
+                  {
+                     "role" : "Diogee",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "name" : "Kate Micucci",
+                     "role" : "Sara Murphy"
+                  },
+                  {
+                     "role" : "Bradley Nicholson",
+                     "name" : "Vincent Martella"
+                  },
+                  {
+                     "name" : "Mekai Curtis",
+                     "role" : "Zack Underwood"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy"
+               ]
+            },
+            "channel" : "xd.disneychannel.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 8 .",
+               "thetvdb.com" : "series/315954",
+               "onscreen" : "Afsnit 9 s\u00e6son 1"
+            },
+            "subTitle" : {
+               "da" : "Worked Day"
+            },
+            "stop" : "1522492200",
+            "previously_shown" : "xd.disneychannel.dk|2018-01-02 17:22:00",
+            "title" : {
+               "da" : "Milo Murphys lov"
+            },
+            "desc" : {
+               "da" : "Milo forventer altid det uventede og lige meget hvad, der g\u00e5r galt, er han forberedt, bev\u00e6bnet med viden, en rygs\u00e6k fuld af redskaber og sin ukuelige optimisme.."
+            },
+            "start" : "1522490700",
+            "date" : "2016",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=315954&seasonid=678122&id=5798686&lid=10"
+            ]
+         },
+         {
+            "title" : {
+               "da" : "Phineas og Ferb"
+            },
+            "start" : "1522492200",
+            "desc" : {
+               "da" : "Phineas og Ferb vil g\u00f8re hver eneste dag i deres sommerferie helt spektakul\u00e6r! Hver dag finder de p\u00e5 nye fantasirige opfindelser, alt imens deres misundelige stores\u00f8ster, Candace, pr\u00f8ver at sladre om dem til mor. De kan bygge en rutsjebane i baghaven, surfe p\u00e5 forstadens tidevandsb\u00f8lger, eller rejse tilbage til forhistorien. Samtidig lever familiens ikke alt for smarte husdyr, n\u00e6bdyret Perry, et dobbeltliv som hemmelig agent, der i hvert afsnit k\u00e6mper mod den ondskabsfulde Dr. Doofenshmirtz."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "channel" : "xd.disneychannel.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "2. 90 .",
+               "onscreen" : "Afsnit 91 s\u00e6son 3"
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-01-23 09:25:00",
+            "stop" : "1522493700"
+         },
+         {
+            "new" : null,
+            "title" : {
+               "da" : "Phineas og Ferb"
+            },
+            "start" : "1522493700",
+            "desc" : {
+               "da" : "Phineas og Ferb vil g\u00f8re hver eneste dag i deres sommerferie helt spektakul\u00e6r! Hver dag finder de p\u00e5 nye fantasirige opfindelser, alt imens deres misundelige stores\u00f8ster, Candace, pr\u00f8ver at sladre om dem til mor. De kan bygge en rutsjebane i baghaven, surfe p\u00e5 forstadens tidevandsb\u00f8lger, eller rejse tilbage til forhistorien. Samtidig lever familiens ikke alt for smarte husdyr, n\u00e6bdyret Perry, et dobbeltliv som hemmelig agent, der i hvert afsnit k\u00e6mper mod den ondskabsfulde Dr. Doofenshmirtz."
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-01-08 09:25:00",
+            "stop" : "1522495200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "2. 76 .",
+               "onscreen" : "Afsnit 77 s\u00e6son 3"
+            },
+            "channel" : "xd.disneychannel.dk"
+         },
+         {
+            "title" : {
+               "da" : "Phineas og Ferb"
+            },
+            "start" : "1522495200",
+            "desc" : {
+               "da" : "Phineas og Ferb vil g\u00f8re hver eneste dag i deres sommerferie helt spektakul\u00e6r! Hver dag finder de p\u00e5 nye fantasirige opfindelser, alt imens deres misundelige stores\u00f8ster, Candace, pr\u00f8ver at sladre om dem til mor. De kan bygge en rutsjebane i baghaven, surfe p\u00e5 forstadens tidevandsb\u00f8lger, eller rejse tilbage til forhistorien. Samtidig lever familiens ikke alt for smarte husdyr, n\u00e6bdyret Perry, et dobbeltliv som hemmelig agent, der i hvert afsnit k\u00e6mper mod den ondskabsfulde Dr. Doofenshmirtz."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "2. 69 .",
+               "onscreen" : "Afsnit 70 s\u00e6son 3"
+            },
+            "channel" : "xd.disneychannel.dk",
+            "stop" : "1522496700",
+            "previously_shown" : "xd.disneychannel.dk|2018-01-07 20:10:00"
+         },
+         {
+            "date" : "2016",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=315954&seasonid=678122&id=5798687&lid=10"
+            ],
+            "title" : {
+               "da" : "Milo Murphys lov"
+            },
+            "start" : "1522496700",
+            "desc" : {
+               "da" : "Milo forventer altid det uventede og lige meget hvad, der g\u00e5r galt, er han forberedt, bev\u00e6bnet med viden, en rygs\u00e6k fuld af redskaber og sin ukuelige optimisme.."
+            },
+            "subTitle" : {
+               "da" : "The Wilder West"
+            },
+            "stop" : "1522498200",
+            "previously_shown" : "xd.disneychannel.dk|2018-01-03 17:22:00",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Milo Murphy",
+                     "name" : "\"Weird Al\" Yankovic"
+                  },
+                  {
+                     "name" : "Sabrina Carpenter",
+                     "role" : "Melissa Chase"
+                  },
+                  {
+                     "name" : "Diedrich Bader",
+                     "role" : "Martin Murphy"
+                  },
+                  {
+                     "name" : "Pamela Adlon",
+                     "role" : "Brigette Murphy"
+                  },
+                  {
+                     "role" : "Diogee",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "role" : "Sara Murphy",
+                     "name" : "Kate Micucci"
+                  },
+                  {
+                     "role" : "Bradley Nicholson",
+                     "name" : "Vincent Martella"
+                  },
+                  {
+                     "role" : "Zack Underwood",
+                     "name" : "Mekai Curtis"
+                  },
+                  {
+                     "name" : "Ariel Winter"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Bob Bowen"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Dani Vetere"
+                  }
+               ]
+            },
+            "channel" : "xd.disneychannel.dk",
+            "episodeNum" : {
+               "thetvdb.com" : "series/315954",
+               "onscreen" : "Afsnit 10 s\u00e6son 1",
+               "xmltv_ns" : "0 . 9 ."
+            }
+         },
+         {
+            "title" : {
+               "da" : "Milo Murphys lov"
+            },
+            "desc" : {
+               "da" : "Milo forventer altid det uventede og lige meget hvad, der g\u00e5r galt, er han forberedt, bev\u00e6bnet med viden, en rygs\u00e6k fuld af redskaber og sin ukuelige optimisme.."
+            },
+            "start" : "1522498200",
+            "date" : "2016",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=315954&seasonid=678122&id=5777395&lid=10"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Milo Murphy",
+                     "name" : "\"Weird Al\" Yankovic"
+                  },
+                  {
+                     "role" : "Melissa Chase",
+                     "name" : "Sabrina Carpenter"
+                  },
+                  {
+                     "role" : "Martin Murphy",
+                     "name" : "Diedrich Bader"
+                  },
+                  {
+                     "role" : "Brigette Murphy",
+                     "name" : "Pamela Adlon"
+                  },
+                  {
+                     "role" : "Diogee",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "name" : "Kate Micucci",
+                     "role" : "Sara Murphy"
+                  },
+                  {
+                     "name" : "Vincent Martella",
+                     "role" : "Bradley Nicholson"
+                  },
+                  {
+                     "name" : "Mekai Curtis",
+                     "role" : "Zack Underwood"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Bob Bowen"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Martin Olson"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/315954",
+               "onscreen" : "Afsnit 7 s\u00e6son 1",
+               "xmltv_ns" : "0 . 6 ."
+            },
+            "channel" : "xd.disneychannel.dk",
+            "previously_shown" : "xd.disneychannel.dk|2018-01-08 10:00:00",
+            "stop" : "1522499700",
+            "subTitle" : {
+               "da" : "Party of Peril"
+            }
+         },
+         {
+            "previously_shown" : "xd.disneychannel.dk|2018-01-03 10:00:00",
+            "stop" : "1522501200",
+            "subTitle" : {
+               "da" : "Sunny Side Up"
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Dan Povenmire"
+                  },
+                  {
+                     "name" : "Kyle Menke"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Robert F. Hughes"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "\"Weird Al\" Yankovic",
+                     "role" : "Milo Murphy"
+                  },
+                  {
+                     "name" : "Sabrina Carpenter",
+                     "role" : "Melissa Chase"
+                  },
+                  {
+                     "name" : "Diedrich Bader",
+                     "role" : "Martin Murphy"
+                  },
+                  {
+                     "name" : "Pamela Adlon",
+                     "role" : "Brigette Murphy"
+                  },
+                  {
+                     "role" : "Diogee",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "name" : "Kate Micucci",
+                     "role" : "Sara Murphy"
+                  },
+                  {
+                     "role" : "Bradley Nicholson",
+                     "name" : "Vincent Martella"
+                  },
+                  {
+                     "role" : "Zack Underwood",
+                     "name" : "Mekai Curtis"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 3 .",
+               "thetvdb.com" : "series/315954",
+               "onscreen" : "Afsnit 4 s\u00e6son 1"
+            },
+            "channel" : "xd.disneychannel.dk",
+            "date" : "2016",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=315954&seasonid=678122&id=5722405&lid=10"
+            ],
+            "title" : {
+               "da" : "Milo Murphys lov"
+            },
+            "desc" : {
+               "da" : "Melissa og Zack holder Milos f\u00f8rste surprise party, den eneste rigtige f\u00f8dselsdagsfest, han nogensinde har f\u00e5et."
+            },
+            "start" : "1522499700"
+         },
+         {
+            "title" : {
+               "da" : "Phineas og Ferb"
+            },
+            "desc" : {
+               "da" : "Phineas og Ferb vil g\u00f8re hver eneste dag i deres sommerferie helt spektakul\u00e6r! Hver dag finder de p\u00e5 nye fantasirige opfindelser, alt imens deres misundelige stores\u00f8ster, Candace, pr\u00f8ver at sladre om dem til mor. De kan bygge en rutsjebane i baghaven, surfe p\u00e5 forstadens tidevandsb\u00f8lger, eller rejse tilbage til forhistorien. Samtidig lever familiens ikke alt for smarte husdyr, n\u00e6bdyret Perry, et dobbeltliv som hemmelig agent, der i hvert afsnit k\u00e6mper mod den ondskabsfulde Dr."
+            },
+            "start" : "1522501200",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "channel" : "xd.disneychannel.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 101 s\u00e6son 4",
+               "xmltv_ns" : "3. 100 ."
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-01-15 17:50:00",
+            "stop" : "1522502700"
+         },
+         {
+            "stop" : "1522504200",
+            "previously_shown" : "xd.disneychannel.dk|2018-01-16 17:50:00",
+            "channel" : "xd.disneychannel.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "3. 101 .",
+               "onscreen" : "Afsnit 102 s\u00e6son 4"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "new" : null,
+            "start" : "1522502700",
+            "desc" : {
+               "da" : "Phineas og Ferb vil g\u00f8re hver eneste dag i deres sommerferie helt spektakul\u00e6r! Hver dag finder de p\u00e5 nye fantasirige opfindelser, alt imens deres misundelige stores\u00f8ster, Candace, pr\u00f8ver at sladre om dem til mor. De kan bygge en rutsjebane i baghaven, surfe p\u00e5 forstadens tidevandsb\u00f8lger, eller rejse tilbage til forhistorien. Samtidig lever familiens ikke alt for smarte husdyr, n\u00e6bdyret Perry, et dobbeltliv som hemmelig agent, der i hvert afsnit k\u00e6mper mod den ondskabsfulde Dr."
+            },
+            "title" : {
+               "da" : "Phineas og Ferb"
+            }
+         },
+         {
+            "previously_shown" : "xd.disneychannel.dk|2018-01-17 17:50:00",
+            "stop" : "1522505700",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 103 s\u00e6son 4",
+               "xmltv_ns" : "3. 102 ."
+            },
+            "channel" : "xd.disneychannel.dk",
+            "new" : null,
+            "title" : {
+               "da" : "Phineas og Ferb"
+            },
+            "start" : "1522504200",
+            "desc" : {
+               "da" : "Phineas og Ferb vil g\u00f8re hver eneste dag i deres sommerferie helt spektakul\u00e6r! Hver dag finder de p\u00e5 nye fantasirige opfindelser, alt imens deres misundelige stores\u00f8ster, Candace, pr\u00f8ver at sladre om dem til mor. De kan bygge en rutsjebane i baghaven, surfe p\u00e5 forstadens tidevandsb\u00f8lger, eller rejse tilbage til forhistorien. Samtidig lever familiens ikke alt for smarte husdyr, n\u00e6bdyret Perry, et dobbeltliv som hemmelig agent, der i hvert afsnit k\u00e6mper mod den ondskabsfulde Dr."
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Milo forventer altid det uventede og lige meget hvad, der g\u00e5r galt, er han forberedt, bev\u00e6bnet med viden, en rygs\u00e6k fuld af redskaber og sin ukuelige optimisme.."
+            },
+            "start" : "1522505700",
+            "title" : {
+               "da" : "Milo Murphys lov"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=315954&seasonid=678122&id=5777392&lid=10"
+            ],
+            "new" : null,
+            "date" : "2016",
+            "channel" : "xd.disneychannel.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "thetvdb.com" : "series/315954",
+               "xmltv_ns" : "0 . 1 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Dani Vetere"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "\"Weird Al\" Yankovic",
+                     "role" : "Milo Murphy"
+                  },
+                  {
+                     "name" : "Sabrina Carpenter",
+                     "role" : "Melissa Chase"
+                  },
+                  {
+                     "name" : "Diedrich Bader",
+                     "role" : "Martin Murphy"
+                  },
+                  {
+                     "role" : "Brigette Murphy",
+                     "name" : "Pamela Adlon"
+                  },
+                  {
+                     "role" : "Diogee",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "role" : "Sara Murphy",
+                     "name" : "Kate Micucci"
+                  },
+                  {
+                     "name" : "Vincent Martella",
+                     "role" : "Bradley Nicholson"
+                  },
+                  {
+                     "name" : "Mekai Curtis",
+                     "role" : "Zack Underwood"
+                  },
+                  {
+                     "name" : "Laraine Newman"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Bob Bowen"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "The Undergrounders"
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-01-03 09:50:00",
+            "stop" : "1522507200"
+         },
+         {
+            "date" : "2016",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=315954&seasonid=678122&id=5777391&lid=10"
+            ],
+            "title" : {
+               "da" : "Milo Murphys lov"
+            },
+            "start" : "1522507200",
+            "desc" : {
+               "da" : "Sara vil i biffen. Milos seddel fra l\u00e6gen."
+            },
+            "stop" : "1522508700",
+            "previously_shown" : "xd.disneychannel.dk|2018-01-02 10:00:00",
+            "subTitle" : {
+               "da" : "Rooting for the Enemy"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Robert F. Hughes"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Milo Murphy",
+                     "name" : "\"Weird Al\" Yankovic"
+                  },
+                  {
+                     "name" : "Sabrina Carpenter",
+                     "role" : "Melissa Chase"
+                  },
+                  {
+                     "name" : "Diedrich Bader",
+                     "role" : "Martin Murphy"
+                  },
+                  {
+                     "name" : "Pamela Adlon",
+                     "role" : "Brigette Murphy"
+                  },
+                  {
+                     "role" : "Diogee",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "role" : "Sara Murphy",
+                     "name" : "Kate Micucci"
+                  },
+                  {
+                     "role" : "Bradley Nicholson",
+                     "name" : "Vincent Martella"
+                  },
+                  {
+                     "name" : "Mekai Curtis",
+                     "role" : "Zack Underwood"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Scott Peterson"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 2 .",
+               "thetvdb.com" : "series/315954",
+               "onscreen" : "Afsnit 3 s\u00e6son 1"
+            },
+            "channel" : "xd.disneychannel.dk"
+         },
+         {
+            "title" : {
+               "da" : "Milo Murphys lov"
+            },
+            "start" : "1522508700",
+            "desc" : {
+               "da" : "Milo forventer altid det uventede og lige meget hvad, der g\u00e5r galt, er han forberedt, bev\u00e6bnet med viden, en rygs\u00e6k fuld af redskaber og sin ukuelige optimisme.."
+            },
+            "date" : "2016",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=315954&seasonid=678122&id=5777396&lid=10"
+            ],
+            "new" : null,
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Dani Vetere"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Robert F. Hughes"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "\"Weird Al\" Yankovic",
+                     "role" : "Milo Murphy"
+                  },
+                  {
+                     "name" : "Sabrina Carpenter",
+                     "role" : "Melissa Chase"
+                  },
+                  {
+                     "name" : "Diedrich Bader",
+                     "role" : "Martin Murphy"
+                  },
+                  {
+                     "name" : "Pamela Adlon",
+                     "role" : "Brigette Murphy"
+                  },
+                  {
+                     "role" : "Diogee",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "role" : "Sara Murphy",
+                     "name" : "Kate Micucci"
+                  },
+                  {
+                     "role" : "Bradley Nicholson",
+                     "name" : "Vincent Martella"
+                  },
+                  {
+                     "role" : "Zack Underwood",
+                     "name" : "Mekai Curtis"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy"
+               ]
+            },
+            "channel" : "xd.disneychannel.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 7 .",
+               "onscreen" : "Afsnit 8 s\u00e6son 1",
+               "thetvdb.com" : "series/315954"
+            },
+            "subTitle" : {
+               "da" : "Smooth Opera-tor"
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-01-07 19:14:00",
+            "stop" : "1522510200"
+         },
+         {
+            "title" : {
+               "da" : "Milo Murphys lov:Milo er forsvundet"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "start" : "1522510200",
+            "desc" : {
+               "da" : "Pistacieplanter bliver levende i fremtiden"
+            },
+            "channel" : "xd.disneychannel.dk",
+            "stop" : "1522513020",
+            "new" : null
+         },
+         {
+            "desc" : {
+               "da" : "Phineas og Ferb vil g\u00f8re hver eneste dag i deres sommerferie helt spektakul\u00e6r! Hver dag finder de p\u00e5 nye fantasirige opfindelser, alt imens deres misundelige stores\u00f8ster, Candace, pr\u00f8ver at sladre om dem til mor. De kan bygge en rutsjebane i baghaven, surfe p\u00e5 forstadens tidevandsb\u00f8lger, eller rejse tilbage til forhistorien. Samtidig lever familiens ikke alt for smarte husdyr, n\u00e6bdyret Perry, et dobbeltliv som hemmelig agent, der i hvert afsnit k\u00e6mper mod den ondskabsfulde Dr."
+            },
+            "start" : "1522513020",
+            "title" : {
+               "da" : "Phineas og Ferb"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 131 s\u00e6son 4",
+               "xmltv_ns" : "3. 130 ."
+            },
+            "channel" : "xd.disneychannel.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "stop" : "1522514700"
+         },
+         {
+            "title" : {
+               "da" : "Phineas og Ferb"
+            },
+            "start" : "1522514700",
+            "desc" : {
+               "da" : "Phineas og Ferb vil g\u00f8re hver eneste dag i deres sommerferie helt spektakul\u00e6r! Hver dag finder de p\u00e5 nye fantasirige opfindelser, alt imens deres misundelige stores\u00f8ster, Candace, pr\u00f8ver at sladre om dem til mor. De kan bygge en rutsjebane i baghaven, surfe p\u00e5 forstadens tidevandsb\u00f8lger, eller rejse tilbage til forhistorien. Samtidig lever familiens ikke alt for smarte husdyr, n\u00e6bdyret Perry, et dobbeltliv som hemmelig agent, der i hvert afsnit k\u00e6mper mod den ondskabsfulde Dr."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "channel" : "xd.disneychannel.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 132 s\u00e6son 4",
+               "xmltv_ns" : "3. 131 ."
+            },
+            "stop" : "1522516500"
+         },
+         {
+            "title" : {
+               "da" : "Ducktales: Woo-Ooh!"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "start" : "1522516500",
+            "desc" : {
+               "da" : "Rip, Rap og Rup opdager, sammen med Fru Trippebys barnebarn Tulle, nogle gamle familiehemmeligheder fra onkel Joakims storladne fortid, som sender familien ud p\u00e5 eventyr verden over"
+            },
+            "channel" : "xd.disneychannel.dk",
+            "stop" : "1522519200",
+            "new" : null
+         },
+         {
+            "stop" : "1522521900",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "title" : {
+               "da" : "Milo Murphys lov:Milo er forsvundet"
+            },
+            "channel" : "xd.disneychannel.dk",
+            "desc" : {
+               "da" : "Pistacieplanter bliver levende i fremtiden"
+            },
+            "start" : "1522519200"
+         },
+         {
+            "date" : "2007",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=81848&seasonid=32024&id=363258&lid=10"
+            ],
+            "title" : {
+               "da" : "Phineas og Ferb"
+            },
+            "start" : "1522521900",
+            "rating" : {
+               "stars" : "7.6 / 9"
+            },
+            "desc" : {
+               "da" : "Candace er bekymret for sin k\u00f8repr\u00f8ve. Drengene bygger en monster truck. Bedstefar tager drengene med p\u00e5 camping og fort\u00e6ller dem om piraten Badbeard. (S1 E13)"
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-01-05 09:00:00",
+            "stop" : "1522523400",
+            "subTitle" : {
+               "da" : "Mig og min mumie"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Dan Povenmire"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Stacy Hirano",
+                     "name" : "Kelly Hu"
+                  },
+                  {
+                     "role" : "Ferb Fletcher",
+                     "name" : "Thomas Brodie-Sangster"
+                  },
+                  {
+                     "role" : "Isabella Garcia-Shapiro",
+                     "name" : "Alyson Stoner"
+                  },
+                  {
+                     "name" : "Vincent Martella",
+                     "role" : "Phineas Flynn"
+                  },
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "Perry the Platypus"
+                  },
+                  {
+                     "role" : "Linda Flynn-Fletcher",
+                     "name" : "Caroline Rhea"
+                  },
+                  {
+                     "role" : "Major Monogram",
+                     "name" : "Jeff \"Swampy\" Marsh"
+                  },
+                  {
+                     "role" : "Jeremy Johnson",
+                     "name" : "Mitchel Musso"
+                  },
+                  {
+                     "name" : "Ashley Tisdale",
+                     "role" : "Candace Flynn"
+                  },
+                  {
+                     "name" : "Jennifer Stone",
+                     "role" : "Amanda"
+                  },
+                  {
+                     "role" : "Dr. Doofenshmirtz",
+                     "name" : "Dan Povenmire"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Dan Povenmire"
+                  },
+                  {
+                     "name" : "Jeff 'Swampy' Marsh"
+                  },
+                  {
+                     "name" : "Bobby Gaylor"
+                  },
+                  {
+                     "name" : "Martin Olson"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 13 s\u00e6son 1",
+               "thetvdb.com" : "series/81848",
+               "xmltv_ns" : "0 . 12 ."
+            },
+            "channel" : "xd.disneychannel.dk"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Stacy Hirano",
+                     "name" : "Kelly Hu"
+                  },
+                  {
+                     "name" : "Thomas Brodie-Sangster",
+                     "role" : "Ferb Fletcher"
+                  },
+                  {
+                     "name" : "Alyson Stoner",
+                     "role" : "Isabella Garcia-Shapiro"
+                  },
+                  {
+                     "name" : "Vincent Martella",
+                     "role" : "Phineas Flynn"
+                  },
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "Perry the Platypus"
+                  },
+                  {
+                     "role" : "Linda Flynn-Fletcher",
+                     "name" : "Caroline Rhea"
+                  },
+                  {
+                     "role" : "Major Monogram",
+                     "name" : "Jeff \"Swampy\" Marsh"
+                  },
+                  {
+                     "name" : "Mitchel Musso",
+                     "role" : "Jeremy Johnson"
+                  },
+                  {
+                     "name" : "Ashley Tisdale",
+                     "role" : "Candace Flynn"
+                  },
+                  {
+                     "role" : "Amanda",
+                     "name" : "Jennifer Stone"
+                  },
+                  {
+                     "role" : "Dr. Doofenshmirtz",
+                     "name" : "Dan Povenmire"
+                  },
+                  {
+                     "name" : "Carlos Alazraqui",
+                     "role" : "Dr. Feelbetter"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Dan Povenmire"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Dan Povenmire"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 21 s\u00e6son 1",
+               "thetvdb.com" : "series/81848",
+               "xmltv_ns" : "0 . 20 ."
+            },
+            "channel" : "xd.disneychannel.dk",
+            "previously_shown" : "xd.disneychannel.dk|2018-01-17 09:00:00",
+            "stop" : "1522524900",
+            "subTitle" : {
+               "da" : "Et sp\u00f8rgsm\u00e5l om tid"
+            },
+            "title" : {
+               "da" : "Phineas og Ferb"
+            },
+            "desc" : {
+               "da" : "Phineas og Ferb vil g\u00f8re hver eneste dag i deres sommerferie helt spektakul\u00e6r! Hver dag finder de p\u00e5 nye fantasirige opfindelser, alt imens deres misundelige stores\u00f8ster, Candace, pr\u00f8ver at sladre om dem til mor. De kan bygge en rutsjebane i baghaven, surfe p\u00e5 forstadens tidevandsb\u00f8lger, eller rejse tilbage til forhistorien. Samtidig lever familiens ikke alt for smarte husdyr, n\u00e6bdyret Perry, et dobbeltliv som hemmelig agent, der i hvert afsnit k\u00e6mper mod den ondskabsfulde Dr. Doofenshmirtz."
+            },
+            "rating" : {
+               "stars" : "7.6 / 9"
+            },
+            "start" : "1522523400",
+            "date" : "2007",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=81848&seasonid=32024&id=363266&lid=10"
+            ]
+         },
+         {
+            "title" : {
+               "da" : "Phineas og Ferb"
+            },
+            "desc" : {
+               "da" : "Phineas og Ferb vil g\u00f8re hver eneste dag i deres sommerferie helt spektakul\u00e6r! Hver dag finder de p\u00e5 nye fantasirige opfindelser, alt imens deres misundelige stores\u00f8ster, Candace, pr\u00f8ver at sladre om dem til mor. De kan bygge en rutsjebane i baghaven, surfe p\u00e5 forstadens tidevandsb\u00f8lger, eller rejse tilbage til forhistorien. Samtidig lever familiens ikke alt for smarte husdyr, n\u00e6bdyret Perry, et dobbeltliv som hemmelig agent, der i hvert afsnit k\u00e6mper mod den ondskabsfulde Dr. Doofenshmirtz."
+            },
+            "rating" : {
+               "stars" : "7.6 / 9"
+            },
+            "start" : "1522524900",
+            "date" : "2007",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=81848&seasonid=32024&id=363267&lid=10"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Bobby Gaylor"
+                  },
+                  {
+                     "name" : "Martin Olson"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Stacy Hirano",
+                     "name" : "Kelly Hu"
+                  },
+                  {
+                     "name" : "Thomas Brodie-Sangster",
+                     "role" : "Ferb Fletcher"
+                  },
+                  {
+                     "name" : "Alyson Stoner",
+                     "role" : "Isabella Garcia-Shapiro"
+                  },
+                  {
+                     "name" : "Vincent Martella",
+                     "role" : "Phineas Flynn"
+                  },
+                  {
+                     "role" : "Perry the Platypus",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "role" : "Linda Flynn-Fletcher",
+                     "name" : "Caroline Rhea"
+                  },
+                  {
+                     "name" : "Jeff \"Swampy\" Marsh",
+                     "role" : "Major Monogram"
+                  },
+                  {
+                     "name" : "Mitchel Musso",
+                     "role" : "Jeremy Johnson"
+                  },
+                  {
+                     "name" : "Ashley Tisdale",
+                     "role" : "Candace Flynn"
+                  },
+                  {
+                     "name" : "Jennifer Stone",
+                     "role" : "Amanda"
+                  },
+                  {
+                     "role" : "Dr. Doofenshmirtz",
+                     "name" : "Dan Povenmire"
+                  },
+                  {
+                     "name" : "Carlos Alazraqui",
+                     "role" : "Bobby"
+                  },
+                  {
+                     "role" : "Swampy",
+                     "name" : "Steve Zahn"
+                  },
+                  {
+                     "name" : "Olivia Olson",
+                     "role" : "Vanessa Doofenshmirtz"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Dan Povenmire"
+                  }
+               ]
+            },
+            "channel" : "xd.disneychannel.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 21 .",
+               "onscreen" : "Afsnit 22 s\u00e6son 1",
+               "thetvdb.com" : "series/81848"
+            },
+            "subTitle" : {
+               "da" : "Dude, We're Gettin' the Band Back Together! (Part 1 & 2)"
+            },
+            "stop" : "1522555200",
+            "previously_shown" : "xd.disneychannel.dk|2018-01-18 09:00:00"
+         }
+      ]
+   }
+}

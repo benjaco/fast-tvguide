@@ -1,0 +1,1768 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Adventure",
+                  "Sci-Fi",
+                  "Fantasy"
+               ]
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/246655"
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Bryan Singer"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "James McAvoy",
+                     "role" : "Professor Charles Xavier"
+                  },
+                  {
+                     "role" : "Erik Lehnsherr / Magneto",
+                     "name" : "Michael Fassbender"
+                  },
+                  {
+                     "name" : "Jennifer Lawrence",
+                     "role" : "Raven Darkholme / Mystique"
+                  },
+                  {
+                     "role" : "Hank McCoy / Beast",
+                     "name" : "Nicholas Hoult"
+                  },
+                  {
+                     "name" : "Oscar Isaac",
+                     "role" : "En Sabah Nur / Apocalypse"
+                  },
+                  {
+                     "name" : "Rose Byrne",
+                     "role" : "Moira MacTaggert"
+                  },
+                  {
+                     "name" : "Evan Peters",
+                     "role" : "Peter Maximoff / Quicksilver"
+                  },
+                  {
+                     "name" : "Josh Helman",
+                     "role" : "Col. William Stryker"
+                  },
+                  {
+                     "name" : "Sophie Turner",
+                     "role" : "Jean Grey / Phoenix"
+                  },
+                  {
+                     "role" : "Scott Summers / Cyclops",
+                     "name" : "Tye Sheridan"
+                  },
+                  {
+                     "name" : "Lucas Till",
+                     "role" : "Alex Summers / Havok"
+                  },
+                  {
+                     "role" : "Kurt Wagner / Nightcrawler",
+                     "name" : "Kodi Smit-McPhee"
+                  },
+                  {
+                     "name" : "Ben Hardy",
+                     "role" : "Warren Worthington III / Angel"
+                  },
+                  {
+                     "role" : "Ororo Munroe / Storm",
+                     "name" : "Alexandra Shipp"
+                  },
+                  {
+                     "role" : "Jubilation Lee / Jubilee",
+                     "name" : "Lana Condor"
+                  },
+                  {
+                     "name" : "Olivia Munn",
+                     "role" : "Elizabeth 'Betsy' Braddock / Psylocke"
+                  },
+                  {
+                     "name" : "Warren Scherer",
+                     "role" : "Horseman - Pestilence"
+                  },
+                  {
+                     "name" : "Rochelle Okoye",
+                     "role" : "Horseman - Famine"
+                  },
+                  {
+                     "role" : "Horseman - Death",
+                     "name" : "Monique Ganderton"
+                  },
+                  {
+                     "name" : "Fraser Aitcheson",
+                     "role" : "Horseman - War"
+                  },
+                  {
+                     "role" : "Lead Conspiracy Guard",
+                     "name" : "Abdulla Hamam"
+                  },
+                  {
+                     "name" : "Hesham Hammoud",
+                     "role" : "Conspirator Guard"
+                  },
+                  {
+                     "name" : "Antonio Daniel Hidalgo",
+                     "role" : "Conspirator Guard"
+                  },
+                  {
+                     "role" : "High Priest",
+                     "name" : "Al Maini"
+                  },
+                  {
+                     "name" : "Berdj Garabedian",
+                     "role" : "Old Apocalypse"
+                  },
+                  {
+                     "role" : "Scott's Teacher",
+                     "name" : "Ally Sheedy"
+                  },
+                  {
+                     "role" : "School Jock",
+                     "name" : "Anthony Konechny"
+                  },
+                  {
+                     "role" : "School Cheerleader",
+                     "name" : "Emma Elle Paterson"
+                  },
+                  {
+                     "role" : "Fight Announcer",
+                     "name" : "Manuel Sinor"
+                  },
+                  {
+                     "name" : "Gustave Ouimet",
+                     "role" : "Defeated \"Blob\""
+                  },
+                  {
+                     "name" : "Lukas Penar",
+                     "role" : "Electric Panel Guard"
+                  },
+                  {
+                     "role" : "Mr. Summers",
+                     "name" : "Ryan Hollyman"
+                  },
+                  {
+                     "name" : "Joanne Boland",
+                     "role" : "Mrs. Summers"
+                  },
+                  {
+                     "name" : "Nabeel El Khafif",
+                     "role" : "Falafel Shop Owner"
+                  },
+                  {
+                     "name" : "Manuel Tadros",
+                     "role" : "Clan Akkaba Leader"
+                  },
+                  {
+                     "role" : "Clan Akkaba Disciple",
+                     "name" : "Abanoub Andraous"
+                  },
+                  {
+                     "role" : "Clan Akkaba Disciple",
+                     "name" : "Aladeen Tawfeek"
+                  },
+                  {
+                     "role" : "Magda",
+                     "name" : "Carolina Bartczak"
+                  },
+                  {
+                     "role" : "Nina",
+                     "name" : "T. J. McGibbon"
+                  },
+                  {
+                     "name" : "Davide Chiazzese",
+                     "role" : "Cairo Shoe Shop Vendor"
+                  },
+                  {
+                     "role" : "Milosz",
+                     "name" : "Sebastian Naskrent"
+                  },
+                  {
+                     "role" : "Polish Worker",
+                     "name" : "Boris Sichon"
+                  },
+                  {
+                     "role" : "Lead Polish Inspector",
+                     "name" : "Martin Skorek"
+                  },
+                  {
+                     "role" : "Jakob",
+                     "name" : "Kamil Orzechowski"
+                  },
+                  {
+                     "role" : "Polish Police Archer",
+                     "name" : "Michael Terlecki"
+                  },
+                  {
+                     "name" : "Ahmed Osman",
+                     "role" : "Threatening Cairo Vendor"
+                  },
+                  {
+                     "name" : "Ziad Ghanem",
+                     "role" : "Egyptian Street Vendor"
+                  },
+                  {
+                     "role" : "Egyptian Street Vendor",
+                     "name" : "Moataz Fathi"
+                  },
+                  {
+                     "name" : "T\u00f3mas Lemarquis",
+                     "role" : "Caliban"
+                  },
+                  {
+                     "name" : "James Loye",
+                     "role" : "CNN Reporter"
+                  },
+                  {
+                     "name" : "Zehra Leverman",
+                     "role" : "Ms. Maximoff"
+                  },
+                  {
+                     "name" : "Herb Luft",
+                     "role" : "News Anchor"
+                  },
+                  {
+                     "name" : "Stan Lee",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Joan Lee",
+                     "role" : "Herself"
+                  },
+                  {
+                     "role" : "Pentagon General Hastings",
+                     "name" : "Stephen Bogaert"
+                  },
+                  {
+                     "name" : "John Bourgeois",
+                     "role" : "Pentagon General Radford"
+                  },
+                  {
+                     "name" : "Conrad Coates",
+                     "role" : "Pentagon General Fields"
+                  },
+                  {
+                     "name" : "Dan Lett",
+                     "role" : "Defense Secretary Weisberg"
+                  },
+                  {
+                     "role" : "Military Official Brown",
+                     "name" : "Adrian G. Griffiths"
+                  },
+                  {
+                     "name" : "Shawn Campbell",
+                     "role" : "Military Submarine Official"
+                  },
+                  {
+                     "name" : "Joe Cobden",
+                     "role" : "Air Force Official"
+                  },
+                  {
+                     "name" : "Henry Hallowell",
+                     "role" : "Foyer Student"
+                  },
+                  {
+                     "role" : "Fish Bowl Girl",
+                     "name" : "Danielle Dury"
+                  },
+                  {
+                     "name" : "Naomi Frenette",
+                     "role" : "Kissing Girl"
+                  },
+                  {
+                     "name" : "Aj Risi",
+                     "role" : "Kissing Guy"
+                  },
+                  {
+                     "role" : "Computer Guy",
+                     "name" : "Rapha\u00ebl Dury"
+                  },
+                  {
+                     "role" : "Darts Guy",
+                     "name" : "Ian Rosenberg"
+                  },
+                  {
+                     "role" : "Tab Girl",
+                     "name" : "Erika Heather Mergl"
+                  },
+                  {
+                     "name" : "Tauntaun",
+                     "role" : "Pizza Dog"
+                  },
+                  {
+                     "name" : "Mary-Piper Gaudet",
+                     "role" : "Student in Drapes"
+                  },
+                  {
+                     "name" : "Josh Madryga",
+                     "role" : "Student in Drapes"
+                  },
+                  {
+                     "role" : "Student in Drapes",
+                     "name" : "Scott Cook"
+                  },
+                  {
+                     "name" : "Allen Keng",
+                     "role" : "Student in Drapes"
+                  },
+                  {
+                     "role" : "Student in Drapes",
+                     "name" : "Tally Rodin"
+                  },
+                  {
+                     "role" : "Table Surfing Student",
+                     "name" : "Francis Limoges"
+                  },
+                  {
+                     "role" : "Table Surfing Student",
+                     "name" : "Tsu-Ching Yu"
+                  },
+                  {
+                     "name" : "Karl Walcott",
+                     "role" : "Alkali Soldier"
+                  },
+                  {
+                     "role" : "Alkali Guard",
+                     "name" : "Desmond Campbell"
+                  },
+                  {
+                     "name" : "Ian Geldart",
+                     "role" : "Alkali Communications Officer"
+                  },
+                  {
+                     "role" : "Confused Tech",
+                     "name" : "John Ottman"
+                  },
+                  {
+                     "role" : "Kenyan Teacher",
+                     "name" : "Linda Joyce Nourse"
+                  },
+                  {
+                     "name" : "Zeljko Ivanek",
+                     "role" : "Pentagon Scientist"
+                  },
+                  {
+                     "role" : "Fishing Boat Captain",
+                     "name" : "Christopher B. MacCabe"
+                  },
+                  {
+                     "role" : "Finsherman",
+                     "name" : "Chris Cavener"
+                  },
+                  {
+                     "name" : "Ronald Tremblay",
+                     "role" : "Finsherman"
+                  },
+                  {
+                     "name" : "Joseph Bellerose",
+                     "role" : "Harbor Master"
+                  },
+                  {
+                     "name" : "Philippe Hartmann",
+                     "role" : "Harbor Employee"
+                  },
+                  {
+                     "role" : "Russian Submarine Sailors",
+                     "name" : "Sebastien Teller"
+                  },
+                  {
+                     "name" : "Alexander Peganov",
+                     "role" : "Russian Submarine Sailor"
+                  },
+                  {
+                     "role" : "US Weapons Technician",
+                     "name" : "Simon Therrien"
+                  },
+                  {
+                     "role" : "US Weapons Technician",
+                     "name" : "Patrice Martre"
+                  },
+                  {
+                     "role" : "Mystery Man",
+                     "name" : "James Malloch"
+                  },
+                  {
+                     "name" : "Vladimir Alexis",
+                     "role" : "Salesperson (uncredited)"
+                  },
+                  {
+                     "name" : "Jason Deline",
+                     "role" : "Pentagon Tech (uncredited)"
+                  },
+                  {
+                     "role" : "Logan (uncredited)",
+                     "name" : "Hugh Jackman"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Simon Kinberg"
+                  },
+                  {
+                     "name" : "Lauren Shuler Donner"
+                  }
+               ]
+            },
+            "stop" : "1522809900",
+            "url" : [
+               "http://www.themoviedb.org/movie/246655"
+            ],
+            "new" : "0",
+            "title" : {
+               "da" : "X-Men: Apocalypse"
+            },
+            "channel" : "hits.cmore.dk",
+            "desc" : {
+               "da" : "I det forhistoriske Egypten regerer den m\u00e6gtige En Sabah Nur. Efter et opr\u00f8r, bliver han sat ud af spillet og begravet i en pyramide. I \u00e5r 1983 v\u00e5gner han dog op igen med et br\u00e6ndende \u00f8nske om h\u00e6vn, og verdens eksistens er truet. De eneste, der kan stoppe ham, er Professor X, Magneto og de andre mutanter."
+            },
+            "start" : "1522801500",
+            "date" : "2016",
+            "rating" : {
+               "stars" : "6.4 / 10"
+            },
+            "country" : [
+               "US"
+            ]
+         },
+         {
+            "new" : "0",
+            "stop" : "1522818000",
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 9/31 .",
+               "onscreen" : "Afsnit 10 af 31 s\u00e6son 2"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Movies"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Morgan Freeman"
+            },
+            "country" : [
+               "US"
+            ],
+            "date" : "2014",
+            "start" : "1522809900",
+            "desc" : {
+               "da" : "Tom Hanks, Jennifer Lopez og Denzel Washington er blandt de i alt 30 Hollywoodstjerner, der portr\u00e6tteres i denne nyproducerede dokumentarserie. Gennem interviews med venner og kolleger krydret med klassiske filmklip, f\u00e5r vi et sp\u00e6ndende indblik i skuespillerenes glamour\u00f8se liv. Del 10/31. Morgan Freeman."
+            },
+            "channel" : "hits.cmore.dk",
+            "title" : {
+               "da" : "Close Up"
+            }
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "date" : "2015",
+            "rating" : {
+               "stars" : "5.8 / 10"
+            },
+            "title" : {
+               "da" : "Sisters"
+            },
+            "desc" : {
+               "da" : "Kate og Maura er to voksne s\u00f8stre, der f\u00e5r at vide af deres for\u00e6ldre, at barndomshjemmet er sat til salg, og at de har weekenden til at f\u00e5 ryddet op i deres gamle ting. S\u00f8strene er dog ikke klar til at sige farvel til deres barndomshjem, og de beslutter sig for at holde en sidste fest for at genoplive gamle minder."
+            },
+            "start" : "1522818000",
+            "channel" : "hits.cmore.dk",
+            "stop" : "1522824900",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Paula Pell"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Tina Fey",
+                     "role" : "Kate Ellis"
+                  },
+                  {
+                     "role" : "Maura Ellis",
+                     "name" : "Amy Poehler"
+                  },
+                  {
+                     "role" : "Dave",
+                     "name" : "John Leguizamo"
+                  },
+                  {
+                     "role" : "James",
+                     "name" : "Ike Barinholtz"
+                  },
+                  {
+                     "name" : "Maya Rudolph",
+                     "role" : "Brinda"
+                  },
+                  {
+                     "name" : "Madison Davenport",
+                     "role" : "Hayley"
+                  },
+                  {
+                     "name" : "Greta Lee",
+                     "role" : "Hae Won"
+                  },
+                  {
+                     "role" : "Bucky Ellis",
+                     "name" : "James Brolin"
+                  },
+                  {
+                     "name" : "John Cena",
+                     "role" : "Pazuzu"
+                  },
+                  {
+                     "role" : "Kelly",
+                     "name" : "Rachel Dratch"
+                  },
+                  {
+                     "name" : "Heather Matarazzo",
+                     "role" : "Denny"
+                  },
+                  {
+                     "role" : "Patrick Campbell",
+                     "name" : "Dan Byrd"
+                  },
+                  {
+                     "name" : "Kate McKinnon",
+                     "role" : "Sam"
+                  },
+                  {
+                     "name" : "Bobby Moynihan",
+                     "role" : "Alex"
+                  },
+                  {
+                     "role" : "Actor",
+                     "name" : "Adrian Martinez"
+                  },
+                  {
+                     "role" : "Deana Ellis",
+                     "name" : "Dianne Wiest"
+                  },
+                  {
+                     "name" : "Santino Fontana",
+                     "role" : "Mr. Geernt"
+                  },
+                  {
+                     "name" : "Brian d'Arcy James",
+                     "role" : "Jerry"
+                  },
+                  {
+                     "role" : "Kim",
+                     "name" : "Ren\u00e9e Elise Goldsberry"
+                  },
+                  {
+                     "role" : "Brianne",
+                     "name" : "Emily Tarver"
+                  },
+                  {
+                     "role" : "Liz",
+                     "name" : "Samantha Bee"
+                  },
+                  {
+                     "name" : "Britt Lower",
+                     "role" : "Actress"
+                  },
+                  {
+                     "name" : "Jackie Tohn",
+                     "role" : "DJ"
+                  },
+                  {
+                     "name" : "John Lutz",
+                     "role" : "Party Guest #1"
+                  },
+                  {
+                     "name" : "Daniel Breaker",
+                     "role" : "Airport Bartender"
+                  },
+                  {
+                     "role" : "Party Guest",
+                     "name" : "April Szykeruk"
+                  },
+                  {
+                     "role" : "Softball Player",
+                     "name" : "Kara Rosella"
+                  },
+                  {
+                     "name" : "Christa Beth Campbell",
+                     "role" : "Young Maura Ellis Age 10"
+                  },
+                  {
+                     "role" : "Tan Guy",
+                     "name" : "Ben Sinclair"
+                  },
+                  {
+                     "role" : "Pina Colada Umbrella Party Guest",
+                     "name" : "James Zeiss"
+                  },
+                  {
+                     "name" : "Kelsey O'Brien",
+                     "role" : "Party Guest"
+                  },
+                  {
+                     "role" : "Airport Traveler (uncredited)",
+                     "name" : "Bill Walters"
+                  },
+                  {
+                     "name" : "Chris Parnell",
+                     "role" : "Phil"
+                  },
+                  {
+                     "name" : "Greta Lee",
+                     "role" : "Greta"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Jason Moore"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Tina Fey"
+                  },
+                  {
+                     "name" : "Jay Roach"
+                  }
+               ]
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/266294"
+            ],
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/266294"
+            }
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "title" : {
+               "da" : "The Prince & Me II: The Royal Wedding"
+            },
+            "desc" : {
+               "da" : "Den medicinstuderende Paige faldt for selveste Danmarks kronprins, og nu skal det royale bryllup st\u00e5, men nogen truer gifteplanerne. En for\u00e6ldet dansk middelalderlov forbyder kronprinsen at gifte sig uden for den adelige familie, og den kyniske grev Albert vil g\u00f8re alt for, at kronprinsen i stedet gifter sig med grevens datter."
+            },
+            "channel" : "hits.cmore.dk",
+            "start" : "1522824900",
+            "date" : "2006",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Luke Mably"
+                  },
+                  {
+                     "name" : "Kam Heskin"
+                  },
+                  {
+                     "name" : "Maryam d'Abo"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Catherine Cyran"
+                  }
+               ]
+            },
+            "stop" : "1522830600",
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Comedy"
+               ]
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Jennifer Lopez"
+            },
+            "country" : [
+               "US"
+            ],
+            "title" : {
+               "da" : "Close Up"
+            },
+            "start" : "1522830600",
+            "desc" : {
+               "da" : "Tom Hanks, Jennifer Lopez og Denzel Washington er blandt de i alt 30 Hollywoodstjerner, der portr\u00e6tteres i denne nyproducerede dokumentarserie. Gennem interviews med venner og kolleger krydret med klassiske filmklip, f\u00e5r vi et sp\u00e6ndende indblik i skuespillerenes glamour\u00f8se liv. Del 12/31. Jennifer Lopez."
+            },
+            "channel" : "hits.cmore.dk",
+            "date" : "2014",
+            "stop" : "1522832700",
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Movies"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 12 af 31 s\u00e6son 2",
+               "xmltv_ns" : "1 . 11/31 ."
+            }
+         },
+         {
+            "start" : "1522832700",
+            "desc" : {
+               "da" : "Dansk drama om kunstneren Simon, der er konge af den danske kunstscene - excentrisk, succesfuld og velhavende, med en smuk kone og en ung elskerinde. Livet er godt lige indtil den dag, hans ukendte s\u00f8n Casper dukker op. Far/s\u00f8n forholdet s\u00e6ttes p\u00e5 en alvorlig pr\u00f8ve, men stik mod forventning n\u00e6rmer de to sig dog langsomt hinanden."
+            },
+            "channel" : "hits.cmore.dk",
+            "title" : {
+               "da" : "Mesteren"
+            },
+            "date" : "2016",
+            "country" : [
+               "DK"
+            ],
+            "episodeNum" : {
+               "themoviedb.org" : "movie/377691"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama",
+                  "Comedy"
+               ]
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/377691"
+            ],
+            "new" : "0",
+            "stop" : "1522838100",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Casper",
+                     "name" : "Jakob Oftebro"
+                  },
+                  {
+                     "role" : "Darling",
+                     "name" : "Ane Dahl Torp"
+                  },
+                  {
+                     "role" : "Simon",
+                     "name" : "S\u00f8ren Malling"
+                  },
+                  {
+                     "role" : "David",
+                     "name" : "S\u00f8ren Pilmark"
+                  },
+                  {
+                     "name" : "Sus Wilkins",
+                     "role" : "Lai"
+                  },
+                  {
+                     "name" : "Thomas Hwan",
+                     "role" : "Jon"
+                  },
+                  {
+                     "name" : "Marie Lydie Melono Nokouda"
+                  },
+                  {
+                     "name" : "Evrim Benli"
+                  },
+                  {
+                     "name" : "Simon Bennebjerg"
+                  },
+                  {
+                     "name" : "Jessica Dinnage"
+                  },
+                  {
+                     "name" : "Anna Linhartov\u00e1"
+                  },
+                  {
+                     "name" : "Elias Bauer"
+                  },
+                  {
+                     "name" : "Marta Dancingerov\u00e1"
+                  },
+                  {
+                     "name" : "Daniel Brown"
+                  },
+                  {
+                     "name" : "Mathias Rahb\u00e6k"
+                  },
+                  {
+                     "name" : "Jack Bohr-Christensen"
+                  },
+                  {
+                     "name" : "Jade Clayton"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Charlotte Sieling"
+                  }
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Romance",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/291328"
+            },
+            "stop" : "1522845600",
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Warren Beatty"
+                  },
+                  {
+                     "name" : "Brett Ratner"
+                  },
+                  {
+                     "name" : "Steve Bing"
+                  },
+                  {
+                     "name" : "Molly Conners"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Warren Beatty"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Warren Beatty",
+                     "role" : "Howard Hughes"
+                  },
+                  {
+                     "name" : "Alec Baldwin",
+                     "role" : "Bob Maheu"
+                  },
+                  {
+                     "name" : "Annette Bening",
+                     "role" : "Lucy Mabrey"
+                  },
+                  {
+                     "role" : "Levar Mathis",
+                     "name" : "Matthew Broderick"
+                  },
+                  {
+                     "role" : "Marla Mabrey",
+                     "name" : "Lily Collins"
+                  },
+                  {
+                     "role" : "Frank Forbes",
+                     "name" : "Alden Ehrenreich"
+                  },
+                  {
+                     "name" : "Haley Bennett",
+                     "role" : "Mamie Murphy"
+                  },
+                  {
+                     "role" : "Nadine Henly",
+                     "name" : "Candice Bergen"
+                  },
+                  {
+                     "name" : "Dabney Coleman",
+                     "role" : "Raymond Holliday"
+                  },
+                  {
+                     "name" : "Ed Harris",
+                     "role" : "Mr. Bransford"
+                  },
+                  {
+                     "name" : "Martin Sheen",
+                     "role" : "Noah Dietrich"
+                  },
+                  {
+                     "role" : "Vernon Scott",
+                     "name" : "Paul Sorvino"
+                  },
+                  {
+                     "name" : "Oliver Platt",
+                     "role" : "Forester"
+                  },
+                  {
+                     "name" : "Amy Madigan",
+                     "role" : "Mrs. Bransford"
+                  },
+                  {
+                     "name" : "Taissa Farmiga",
+                     "role" : "Sarah Bransford"
+                  },
+                  {
+                     "role" : "Solly",
+                     "name" : "Michael Badalucco"
+                  },
+                  {
+                     "role" : "Colonel Nigel Briggs",
+                     "name" : "Steve Coogan"
+                  },
+                  {
+                     "name" : "Megan Hilty",
+                     "role" : "Sally"
+                  },
+                  {
+                     "role" : "Richard Miskin",
+                     "name" : "Paul Schneider"
+                  },
+                  {
+                     "name" : "Chace Crawford",
+                     "role" : "Young Actor"
+                  },
+                  {
+                     "role" : "Frank's Grandmother",
+                     "name" : "Eileen Ryan"
+                  },
+                  {
+                     "role" : "Director",
+                     "name" : "Patrick Fischler"
+                  },
+                  {
+                     "role" : "Senator Ferguson",
+                     "name" : "Ron Perkins"
+                  },
+                  {
+                     "name" : "Peter MacKenzie",
+                     "role" : "Gene Handsaker"
+                  },
+                  {
+                     "role" : "President Somoza",
+                     "name" : "Julio Oscar Mechoso"
+                  },
+                  {
+                     "role" : "Herb",
+                     "name" : "Joshua Malina"
+                  },
+                  {
+                     "role" : "Colonel Willis",
+                     "name" : "Hart Bochner"
+                  },
+                  {
+                     "role" : "Rudolf",
+                     "name" : "Ashley Hamilton"
+                  },
+                  {
+                     "name" : "Caitlin Carver",
+                     "role" : "Marla Lookalike"
+                  },
+                  {
+                     "role" : "Matt Mabrey",
+                     "name" : "Evan O'Toole"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Warren Beatty"
+                  }
+               ]
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/291328"
+            ],
+            "new" : "0",
+            "title" : {
+               "da" : "Rules Don't Apply"
+            },
+            "channel" : "hits.cmore.dk",
+            "desc" : {
+               "da" : "Hollywood, 1958. Marla er en ung skuespillerinde, der kommer p\u00e5 kontrakt hos RKO, et filmselskab ejet af den excentriske milliard\u00e6r Howard Hughes. Den unge Frank bliver hendes chauff\u00f8r, og s\u00f8d musik opst\u00e5r hurtigt mellem de to, men det er ikke uproblematisk. Regel nummer eet, n\u00e5r man er ansat hos Hughes er: Ingen dater hans skuespillerinder."
+            },
+            "start" : "1522838100",
+            "date" : "2016",
+            "rating" : {
+               "stars" : "6 / 10"
+            },
+            "country" : [
+               "US"
+            ]
+         },
+         {
+            "rating" : {
+               "stars" : "6.4 / 10"
+            },
+            "date" : "2015",
+            "desc" : {
+               "da" : "Antoine Rey har fundet den perfekte f\u00f8dselsdagsgave til sin s\u00f8ster Melanie, der fylder 40 \u00e5r - sammen skal de rejse til den idylliske \u00f8 Noirmoutier, hvor de tilbragte flere somre som b\u00f8rn. Rejsen f\u00e5r dog voldsomme og uforudsete konsekvenser for de to s\u00f8skende, da m\u00f8rke familiehemmeligheder kommer frem i lyset."
+            },
+            "start" : "1522845600",
+            "channel" : "hits.cmore.dk",
+            "title" : {
+               "da" : "Boomerang"
+            },
+            "country" : [
+               "FR"
+            ],
+            "episodeNum" : {
+               "themoviedb.org" : "movie/352187"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama"
+               ]
+            },
+            "new" : "0",
+            "url" : [
+               "http://www.themoviedb.org/movie/352187"
+            ],
+            "stop" : "1522852200",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Fran\u00e7ois Favrat"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "M\u00e9lanie Laurent",
+                     "role" : "Agathe Rey"
+                  },
+                  {
+                     "role" : "Antoine Rey",
+                     "name" : "Laurent Lafitte"
+                  },
+                  {
+                     "name" : "Audrey Dana",
+                     "role" : "Ang\u00e8le"
+                  },
+                  {
+                     "role" : "Charles Rey",
+                     "name" : "Wladimir Yordanoff"
+                  },
+                  {
+                     "role" : "Blanche Rey",
+                     "name" : "Bulle Ogier"
+                  },
+                  {
+                     "role" : "Astrid",
+                     "name" : "Anne Suarez"
+                  },
+                  {
+                     "name" : "Anne Loiret",
+                     "role" : "Anne-Sophie"
+                  },
+                  {
+                     "name" : "Lise Lam\u00e9trie",
+                     "role" : "Genevi\u00e8ve"
+                  },
+                  {
+                     "role" : "Jean",
+                     "name" : "Kate Moran"
+                  },
+                  {
+                     "role" : "La secr\u00e9taire de l'h\u00f4pital",
+                     "name" : "Flora Djien"
+                  }
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/459591"
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Alan G. Parker"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Himself (archive footage)",
+                     "name" : "John Lennon"
+                  },
+                  {
+                     "role" : "Himself (archive footage)",
+                     "name" : "Paul McCartney"
+                  },
+                  {
+                     "name" : "Ringo Starr",
+                     "role" : "Himself (archive footage)"
+                  },
+                  {
+                     "name" : "George Harrison",
+                     "role" : "Himself (archive footage)"
+                  },
+                  {
+                     "role" : "Himself (archive footage)",
+                     "name" : "Brian Epstein"
+                  },
+                  {
+                     "name" : "George Martin",
+                     "role" : "Himself (archive footage)"
+                  },
+                  {
+                     "role" : "Herself (archive footage)",
+                     "name" : "Yoko Ono"
+                  },
+                  {
+                     "role" : "Herself",
+                     "name" : "Julia Baird"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Andre Barreau"
+                  },
+                  {
+                     "name" : "Pete Best",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Jenny Boyd",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Tony Bramwell"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Ray Connolly"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Tony Crane"
+                  },
+                  {
+                     "name" : "Hunter Davies",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Steve Diggle"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Neil Harrison"
+                  },
+                  {
+                     "name" : "Bill Harry",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Freda Kelly",
+                     "role" : "Herself"
+                  },
+                  {
+                     "name" : "Billy Kinsley",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Simon Napier-Bell"
+                  },
+                  {
+                     "name" : "Philip Norman",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Barbara O'Donnell",
+                     "role" : "Herself"
+                  },
+                  {
+                     "name" : "Andy Peebles",
+                     "role" : "Himself"
+                  }
+               ]
+            },
+            "stop" : "1522859400",
+            "url" : [
+               "http://www.themoviedb.org/movie/459591"
+            ],
+            "new" : "0",
+            "date" : "2017",
+            "title" : {
+               "da" : "The Beatles: Sgt Pepper 50 \u00e5r"
+            },
+            "start" : "1522852200",
+            "desc" : {
+               "da" : "I anledning af halvtreds\u00e5rsdagen for The Beatles' klassiske album \"Sgt. Pepper's Lonely Hearts Club Band\" s\u00e5 denne film dagens lys. Vi kommer med bag om kulissen og f\u00e5r indblik i alt fra inspirationskilder til optageteknikker."
+            },
+            "channel" : "hits.cmore.dk",
+            "country" : [
+               "GB"
+            ]
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "rating" : {
+               "stars" : "6.3 / 10"
+            },
+            "date" : "2017",
+            "desc" : {
+               "da" : "Som enebarn har 7-\u00e5rige Tim begge sine for\u00e6ldres fulde opm\u00e6rksomhed, lige indtil han f\u00e5r en lillebror, der skriger og stj\u00e6ler for\u00e6ldrenes opm\u00e6rksomhed - men ikke nok med det: Lillebroren er if\u00f8rt jakkes\u00e6t, taler som en voksen og opf\u00f8rer sig kun som et barn, n\u00e5r for\u00e6ldrene er i n\u00e6rheden. Det viser sig, at lillebroren er p\u00e5 en hemmelig mission."
+            },
+            "channel" : "hits.cmore.dk",
+            "start" : "1522859400",
+            "title" : {
+               "da" : "Boss Baby"
+            },
+            "new" : "0",
+            "url" : [
+               "http://www.themoviedb.org/movie/295693"
+            ],
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Theodore Templeton (voice)",
+                     "name" : "Alec Baldwin"
+                  },
+                  {
+                     "name" : "Steve Buscemi",
+                     "role" : "Francis E. Francis (voice)"
+                  },
+                  {
+                     "role" : "Tim Templeton (voice)",
+                     "name" : "Miles Bakshi"
+                  },
+                  {
+                     "name" : "Jimmy Kimmel",
+                     "role" : "Ted Templeton (voice)"
+                  },
+                  {
+                     "name" : "Lisa Kudrow",
+                     "role" : "Janice Templeton (voice)"
+                  },
+                  {
+                     "role" : "Narrator / Older Tim Templeton (voice)",
+                     "name" : "Tobey Maguire"
+                  },
+                  {
+                     "name" : "Conrad Vernon",
+                     "role" : "Eugene Francis (voice)"
+                  },
+                  {
+                     "role" : "Wizzie / Elvis Impersonator (voice)",
+                     "name" : "James McGrath"
+                  },
+                  {
+                     "name" : "David Soren",
+                     "role" : "Jimbo (voice)"
+                  },
+                  {
+                     "name" : "Nina Zoe Bakshi",
+                     "role" : "Tim's Daughter / Girl / Little Girl (voice) (as Nina Bakshi)"
+                  },
+                  {
+                     "name" : "Tom McGrath",
+                     "role" : "TV Chef (voice)"
+                  },
+                  {
+                     "name" : "Walt Dohrn",
+                     "role" : "Photographer (voice)"
+                  },
+                  {
+                     "name" : "James Ryan",
+                     "role" : "Story Bear (voice)"
+                  },
+                  {
+                     "role" : "Triplets (voice)",
+                     "name" : "Eric Bell Jr."
+                  },
+                  {
+                     "role" : "Staci (voice)",
+                     "name" : "ViviAnn Yee"
+                  },
+                  {
+                     "name" : "Edie Mirman",
+                     "role" : "Big Boss Baby (voice)"
+                  },
+                  {
+                     "role" : "Elvis impersonator (voice)",
+                     "name" : "James Izzo"
+                  },
+                  {
+                     "role" : "Captain Ross (voice)",
+                     "name" : "Chris Miller"
+                  },
+                  {
+                     "name" : "Chloe Albrecht",
+                     "role" : "Hazmat Baby (voice)"
+                  },
+                  {
+                     "role" : "Flight Attendant (voice) (as Andrea Knoll)",
+                     "name" : "Andrea Montana Knoll"
+                  },
+                  {
+                     "role" : "Elvis Impersonators (voice)",
+                     "name" : "Joseph Izzo"
+                  },
+                  {
+                     "name" : "Glenn Harmon",
+                     "role" : "Airport Announcer (voice)"
+                  },
+                  {
+                     "role" : "Airport Security Guard (voice)",
+                     "name" : "Brian Hopkins"
+                  },
+                  {
+                     "name" : "Jules Winter",
+                     "role" : "Crying Boy / Little Boy / Boy (voice)"
+                  },
+                  {
+                     "role" : "Theodore Lindsey \"Beb\u00e9 Templeton\"",
+                     "name" : "Mario Arvizu"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Tom McGrath"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Ramsey Ann Naito"
+                  },
+                  {
+                     "name" : "Denise Nolan Cascino"
+                  }
+               ]
+            },
+            "stop" : "1522865400",
+            "episodeNum" : {
+               "themoviedb.org" : "movie/295693"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Animation",
+                  "Comedy",
+                  "Family"
+               ]
+            }
+         },
+         {
+            "start" : "1522865400",
+            "desc" : {
+               "da" : "Beretningen om en fattig indisk kontormedarbejder, der blev en af 1900-tallets helt store matematikere. Srinivasa Ramanujan havde ingen uddannelse, men et sj\u00e6lden matematisk talent, der f\u00f8rte ham fra fattigdommens Madras til universitetet i Cambridge."
+            },
+            "channel" : "hits.cmore.dk",
+            "title" : {
+               "da" : "The Man Who Knew Infinity"
+            },
+            "rating" : {
+               "stars" : "7.1 / 10"
+            },
+            "date" : "2015",
+            "country" : [
+               "GB",
+               "US"
+            ],
+            "episodeNum" : {
+               "themoviedb.org" : "movie/353326"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama"
+               ]
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/353326"
+            ],
+            "new" : "0",
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Matt Brown"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Matt Brown"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Matt Brown"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Srinivasa Ramanujan",
+                     "name" : "Dev Patel"
+                  },
+                  {
+                     "role" : "G. H. Hardy",
+                     "name" : "Jeremy Irons"
+                  },
+                  {
+                     "name" : "Toby Jones",
+                     "role" : "Littlewood"
+                  },
+                  {
+                     "name" : "Stephen Fry",
+                     "role" : "Sir Francis Spring"
+                  },
+                  {
+                     "name" : "Jeremy Northam",
+                     "role" : "Bertrand Russell"
+                  },
+                  {
+                     "name" : "Devika Bhise",
+                     "role" : "Janaki"
+                  },
+                  {
+                     "role" : "Major McMahon",
+                     "name" : "Kevin McNally"
+                  },
+                  {
+                     "role" : "Chandra Mahalanobis",
+                     "name" : "Shazad Latif"
+                  },
+                  {
+                     "name" : "Malcolm Sinclair",
+                     "role" : "Professor Cartwright"
+                  },
+                  {
+                     "name" : "Elaine Caulfield",
+                     "role" : "Hospital Nurse"
+                  },
+                  {
+                     "role" : "Doctor",
+                     "name" : "Enzo Cilenti"
+                  },
+                  {
+                     "name" : "P\u00e1draic Delaney",
+                     "role" : "Beglan"
+                  },
+                  {
+                     "name" : "Richard Cunningham",
+                     "role" : "Hobson"
+                  },
+                  {
+                     "role" : "Howard",
+                     "name" : "Anthony Calf"
+                  }
+               ]
+            },
+            "stop" : "1522872000"
+         },
+         {
+            "date" : "2006",
+            "desc" : {
+               "da" : "Tre kvinder findes myrdet og der er en ting de har til f\u00e6lles: deres ansigter er blevet opl\u00f8st med syre og gjort uigenkendelige. Det lader s\u00e5ledes til, at det er den samme gerningsmand der st\u00e5r bag drabene. Men hvor er han? Politikommiss\u00e6r Beck finder muligvis en ledetr\u00e5d p\u00e5 et af ligene..."
+            },
+            "start" : "1522872000",
+            "channel" : "hits.cmore.dk",
+            "title" : {
+               "da" : "Beck - Sista Vittnet"
+            },
+            "country" : [
+               "SE"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Thriller"
+               ]
+            },
+            "new" : "0",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Peter Haber"
+                  },
+                  {
+                     "name" : "Mikael Persbrandt"
+                  },
+                  {
+                     "name" : "Malin Birgerson"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Harald Hamrell"
+                  }
+               ]
+            },
+            "stop" : "1522878000"
+         },
+         {
+            "stop" : "1522881000",
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Movies"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 4/31 .",
+               "onscreen" : "Afsnit 5 af 31 s\u00e6son 2"
+            },
+            "subTitle" : {
+               "da" : "Samuel L Jackson"
+            },
+            "country" : [
+               "US"
+            ],
+            "date" : "2014",
+            "title" : {
+               "da" : "Close Up"
+            },
+            "desc" : {
+               "da" : "Tom Hanks, Jennifer Lopez og Denzel Washington er blandt de i alt 30 Hollywoodstjerner, der portr\u00e6tteres i denne nyproducerede dokumentarserie. Gennem interviews med venner og kolleger krydret med klassiske filmklip, f\u00e5r vi et sp\u00e6ndende indblik i skuespillerenes glamour\u00f8se liv. Del 5/31. Samuel L Jackson."
+            },
+            "channel" : "hits.cmore.dk",
+            "start" : "1522878000"
+         },
+         {
+            "rating" : {
+               "stars" : "5.8 / 10"
+            },
+            "date" : "2017",
+            "desc" : {
+               "da" : "Wilson lever en stille tilv\u00e6relse i Minneapolis. Hans hverdag er gennemsyret af en fundamental foragt for menneskeheden. Da han mister sin far til kr\u00e6ft, er han helt alene og ops\u00f8ger derfor sin ekskone Pippi, hvorefter han opdager, at han ogs\u00e5 har en teenagedatter, der blev bortadopteret efter f\u00f8dslen."
+            },
+            "start" : "1522881000",
+            "channel" : "hits.cmore.dk",
+            "title" : {
+               "da" : "Wilson"
+            },
+            "country" : [
+               "US"
+            ],
+            "episodeNum" : {
+               "themoviedb.org" : "movie/346681"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama",
+                  "Comedy"
+               ]
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/346681"
+            ],
+            "new" : "0",
+            "stop" : "1522886700",
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Jared Goldman"
+                  },
+                  {
+                     "name" : "Mary Jane Skalski"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Craig Johnson"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Daniel Clowes"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Woody Harrelson",
+                     "role" : "Wilson"
+                  },
+                  {
+                     "name" : "Laura Dern",
+                     "role" : "Pippi"
+                  },
+                  {
+                     "name" : "Isabella Amara",
+                     "role" : "Claire"
+                  },
+                  {
+                     "name" : "Judy Greer",
+                     "role" : "Shelly"
+                  },
+                  {
+                     "name" : "Cheryl Hines",
+                     "role" : "Polly"
+                  },
+                  {
+                     "name" : "Margo Martindale",
+                     "role" : "Alta"
+                  },
+                  {
+                     "role" : "Orson",
+                     "name" : "David Warshofsky"
+                  },
+                  {
+                     "name" : "Brett Gelman",
+                     "role" : "Robert"
+                  },
+                  {
+                     "role" : "Jodie",
+                     "name" : "Mary Lynn Rajskub"
+                  },
+                  {
+                     "name" : "Sandy Oian-Thomas",
+                     "role" : "Dog Lover"
+                  },
+                  {
+                     "role" : "Laptop Man",
+                     "name" : "Shaun Brown"
+                  },
+                  {
+                     "role" : "Bearded Man",
+                     "name" : "James Robert Miller"
+                  },
+                  {
+                     "role" : "Warren Kudo",
+                     "name" : "James Saito"
+                  },
+                  {
+                     "name" : "Chris Carlson",
+                     "role" : "Men's Room Man"
+                  },
+                  {
+                     "role" : "Silverwolf",
+                     "name" : "Tom Proctor"
+                  },
+                  {
+                     "role" : "Aryan Brother",
+                     "name" : "Matt Roy"
+                  },
+                  {
+                     "name" : "Bruce Bohne",
+                     "role" : "Karl"
+                  },
+                  {
+                     "name" : "Roxy Wood",
+                     "role" : "Sinammon"
+                  },
+                  {
+                     "name" : "Wade Thalberg",
+                     "role" : "Prison Guard"
+                  },
+                  {
+                     "name" : "Mason Sheehy",
+                     "role" : "Usher"
+                  },
+                  {
+                     "name" : "Katie Rose Law",
+                     "role" : "Monica"
+                  },
+                  {
+                     "role" : "Waitress",
+                     "name" : "Rachel Weber"
+                  },
+                  {
+                     "name" : "Toussaint Morrison",
+                     "role" : "Diego"
+                  },
+                  {
+                     "role" : "Commuter",
+                     "name" : "Andrew Hawtrey"
+                  },
+                  {
+                     "role" : "Attendant",
+                     "name" : "Shawn J. Hamilton"
+                  },
+                  {
+                     "name" : "Tonita Castro",
+                     "role" : "Nanny"
+                  },
+                  {
+                     "role" : "Cat Lady",
+                     "name" : "Lauren Weedman"
+                  },
+                  {
+                     "role" : "Annoying Customer",
+                     "name" : "Mark Benninghoffen"
+                  },
+                  {
+                     "name" : "Richard Ooms",
+                     "role" : "Edwin"
+                  },
+                  {
+                     "role" : "Granddaughter",
+                     "name" : "Kimora Collins"
+                  },
+                  {
+                     "role" : "Taxi Driver",
+                     "name" : "Joe Minjares"
+                  },
+                  {
+                     "role" : "Belinda",
+                     "name" : "Greta Oglesby"
+                  },
+                  {
+                     "name" : "Elizabeth Herron",
+                     "role" : "Annoying Customer"
+                  },
+                  {
+                     "name" : "Miles Strommen",
+                     "role" : "Aidan"
+                  },
+                  {
+                     "name" : "Jackson Bond",
+                     "role" : "Rocky"
+                  },
+                  {
+                     "name" : "Bill McCallum",
+                     "role" : "Will"
+                  },
+                  {
+                     "name" : "Alec George",
+                     "role" : "Cooper"
+                  },
+                  {
+                     "name" : "Nate Mooney",
+                     "role" : "Allan Coffey"
+                  },
+                  {
+                     "name" : "Paul Cram",
+                     "role" : "Piper"
+                  },
+                  {
+                     "role" : "College Kid",
+                     "name" : "Adam Farabee"
+                  },
+                  {
+                     "name" : "Peter Moore",
+                     "role" : "Mr. Cassiday"
+                  },
+                  {
+                     "name" : "Gene Larche",
+                     "role" : "Grim-Faced Con"
+                  },
+                  {
+                     "role" : "Aryan #2",
+                     "name" : "Loren Lazerine"
+                  },
+                  {
+                     "name" : "Sally Wingert",
+                     "role" : "Gertrude"
+                  }
+               ]
+            }
+         }
+      ]
+   }
+}

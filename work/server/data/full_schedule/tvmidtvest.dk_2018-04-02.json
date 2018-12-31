@@ -1,0 +1,833 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "stop" : "1522645500",
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "date" : "2015",
+            "desc" : {
+               "da" : "Jeanette Gadegaard har haft en turbulent barn- og ungdom, og allerede som ung k\u00e6mpede hun med panik- og social angst. Hun flyttes som ung fra K\u00f8benhavn til Thyholm. Her m\u00f8der hun sin mand, og bor i dag stadig i Hvidbjerg. Hun fort\u00e6ller sin historie for at hendes erfaringer som hjerneskadet kan n\u00e5 ud til flere. Foredraget var arrangeret at Midtpunktet Thyholm i 2015."
+            },
+            "start" : "1522629000",
+            "title" : {
+               "da" : "Foredrag: Om at leve med en hjerneskade"
+            }
+         },
+         {
+            "new" : null,
+            "stop" : "1522647000",
+            "start" : "1522645500",
+            "desc" : {
+               "da" : "Nyheder N\u00e6rd\u00f8dsoplevelser Kirsten M\u00f8rch-Nielsens hjerte gik i st\u00e5 under en operation. I 11 minutter var hun d\u00f8d og m\u00f8dte alle sine k\u00e6re p\u00e5 den anden side. Men hun kom tilbage til livet. I dag har hun et refugium p\u00e5 Mors."
+            },
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder og N\u00e6rd\u00f8dsoplevelser"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 7/10 .",
+               "onscreen" : "Afsnit 8 af 10"
+            },
+            "stop" : "1522648800",
+            "title" : {
+               "da" : "\u00d8-Hop"
+            },
+            "start" : "1522647000",
+            "desc" : {
+               "da" : "Denne gang bes\u00f8ger vi f\u00f8rst Or\u00f8 i Isefjorden og bes\u00f8ger blandt andre \u00f8ens store kunstner. Videre til Sejer\u00f8. Her bor vi i husb\u00e5d og ser p\u00e5 flotte jyske heste."
+            },
+            "new" : null
+         },
+         {
+            "stop" : "1522650600",
+            "episodeNum" : {
+               "xmltv_ns" : ". 1/8 .",
+               "onscreen" : "Afsnit 2 af 8"
+            },
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "start" : "1522648800",
+            "desc" : {
+               "da" : "Efter en rolig f\u00f8rste uge p\u00e5 Flyveskolen, er tempoet allerede steget og der er meget der skal l\u00e6res p\u00e5 kort tid. Eleverne skal i gang med at l\u00e6re de mange checks udenad og s\u00e5 skal de ud p\u00e5 deres f\u00f8rste tur hvis vejret tillader det."
+            },
+            "title" : {
+               "da" : "Piloteleverne"
+            }
+         },
+         {
+            "start" : "1522650600",
+            "desc" : {
+               "da" : "P\u00e5 vores rejse med det gamle skib, Nordstjernen, kommer vi helt op til Polarhavet, og bes\u00f8ger verdens nordligste by, Ny \u00c5lesund. - Og s\u00e5 tager vi hul p\u00e5 nye eventyr, som starter i Thisteds venskabsby, Skien, i det sydlige Norge."
+            },
+            "title" : {
+               "da" : "Norden Rundt i 80 dage"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7 af 14",
+               "xmltv_ns" : ". 6/14 ."
+            },
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522652400"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder og N\u00e6rd\u00f8dsoplevelser"
+            },
+            "channel" : "tvmidtvest.dk",
+            "start" : "1522652400",
+            "desc" : {
+               "da" : "Nyheder N\u00e6rd\u00f8dsoplevelser Kirsten M\u00f8rch-Nielsens hjerte gik i st\u00e5 under en operation. I 11 minutter var hun d\u00f8d og m\u00f8dte alle sine k\u00e6re p\u00e5 den anden side. Men hun kom tilbage til livet. I dag har hun et refugium p\u00e5 Mors."
+            },
+            "stop" : "1522653900",
+            "new" : null
+         },
+         {
+            "stop" : "1522655700",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8 af 10",
+               "xmltv_ns" : ". 7/10 ."
+            },
+            "new" : null,
+            "title" : {
+               "da" : "\u00d8-Hop"
+            },
+            "desc" : {
+               "da" : "Denne gang bes\u00f8ger vi f\u00f8rst Or\u00f8 i Isefjorden og bes\u00f8ger blandt andre \u00f8ens store kunstner. Videre til Sejer\u00f8. Her bor vi i husb\u00e5d og ser p\u00e5 flotte jyske heste."
+            },
+            "start" : "1522653900"
+         },
+         {
+            "start" : "1522655700",
+            "desc" : {
+               "da" : "Efter en rolig f\u00f8rste uge p\u00e5 Flyveskolen, er tempoet allerede steget og der er meget der skal l\u00e6res p\u00e5 kort tid. Eleverne skal i gang med at l\u00e6re de mange checks udenad og s\u00e5 skal de ud p\u00e5 deres f\u00f8rste tur hvis vejret tillader det."
+            },
+            "title" : {
+               "da" : "Piloteleverne"
+            },
+            "new" : null,
+            "channel" : "tvmidtvest.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 1/8 .",
+               "onscreen" : "Afsnit 2 af 8"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522657500"
+         },
+         {
+            "desc" : {
+               "da" : "P\u00e5 vores rejse med det gamle skib, Nordstjernen, kommer vi helt op til Polarhavet, og bes\u00f8ger verdens nordligste by, Ny \u00c5lesund. - Og s\u00e5 tager vi hul p\u00e5 nye eventyr, som starter i Thisteds venskabsby, Skien, i det sydlige Norge."
+            },
+            "start" : "1522657500",
+            "title" : {
+               "da" : "Norden Rundt i 80 dage"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : ". 6/14 .",
+               "onscreen" : "Afsnit 7 af 14"
+            },
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522659300"
+         },
+         {
+            "channel" : "tvmidtvest.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/8 .",
+               "onscreen" : "Afsnit 1 af 8"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522659600",
+            "desc" : {
+               "da" : "Fangstgaranti er taget p\u00e5 p\u00e5 aborrefiskeri. Fiskeriet g\u00e5r godt, men det er til geng\u00e6ld en st\u00f8rre udfordring at pille fangsten af krogen."
+            },
+            "start" : "1522659300",
+            "title" : {
+               "da" : "Fangstgaranti"
+            },
+            "new" : null
+         },
+         {
+            "desc" : {
+               "da" : "Vi f\u00f8lger naturens gang i Danmarks st\u00f8rste vildmark - Nationalpark Thy. Tilrettel\u00e6ggelse: Rigmor Sams"
+            },
+            "start" : "1522659600",
+            "title" : {
+               "da" : "Nationalpark Thy"
+            },
+            "new" : null,
+            "date" : "2018",
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522661400"
+         },
+         {
+            "date" : "2017",
+            "new" : null,
+            "title" : {
+               "da" : "Perspektiv - Det vidste du ikke om islam"
+            },
+            "desc" : {
+               "da" : "I slutningen af 1800-tallet tog anerkendte homoseksuelle forfattere til Nordafrika for at slippe for det victorianske puritanske Europa. H\u00f8r om ukendte sider af islam i ny udgave af videns-programmet Perspektiv med islamforskerne og professorerne Thomas Hoffmann og Jakob Skovgaard-Petersen."
+            },
+            "start" : "1522661400",
+            "stop" : "1522663200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk"
+         },
+         {
+            "stop" : "1522665300",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "To om tro og tvivl - Journalisten"
+            },
+            "start" : "1522663200",
+            "desc" : {
+               "da" : "Religion er en praktisk foranstaltning, mener han, der skal s\u00f8rge for at vi opf\u00f8rer os ordentligt overfor hinanden. N\u00e6stek\u00e6rligheden kom f\u00f8r kristendommen. Men religion er ogs\u00e5 kultur og tradition - s\u00e5 mens Morten Beiter boede med sin familie i Umbrien i Italien, fik han hvert \u00e5r sin bil velsignet af den lokale pr\u00e6st, som resten af landsbyen. \"To om tro og tvivl\" er en programserie p\u00e5 Mokka, hvor mennesker med udsyn og indsigt fort\u00e6ller om, hvad de tror p\u00e5 og hvad de tvivler p\u00e5. Samtalen tager udgangspunkt i det g\u00e6sten besk\u00e6ftiger sig med til dagligt, for at f\u00e5 indblik i hvilke v\u00e6rdier, hvilken tro, men ogs\u00e5 hvilken tvivl og hvilket h\u00e5b g\u00e6sten b\u00e6rer med i sit liv og sin dagligdag. M\u00f8d bl.a. en integrationskonsulent, en murer, en sygeplejerske og en antropolog i serien. V\u00e6rt er Per Bucholdt Andreasen, der er uddannet teolog, formand for pr\u00e6steforeningen og sognepr\u00e6st i Asmild og Tapdrup Sogne ved Viborg."
+            },
+            "channel" : "tvmidtvest.dk"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk",
+            "stop" : "1522667100",
+            "title" : {
+               "da" : "Spydspids for Lemvig Klimatorium"
+            },
+            "desc" : {
+               "da" : "Hvad g\u00f8r vi egentlig n\u00e5r klima\u00e6ndringerne f\u00e5r vandet til at stige i de kommende \u00e5rtier? Det sp\u00f8rgsm\u00e5l arbejder Lars N\u00f8rg\u00e5rd Holmegaard helt konkret med. Han st\u00e5r i spidsen for det fremsynede projekt, Lemvig Klimatorium."
+            },
+            "start" : "1522665300",
+            "date" : "2018",
+            "new" : null
+         },
+         {
+            "new" : null,
+            "title" : {
+               "da" : "Thy, h\u00e5b og k\u00e6rlighed"
+            },
+            "desc" : {
+               "da" : "P\u00e5 skulderen af Danmark ligger landsdelen Thy. En landsdel, der har m\u00e5ttet l\u00e6gge \u00f8re til megen snak om udkantsdanmark og r\u00e5dne bananer. Men stille og roligt \u00e6ndrer snakken sig. Nu er det hipt at bo i Thy, huspriserne stiger og b\u00f8lgerne er gode at surfe p\u00e5. I fire programmer m\u00f8der vi tilflyttere, fastboere og alle de andre, der har tre ting til f\u00e6lles: \"Thy, H\u00e5b & K\u00e6rlighed\". Tilrettel\u00e6ggelse: Jesper Bradsted"
+            },
+            "start" : "1522667100",
+            "stop" : "1522668900",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 1/4 .",
+               "onscreen" : "Afsnit 2 af 4"
+            },
+            "channel" : "tvmidtvest.dk"
+         },
+         {
+            "channel" : "tvmidtvest.dk",
+            "start" : "1522668900",
+            "desc" : {
+               "da" : "Hvordan er det at bo i ulveland, og hvad er det for oplevelser, rovdyret giver? I et lokalsamfund, har de sat ulven p\u00e5 dagsordenen. De vil have en dialog med plads til alle meninger i diskussionen om Danmarks nye rovdyr."
+            },
+            "title" : {
+               "da" : "Ulv i baghaven"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522670700"
+         },
+         {
+            "new" : null,
+            "date" : "1998",
+            "start" : "1522670700",
+            "desc" : {
+               "da" : "TV/MIDT-VEST retro giver dig alle dagens nyheder - som de var idag for 20 \u00e5r siden. Se eller gense de store og sm\u00e5 dramaer, der udspillede sig i det midt- og vestjyske for 20 \u00e5r siden."
+            },
+            "title" : {
+               "da" : "TV MIDTVEST Retro"
+            },
+            "stop" : "1522672500",
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "date" : "2017",
+            "new" : null,
+            "title" : {
+               "da" : "Foredrag: Fra salgschef til ildsj\u00e6l"
+            },
+            "desc" : {
+               "da" : "Det kr\u00e6ver mod at sige sit faste arbejde op og starte et helt ny kapitel. Den drivkraft fort\u00e6ller Lisbeth Johansen fra LittleBigHelp om i sit foredrag. Det handler om at blive kastet ud i en tilv\u00e6relse, hvor selv den mindste hj\u00e6lp g\u00f8r en stor forskel. To gange er hun blevet k\u00e5ret med titlen \"\u00c5rets Helt\", og i 2016 udgav hun bogen \"Hvad svarer du, n\u00e5r livet kalder\". Foredraget var arrangeret af Viborgegnens Erhvervsr\u00e5d i 2017."
+            },
+            "start" : "1522672500",
+            "stop" : "1522676100",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk"
+         },
+         {
+            "title" : {
+               "da" : "Metaldetektiverne: Vikingebj\u00f8rnen"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk",
+            "start" : "1522676100",
+            "stop" : "1522677900",
+            "new" : null
+         },
+         {
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522678500",
+            "start" : "1522677900",
+            "desc" : {
+               "da" : "Han er oprindelig uddannet skibst\u00f8mrer - og han skulle i hvert fald ikke p\u00e5 havet som sin far. Men det er lige pr\u00e6cist p\u00e5 gyngende grund, han er landet. Fast Arbejde er denne gang p\u00e5 bes\u00f8g p\u00e5 Rederiet Hametner i Thybor\u00f8n."
+            },
+            "title" : {
+               "da" : "Fast arbejde: Rederiet Hametner i Thybor\u00f8n"
+            },
+            "new" : null,
+            "date" : "2017"
+         },
+         {
+            "start" : "1522678500",
+            "desc" : {
+               "da" : "Marie har en barndom med en alkoholisk mor pr\u00e6get hende langt ind i voksenlivet. Nu vil hun fors\u00f8ge at hj\u00e6lpe andre voksne, der engang var barn af en misbruger."
+            },
+            "title" : {
+               "da" : "Ugens g\u00e6st: Datter af alkoholiker vil hj\u00e6lpe andre"
+            },
+            "new" : null,
+            "date" : "2018",
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522680300"
+         },
+         {
+            "date" : "2018",
+            "new" : null,
+            "title" : {
+               "da" : "Sprogblomster - det sk\u00f8nne danske sprog"
+            },
+            "desc" : {
+               "da" : "Man kan sige det samme p\u00e5 mange forskellige m\u00e5der her i Danmark. Kom med i krinkelkrogene i det danske sprog, n\u00e5r Jylland og \u00f8erne t\u00f8rner sammen i en dyst, hvor det handler om at forvirre hinanden og hj\u00e6lpe hinanden gennem junglen af lokale udtryk, slang og dialekt. De tre jyder rapper Jonny Hefty, foredragsholder Gitte Hornsh\u00f8j og l\u00e6rer Anette Karkov k\u00e6mper for hovedlandet. P\u00e5 \u00f8-holdet samles det verbale skyts af musiker Jason Svendstorp , studerende Daniel Mieritz og Entertainer Bjarne Kure. V\u00e6rt er Sussi R\u00f8mer Rasmussen"
+            },
+            "start" : "1522680300",
+            "stop" : "1522682400",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 3/12 .",
+               "onscreen" : "Afsnit 4 af 12"
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : ". 6/14 .",
+               "onscreen" : "Afsnit 7 af 14"
+            },
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522684200",
+            "desc" : {
+               "da" : "P\u00e5 vores rejse med det gamle skib, Nordstjernen, kommer vi helt op til Polarhavet, og bes\u00f8ger verdens nordligste by, Ny \u00c5lesund. - Og s\u00e5 tager vi hul p\u00e5 nye eventyr, som starter i Thisteds venskabsby, Skien, i det sydlige Norge."
+            },
+            "start" : "1522682400",
+            "title" : {
+               "da" : "Norden Rundt i 80 dage"
+            },
+            "new" : null
+         },
+         {
+            "channel" : "tvmidtvest.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8 af 10",
+               "xmltv_ns" : ". 7/10 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522686000",
+            "start" : "1522684200",
+            "desc" : {
+               "da" : "Denne gang bes\u00f8ger vi f\u00f8rst Or\u00f8 i Isefjorden og bes\u00f8ger blandt andre \u00f8ens store kunstner. Videre til Sejer\u00f8. Her bor vi i husb\u00e5d og ser p\u00e5 flotte jyske heste."
+            },
+            "title" : {
+               "da" : "\u00d8-Hop"
+            },
+            "new" : null
+         },
+         {
+            "stop" : "1522686300",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder"
+            },
+            "channel" : "tvmidtvest.dk",
+            "start" : "1522686000",
+            "desc" : {
+               "da" : "Regionale Nyheder. F\u00e5 de seneste nyheder fra Midt- og Vestjylland. - Se mere p\u00e5 www.tvmidtvest.dk"
+            }
+         },
+         {
+            "channel" : "tvmidtvest.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 1/8 .",
+               "onscreen" : "Afsnit 2 af 8"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522688100",
+            "desc" : {
+               "da" : "Efter en rolig f\u00f8rste uge p\u00e5 Flyveskolen, er tempoet allerede steget og der er meget der skal l\u00e6res p\u00e5 kort tid. Eleverne skal i gang med at l\u00e6re de mange checks udenad og s\u00e5 skal de ud p\u00e5 deres f\u00f8rste tur hvis vejret tillader det."
+            },
+            "start" : "1522686300",
+            "title" : {
+               "da" : "Piloteleverne"
+            },
+            "new" : null
+         },
+         {
+            "stop" : "1522688400",
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/8 .",
+               "onscreen" : "Afsnit 1 af 8"
+            },
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "start" : "1522688100",
+            "desc" : {
+               "da" : "Fangstgaranti er taget p\u00e5 p\u00e5 aborrefiskeri. Fiskeriet g\u00e5r godt, men det er til geng\u00e6ld en st\u00f8rre udfordring at pille fangsten af krogen."
+            },
+            "title" : {
+               "da" : "Fangstgaranti"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Nationalpark Thy"
+            },
+            "start" : "1522688400",
+            "desc" : {
+               "da" : "Vi f\u00f8lger naturens gang i Danmarks st\u00f8rste vildmark - Nationalpark Thy. Tilrettel\u00e6ggelse: Rigmor Sams"
+            },
+            "date" : "2018",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk",
+            "stop" : "1522690200"
+         },
+         {
+            "stop" : "1522691700",
+            "new" : null,
+            "title" : {
+               "da" : "Nyheder og S\u00f8ndagskaffe skaber livskvalitet"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk",
+            "desc" : {
+               "da" : "Nyheder S\u00f8ndagskaffe skaber livskvalitet I Viborg kommune er en stor gruppe frivillige g\u00e5et til kamp mod de \u00e6ldres ensomhed. Hver m\u00e5ned bliver \u00e6ldre over 75 \u00e5r inviteret p\u00e5 s\u00f8ndagskaffe til et par timers hyggeligt samv\u00e6r med hinanden."
+            },
+            "start" : "1522690200"
+         },
+         {
+            "stop" : "1522693500",
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "date" : "2018",
+            "start" : "1522691700",
+            "desc" : {
+               "da" : "Hvor mon Fotovognen ender? Vi k\u00f8rer ud et tilf\u00e6ldigt sted og m\u00f8der de folk der bor der. Denne gang ender den i Bjerregrav."
+            },
+            "title" : {
+               "da" : "Fotovognen - Bjerregrav"
+            }
+         },
+         {
+            "stop" : "1522695300",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk",
+            "date" : "2018",
+            "new" : null,
+            "title" : {
+               "da" : "Golfmagasinet - DA Masters 2018"
+            },
+            "start" : "1522693500",
+            "desc" : {
+               "da" : "Spil golf i nogenlunde samme rammer, som de professionelle. Vi er med til \u00e5rets DA Masters i Marokko. En turnering for klubgolffere fra hele Danmark."
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk",
+            "stop" : "1522697100",
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "desc" : {
+               "da" : "Det er 30 \u00e5r siden, at bandet Michael Learns To Rock blev dannet. Det fort\u00e6ller bandets trommeslager og guitarist, K\u00e5re Wanscher og Mikkel Lentz i dag Henriette Honor\u00e9 om, n\u00e5r de er dagens medv\u00e6rter. M\u00f8d ogs\u00e5 Poul Hove, der hele sit liv har dr\u00f8mt om at opdr\u00e6tte heste og nu h\u00e5ber, at en af hans hingste kan f\u00e5 ham op i international topklasse."
+            },
+            "start" : "1522695300",
+            "date" : "2018",
+            "new" : null
+         },
+         {
+            "new" : null,
+            "date" : "2018",
+            "desc" : {
+               "da" : "Man kan sige det samme p\u00e5 mange forskellige m\u00e5der her i Danmark. Kom med i krinkelkrogene i det danske sprog, n\u00e5r Jylland og \u00f8erne t\u00f8rner sammen i en dyst, hvor det handler om at forvirre hinanden og hj\u00e6lpe hinanden gennem junglen af lokale udtryk, slang og dialekt. De tre jyder rapper Jonny Hefty, foredragsholder Gitte Hornsh\u00f8j og l\u00e6rer Anette Karkov k\u00e6mper for hovedlandet. P\u00e5 \u00f8-holdet samles det verbale skyts af musiker Jason Svendstorp , studerende Daniel Mieritz og Entertainer Bjarne Kure. V\u00e6rt er Sussi R\u00f8mer Rasmussen"
+            },
+            "start" : "1522697100",
+            "title" : {
+               "da" : "Sprogblomster - det sk\u00f8nne danske sprog"
+            },
+            "stop" : "1522698900",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 af 12",
+               "xmltv_ns" : ". 3/12 ."
+            },
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "date" : "2017",
+            "new" : null,
+            "title" : {
+               "da" : "Fast arbejde: Rederiet Hametner i Thybor\u00f8n"
+            },
+            "start" : "1522698900",
+            "desc" : {
+               "da" : "Han er oprindelig uddannet skibst\u00f8mrer - og han skulle i hvert fald ikke p\u00e5 havet som sin far. Men det er lige pr\u00e6cist p\u00e5 gyngende grund, han er landet. Fast Arbejde er denne gang p\u00e5 bes\u00f8g p\u00e5 Rederiet Hametner i Thybor\u00f8n."
+            },
+            "stop" : "1522699500",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk"
+         },
+         {
+            "stop" : "1522700400",
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "date" : "2018",
+            "start" : "1522699500",
+            "desc" : {
+               "da" : "Direkte fra studiet i Aabybro byder vi p\u00e5 levende fjernsyn med n\u00e6rv\u00e6rende nordjyske reportager, aktuelle g\u00e6ster i studiet, dagens vigtigste historier fra Nordjylland og aktuelle emner til debat."
+            },
+            "title" : {
+               "da" : "Nyheder fra TV2/NORD"
+            }
+         },
+         {
+            "start" : "1522700400",
+            "desc" : {
+               "da" : "Spil golf i nogenlunde samme rammer, som de professionelle. Vi er med til \u00e5rets DA Masters i Marokko. En turnering for klubgolffere fra hele Danmark."
+            },
+            "title" : {
+               "da" : "Golfmagasinet - DA Masters 2018"
+            },
+            "new" : null,
+            "date" : "2018",
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522702200"
+         },
+         {
+            "channel" : "tvmidtvest.dk",
+            "start" : "1522702200",
+            "desc" : {
+               "da" : "Nyheder S\u00f8ndagskaffe skaber livskvalitet I Viborg kommune er en stor gruppe frivillige g\u00e5et til kamp mod de \u00e6ldres ensomhed. Hver m\u00e5ned bliver \u00e6ldre over 75 \u00e5r inviteret p\u00e5 s\u00f8ndagskaffe til et par timers hyggeligt samv\u00e6r med hinanden."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder og S\u00f8ndagskaffe skaber livskvalitet"
+            },
+            "new" : null,
+            "stop" : "1522703700"
+         },
+         {
+            "desc" : {
+               "da" : "Hvor mon Fotovognen ender? Vi k\u00f8rer ud et tilf\u00e6ldigt sted og m\u00f8der de folk der bor der. Denne gang ender den i Bjerregrav."
+            },
+            "start" : "1522703700",
+            "title" : {
+               "da" : "Fotovognen - Bjerregrav"
+            },
+            "new" : null,
+            "date" : "2018",
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522705500"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk",
+            "stop" : "1522707300",
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "desc" : {
+               "da" : "Det er 30 \u00e5r siden, at bandet Michael Learns To Rock blev dannet. Det fort\u00e6ller bandets trommeslager og guitarist, K\u00e5re Wanscher og Mikkel Lentz i dag Henriette Honor\u00e9 om, n\u00e5r de er dagens medv\u00e6rter. M\u00f8d ogs\u00e5 Poul Hove, der hele sit liv har dr\u00f8mt om at opdr\u00e6tte heste og nu h\u00e5ber, at en af hans hingste kan f\u00e5 ham op i international topklasse."
+            },
+            "start" : "1522705500",
+            "date" : "2018",
+            "new" : null
+         },
+         {
+            "stop" : "1522709100",
+            "new" : null,
+            "title" : {
+               "da" : "Metaldetektiverne: Vikingebj\u00f8rnen"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1522707300",
+            "channel" : "tvmidtvest.dk"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk",
+            "stop" : "1522712400",
+            "title" : {
+               "da" : "Foredrag: Fra salgschef til ildsj\u00e6l"
+            },
+            "desc" : {
+               "da" : "Det kr\u00e6ver mod at sige sit faste arbejde op og starte et helt ny kapitel. Den drivkraft fort\u00e6ller Lisbeth Johansen fra LittleBigHelp om i sit foredrag. Det handler om at blive kastet ud i en tilv\u00e6relse, hvor selv den mindste hj\u00e6lp g\u00f8r en stor forskel. To gange er hun blevet k\u00e5ret med titlen \"\u00c5rets Helt\", og i 2016 udgav hun bogen \"Hvad svarer du, n\u00e5r livet kalder\". Foredraget var arrangeret af Viborgegnens Erhvervsr\u00e5d i 2017."
+            },
+            "start" : "1522709100",
+            "date" : "2017",
+            "new" : null
+         },
+         {
+            "stop" : "1522716000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk",
+            "date" : "2014",
+            "new" : null,
+            "title" : {
+               "da" : "Nattv: Danish Botlling Company"
+            },
+            "start" : "1522712400",
+            "desc" : {
+               "da" : "Nat-tv bes\u00f8ger nogle af de mange Midt- og Vestjyder, der hver nat m\u00e5 m\u00f8de p\u00e5 arbejde. Nat-tv bes\u00f8ger alt fra mejeristerne til bageren og natteravnene. I nat fra Danish Botllings Company i Ikast."
+            }
+         }
+      ]
+   }
+}

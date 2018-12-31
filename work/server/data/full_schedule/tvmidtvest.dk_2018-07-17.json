@@ -1,0 +1,785 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "stop" : "1531805400",
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Nyheder Tilbage til r\u00f8dderne. Det er blevet sommer hos de fire sm\u00e5 landbrug vi f\u00f8lger. Det er nu, frugten af arbejdet skal h\u00f8stes. Honningen skal slynges, gr\u00f8ntsagerne skal h\u00f8stes og kyllingerne skal slagtes."
+            },
+            "title" : {
+               "da" : "Nyheder og Tilbage til r\u00f8dderne"
+            },
+            "start" : "1531803900",
+            "new" : null
+         },
+         {
+            "stop" : "1531807200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Tilbage til R\u00f8dderne 4"
+            },
+            "desc" : {
+               "da" : "I denne serie f\u00f8lger vi fem iv\u00e6rks\u00e6ttere, som har det til f\u00e6lles, at de alle er \u00f8kologer og har kastet sig over niche-f\u00f8devareproduktion. M\u00e5let for dem alle er gode r\u00e5varer."
+            },
+            "channel" : "tvmidtvest.dk",
+            "new" : null,
+            "start" : "1531805400"
+         },
+         {
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Sommertur"
+            },
+            "start" : "1531807200",
+            "new" : null,
+            "stop" : "1531809000",
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/4 .",
+               "onscreen" : "Afsnit 1 af 4"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "TV MIDTVEST tager temperaturen p\u00e5 sommeren i Midt- og Vestjylland. Vi bes\u00f8ger Jesperhus Feriepark p\u00e5 Mors, frilandsmuseet Hjerl Hede i Vinderup og Sandskulpturfestivalen i S\u00f8ndervig"
+            }
+         },
+         {
+            "date" : "2018",
+            "stop" : "1531810800",
+            "start" : "1531809000",
+            "new" : null,
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "channel" : "tvmidtvest.dk",
+            "desc" : {
+               "da" : "Det er tv-v\u00e6rt og ambassad\u00f8r for organisationen Organtransplantation- Ja tak, Iben Makienok, som i dag er Annemette Voss' medv\u00e6rt i S\u00e5danmark. H\u00f8r, hvorfor det at f\u00e5 danskerne til at tage stilling til organtransplantation er blevet Ibis hjertesag. Og m\u00f8d Hanne Knudsen, der for 24 \u00e5r siden fik en hjertetransplantation, hvilket bet\u00f8d, at hun har set sine b\u00f8rn vokse op. Men vi skal ogs\u00e5 p\u00e5 bes\u00f8g hos Ragnhold og Vagner Nielsen, som har drevet renseri i Br\u00e6dstrup i \u00e5rtier, men som nu siger stop for at rejse ud og opleve Danmark."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "new" : null,
+            "start" : "1531810800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk",
+            "desc" : {
+               "da" : "Nyheder Tilbage til r\u00f8dderne. Det er blevet sommer hos de fire sm\u00e5 landbrug vi f\u00f8lger. Det er nu, frugten af arbejdet skal h\u00f8stes. Honningen skal slynges, gr\u00f8ntsagerne skal h\u00f8stes og kyllingerne skal slagtes."
+            },
+            "title" : {
+               "da" : "Nyheder og Tilbage til r\u00f8dderne"
+            },
+            "stop" : "1531812300"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk",
+            "desc" : {
+               "da" : "I denne serie f\u00f8lger vi fem iv\u00e6rks\u00e6ttere, som har det til f\u00e6lles, at de alle er \u00f8kologer og har kastet sig over niche-f\u00f8devareproduktion. M\u00e5let for dem alle er gode r\u00e5varer."
+            },
+            "title" : {
+               "da" : "Tilbage til R\u00f8dderne 4"
+            },
+            "new" : null,
+            "start" : "1531812300",
+            "stop" : "1531814100"
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/4 .",
+               "onscreen" : "Afsnit 1 af 4"
+            },
+            "desc" : {
+               "da" : "TV MIDTVEST tager temperaturen p\u00e5 sommeren i Midt- og Vestjylland. Vi bes\u00f8ger Jesperhus Feriepark p\u00e5 Mors, frilandsmuseet Hjerl Hede i Vinderup og Sandskulpturfestivalen i S\u00f8ndervig"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Sommertur"
+            },
+            "channel" : "tvmidtvest.dk",
+            "start" : "1531814100",
+            "new" : null,
+            "stop" : "1531815900"
+         },
+         {
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "new" : null,
+            "start" : "1531815900",
+            "stop" : "1531818000",
+            "date" : "2018",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Det er tv-v\u00e6rt og ambassad\u00f8r for organisationen Organtransplantation- Ja tak, Iben Makienok, som i dag er Annemette Voss' medv\u00e6rt i S\u00e5danmark. H\u00f8r, hvorfor det at f\u00e5 danskerne til at tage stilling til organtransplantation er blevet Ibis hjertesag. Og m\u00f8d Hanne Knudsen, der for 24 \u00e5r siden fik en hjertetransplantation, hvilket bet\u00f8d, at hun har set sine b\u00f8rn vokse op. Men vi skal ogs\u00e5 p\u00e5 bes\u00f8g hos Ragnhold og Vagner Nielsen, som har drevet renseri i Br\u00e6dstrup i \u00e5rtier, men som nu siger stop for at rejse ud og opleve Danmark."
+            }
+         },
+         {
+            "desc" : {
+               "da" : "V\u00e6rt: Sille Roulund."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "credits" : {
+               "presenter" : [
+                  {
+                     "name" : "Sille Roulund"
+                  }
+               ]
+            },
+            "new" : null,
+            "start" : "1531818000",
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Silles hus - Alskens ut\u00f8j"
+            },
+            "date" : "2018",
+            "stop" : "1531819800"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Oplev havet og fiskerb\u00e5dene blive trukket op p\u00e5 stranden. Vorup\u00f8r en af tre tr\u00e6desten til naturen i Nationalpark Thy. Tilrettel\u00e6ggelse: Rigmor Sams"
+            },
+            "stop" : "1531821600",
+            "date" : "2018",
+            "title" : {
+               "da" : "Nationalpark Thy"
+            },
+            "channel" : "tvmidtvest.dk",
+            "new" : null,
+            "start" : "1531819800"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Under Englandskrigen kaprede sm\u00e5 danske kanonb\u00e5de store handelsskibe, langs de danske kyster. Det var ren pirateri og det er kun godt 200 \u00e5r siden. - Vigs\u00f8 kom til at spille en stor rolle og kunne med rette kaldes: Piratbugten i Thy."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/3 .",
+               "onscreen" : "Afsnit 1 af 3"
+            },
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Piraterne fra Thy"
+            },
+            "start" : "1531821600",
+            "new" : null,
+            "stop" : "1531823700"
+         },
+         {
+            "start" : "1531823700",
+            "new" : null,
+            "title" : {
+               "da" : "Berlin indefra"
+            },
+            "channel" : "tvmidtvest.dk",
+            "stop" : "1531825500",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 2",
+               "xmltv_ns" : ". 0/2 ."
+            },
+            "desc" : {
+               "da" : "Tag med rejsebranchens grand old man, Bent Erik M\u00f8ller fra Skjern p\u00e5 en sp\u00e6ndende research-rejse til efterkrigstidens Tyskland. I f\u00f8rste afsnit bl.a. Cecilienhof, hvor de allierede delte boet efter 2. Verdenskrig."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "new" : null,
+            "start" : "1531825500",
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Hypnotis\u00f8ren fra Skive - Plastikknapper"
+            },
+            "date" : "2018",
+            "stop" : "1531827300",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Frederikke Bitsch Madsen er handicaphj\u00e6lper, men er selv meget handicappet i sit job - hun er nemlig bange for plasticknapper, s\u00e5 hun er n\u00f8dt til, at ringe efter hj\u00e6lp, n\u00e5r hun skal ikl\u00e6de folk en skjorte. Se om det lykkes at kurere hende."
+            }
+         },
+         {
+            "new" : null,
+            "start" : "1531827300",
+            "desc" : {
+               "da" : "Fisken\u00f8rderne Peter og Frank fra Fangstgaranti er taget til vestkysten for at fange hornfisk. I Hvide Sande er der rift om pladserne, n\u00e5r de specielle fisk er inde, men Frank og Peter finder b\u00e5de en god plads og masser af fisk. De to fiskevenner indleder en konkurrence, og taberen m\u00e5 \"nyde\" et stykke hornfiske-sushi."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Fangstgaranti: Hornfisk i Hvide Sande"
+            },
+            "stop" : "1531829100"
+         },
+         {
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "TV MIDTVEST Retro"
+            },
+            "start" : "1531829100",
+            "new" : null,
+            "stop" : "1531830900",
+            "date" : "1998",
+            "desc" : {
+               "da" : "TV/MIDT-VEST retro giver dig alle dagens nyheder - som de var idag for 20 \u00e5r siden. Se eller gense de store og sm\u00e5 dramaer, der udspillede sig i det midt- og vestjyske for 20 \u00e5r siden."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "start" : "1531830900",
+            "new" : null,
+            "title" : {
+               "da" : "Foredrag: Storm P- mennesket og humoristen"
+            },
+            "channel" : "tvmidtvest.dk",
+            "date" : "2016",
+            "stop" : "1531834500",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "For foredragsholder Mogens Blume Schmidt har livet som pensionis betydet tid til fordybelse i udvalgte emner, herunder markante personligheder, deres baggrund, liv, gerning og forfatterskab. Storm P er en af de dem. Han beskriver ham som et hyperaktivt, morsom, velmenende og hjertevarmt menneske, der bevarede sit barnesind hele livet igennem. Storm P d\u00f8de i 1949. Foredraget var arrangeret af Viborg Domsogn i 2016."
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "I tolvte afsnit af \"De Gamle M\u00e6nd og Havet\" er rejsen n\u00e5et til sin endelige destination. De to venner l\u00e6gger til ved den dansk-tyske gr\u00e6nse og unders\u00f8ger kulturforskelle, som omr\u00e5det gemmer p\u00e5."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 11/12 .",
+               "onscreen" : "Afsnit 12 af 12"
+            },
+            "title" : {
+               "da" : "De gamle m\u00e6nd og havet"
+            },
+            "channel" : "tvmidtvest.dk",
+            "start" : "1531834500",
+            "new" : null,
+            "stop" : "1531836300"
+         },
+         {
+            "new" : null,
+            "start" : "1531836300",
+            "title" : {
+               "da" : "Fast arbejde: Thingstrup Maskinstation"
+            },
+            "channel" : "tvmidtvest.dk",
+            "date" : "2017",
+            "stop" : "1531836900",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "\u00c5rets h\u00f8st skal i hus, men august-vejret har ikke ligefrem v\u00e6ret h\u00f8stvejr. Fast Arbejde har bes\u00f8gt Thingstrup Maskinstation. Her er de ansatte klar til at give den gas, n\u00e5r kornet er t\u00f8rt."
+            }
+         },
+         {
+            "start" : "1531836900",
+            "new" : null,
+            "desc" : {
+               "da" : "Coach \"Jern\" vil bel\u00f8nne for\u00e6ldrene for deres flittige indsats med en omgang spa og wellness. Men de skal ikke hvile p\u00e5 laurb\u00e6rene, s\u00e5 han har ogs\u00e5 arrangeret en sidste test-kamp mod en velkendt modstander. Kampen vil vise, om holdet er klar til finalen."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "T\u00e6v din teenager 10:12 - Sidste test"
+            },
+            "channel" : "tvmidtvest.dk",
+            "stop" : "1531838700"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Under Englandskrigen kaprede sm\u00e5 danske kanonb\u00e5de store handelsskibe, langs de danske kyster. Det var ren pirateri og det er kun godt 200 \u00e5r siden. - Vigs\u00f8 kom til at spille en stor rolle og kunne med rette kaldes: Piratbugten i Thy."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 3",
+               "xmltv_ns" : ". 0/3 ."
+            },
+            "stop" : "1531840800",
+            "new" : null,
+            "start" : "1531838700",
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Piraterne fra Thy"
+            }
+         },
+         {
+            "date" : "2018",
+            "stop" : "1531842600",
+            "start" : "1531840800",
+            "new" : null,
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Det er tv-v\u00e6rt og ambassad\u00f8r for organisationen Organtransplantation- Ja tak, Iben Makienok, som i dag er Annemette Voss' medv\u00e6rt i S\u00e5danmark. H\u00f8r, hvorfor det at f\u00e5 danskerne til at tage stilling til organtransplantation er blevet Ibis hjertesag. Og m\u00f8d Hanne Knudsen, der for 24 \u00e5r siden fik en hjertetransplantation, hvilket bet\u00f8d, at hun har set sine b\u00f8rn vokse op. Men vi skal ogs\u00e5 p\u00e5 bes\u00f8g hos Ragnhold og Vagner Nielsen, som har drevet renseri i Br\u00e6dstrup i \u00e5rtier, men som nu siger stop for at rejse ud og opleve Danmark."
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Tilbage til R\u00f8dderne 4"
+            },
+            "desc" : {
+               "da" : "I denne serie f\u00f8lger vi fem iv\u00e6rks\u00e6ttere, som har det til f\u00e6lles, at de alle er \u00f8kologer og har kastet sig over niche-f\u00f8devareproduktion. M\u00e5let for dem alle er gode r\u00e5varer."
+            },
+            "channel" : "tvmidtvest.dk",
+            "start" : "1531842600",
+            "new" : null,
+            "stop" : "1531843800"
+         },
+         {
+            "new" : null,
+            "start" : "1531843800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder"
+            },
+            "desc" : {
+               "da" : "Regionale Nyheder. F\u00e5 de seneste nyheder fra Midt- og Vestjylland. - Se mere p\u00e5 www.tvmidtvest.dk"
+            },
+            "channel" : "tvmidtvest.dk",
+            "stop" : "1531844700"
+         },
+         {
+            "stop" : "1531846800",
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Sommertur"
+            },
+            "start" : "1531844700",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "TV MIDTVEST tager temperaturen p\u00e5 sommeren i Midt- og Vestjylland. Vi bes\u00f8ger Jesperhus Feriepark p\u00e5 Mors, frilandsmuseet Hjerl Hede i Vinderup og Sandskulpturfestivalen i S\u00f8ndervig"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/4 .",
+               "onscreen" : "Afsnit 1 af 4"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Silles hus - Alskens ut\u00f8j"
+            },
+            "channel" : "tvmidtvest.dk",
+            "start" : "1531846800",
+            "new" : null,
+            "credits" : {
+               "presenter" : [
+                  {
+                     "name" : "Sille Roulund"
+                  }
+               ]
+            },
+            "stop" : "1531848600",
+            "date" : "2018",
+            "desc" : {
+               "da" : "V\u00e6rt: Sille Roulund."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "stop" : "1531850100",
+            "start" : "1531848600",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder og S\u00f8vnabn\u00f8 en folkesygdom (G)"
+            },
+            "desc" : {
+               "da" : "Nyheder S\u00f8vnabn\u00f8 en folkesygdom (G). S\u00f8vnapn\u00f8 er blevet en folkesygdom. Det sk\u00f8nnes, at cirka 300.000 danskere lider af sygdommen, og langt de fleste er m\u00e6nd. Vi har m\u00f8dt \u00e9n af dem."
+            },
+            "channel" : "tvmidtvest.dk"
+         },
+         {
+            "stop" : "1531851900",
+            "date" : "2017",
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Mit K\u00e6reste Eje - Balle Borgerhus"
+            },
+            "start" : "1531850100",
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 3",
+               "xmltv_ns" : ". 1/3 ."
+            },
+            "desc" : {
+               "da" : "En meget smuk dolk fra stenalderen dukker frem, n\u00e5r Mit K\u00e6reste Eje bes\u00f8ger Balle Borgerhus. Og der g\u00f8res store \u00f8jne, da en gammel violin af m\u00e6rket Stradivarius kommer p\u00e5 bordet. Om den er lige s\u00e5 \u00e6gte som stendolken, bliver vi klogere p\u00e5 i programmet."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "start" : "1531851900",
+            "new" : null,
+            "title" : {
+               "da" : "Er der Nogen ? St\u00f8vringgaard"
+            },
+            "channel" : "tvmidtvest.dk",
+            "date" : "2017",
+            "stop" : "1531853700",
+            "desc" : {
+               "da" : "I programserien \"Er der nogen?\" fors\u00f8ger vi at finde ud af, om der virkelig findes sp\u00f8gelser. Sp\u00f8gelsesj\u00e6gerne Mikkel Egelund og Nicolai Sund unders\u00f8ger sagn, myter og historie, samt tilbringer en nat p\u00e5 stedet for at dokumentere, om der er nogen i m\u00f8rket. Denne gang fra St\u00f8vringgaard Kloster. Tilrettel\u00e6ggelse: Tommy Hald"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Ibi Makienok er tilbage som Annemette Voss' medv\u00e6rt, og i dag skal vi se, om det lykkedes en hypnotis\u00f8r at f\u00e5 reporteren Anders Toft Bro til ikke l\u00e6ngere at v\u00e6re bange for hunde. Vi skal ogs\u00e5 m\u00f8de mor og s\u00f8n, som tr\u00e6ner til Royal Run i maj og to veninder, som skal til VM i issv\u00f8mning."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "date" : "2018",
+            "stop" : "1531855500",
+            "new" : null,
+            "start" : "1531853700",
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "channel" : "tvmidtvest.dk"
+         },
+         {
+            "stop" : "1531857300",
+            "start" : "1531855500",
+            "new" : null,
+            "title" : {
+               "da" : "Piraterne fra Thy"
+            },
+            "channel" : "tvmidtvest.dk",
+            "desc" : {
+               "da" : "Under Englandskrigen kaprede sm\u00e5 danske kanonb\u00e5de store handelsskibe, langs de danske kyster. Det var ren pirateri og det er kun godt 200 \u00e5r siden. - Vigs\u00f8 kom til at spille en stor rolle og kunne med rette kaldes: Piratbugten i Thy."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 3",
+               "xmltv_ns" : ". 0/3 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "title" : {
+               "da" : "Fast arbejde: Thingstrup Maskinstation"
+            },
+            "channel" : "tvmidtvest.dk",
+            "start" : "1531857300",
+            "new" : null,
+            "stop" : "1531857900",
+            "date" : "2017",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "\u00c5rets h\u00f8st skal i hus, men august-vejret har ikke ligefrem v\u00e6ret h\u00f8stvejr. Fast Arbejde har bes\u00f8gt Thingstrup Maskinstation. Her er de ansatte klar til at give den gas, n\u00e5r kornet er t\u00f8rt."
+            }
+         },
+         {
+            "title" : {
+               "da" : "Nyheder fra TV2/NORD"
+            },
+            "channel" : "tvmidtvest.dk",
+            "new" : null,
+            "start" : "1531857900",
+            "stop" : "1531859340",
+            "date" : "2018",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Direkte fra studiet i Aabybro byder vi p\u00e5 levende fjernsyn med n\u00e6rv\u00e6rende nordjyske reportager, aktuelle g\u00e6ster i studiet, dagens vigtigste historier fra Nordjylland og aktuelle emner til debat."
+            }
+         },
+         {
+            "stop" : "1531859700",
+            "start" : "1531859340",
+            "new" : null,
+            "desc" : {
+               "da" : "De sene regionale nyheder. F\u00e5 et overblik over det seneste nye fra Midt- og Vestjylland."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder"
+            },
+            "channel" : "tvmidtvest.dk"
+         },
+         {
+            "date" : "2017",
+            "stop" : "1531861500",
+            "start" : "1531859700",
+            "new" : null,
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Er der Nogen ? St\u00f8vringgaard"
+            },
+            "desc" : {
+               "da" : "I programserien \"Er der nogen?\" fors\u00f8ger vi at finde ud af, om der virkelig findes sp\u00f8gelser. Sp\u00f8gelsesj\u00e6gerne Mikkel Egelund og Nicolai Sund unders\u00f8ger sagn, myter og historie, samt tilbringer en nat p\u00e5 stedet for at dokumentere, om der er nogen i m\u00f8rket. Denne gang fra St\u00f8vringgaard Kloster. Tilrettel\u00e6ggelse: Tommy Hald"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "stop" : "1531863000",
+            "desc" : {
+               "da" : "Nyheder S\u00f8vnabn\u00f8 en folkesygdom (G). S\u00f8vnapn\u00f8 er blevet en folkesygdom. Det sk\u00f8nnes, at cirka 300.000 danskere lider af sygdommen, og langt de fleste er m\u00e6nd. Vi har m\u00f8dt \u00e9n af dem."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Nyheder og S\u00f8vnabn\u00f8 en folkesygdom (G)"
+            },
+            "new" : null,
+            "start" : "1531861500"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "En meget smuk dolk fra stenalderen dukker frem, n\u00e5r Mit K\u00e6reste Eje bes\u00f8ger Balle Borgerhus. Og der g\u00f8res store \u00f8jne, da en gammel violin af m\u00e6rket Stradivarius kommer p\u00e5 bordet. Om den er lige s\u00e5 \u00e6gte som stendolken, bliver vi klogere p\u00e5 i programmet."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 3",
+               "xmltv_ns" : ". 1/3 ."
+            },
+            "start" : "1531863000",
+            "new" : null,
+            "title" : {
+               "da" : "Mit K\u00e6reste Eje - Balle Borgerhus"
+            },
+            "channel" : "tvmidtvest.dk",
+            "date" : "2017",
+            "stop" : "1531864800"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Ibi Makienok er tilbage som Annemette Voss' medv\u00e6rt, og i dag skal vi se, om det lykkedes en hypnotis\u00f8r at f\u00e5 reporteren Anders Toft Bro til ikke l\u00e6ngere at v\u00e6re bange for hunde. Vi skal ogs\u00e5 m\u00f8de mor og s\u00f8n, som tr\u00e6ner til Royal Run i maj og to veninder, som skal til VM i issv\u00f8mning."
+            },
+            "stop" : "1531866600",
+            "date" : "2018",
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "new" : null,
+            "start" : "1531864800"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "I tolvte afsnit af \"De Gamle M\u00e6nd og Havet\" er rejsen n\u00e5et til sin endelige destination. De to venner l\u00e6gger til ved den dansk-tyske gr\u00e6nse og unders\u00f8ger kulturforskelle, som omr\u00e5det gemmer p\u00e5."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 11/12 .",
+               "onscreen" : "Afsnit 12 af 12"
+            },
+            "stop" : "1531868400",
+            "new" : null,
+            "start" : "1531866600",
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "De gamle m\u00e6nd og havet"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "For foredragsholder Mogens Blume Schmidt har livet som pensionis betydet tid til fordybelse i udvalgte emner, herunder markante personligheder, deres baggrund, liv, gerning og forfatterskab. Storm P er en af de dem. Han beskriver ham som et hyperaktivt, morsom, velmenende og hjertevarmt menneske, der bevarede sit barnesind hele livet igennem. Storm P d\u00f8de i 1949. Foredraget var arrangeret af Viborg Domsogn i 2016."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1531868400",
+            "new" : null,
+            "title" : {
+               "da" : "Foredrag: Storm P- mennesket og humoristen"
+            },
+            "channel" : "tvmidtvest.dk",
+            "date" : "2016",
+            "stop" : "1531872000"
+         }
+      ]
+   }
+}

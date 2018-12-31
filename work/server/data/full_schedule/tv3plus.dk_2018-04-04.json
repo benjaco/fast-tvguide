@@ -1,0 +1,2070 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "stop" : "1522804200",
+            "channel" : "tv3plus.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 75 s\u00e6son 4",
+               "xmltv_ns" : "3 . 74 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy",
+                  "Talkshow"
+               ]
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2017",
+            "desc" : {
+               "da" : "James Corden har bes\u00f8g af Tony Hale og Jason Schwartzman."
+            },
+            "start" : "1522800900",
+            "title" : {
+               "da" : "The Late Late show with James Corden"
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 10/22 .",
+               "onscreen" : "Afsnit 11 af 22 s\u00e6son 4"
+            },
+            "channel" : "tv3plus.dk",
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy",
+                  "Crime"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Stephanie Beatriz",
+                     "role" : "Rosa Diaz"
+                  },
+                  {
+                     "name" : "Andre Braugher",
+                     "role" : "Captain Ray Holt"
+                  },
+                  {
+                     "role" : "Amy Santiago",
+                     "name" : "Melissa Fumero"
+                  },
+                  {
+                     "role" : "Charles Boyle",
+                     "name" : "Joe Lo Truglio"
+                  },
+                  {
+                     "name" : "Andy Samberg",
+                     "role" : "Jake Peralta"
+                  },
+                  {
+                     "name" : "Terry Crews",
+                     "role" : "Terry Jeffords"
+                  },
+                  {
+                     "role" : "Gina Linetti",
+                     "name" : "Chelsea Peretti"
+                  },
+                  {
+                     "role" : "Michael Hitchcock",
+                     "name" : "Dirk Blocker"
+                  },
+                  {
+                     "role" : "Norman \"Norm\" Scully",
+                     "name" : "Joel McKinnon Miller"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Michael McDonald"
+                  },
+                  {
+                     "name" : "Trent O'Donnell"
+                  },
+                  {
+                     "name" : "Payman Benz"
+                  }
+               ]
+            },
+            "stop" : "1522805700",
+            "subTitle" : {
+               "da" : "The Fugitive, Part 1"
+            },
+            "desc" : {
+               "da" : "Flere fanger flygter fra et salatfad og hele holdet m\u00e5 p\u00e5 menneskejagt i hele Brooklyn. Marshawn Lynch er eneste \u00f8jenvidne. Jake og Amy laver et v\u00e6ddem\u00e5l om hvem af dem der fanger flest af de flygtende fanger."
+            },
+            "start" : "1522804200",
+            "title" : {
+               "da" : "Brooklyn Nine -Nine"
+            },
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/48891/season/4/episode/11"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2017"
+         },
+         {
+            "channel" : "tv3plus.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 11/22 .",
+               "onscreen" : "Afsnit 12 af 22 s\u00e6son 4"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy",
+                  "Crime"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Stephanie Beatriz",
+                     "role" : "Rosa Diaz"
+                  },
+                  {
+                     "role" : "Captain Ray Holt",
+                     "name" : "Andre Braugher"
+                  },
+                  {
+                     "name" : "Melissa Fumero",
+                     "role" : "Amy Santiago"
+                  },
+                  {
+                     "name" : "Joe Lo Truglio",
+                     "role" : "Charles Boyle"
+                  },
+                  {
+                     "name" : "Andy Samberg",
+                     "role" : "Jake Peralta"
+                  },
+                  {
+                     "role" : "Terry Jeffords",
+                     "name" : "Terry Crews"
+                  },
+                  {
+                     "role" : "Gina Linetti",
+                     "name" : "Chelsea Peretti"
+                  },
+                  {
+                     "role" : "Michael Hitchcock",
+                     "name" : "Dirk Blocker"
+                  },
+                  {
+                     "name" : "Joel McKinnon Miller",
+                     "role" : "Norman \"Norm\" Scully"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Michael McDonald"
+                  },
+                  {
+                     "name" : "Trent O'Donnell"
+                  },
+                  {
+                     "name" : "Payman Benz"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "The Fugitive, Part 2"
+            },
+            "stop" : "1522807200",
+            "start" : "1522805700",
+            "desc" : {
+               "da" : "Jake indskriver en overraskende allieret, for at f\u00e5 fingrene i den sidste flugtfange."
+            },
+            "title" : {
+               "da" : "Brooklyn Nine -Nine"
+            },
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/48891/season/4/episode/12"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2017"
+         },
+         {
+            "start" : "1522807200",
+            "desc" : {
+               "da" : "Alan p\u00e5tager sig opgaven at hj\u00e6lpe Walden med at beholde Louis, efter sagsbehandleren opdager, at Alan og Walden ikke er et homoseksuelt par."
+            },
+            "title" : {
+               "da" : "Two and a Half Men"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/2691/season/12/episode/10"
+            ],
+            "new" : null,
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2015",
+            "channel" : "tv3plus.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "11 . 9/16 .",
+               "onscreen" : "Afsnit 10 af 16 s\u00e6son 12"
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Charlie Sheen",
+                     "role" : "Charlie Harper"
+                  },
+                  {
+                     "name" : "Jon Cryer",
+                     "role" : "Alan Harper"
+                  },
+                  {
+                     "name" : "Marin Hinkle",
+                     "role" : "Judith Harper"
+                  },
+                  {
+                     "role" : "Evelyn Harper",
+                     "name" : "Holland Taylor"
+                  },
+                  {
+                     "name" : "Angus T. Jones",
+                     "role" : "Jake Harper"
+                  },
+                  {
+                     "role" : "Berta",
+                     "name" : "Conchata Ferrell"
+                  },
+                  {
+                     "role" : "Rose",
+                     "name" : "Melanie Lynskey"
+                  },
+                  {
+                     "role" : "Walden Schmidt",
+                     "name" : "Ashton Kutcher"
+                  },
+                  {
+                     "name" : "Amber Tamblyn",
+                     "role" : "Jenny"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Here I Come, Pants!"
+            },
+            "stop" : "1522808700"
+         },
+         {
+            "date" : "2015",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/47640/season/2/episode/2"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "The Strain"
+            },
+            "desc" : {
+               "da" : "Vet og Dutch kommer t\u00e6ttere p\u00e5 hinanden under en mission, der skal s\u00f8rge for at nabobygningerne er sikre.Eph og Nora udf\u00f8rer eksperimenter p\u00e5 deres nye patienter, og Kelly begynder at lede efter Zack."
+            },
+            "start" : "1522808700",
+            "subTitle" : {
+               "da" : "By Any Means"
+            },
+            "stop" : "1522811700",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Sci-Fi",
+                  "Drama",
+                  "Mystery"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Corey Stoll",
+                     "role" : "Dr. Ephraim Goodweather"
+                  },
+                  {
+                     "name" : "David Bradley",
+                     "role" : "Professor Abraham Setrakian"
+                  },
+                  {
+                     "role" : "Vasiliy Fet",
+                     "name" : "Kevin Durand"
+                  },
+                  {
+                     "name" : "M\u00eda Maestro",
+                     "role" : "Dr. Nora Martinez"
+                  },
+                  {
+                     "name" : "Jonathan Hyde",
+                     "role" : "Eldritch Palmer"
+                  },
+                  {
+                     "name" : "Richard Sammel",
+                     "role" : "Thomas Eichorst"
+                  },
+                  {
+                     "role" : "Angel Guzman Hurtado",
+                     "name" : "Joaqu\u00edn Cosio"
+                  },
+                  {
+                     "role" : "Augustin 'Gus' Elizalde",
+                     "name" : "Miguel Gomez"
+                  },
+                  {
+                     "role" : "Zach Goodweather",
+                     "name" : "Max Charles"
+                  }
+               ]
+            },
+            "channel" : "tv3plus.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 13 s\u00e6son 2",
+               "xmltv_ns" : "1 . 1/13 ."
+            }
+         },
+         {
+            "title" : {
+               "da" : "Crisis"
+            },
+            "desc" : {
+               "da" : "Gibson bruger sin kone Janice til at f\u00e5 adgang til tophemmelig CIA-information. Dunn og Finley tager ogs\u00e5 drastiske midler i brug for at f\u00e5 information og ender med selv at blive m\u00e5l for CIA. Samtidig fors\u00f8ger Meg at finde ud af, hvilken forbindelse hendes firma har til kidnapningen."
+            },
+            "start" : "1522811700",
+            "date" : "2014",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/50558/season/1/episode/5"
+            ],
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Far Shariat"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Christine Moore"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Beth Ann Gibson",
+                     "name" : "Stevie Lynn Jones"
+                  },
+                  {
+                     "role" : "Ian Martinez",
+                     "name" : "Max Schneider"
+                  },
+                  {
+                     "role" : "Amber Fitch",
+                     "name" : "Halston Sage"
+                  },
+                  {
+                     "role" : "Koz",
+                     "name" : "Max Martini"
+                  },
+                  {
+                     "role" : "Anton Roth",
+                     "name" : "Joshua Erenberg"
+                  },
+                  {
+                     "role" : "Mr. Nash",
+                     "name" : "James Lafferty"
+                  },
+                  {
+                     "name" : "Dermot Mulroney",
+                     "role" : "Francis Gibson"
+                  },
+                  {
+                     "role" : "Agent Marcus Finley",
+                     "name" : "Lance Gross"
+                  },
+                  {
+                     "role" : "FBI Director Olsen",
+                     "name" : "Michael Beach"
+                  },
+                  {
+                     "role" : "Meg Fitch",
+                     "name" : "Gillian Anderson"
+                  },
+                  {
+                     "role" : "Agent Susie Dunn",
+                     "name" : "Rachael Taylor"
+                  },
+                  {
+                     "name" : "Samuel Taylor",
+                     "role" : "American soldier/Dennis Thayer"
+                  },
+                  {
+                     "name" : "Samuel Taylor",
+                     "role" : "Dennis Thayer / American Soldier"
+                  },
+                  {
+                     "role" : "Jonas Clarenbach",
+                     "name" : "Rod Hallett"
+                  },
+                  {
+                     "name" : "Annie Munch",
+                     "role" : "Sharlene Wirth"
+                  },
+                  {
+                     "role" : "CIA Director Widener",
+                     "name" : "Mark Valley"
+                  },
+                  {
+                     "role" : "Communications Gunwoman",
+                     "name" : "Jessica Dean Turner"
+                  },
+                  {
+                     "name" : "David Chisum",
+                     "role" : "husband of Meg Fitch"
+                  },
+                  {
+                     "name" : "Adam Scott Miller",
+                     "role" : "Kyle Devore"
+                  },
+                  {
+                     "name" : "Rammel Chan",
+                     "role" : "Jin Liao"
+                  },
+                  {
+                     "role" : "Luke Putnam",
+                     "name" : "Brandon Ruiter"
+                  },
+                  {
+                     "name" : "Rebecca Spence",
+                     "role" : "Janice Gibson"
+                  },
+                  {
+                     "role" : "Agent Hurst",
+                     "name" : "David Andrews"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Mystery"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 af 13 s\u00e6son 1",
+               "xmltv_ns" : "0 . 4/13 ."
+            },
+            "channel" : "tv3plus.dk",
+            "stop" : "1522814340",
+            "subTitle" : {
+               "da" : "Designated Allies"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2016",
+            "url" : [
+               "https://www.themoviedb.org/tv/18165/season/7/episode/13"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "The Vampire Diaries"
+            },
+            "desc" : {
+               "da" : "Vampyrj\u00e6geren Rayna Cruz er p\u00e5 f\u00e6rde igen og Damon er n\u00f8dt til at rette op p\u00e5 tingene, da hans handlinger uforvarende kommer til at s\u00e6tte hende p\u00e5 sporet af dem, han elsker."
+            },
+            "start" : "1522814400",
+            "stop" : "1522816800",
+            "subTitle" : {
+               "da" : "This Woman's Work"
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Fantasy",
+                  "Horror",
+                  "Romance",
+                  "Thriller"
+               ]
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Chad Fiveash"
+                  },
+                  {
+                     "name" : "James Stoteraux"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Elena Gilbert",
+                     "name" : "Nina Dobrev"
+                  },
+                  {
+                     "name" : "Zach Roerig",
+                     "role" : "Matt Donovan"
+                  },
+                  {
+                     "name" : "Matthew Davis",
+                     "role" : "Alaric Saltzman"
+                  },
+                  {
+                     "name" : "Michael Malarkey",
+                     "role" : "Enzo"
+                  },
+                  {
+                     "name" : "Ian Somerhalder",
+                     "role" : "Damon Salvatore"
+                  },
+                  {
+                     "name" : "Candice King",
+                     "role" : "Caroline Forbes"
+                  },
+                  {
+                     "role" : "Stefan Salvatore",
+                     "name" : "Paul Wesley"
+                  },
+                  {
+                     "name" : "Kat Graham",
+                     "role" : "Bonnie Bennett"
+                  },
+                  {
+                     "role" : "Vicente",
+                     "name" : "Gerardo Davila"
+                  },
+                  {
+                     "role" : "Toddler Lizzie",
+                     "name" : "Tierney Mumford"
+                  },
+                  {
+                     "role" : "Surgeon",
+                     "name" : "Cynthia Evans"
+                  },
+                  {
+                     "name" : "Alex Mauriello",
+                     "role" : "Krystal"
+                  },
+                  {
+                     "role" : "Rayna Cruz",
+                     "name" : "Leslie-Anne Huff"
+                  },
+                  {
+                     "role" : "Beau",
+                     "name" : "Jaiden Kaine"
+                  },
+                  {
+                     "role" : "Julian",
+                     "name" : "Todd Lasance"
+                  },
+                  {
+                     "name" : "Elizabeth Blackmore",
+                     "role" : "Valerie Tulle"
+                  },
+                  {
+                     "role" : "Nora Hildegard",
+                     "name" : "Scarlett Byrne"
+                  },
+                  {
+                     "name" : "Teressa Liane",
+                     "role" : "Mary Louise"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Garreth Stover"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "6 . 12/22 .",
+               "onscreen" : "Afsnit 13 af 22 s\u00e6son 7"
+            },
+            "channel" : "tv3plus.dk"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2016",
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/61692/season/2/episode/16"
+            ],
+            "title" : {
+               "da" : "Fresh Off the Boat"
+            },
+            "desc" : {
+               "da" : "Louis vil rigtig gerne se sig selv som en sjov far, men efter et uheld tvinger ham til at v\u00e6re hjemme ved drengene, m\u00e5 han ned og skrabe bunden for at blive ved med at finde p\u00e5 noget, der kan underholde ungerne."
+            },
+            "start" : "1522816800",
+            "stop" : "1522818300",
+            "subTitle" : {
+               "da" : "Tight Two"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Jessica Huang",
+                     "name" : "Constance Wu"
+                  },
+                  {
+                     "name" : "Randall Park",
+                     "role" : "Louis Huang"
+                  },
+                  {
+                     "name" : "Hudson Yang",
+                     "role" : "Eddie Huang"
+                  },
+                  {
+                     "name" : "Forrest Wheeler",
+                     "role" : "Emery Huang"
+                  },
+                  {
+                     "name" : "Ian Chen",
+                     "role" : "Evan Huang"
+                  },
+                  {
+                     "name" : "Lucille Soong",
+                     "role" : "Grandma Huang"
+                  },
+                  {
+                     "name" : "Chelsey Crisp",
+                     "role" : "Honey"
+                  }
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 16 af 24 s\u00e6son 2",
+               "xmltv_ns" : "1 . 15/24 ."
+            },
+            "channel" : "tv3plus.dk"
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 17 af 24 s\u00e6son 2",
+               "xmltv_ns" : "1 . 16/24 ."
+            },
+            "channel" : "tv3plus.dk",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Jessica Huang",
+                     "name" : "Constance Wu"
+                  },
+                  {
+                     "name" : "Randall Park",
+                     "role" : "Louis Huang"
+                  },
+                  {
+                     "role" : "Eddie Huang",
+                     "name" : "Hudson Yang"
+                  },
+                  {
+                     "name" : "Forrest Wheeler",
+                     "role" : "Emery Huang"
+                  },
+                  {
+                     "role" : "Evan Huang",
+                     "name" : "Ian Chen"
+                  },
+                  {
+                     "name" : "Lucille Soong",
+                     "role" : "Grandma Huang"
+                  },
+                  {
+                     "role" : "Honey",
+                     "name" : "Chelsey Crisp"
+                  }
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "stop" : "1522819800",
+            "subTitle" : {
+               "da" : "Doing It Right"
+            },
+            "start" : "1522818300",
+            "desc" : {
+               "da" : "Jessica kommer op og toppes med en anden mor, og bliver bekymret over at hun m\u00e5ske er \u00e5rsagen til at Evan ikke er inviteret til sin bedste vens f\u00f8dselsdag."
+            },
+            "title" : {
+               "da" : "Fresh Off the Boat"
+            },
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/61692/season/2/episode/17"
+            ],
+            "date" : "2016",
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 af 7 s\u00e6son 1",
+               "xmltv_ns" : "0 . 3/7 ."
+            },
+            "channel" : "tv3plus.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Linda Videtti Figueiredo"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Ted Wass"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Jeff Bingham",
+                     "name" : "Patrick Warburton"
+                  },
+                  {
+                     "name" : "Megyn Price",
+                     "role" : "Audrey Bingham"
+                  },
+                  {
+                     "role" : "Adam Rhodes",
+                     "name" : "Oliver Hudson"
+                  },
+                  {
+                     "role" : "Jennifer Morgan",
+                     "name" : "Bianca Kajlich"
+                  },
+                  {
+                     "name" : "David Spade",
+                     "role" : "Russell Dunbar"
+                  },
+                  {
+                     "name" : "Tammin Sursok"
+                  }
+               ]
+            },
+            "stop" : "1522821600",
+            "subTitle" : {
+               "da" : "Game On"
+            },
+            "start" : "1522819800",
+            "desc" : {
+               "da" : "Jeff bliver flov, da Jennifer masserer hans nakke og han bliver synligt begejstret. Russell fors\u00f8ger at flirte med en l\u00e6rer, men bliver forstyrret af en lille mobber."
+            },
+            "title" : {
+               "da" : "Knas i K\u00e6rligheden"
+            },
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/2755/season/1/episode/4"
+            ],
+            "date" : "2007",
+            "video" : {
+               "aspect" : "4:3"
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 af 7 s\u00e6son 1",
+               "xmltv_ns" : "0 . 4/7 ."
+            },
+            "channel" : "tv3plus.dk",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Patrick Warburton",
+                     "role" : "Jeff Bingham"
+                  },
+                  {
+                     "name" : "Megyn Price",
+                     "role" : "Audrey Bingham"
+                  },
+                  {
+                     "role" : "Adam Rhodes",
+                     "name" : "Oliver Hudson"
+                  },
+                  {
+                     "role" : "Jennifer Morgan",
+                     "name" : "Bianca Kajlich"
+                  },
+                  {
+                     "role" : "Russell Dunbar",
+                     "name" : "David Spade"
+                  },
+                  {
+                     "name" : "Jessica Walter"
+                  },
+                  {
+                     "name" : "Richard McGonagle"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Ted Wass"
+                  }
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "stop" : "1522823100",
+            "subTitle" : {
+               "da" : "Kids"
+            },
+            "desc" : {
+               "da" : "Adam og Jennifer planl\u00e6gger en romantisk weekendtur, men et sk\u00e6nderi om deres fremtid, afsporer planerne. Russell m\u00f8der en \u00e6ldre kvinde, han var i seng med p\u00e5 sin 18 \u00e5rs f\u00f8dselsdag, og det f\u00e5r ham til at planl\u00e6gge at gentage successen selvom hun nu er 60. Jeff og Audrey snakker om at f\u00e5 b\u00f8rn."
+            },
+            "start" : "1522821600",
+            "title" : {
+               "da" : "Knas i K\u00e6rligheden"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/2755/season/1/episode/5"
+            ],
+            "new" : null,
+            "date" : "2007",
+            "video" : {
+               "aspect" : "4:3"
+            }
+         },
+         {
+            "stop" : "1522826100",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy",
+                  "Talkshow"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 75 .",
+               "onscreen" : "Afsnit 76 s\u00e6son 4"
+            },
+            "channel" : "tv3plus.dk",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2017",
+            "new" : null,
+            "title" : {
+               "da" : "The Late Late show with James Corden"
+            },
+            "start" : "1522823100",
+            "desc" : {
+               "da" : "James taler med Alicia Vikander og Walton Goggins. Senere optr\u00e6der James Blunt"
+            }
+         },
+         {
+            "url" : [
+               "https://www.themoviedb.org/tv/1100/season/5/episode/3"
+            ],
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2009",
+            "start" : "1522826100",
+            "desc" : {
+               "da" : "Robin frygter, at Barney hende utro, men til hendes lettelse, opdager hun, at tilbringer alle sine aftener med at f\u00e5 gode r\u00e5d fra Ted om, hvordan han skal behandle hende."
+            },
+            "title" : {
+               "da" : "How I Met Your Mother"
+            },
+            "subTitle" : {
+               "da" : "Robin 101"
+            },
+            "stop" : "1522828200",
+            "channel" : "tv3plus.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "4 . 2/24 .",
+               "onscreen" : "Afsnit 3 af 24 s\u00e6son 5"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Lily Aldrin",
+                     "name" : "Alyson Hannigan"
+                  },
+                  {
+                     "role" : "Marshall Eriksen",
+                     "name" : "Jason Segel"
+                  },
+                  {
+                     "role" : "Robin Scherbatsky",
+                     "name" : "Cobie Smulders"
+                  },
+                  {
+                     "name" : "Neil Patrick Harris",
+                     "role" : "Barney Stinson"
+                  },
+                  {
+                     "role" : "Ted Mosby",
+                     "name" : "Josh Radnor"
+                  },
+                  {
+                     "role" : "College Girl",
+                     "name" : "Sophie Simpson"
+                  },
+                  {
+                     "name" : "David Henrie",
+                     "role" : "Luke Mosby"
+                  },
+                  {
+                     "name" : "Lyndsy Fonseca",
+                     "role" : "Penny Mosby"
+                  },
+                  {
+                     "name" : "Olga Fonda",
+                     "role" : "Candy"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Pamela Fryman"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Kourtney Kang"
+                  },
+                  {
+                     "name" : "Craig Thomas"
+                  },
+                  {
+                     "name" : "Carter Bays"
+                  }
+               ]
+            }
+         },
+         {
+            "channel" : "tv3plus.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 af 24 s\u00e6son 5",
+               "xmltv_ns" : "4 . 3/24 ."
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Craig Thomas"
+                  },
+                  {
+                     "name" : "Carter Bays"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Pamela Fryman"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Lily Aldrin",
+                     "name" : "Alyson Hannigan"
+                  },
+                  {
+                     "name" : "Jason Segel",
+                     "role" : "Marshall Eriksen"
+                  },
+                  {
+                     "name" : "Cobie Smulders",
+                     "role" : "Robin Scherbatsky"
+                  },
+                  {
+                     "role" : "Barney Stinson",
+                     "name" : "Neil Patrick Harris"
+                  },
+                  {
+                     "name" : "Josh Radnor",
+                     "role" : "Ted Mosby"
+                  },
+                  {
+                     "name" : "Marshall Manesh",
+                     "role" : "Ranjit"
+                  },
+                  {
+                     "name" : "Julianna Guill"
+                  },
+                  {
+                     "name" : "Sarah Edwards"
+                  }
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "subTitle" : {
+               "da" : "The Sexless Innkeeper"
+            },
+            "stop" : "1522829700",
+            "desc" : {
+               "da" : "Da Lily og Marshall opdager, at Robin og Barney er det perfekte par til en dobbelt-date, g\u00f8r de alt, hvad de kan for at imponere dem. Dog bliver det for meget af det gode og Robin og Barney tvinges til at 'sl\u00e5 op' med dem."
+            },
+            "start" : "1522828200",
+            "title" : {
+               "da" : "How I Met Your Mother"
+            },
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/1100/season/5/episode/4"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2009"
+         },
+         {
+            "title" : {
+               "da" : "Numbers"
+            },
+            "start" : "1522829700",
+            "desc" : {
+               "da" : "Sniper Zero. Der sker snigskytteangreb rundt om i L.A., men er alle angrebene et resultat af \u00e9n uerfaren skytte, eller er det et \"modef\u00e6nomen\", der er ved at brede sig i L.A.?"
+            },
+            "date" : "2007",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/578/season/1/episode/9"
+            ],
+            "new" : null,
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Ken Sanzel"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Sabrina Lloyd",
+                     "role" : "Terry Lake"
+                  },
+                  {
+                     "name" : "Alimi Ballard",
+                     "role" : "David Sinclair"
+                  },
+                  {
+                     "name" : "David Krumholtz",
+                     "role" : "Charlie Eppes"
+                  },
+                  {
+                     "name" : "Rob Morrow",
+                     "role" : "Don Eppes"
+                  },
+                  {
+                     "name" : "Peter MacNicol",
+                     "role" : "Larry Fleinhardt"
+                  },
+                  {
+                     "name" : "Judd Hirsch",
+                     "role" : "Alan Eppes"
+                  },
+                  {
+                     "role" : "Amita Ramanujan",
+                     "name" : "Navi Rawat"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "J. Miller Tobin"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Crime",
+                  "Drama",
+                  "Mystery"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 8/13 .",
+               "onscreen" : "Afsnit 9 af 13 s\u00e6son 1"
+            },
+            "channel" : "tv3plus.dk",
+            "stop" : "1522833000",
+            "subTitle" : {
+               "da" : "Sniper Zero"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Dirty Bomb"
+            },
+            "stop" : "1522836600",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Sabrina Lloyd",
+                     "role" : "Terry Lake"
+                  },
+                  {
+                     "role" : "David Sinclair",
+                     "name" : "Alimi Ballard"
+                  },
+                  {
+                     "name" : "David Krumholtz",
+                     "role" : "Charlie Eppes"
+                  },
+                  {
+                     "name" : "Rob Morrow",
+                     "role" : "Don Eppes"
+                  },
+                  {
+                     "name" : "Peter MacNicol",
+                     "role" : "Larry Fleinhardt"
+                  },
+                  {
+                     "name" : "Judd Hirsch",
+                     "role" : "Alan Eppes"
+                  },
+                  {
+                     "role" : "Amita Ramanujan",
+                     "name" : "Navi Rawat"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Paris Barclay"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Andrew Dettmann"
+                  }
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Crime",
+                  "Drama",
+                  "Mystery"
+               ]
+            },
+            "channel" : "tv3plus.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 10 af 13 s\u00e6son 1",
+               "xmltv_ns" : "0 . 9/13 ."
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2007",
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/578/season/1/episode/10"
+            ],
+            "title" : {
+               "da" : "Numbers"
+            },
+            "start" : "1522833000",
+            "desc" : {
+               "da" : "Dirty Bomb. En lastbil med nuklear gods bliver stj\u00e5let af terrorister, der har til hensigt at lave en bombe, der kan detoneres i L.A. Kun Charlie og hans far kan redde byen fra en atomeksplosion."
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "The Prisoner in the Pipe"
+            },
+            "stop" : "1522839600",
+            "channel" : "tv3plus.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7 af 13 s\u00e6son 7",
+               "xmltv_ns" : "6 . 6/13 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Crime",
+                  "Drama"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Jonathan Collier"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Kate Woods"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Emily Deschanel",
+                     "role" : "Temperance 'Bones' Brennan"
+                  },
+                  {
+                     "role" : "Seeley Booth",
+                     "name" : "David Boreanaz"
+                  },
+                  {
+                     "role" : "Angela Montenegro",
+                     "name" : "Michaela Conlin"
+                  },
+                  {
+                     "role" : "Jack Hodgins",
+                     "name" : "T. J. Thyne"
+                  },
+                  {
+                     "role" : "Camille Saroyan",
+                     "name" : "Tamara Taylor"
+                  },
+                  {
+                     "name" : "John Francis Daley",
+                     "role" : "Dr. Lance Sweets"
+                  },
+                  {
+                     "role" : "Teejay Ouellette",
+                     "name" : "Johnny Ray Gill"
+                  }
+               ]
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/1911/season/7/episode/7"
+            ],
+            "new" : null,
+            "date" : "2012",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "start" : "1522836600",
+            "desc" : {
+               "da" : "Booth er ikke begejstret, da Brennen midt i sin graviditetsperiode beslutter sig for, at hun er den eneste forsker, som kan l\u00f8se mysteriet omhandlende et lig af en pirat, er blev fundet adskillige kilometer v\u00e6k fra f\u00e6ngslet. Men situationen er ikke helt, som den ser ud til at v\u00e6re."
+            },
+            "title" : {
+               "da" : "Bones"
+            }
+         },
+         {
+            "channel" : "tv3plus.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "8 . 16/24 .",
+               "onscreen" : "Afsnit 17 af 24 s\u00e6son 9"
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Crime",
+                  "Drama"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Director Leon Vance",
+                     "name" : "Rocky Carroll"
+                  },
+                  {
+                     "role" : "Ziva David",
+                     "name" : "Cote de Pablo"
+                  },
+                  {
+                     "name" : "David McCallum",
+                     "role" : "Donald \"Ducky\" Mallard"
+                  },
+                  {
+                     "name" : "Mark Harmon",
+                     "role" : "Leroy Jethro Gibbs"
+                  },
+                  {
+                     "role" : "Tony DiNozzo",
+                     "name" : "Michael Weatherly"
+                  },
+                  {
+                     "role" : "Abby Sciuto",
+                     "name" : "Pauley Perrette"
+                  },
+                  {
+                     "role" : "Timothy McGee",
+                     "name" : "Sean Murray"
+                  },
+                  {
+                     "role" : "Jimmy Palmer",
+                     "name" : "Brian Dietzen"
+                  },
+                  {
+                     "name" : "Tamer Hassan",
+                     "role" : "Agah Bayar"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Michelle MacLaren"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Frank Cardea"
+                  },
+                  {
+                     "name" : "George Schenck"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Need to Know"
+            },
+            "stop" : "1522843200",
+            "start" : "1522839600",
+            "desc" : {
+               "da" : "Tophemmelige oplysninger fra et milit\u00e6rt forskningslaboratorium er i fare, da mordet p\u00e5 en sergent knyttes til en international v\u00e5benforhandler."
+            },
+            "title" : {
+               "da" : "NCIS"
+            },
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/4614/season/9/episode/17"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2012"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2011",
+            "url" : [
+               "https://www.themoviedb.org/tv/32798/season/2/episode/7"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "Hawaii Five-0"
+            },
+            "desc" : {
+               "da" : "To sp\u00f8gelsesjagende filminstrukt\u00f8rer bliver myrdet ved et historisk traditionelt begravelsessted, og da holdet opdager flere lig i omr\u00e5det, f\u00e5r de en fornemmelse af, at de har at g\u00f8re med en seriemorder."
+            },
+            "start" : "1522843200",
+            "stop" : "1522846800",
+            "subTitle" : {
+               "da" : "Sacred Bones"
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Action",
+                  "Crime",
+                  "Drama"
+               ]
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Michele Fazekas"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Joe Dante"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Steve McGarrett",
+                     "name" : "Alex O'Loughlin"
+                  },
+                  {
+                     "role" : "Danny \"Danno\" Williams",
+                     "name" : "Scott Caan"
+                  },
+                  {
+                     "role" : "Chin Ho Kelly",
+                     "name" : "Daniel Dae Kim"
+                  },
+                  {
+                     "role" : "Kono Kalakaua",
+                     "name" : "Grace Park"
+                  },
+                  {
+                     "name" : "Masi Oka",
+                     "role" : "Dr. Max Bergman"
+                  },
+                  {
+                     "name" : "Lauren German",
+                     "role" : "Lori Weston"
+                  },
+                  {
+                     "name" : "Mary Pat Gleason"
+                  },
+                  {
+                     "name" : "Ryan Devlin"
+                  },
+                  {
+                     "name" : "Robert Englund"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 6/23 .",
+               "onscreen" : "Afsnit 7 af 23 s\u00e6son 2"
+            },
+            "channel" : "tv3plus.dk"
+         },
+         {
+            "channel" : "tv3plus.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 7/23 .",
+               "onscreen" : "Afsnit 8 af 23 s\u00e6son 2"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Steve McGarrett",
+                     "name" : "Alex O'Loughlin"
+                  },
+                  {
+                     "name" : "Scott Caan",
+                     "role" : "Danny \"Danno\" Williams"
+                  },
+                  {
+                     "name" : "Daniel Dae Kim",
+                     "role" : "Chin Ho Kelly"
+                  },
+                  {
+                     "role" : "Kono Kalakaua",
+                     "name" : "Grace Park"
+                  },
+                  {
+                     "role" : "Dr. Max Bergman",
+                     "name" : "Masi Oka"
+                  },
+                  {
+                     "role" : "Lori Weston",
+                     "name" : "Lauren German"
+                  },
+                  {
+                     "name" : "Ronnie Gene Blevins"
+                  },
+                  {
+                     "name" : "Jon Gries"
+                  },
+                  {
+                     "name" : "Greg Grunberg"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Steve Boyum"
+                  }
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Action",
+                  "Crime",
+                  "Drama"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Healing"
+            },
+            "stop" : "1522850400",
+            "start" : "1522846800",
+            "desc" : {
+               "da" : "Da en agent bliver myrdet, m\u00e5 Five-0 for at finde hendes morder, finde ud af hvilken smuglingsring, hun var i f\u00e6rd med at efterforske inden hun blev dr\u00e6bt."
+            },
+            "title" : {
+               "da" : "Hawaii Five-0"
+            },
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/32798/season/2/episode/8"
+            ],
+            "date" : "2011",
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "channel" : "tv3plus.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8 af 13 s\u00e6son 7",
+               "xmltv_ns" : "6 . 7/13 ."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Temperance 'Bones' Brennan",
+                     "name" : "Emily Deschanel"
+                  },
+                  {
+                     "role" : "Seeley Booth",
+                     "name" : "David Boreanaz"
+                  },
+                  {
+                     "role" : "Angela Montenegro",
+                     "name" : "Michaela Conlin"
+                  },
+                  {
+                     "name" : "T. J. Thyne",
+                     "role" : "Jack Hodgins"
+                  },
+                  {
+                     "name" : "Tamara Taylor",
+                     "role" : "Camille Saroyan"
+                  },
+                  {
+                     "name" : "John Francis Daley",
+                     "role" : "Dr. Lance Sweets"
+                  }
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Crime",
+                  "Drama"
+               ]
+            },
+            "subTitle" : {
+               "da" : "The Bump in the Road"
+            },
+            "stop" : "1522854000",
+            "desc" : {
+               "da" : "Specialagenten Genny Shaw er tilbage p\u00e5 arbejdet og Brennan beder hende om at koncentrere sig om en tragisk mordsag. Andetsteds, er Cam ikke glad for, at Michelle er kommet t\u00e6ttere p\u00e5 Finn."
+            },
+            "start" : "1522850400",
+            "title" : {
+               "da" : "Bones"
+            },
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/1911/season/7/episode/8"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2012"
+         },
+         {
+            "url" : [
+               "https://www.themoviedb.org/tv/4614/season/9/episode/18"
+            ],
+            "new" : null,
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2012",
+            "start" : "1522854000",
+            "desc" : {
+               "da" : "Da en fortrolig oplysning bliver l\u00e6kket, m\u00e5 NCIS arbejde sammen med PsyOps for at kaste lys over den g\u00e5defulde sag."
+            },
+            "title" : {
+               "da" : "NCIS"
+            },
+            "stop" : "1522857600",
+            "subTitle" : {
+               "da" : "The Tell"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "8 . 17/24 .",
+               "onscreen" : "Afsnit 18 af 24 s\u00e6son 9"
+            },
+            "channel" : "tv3plus.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Crime",
+                  "Drama"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Rocky Carroll",
+                     "role" : "Director Leon Vance"
+                  },
+                  {
+                     "name" : "Cote de Pablo",
+                     "role" : "Ziva David"
+                  },
+                  {
+                     "role" : "Donald \"Ducky\" Mallard",
+                     "name" : "David McCallum"
+                  },
+                  {
+                     "role" : "Leroy Jethro Gibbs",
+                     "name" : "Mark Harmon"
+                  },
+                  {
+                     "name" : "Michael Weatherly",
+                     "role" : "Tony DiNozzo"
+                  },
+                  {
+                     "role" : "Abby Sciuto",
+                     "name" : "Pauley Perrette"
+                  },
+                  {
+                     "name" : "Sean Murray",
+                     "role" : "Timothy McGee"
+                  },
+                  {
+                     "role" : "Jimmy Palmer",
+                     "name" : "Brian Dietzen"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Thomas J. Wright"
+                  }
+               ]
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Exchange Rate"
+            },
+            "stop" : "1522861200",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Owen Granger",
+                     "name" : "Miguel Ferrer"
+                  },
+                  {
+                     "name" : "LL Cool J",
+                     "role" : "Sam Hanna"
+                  },
+                  {
+                     "role" : "G. Callen",
+                     "name" : "Chris O'Donnell"
+                  },
+                  {
+                     "name" : "Linda Hunt",
+                     "role" : "Henrietta Lange"
+                  },
+                  {
+                     "role" : "Marty Deeks",
+                     "name" : "Eric Christian Olsen"
+                  },
+                  {
+                     "role" : "Eric Beal",
+                     "name" : "Barrett Foa"
+                  },
+                  {
+                     "role" : "Kensi Blye",
+                     "name" : "Daniela Ruah"
+                  },
+                  {
+                     "name" : "Ren\u00e9e Felice Smith",
+                     "role" : "Nell Jones"
+                  },
+                  {
+                     "role" : "Arkady Kolcheck",
+                     "name" : "Vyto Ruginis"
+                  },
+                  {
+                     "role" : "Anna Kolcheck",
+                     "name" : "Bar Paly"
+                  },
+                  {
+                     "role" : "Ricardo Pena",
+                     "name" : "Juan Javier Cardenas"
+                  },
+                  {
+                     "name" : "Chris Gann",
+                     "role" : "Deputy U.S. Marshal Anthony Howard"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Crime",
+                  "Mystery"
+               ]
+            },
+            "channel" : "tv3plus.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 18 af 24 s\u00e6son 7",
+               "xmltv_ns" : "6 . 17/24 ."
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2016",
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/17610/season/7/episode/18"
+            ],
+            "title" : {
+               "da" : "NCIS: Los Angeles"
+            },
+            "desc" : {
+               "da" : "En d\u00f8mt cubansk spion flygter fra f\u00e6nglset i USA, f\u00f8r han sendes tilbage til sit land, i en fangeudveksling og holdet bliver noget overraskede over at Anna har hjulpet ham med at stikke af."
+            },
+            "start" : "1522857600"
+         },
+         {
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Miguel Ferrer",
+                     "role" : "Owen Granger"
+                  },
+                  {
+                     "name" : "LL Cool J",
+                     "role" : "Sam Hanna"
+                  },
+                  {
+                     "role" : "G. Callen",
+                     "name" : "Chris O'Donnell"
+                  },
+                  {
+                     "name" : "Linda Hunt",
+                     "role" : "Henrietta Lange"
+                  },
+                  {
+                     "name" : "Eric Christian Olsen",
+                     "role" : "Marty Deeks"
+                  },
+                  {
+                     "name" : "Barrett Foa",
+                     "role" : "Eric Beal"
+                  },
+                  {
+                     "name" : "Daniela Ruah",
+                     "role" : "Kensi Blye"
+                  },
+                  {
+                     "role" : "Nell Jones",
+                     "name" : "Ren\u00e9e Felice Smith"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Crime",
+                  "Mystery"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "6 . 18/24 .",
+               "onscreen" : "Afsnit 19 af 24 s\u00e6son 7"
+            },
+            "channel" : "tv3plus.dk",
+            "stop" : "1522864800",
+            "subTitle" : {
+               "da" : "The Seventh Child"
+            },
+            "title" : {
+               "da" : "NCIS: Los Angeles"
+            },
+            "start" : "1522861200",
+            "desc" : {
+               "da" : "Callen fors\u00f8ger at n\u00e5 ind til en dreng, der er i overh\u00e6ngende fare. Han er blevet hjernevasket i en terrorcelle. Deeks og Kensi diskuterer om de skal have b\u00f8rn."
+            },
+            "date" : "2016",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/17610/season/7/episode/19"
+            ]
+         },
+         {
+            "desc" : {
+               "da" : "Der er igen gang i verdens st\u00f8rste klubturnering, n\u00e5r UEFA Champions League ruller over sk\u00e6rmen. Sammen med vores eksperter varmer Peter Gr\u00f8nborg op til aftenens kamp."
+            },
+            "start" : "1522864800",
+            "title" : {
+               "da" : "Fodbold: Optakt til UEFA Champions League"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "channel" : "tv3plus.dk",
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Series"
+               ]
+            },
+            "stop" : "1522867500"
+         },
+         {
+            "desc" : {
+               "da" : "Liverpool og Manchester City t\u00f8rner sammen i et vaske\u00e6gte Premier League-opg\u00f8r i Champions League-kvartfinalen. I f\u00f8rste opg\u00f8r skal Manchester City blot en time v\u00e6k hjemmefra, n\u00e5r Anfield l\u00e6gger hus til i dette brag af en kamp. Liverpool vandt senest hjemme over 'The Citizens' med 4-3, mens sidstn\u00e6vnte gav Liverpool bank med 5-0 p\u00e5 Etihad i september. Se med, n\u00e5r vi bringer jer Liverpool mod Manchester City i Champions League."
+            },
+            "start" : "1522867500",
+            "title" : {
+               "da" : "Fodbold: Liverpool-Manchester City"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "channel" : "tv3plus.dk",
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Series"
+               ]
+            },
+            "stop" : "1522874700"
+         },
+         {
+            "channel" : "tv3plus.dk",
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Series"
+               ]
+            },
+            "stop" : "1522878300",
+            "start" : "1522874700",
+            "desc" : {
+               "da" : "Vi f\u00f8lger med dybdeg\u00e5ende analyser, m\u00e5l, h\u00f8jdepunkter og reaktioner op p\u00e5 det seneste opg\u00f8r i UEFA Champions League."
+            },
+            "title" : {
+               "da" : "Fodbold: Opf\u00f8lgning p\u00e5 UEFA Champions League"
+            },
+            "new" : null,
+            "video" : {
+               "aspect" : "4:3"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "1995",
+            "url" : [
+               "http://www.themoviedb.org/movie/11517"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "Money Train"
+            },
+            "rating" : {
+               "stars" : "5.4 / 10"
+            },
+            "start" : "1522878300",
+            "desc" : {
+               "da" : "John (Wesley Snipes) og Charlie (Woody Harrelson) arbejder begge som vagter p\u00e5 New Yorks undergrundsbane - et job ingen af dem er specielt begejstrede for. Bedre bliver det ikke, da en ny barsk chef melder sin ankomst og g\u00f8r livet endnu surere for de to fyre. De beslutter derfor at realisere en id\u00e9, som de begge l\u00e6nge har leget med - John og Charlie vil sammen r\u00f8ve den transportvogn, som hver dag transporterer millioner af dollars i billetindt\u00e6gter fra de mange undergrundsstationer. Det er en halsbr\u00e6kkende farlig plan, der ikke bliver gjort mindre kompliceret, da den smukke str\u00f8mer Grace Santiago (Jennifer Lopez) g\u00f8r sin entr\u00e9 i sikkerhedspolitiet - b\u00e5de John og Charlie falder nemlig pladask for den flotte pige."
+            },
+            "stop" : "1522886400",
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Comedy",
+                  "Crime"
+               ]
+            },
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Neil Canton"
+                  },
+                  {
+                     "name" : "Jon Peters"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Doug Richardson"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Joseph Ruben"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Wesley Snipes",
+                     "role" : "John"
+                  },
+                  {
+                     "name" : "Woody Harrelson",
+                     "role" : "Charlie"
+                  },
+                  {
+                     "name" : "Jennifer Lopez",
+                     "role" : "Grace Santiago"
+                  },
+                  {
+                     "name" : "Robert Blake",
+                     "role" : "Donald Patterson"
+                  },
+                  {
+                     "role" : "Torch",
+                     "name" : "Chris Cooper"
+                  },
+                  {
+                     "role" : "Riley",
+                     "name" : "Joe Grifasi"
+                  },
+                  {
+                     "role" : "Mr. Brown",
+                     "name" : "Scott Sowers"
+                  },
+                  {
+                     "role" : "Kowalski",
+                     "name" : "Skipp Sudduth"
+                  },
+                  {
+                     "name" : "Aida Turturro",
+                     "role" : "Woman on Platform"
+                  },
+                  {
+                     "name" : "Vincent Pastore",
+                     "role" : "Gambler"
+                  },
+                  {
+                     "name" : "Enrico Colantoni",
+                     "role" : "Dooley"
+                  },
+                  {
+                     "name" : "Bill Nunn",
+                     "role" : "Crash Train Motorman"
+                  },
+                  {
+                     "name" : "Katie Gill",
+                     "role" : "Crosswalk Child"
+                  },
+                  {
+                     "role" : "Guard",
+                     "name" : "Jeremy Roberts"
+                  },
+                  {
+                     "name" : "Joe Bacino",
+                     "role" : "Decoy Cop"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/11517"
+            },
+            "channel" : "tv3plus.dk"
+         }
+      ]
+   }
+}

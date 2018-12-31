@@ -1,0 +1,1879 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "date" : "2009",
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/28510"
+            ],
+            "title" : {
+               "da" : "Universal Soldier: Regeneration"
+            },
+            "rating" : {
+               "stars" : "5.2 / 10"
+            },
+            "desc" : {
+               "da" : "Terrorister stj\u00e6ler hemmelig teknologi og laver deres egen genetisk manipulerede \"UniSol\" supersoldat NGU (Andrei \"Pitbull\" Arlovski), som de bruger til at overtage kontrollen med det \u00f8delagte atomkraftv\u00e6rk i Tjernobyl. Nu truer terroristerne med at udsende en radioaktiv sky, der kan dr\u00e6be millioner af mennesker. For at bek\u00e6mpe terroristerne bliver den oprindelige \"UniSol\" supersoldat Luc Deveraux (Jean-Claude Van Damme) v\u00e6kket op til d\u00e5d og sent af sted. Men inde i det massivt forskansede Tjernobyl opdager Deveraux, at det ikke kun er NGU, han m\u00e5 klare, men ogs\u00e5 hans gamle nemesis, UniSol-soldaten Andrew Scott (Dolph Lundgren). Vil det lykkes ham redde de mange mennesker ?"
+            },
+            "start" : "1523145900",
+            "stop" : "1523151600",
+            "previously_shown" : "zulu.tv2.dk|2018-04-07 00:45:00",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Adventure",
+                  "Action",
+                  "Sci-Fi",
+                  "Thriller"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Jean-Claude Van Damme",
+                     "role" : "Luc Deveraux"
+                  },
+                  {
+                     "name" : "Dolph Lundgren",
+                     "role" : "Andrew Scott"
+                  },
+                  {
+                     "role" : "NGU",
+                     "name" : "Andrei Arlovski"
+                  },
+                  {
+                     "name" : "Mike Pyle",
+                     "role" : "Captain Kevin Burke"
+                  },
+                  {
+                     "role" : "Coby",
+                     "name" : "Corey Johnson"
+                  },
+                  {
+                     "name" : "Emily Joyce",
+                     "role" : "Dr. Sandra Fleming"
+                  },
+                  {
+                     "name" : "Kerry Shale",
+                     "role" : "Dr. Colin"
+                  },
+                  {
+                     "role" : "Doctor Porter",
+                     "name" : "Garry Cooper"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "John Hyams"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Victor Ostrovsky"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Craig Baumgarten"
+                  },
+                  {
+                     "name" : "Moshe Diamant"
+                  },
+                  {
+                     "name" : "Peter Hyams"
+                  }
+               ]
+            },
+            "channel" : "zulu.tv2.dk",
+            "episodeNum" : {
+               "themoviedb.org" : "movie/28510"
+            }
+         },
+         {
+            "episodeNum" : {
+               "themoviedb.org" : "movie/5503"
+            },
+            "channel" : "zulu.tv2.dk",
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Arnold Kopelson"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Andrew Davis"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Harrison Ford",
+                     "role" : "Dr. Kimble"
+                  },
+                  {
+                     "name" : "Tommy Lee Jones",
+                     "role" : "Samuel Gerard"
+                  },
+                  {
+                     "name" : "Sela Ward",
+                     "role" : "Helen Kimble"
+                  },
+                  {
+                     "role" : "Dr. Anne Eastman",
+                     "name" : "Julianne Moore"
+                  },
+                  {
+                     "role" : "Cosmo Renfro",
+                     "name" : "Joe Pantoliano"
+                  },
+                  {
+                     "name" : "Andreas Katsulas",
+                     "role" : "Sykes"
+                  },
+                  {
+                     "name" : "Jeroen Krabb\u00e9",
+                     "role" : "Dr. Charles Nichols"
+                  },
+                  {
+                     "name" : "Daniel Roebuck",
+                     "role" : "Biggs"
+                  },
+                  {
+                     "role" : "Poole",
+                     "name" : "L. Scott Caldwell"
+                  },
+                  {
+                     "role" : "Detective Kelly",
+                     "name" : "Ron Dean"
+                  },
+                  {
+                     "role" : "Detective Rosetti",
+                     "name" : "Joseph F. Kosala"
+                  },
+                  {
+                     "role" : "Newman",
+                     "name" : "Tom Wood"
+                  },
+                  {
+                     "role" : "Walter Gutherie",
+                     "name" : "Dick Cusack"
+                  },
+                  {
+                     "name" : "Richard Riehle",
+                     "role" : "Old Guard"
+                  },
+                  {
+                     "role" : "Judge Bennett",
+                     "name" : "Andy Romano"
+                  },
+                  {
+                     "name" : "Nick Searcy",
+                     "role" : "Sheriff Rawlins"
+                  },
+                  {
+                     "role" : "Chicago Cop #1",
+                     "name" : "Miguel Nino"
+                  },
+                  {
+                     "role" : "Newscaster",
+                     "name" : "John Drummond"
+                  },
+                  {
+                     "role" : "Dr. Lentz",
+                     "name" : "David Darlow"
+                  },
+                  {
+                     "name" : "Jane Lynch",
+                     "role" : "Dr. Kathy Wahlund"
+                  },
+                  {
+                     "name" : "Neil Flynn",
+                     "role" : "Polizist"
+                  },
+                  {
+                     "name" : "Kevin Crowley",
+                     "role" : "State Trooper"
+                  },
+                  {
+                     "role" : "Resident",
+                     "name" : "Mark D. Espinoza"
+                  },
+                  {
+                     "name" : "Gene Barge",
+                     "role" : "11th District Cop"
+                  },
+                  {
+                     "role" : "Prosecutor",
+                     "name" : "Joe Guzaldo"
+                  },
+                  {
+                     "role" : "Assistant Defense Attorney",
+                     "name" : "Nicholas Kusenko"
+                  },
+                  {
+                     "role" : "Asst. Prosecuting Attorney",
+                     "name" : "Joan Kohn"
+                  },
+                  {
+                     "role" : "Coroner",
+                     "name" : "Joe Guastaferro"
+                  },
+                  {
+                     "name" : "Thom Vernon",
+                     "role" : "Carlson"
+                  },
+                  {
+                     "role" : "Partida",
+                     "name" : "Ken Moreno"
+                  },
+                  {
+                     "role" : "Copeland",
+                     "name" : "Eddie Bo Smith Jr."
+                  },
+                  {
+                     "role" : "Jail Officer",
+                     "name" : "Frank Ray Perilli"
+                  },
+                  {
+                     "name" : "Pancho Demmings",
+                     "role" : "Young Guard"
+                  },
+                  {
+                     "role" : "Bus Driver",
+                     "name" : "Jim Wilkey"
+                  },
+                  {
+                     "role" : "Head Illinois State Trooper",
+                     "name" : "Danny Goldring"
+                  },
+                  {
+                     "role" : "Head Welder",
+                     "name" : "Michael James"
+                  },
+                  {
+                     "name" : "Michael Skewes",
+                     "role" : "Highway Patrolman"
+                  },
+                  {
+                     "role" : "Paramedic",
+                     "name" : "Cody Glenn"
+                  },
+                  {
+                     "role" : "Woman in Car",
+                     "name" : "Cynthia Baker"
+                  },
+                  {
+                     "role" : "Marshal Henry",
+                     "name" : "Johnny Lee Davenport"
+                  },
+                  {
+                     "role" : "Marshal Stevens",
+                     "name" : "Mike Bacarella"
+                  },
+                  {
+                     "name" : "Bill Cusack",
+                     "role" : "Tracing Technician"
+                  },
+                  {
+                     "name" : "Tighe Barry",
+                     "role" : "Windshield Washer"
+                  },
+                  {
+                     "name" : "Afram Bill Williams",
+                     "role" : "Salesman"
+                  },
+                  {
+                     "role" : "Myoelectric Technician",
+                     "name" : "Noelle Bou-Sliman"
+                  },
+                  {
+                     "role" : "Skating Orderly",
+                     "name" : "Greg Hollimon"
+                  },
+                  {
+                     "role" : "O.R. Doctor",
+                     "name" : "Cheryl Lynn Bruce"
+                  },
+                  {
+                     "name" : "Ann Whitney",
+                     "role" : "Myoelectric Director"
+                  },
+                  {
+                     "role" : "Clearing Officer",
+                     "name" : "Turk Muller"
+                  },
+                  {
+                     "role" : "Visitation Guard",
+                     "name" : "Eugene F. Crededio"
+                  },
+                  {
+                     "role" : "Newscaster",
+                     "name" : "Pam Zekman"
+                  },
+                  {
+                     "name" : "David Pasquesi",
+                     "role" : "Newscaster"
+                  },
+                  {
+                     "name" : "Dru Anne Carlson",
+                     "role" : "Gerard's Secretary"
+                  },
+                  {
+                     "name" : "Kirsten Nelson",
+                     "role" : "Betty"
+                  },
+                  {
+                     "role" : "Man on 'El'",
+                     "name" : "Juan Ram\u00edrez"
+                  },
+                  {
+                     "name" : "Allen Hamilton",
+                     "role" : "Host"
+                  },
+                  {
+                     "name" : "Lester Holt",
+                     "role" : "Newscaster"
+                  },
+                  {
+                     "role" : "City Hall Employee (uncredited)",
+                     "name" : "Suzy Brack"
+                  },
+                  {
+                     "name" : "Darren W. Conrad",
+                     "role" : "Deputy at Train Wreck (uncredited)"
+                  },
+                  {
+                     "role" : "Doctor (uncredited)",
+                     "name" : "Kevin Mukherji"
+                  },
+                  {
+                     "name" : "Sal Richards",
+                     "role" : "Warrant Captain (uncredited)"
+                  },
+                  {
+                     "role" : "Mad Motorist at Tunnel (uncredited)",
+                     "name" : "John-Clay Scott"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Jeb Stuart"
+                  },
+                  {
+                     "name" : "David Twohy"
+                  }
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Adventure",
+                  "Action",
+                  "Thriller",
+                  "Crime",
+                  "Mystery"
+               ]
+            },
+            "stop" : "1523160000",
+            "previously_shown" : "zulu.tv2.dk|2018-03-05 00:25:00",
+            "desc" : {
+               "da" : "L\u00e6gen Richard Kimble (Harrison Ford) bliver anklaget og d\u00f8mt for mordet p\u00e5 sin kone, men p\u00e5 vej til henrettelsen undslipper han. Med politiet, ledet af Samuel Gerard (Tommy Lee Jones), konstant i h\u00e6lene fors\u00f8ger Kimble nu at finde frem til den rigtige morder. Han har ikke ret mange spor at g\u00e5 efter - men \u00e9n ting ved han. Morderen har et helt specielt kendetegn: Han er enarmet!"
+            },
+            "rating" : {
+               "stars" : "7.3 / 10"
+            },
+            "start" : "1523151600",
+            "title" : {
+               "da" : "Flygtningen"
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/5503"
+            ],
+            "new" : null,
+            "date" : "1993"
+         },
+         {
+            "date" : "2011",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=248741&seasonid=581445&id=5081996&lid=8"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "2 Broke Girls"
+            },
+            "desc" : {
+               "da" : "Max og Caroline bliver anholdt, da de fors\u00f8ger at bryde ind i en lejlighed, hvor Caroline har glemt sine smykker, efter hun overnattede hos en s\u00f8d fyr. Samtidig begynder Sophie at overveje detaljerne omkring hendes bryllup med Oleg."
+            },
+            "rating" : {
+               "stars" : "6.5 / 9"
+            },
+            "start" : "1523160000",
+            "stop" : "1523161200",
+            "subTitle" : {
+               "da" : "And the Crime Ring"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Jonathan Kite",
+                     "role" : "Oleg Golishevsky"
+                  },
+                  {
+                     "role" : "Max Black",
+                     "name" : "Kat Dennings"
+                  },
+                  {
+                     "role" : "Earl Washington",
+                     "name" : "Garrett Morris"
+                  },
+                  {
+                     "name" : "Beth Behrs",
+                     "role" : "Caroline Channing"
+                  },
+                  {
+                     "name" : "Ed Quinn",
+                     "role" : "Randy Walsh"
+                  },
+                  {
+                     "role" : "Han Bryce Lee",
+                     "name" : "Matthew Moy"
+                  },
+                  {
+                     "role" : "Sophie Kaczynski",
+                     "name" : "Jennifer Coolidge"
+                  },
+                  {
+                     "name" : "Diane Delano"
+                  },
+                  {
+                     "name" : "Jean Grae"
+                  },
+                  {
+                     "name" : "Tyler Cook"
+                  },
+                  {
+                     "name" : "Sherry Mandujano"
+                  },
+                  {
+                     "name" : "Marlena Poles"
+                  },
+                  {
+                     "name" : "Cynthia Dallas"
+                  },
+                  {
+                     "name" : "Patty Guggenheim"
+                  },
+                  {
+                     "name" : "Molly Pan"
+                  },
+                  {
+                     "name" : "Dave Abrams"
+                  },
+                  {
+                     "name" : "Rachael Ashley-Layton"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Don Scardino"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Morgan Murphy"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 11 s\u00e6son 4",
+               "thetvdb.com" : "series/248741",
+               "xmltv_ns" : "3 . 10 ."
+            },
+            "channel" : "zulu.tv2.dk"
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=248741&seasonid=581445&id=5095348&lid=8"
+            ],
+            "new" : null,
+            "date" : "2011",
+            "rating" : {
+               "stars" : "6.9 / 9"
+            },
+            "desc" : {
+               "da" : "Max og Caroline bliver trukket ind i en retssag mod to teenagere, som tjener penge p\u00e5 at s\u00e6lge kopier af deres cupcake T-shirts. Imens tager Sophie for alvor hul p\u00e5 bryllupsplanl\u00e6gningen med nyindk\u00f8bte magasiner og r\u00e5dgivning fra professionelle."
+            },
+            "start" : "1523161200",
+            "title" : {
+               "da" : "2 Broke Girls"
+            },
+            "subTitle" : {
+               "da" : "And the Knock-Off Knockout"
+            },
+            "stop" : "1523162700",
+            "channel" : "zulu.tv2.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 11 .",
+               "onscreen" : "Afsnit 12 s\u00e6son 4",
+               "thetvdb.com" : "series/248741"
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Morgan Murphy"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Oleg Golishevsky",
+                     "name" : "Jonathan Kite"
+                  },
+                  {
+                     "role" : "Max Black",
+                     "name" : "Kat Dennings"
+                  },
+                  {
+                     "role" : "Earl Washington",
+                     "name" : "Garrett Morris"
+                  },
+                  {
+                     "name" : "Beth Behrs",
+                     "role" : "Caroline Channing"
+                  },
+                  {
+                     "name" : "Ed Quinn",
+                     "role" : "Randy Walsh"
+                  },
+                  {
+                     "role" : "Han Bryce Lee",
+                     "name" : "Matthew Moy"
+                  },
+                  {
+                     "name" : "Jennifer Coolidge",
+                     "role" : "Sophie Kaczynski"
+                  },
+                  {
+                     "name" : "Sammi Hanratty"
+                  },
+                  {
+                     "name" : "Danielle Macdonald"
+                  },
+                  {
+                     "name" : "Jimmie Fowlie"
+                  },
+                  {
+                     "name" : "Charlene Deguzman"
+                  },
+                  {
+                     "name" : "Mae Aswell"
+                  },
+                  {
+                     "name" : "Deborah Baker, Jr."
+                  },
+                  {
+                     "name" : "Patrick Daniel"
+                  },
+                  {
+                     "name" : "Joshua M. Bott"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Don Scardino"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            }
+         },
+         {
+            "start" : "1523162700",
+            "desc" : {
+               "da" : "Tobias Dybvad dykker med fintf\u00f8lende sarkasme ned i kendis- og realitybegivenheder. Parodierne er skarpe, og tempoet h\u00f8jt, n\u00e5r han finder fejl, fad\u00e6ser og t\u00e5beligheder fra diverse tv-programmer. Er du mon g\u00e5et glip af noget i dit tv? Det kan du f\u00e5 svaret p\u00e5 her. (2:10)"
+            },
+            "title" : {
+               "da" : "Dybvaaaaad!"
+            },
+            "new" : null,
+            "date" : "2013",
+            "channel" : "zulu.tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "stop" : "1523164500"
+         },
+         {
+            "title" : {
+               "da" : "Dybvaaaaad!"
+            },
+            "start" : "1523164500",
+            "desc" : {
+               "da" : "Tobias Dybvad dykker med fintf\u00f8lende sarkasme ned i kendis- og realitybegivenheder. Parodierne er skarpe, og tempoet h\u00f8jt, n\u00e5r han finder fejl, fad\u00e6ser og t\u00e5beligheder fra diverse tv-programmer. Er du mon g\u00e5et glip af noget i dit tv? Det kan du f\u00e5 svaret p\u00e5 her. (3:10)"
+            },
+            "date" : "2013",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "channel" : "zulu.tv2.dk",
+            "stop" : "1523166300"
+         },
+         {
+            "title" : {
+               "da" : "Dybvaaaaad!"
+            },
+            "desc" : {
+               "da" : "Tobias Dybvad dykker med fintf\u00f8lende sarkasme ned i kendis- og realitybegivenheder. Parodierne er skarpe, og tempoet h\u00f8jt, n\u00e5r han finder fejl, fad\u00e6ser og t\u00e5beligheder fra diverse tv-programmer. Er du mon g\u00e5et glip af noget i dit tv? Det kan du f\u00e5 svaret p\u00e5 her. (4:10)"
+            },
+            "start" : "1523166300",
+            "date" : "2013",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "channel" : "zulu.tv2.dk",
+            "stop" : "1523168100"
+         },
+         {
+            "channel" : "zulu.tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "stop" : "1523169600",
+            "desc" : {
+               "da" : "H\u00f8r, hvad pigerne har at sige om de ting, der optager dem. Du bliver m\u00e5ske overrasket, n\u00e5r de - og et par enkelte drenge - giver deres meninger til kende."
+            },
+            "start" : "1523168100",
+            "title" : {
+               "da" : "Uden filter - om bryster, druk og roommates"
+            },
+            "new" : null,
+            "date" : "2013"
+         },
+         {
+            "title" : {
+               "da" : "Uden filter - om at g\u00e5 p\u00e5 wc, waxing og at danse"
+            },
+            "desc" : {
+               "da" : "H\u00f8r, hvad pigerne har at sige om de ting, der optager dem. Du bliver m\u00e5ske overrasket, n\u00e5r de - og et par enkelte drenge - giver deres meninger til kende."
+            },
+            "start" : "1523169600",
+            "date" : "2013",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "channel" : "zulu.tv2.dk",
+            "stop" : "1523171100"
+         },
+         {
+            "new" : null,
+            "date" : "2018",
+            "desc" : {
+               "da" : "Mark fra Hiller\u00f8d bliver positivt overrasket, da han ser sin date, Sophie fra Lynge. De er unge, og de er smukke, og de har livet foran sig. Bliver kemien lige s\u00e5 god som f\u00f8rsteh\u00e5ndsindtrykket, n\u00e5r Sophie fort\u00e6ller om dengang, hun var utro? Og er Mark kommet sig over k\u00e6resten, som forlod ham? I det andet sovev\u00e6relse m\u00f8des Helle og Edwin. De er begge i 50'erne og leder efter deres sidste k\u00e6reste. Helle er en fr\u00e6k kvinde, som kan lide at kl\u00e6de sig udfordrende i et forhold. Hun blev mor som 15-\u00e5rig, og s\u00e5 har hun v\u00e6ret side 9-pige. Hvad siger Edwin til Helles syv b\u00f8rneb\u00f8rn, og hvordan har de det egentligt med at skulle kl\u00e6de hinanden af?"
+            },
+            "start" : "1523171100",
+            "title" : {
+               "da" : "Kl\u00e6d mig af"
+            },
+            "stop" : "1523172900",
+            "channel" : "zulu.tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            }
+         },
+         {
+            "stop" : "1523174700",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "channel" : "zulu.tv2.dk",
+            "date" : "2018",
+            "new" : null,
+            "title" : {
+               "da" : "Kl\u00e6d mig af"
+            },
+            "desc" : {
+               "da" : "Farverige Christian fra Aarhus har if\u00f8rt sig sit mest orange s\u00e6t t\u00f8j, n\u00e5r han skal p\u00e5 date med smilende Tchila. Tchila er ikke vild med orange, s\u00e5 det er et held, at daten starter med, at hun skal kl\u00e6de Christian af. Er der amoriner i luften, n\u00e5r de to spirituelle v\u00e6sner snakker om liv efter d\u00f8den, og hvad siger Tchila til, at Christian t\u00e6nder p\u00e5 at hive piger i h\u00e5ret? 18-\u00e5rige Isabella g\u00e5r p\u00e5 HF og er fem toner for m\u00f8rkh\u00e5ret til 24-\u00e5rige Kevins smag. Men betyder h\u00e5rfarven noget i vores eksperiment, hvor vores par \u00e5bner op og kommer t\u00e6ttere p\u00e5 hinanden? Og hvad siger Kevin til, at unge Isabella l\u00e6ser ham efter kun 15 minutter?"
+            },
+            "start" : "1523172900"
+         },
+         {
+            "channel" : "zulu.tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1523176800",
+            "start" : "1523174700",
+            "desc" : {
+               "da" : "Kom helt t\u00e6t p\u00e5 familien Pitzner og en hverdag fuld af k\u00e6rlighed, konflikter og diamanter. I spidsen som den ubestridte leder st\u00e5r den selfmade diamantmillion\u00f8se, mor Katerina, godt flankeret af sine tre vidt forskellige, men lige elskelige, modige og dr\u00f8nhamrende st\u00e5lsatte d\u00f8tre, Thalia, Elvira og Ophelia. Vi begynder i den s\u00f8de juletid, hvor traditionerne skal holdes i h\u00e6vd. Men Katerina stresser over, om hun og pigerne overhovedet n\u00e5r den \u00e5rlige julefrokost p\u00e5 Caf\u00e9 Victor, Thalia tager i byen uden trusser p\u00e5, og Elvira glemmer juletr\u00e6et, stj\u00e6ler sine s\u00f8skendes gaver og g\u00e5r modvilligt fra brunette til blondine under stort pres fra sin mor."
+            },
+            "title" : {
+               "da" : "Diamantfamilien"
+            },
+            "new" : null,
+            "date" : "2018"
+         },
+         {
+            "start" : "1523176800",
+            "desc" : {
+               "da" : "Livet som international diamanthandler er hektisk, og Katerina m\u00e5 haste til v\u00e6rkstedet i Antwerpen. Den slags levner ikke megen tid til k\u00e6rlighed og dating for Katerina, men det vil Thalia og Elvira \u00e6ndre p\u00e5 - de bliver endda bakket op af Katerinas faste astrolog, Birthe. Og s\u00e5 v\u00e6dder Elvira og Katerina om, hvem der st\u00e5r 'skarpest', inden familien tager p\u00e5 ferie til Bahamas."
+            },
+            "title" : {
+               "da" : "Diamantfamilien"
+            },
+            "new" : null,
+            "date" : "2018",
+            "channel" : "zulu.tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1523178900"
+         },
+         {
+            "date" : "2017",
+            "new" : null,
+            "title" : {
+               "da" : "The Voice USA - s\u00e6son 13"
+            },
+            "start" : "1523178900",
+            "desc" : {
+               "da" : "Det er live, og alt kan ske! De 12 sidste sangere indtager for f\u00f8rste gang live-scenen foran millioner af seere, publikum og coaches. Det er op til tv-seerne at bestemme, hvem der g\u00e5r videre til n\u00e6ste uges show, og hvilke to artister, der skal ud i en altafg\u00f8rende battle om aftenens sidste plads videre i konkurrencen."
+            },
+            "subTitle" : {
+               "da" : "Live performances 1"
+            },
+            "previously_shown" : "zulu.tv2.dk|2018-04-03 19:00:00",
+            "stop" : "1523184300",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "channel" : "zulu.tv2.dk"
+         },
+         {
+            "title" : {
+               "da" : "The Voice USA - s\u00e6son 13"
+            },
+            "start" : "1523184300",
+            "desc" : {
+               "da" : "V\u00e6rt Carson Daly l\u00f8fter sl\u00f8ret for, hvilke 10 artister seerne har stemt videre, og de to sangere med f\u00e6rrest stemmer skal optr\u00e6de endnu en gang i h\u00e5b om at blive i konkurrencen."
+            },
+            "date" : "2017",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "channel" : "zulu.tv2.dk",
+            "stop" : "1523187000",
+            "previously_shown" : "zulu.tv2.dk|2018-04-03 20:30:00",
+            "subTitle" : {
+               "da" : "Eliminations 1"
+            }
+         },
+         {
+            "channel" : "zulu.tv2.dk",
+            "episodeNum" : {
+               "thetvdb.com" : "series/76648",
+               "onscreen" : "Afsnit 5 s\u00e6son 2",
+               "xmltv_ns" : "1 . 4 ."
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Allen Coulter"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Kim Cattrall",
+                     "role" : "Samantha Jones"
+                  },
+                  {
+                     "role" : "Carrie Bradshaw",
+                     "name" : "Sarah Jessica Parker"
+                  },
+                  {
+                     "role" : "Charlotte York-Goldenblatt",
+                     "name" : "Kristin Davis"
+                  },
+                  {
+                     "name" : "Cynthia Nixon",
+                     "role" : "Miranda Hobbes"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Jenny Bicks"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Four Women and a Funeral"
+            },
+            "stop" : "1523188800",
+            "previously_shown" : "zulu.tv2.dk|2018-04-02 10:05:00",
+            "rating" : {
+               "stars" : "6 / 9"
+            },
+            "desc" : {
+               "da" : "Til en modedesigners begravelse m\u00f8der Charlotte en enkemand. Imens inviterer Big Carrie p\u00e5 middag, men hun er meget tilbageholden med at involvere sig i et forhold igen."
+            },
+            "start" : "1523187000",
+            "title" : {
+               "da" : "Sex and the City"
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=76648&seasonid=10994&id=205764&lid=8"
+            ],
+            "date" : "1998"
+         },
+         {
+            "previously_shown" : "zulu.tv2.dk|2018-04-02 10:35:00",
+            "stop" : "1523190600",
+            "subTitle" : {
+               "da" : "The Cheating Curve"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "John David Coles"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Kim Cattrall",
+                     "role" : "Samantha Jones"
+                  },
+                  {
+                     "name" : "Sarah Jessica Parker",
+                     "role" : "Carrie Bradshaw"
+                  },
+                  {
+                     "name" : "Kristin Davis",
+                     "role" : "Charlotte York-Goldenblatt"
+                  },
+                  {
+                     "role" : "Miranda Hobbes",
+                     "name" : "Cynthia Nixon"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Darren Star"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 5 .",
+               "thetvdb.com" : "series/76648",
+               "onscreen" : "Afsnit 6 s\u00e6son 2"
+            },
+            "channel" : "zulu.tv2.dk",
+            "date" : "1998",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=76648&seasonid=10994&id=205765&lid=8"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "Sex and the City"
+            },
+            "desc" : {
+               "da" : "Carrie finder officielt sammen med Big igen, og Charlotte bliver erkl\u00e6ret homoseksuel af en gruppe lesbiske."
+            },
+            "rating" : {
+               "stars" : "6.5 / 9"
+            },
+            "start" : "1523188800"
+         },
+         {
+            "title" : {
+               "da" : "Sex and the City"
+            },
+            "rating" : {
+               "stars" : "6.3 / 9"
+            },
+            "start" : "1523190600",
+            "desc" : {
+               "da" : "Miranda forelsker sig i en l\u00e6kker logerende, som desv\u00e6rre har et bedre \u00f8je til Mirandas indretningsarkitekt. Imens begynder Carrie at kime Big ned."
+            },
+            "date" : "1998",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=76648&seasonid=10994&id=205766&lid=8"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Victoria Hochberg"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Samantha Jones",
+                     "name" : "Kim Cattrall"
+                  },
+                  {
+                     "name" : "Sarah Jessica Parker",
+                     "role" : "Carrie Bradshaw"
+                  },
+                  {
+                     "name" : "Kristin Davis",
+                     "role" : "Charlotte York-Goldenblatt"
+                  },
+                  {
+                     "name" : "Cynthia Nixon",
+                     "role" : "Miranda Hobbes"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Cindy Chupack"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 6 .",
+               "onscreen" : "Afsnit 7 s\u00e6son 2",
+               "thetvdb.com" : "series/76648"
+            },
+            "channel" : "zulu.tv2.dk",
+            "previously_shown" : "zulu.tv2.dk|2018-04-03 10:15:00",
+            "stop" : "1523192400",
+            "subTitle" : {
+               "da" : "The Chicken Dance"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Sex and the City"
+            },
+            "rating" : {
+               "stars" : "6.2 / 9"
+            },
+            "desc" : {
+               "da" : "Carrie og Big forts\u00e6tter deres nye og forbedrede forhold, samtidig med at Samantha begynder at date en \u00e6ldre million\u00e6r, og Miranda finder sammen med en s\u00f8d bartender."
+            },
+            "start" : "1523192400",
+            "date" : "1998",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=76648&seasonid=10994&id=205767&lid=8"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Michael Patrick King"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Kim Cattrall",
+                     "role" : "Samantha Jones"
+                  },
+                  {
+                     "role" : "Carrie Bradshaw",
+                     "name" : "Sarah Jessica Parker"
+                  },
+                  {
+                     "name" : "Kristin Davis",
+                     "role" : "Charlotte York-Goldenblatt"
+                  },
+                  {
+                     "name" : "Cynthia Nixon",
+                     "role" : "Miranda Hobbes"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Victoria Hochberg"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 7 .",
+               "thetvdb.com" : "series/76648",
+               "onscreen" : "Afsnit 8 s\u00e6son 2"
+            },
+            "channel" : "zulu.tv2.dk",
+            "stop" : "1523194200",
+            "previously_shown" : "zulu.tv2.dk|2018-04-03 10:45:00",
+            "subTitle" : {
+               "da" : "The Man, the Myth, the Viagra"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Samantha st\u00f8der ind i en gammel k\u00e6reste, der nu er dragqueen. Carrie fors\u00f8ger at \u00e6ndre p\u00e5 nogle af Bigs irriterende vaner, og Charlotte begynder at date en omsk\u00e5ret mand."
+            },
+            "rating" : {
+               "stars" : "6.3 / 9"
+            },
+            "start" : "1523194200",
+            "title" : {
+               "da" : "Sex and the City"
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=76648&seasonid=10994&id=205768&lid=8"
+            ],
+            "date" : "1998",
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 8 .",
+               "onscreen" : "Afsnit 9 s\u00e6son 2",
+               "thetvdb.com" : "series/76648"
+            },
+            "channel" : "zulu.tv2.dk",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Alan Taylor"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Kim Cattrall",
+                     "role" : "Samantha Jones"
+                  },
+                  {
+                     "role" : "Carrie Bradshaw",
+                     "name" : "Sarah Jessica Parker"
+                  },
+                  {
+                     "role" : "Charlotte York-Goldenblatt",
+                     "name" : "Kristin Davis"
+                  },
+                  {
+                     "name" : "Cynthia Nixon",
+                     "role" : "Miranda Hobbes"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Jenny Bicks"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "previously_shown" : "zulu.tv2.dk|2018-02-11 12:20:00",
+            "stop" : "1523196300",
+            "subTitle" : {
+               "da" : "Old Dogs, New Dicks"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "The Caste System"
+            },
+            "previously_shown" : "zulu.tv2.dk|2018-02-11 12:50:00",
+            "stop" : "1523198100",
+            "channel" : "zulu.tv2.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 10 s\u00e6son 2",
+               "thetvdb.com" : "series/76648",
+               "xmltv_ns" : "1 . 9 ."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Kim Cattrall",
+                     "role" : "Samantha Jones"
+                  },
+                  {
+                     "name" : "Sarah Jessica Parker",
+                     "role" : "Carrie Bradshaw"
+                  },
+                  {
+                     "name" : "Kristin Davis",
+                     "role" : "Charlotte York-Goldenblatt"
+                  },
+                  {
+                     "role" : "Miranda Hobbes",
+                     "name" : "Cynthia Nixon"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Allison Anders"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Darren Star"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=76648&seasonid=10994&id=205769&lid=8"
+            ],
+            "new" : null,
+            "date" : "1998",
+            "rating" : {
+               "stars" : "6 / 9"
+            },
+            "desc" : {
+               "da" : "Veninderne f\u00e5r indblik i kl\u00f8ften mellem rig og fattig, da Miranda m\u00e5 forsikre sin k\u00e6reste om, at deres \u00f8konomiske forskelle ikke er et problem, og Samantha m\u00f8der sin megarige dates tjener."
+            },
+            "start" : "1523196300",
+            "title" : {
+               "da" : "Sex and the City"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Sex and the City"
+            },
+            "rating" : {
+               "stars" : "6 / 9"
+            },
+            "start" : "1523198100",
+            "desc" : {
+               "da" : "Carrie begynder at efterlade sine ting hos Big i et fors\u00f8g p\u00e5 at styrke ideen om et fast forhold. Charlotte dater en kok med manglende maskulinitet, og Miranda finder ud af, at hun har en doven livmoder."
+            },
+            "date" : "1998",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=76648&seasonid=10994&id=205770&lid=8"
+            ],
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Pam Thomas"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Kim Cattrall",
+                     "role" : "Samantha Jones"
+                  },
+                  {
+                     "name" : "Sarah Jessica Parker",
+                     "role" : "Carrie Bradshaw"
+                  },
+                  {
+                     "role" : "Charlotte York-Goldenblatt",
+                     "name" : "Kristin Davis"
+                  },
+                  {
+                     "role" : "Miranda Hobbes",
+                     "name" : "Cynthia Nixon"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Cindy Chupack"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 10 .",
+               "thetvdb.com" : "series/76648",
+               "onscreen" : "Afsnit 11 s\u00e6son 2"
+            },
+            "channel" : "zulu.tv2.dk",
+            "stop" : "1523200200",
+            "previously_shown" : "zulu.tv2.dk|2018-02-11 13:25:00",
+            "subTitle" : {
+               "da" : "Evolution"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "La Douleur Exquise!"
+            },
+            "stop" : "1523202000",
+            "previously_shown" : "zulu.tv2.dk|2018-02-11 14:00:00",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Allison Anders"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Kim Cattrall",
+                     "role" : "Samantha Jones"
+                  },
+                  {
+                     "name" : "Sarah Jessica Parker",
+                     "role" : "Carrie Bradshaw"
+                  },
+                  {
+                     "name" : "Kristin Davis",
+                     "role" : "Charlotte York-Goldenblatt"
+                  },
+                  {
+                     "role" : "Miranda Hobbes",
+                     "name" : "Cynthia Nixon"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Ollie Levy"
+                  },
+                  {
+                     "name" : "Michael Patrick King"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "channel" : "zulu.tv2.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 11 .",
+               "onscreen" : "Afsnit 12 s\u00e6son 2",
+               "thetvdb.com" : "series/76648"
+            },
+            "date" : "1998",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=76648&seasonid=10994&id=205771&lid=8"
+            ],
+            "title" : {
+               "da" : "Sex and the City"
+            },
+            "desc" : {
+               "da" : "Samantha tager pigerne med p\u00e5 S&M-restaurant, og Big fort\u00e6ller Carrie, at han rejser til Paris i seks m\u00e5neder."
+            },
+            "rating" : {
+               "stars" : "6.2 / 9"
+            },
+            "start" : "1523200200"
+         },
+         {
+            "date" : "1998",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=76648&seasonid=10994&id=205772&lid=8"
+            ],
+            "title" : {
+               "da" : "Sex and the City"
+            },
+            "start" : "1523202000",
+            "rating" : {
+               "stars" : "6.3 / 9"
+            },
+            "desc" : {
+               "da" : "Carrie er skuffet over at m\u00f8de alle de forkerte m\u00e6nd, og Samantha g\u00e5r ud med en sn\u00e6versynet sportsfanatiker. I mellemtiden s\u00f8ger Charlotte k\u00e6rligheden i den lokale bridgeklub."
+            },
+            "subTitle" : {
+               "da" : "Games People Play"
+            },
+            "previously_shown" : "zulu.tv2.dk|2018-02-11 14:30:00",
+            "stop" : "1523203800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Jenny Bicks"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Michael Spiller"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Samantha Jones",
+                     "name" : "Kim Cattrall"
+                  },
+                  {
+                     "role" : "Carrie Bradshaw",
+                     "name" : "Sarah Jessica Parker"
+                  },
+                  {
+                     "name" : "Kristin Davis",
+                     "role" : "Charlotte York-Goldenblatt"
+                  },
+                  {
+                     "name" : "Cynthia Nixon",
+                     "role" : "Miranda Hobbes"
+                  }
+               ]
+            },
+            "channel" : "zulu.tv2.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 12 .",
+               "onscreen" : "Afsnit 13 s\u00e6son 2",
+               "thetvdb.com" : "series/76648"
+            }
+         },
+         {
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=76648&seasonid=10994&id=205773&lid=8"
+            ],
+            "date" : "1998",
+            "start" : "1523203800",
+            "rating" : {
+               "stars" : "6.2 / 9"
+            },
+            "desc" : {
+               "da" : "Carrie arrangerer en date med sin \"kammerat\". Imens nyder Samantha naboernes heftige aktivitet."
+            },
+            "title" : {
+               "da" : "Sex and the City"
+            },
+            "previously_shown" : "zulu.tv2.dk|2018-02-11 15:00:00",
+            "stop" : "1523205600",
+            "subTitle" : {
+               "da" : "The Fuck Buddy"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/76648",
+               "onscreen" : "Afsnit 14 s\u00e6son 2",
+               "xmltv_ns" : "1 . 13 ."
+            },
+            "channel" : "zulu.tv2.dk",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Merrill Markoe"
+                  },
+                  {
+                     "name" : "Darren Star"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Samantha Jones",
+                     "name" : "Kim Cattrall"
+                  },
+                  {
+                     "role" : "Carrie Bradshaw",
+                     "name" : "Sarah Jessica Parker"
+                  },
+                  {
+                     "role" : "Charlotte York-Goldenblatt",
+                     "name" : "Kristin Davis"
+                  },
+                  {
+                     "name" : "Cynthia Nixon",
+                     "role" : "Miranda Hobbes"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Alan Taylor"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            }
+         },
+         {
+            "stop" : "1523207100",
+            "previously_shown" : "zulu.tv2.dk|2018-04-06 17:40:00",
+            "subTitle" : {
+               "da" : "The One With The Ride Along"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 20 s\u00e6son 5",
+               "thetvdb.com" : "series/79168",
+               "xmltv_ns" : "4 . 19 ."
+            },
+            "channel" : "zulu.tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Shana Goldberg-Meehan"
+                  },
+                  {
+                     "name" : "Seth Kurland"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Jennifer Aniston",
+                     "role" : "Rachel Green"
+                  },
+                  {
+                     "name" : "Matthew Perry",
+                     "role" : "Chandler Bing"
+                  },
+                  {
+                     "role" : "Monica Geller",
+                     "name" : "Courteney Cox"
+                  },
+                  {
+                     "role" : "Joey Tribbiani",
+                     "name" : "Matt LeBlanc"
+                  },
+                  {
+                     "name" : "Lisa Kudrow",
+                     "role" : "Phoebe Buffay"
+                  },
+                  {
+                     "role" : "Ross Geller",
+                     "name" : "David Schwimmer"
+                  },
+                  {
+                     "name" : "Michael Rapaport"
+                  },
+                  {
+                     "name" : "Helen Baxendale"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Gary Halvorson"
+                  }
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=79168&seasonid=16107&id=303937&lid=8"
+            ],
+            "new" : null,
+            "date" : "1994",
+            "desc" : {
+               "da" : "Rachel sniger sig ind i Ross' lejlighed, mens han ikke er hjemme, fordi hun vil l\u00e5ne hans blender. Her overh\u00f8rer hun en meget interessant besked p\u00e5 telefonsvareren fra hans eks-kone, Emily. Emily overvejer \u00e5benbart at aflyse sit forest\u00e5ende bryllup og vende tilbage til Ross, men det synes hverken Rachel eller Monica, er nogen s\u00e6rlig god id\u00e9. Hvad nu, hvis Ross aldrig fik beskeden? Imens er fyrene med Gary p\u00e5 patrulje, og det lykkes Joey at imponere politimanden, da han instinktivt s\u00e6tter sit liv p\u00e5 spil for Ross."
+            },
+            "rating" : {
+               "stars" : "6.3 / 9"
+            },
+            "start" : "1523205600",
+            "title" : {
+               "da" : "Venner"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Venner"
+            },
+            "desc" : {
+               "da" : "Phoebes k\u00e6reste, Gary, vil have hende til at flytte ind hos ham, men Phoebe frygter, at det er et for stort skridt for dem at tage endnu - s\u00e5 hun beder Chandler om at tale med Gary. For mon ikke Chandlers velkendte angst for engagement i parforhold vil kunne f\u00e5 Gary p\u00e5 andre tanker? Ross og Joey er travlt optaget af helt andre ting. For sjov kaster de en bold til hinanden, men da de indser, at de har kastet i mere end en time uden at tabe bolden en eneste gang, bliver legen pludselig til mere end blot en leg."
+            },
+            "rating" : {
+               "stars" : "6.5 / 9"
+            },
+            "start" : "1523207100",
+            "date" : "1994",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=79168&seasonid=16107&id=303938&lid=8"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Gary Halvorson"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Rachel Green",
+                     "name" : "Jennifer Aniston"
+                  },
+                  {
+                     "name" : "Matthew Perry",
+                     "role" : "Chandler Bing"
+                  },
+                  {
+                     "role" : "Monica Geller",
+                     "name" : "Courteney Cox"
+                  },
+                  {
+                     "role" : "Joey Tribbiani",
+                     "name" : "Matt LeBlanc"
+                  },
+                  {
+                     "name" : "Lisa Kudrow",
+                     "role" : "Phoebe Buffay"
+                  },
+                  {
+                     "name" : "David Schwimmer",
+                     "role" : "Ross Geller"
+                  },
+                  {
+                     "name" : "James Michael Tyler"
+                  },
+                  {
+                     "name" : "Michael Rapaport"
+                  },
+                  {
+                     "name" : "Victoria Kelleher"
+                  },
+                  {
+                     "name" : "Antoinette Spolar"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Greg Malins"
+                  }
+               ]
+            },
+            "channel" : "zulu.tv2.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "4 . 20 .",
+               "thetvdb.com" : "series/79168",
+               "onscreen" : "Afsnit 21 s\u00e6son 5"
+            },
+            "subTitle" : {
+               "da" : "The One With The Ball"
+            },
+            "stop" : "1523208900"
+         },
+         {
+            "new" : null,
+            "date" : "2018",
+            "start" : "1523208900",
+            "desc" : {
+               "da" : "I Odense g\u00e5r en dr\u00f8m i opfyldelse: Loay optager en reklamefilm. I Skanderborg synes Jeff, at k\u00f8reskolens man\u00f8vrebanebiler er for smadrede, s\u00e5 han k\u00f8ber nye. Hos Morten er der nerver p\u00e5 - Lia skal til k\u00f8repr\u00f8ve og vil ikke tabe ansigt over for sin k\u00e6reste, Andreas, der allerede har f\u00e5et sit k\u00f8rekort hos Morten. I Br\u00f8ndby er der skrig og skr\u00e5l, fordi Daniel skal tatoveres - og s\u00e5 er der selvf\u00f8lgelig teori med Tai Lien Lu."
+            },
+            "title" : {
+               "da" : "K\u00f8rel\u00e6rerne"
+            },
+            "stop" : "1523211000",
+            "channel" : "zulu.tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "channel" : "zulu.tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1523213100",
+            "start" : "1523211000",
+            "desc" : {
+               "da" : "K\u00f8rel\u00e6rerne har travlt, og is\u00e6r hos Jeff i Skanderborg, hvor der ofte st\u00e5r 12 k\u00f8retimer om dagen i kalenderen. Hos Loay i Odense skal Guldholdet til teoripr\u00f8ve. Ingen p\u00e5 et Guldhold er nogensinde dumpet, men kommer det til at ske? I Br\u00f8ndby forlanger Daniel, at Dalle skal k\u00f8re rundt i en badek\u00e5be, og Daniels t\u00e5lmodighed bliver testet, da slagterpigen Sofie ikke kan f\u00e5 bilen i gang. Og s\u00e5 er der selvf\u00f8lgelig teori med Tai Lien Lu."
+            },
+            "title" : {
+               "da" : "K\u00f8rel\u00e6rerne"
+            },
+            "new" : null,
+            "date" : "2018"
+         },
+         {
+            "date" : "2018",
+            "new" : null,
+            "title" : {
+               "da" : "Diamantfamilien"
+            },
+            "start" : "1523213100",
+            "desc" : {
+               "da" : "Livet som international diamanthandler er hektisk, og Katerina m\u00e5 haste til v\u00e6rkstedet i Antwerpen. Den slags levner ikke megen tid til k\u00e6rlighed og dating for Katerina, men det vil Thalia og Elvira \u00e6ndre p\u00e5 - de bliver endda bakket op af Katerinas faste astrolog, Birthe. Og s\u00e5 v\u00e6dder Elvira og Katerina om, hvem der st\u00e5r 'skarpest', inden familien tager p\u00e5 ferie til Bahamas."
+            },
+            "stop" : "1523215200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "zulu.tv2.dk"
+         },
+         {
+            "channel" : "zulu.tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "stop" : "1523218800",
+            "desc" : {
+               "da" : "Ane H\u00f8gsberg er feminist. I hvert fald i ordets oprindelige forstand. Men det kan v\u00e6re meget sv\u00e6rt at g\u00f8re det hele rigtigt. At huske alle reglerne og ikke tr\u00e6de forkert. Man kan meget hurtigt blive en d\u00e5rlig feminist - men det er m\u00e5ske alligevel bedre end slet ikke at v\u00e6re feminist? Showet 'D\u00e5rlig Feminist' handler om at finde ud af sig selv ved at finde ind i sig selv. Om at turde erkende, hvis man er en d\u00e5rlig feminist og finde roen i det. Om ikke at lade sine holdninger diktere af andre - og om, hvordan nogle mennesker ikke kan tage patent p\u00e5 et ord eller en definition. Det handler om, at der er plads til at v\u00e6re d\u00e5rlig til noget, og at det er helt okay."
+            },
+            "start" : "1523215200",
+            "title" : {
+               "da" : "D\u00e5rlig Feminist med Ane H\u00f8gsberg"
+            },
+            "new" : null,
+            "date" : "2017"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "channel" : "zulu.tv2.dk",
+            "stop" : "1523223000",
+            "title" : {
+               "da" : "DM i Standup 2017 - FINALE"
+            },
+            "desc" : {
+               "da" : "75 spirende standup-talenter har dystet om at komme med i DM-finalen. Syv knivskarpe finalister st\u00e5r tilbage og konkurrerer nu om at blive den nye danmarksmester og vinde en eftertragtet kontrakt med standup-bookingbureauet FBI. Komikerne Mikkel Rask, Ane H\u00f8gsberg og Heino Hansen er v\u00e6rter og vil s\u00f8rge for, at b\u00e5de deltagere, seere og publikum f\u00e5r en forrygende fantastisk og nervepirrende aften."
+            },
+            "start" : "1523218800",
+            "date" : "2017",
+            "new" : null
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "channel" : "zulu.tv2.dk",
+            "stop" : "1523224500",
+            "title" : {
+               "da" : "DM i Standup 2017 - AFG\u00d8RELSEN"
+            },
+            "desc" : {
+               "da" : "75 spirende standup-talenter har dystet om at komme med i DM-finalen. Syv knivskarpe finalister st\u00e5r tilbage og konkurrerer nu om at blive den nye danmarksmester og vinde en eftertragtet kontrakt med standup-bookingbureauet FBI. Komikerne Mikkel Rask, Ane H\u00f8gsberg og Heino Hansen er v\u00e6rter og vil s\u00f8rge for, at b\u00e5de deltagere, seere og publikum f\u00e5r en forrygende fantastisk og nervepirrende aften."
+            },
+            "start" : "1523223000",
+            "date" : "2017",
+            "new" : null
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "channel" : "zulu.tv2.dk",
+            "stop" : "1523226300",
+            "title" : {
+               "da" : "N\u00f8rgaards Netfix"
+            },
+            "desc" : {
+               "da" : "N\u00f8rgaards omvandrende cirkus af internetsjov er tilbage. Fuldt af st\u00e6rke pointer, underholdende anmeldelser og vanvittige indslag."
+            },
+            "start" : "1523224500",
+            "date" : "2015",
+            "new" : null
+         },
+         {
+            "new" : null,
+            "date" : "2015",
+            "desc" : {
+               "da" : "S\u00e5 er Martin N\u00f8rgaard tilbage med de dummeste klip, de sjoveste parodier og skarpeste pointer p\u00e5 alt hvad internettet har at byde p\u00e5 fra d\u00e5rlig porno til sl\u00f8je facebook kommentarer. Se nettet i et nyt lys."
+            },
+            "start" : "1523226300",
+            "title" : {
+               "da" : "N\u00f8rgaards Netfix"
+            },
+            "stop" : "1523228400",
+            "channel" : "zulu.tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            }
+         },
+         {
+            "country" : [
+               "QA",
+               "GB",
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Thriller"
+               ]
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "William Wheeler"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Mira Nair"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Riz Ahmed",
+                     "role" : "Changez"
+                  },
+                  {
+                     "name" : "Kate Hudson",
+                     "role" : "Erica"
+                  },
+                  {
+                     "name" : "Kiefer Sutherland",
+                     "role" : "Jim"
+                  },
+                  {
+                     "name" : "Liev Schreiber",
+                     "role" : "Bobby"
+                  },
+                  {
+                     "role" : "Wainwright",
+                     "name" : "Nelsan Ellis"
+                  },
+                  {
+                     "role" : "Ludlow Cooper",
+                     "name" : "Martin Donovan"
+                  },
+                  {
+                     "role" : "Mike Rizzo",
+                     "name" : "Christopher Nicholas Smith"
+                  },
+                  {
+                     "name" : "Om Puri",
+                     "role" : "Abu"
+                  },
+                  {
+                     "name" : "Shabana Azmi",
+                     "role" : "Ammi"
+                  },
+                  {
+                     "name" : "Haluk Bilginer",
+                     "role" : "Nazmi Kemal"
+                  },
+                  {
+                     "name" : "Meesah Shafi",
+                     "role" : "Bina"
+                  }
+               ]
+            },
+            "channel" : "zulu.tv2.dk",
+            "episodeNum" : {
+               "themoviedb.org" : "movie/121677"
+            },
+            "stop" : "1523236200",
+            "previously_shown" : "tv2.dk|2018-04-07 22:15:00",
+            "title" : {
+               "da" : "Den modvillige fundamentalist"
+            },
+            "rating" : {
+               "stars" : "6.6 / 10"
+            },
+            "desc" : {
+               "da" : "Da den amerikanske professor Anse Rainier bliver kidnappet af islamiske fundamentalister i Pakistan, er CIA sikker p\u00e5, at hans kollega, den pakistanske professor Changez, er indblandet i kidnapningen. For at at f\u00e5 det bekr\u00e6ftet interviewer journalisten og CIA-agenten Bobby Lincoln Changez p\u00e5 en cafe. Her begynder den pakistanske professor at berette om sit bem\u00e6rkelsesv\u00e6rdige liv, hans arbejde p\u00e5 Wall Street i USA, og hans uretf\u00e6rdige arrestation efter terrorangrebet 11. september 2001. Hader han USA? Er han indblandet i kidnapningen? Samtidig spidser situationen til, da CIA har brug for at g\u00e5 i aktion, hvis de skal n\u00e5 at redde Anse Rainer."
+            },
+            "start" : "1523228400",
+            "date" : "2012",
+            "url" : [
+               "http://www.themoviedb.org/movie/121677"
+            ],
+            "new" : null
+         }
+      ]
+   }
+}

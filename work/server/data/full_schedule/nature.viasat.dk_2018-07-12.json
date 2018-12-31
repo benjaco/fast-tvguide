@@ -1,0 +1,1148 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "desc" : {
+               "da" : "Mowgli, Pugsly og Maisy, de truede bjergdv\u00e6rgpungrotter, skal vejes."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 11 s\u00e6son 1",
+               "xmltv_ns" : "0 . 10 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "start" : "1531354200",
+            "new" : null,
+            "title" : {
+               "da" : "Chris Humfrey's Dyre-instinkter"
+            },
+            "channel" : "nature.viasat.dk",
+            "date" : "2016",
+            "stop" : "1531355700"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Chris tager til Potoroo Palace i New South Wales for at m\u00f8de Priscilla, det seneste medlem af dyrefamilien."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 11 .",
+               "onscreen" : "Afsnit 12 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "date" : "2016",
+            "stop" : "1531357200",
+            "new" : null,
+            "start" : "1531355700",
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Chris Humfrey's Dyre-instinkter"
+            }
+         },
+         {
+            "date" : "2016",
+            "stop" : "1531358700",
+            "start" : "1531357200",
+            "new" : null,
+            "title" : {
+               "da" : "Hundehistorier: Tibor til unds\u00e6tning"
+            },
+            "channel" : "nature.viasat.dk",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Tibor skal hj\u00e6lpe Charlie, en ung labradoodle, der er bange for at v\u00e6re alene og ikke er stueren."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 1",
+               "xmltv_ns" : "0 . 3 ."
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 s\u00e6son 1",
+               "xmltv_ns" : "0 . 4 ."
+            },
+            "desc" : {
+               "da" : "Tibor skal have skik p\u00e5 to franske bulldogs, Diesel og Brody, der er fr\u00e6kke og s\u00e5r splid mellem en bror og en s\u00f8ster."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1531360200",
+            "date" : "2016",
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Hundehistorier: Tibor til unds\u00e6tning"
+            },
+            "new" : null,
+            "start" : "1531358700"
+         },
+         {
+            "date" : "2017",
+            "stop" : "1531361700",
+            "start" : "1531360200",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Angelika Langen"
+                  },
+                  {
+                     "name" : "Peter Langen"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Brad Quenville"
+                  }
+               ]
+            },
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Bj\u00f8rneinternatet"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "De sidste to bj\u00f8rneunger, der skal s\u00e6ttes ud i naturen igen, har knyttet sig til de frivillige. Kan Angelika ikke l\u00e6re dem at frygte mennesker, kan det bringe hele ordningen i fare."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 4 .",
+               "onscreen" : "Afsnit 5 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Bj\u00f8rneinternatet"
+            },
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Angelika Langen"
+                  },
+                  {
+                     "name" : "Peter Langen"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Brad Quenville"
+                  }
+               ]
+            },
+            "start" : "1531361700",
+            "stop" : "1531363200",
+            "date" : "2017",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 5 .",
+               "onscreen" : "Afsnit 6 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Tusindvis flokkes til internatets \u00e5rlige \u00e5bent hus, og Angelika skal afveje publicity og en alvorligt syg d\u00e5kalv."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "start" : "1531363200",
+            "new" : null,
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Dyreparkens unger"
+            },
+            "date" : "2016",
+            "stop" : "1531365000",
+            "desc" : {
+               "da" : "S\u00f8l\u00f8ven Hermann elsker at solbade, mens kusinen Aileen knokler p\u00e5 \"s\u00f8l\u00f8veskolen\", og rygterne g\u00e5r i zoo om, at llamaen Lilly skal have en \u00f8jenoperation."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 s\u00e6son 7",
+               "xmltv_ns" : "6 . 4 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Nature"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Dyreparkens unger"
+            },
+            "channel" : "nature.viasat.dk",
+            "new" : null,
+            "start" : "1531365000",
+            "stop" : "1531368600",
+            "date" : "2016",
+            "desc" : {
+               "da" : "Der er drama i zoo: flagermusekolonien har mistet en unge, og det g\u00e5r ikke stille for sig."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 6 s\u00e6son 7",
+               "xmltv_ns" : "6 . 5 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Nature"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "start" : "1531368600",
+            "country" : [
+               "GB"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "Alaskas vildeste by"
+            },
+            "channel" : "nature.viasat.dk",
+            "date" : "2016",
+            "stop" : "1531370100",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 s\u00e6son 1",
+               "xmltv_ns" : "0 . 4 ."
+            },
+            "desc" : {
+               "da" : "Ulve har i \u00e5revis levet og jaget i udkanten af byen i vildnisset, Anchorage. Men byen spreder sig mere og mere ind i ulvenes territorium, og ulvene bliver modigere."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Tibor skal have skik p\u00e5 to franske bulldogs, Diesel og Brody, der er fr\u00e6kke og s\u00e5r splid mellem en bror og en s\u00f8ster."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 4 .",
+               "onscreen" : "Afsnit 5 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "title" : {
+               "da" : "Hundehistorier: Tibor til unds\u00e6tning"
+            },
+            "channel" : "nature.viasat.dk",
+            "new" : null,
+            "start" : "1531370100",
+            "stop" : "1531371600",
+            "date" : "2016"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Tibor skal hj\u00e6lpe Lucky, der \u00e6der b\u00e5de m\u00f8bler og sko - og nu er ejeren ved at have f\u00e5et nok!"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 5 .",
+               "onscreen" : "Afsnit 6 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1531373100",
+            "date" : "2016",
+            "title" : {
+               "da" : "Hundehistorier: Tibor til unds\u00e6tning"
+            },
+            "channel" : "nature.viasat.dk",
+            "start" : "1531371600",
+            "new" : null
+         },
+         {
+            "country" : [
+               "GB"
+            ],
+            "new" : null,
+            "start" : "1531373100",
+            "title" : {
+               "da" : "Dyrenes narrestreger"
+            },
+            "channel" : "nature.viasat.dk",
+            "date" : "2015",
+            "stop" : "1531374900",
+            "desc" : {
+               "da" : "Vi starter nedt\u00e6llingen af de top-tyve grusomste dyr. Et uhyggeligt panel af eksperter vil afg\u00f8re, hvem af disse skabninger, der er det mest frygtindgydende."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Nature"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 1",
+               "xmltv_ns" : "0 . 2 ."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Nature"
+               ]
+            },
+            "desc" : {
+               "da" : "Verdens mest efters\u00f8gte, kriminelle dyr bliver sat p\u00e5 anklageb\u00e6nken, af en jury, best\u00e5ende eksperter, der vil afg\u00f8re: Hvem, der er samfundets fjende nummer \u00e9t."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 1",
+               "xmltv_ns" : "0 . 3 ."
+            },
+            "stop" : "1531376700",
+            "date" : "2015",
+            "title" : {
+               "da" : "Dyrenes narrestreger"
+            },
+            "channel" : "nature.viasat.dk",
+            "country" : [
+               "GB"
+            ],
+            "start" : "1531374900",
+            "new" : null
+         },
+         {
+            "new" : null,
+            "start" : "1531376700",
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Chris Humfrey's Dyre-instinkter"
+            },
+            "date" : "2016",
+            "stop" : "1531378200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 11 .",
+               "onscreen" : "Afsnit 12 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Chris tager til Potoroo Palace i New South Wales for at m\u00f8de Priscilla, det seneste medlem af dyrefamilien."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 13 s\u00e6son 1",
+               "xmltv_ns" : "0 . 12 ."
+            },
+            "desc" : {
+               "da" : "Alt er, som det plejer at v\u00e6re, i Chris' zoo, hvor morgenmaden altid er lang og larmende."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "date" : "2016",
+            "stop" : "1531380000",
+            "new" : null,
+            "start" : "1531378200",
+            "title" : {
+               "da" : "Chris Humfrey's Dyre-instinkter"
+            },
+            "channel" : "nature.viasat.dk"
+         },
+         {
+            "date" : "2017",
+            "stop" : "1531381500",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Angelika Langen"
+                  },
+                  {
+                     "name" : "Peter Langen"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Brad Quenville"
+                  }
+               ]
+            },
+            "start" : "1531380000",
+            "title" : {
+               "da" : "Bj\u00f8rneinternatet"
+            },
+            "channel" : "nature.viasat.dk",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 5 .",
+               "onscreen" : "Afsnit 6 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Tusindvis flokkes til internatets \u00e5rlige \u00e5bent hus, og Angelika skal afveje publicity og en alvorligt syg d\u00e5kalv."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Peter og Angelika redder to bj\u00f8rneunger, efter deres mor blev dr\u00e6bt i trafikken. Thomas tr\u00e6ffer en vigtig karrierebeslutning, og Kim og Shawn redder en s\u00e5ret d\u00e5kalv."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7 s\u00e6son 1",
+               "xmltv_ns" : "0 . 6 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "start" : "1531381500",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Angelika Langen"
+                  },
+                  {
+                     "name" : "Peter Langen"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Brad Quenville"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Bj\u00f8rneinternatet"
+            },
+            "channel" : "nature.viasat.dk",
+            "date" : "2017",
+            "stop" : "1531383000"
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 1",
+               "xmltv_ns" : "0 . 3 ."
+            },
+            "desc" : {
+               "da" : "Labradoren Carlisle har opfostret fire gepardunger og l\u00e6rt dem alt, hvad han kan - ogs\u00e5 nogle tricks. Den beskyttende hund Brownie redder kaninen Purple fra at blive spist levende."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Nature"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Hundens bedste ven"
+            },
+            "start" : "1531383000",
+            "new" : null,
+            "stop" : "1531384500",
+            "date" : "2013"
+         },
+         {
+            "stop" : "1531386000",
+            "date" : "2013",
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Hundens bedste ven"
+            },
+            "new" : null,
+            "start" : "1531384500",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "M\u00f8d Bonedigger, l\u00f8ven hvis bedste ven er hunden Abby. Vi m\u00f8der ogs\u00e5 de to bedste venner Annabelle og Louise - en ugle og en hund."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 4 .",
+               "onscreen" : "Afsnit 5 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Nature"
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Det er \u00e5rets jagtdag, n\u00e5r tykhornsf\u00e5rene kommer til Georgetown. Og havodderen Olive k\u00e6mper mod klima\u00e6ndringerne i tangskoven i Monterey Bay i Californien."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 s\u00e6son 1",
+               "xmltv_ns" : "0 . 4 ."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Dyrenes Forenede Stater"
+            },
+            "start" : "1531386000",
+            "new" : null,
+            "stop" : "1531387500",
+            "date" : "2016"
+         },
+         {
+            "desc" : {
+               "da" : "S\u00f8elefanternes ultimative kamp udfolder sig helt t\u00e6t p\u00e5 Highway 1 p\u00e5 Californiens kyst, og stribefisk indtager Californiens strande."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 5 .",
+               "onscreen" : "Afsnit 6 s\u00e6son 1"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "start" : "1531387500",
+            "new" : null,
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Dyrenes Forenede Stater"
+            },
+            "date" : "2016",
+            "stop" : "1531389000"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "desc" : {
+               "da" : "En videnskabsmand laver et v\u00e6rkt\u00f8j til at kommunikere med delfiner, og delfineksperter unders\u00f8ger artens intelligens."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1531392300",
+            "date" : "2015",
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Samtaler med delfiner"
+            },
+            "start" : "1531389000",
+            "new" : null
+         },
+         {
+            "date" : "2016",
+            "stop" : "1531395600",
+            "start" : "1531392300",
+            "new" : null,
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Kampen for Sirga"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "I dette afsnit ser vi p\u00e5 forholdet mellem Val og Sirga og h\u00f8rer historien om mennesket og rovdyrene, og hvordan det hele startede, da Sirga var en lille unge..."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Val og Sirga er p\u00e5 jagt, hvor Sirga jagter kudu, leger med en lille skildpadde og ser, hvor farlige oryxens horn er for en l\u00f8ve."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "xmltv_ns" : "0 . 1 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1531398900",
+            "date" : "2016",
+            "title" : {
+               "da" : "Kampen for Sirga"
+            },
+            "channel" : "nature.viasat.dk",
+            "new" : null,
+            "start" : "1531395600"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Dramatiske \u00e6ndringer under regntiden forvandler Kalahari og viser Sirgas s\u00e5rbarhed, n\u00e5r antiloperne er b\u00e5de st\u00e6rke og hurtige."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1531402200",
+            "date" : "2016",
+            "title" : {
+               "da" : "Kampen for Sirga"
+            },
+            "channel" : "nature.viasat.dk",
+            "start" : "1531398900",
+            "new" : null
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 1",
+               "xmltv_ns" : "0 . 3 ."
+            },
+            "desc" : {
+               "da" : "Val og Sirga er p\u00e5 jagt, sv\u00f8mmer i et regntidsbassin og m\u00f8der en hugorm, firben og en stor skildpadde. Og Val vaccinerer de vilde hundehvalpe mod rabies for f\u00f8rste gang."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "date" : "2016",
+            "stop" : "1531405500",
+            "start" : "1531402200",
+            "new" : null,
+            "title" : {
+               "da" : "Kampen for Sirga"
+            },
+            "channel" : "nature.viasat.dk"
+         },
+         {
+            "desc" : {
+               "da" : "Terapigrisen Chewy hj\u00e6lper en stor familie med ikke at stresse i deres nye land og motiverer dem til at v\u00e6re mere engagerede i deres nye nabolag."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 3 .",
+               "onscreen" : "Afsnit 4 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "start" : "1531405500",
+            "new" : null,
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "N\u00e5r pligten kalder"
+            },
+            "date" : "2016",
+            "stop" : "1531407000"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Dyrev\u00e6rnet redder en pitbull fra en hundekamp og et lille pjusket gadekryds i et bilvrag."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 12 s\u00e6son 1",
+               "xmltv_ns" : "0 . 11 ."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "start" : "1531407000",
+            "new" : null,
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Dyrepolitiet: Phoenix"
+            },
+            "date" : "2016",
+            "stop" : "1531410000"
+         },
+         {
+            "start" : "1531410000",
+            "new" : null,
+            "title" : {
+               "da" : "Chris Humfrey's Dyre-instinkter"
+            },
+            "channel" : "nature.viasat.dk",
+            "date" : "2016",
+            "stop" : "1531411500",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 12 s\u00e6son 1",
+               "xmltv_ns" : "0 . 11 ."
+            },
+            "desc" : {
+               "da" : "Chris tager til Potoroo Palace i New South Wales for at m\u00f8de Priscilla, det seneste medlem af dyrefamilien."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Chris Humfrey's Dyre-instinkter"
+            },
+            "channel" : "nature.viasat.dk",
+            "new" : null,
+            "start" : "1531411500",
+            "stop" : "1531413000",
+            "date" : "2016",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 13 s\u00e6son 1",
+               "xmltv_ns" : "0 . 12 ."
+            },
+            "desc" : {
+               "da" : "Alt er, som det plejer at v\u00e6re, i Chris' zoo, hvor morgenmaden altid er lang og larmende."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 8 .",
+               "onscreen" : "Afsnit 9 s\u00e6son 3"
+            },
+            "desc" : {
+               "da" : "Dom starter sin fantastiske rejse gennem Perus bjerge. Han starter p\u00e5 havniveau og begiver sig 16.000 fod op p\u00e5 jagt efter en af verdens underligste padder."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1531415700",
+            "date" : "2016",
+            "title" : {
+               "da" : "Vilde dyr med Dominic Monaghan"
+            },
+            "channel" : "nature.viasat.dk",
+            "country" : [
+               "GB"
+            ],
+            "start" : "1531413000",
+            "new" : null
+         },
+         {
+            "title" : {
+               "da" : "Drabelig!"
+            },
+            "channel" : "nature.viasat.dk",
+            "new" : null,
+            "country" : [
+               "GB"
+            ],
+            "start" : "1531415700",
+            "stop" : "1531418700",
+            "date" : "2016",
+            "desc" : {
+               "da" : "Australien er hjemsted for nogle af de farligste skabninger p\u00e5 Jorden - bl.a kasuaren, hvis spark kan dr\u00e6be et menneske. Landet er ogs\u00e5 hjemsted for edderkopper, der har unikke jagtmetoder taipan."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 3 .",
+               "onscreen" : "Afsnit 4 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Ekspeditionen rejser ind i den t\u00e6tte jungle, i det nordlige Burma, hvor de h\u00e5ber at finde en af de mest truede arter - tigeren."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Nature"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 1"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "GB"
+            ],
+            "start" : "1531418700",
+            "new" : null,
+            "title" : {
+               "da" : "Ekspedition Burma"
+            },
+            "channel" : "nature.viasat.dk",
+            "date" : "2013",
+            "stop" : "1531421700"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "xmltv_ns" : "0 . 1 ."
+            },
+            "desc" : {
+               "da" : "Liz Bonning tager til Wiltshire for at m\u00f8de Cosmos, katten, der ved, hvordan han fort\u00e6ller sin ejer, Sarah, at han er hjemme."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "date" : "2015",
+            "stop" : "1531425600",
+            "start" : "1531421700",
+            "new" : null,
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Katte mod hunde: Hvad er bedst?"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 s\u00e6son 1",
+               "xmltv_ns" : "0 . 4 ."
+            },
+            "desc" : {
+               "da" : "Det er parringstid, men fire m\u00e5neder efter de tasmanske dj\u00e6vle blev sluppet fri p\u00e5 Maria Island, er forskerne urolige, for den eventyrlystne Manny er forsvundet."
+            },
+            "stop" : "1531427100",
+            "date" : "2013",
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Den tasmanske dj\u00e6vle\u00f8"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Jason Donovan"
+                  }
+               ]
+            },
+            "new" : null,
+            "start" : "1531425600"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "De tasmanske dj\u00e6vle blev sluppet fri for fem m\u00e5neder siden p\u00e5 Maria Island, og fremtiden er lys for de 14 raske overlevende, hvor otte hunner skal til at have unger."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 5 .",
+               "onscreen" : "Afsnit 6 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "date" : "2013",
+            "stop" : "1531428900",
+            "start" : "1531427100",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Jason Donovan"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Den tasmanske dj\u00e6vle\u00f8"
+            },
+            "channel" : "nature.viasat.dk"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Dyrev\u00e6rnet redder en pitbull fra en hundekamp og et lille pjusket gadekryds i et bilvrag."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 11 .",
+               "onscreen" : "Afsnit 12 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1531431900",
+            "date" : "2016",
+            "title" : {
+               "da" : "Dyrepolitiet: Phoenix"
+            },
+            "channel" : "nature.viasat.dk",
+            "start" : "1531428900",
+            "new" : null
+         },
+         {
+            "stop" : "1531435200",
+            "date" : "2014",
+            "title" : {
+               "da" : "Evolution p\u00e5 farten"
+            },
+            "channel" : "nature.viasat.dk",
+            "new" : null,
+            "start" : "1531431900",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Bavianer p\u00e5 den arabiske halv\u00f8 bortf\u00f8rer og opfostrer hunde. Er det ligesom, da vi mennesker gjorde ulven tam, men nu er det aber og hunde?"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 1"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Ulve i British Columbia g\u00f8r alt for at fiske og sv\u00f8mme. If\u00f8lge en r\u00e6kke specialister er ulven ved f\u00f8rste led i en proces, der kan g\u00f8re den til havdyr."
+            },
+            "date" : "2014",
+            "stop" : "1531438500",
+            "new" : null,
+            "start" : "1531435200",
+            "title" : {
+               "da" : "Evolution p\u00e5 farten"
+            },
+            "channel" : "nature.viasat.dk"
+         },
+         {
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Alaskas vildeste by"
+            },
+            "new" : null,
+            "country" : [
+               "GB"
+            ],
+            "start" : "1531438500",
+            "stop" : "1531440000",
+            "date" : "2015",
+            "desc" : {
+               "da" : "Alaska er et af Jordens sidste sande naturomr\u00e5der. Rensdyrflokke vandrer p\u00e5 sletterne, ulve jager i skovene, og brune bj\u00f8rne er flodernes konger."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 12 s\u00e6son 1",
+               "xmltv_ns" : "0 . 11 ."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         }
+      ]
+   }
+}

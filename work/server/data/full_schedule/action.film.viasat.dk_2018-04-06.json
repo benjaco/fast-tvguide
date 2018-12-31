@@ -1,0 +1,1783 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Mike Mizanin",
+                     "role" : "Jake Carter"
+                  },
+                  {
+                     "role" : "Zoe Williams",
+                     "name" : "Anna Van Hooft"
+                  },
+                  {
+                     "name" : "Maryse Ouellet Mizanin",
+                     "role" : "Ana"
+                  },
+                  {
+                     "role" : "Vincent",
+                     "name" : "Sandy Robson"
+                  },
+                  {
+                     "role" : "Murphy",
+                     "name" : "Trinity Fatu"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Michael J. Luisi"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "James Nunn"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "5.4 / 10"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/445993"
+            },
+            "desc" : {
+               "da" : "Jake Carter, der arbejder som ambulanceredder, f\u00e5r et n\u00f8dopkald, og er nu n\u00f8dt til at beskytte en person, der bliver forfulgt af en hensynsl\u00f8s motorcykelbande."
+            },
+            "title" : {
+               "da" : "The Marine 5: Battleground"
+            },
+            "start" : "1522972800",
+            "stop" : "1522980000",
+            "url" : [
+               "http://www.themoviedb.org/movie/445993"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action"
+               ]
+            },
+            "channel" : "action.film.viasat.dk",
+            "country" : [
+               "US"
+            ],
+            "date" : "2017",
+            "video" : {
+               "aspect" : "4:3"
+            }
+         },
+         {
+            "date" : "2016",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "channel" : "action.film.viasat.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522987200",
+            "start" : "1522980000",
+            "title" : {
+               "da" : "Lowriders"
+            },
+            "desc" : {
+               "da" : "Danny, en talentfuld, ung gadekunstner bliver fanget mellem sin fars og stedmors bes\u00e6ttelse af lowrider-kulturen, og sin ekskriminelle brors farlige sti. Danny m\u00e5 v\u00e6lge mellem sit behov for selvrealisering og sin families tradition."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Demian Bichir"
+                  },
+                  {
+                     "name" : "Gabriel Chavarria"
+                  },
+                  {
+                     "name" : "Theo Rossi"
+                  },
+                  {
+                     "name" : "Melissa Benoist"
+                  },
+                  {
+                     "name" : "Eva Longoria"
+                  }
+               ]
+            }
+         },
+         {
+            "rating" : {
+               "stars" : "5.8 / 10"
+            },
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Jon Jashni"
+                  },
+                  {
+                     "name" : "Peter Loehr"
+                  },
+                  {
+                     "name" : "Charles Roven"
+                  },
+                  {
+                     "name" : "Thomas Tull"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Zhang Yimou"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Doug Miro"
+                  },
+                  {
+                     "name" : "Tony Gilroy"
+                  },
+                  {
+                     "name" : "Carlo Bernard"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "William Garin",
+                     "name" : "Matt Damon"
+                  },
+                  {
+                     "name" : "Jing Tian",
+                     "role" : "General Lin Mei"
+                  },
+                  {
+                     "name" : "Willem Dafoe",
+                     "role" : "Ballard"
+                  },
+                  {
+                     "name" : "Andy Lau",
+                     "role" : "Wang Junshi"
+                  },
+                  {
+                     "role" : "Pero Tovar",
+                     "name" : "Pedro Pascal"
+                  },
+                  {
+                     "name" : "Zhang Hanyu",
+                     "role" : "General Shao"
+                  },
+                  {
+                     "name" : "Lu Han",
+                     "role" : "Peng Yong"
+                  },
+                  {
+                     "name" : "Lin Gengxin",
+                     "role" : "Commander Chen"
+                  },
+                  {
+                     "name" : "Eddie Peng",
+                     "role" : "Commander Wu"
+                  },
+                  {
+                     "name" : "Huang Xuan",
+                     "role" : "Commander Deng"
+                  },
+                  {
+                     "name" : "Ryan Zheng Kai",
+                     "role" : "Shen"
+                  },
+                  {
+                     "name" : "Cheney Chen",
+                     "role" : "Imperial Officer"
+                  },
+                  {
+                     "name" : "Pilou Asb\u00e6k",
+                     "role" : "Bouchard"
+                  },
+                  {
+                     "role" : "Najid",
+                     "name" : "Numan Acar"
+                  },
+                  {
+                     "name" : "Bing Liu",
+                     "role" : "Lin Mae's 2nd Lieutenant Li Qing"
+                  },
+                  {
+                     "role" : "Emperor",
+                     "name" : "Karry Wang"
+                  },
+                  {
+                     "name" : "Johnny Cicco",
+                     "role" : "Rizzetti"
+                  },
+                  {
+                     "role" : "Lieutenant Xiao Yu",
+                     "name" : "Vicky Yu"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "The Great Wall"
+            },
+            "desc" : {
+               "da" : "William Garin (Matt Damon) og Pero Tovar (Pedro Pascal) er et par lejesoldater, der er p\u00e5 en mission for at l\u00e6re hemmeligheden om krudt. De bliver taget som gidsler af tropperne, der er udstationeret ved en f\u00e6stning ved Den Kinesiske Mur. Efter at have snakket med deres medfange, Sir Ballard (Willem Defoe), bliver de rekrutteret af h\u00e6rf\u00f8reren for Crane-tropperne, Lin Mae (Jing Tian), der bruger deres f\u00e6rdigheder mod en endel\u00f8s r\u00e6kke af overnaturlige monstre, som Muren blev bygget til at holde ude."
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/311324"
+            },
+            "channel" : "action.film.viasat.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Adventure",
+                  "Fantasy"
+               ]
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/311324"
+            ],
+            "new" : null,
+            "stop" : "1522994400",
+            "start" : "1522987200",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2016",
+            "country" : [
+               "AU",
+               "CA",
+               "CN",
+               "HK",
+               "US"
+            ]
+         },
+         {
+            "date" : "2017",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Adventure",
+                  "Comedy",
+                  "Sci-Fi"
+               ]
+            },
+            "channel" : "action.film.viasat.dk",
+            "url" : [
+               "http://www.themoviedb.org/movie/283995"
+            ],
+            "new" : null,
+            "start" : "1522994400",
+            "stop" : "1523002800",
+            "desc" : {
+               "da" : "Mens Star Lord (Chris Pratt) st\u00e5r med efterf\u00f8lgerne fra et mislykket kup, m\u00f8der han Ego (Kurt Russell), der viser sig at v\u00e6re hans forsvundne far. Quill-familien er ikke de eneste, der er h\u00e5rdt pr\u00f8vet, da Gamora (Zoe Saldana) st\u00e5r over for s\u00f8steren Nebulas (Karen Gillan) konstante fors\u00f8g p\u00e5 at sl\u00e5 hendes ihjel. Rocket Raccoon (stemme af Bradley Cooper) og Yondu Udonta (Michael Rooker) slutter sig modvilligt til gruppen, og f\u00e5r hj\u00e6lp fra den tapre og bed\u00e5rende helt, Baby Groot (stemme af Vin Diesel), til at flygte fra et rumskib, der bruges som et f\u00e6ngsel."
+            },
+            "title" : {
+               "da" : "Guardians of the Galaxy Vol. 2"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/283995"
+            },
+            "rating" : {
+               "stars" : "7.6 / 10"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Chris Pratt",
+                     "role" : "Peter Quill / Star-Lord"
+                  },
+                  {
+                     "role" : "Gamora",
+                     "name" : "Zoe Saldana"
+                  },
+                  {
+                     "role" : "Drax",
+                     "name" : "Dave Bautista"
+                  },
+                  {
+                     "name" : "Vin Diesel",
+                     "role" : "Baby Groot (voice)"
+                  },
+                  {
+                     "name" : "Bradley Cooper",
+                     "role" : "Rocket (voice)"
+                  },
+                  {
+                     "role" : "Yondu",
+                     "name" : "Michael Rooker"
+                  },
+                  {
+                     "name" : "Karen Gillan",
+                     "role" : "Nebula"
+                  },
+                  {
+                     "role" : "Mantis",
+                     "name" : "Pom Klementieff"
+                  },
+                  {
+                     "role" : "Kraglin / On-Set Rocket",
+                     "name" : "Sean Gunn"
+                  },
+                  {
+                     "role" : "Meredith Quill",
+                     "name" : "Laura Haddock"
+                  },
+                  {
+                     "name" : "Kurt Russell",
+                     "role" : "Ego"
+                  },
+                  {
+                     "role" : "Ayesha",
+                     "name" : "Elizabeth Debicki"
+                  },
+                  {
+                     "name" : "Sylvester Stallone",
+                     "role" : "Stakar Ogord"
+                  },
+                  {
+                     "name" : "Chris Sullivan",
+                     "role" : "Taserface"
+                  },
+                  {
+                     "role" : "Tullk",
+                     "name" : "Tommy Flanagan"
+                  },
+                  {
+                     "name" : "Hannah Gottesman",
+                     "role" : "Sovereign Chambermaid"
+                  },
+                  {
+                     "role" : "Sovereign Pilot",
+                     "name" : "Hilty Bowen"
+                  },
+                  {
+                     "role" : "Sovereign Admiral",
+                     "name" : "Ben Browder"
+                  },
+                  {
+                     "role" : "Zylak (as Alex Klein)",
+                     "name" : "Alexander Klein"
+                  },
+                  {
+                     "name" : "Luke Cook",
+                     "role" : "Zylak's Frenemy"
+                  },
+                  {
+                     "role" : "Retch",
+                     "name" : "Evan Jones"
+                  },
+                  {
+                     "role" : "Oblo",
+                     "name" : "Joe Fria"
+                  },
+                  {
+                     "role" : "Narblik",
+                     "name" : "Terence Rosemore"
+                  },
+                  {
+                     "name" : "Jimmy Urine",
+                     "role" : "Halfnut"
+                  },
+                  {
+                     "role" : "Brahl",
+                     "name" : "Stephen Blackehart"
+                  },
+                  {
+                     "name" : "Steve Agee",
+                     "role" : "Gef"
+                  },
+                  {
+                     "name" : "Blondy Baruti",
+                     "role" : "Huhtar"
+                  },
+                  {
+                     "role" : "\"Down There!\"",
+                     "name" : "Richard Christy"
+                  },
+                  {
+                     "role" : "Unseen Ravager",
+                     "name" : "Rob Zombie"
+                  },
+                  {
+                     "role" : "Robot Courtesan",
+                     "name" : "Sierra Love"
+                  },
+                  {
+                     "name" : "Kendra Carelli",
+                     "role" : "Robot Courtesan (as Kendra Staub)"
+                  },
+                  {
+                     "role" : "Robot Courtesan",
+                     "name" : "Milynn Sarley"
+                  },
+                  {
+                     "role" : "Howard the Duck (voice)",
+                     "name" : "Seth Green"
+                  },
+                  {
+                     "name" : "Molly C. Quinn",
+                     "role" : "Howard's Date (as Molly Quinn)"
+                  },
+                  {
+                     "role" : "Martinex",
+                     "name" : "Michael Rosenbaum"
+                  },
+                  {
+                     "role" : "Sneeper Madame",
+                     "name" : "Rhoda Griffis"
+                  },
+                  {
+                     "name" : "Stan Lee",
+                     "role" : "Watcher Informant"
+                  },
+                  {
+                     "name" : "David Hasselhoff",
+                     "role" : "The Form of David Hasselhoff"
+                  },
+                  {
+                     "role" : "Officer Fitzgibbon",
+                     "name" : "Mac Wells"
+                  },
+                  {
+                     "role" : "Weird Old Man (as James Gunn, Sr.)",
+                     "name" : "Jim Gunn Sr."
+                  },
+                  {
+                     "name" : "Leota Gunn",
+                     "role" : "Weird Old Man's Mistress"
+                  },
+                  {
+                     "name" : "Elizabeth Ludlow",
+                     "role" : "Easik Mother"
+                  },
+                  {
+                     "role" : "Young Peter Quill",
+                     "name" : "Wyatt Oleff"
+                  },
+                  {
+                     "role" : "Grandpa Quill",
+                     "name" : "Gregg Henry"
+                  },
+                  {
+                     "role" : "Grandpa Quill's Friend",
+                     "name" : "Damita Jane Howard"
+                  },
+                  {
+                     "role" : "Charlie-27",
+                     "name" : "Ving Rhames"
+                  },
+                  {
+                     "role" : "Aleta Ogord",
+                     "name" : "Michelle Yeoh"
+                  },
+                  {
+                     "name" : "Donny Carrington",
+                     "role" : "Kree Monk (uncredited)"
+                  },
+                  {
+                     "name" : "Brian Clackley",
+                     "role" : "Alien (uncredited)"
+                  },
+                  {
+                     "role" : "Mainframe (voice) (uncredited)",
+                     "name" : "Miley Cyrus"
+                  },
+                  {
+                     "role" : "Lovebot (uncredited)",
+                     "name" : "Nea Dune"
+                  },
+                  {
+                     "name" : "Fred",
+                     "role" : "Cosmo the Space Dog (uncredited)"
+                  },
+                  {
+                     "role" : "Sovereign Leader (uncredited)",
+                     "name" : "Fred Galle"
+                  },
+                  {
+                     "role" : "Pedestrian Runner (uncredited)",
+                     "name" : "Tahseen Ghauri"
+                  },
+                  {
+                     "role" : "Grandmaster (uncredited)",
+                     "name" : "Jeff Goldblum"
+                  },
+                  {
+                     "name" : "Alphonso A'Qen-Aten Jackson",
+                     "role" : "Ravager (uncredited)"
+                  },
+                  {
+                     "name" : "Kelly Richardson",
+                     "role" : "Daisy Kiu (uncredited)"
+                  },
+                  {
+                     "role" : "Cop #2 (uncredited)",
+                     "name" : "Guillermo Rodriguez"
+                  },
+                  {
+                     "role" : "Humanoid Ravager (uncredited)",
+                     "name" : "Josh Tipis"
+                  },
+                  {
+                     "name" : "Stephen Vining",
+                     "role" : "Ravager #7 (uncredited)"
+                  },
+                  {
+                     "name" : "Jason Williams",
+                     "role" : "Huge Guard of the Sovereign Nation (uncredited)"
+                  },
+                  {
+                     "role" : "Robot Courtesan (uncredited)",
+                     "name" : "Cheyanna Lavon Zubas"
+                  },
+                  {
+                     "name" : "Aaron Schwartz",
+                     "role" : "Young Ego Facial Reference"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Kevin Feige"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "James Gunn"
+                  }
+               ]
+            }
+         },
+         {
+            "date" : "2016",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "http://www.themoviedb.org/movie/274870"
+            ],
+            "new" : null,
+            "channel" : "action.film.viasat.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama",
+                  "Romance",
+                  "Sci-Fi"
+               ]
+            },
+            "stop" : "1523010000",
+            "start" : "1523002800",
+            "desc" : {
+               "da" : "Avalon er et rumskib, der transporterer tusindvis af kolonister til et nyt hjem. En fejl p\u00e5 rumskibet for\u00e5rsager, at Jim Prestons (Chris Pratt) og Aurora Lanes (Jennifer Lawrence) dvale-kapsler \u00e5bner halvfems \u00e5r for tidligt. Deres umiddelbare selskab bliver snart til en spirende romance, da robot-bartenderen, Arthur (Michael Sheen), kommer til at afsl\u00f8re en foruroligende nyhed. De bliver imidlertid tvunget til at arbejde sammen, for at finde ud af, hvorfor skibet er g\u00e5et i stykket. De m\u00e5 k\u00e6mpe mod tiden, hvis de skal redde de tusindvis af liv ombord."
+            },
+            "title" : {
+               "da" : "Passengers"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/274870"
+            },
+            "rating" : {
+               "stars" : "6.7 / 10"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Aurora Lane",
+                     "name" : "Jennifer Lawrence"
+                  },
+                  {
+                     "name" : "Chris Pratt",
+                     "role" : "Jim Preston"
+                  },
+                  {
+                     "role" : "Arthur",
+                     "name" : "Michael Sheen"
+                  },
+                  {
+                     "role" : "Gus Mancuso",
+                     "name" : "Laurence Fishburne"
+                  },
+                  {
+                     "role" : "Captain Norris",
+                     "name" : "Andy Garc\u00eda"
+                  },
+                  {
+                     "role" : "Celeste",
+                     "name" : "Aurora Perrineau"
+                  },
+                  {
+                     "role" : "Instructor (Hologram)",
+                     "name" : "Julee Cerda"
+                  },
+                  {
+                     "name" : "Kristin Brock",
+                     "role" : "Aurora's Friend"
+                  },
+                  {
+                     "name" : "Vince Foster",
+                     "role" : "Executive Officer"
+                  },
+                  {
+                     "name" : "Kara Flowers",
+                     "role" : "Communications Officer"
+                  },
+                  {
+                     "name" : "Conor Brophy",
+                     "role" : "Crew Member"
+                  },
+                  {
+                     "name" : "Emma Clarke",
+                     "role" : "The Starship Avalon (voice)"
+                  },
+                  {
+                     "role" : "Video Game (voice)",
+                     "name" : "Matt Corboy"
+                  },
+                  {
+                     "name" : "Fred Melamed",
+                     "role" : "Observatory (voice)"
+                  },
+                  {
+                     "name" : "Alpha Takahashi",
+                     "role" : "Sushi Robot Waitress"
+                  },
+                  {
+                     "role" : "French Restaurant Robot Waiter",
+                     "name" : "Matthew Wolf"
+                  },
+                  {
+                     "name" : "Jean-Michel Richaud",
+                     "role" : "French Restaurant Robot Waiter"
+                  },
+                  {
+                     "role" : "Autodoc (voice)",
+                     "name" : "Jon Spaihts"
+                  },
+                  {
+                     "role" : "Dancer",
+                     "name" : "Curtis Grecco"
+                  },
+                  {
+                     "name" : "Joy Spears",
+                     "role" : "Dancer"
+                  },
+                  {
+                     "role" : "Party Friend",
+                     "name" : "Lauren Farmer"
+                  },
+                  {
+                     "role" : "Party Friend",
+                     "name" : "Tom Ferrari"
+                  },
+                  {
+                     "name" : "Emerald Mayne",
+                     "role" : "Party Friend"
+                  },
+                  {
+                     "role" : "Party Friend",
+                     "name" : "Quansae Rutledge"
+                  },
+                  {
+                     "role" : "Party Friend",
+                     "name" : "Desmond Reid"
+                  },
+                  {
+                     "role" : "InfoMat / Deejay (voice)",
+                     "name" : "Chris Edgerly"
+                  },
+                  {
+                     "role" : "Hector, the Robot Waiter",
+                     "name" : "Jesus Mendoza"
+                  },
+                  {
+                     "role" : "Jr Officer Fitzgerald (uncredited)",
+                     "name" : "Kimberly Battista"
+                  },
+                  {
+                     "name" : "Ana Gray",
+                     "role" : "Coffee Girl (uncredited)"
+                  },
+                  {
+                     "role" : "Banker in Pod (uncredited)",
+                     "name" : "Inder Kumar"
+                  },
+                  {
+                     "name" : "Jamie Soricelli",
+                     "role" : "Space Cruise Passenger (uncredited)"
+                  },
+                  {
+                     "name" : "Ivana Vitomir",
+                     "role" : "Passenger (uncredited)"
+                  },
+                  {
+                     "role" : "Passenger (uncredited)",
+                     "name" : "Shelby Taylor Mullins"
+                  },
+                  {
+                     "role" : "Passenger (uncredited)",
+                     "name" : "Jeff Olsen"
+                  },
+                  {
+                     "name" : "Kevin Tan",
+                     "role" : "Passenger (uncredited)"
+                  },
+                  {
+                     "role" : "Passenger (uncredited)",
+                     "name" : "Stephen M. LaBar Jr."
+                  },
+                  {
+                     "role" : "Passenger (uncredited)",
+                     "name" : "Kelli Pardo"
+                  },
+                  {
+                     "role" : "TV Host (uncredited)",
+                     "name" : "Robert Larriviere"
+                  },
+                  {
+                     "role" : "Wake-up Hologram (uncredited)",
+                     "name" : "Nazanin Boniadi"
+                  },
+                  {
+                     "role" : "The Attendant (uncredited)",
+                     "name" : "Marie Burke"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Morten Tyldum"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Stephen Hamel"
+                  },
+                  {
+                     "name" : "Michael Maher"
+                  },
+                  {
+                     "name" : "Ori Marmur"
+                  },
+                  {
+                     "name" : "Neal H. Moritz"
+                  }
+               ]
+            }
+         },
+         {
+            "date" : "2017",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama",
+                  "Family"
+               ]
+            },
+            "channel" : "action.film.viasat.dk",
+            "url" : [
+               "http://www.themoviedb.org/movie/334537"
+            ],
+            "new" : null,
+            "start" : "1523010000",
+            "stop" : "1523016000",
+            "desc" : {
+               "da" : "Matriarken Nancy Green er randen til at blive sindssyg, som f\u00f8lge af s\u00f8nnen Max' forsvinden. Hun og hendes tre dysfunktionelle d\u00f8tre, Lily, Elisa og Madeline opdager, at deres klan har en dunkel hemmelighed i familiens historie."
+            },
+            "title" : {
+               "da" : "We Don't Belong Here"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/334537"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Nancy Green",
+                     "name" : "Catherine Keener"
+                  },
+                  {
+                     "role" : "Maxwell Green",
+                     "name" : "Anton Yelchin"
+                  },
+                  {
+                     "name" : "Riley Keough",
+                     "role" : "Elisa Green"
+                  },
+                  {
+                     "name" : "Kaitlyn Dever",
+                     "role" : "Lily Green"
+                  },
+                  {
+                     "name" : "Molly Shannon",
+                     "role" : "Deborah"
+                  },
+                  {
+                     "name" : "Maya Rudolph",
+                     "role" : "Joanne"
+                  },
+                  {
+                     "role" : "Frank Harper",
+                     "name" : "Cary Elwes"
+                  },
+                  {
+                     "role" : "Tomas",
+                     "name" : "Justin Chatwin"
+                  },
+                  {
+                     "role" : "Madeline Green",
+                     "name" : "Annie Starke"
+                  },
+                  {
+                     "role" : "Davey",
+                     "name" : "Austin Abrams"
+                  },
+                  {
+                     "name" : "Michelle Hurd",
+                     "role" : "Tania"
+                  },
+                  {
+                     "name" : "Sarah Ramos",
+                     "role" : "Jill"
+                  },
+                  {
+                     "name" : "Adrian Enscoe",
+                     "role" : "Dan"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Annelise Dekker"
+                  },
+                  {
+                     "name" : "Michael Kristoff"
+                  },
+                  {
+                     "name" : "Roger Joseph Pugliese"
+                  },
+                  {
+                     "name" : "Adam Gibbs"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Peer Pedersen"
+                  }
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "F\u00f8r Mikael deltager i et vidnebeskyttelsesprogram, forlanger han 3 ting fra politiet. 3 ting, der kan kaste nyt lys over r\u00f8veriet, som Mikael og hans partnere er blevet f\u00e6ngslet for."
+            },
+            "title" : {
+               "da" : "3 ting"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/416772"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Nikolaj Coster-Waldau",
+                     "role" : "Mikael"
+                  },
+                  {
+                     "name" : "Birgitte Hjort S\u00f8rensen",
+                     "role" : "Camilla"
+                  },
+                  {
+                     "role" : "Nina",
+                     "name" : "L\u00e6rke Winther Andersen"
+                  },
+                  {
+                     "name" : "Morten Holst",
+                     "role" : "Carsten"
+                  },
+                  {
+                     "name" : "Jacob Ulrik Lohmann",
+                     "role" : "Sander"
+                  },
+                  {
+                     "role" : "Receptionist",
+                     "name" : "Aske Bang"
+                  },
+                  {
+                     "name" : "Mia Nielsen-Jexen",
+                     "role" : "Katrine"
+                  },
+                  {
+                     "name" : "Magnus Bruun"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Caroline Schl\u00fcter Bingestam"
+                  },
+                  {
+                     "name" : "Jacob Jarek"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Jens Dahl"
+                  }
+               ]
+            },
+            "date" : "2017",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/416772"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Thriller",
+                  "Drama"
+               ]
+            },
+            "channel" : "action.film.viasat.dk",
+            "start" : "1523016000",
+            "stop" : "1523022300"
+         },
+         {
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Christopher Murphey"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Jaden Smith",
+                     "role" : "Dre Parker"
+                  },
+                  {
+                     "role" : "Mr. Han",
+                     "name" : "Jackie Chan"
+                  },
+                  {
+                     "role" : "Sherry Parker",
+                     "name" : "Taraji P. Henson"
+                  },
+                  {
+                     "role" : "Master Li",
+                     "name" : "Yu Rong-Guang"
+                  },
+                  {
+                     "name" : "Tess Liu",
+                     "role" : "History Teacher"
+                  },
+                  {
+                     "name" : "Xu Ming",
+                     "role" : "Bao"
+                  },
+                  {
+                     "name" : "Wang Ji"
+                  },
+                  {
+                     "role" : "Meiying",
+                     "name" : "Wenwen Han"
+                  },
+                  {
+                     "name" : "Zhensu Wu",
+                     "role" : "Meiying's Dad"
+                  },
+                  {
+                     "name" : "Zhiheng Wang",
+                     "role" : "Meiying's Mom"
+                  },
+                  {
+                     "name" : "Zhenwei Wang",
+                     "role" : "Cheng"
+                  },
+                  {
+                     "name" : "Jared Minns",
+                     "role" : "Dre's Detroit Friend"
+                  },
+                  {
+                     "role" : "Liang",
+                     "name" : "Shijia L\u00fc"
+                  },
+                  {
+                     "name" : "Zhao Yi",
+                     "role" : "Zhuang"
+                  },
+                  {
+                     "name" : "Bo Zhang",
+                     "role" : "Song"
+                  },
+                  {
+                     "role" : "Harry",
+                     "name" : "Luke Carberry"
+                  },
+                  {
+                     "role" : "Mark",
+                     "name" : "Cameron Hillman"
+                  },
+                  {
+                     "role" : "Oz",
+                     "name" : "Ghye Samuel Brown"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Jada Pinkett Smith"
+                  },
+                  {
+                     "name" : "Will Smith"
+                  },
+                  {
+                     "name" : "Ken Stovitz"
+                  },
+                  {
+                     "name" : "James Lassiter"
+                  },
+                  {
+                     "name" : "Jerry Weintraub"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Harald Zwart"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "6.2 / 10"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/38575"
+            },
+            "title" : {
+               "da" : "The Karate Kid"
+            },
+            "desc" : {
+               "da" : "Dre Parker og hans mor er flyttet til Kina fra Detroit - men han k\u00e6mper med at tilpasse sig de nye omgivelser. I skolen forelsker han sig i sin klassekammerat Mei Yeng, og p\u00e5drager sig s\u00e5ledes klassens mobber og kampsportsf\u00e6nomen, Chengs, vrede. Dre betror sine problemer til den meget jordbundne vicev\u00e6rt, Mr. Han, der er en Kung fu kampsportsmester. Efter et benh\u00e5rdt kursus i tr\u00e6ning og selvdisciplin, forbereder Dre sig p\u00e5 at konfrontere sin nemesis i en karatekonkurrence."
+            },
+            "start" : "1523022300",
+            "stop" : "1523030400",
+            "url" : [
+               "http://www.themoviedb.org/movie/38575"
+            ],
+            "new" : null,
+            "channel" : "action.film.viasat.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Adventure",
+                  "Drama",
+                  "Family"
+               ]
+            },
+            "country" : [
+               "CN",
+               "US"
+            ],
+            "date" : "2010",
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "stop" : "1523037600",
+            "start" : "1523030400",
+            "channel" : "action.film.viasat.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama"
+               ]
+            },
+            "new" : null,
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2016",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Demian Bichir"
+                  },
+                  {
+                     "name" : "Gabriel Chavarria"
+                  },
+                  {
+                     "name" : "Theo Rossi"
+                  },
+                  {
+                     "name" : "Melissa Benoist"
+                  },
+                  {
+                     "name" : "Eva Longoria"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Danny, en talentfuld, ung gadekunstner bliver fanget mellem sin fars og stedmors bes\u00e6ttelse af lowrider-kulturen, og sin ekskriminelle brors farlige sti. Danny m\u00e5 v\u00e6lge mellem sit behov for selvrealisering og sin families tradition."
+            },
+            "title" : {
+               "da" : "Lowriders"
+            }
+         },
+         {
+            "title" : {
+               "da" : "The Bank Job"
+            },
+            "desc" : {
+               "da" : "Jason Statham, Saffron Burrows og David Suchet medvirker i denne komedie. En gruppe af sm\u00e5kriminelle r\u00f8ver en bank, men ender med at komme i karambolage med bander, parlament og monarkiet."
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/8848"
+            },
+            "rating" : {
+               "stars" : "6.6 / 10"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Terry Leather",
+                     "name" : "Jason Statham"
+                  },
+                  {
+                     "role" : "Martine Love",
+                     "name" : "Saffron Burrows"
+                  },
+                  {
+                     "role" : "Kevin Swain",
+                     "name" : "Stephen Campbell Moore"
+                  },
+                  {
+                     "name" : "Daniel Mays",
+                     "role" : "Dave Shilling"
+                  },
+                  {
+                     "name" : "James Faulkner",
+                     "role" : "Guy Singer"
+                  },
+                  {
+                     "role" : "Bambas",
+                     "name" : "Alki David"
+                  },
+                  {
+                     "role" : "Eddie Burton",
+                     "name" : "Michael Jibson"
+                  },
+                  {
+                     "name" : "Georgia Taylor",
+                     "role" : "Ingrid"
+                  },
+                  {
+                     "role" : "Tim Everett",
+                     "name" : "Richard Lintern"
+                  },
+                  {
+                     "role" : "Miles Urquhart",
+                     "name" : "Peter Bowles"
+                  },
+                  {
+                     "name" : "Alistair Petrie",
+                     "role" : "Phillip Lisle"
+                  },
+                  {
+                     "role" : "Gale Benson",
+                     "name" : "Hattie Morahan"
+                  },
+                  {
+                     "role" : "Snow",
+                     "name" : "Julian Lewis Jones"
+                  },
+                  {
+                     "name" : "Andrew Brooke",
+                     "role" : "Quinn"
+                  },
+                  {
+                     "role" : "Lord Drysdale",
+                     "name" : "Rupert Frazer"
+                  },
+                  {
+                     "name" : "Keeley Hawes",
+                     "role" : "Wendy Leather"
+                  },
+                  {
+                     "name" : "Don Gallagher",
+                     "role" : "Gerald Pyke"
+                  },
+                  {
+                     "name" : "Craig Fairbrass",
+                     "role" : "Nick Barton"
+                  },
+                  {
+                     "name" : "Gerard Horan",
+                     "role" : "Roy Given"
+                  },
+                  {
+                     "name" : "David Suchet",
+                     "role" : "Lew Vogel"
+                  },
+                  {
+                     "name" : "Peter de Jersey",
+                     "role" : "Michael X"
+                  },
+                  {
+                     "name" : "Colin Salmon",
+                     "role" : "Hakim Jamal"
+                  },
+                  {
+                     "name" : "Sharon Maughan",
+                     "role" : "Sonia Bern"
+                  },
+                  {
+                     "name" : "Angus Wright",
+                     "role" : "Eric Addey"
+                  },
+                  {
+                     "name" : "Dylan Charles",
+                     "role" : "Chicken Inn Customer"
+                  },
+                  {
+                     "name" : "Julian Firth",
+                     "role" : "Lawyer"
+                  },
+                  {
+                     "role" : "Reporter",
+                     "name" : "Antony Gabriel"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Dick Clement"
+                  },
+                  {
+                     "name" : "Ian La Frenais"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Charles Roven"
+                  },
+                  {
+                     "name" : "Steve Chasman"
+                  },
+                  {
+                     "name" : "Mairi Bett"
+                  },
+                  {
+                     "name" : "Aaron Shuster"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Roger Donaldson"
+                  }
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2008",
+            "country" : [
+               "AU",
+               "GB",
+               "US"
+            ],
+            "channel" : "action.film.viasat.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Thriller",
+                  "Crime",
+                  "Drama"
+               ]
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/8848"
+            ],
+            "new" : null,
+            "stop" : "1523044800",
+            "start" : "1523037600"
+         },
+         {
+            "desc" : {
+               "da" : "Jake Carter, der arbejder som ambulanceredder, f\u00e5r et n\u00f8dopkald, og er nu n\u00f8dt til at beskytte en person, der bliver forfulgt af en hensynsl\u00f8s motorcykelbande."
+            },
+            "title" : {
+               "da" : "The Marine 5: Battleground"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/445993"
+            },
+            "rating" : {
+               "stars" : "5.4 / 10"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Mike Mizanin",
+                     "role" : "Jake Carter"
+                  },
+                  {
+                     "role" : "Zoe Williams",
+                     "name" : "Anna Van Hooft"
+                  },
+                  {
+                     "name" : "Maryse Ouellet Mizanin",
+                     "role" : "Ana"
+                  },
+                  {
+                     "role" : "Vincent",
+                     "name" : "Sandy Robson"
+                  },
+                  {
+                     "name" : "Trinity Fatu",
+                     "role" : "Murphy"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Michael J. Luisi"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "James Nunn"
+                  }
+               ]
+            },
+            "date" : "2017",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/445993"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action"
+               ]
+            },
+            "channel" : "action.film.viasat.dk",
+            "stop" : "1523050800",
+            "start" : "1523044800"
+         },
+         {
+            "rating" : {
+               "stars" : "6.8 / 10"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Vin Diesel",
+                     "role" : "Dominic Toretto"
+                  },
+                  {
+                     "role" : "Deckard Shaw",
+                     "name" : "Jason Statham"
+                  },
+                  {
+                     "name" : "Dwayne Johnson",
+                     "role" : "Luke Hobbs"
+                  },
+                  {
+                     "name" : "Michelle Rodriguez",
+                     "role" : "Letty Ortiz"
+                  },
+                  {
+                     "name" : "Tyrese Gibson",
+                     "role" : "Roman Pearce"
+                  },
+                  {
+                     "name" : "Ludacris",
+                     "role" : "Tej Parker"
+                  },
+                  {
+                     "role" : "Cipher",
+                     "name" : "Charlize Theron"
+                  },
+                  {
+                     "role" : "Frank Petty / Mr. Nobody",
+                     "name" : "Kurt Russell"
+                  },
+                  {
+                     "role" : "Ramsey",
+                     "name" : "Nathalie Emmanuel"
+                  },
+                  {
+                     "name" : "Luke Evans",
+                     "role" : "Owen Shaw"
+                  },
+                  {
+                     "name" : "Elsa Pataky",
+                     "role" : "Elena Neves"
+                  },
+                  {
+                     "role" : "Connor Rhodes",
+                     "name" : "Kristofer Hivju"
+                  },
+                  {
+                     "role" : "Eric Reisner / Little Nobody",
+                     "name" : "Scott Eastwood"
+                  },
+                  {
+                     "role" : "Tac Team Leader",
+                     "name" : "Corey Maher"
+                  },
+                  {
+                     "role" : "Tego Leo",
+                     "name" : "Tego Calder\u00f3n"
+                  },
+                  {
+                     "role" : "Rico Santos",
+                     "name" : "Don Omar"
+                  },
+                  {
+                     "name" : "Helen Mirren",
+                     "role" : "Magdalene Shaw"
+                  },
+                  {
+                     "name" : "Patrick St. Esprit",
+                     "role" : "DS Allan"
+                  },
+                  {
+                     "role" : "Samantha Hobbs",
+                     "name" : "Eden Estrella"
+                  },
+                  {
+                     "name" : "Janmarco Santiago",
+                     "role" : "Fernando"
+                  },
+                  {
+                     "name" : "Luke Hawx",
+                     "role" : "Miller"
+                  },
+                  {
+                     "role" : "Raldo",
+                     "name" : "Celestino Cornielle"
+                  },
+                  {
+                     "role" : "Russian Minister of Defense",
+                     "name" : "Olek Krupa"
+                  },
+                  {
+                     "name" : "Alexander Babara",
+                     "role" : "Russian Aide"
+                  },
+                  {
+                     "role" : "Russian Lead Driver",
+                     "name" : "Andre Pushkin"
+                  },
+                  {
+                     "role" : "Russian MMV Driver",
+                     "name" : "Robert Jekabson"
+                  },
+                  {
+                     "role" : "Russian MMV Soldier",
+                     "name" : "Nick Gracer"
+                  },
+                  {
+                     "role" : "Super Jet Pilot",
+                     "name" : "Gary Weeks"
+                  },
+                  {
+                     "name" : "Joe Fishel",
+                     "role" : "Showroom Employee"
+                  },
+                  {
+                     "name" : "Michael W. Broomer",
+                     "role" : "Big Mike"
+                  },
+                  {
+                     "name" : "Theresa Cook",
+                     "role" : "Business Woman (uncredited)"
+                  },
+                  {
+                     "role" : "Showroom Customer (uncredited)",
+                     "name" : "Kim Evans"
+                  },
+                  {
+                     "name" : "Oleg Prudius",
+                     "role" : "Russian Assassin (uncredited)"
+                  },
+                  {
+                     "role" : "New York Pedestrian / Tourist / Girl at Flower Stand (uncredited)",
+                     "name" : "Connie Kincer"
+                  },
+                  {
+                     "role" : "Park Girl (uncredited)",
+                     "name" : "Yassie Hawkes"
+                  },
+                  {
+                     "name" : "Destiny Lopez",
+                     "role" : "NYC Crime Witness (uncredited)"
+                  },
+                  {
+                     "role" : "Business Woman (uncredited)",
+                     "name" : "Anita Farmer Bergman"
+                  },
+                  {
+                     "role" : "Zombie Car Tech",
+                     "name" : "Friday Chamberlain"
+                  },
+                  {
+                     "name" : "Mya Levels",
+                     "role" : "Businesswoman (uncredited)"
+                  },
+                  {
+                     "role" : "Tourist (uncredited)",
+                     "name" : "Yuliya Zelenskaya"
+                  },
+                  {
+                     "role" : "Ultra Max Prison Guard (uncredited)",
+                     "name" : "Trevor Wolf"
+                  },
+                  {
+                     "role" : "Pedestrian (uncredited)",
+                     "name" : "Megan Marie Wilson"
+                  },
+                  {
+                     "name" : "Myrom Kingery",
+                     "role" : "Russian Soldier (uncredited)"
+                  },
+                  {
+                     "role" : "Business Pedestrian (uncredited)",
+                     "name" : "Dominick Wilkins"
+                  },
+                  {
+                     "role" : "Business Pedestrian (uncredited)",
+                     "name" : "Shannon Marie Watts"
+                  },
+                  {
+                     "role" : "Chess Player (uncredited)",
+                     "name" : "Gary Lee Vincent"
+                  },
+                  {
+                     "role" : "CIA Worker (uncredited)",
+                     "name" : "Zachary Vazquez"
+                  },
+                  {
+                     "name" : "Ronald Joe Vasquez",
+                     "role" : "Prisoner (uncredited)"
+                  },
+                  {
+                     "name" : "Alan Tuskes",
+                     "role" : "Street Vendor (uncredited)"
+                  },
+                  {
+                     "name" : "Mikhail Tot",
+                     "role" : "Construction Worker (uncredited)"
+                  },
+                  {
+                     "name" : "Branislav R. Tatalovic",
+                     "role" : "Vendor (uncredited)"
+                  },
+                  {
+                     "role" : "CIA Agent (uncredited)",
+                     "name" : "Doug Stroup"
+                  },
+                  {
+                     "name" : "Eddy Stewart",
+                     "role" : "Mechanic (uncredited)"
+                  },
+                  {
+                     "role" : "Tourist (uncredited)",
+                     "name" : "Shawn Sterba"
+                  },
+                  {
+                     "role" : "Tourist (uncredited)",
+                     "name" : "Nancy Ellen Shore"
+                  },
+                  {
+                     "name" : "Jon Komp Shin",
+                     "role" : "Soldier (uncredited)"
+                  },
+                  {
+                     "name" : "Darren Sheehan",
+                     "role" : "Mechanic (uncredited)"
+                  },
+                  {
+                     "role" : "Tourist / College Student (uncredited)",
+                     "name" : "Gabrielle Sebben"
+                  },
+                  {
+                     "name" : "Ramona Schwalbach",
+                     "role" : "Pedestrian (uncredited)"
+                  },
+                  {
+                     "name" : "Debbie Scaletta",
+                     "role" : "Pedestrian (uncredited)"
+                  },
+                  {
+                     "role" : "Businesswomen (uncredited)",
+                     "name" : "Melissa Santiago"
+                  },
+                  {
+                     "name" : "Mark Salas",
+                     "role" : "Tourist (uncredited)"
+                  },
+                  {
+                     "role" : "Kid in Park (uncredited)",
+                     "name" : "Jostein Sagnes"
+                  },
+                  {
+                     "role" : "Business Pedestrian (uncredited)",
+                     "name" : "Porche Robinson"
+                  },
+                  {
+                     "role" : "Fish Worker (uncredited)",
+                     "name" : "Charlie Reyes-Torreblanca"
+                  },
+                  {
+                     "role" : "Berlin Swat (uncredited)",
+                     "name" : "William Cowboy Reed"
+                  },
+                  {
+                     "role" : "College Student / NY Businessman (uncredited)",
+                     "name" : "Ryan Poole"
+                  },
+                  {
+                     "role" : "NY Businesswoman / Tourist (uncredited)",
+                     "name" : "Michelle Poole"
+                  },
+                  {
+                     "name" : "Charles Poole",
+                     "role" : "NY Businessman / Tourist (uncredited)"
+                  },
+                  {
+                     "name" : "Anthony Vance Pierce",
+                     "role" : "Monarch Soccer Coach (uncredited)"
+                  },
+                  {
+                     "name" : "Carmelo Oquendo",
+                     "role" : "Mercenary (uncredited)"
+                  },
+                  {
+                     "role" : "Street Vender (uncredited)",
+                     "name" : "Pauline Nowakowski"
+                  },
+                  {
+                     "role" : "NY Businessman / operative (uncredited)",
+                     "name" : "Darko Nikolic"
+                  },
+                  {
+                     "role" : "Jet Tech (uncredited)",
+                     "name" : "Ryan Newton"
+                  },
+                  {
+                     "role" : "Tourist (uncredited)",
+                     "name" : "Zoya Naumchik"
+                  },
+                  {
+                     "role" : "Tourist (uncredited)",
+                     "name" : "Doug Meacham"
+                  },
+                  {
+                     "name" : "Chris McCail",
+                     "role" : "Business pedestrian (uncredited)"
+                  },
+                  {
+                     "name" : "Faith Logan",
+                     "role" : "Sexy Hipster Tourist (uncredited)"
+                  },
+                  {
+                     "name" : "Gary Lavard",
+                     "role" : "Special Operative (uncredited)"
+                  },
+                  {
+                     "role" : "Turkish Tourist (uncredited)",
+                     "name" : "\u00d6zcan \u00d6zdemir"
+                  },
+                  {
+                     "name" : "Karin Boesler",
+                     "role" : "Tourist / Pedestrian (uncredited)"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "F. Gary Gray"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Vin Diesel"
+                  },
+                  {
+                     "name" : "Neal H. Moritz"
+                  },
+                  {
+                     "name" : "Michael Fottrell"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Fast and Furious 8"
+            },
+            "desc" : {
+               "da" : "Nu da Dom og Letty er p\u00e5 deres bryllupsrejse, Brian og Mia har trukket sig fra gamet og det resterende hold er blevet frifundet har globetrotterne indfundet sig i en vis grad af normal leveform. Men da en mystisk kvinde forf\u00f8rer Dom og tr\u00e6kker ham ind i en verden af kriminalitet, som han ikke kan flygte fra - og samtidig forr\u00e5der sine venner - st\u00e5r holdet over for en nogle pr\u00f8velser, der vil udfordre dem som aldrig f\u00f8r. Fra Cubas kyster til New York Citys gader, videre til de isede sletter ud for Barentshavet, vil vores elitehold skulle krydse kloden for at stoppe en anarkist fra at udl\u00f8se kaos i verden... og bringe manden, der gjorde dem til en familie, hjem."
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/337339"
+            },
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/337339"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Adventure",
+                  "Action",
+                  "Crime",
+                  "Thriller"
+               ]
+            },
+            "channel" : "action.film.viasat.dk",
+            "start" : "1523050800",
+            "stop" : "1523059200",
+            "date" : "2017",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ]
+         }
+      ]
+   }
+}

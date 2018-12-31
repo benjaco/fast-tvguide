@@ -1,0 +1,585 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "stop" : "1522386600",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "DK"
+            ],
+            "title" : {
+               "da" : "Deadline Nat"
+            },
+            "start" : "1522372200",
+            "desc" : {
+               "da" : "Genudsendelser af aftenens Deadline med udfordrende og overraskende perspektiver p\u00e5 dagens og tidens v\u00e6sentligste historier."
+            },
+            "channel" : "dr2.dr.dk",
+            "date" : "2018"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1522389900",
+            "new" : null,
+            "title" : {
+               "da" : "Krisen i den katolske kirke"
+            },
+            "start" : "1522386600",
+            "desc" : {
+               "da" : "I 1959 indkaldte den nyvalgte pave Johannes 23. til Det andet Vatikankoncil, Det kirkelige topm\u00f8de skulle fors\u00f8ge at finde nye veje for kirken i en situation, hvor tiden s\u00e5 ud til n\u00e6rmest at v\u00e6re l\u00f8bet fra kirken. Der var forholdet til andre religioner, forholdet til det omgivende samfund og dets magtstrukturer, kirkens \u00e5ndelige rolle og magtdelingen inden for de kirkelige institutioner, kvinders status inden for kirken, problemet med de unge, med videnskaben og med seksualmoralen. Problemer der ikke er blevet mindre aktuelle i de mere end halvtreds \u00e5r, der er g\u00e5et siden."
+            },
+            "channel" : "dr2.dr.dk",
+            "date" : "2012",
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "T\u00e6nk hvis man en dag s\u00e5 sig i spejlet og s\u00e5, ikke sig selv, men verdens m\u00e6gtigste mand. Det skete for Louis Ortiz, da han i 2008 barberede sit fipsk\u00e6g af, kiggede i spejlet og pludselig ikke s\u00e5 den s\u00e6dvanlige midaldrende, arbejdsl\u00f8se puertoricanske familiefar fra Bronx, men i stedet s\u00e5 h\u00e5b, forandringer og penge. Siden har Ortiz fors\u00f8gt at leve af sin forbl\u00f8ffende lighed med pr\u00e6sident Obama."
+            },
+            "channel" : "dr2.dr.dk",
+            "start" : "1522389900",
+            "title" : {
+               "da" : "Obama fra Bronx"
+            },
+            "date" : "2014",
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/268272"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Documentary"
+               ]
+            },
+            "previously_shown" : "dr2.dr.dk|2018-03-28 23:50:00",
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/268272"
+            ],
+            "stop" : "1522393500",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Ryan Murdock"
+                  }
+               ]
+            }
+         },
+         {
+            "title" : {
+               "da" : "Walkabout"
+            },
+            "channel" : "dr2.dr.dk",
+            "desc" : {
+               "da" : "Nils og Ronny l\u00e6gger nu ud med deres \"Love of England-tour\", og det sker standsm\u00e6ssigt: i en knaldrosa isbil, der nu er \"ombygget-til-p\u00f8lsevogn\". Deres odysse, som kontakts\u00f8gende s\u00e6lgere af wienerp\u00f8lser, bliver slet ikke problemfri. Nordvision fra Norge."
+            },
+            "start" : "1522393500",
+            "date" : "2014",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Lifestyle"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8 af 9",
+               "xmltv_ns" : ". 7/9 ."
+            },
+            "stop" : "1522395900",
+            "new" : null
+         },
+         {
+            "date" : "2014",
+            "title" : {
+               "da" : "Walkabout"
+            },
+            "channel" : "dr2.dr.dk",
+            "desc" : {
+               "da" : "For alle andre end lige chauff\u00f8ren spreder Nils og Ronnys p\u00f8lsevogn \"Doris\" stor gl\u00e6de i den lille engelske landby, som Nils og Ronny er n\u00e5et til. Nu skal den videre ud p\u00e5 landevejen, p\u00e5 vej til en s\u00f8ndagsmiddag, men det bliver en lang tur med utallige stop undervejs. Ikke fordi motoren er ved at br\u00e6nde sammen, men fordi Ronny samler alle de d\u00f8de op, der er blevet trafikdr\u00e6bt. Det er jo skik og brug at have en gave med til v\u00e6rten? Nordvision fra Norge."
+            },
+            "start" : "1522395900",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Lifestyle"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 9 af 9",
+               "xmltv_ns" : ". 8/9 ."
+            },
+            "stop" : "1522398300",
+            "new" : null
+         },
+         {
+            "date" : "2015",
+            "title" : {
+               "da" : "\u00d8sters\u00f8en rundt med Hairy Bikers - Finland"
+            },
+            "desc" : {
+               "da" : "De to madglade motorcykelentusiaster, Dave Myers og Simon King, tager p\u00e5 et nyt eventyr til landene rundt om \u00d8sters\u00f8en, som ligger t\u00e6t p\u00e5 os, men som vi har et forbl\u00f8ffende d\u00e5rligt kendskab til. Som altid er de p\u00e5 jagt efter lokale k\u00f8kkener og specialiteter. Dave og Simon forelsker sig \u00f8jeblikkelig i det finske landskab med de smukke og blanke s\u00f8er. Men det er s\u00e5 som s\u00e5 med roen, n\u00e5r man b\u00e5de skal bage finske kager, deltage i konel\u00f8b, og opfylde en drengedr\u00f8m om at k\u00f8re gennem skovene i kampvogn."
+            },
+            "start" : "1522398300",
+            "channel" : "dr2.dr.dk",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "country" : [
+               "GB"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 af 6",
+               "xmltv_ns" : ". 3/6 ."
+            },
+            "stop" : "1522401900",
+            "new" : null,
+            "previously_shown" : "dr2.dr.dk|2018-03-29 12:20:00"
+         },
+         {
+            "start" : "1522401900",
+            "desc" : {
+               "da" : "Turister fra hele verden kommer til Troms\u00f8 i h\u00e5b om at f\u00e5 lov til at opleve nordlyset, dette fantastiske og helt magiske lysf\u00e6nomen. Her tager den internationalt kendte fotograf, Ole Christian Salomonsen, os med p\u00e5 jagt efter det ultimative nordlysbillede. Oplev helt unikke billeder, der aldrig f\u00f8r har v\u00e6ret fanget p\u00e5 film. Nordvision fra Norge."
+            },
+            "channel" : "dr2.dr.dk",
+            "title" : {
+               "da" : "Jagten p\u00e5 nordlyset"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/2 .",
+               "onscreen" : "Afsnit 1 af 2"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "new" : null,
+            "previously_shown" : "dr2.dr.dk|2018-03-28 10:50:00",
+            "stop" : "1522404300"
+         },
+         {
+            "desc" : {
+               "da" : "Turister fra hele verden kommer til Troms\u00f8 i h\u00e5b om at f\u00e5 lov til at opleve Nordlyset, dette fantastiske og helt magiske lysf\u00e6nomen. Engelske Chris har \"lokket\" sin k\u00e6reste Sarah med til Troms\u00f8, hvor han vil fri til hende under nordlyset, men vil det overhovedet vise sig, hvor mange chancer har han for at hans plan skal lykkes? Oplev helt unikke billeder, der aldrig f\u00f8r har v\u00e6ret fanget p\u00e5 film. Nordvision fra Norge."
+            },
+            "start" : "1522404300",
+            "channel" : "dr2.dr.dk",
+            "title" : {
+               "da" : "Jagten p\u00e5 nordlyset"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 2",
+               "xmltv_ns" : ". 1/2 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "new" : null,
+            "previously_shown" : "dr2.dr.dk|2018-03-29 10:50:00",
+            "stop" : "1522406700"
+         },
+         {
+            "new" : null,
+            "previously_shown" : "dr2.dr.dk|2018-03-29 15:20:00",
+            "stop" : "1522409700",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 af 5",
+               "xmltv_ns" : ". 4/5 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "country" : [
+               "GB"
+            ],
+            "date" : "2015",
+            "start" : "1522406700",
+            "desc" : {
+               "da" : "De afrikanske jernbaner h\u00f8rer ikke til de hurtigste. Til geng\u00e6ld har de nogle af verdens bedste udsigter. Den walisiske skuespiller Griff Rhys Jones' sidste togtur p\u00e5 det afrikanske kontinent f\u00f8rer ham i Sydafrika tusinder af kilometer fra Pretoria til Johannesburg og til diamantminerne i Kimberley. Den syv timer lange tur til Cape Town foreg\u00e5r i et af de mest luksuri\u00f8se tog i verden, men der m\u00e5 Griff ogs\u00e5 arbejde for f\u00f8den!"
+            },
+            "channel" : "dr2.dr.dk",
+            "title" : {
+               "da" : "Bumletog gennem Afrika - Sydafrika"
+            }
+         },
+         {
+            "new" : null,
+            "stop" : "1522413300",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 af 6",
+               "xmltv_ns" : ". 4/6 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "country" : [
+               "GB"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "start" : "1522409700",
+            "desc" : {
+               "da" : "De to madglade motorcykelentusiaster, Dave Myers og Simon King, tager p\u00e5 et nyt eventyr til landene rundt om \u00d8sters\u00f8en, som ligger t\u00e6t p\u00e5 os, men som vi har et forbl\u00f8ffende d\u00e5rligt kendskab til. Som altid er de p\u00e5 jagt efter lokale k\u00f8kkener og specialiteter. Det nordlige Sverige er sameland, og her l\u00e6rer Dave og Simon, hvordan samerne ryger k\u00f8det for at konservere det, laver deres egne jagtknive og fisker, s\u00e5 der er mad nok til den kommende vinter."
+            },
+            "channel" : "dr2.dr.dk",
+            "title" : {
+               "da" : "\u00d8sters\u00f8en rundt med Hairy Bikers - Nordsverige"
+            },
+            "date" : "2015"
+         },
+         {
+            "stop" : "1522420500",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 2/4 .",
+               "onscreen" : "Afsnit 3 af 4"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "DK"
+            ],
+            "date" : "2013",
+            "title" : {
+               "da" : "Anne og Anders p\u00e5 sommerferie"
+            },
+            "start" : "1522413300",
+            "desc" : {
+               "da" : "Tv-journalisten Anders Agger og tv-kokken Anne Hjern\u00f8e tager p\u00e5 roadtrip for at finde hjem til den h\u00e5ndholdte sommerferie i Danmark. De har l\u00e5nt et gammelt folkevognsrugbr\u00f8d med en topfart p\u00e5 90 og er p\u00e5 vej landet rundt fra Skagen til Sydfyn. Med indlagte kaffepauser, glemte grusveje og sm\u00e5, forf\u00f8rende madoplevelser. Det tredje program foreg\u00e5r i Vendsyssel, hvor Anne og Anders k\u00f8rer fra B\u00f8rglund Kloster til Ruths Badehotel i Gl. Skagen. I den smukke sommerby har Anne tilbragt mange af sin barndoms sommerferier, og hun dykker ned i det gamle fotoalbum. Anders sl\u00e5r sit tomandstelt op p\u00e5 en campingplads t\u00e6t p\u00e5 grenen og lader sig l\u00f8fte op af b\u00e5de skagensmalere og sv\u00e6vefly. Sammen nyder de frokost i det gr\u00f8nne, aftentur i solnedgangen og friskfangede fristelser p\u00e5 grill. Sendt f\u00f8rste gang 13.07.13."
+            },
+            "channel" : "dr2.dr.dk"
+         },
+         {
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Ian McShane",
+                     "role" : "Biskop Waleran Bigod"
+                  },
+                  {
+                     "name" : "Rufus Sewell",
+                     "role" : "Tom Bygmester"
+                  }
+               ]
+            },
+            "stop" : "1522426800",
+            "previously_shown" : "dr2.dr.dk|2018-03-29 16:10:00",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 4",
+               "xmltv_ns" : ". 0/4 ."
+            },
+            "country" : [
+               "GB"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "title" : {
+               "da" : "Ken Folletts Jordens s\u00f8jler"
+            },
+            "desc" : {
+               "da" : "England 1120. Borgerkrigen raser, fattigdommen h\u00e6rger. Adel og kirke k\u00e6mper om magten, tronf\u00f8lgeren d\u00f8r, og dronningen pr\u00f8ver at rejse en h\u00e6r i Frankrig. Midt i ragnarok kommer bygmesteren Tom til en nedbr\u00e6ndt katedral. Han beslutter at genopbygge den til et pragtv\u00e6rk, der vil give h\u00e5b for fremtiden. Prior Philip: Matthew Macfadyen. Manuskript: John Pielmeier efter Ken Folletts roman. Instruktion: Sergio Mimica-Gezzan. 2. del sendes i morgen."
+            },
+            "start" : "1522420500",
+            "channel" : "dr2.dr.dk",
+            "date" : "2010"
+         },
+         {
+            "country" : [
+               "GB"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "start" : "1522426800",
+            "desc" : {
+               "da" : "1100-tallets England h\u00e6rges af borgerkrig, for prinsesse Mathilde g\u00f8r krav p\u00e5 kong Stephens trone. Samtidig er den idealistiske bygmester Tom begyndt at opf\u00f8re sit dr\u00f8mmeprojekt, en storsl\u00e5et katedral badet i lys, men b\u00e5de den brutale William Hamleigh og den snu biskop Waleran fors\u00f8ger at stille ham hindringer i vejen. Prior Philip: Matthew Macfadyen. Manuskript: John Pielmeier efter Ken Folletts roman. Instruktion: Sergio Mimica-Gezzan. 3. del sendes i morgen."
+            },
+            "channel" : "dr2.dr.dk",
+            "title" : {
+               "da" : "Ken Folletts Jordens s\u00f8jler"
+            },
+            "date" : "2010",
+            "new" : null,
+            "stop" : "1522432800",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Ian McShane",
+                     "role" : "Biskop Waleran Bigod"
+                  },
+                  {
+                     "name" : "Rufus Sewell",
+                     "role" : "Tom Bygmester"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 4",
+               "xmltv_ns" : ". 1/4 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "new" : null,
+            "stop" : "1522438800",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 af 3",
+               "xmltv_ns" : ". 2/3 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "country" : [
+               "DE"
+            ],
+            "start" : "1522432800",
+            "desc" : {
+               "da" : "1948. Den tyske landsby Tannbach er blevet delt i en \u00f8st- og en vestzone. S\u00e5vel i \u00f8st som i vest fors\u00f8ger beboerne at indrette sig bedst muligt under de nye betingelser. Men det er ikke let i en verden, der er blevet sk\u00e5ret midt over af to forskellige ideologier."
+            },
+            "channel" : "dr2.dr.dk",
+            "title" : {
+               "da" : "Tannbach - Den delte by"
+            },
+            "date" : "2015"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1522441800",
+            "new" : null,
+            "date" : "2015",
+            "title" : {
+               "da" : "Bryllup bag tremmer"
+            },
+            "desc" : {
+               "da" : "Alle brude dr\u00f8mmer om det perfekte bryllup, men det bliver ikke lettere af, at gommen sidder i f\u00e6ngsel. Retsreglerne skal overholdes, og det betyder, at man bliver n\u00f8dt til at g\u00e5 p\u00e5 kompromis med traditionerne. Vi er med til Nancy og Anthonys store dag, men metaldetektorer og en vielse gennem skudsikkert glas har aldrig v\u00e6ret en del af 18-\u00e5rige Nancys dr\u00f8m om et prinsessebryllup."
+            },
+            "channel" : "dr2.dr.dk",
+            "start" : "1522438800",
+            "country" : [
+               "GB"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "stop" : "1522443600",
+            "new" : null,
+            "title" : {
+               "da" : "Deadline"
+            },
+            "start" : "1522441800",
+            "desc" : {
+               "da" : "Udfordrende og overraskende perspektiver p\u00e5 dagens og tidens v\u00e6sentligste historier."
+            },
+            "channel" : "dr2.dr.dk",
+            "date" : "2018",
+            "country" : [
+               "DK"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Den forsigtige Murtaugh er langt fra begejstret, da han bliver makker med den chancetagende Riggs. Sammen skal de opklare mordet p\u00e5 en luder, men Riggs, der g\u00e5r med selvmordstanker efter sin kones d\u00f8d, s\u00e6tter gang p\u00e5 gang makkerparret i livstruende situationer. Han viser sig dog at v\u00e6re den helt ideelle makker, da deres sk\u00e5nselsl\u00f8se modstandere inddrager Murtaughs familie i opg\u00f8ret."
+            },
+            "channel" : "dr2.dr.dk",
+            "start" : "1522443600",
+            "title" : {
+               "da" : "D\u00f8dbringende v\u00e5ben"
+            },
+            "date" : "1987",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Movies"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522449900",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Mel Gibson",
+                     "role" : "Martin Riggs"
+                  },
+                  {
+                     "role" : "Roger Murtaugh",
+                     "name" : "Danny Glover"
+                  },
+                  {
+                     "role" : "Trish Murtaugh",
+                     "name" : "Darlene Love"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Richard Donner"
+                  }
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "New Folsom Prison er et h\u00f8jsikkerhedsf\u00e6ngsel i Californien. De fleste indsatte afsoner lange straffe for voldelige eller banderelaterede forbrydelser. Som en del af deres rehabilitering, er de indsatte i gruppeterapi en gang om ugen. To gange om \u00e5ret m\u00e5 folk ude fra deltage i gruppeterapien i fire dage. For b\u00e5de for de indsatte og g\u00e6sterne bliver de fire dages terapi til en f\u00f8lelsesm\u00e6ssig rutsjetur, der bringer dem t\u00e6ttere p\u00e5 hinanden, men ogs\u00e5 p\u00e5 sig selv. Det viser sig, at dem uden for hegnet og dem indenfor har langt mere til f\u00e6lles, end de havde regnet med. De er alle faderl\u00f8se s\u00f8nner."
+            },
+            "start" : "1522449900",
+            "channel" : "dr2.dr.dk",
+            "title" : {
+               "da" : "Mordere i gruppeterapi"
+            },
+            "date" : "2017",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "country" : [
+               "US"
+            ],
+            "episodeNum" : {
+               "themoviedb.org" : "movie/438449"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Documentary"
+               ]
+            },
+            "new" : null,
+            "previously_shown" : "dr2.dr.dk|2018-03-25 23:15:00",
+            "url" : [
+               "http://www.themoviedb.org/movie/438449"
+            ],
+            "stop" : "1522455300",
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Alice Henty"
+                  },
+                  {
+                     "name" : "Jairus McLeary"
+                  },
+                  {
+                     "name" : "Eon McLeary"
+                  },
+                  {
+                     "name" : "Miles McLeary"
+                  },
+                  {
+                     "name" : "Angela Sostre"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Jairus McLeary"
+                  },
+                  {
+                     "name" : "Gethin Aldous"
+                  }
+               ]
+            }
+         }
+      ]
+   }
+}

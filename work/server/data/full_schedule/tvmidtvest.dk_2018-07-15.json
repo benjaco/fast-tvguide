@@ -1,0 +1,787 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "start" : "1531631100",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Nyheder."
+            },
+            "title" : {
+               "da" : "Nyheder"
+            },
+            "channel" : "tvmidtvest.dk",
+            "stop" : "1531631700"
+         },
+         {
+            "desc" : {
+               "da" : "Tag med rejsebranchens grand old man, Bent Erik M\u00f8ller fra Skjern p\u00e5 en sp\u00e6ndende research-rejse til efterkrigstidens Tyskland. I f\u00f8rste afsnit bl.a. Cecilienhof, hvor de allierede delte boet efter 2. Verdenskrig."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/2 .",
+               "onscreen" : "Afsnit 1 af 2"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1531633500",
+            "title" : {
+               "da" : "Berlin indefra"
+            },
+            "channel" : "tvmidtvest.dk",
+            "start" : "1531631700",
+            "new" : null
+         },
+         {
+            "date" : "2018",
+            "stop" : "1531635300",
+            "start" : "1531633500",
+            "new" : null,
+            "title" : {
+               "da" : "Nationalpark Thy"
+            },
+            "channel" : "tvmidtvest.dk",
+            "desc" : {
+               "da" : "Oplev havet og fiskerb\u00e5dene blive trukket op p\u00e5 stranden. Vorup\u00f8r en af tre tr\u00e6desten til naturen i Nationalpark Thy. Tilrettel\u00e6ggelse: Rigmor Sams"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "date" : "2018",
+            "stop" : "1531637400",
+            "new" : null,
+            "start" : "1531635300",
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "De bedste historier fra hele Danmark og dagens medv\u00e6rt:"
+            }
+         },
+         {
+            "date" : "2017",
+            "stop" : "1531638000",
+            "new" : null,
+            "start" : "1531637400",
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Fast arbejde: je.dk"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Bolsjer, drikkedunke, krus og k\u00f8letasker - ja, der kan trykkes, broderes eller graveres p\u00e5 det hele - og ogs\u00e5 p\u00e5 10.000 andre varer hos je.dk i Herning. Virksomhedens fornemste opgave er af g\u00f8re andre firmaer og foreninger synlige."
+            }
+         },
+         {
+            "new" : null,
+            "start" : "1531638000",
+            "title" : {
+               "da" : "Nyheder"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Nyheder."
+            },
+            "channel" : "tvmidtvest.dk",
+            "stop" : "1531638900"
+         },
+         {
+            "desc" : {
+               "da" : "Tag med rejsebranchens grand old man, Bent Erik M\u00f8ller fra Skjern p\u00e5 en sp\u00e6ndende research-rejse til efterkrigstidens Tyskland. I f\u00f8rste afsnit bl.a. Cecilienhof, hvor de allierede delte boet efter 2. Verdenskrig."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 2",
+               "xmltv_ns" : ". 0/2 ."
+            },
+            "stop" : "1531640700",
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Berlin indefra"
+            },
+            "start" : "1531638900",
+            "new" : null
+         },
+         {
+            "title" : {
+               "da" : "Nationalpark Thy"
+            },
+            "channel" : "tvmidtvest.dk",
+            "new" : null,
+            "start" : "1531640700",
+            "stop" : "1531642500",
+            "date" : "2018",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Oplev havet og fiskerb\u00e5dene blive trukket op p\u00e5 stranden. Vorup\u00f8r en af tre tr\u00e6desten til naturen i Nationalpark Thy. Tilrettel\u00e6ggelse: Rigmor Sams"
+            }
+         },
+         {
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "start" : "1531642500",
+            "new" : null,
+            "stop" : "1531644300",
+            "date" : "2018",
+            "desc" : {
+               "da" : "De bedste historier fra hele Danmark og dagens medv\u00e6rt:"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "new" : null,
+            "start" : "1531644300",
+            "desc" : {
+               "da" : "Coach \"Jern\" vil bel\u00f8nne for\u00e6ldrene for deres flittige indsats med en omgang spa og wellness. Men de skal ikke hvile p\u00e5 laurb\u00e6rene, s\u00e5 han har ogs\u00e5 arrangeret en sidste test-kamp mod en velkendt modstander. Kampen vil vise, om holdet er klar til finalen."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "T\u00e6v din teenager 10:12 - Sidste test"
+            },
+            "channel" : "tvmidtvest.dk",
+            "stop" : "1531646100"
+         },
+         {
+            "desc" : {
+               "da" : "Henrik Mortensen har bl.a. v\u00e6ret guide for General Schwarzkopf lige efter den f\u00f8rste golfkrig. Han har fanget over 4000 laks. Og nu er han begyndt at nyt\u00e6nke udstyr til lystfiskere."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1531647900",
+            "date" : "2018",
+            "title" : {
+               "da" : "Ugens g\u00e6st: Verdensber\u00f8mt lystfisker"
+            },
+            "channel" : "tvmidtvest.dk",
+            "start" : "1531646100",
+            "new" : null
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Frederikke Bitsch Madsen er handicaphj\u00e6lper, men er selv meget handicappet i sit job - hun er nemlig bange for plasticknapper, s\u00e5 hun er n\u00f8dt til, at ringe efter hj\u00e6lp, n\u00e5r hun skal ikl\u00e6de folk en skjorte. Se om det lykkes at kurere hende."
+            },
+            "stop" : "1531649700",
+            "date" : "2018",
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Hypnotis\u00f8ren fra Skive - Plastikknapper"
+            },
+            "start" : "1531647900",
+            "new" : null
+         },
+         {
+            "desc" : {
+               "da" : "Fisken\u00f8rderne Peter og Frank fra Fangstgaranti er taget til vestkysten for at fange hornfisk. I Hvide Sande er der rift om pladserne, n\u00e5r de specielle fisk er inde, men Frank og Peter finder b\u00e5de en god plads og masser af fisk. De to fiskevenner indleder en konkurrence, og taberen m\u00e5 \"nyde\" et stykke hornfiske-sushi."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Fangstgaranti: Hornfisk i Hvide Sande"
+            },
+            "new" : null,
+            "start" : "1531649700",
+            "stop" : "1531651500"
+         },
+         {
+            "stop" : "1531653300",
+            "desc" : {
+               "da" : "P\u00e5 \u00c6' Brokhold dyrker de livskvalitet. Det foreg\u00e5r med tummel, skumsved og knast\u00f8r humor som v\u00e6sentlige ingredienser. F\u00e5 eksklusivt indblik i et helt specielt f\u00e6llesskab."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Gymnastik-Magasinet: Brokholdet 1/2"
+            },
+            "channel" : "tvmidtvest.dk",
+            "new" : null,
+            "start" : "1531651500"
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/3 .",
+               "onscreen" : "Afsnit 1 af 3"
+            },
+            "desc" : {
+               "da" : "Hvad kan der v\u00e6re i en sk\u00e6ppe og hvorfor skal man ikke s\u00e6tte sit lys under den? Det finder vi ud af, n\u00e5r Mit K\u00e6reste Eje bes\u00f8ger B alle Borgerhus hvor ogs\u00e5 en meget stor, men stille hund kommer forbi."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "start" : "1531653300",
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Mit K\u00e6reste Eje - Balle Borgerhus"
+            },
+            "date" : "2017",
+            "stop" : "1531655100"
+         },
+         {
+            "desc" : {
+               "da" : "TV/MIDT-VEST retro giver dig alle dagens nyheder - som de var idag for 20 \u00e5r siden. Se eller gense de store og sm\u00e5 dramaer, der udspillede sig i det midt- og vestjyske for 20 \u00e5r siden."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "start" : "1531655100",
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "TV MIDTVEST Retro"
+            },
+            "date" : "1998",
+            "stop" : "1531656900"
+         },
+         {
+            "desc" : {
+               "da" : "Anne-Mette Sohn Jensen fot\u00e6ller b\u00e5de som fagperson og mor. Hun har selv m\u00e6rket hvad det betyder for en familie, n\u00e5r et barn er sensitivt. Hun har udgivet bogen \"Dit sensitive barn - en h\u00e5ndbog til for\u00e6ldre\". Foredraget var arrangeret af Lemvig Bibliotek i 2016."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "date" : "2016",
+            "stop" : "1531660500",
+            "start" : "1531656900",
+            "new" : null,
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Foredrag: Det sensitive barn"
+            }
+         },
+         {
+            "stop" : "1531662300",
+            "new" : null,
+            "start" : "1531660500",
+            "title" : {
+               "da" : "De gamle m\u00e6nd og havet"
+            },
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "I tiende afsnit af \"De Gamle M\u00e6nd og Havet\" s\u00e6ttes der sejl mod Als. Her bliver der bl.a. sl\u00e5et et smut forbi de smukke naturhavne ved Dyvig og Mjels Vig, der ligger p\u00e5 \u00f8ens nordlige side. Derudover bes\u00f8ger de ogs\u00e5 en kopi af en b\u00e5d fra \u00e5r 320."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 9/12 .",
+               "onscreen" : "Afsnit 10 af 12"
+            }
+         },
+         {
+            "stop" : "1531664100",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk",
+            "desc" : {
+               "da" : "Poul Erik Skov Christensen inviterer fotograf S\u00f8ren Zeuth Den tidligere forbundsformand for 3F vil gerne vide mere om, hvad det er fotografen har oplevet p\u00e5 sine mange rejser rundt i verdens mange egne."
+            },
+            "title" : {
+               "da" : "Den R\u00f8de Stol: Poul Erik Skov Kristensen"
+            },
+            "new" : null,
+            "start" : "1531662300"
+         },
+         {
+            "stop" : "1531665900",
+            "channel" : "tvmidtvest.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "De tyske soldater, som skulle k\u00e6mpe for Hitlers rige, havde \u00e9n ting til f\u00e6lles: de kunne ikke selv bestemme hvor de blev sendt hen. Men for dem der blev udstationeret til tjeneste i Danmark var det som at vinde i lotteriet. Sammenlignet med de blodige kampe p\u00e5 \u00f8stfronten var der fred i Danmark og der manglede ingenting. Derfor fik tjenesten i Danmark hurtigt \u00f8genavnet \"fl\u00f8deskumsfronten\" af de tyske soldater."
+            },
+            "title" : {
+               "da" : "Krigen i Jylland - Fl\u00f8deskumsfronten"
+            },
+            "start" : "1531664100",
+            "new" : null
+         },
+         {
+            "start" : "1531665900",
+            "new" : null,
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Hypnotis\u00f8ren fra Skive - Plastikknapper"
+            },
+            "date" : "2018",
+            "stop" : "1531667700",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Frederikke Bitsch Madsen er handicaphj\u00e6lper, men er selv meget handicappet i sit job - hun er nemlig bange for plasticknapper, s\u00e5 hun er n\u00f8dt til, at ringe efter hj\u00e6lp, n\u00e5r hun skal ikl\u00e6de folk en skjorte. Se om det lykkes at kurere hende."
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "De bedste historier fra hele Danmark og dagens medv\u00e6rt:"
+            },
+            "date" : "2018",
+            "stop" : "1531669500",
+            "start" : "1531667700",
+            "new" : null,
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "channel" : "tvmidtvest.dk"
+         },
+         {
+            "stop" : "1531671300",
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Berlin indefra"
+            },
+            "start" : "1531669500",
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 2",
+               "xmltv_ns" : ". 0/2 ."
+            },
+            "desc" : {
+               "da" : "Tag med rejsebranchens grand old man, Bent Erik M\u00f8ller fra Skjern p\u00e5 en sp\u00e6ndende research-rejse til efterkrigstidens Tyskland. I f\u00f8rste afsnit bl.a. Cecilienhof, hvor de allierede delte boet efter 2. Verdenskrig."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "stop" : "1531671600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Regionale Nyheder. F\u00e5 de seneste nyheder fra Midt- og Vestjylland. - Se mere p\u00e5 www.tvmidtvest.dk"
+            },
+            "title" : {
+               "da" : "Nyheder"
+            },
+            "channel" : "tvmidtvest.dk",
+            "start" : "1531671300",
+            "new" : null
+         },
+         {
+            "stop" : "1531673400",
+            "date" : "2018",
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Nationalpark Thy"
+            },
+            "start" : "1531671600",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Oplev havet og fiskerb\u00e5dene blive trukket op p\u00e5 stranden. Vorup\u00f8r en af tre tr\u00e6desten til naturen i Nationalpark Thy. Tilrettel\u00e6ggelse: Rigmor Sams"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "B\u00f8rnene i den lille by Borbjerg n\u00e6r Holstebro er blevet samlet under \u00e9t tag. Byen har nemlig sl\u00e5et skole, b\u00f8rnehave og fritidsordning sammen. De ansatte skal nu arbejde i alle afdelinger, og selvf\u00f8lgelig skal pedellen ogs\u00e5 undervise."
+            },
+            "stop" : "1531674000",
+            "date" : "2017",
+            "title" : {
+               "da" : "Fast arbejde: Borbjerg Skole"
+            },
+            "channel" : "tvmidtvest.dk",
+            "new" : null,
+            "start" : "1531673400"
+         },
+         {
+            "new" : null,
+            "start" : "1531674000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "T\u00e6v din teenager 10:12 - Sidste test"
+            },
+            "desc" : {
+               "da" : "Coach \"Jern\" vil bel\u00f8nne for\u00e6ldrene for deres flittige indsats med en omgang spa og wellness. Men de skal ikke hvile p\u00e5 laurb\u00e6rene, s\u00e5 han har ogs\u00e5 arrangeret en sidste test-kamp mod en velkendt modstander. Kampen vil vise, om holdet er klar til finalen."
+            },
+            "channel" : "tvmidtvest.dk",
+            "stop" : "1531675800"
+         },
+         {
+            "start" : "1531675800",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder og Puch Maxi Girls"
+            },
+            "desc" : {
+               "da" : "Nyheder Puch Maxi Girls. Du skal v\u00e6re kvinde og have en Puch Maxi. S\u00e5 kan du blive optaget i Maxi Girls Salling."
+            },
+            "channel" : "tvmidtvest.dk",
+            "stop" : "1531677300"
+         },
+         {
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Piraterne fra Thy"
+            },
+            "start" : "1531677300",
+            "new" : null,
+            "stop" : "1531679100",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 3",
+               "xmltv_ns" : ". 0/3 ."
+            },
+            "desc" : {
+               "da" : "Under Englandskrigen kaprede sm\u00e5 danske kanonb\u00e5de store handelsskibe, langs de danske kyster. Det var ren pirateri og det er kun godt 200 \u00e5r siden. - Vigs\u00f8 kom til at spille en stor rolle og kunne med rette kaldes: Piratbugten i Thy."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "stop" : "1531680900",
+            "date" : "2018",
+            "title" : {
+               "da" : "Silles hus - Alskens ut\u00f8j"
+            },
+            "channel" : "tvmidtvest.dk",
+            "new" : null,
+            "start" : "1531679100",
+            "credits" : {
+               "presenter" : [
+                  {
+                     "name" : "Sille Roulund"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "V\u00e6rt: Sille Roulund."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "new" : null,
+            "start" : "1531680900",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "P\u00e5 \u00c6' Brokhold dyrker de livskvalitet. Det foreg\u00e5r med tummel, skumsved og knast\u00f8r humor som v\u00e6sentlige ingredienser. F\u00e5 eksklusivt indblik i et helt specielt f\u00e6llesskab."
+            },
+            "title" : {
+               "da" : "Gymnastik-Magasinet: Brokholdet 1/2"
+            },
+            "channel" : "tvmidtvest.dk",
+            "stop" : "1531682700"
+         },
+         {
+            "stop" : "1531684500",
+            "start" : "1531682700",
+            "new" : null,
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Den danske klosterrute"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Den Danske Klosterrute snor sig ca. 2000 km gennem hele Danmark. En turist- og pilgrimsvej, der forbinder 48 steder, hvor der blev bygget klostre i Middelalderen. Tag med p\u00e5 en nutidig pilgrimsrejse med temaerne kirke, kunst, historie og natur. Vi starter i Helsing\u00f8r."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/8 .",
+               "onscreen" : "Afsnit 1 af 8"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Direkte fra studiet i Aabybro byder vi p\u00e5 levende fjernsyn med n\u00e6rv\u00e6rende nordjyske reportager, aktuelle g\u00e6ster i studiet, dagens vigtigste historier fra Nordjylland og aktuelle emner til debat."
+            },
+            "start" : "1531684500",
+            "new" : null,
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Nyheder fra TV2/NORD"
+            },
+            "date" : "2018",
+            "stop" : "1531685700"
+         },
+         {
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Ugens g\u00e6st: Verdensber\u00f8mt lystfisker"
+            },
+            "start" : "1531685700",
+            "new" : null,
+            "stop" : "1531687500",
+            "date" : "2018",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Henrik Mortensen har bl.a. v\u00e6ret guide for General Schwarzkopf lige efter den f\u00f8rste golfkrig. Han har fanget over 4000 laks. Og nu er han begyndt at nyt\u00e6nke udstyr til lystfiskere."
+            }
+         },
+         {
+            "stop" : "1531689300",
+            "new" : null,
+            "start" : "1531687500",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Coach \"Jern\" vil bel\u00f8nne for\u00e6ldrene for deres flittige indsats med en omgang spa og wellness. Men de skal ikke hvile p\u00e5 laurb\u00e6rene, s\u00e5 han har ogs\u00e5 arrangeret en sidste test-kamp mod en velkendt modstander. Kampen vil vise, om holdet er klar til finalen."
+            },
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "T\u00e6v din teenager 10:12 - Sidste test"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Nyheder Puch Maxi Girls. Du skal v\u00e6re kvinde og have en Puch Maxi. S\u00e5 kan du blive optaget i Maxi Girls Salling."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Nyheder og Puch Maxi Girls"
+            },
+            "new" : null,
+            "start" : "1531689300",
+            "stop" : "1531690800"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 3",
+               "xmltv_ns" : ". 0/3 ."
+            },
+            "desc" : {
+               "da" : "Under Englandskrigen kaprede sm\u00e5 danske kanonb\u00e5de store handelsskibe, langs de danske kyster. Det var ren pirateri og det er kun godt 200 \u00e5r siden. - Vigs\u00f8 kom til at spille en stor rolle og kunne med rette kaldes: Piratbugten i Thy."
+            },
+            "stop" : "1531692600",
+            "new" : null,
+            "start" : "1531690800",
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Piraterne fra Thy"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 9/12 .",
+               "onscreen" : "Afsnit 10 af 12"
+            },
+            "desc" : {
+               "da" : "I tiende afsnit af \"De Gamle M\u00e6nd og Havet\" s\u00e6ttes der sejl mod Als. Her bliver der bl.a. sl\u00e5et et smut forbi de smukke naturhavne ved Dyvig og Mjels Vig, der ligger p\u00e5 \u00f8ens nordlige side. Derudover bes\u00f8ger de ogs\u00e5 en kopi af en b\u00e5d fra \u00e5r 320."
+            },
+            "title" : {
+               "da" : "De gamle m\u00e6nd og havet"
+            },
+            "channel" : "tvmidtvest.dk",
+            "start" : "1531692600",
+            "new" : null,
+            "stop" : "1531694400"
+         },
+         {
+            "desc" : {
+               "da" : "Anne-Mette Sohn Jensen fot\u00e6ller b\u00e5de som fagperson og mor. Hun har selv m\u00e6rket hvad det betyder for en familie, n\u00e5r et barn er sensitivt. Hun har udgivet bogen \"Dit sensitive barn - en h\u00e5ndbog til for\u00e6ldre\". Foredraget var arrangeret af Lemvig Bibliotek i 2016."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "date" : "2016",
+            "stop" : "1531698000",
+            "start" : "1531694400",
+            "new" : null,
+            "channel" : "tvmidtvest.dk",
+            "title" : {
+               "da" : "Foredrag: Det sensitive barn"
+            }
+         },
+         {
+            "stop" : "1531717500",
+            "start" : "1531698000",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder fra tvmidtvest.dk"
+            },
+            "desc" : {
+               "da" : "Hold dig opdateret med seneste nyt fra Midt- og Vestjylland. Se mere p\u00e5 www.tvmidtvest.dk"
+            },
+            "channel" : "tvmidtvest.dk"
+         }
+      ]
+   }
+}

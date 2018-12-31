@@ -1,0 +1,756 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "channel" : "en.discovery.dk",
+            "episodeNum" : {
+               "onscreen" : "Episode 6 season 1",
+               "xmltv_ns" : "0 . 5 ."
+            },
+            "subTitle" : {
+               "en" : "Hollywood Plane Landing"
+            },
+            "stop" : "1522544400",
+            "title" : {
+               "en" : "Mythbusters: The Search"
+            },
+            "start" : "1522540800",
+            "desc" : {
+               "en" : "Is it possible to scale a building with vacuum cleaners? Could an amateur land a plane with radio instructions? The build team contestants find out."
+            },
+            "new" : null
+         },
+         {
+            "desc" : {
+               "en" : "After a week of being dropped into the Colombian jungle, one survivalist has already given up, another is on the brink, and hunger and thirst threaten the rest."
+            },
+            "start" : "1522544400",
+            "title" : {
+               "en" : "Naked and Afraid XL"
+            },
+            "new" : null,
+            "channel" : "en.discovery.dk",
+            "episodeNum" : {
+               "onscreen" : "Episode 2 season 1",
+               "xmltv_ns" : "0 . 1 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "en" : "40 Days No Escape"
+            },
+            "stop" : "1522547700"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 5 .",
+               "onscreen" : "Episode 6 season 1"
+            },
+            "channel" : "en.discovery.dk",
+            "stop" : "1522550700",
+            "subTitle" : {
+               "en" : "Datsun Street Racer"
+            },
+            "title" : {
+               "en" : "Goblin Works Garage"
+            },
+            "desc" : {
+               "en" : "The team get hold of a Datsun Z-car, the grandfather of the 'fast and furious' street racing scene. The plan? A complete rebuild to give it the Goblin style."
+            },
+            "start" : "1522547700",
+            "new" : null
+         },
+         {
+            "desc" : {
+               "en" : "The Kindig family aims to give Charity's dad the retirement gift of a lifetime, converting a '57 Corvette into a Bitchin' Ride. Can the kids get motivated to help?"
+            },
+            "start" : "1522550700",
+            "title" : {
+               "en" : "Kindig Customs"
+            },
+            "new" : null,
+            "channel" : "en.discovery.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 11 .",
+               "onscreen" : "Episode 12 season 4"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "en" : "A Family Affair"
+            },
+            "stop" : "1522553700"
+         },
+         {
+            "start" : "1522553700",
+            "desc" : {
+               "en" : "Discover how life casts, downdraft cooktops, compression hosiery and electric motorcycles are made."
+            },
+            "title" : {
+               "en" : "How It's Made"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Episode 22 season 21",
+               "xmltv_ns" : "20 . 21 ."
+            },
+            "channel" : "en.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1522555200",
+            "subTitle" : {
+               "en" : "Life Casting, Downdraft Cooktops, Compression Hosiery, Electric Motorcycles"
+            }
+         },
+         {
+            "new" : null,
+            "desc" : {
+               "en" : "Find out how items such as sidecars, frozen French toast, refrigerator compressors and superchargers are made."
+            },
+            "start" : "1522555200",
+            "title" : {
+               "en" : "How It's Made"
+            },
+            "stop" : "1522556700",
+            "subTitle" : {
+               "en" : "Sidecars, Frozen French Toast, Refrigerator Compressors, Superchargers"
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 23 season 21",
+               "xmltv_ns" : "20 . 22 ."
+            },
+            "channel" : "en.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "new" : null,
+            "title" : {
+               "en" : "How Do They Do It? 10 with Lasse Rimmer"
+            },
+            "desc" : {
+               "en" : "Stand-up comedian and radio and TV host Lasse Rimmer puts various everyday items under the microscope to reveal how they are produced, manufactured or confected."
+            },
+            "start" : "1522556700",
+            "subTitle" : {
+               "en" : "Canton Tower/Tunnel/Escape Slides"
+            },
+            "stop" : "1522558500",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "channel" : "en.discovery.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "9 . 14 .",
+               "onscreen" : "Episode 15 season 10"
+            }
+         },
+         {
+            "title" : {
+               "en" : "How Do They Do It? 10 with Lasse Rimmer"
+            },
+            "start" : "1522558500",
+            "desc" : {
+               "en" : "Stand-up comedian and radio and TV host Lasse Rimmer puts various everyday items under the microscope to reveal how they are produced, manufactured or confected."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "channel" : "en.discovery.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "9 . 15 .",
+               "onscreen" : "Episode 16 season 10"
+            },
+            "subTitle" : {
+               "en" : "Cartoonists' Ink/False Eyes/Russian Dolls"
+            },
+            "stop" : "1522560000"
+         },
+         {
+            "stop" : "1522563300",
+            "subTitle" : {
+               "en" : "Water Chaos"
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 4 season 3",
+               "xmltv_ns" : "2 . 3 ."
+            },
+            "channel" : "en.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "new" : null,
+            "desc" : {
+               "en" : "Witness some of the strangest weather on Earth, including hailstorms, a snow-mageddon, mysterious circles in Namibia and fish washed ashore in India."
+            },
+            "start" : "1522560000",
+            "title" : {
+               "en" : "Strangest Weather on Earth"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "channel" : "en.discovery.dk",
+            "episodeNum" : {
+               "onscreen" : "Episode 7 season 4",
+               "xmltv_ns" : "3 . 6 ."
+            },
+            "subTitle" : {
+               "en" : "Flying Ton, Creeping Allen"
+            },
+            "stop" : "1522564800",
+            "title" : {
+               "en" : "Auction Hunters"
+            },
+            "desc" : {
+               "en" : "The boys head to Chinatown, where a group of local thugs attempt to scupper the plucky duo's plans. But will it be big treasure in little China?"
+            },
+            "start" : "1522563300",
+            "new" : null
+         },
+         {
+            "new" : null,
+            "desc" : {
+               "en" : "The boys run into an old friend and former employee at a particularly lively auction, but will her new found confidence lead to any auction scuffles with the boys?"
+            },
+            "start" : "1522564800",
+            "title" : {
+               "en" : "Auction Hunters"
+            },
+            "stop" : "1522566300",
+            "subTitle" : {
+               "en" : "Whip It Good"
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 8 season 4",
+               "xmltv_ns" : "3 . 7 ."
+            },
+            "channel" : "en.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "title" : {
+               "en" : "Auction Hunters"
+            },
+            "desc" : {
+               "en" : "Auction Hunters Ton and Allen get in a bidding war with two highly competitive women over a heavy Gatling gun and an old suit of armour."
+            },
+            "start" : "1522566300",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 8 .",
+               "onscreen" : "Episode 9 season 4"
+            },
+            "channel" : "en.discovery.dk",
+            "stop" : "1522568100",
+            "subTitle" : {
+               "en" : "Machine Gun Ton"
+            }
+         },
+         {
+            "subTitle" : {
+               "en" : "Always Money in Philadelphia"
+            },
+            "stop" : "1522569600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "channel" : "en.discovery.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 9 .",
+               "onscreen" : "Episode 10 season 4"
+            },
+            "new" : null,
+            "title" : {
+               "en" : "Auction Hunters"
+            },
+            "start" : "1522568100",
+            "desc" : {
+               "en" : "In Philadelphia, Ton and Allen tackle former NFL player Vince Papale over a vintage football-passing machine and a Colonial musket."
+            }
+         },
+         {
+            "new" : null,
+            "desc" : {
+               "en" : "The contestants must build a spy car that can blind a vehicle in pursuit. Plus, they spend six minutes in an open coffin filled with snakes, rats, and worms."
+            },
+            "start" : "1522569600",
+            "title" : {
+               "en" : "Mythbusters: The Search"
+            },
+            "subTitle" : {
+               "en" : "Return Of The Spy Car"
+            },
+            "stop" : "1522573200",
+            "channel" : "en.discovery.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 6 .",
+               "onscreen" : "Episode 7 season 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 7 .",
+               "onscreen" : "Episode 8 season 1"
+            },
+            "channel" : "en.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1522576800",
+            "subTitle" : {
+               "en" : "Explosive Grand Finale"
+            },
+            "start" : "1522573200",
+            "desc" : {
+               "en" : "The remaining contestants tackle the two most difficult myths yet - a water heater rocket and a walking-on-water challenge - before the winners are revealed!"
+            },
+            "title" : {
+               "en" : "Mythbusters: The Search"
+            },
+            "new" : null
+         },
+         {
+            "new" : null,
+            "title" : {
+               "en" : "Mythbusters"
+            },
+            "start" : "1522576800",
+            "desc" : {
+               "en" : "Brian and Jon kick off with an airbag myth - how safe is it to have your legs on the dashboard? Plus, is delayed causality really a thing?"
+            },
+            "subTitle" : {
+               "en" : "Heads Will Roll"
+            },
+            "stop" : "1522580400",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "channel" : "en.discovery.dk",
+            "episodeNum" : {
+               "onscreen" : "Episode 1 season 11",
+               "xmltv_ns" : "10 . 0 ."
+            }
+         },
+         {
+            "new" : null,
+            "title" : {
+               "en" : "Mighty Ships"
+            },
+            "desc" : {
+               "en" : "Get a behind-the-scenes look at the Northern Eagle, a huge fishing vessel-come-fish processing plant. But are ships like these the future for commercial fishing?"
+            },
+            "start" : "1522580400",
+            "stop" : "1522584000",
+            "subTitle" : {
+               "en" : "Northern Eagle"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 4 season 6",
+               "xmltv_ns" : "5 . 3 ."
+            },
+            "channel" : "en.discovery.dk"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 5 season 6",
+               "xmltv_ns" : "5 . 4 ."
+            },
+            "channel" : "en.discovery.dk",
+            "stop" : "1522587600",
+            "subTitle" : {
+               "en" : "USNS Grasp"
+            },
+            "title" : {
+               "en" : "Mighty Ships"
+            },
+            "start" : "1522584000",
+            "desc" : {
+               "en" : "Get a behind-the-scenes look at the US Navy's salvage ship, the USNS Grasp, as it sails on a mission in the North Sea to hunt for a famous US shipwreck."
+            },
+            "new" : null
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "8 . 4 .",
+               "onscreen" : "Episode 5 season 9"
+            },
+            "channel" : "en.discovery.dk",
+            "stop" : "1522591200",
+            "subTitle" : {
+               "en" : "Malaysian Lake Monster"
+            },
+            "title" : {
+               "en" : "River Monsters"
+            },
+            "start" : "1522587600",
+            "desc" : {
+               "en" : "When two men mysteriously vanish on a remote lake in Malaysia, Jeremy Wade sets out to track down the possible killer."
+            },
+            "new" : null
+         },
+         {
+            "new" : null,
+            "desc" : {
+               "en" : "Junk expert Laurie Voutier struggles to move a heavy piano from the second storey of his mate's house. Benny unearths rare red stained glass in an old Victorian cottage."
+            },
+            "start" : "1522591200",
+            "title" : {
+               "en" : "Demolition Man"
+            },
+            "stop" : "1522593000",
+            "subTitle" : {
+               "en" : "The Piano"
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 1 season 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "channel" : "en.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "subTitle" : {
+               "en" : "House Of Horrors"
+            },
+            "stop" : "1522594800",
+            "channel" : "en.discovery.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1 .",
+               "onscreen" : "Episode 2 season 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "new" : null,
+            "start" : "1522593000",
+            "desc" : {
+               "en" : "Demolition man Lawrie helps clear out his mate Johnny's property. Is there treasure amidst the junk? And, teammate Jabba starts a big job demolishing a restaurant."
+            },
+            "title" : {
+               "en" : "Demolition Man"
+            }
+         },
+         {
+            "stop" : "1522598400",
+            "subTitle" : {
+               "en" : "A Family Affair"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 11 .",
+               "onscreen" : "Episode 12 season 4"
+            },
+            "channel" : "en.discovery.dk",
+            "new" : null,
+            "title" : {
+               "en" : "Kindig Customs"
+            },
+            "start" : "1522594800",
+            "desc" : {
+               "en" : "The Kindig family aims to give Charity's dad the retirement gift of a lifetime, converting a '57 Corvette into a Bitchin' Ride. Can the kids get motivated to help?"
+            }
+         },
+         {
+            "new" : null,
+            "desc" : {
+               "en" : "Richard Rawlings invests in a struggling garage, Scotty's Automotive, in Texas. The owner must break his hoarding ways for Richard to make his money back."
+            },
+            "start" : "1522598400",
+            "title" : {
+               "en" : "Garage Rehab"
+            },
+            "stop" : "1522602000",
+            "subTitle" : {
+               "en" : "Scotty's Automotive"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1 .",
+               "onscreen" : "Episode 2 season 1"
+            },
+            "channel" : "en.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "title" : {
+               "en" : "Salvage Hunters"
+            },
+            "desc" : {
+               "en" : "Drew explores an Aladdin's cave of magic carpets in Cumbria and royal biographer Lady Colin Campbell reveals antiques with a tragic history from her romantic castle."
+            },
+            "start" : "1522602000",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "channel" : "en.discovery.dk",
+            "episodeNum" : {
+               "onscreen" : "Episode 6 season 10",
+               "xmltv_ns" : "9 . 5 ."
+            },
+            "subTitle" : {
+               "en" : "Episode 6"
+            },
+            "stop" : "1522605600"
+         },
+         {
+            "subTitle" : {
+               "en" : "Super Bike"
+            },
+            "stop" : "1522609200",
+            "channel" : "en.discovery.dk",
+            "episodeNum" : {
+               "onscreen" : "Episode 2 season 2",
+               "xmltv_ns" : "1 . 1 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "new" : null,
+            "desc" : {
+               "en" : "The super bike is the ultimate feat of two-wheeled engineering. From the super light-weight engine to a clutch-less gearbox, how have these racing bikes evolved?"
+            },
+            "start" : "1522605600",
+            "title" : {
+               "en" : "Rise of the Machines"
+            }
+         },
+         {
+            "subTitle" : {
+               "en" : "In Hitler's Crosshairs"
+            },
+            "stop" : "1522612800",
+            "channel" : "en.discovery.dk",
+            "episodeNum" : {
+               "onscreen" : "Episode 4 season 1",
+               "xmltv_ns" : "0 . 3 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "new" : null,
+            "desc" : {
+               "en" : "The team travels to Serbia, Tesla's homeland, and discovers unseen documents drawn by Tesla himself. Meanwhile, the Death Ray build moves ahead."
+            },
+            "start" : "1522609200",
+            "title" : {
+               "en" : "Tesla's Death Ray: A Murder Declassified"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "channel" : "en.discovery.dk",
+            "episodeNum" : {
+               "onscreen" : "Episode 7 season 7",
+               "xmltv_ns" : "6 . 6 ."
+            },
+            "subTitle" : {
+               "en" : "Pass The Juice"
+            },
+            "stop" : "1522616400",
+            "title" : {
+               "en" : "Moonshiners"
+            },
+            "desc" : {
+               "en" : "In North Carolina, Mike brings back an old family shine recipe. Meanwhile, Mark and Digger troubleshoot a stalled fermentation problem."
+            },
+            "start" : "1522612800",
+            "new" : null
+         },
+         {
+            "stop" : "1522621800",
+            "subTitle" : {
+               "en" : "The Spoils Of War"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "7 . 20 .",
+               "onscreen" : "Episode 21 season 8"
+            },
+            "channel" : "en.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "new" : null,
+            "desc" : {
+               "en" : "It's judgement day on Parker and Todd's 100-ounce bet! Whilst Parker chases a record breaking total, Todd desperately tries to keep his crew from falling apart"
+            },
+            "start" : "1522616400",
+            "title" : {
+               "en" : "Gold Rush"
+            }
+         },
+         {
+            "new" : null,
+            "title" : {
+               "en" : "Gold Rush (Season Specials)"
+            },
+            "start" : "1522621800",
+            "desc" : {
+               "en" : "Executive Producer Christo Doyle puts the cast and crew on the hot seat to find out what really happened in the previous season."
+            },
+            "stop" : "1522623600",
+            "subTitle" : {
+               "en" : "After Show"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 5 season 8",
+               "xmltv_ns" : "7 . 4 ."
+            },
+            "channel" : "en.discovery.dk"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "channel" : "en.discovery.dk",
+            "episodeNum" : {
+               "onscreen" : "Episode 4 season 6",
+               "xmltv_ns" : "5 . 3 ."
+            },
+            "subTitle" : {
+               "en" : "Northern Eagle"
+            },
+            "stop" : "1522627200",
+            "title" : {
+               "en" : "Mighty Ships"
+            },
+            "start" : "1522623600",
+            "desc" : {
+               "en" : "Get a behind-the-scenes look at the Northern Eagle, a huge fishing vessel-come-fish processing plant. But are ships like these the future for commercial fishing?"
+            },
+            "new" : null
+         }
+      ]
+   }
+}

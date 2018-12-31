@@ -1,0 +1,4257 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "start" : "1522973760",
+            "stop" : "1522974900",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=287036&seasonid=685176&id=5798386&lid=7"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "date" : "2014",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "AJ",
+                     "name" : "Dusan Brown"
+                  },
+                  {
+                     "name" : "",
+                     "role" : "Blaze"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Dinocoaster"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 0 .",
+               "thetvdb.com" : "series/287036",
+               "onscreen" : "Afsnit 1 s\u00e6son 3"
+            },
+            "title" : {
+               "da" : "Blaze og monstermaskinerne"
+            },
+            "desc" : {
+               "da" : "Blaze bes\u00f8ger Hastighedstrup for at konkurrere med sine nye racerbilvenner i det l\u00e6ngste l\u00f8b nogensinde: Hundredekilometerl\u00f8bet. Men Crusher deltager ogs\u00e5 og vil g\u00f8re alt for at vinde."
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=287036&seasonid=685176&id=5822981&lid=7"
+            ],
+            "stop" : "1522976400",
+            "start" : "1522975080",
+            "date" : "2014",
+            "subTitle" : {
+               "da" : "The Hundred Mile Race"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "AJ",
+                     "name" : "Dusan Brown"
+                  },
+                  {
+                     "name" : "",
+                     "role" : "Blaze"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Blaze og monstermaskinerne"
+            },
+            "desc" : {
+               "da" : "laze og vennerne tager til Hastighedstrup og laver sig om til racerbiler for at deltage i Polarl\u00f8bet; et vinterligt l\u00f8b gennem sneen! Vennerne m\u00e5 holde hovedet koldt, da Crusher sl\u00e5r dem ud af kurs."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 3",
+               "xmltv_ns" : "2 . 1 .",
+               "thetvdb.com" : "series/287036"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Kaptajn Pighvar og hans f\u00e6tter tager p\u00e5 dykkertur for at f\u00e5 et billede af en sj\u00e6lden s\u00f8p\u00f8lse - men pludselig sidder deres dykkerklokke fast! // En slem storm skyller b\u00e6veren Chompys d\u00e6mning v\u00e6k, derfor begynder han at tygge l\u00f8s i al tr\u00e6et hos farmer Yumi!"
+            },
+            "title" : {
+               "da" : "Paw Patrol"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 2",
+               "xmltv_ns" : "1 . 3 .",
+               "thetvdb.com" : "series/272472"
+            },
+            "subTitle" : {
+               "da" : "Pups Save the Penguins"
+            },
+            "rating" : {
+               "stars" : "7.5 / 9"
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Ursula Ziegler Sullivan"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Everest",
+                     "name" : "Berkley Silverman"
+                  },
+                  {
+                     "role" : "Skye",
+                     "name" : "Kallan Holley"
+                  },
+                  {
+                     "name" : "Julie Lemieux",
+                     "role" : "Cali the Cat"
+                  },
+                  {
+                     "name" : "Elijha Hammill",
+                     "role" : "Ryder (Season 2)"
+                  },
+                  {
+                     "name" : "Hiromi Okuyama",
+                     "role" : "Farmer Yumi (Season 1)"
+                  },
+                  {
+                     "name" : "Tristan Samuel",
+                     "role" : "Chase (Season 1)"
+                  },
+                  {
+                     "role" : "Fran\u00e7ois Turbot",
+                     "name" : "Peter Cugno"
+                  },
+                  {
+                     "role" : "Farmer Yumi (Season 2)",
+                     "name" : "Stephany Seki"
+                  },
+                  {
+                     "role" : "Ryder (Seasons 1 & 2)",
+                     "name" : "Owen Mason"
+                  },
+                  {
+                     "name" : "Max Calinescu",
+                     "role" : "Chase (Season 2)"
+                  },
+                  {
+                     "name" : "Lucius Hoyos",
+                     "role" : "Carlos"
+                  },
+                  {
+                     "name" : "Gage Munroe",
+                     "role" : "Marshall (Season 1)"
+                  },
+                  {
+                     "role" : "Katie",
+                     "name" : "Katherine Forrester"
+                  },
+                  {
+                     "role" : "Zuma",
+                     "name" : "Alex Thorne"
+                  },
+                  {
+                     "role" : "Mayor Goodway",
+                     "name" : "Deann Degruijter"
+                  },
+                  {
+                     "role" : "Cap'n Turbot/Mayor Humdinger/Farmer Al",
+                     "name" : "Ron Pardo"
+                  },
+                  {
+                     "name" : "Blair Williams",
+                     "role" : "Mr. Porter"
+                  },
+                  {
+                     "name" : "Devan Cohen",
+                     "role" : "Rubble"
+                  },
+                  {
+                     "name" : "Christian DiStefano",
+                     "role" : "Alex Porter"
+                  },
+                  {
+                     "name" : "Scott McCord",
+                     "role" : "Jake"
+                  },
+                  {
+                     "role" : "Marshall (Season 2)",
+                     "name" : "Drew Davis"
+                  },
+                  {
+                     "role" : "Rocky",
+                     "name" : "Stuart Ralston"
+                  },
+                  {
+                     "role" : "Ringmaster Raimundo",
+                     "name" : "Juan Chiordan"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Jamie Whitney"
+                  }
+               ]
+            },
+            "date" : "2013",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=272472&seasonid=593789&id=4970734&lid=7"
+            ],
+            "new" : null,
+            "start" : "1522976400",
+            "stop" : "1522977600"
+         },
+         {
+            "date" : "2017",
+            "stop" : "1522977900",
+            "start" : "1522977720",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 10 s\u00e6son 1",
+               "xmltv_ns" : "0 . 9 ."
+            },
+            "desc" : {
+               "da" : "Mor og far giver killingerne penge til at indk\u00f8be kolonialvarer. De modst\u00e5r fristelserne af alt leget\u00f8jet og sjove ting som rullesk\u00f8jter i butikken og bliver bel\u00f8nnet med en tur p\u00e5 sk\u00f8jtebanen sammen med mor og far."
+            },
+            "title" : {
+               "da" : "Kid-e-Cats"
+            },
+            "subTitle" : {
+               "da" : "A trip to the Store"
+            }
+         },
+         {
+            "date" : "2017",
+            "new" : null,
+            "channel" : "nickjr.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1522978020",
+            "stop" : "1522978200",
+            "title" : {
+               "da" : "Kid-e-Cats"
+            },
+            "desc" : {
+               "da" : "Killingerne er med i en sneskulpturskonkurrence, hvor pr\u00e6mien er en d\u00e5se kager. F\u00f8rst laver de identiske snekatte, men da de s\u00e6tter deres kreative hjerner p\u00e5 arbejde, finder de ud af, at de kan lave forskellige skulpturer."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 10 .",
+               "onscreen" : "Afsnit 11 s\u00e6son 1"
+            },
+            "subTitle" : {
+               "da" : "Snow Sculptures"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Space Adventure"
+            },
+            "desc" : {
+               "da" : "Et snevejr holder killinger indend\u00f8rs. Sneen ligner en galakse for killingerne, som beslutter sig for at have et rumeventyr i huset. De laver et rumskib og en masse rod, som de ikke vil rydde op, f\u00f8r far hj\u00e6lper med at g\u00f8re det sjovt."
+            },
+            "title" : {
+               "da" : "Kid-e-Cats"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 12 s\u00e6son 1",
+               "xmltv_ns" : "0 . 11 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "new" : null,
+            "stop" : "1522978500",
+            "start" : "1522978260",
+            "date" : "2017"
+         },
+         {
+            "subTitle" : {
+               "da" : "The Great Skate Mistake"
+            },
+            "desc" : {
+               "da" : "Leah og Zak er i skaterparken hvor de \u00f8ver sig til skateboardkonkurrencen. Men lige inden konkurrencen begynder, g\u00e5r Leahs skateboard i stykker. Som erstatning kommer Shimmer og Shine til at give hende et surfboard."
+            },
+            "title" : {
+               "da" : "Shimmer og Shine"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 17 s\u00e6son 1",
+               "xmltv_ns" : "0 . 16 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "new" : null,
+            "start" : "1522978620",
+            "stop" : "1522979700",
+            "date" : "2015"
+         },
+         {
+            "new" : null,
+            "channel" : "nickjr.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1522979940",
+            "stop" : "1522981200",
+            "date" : "2015",
+            "subTitle" : {
+               "da" : "Dream Dollhouse"
+            },
+            "desc" : {
+               "da" : "Da Leah \u00f8nsker flere dukkevenner at lege med i sit nye dukkehus, skrumper Shimmer og Shine sig selv til dukkest\u00f8rrelse! Efter endnu et \u00f8nske der ender med at Leah selv bliver skrumpet, bliver det hele endnu mere indviklet."
+            },
+            "title" : {
+               "da" : "Shimmer og Shine"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 18 s\u00e6son 1",
+               "xmltv_ns" : "0 . 17 ."
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Truckball Team-Up"
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Wade Cross"
+                  },
+                  {
+                     "name" : "Michael Martines"
+                  },
+                  {
+                     "name" : "Blair Simmons"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Dusan Brown",
+                     "role" : "AJ"
+                  },
+                  {
+                     "name" : "",
+                     "role" : "Blaze"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Dustin Ferrer"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Den sultne Crusher kommer til at omprogrammere alle bagerens bage-botter, s\u00e5 de g\u00e5r amok. Nu m\u00e5 AJ og Blaze fange de l\u00f8bske robotter inden Akselby drukner i bagv\u00e6rk."
+            },
+            "title" : {
+               "da" : "Blaze og monstermaskinerne"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 11 s\u00e6son 1",
+               "thetvdb.com" : "series/287036",
+               "xmltv_ns" : "0 . 10 ."
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=287036&seasonid=600166&id=5097421&lid=7"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "stop" : "1522982400",
+            "start" : "1522981260",
+            "date" : "2014"
+         },
+         {
+            "start" : "1522982580",
+            "stop" : "1522983600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=287036&seasonid=600166&id=5132603&lid=7"
+            ],
+            "date" : "2014",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Miguel Martinez-Joffre"
+                  },
+                  {
+                     "name" : "Shane Poettcker"
+                  },
+                  {
+                     "name" : "Jacob Joice"
+                  },
+                  {
+                     "name" : "Blair Simmons"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "AJ",
+                     "name" : "Dusan Brown"
+                  },
+                  {
+                     "name" : "",
+                     "role" : "Blaze"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Kevin del Aguila"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "The Mystery Bandit"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 11 .",
+               "thetvdb.com" : "series/287036",
+               "onscreen" : "Afsnit 12 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "AJ m\u00e5 p\u00e5 jagt efter en mystisk tyv, der har stj\u00e5let hans pokal!"
+            },
+            "title" : {
+               "da" : "Blaze og monstermaskinerne"
+            }
+         },
+         {
+            "stop" : "1522984500",
+            "start" : "1522983840",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=272472&seasonid=699034&id=5957840&lid=7"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "date" : "2013",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Charles E. Bastien"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Everest",
+                     "name" : "Berkley Silverman"
+                  },
+                  {
+                     "name" : "Kallan Holley",
+                     "role" : "Skye"
+                  },
+                  {
+                     "role" : "Cali the Cat",
+                     "name" : "Julie Lemieux"
+                  },
+                  {
+                     "name" : "Elijha Hammill",
+                     "role" : "Ryder (Season 2)"
+                  },
+                  {
+                     "role" : "Farmer Yumi (Season 1)",
+                     "name" : "Hiromi Okuyama"
+                  },
+                  {
+                     "role" : "Chase (Season 1)",
+                     "name" : "Tristan Samuel"
+                  },
+                  {
+                     "role" : "Fran\u00e7ois Turbot",
+                     "name" : "Peter Cugno"
+                  },
+                  {
+                     "name" : "Stephany Seki",
+                     "role" : "Farmer Yumi (Season 2)"
+                  },
+                  {
+                     "role" : "Ryder (Seasons 1 & 2)",
+                     "name" : "Owen Mason"
+                  },
+                  {
+                     "name" : "Max Calinescu",
+                     "role" : "Chase (Season 2)"
+                  },
+                  {
+                     "name" : "Lucius Hoyos",
+                     "role" : "Carlos"
+                  },
+                  {
+                     "role" : "Marshall (Season 1)",
+                     "name" : "Gage Munroe"
+                  },
+                  {
+                     "role" : "Katie",
+                     "name" : "Katherine Forrester"
+                  },
+                  {
+                     "name" : "Alex Thorne",
+                     "role" : "Zuma"
+                  },
+                  {
+                     "role" : "Mayor Goodway",
+                     "name" : "Deann Degruijter"
+                  },
+                  {
+                     "role" : "Cap'n Turbot/Mayor Humdinger/Farmer Al",
+                     "name" : "Ron Pardo"
+                  },
+                  {
+                     "role" : "Mr. Porter",
+                     "name" : "Blair Williams"
+                  },
+                  {
+                     "name" : "Devan Cohen",
+                     "role" : "Rubble"
+                  },
+                  {
+                     "name" : "Christian DiStefano",
+                     "role" : "Alex Porter"
+                  },
+                  {
+                     "role" : "Jake",
+                     "name" : "Scott McCord"
+                  },
+                  {
+                     "role" : "Marshall (Season 2)",
+                     "name" : "Drew Davis"
+                  },
+                  {
+                     "role" : "Rocky",
+                     "name" : "Stuart Ralston"
+                  },
+                  {
+                     "name" : "Juan Chiordan",
+                     "role" : "Ringmaster Raimundo"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Alex Ganetakos"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "7.5 / 9"
+            },
+            "subTitle" : {
+               "da" : "Pups Save the Chili Cook-Off"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/272472",
+               "xmltv_ns" : "3 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 4"
+            },
+            "desc" : {
+               "da" : "PAW Patrol er en serie for de sm\u00e5, der handler om de seks heltemodige hundehvalpe: Chase, Marshall, Rocky, Zuma, Rubble, og Skye, som ledes af en teknologibegejstret ti-\u00e5rig dreng, der hedder Ryder."
+            },
+            "title" : {
+               "da" : "Paw Patrol"
+            }
+         },
+         {
+            "stop" : "1522985700",
+            "start" : "1522984500",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=272472&seasonid=527372&id=4695231&lid=7"
+            ],
+            "new" : null,
+            "channel" : "nickjr.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "date" : "2013",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Jamie Whitney"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Ursula Ziegler Sullivan"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Berkley Silverman",
+                     "role" : "Everest"
+                  },
+                  {
+                     "role" : "Skye",
+                     "name" : "Kallan Holley"
+                  },
+                  {
+                     "role" : "Cali the Cat",
+                     "name" : "Julie Lemieux"
+                  },
+                  {
+                     "name" : "Elijha Hammill",
+                     "role" : "Ryder (Season 2)"
+                  },
+                  {
+                     "name" : "Hiromi Okuyama",
+                     "role" : "Farmer Yumi (Season 1)"
+                  },
+                  {
+                     "name" : "Tristan Samuel",
+                     "role" : "Chase (Season 1)"
+                  },
+                  {
+                     "name" : "Peter Cugno",
+                     "role" : "Fran\u00e7ois Turbot"
+                  },
+                  {
+                     "name" : "Stephany Seki",
+                     "role" : "Farmer Yumi (Season 2)"
+                  },
+                  {
+                     "role" : "Ryder (Seasons 1 & 2)",
+                     "name" : "Owen Mason"
+                  },
+                  {
+                     "role" : "Chase (Season 2)",
+                     "name" : "Max Calinescu"
+                  },
+                  {
+                     "name" : "Lucius Hoyos",
+                     "role" : "Carlos"
+                  },
+                  {
+                     "name" : "Gage Munroe",
+                     "role" : "Marshall (Season 1)"
+                  },
+                  {
+                     "role" : "Katie",
+                     "name" : "Katherine Forrester"
+                  },
+                  {
+                     "role" : "Zuma",
+                     "name" : "Alex Thorne"
+                  },
+                  {
+                     "role" : "Mayor Goodway",
+                     "name" : "Deann Degruijter"
+                  },
+                  {
+                     "name" : "Ron Pardo",
+                     "role" : "Cap'n Turbot/Mayor Humdinger/Farmer Al"
+                  },
+                  {
+                     "role" : "Mr. Porter",
+                     "name" : "Blair Williams"
+                  },
+                  {
+                     "name" : "Devan Cohen",
+                     "role" : "Rubble"
+                  },
+                  {
+                     "name" : "Christian DiStefano",
+                     "role" : "Alex Porter"
+                  },
+                  {
+                     "name" : "Scott McCord",
+                     "role" : "Jake"
+                  },
+                  {
+                     "name" : "Drew Davis",
+                     "role" : "Marshall (Season 2)"
+                  },
+                  {
+                     "name" : "Stuart Ralston",
+                     "role" : "Rocky"
+                  },
+                  {
+                     "name" : "Juan Chiordan",
+                     "role" : "Ringmaster Raimundo"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "7.5 / 9"
+            },
+            "subTitle" : {
+               "da" : "Pups and the Ghost Pirate"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 23 s\u00e6son 1",
+               "thetvdb.com" : "series/272472",
+               "xmltv_ns" : "0 . 22 ."
+            },
+            "title" : {
+               "da" : "Paw Patrol"
+            },
+            "desc" : {
+               "da" : "Rubble tager en lur under et tr\u00e6 og v\u00e5gner op til et stort problem: K\u00e6mpen Alex. // Kaptajn Pighvar vil tage et billede af en sj\u00e6lden fugl, men da hans f\u00e6tter fra Frankrig vil hj\u00e6lpe, m\u00e5 Paw Patrol komme dem til unds\u00e6tning."
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=313091&seasonid=670512&id=5823021&lid=7"
+            ],
+            "new" : null,
+            "start" : "1522985940",
+            "stop" : "1522987200",
+            "date" : "2016",
+            "subTitle" : {
+               "da" : "Rusty's Ski Trip Blip"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Kyle Harrison Breitkopf",
+                     "role" : "Rusty"
+                  },
+                  {
+                     "name" : "Rob Tinkler",
+                     "role" : "Ray / Botasaur / Bytes"
+                  },
+                  {
+                     "role" : "Whirly / Crush",
+                     "name" : "Julie Lemieux"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Rusty Rivets"
+            },
+            "desc" : {
+               "da" : "Bertram vil bes\u00f8ge en forlystelsespark, men de n\u00e5r ikke frem i tide, s\u00e5 Rusty laver en forlystelsespark kun for Bertram. // Rusty bygger en stor st\u00f8vsuger for at rydde op i Bertrams rod, men opfindelsen begynder at suge alt for meget i sig."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 13 s\u00e6son 1",
+               "xmltv_ns" : "0 . 12 .",
+               "thetvdb.com" : "series/313091"
+            }
+         },
+         {
+            "start" : "1522987200",
+            "stop" : "1522987500",
+            "channel" : "nickjr.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=71741&seasonid=378751&id=4555877&lid=7"
+            ],
+            "date" : "2002",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Billy Rosenberg"
+                  },
+                  {
+                     "name" : "Julie Lemieux"
+                  },
+                  {
+                     "name" : "Katie Griffin"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Max's Nightlight"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 12 s\u00e6son 5",
+               "xmltv_ns" : "4 . 11 .",
+               "thetvdb.com" : "series/71741"
+            },
+            "desc" : {
+               "da" : "Ruby vil se \u00d8ster Kaninhop-Kalle komme ud af sit hul. Max kender lidt til murmeldyr. // Ruby h\u00e5ber, hun kan f\u00e5 r\u00f8dk\u00e6lkene tilbage til deres have. // Ruby vil overraske bedstemor ved at plante storken\u00e6b i potter. Max vil bygge et stort slot."
+            },
+            "title" : {
+               "da" : "Max & Ruby"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Fr\u00f8ken Stjerne har taget klassen med ud p\u00e5 en natursti igennem Det Lille Kongerige. Det bliver Ben og Hollys opgave, at forhindre at alferne og feerne bliver opdaget, af de store b\u00f8rn og deres l\u00e6rerinde."
+            },
+            "title" : {
+               "da" : "Det Lille Kongerige"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 16 s\u00e6son 2",
+               "xmltv_ns" : "1 . 15 ."
+            },
+            "subTitle" : {
+               "da" : "Miss Cookie's Nature Trail"
+            },
+            "date" : "2009",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "new" : null,
+            "stop" : "1522988100",
+            "start" : "1522987620"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "new" : null,
+            "start" : "1522988280",
+            "stop" : "1522988700",
+            "date" : "2016",
+            "subTitle" : {
+               "da" : "The Day Henry Met... a Canvas"
+            },
+            "title" : {
+               "da" : "Den dag Henry traf"
+            },
+            "desc" : {
+               "da" : "i dag m\u00f8der Henry et tomt l\u00e6rred. L\u00e6rredet skal udstilles, men er helt uden farver. Henry bliver kunstmaler, men kommer til at spilde malingen ud over l\u00e6rredet. Kunst kritikerne udr\u00e5ber billedet til mesterv\u00e6rk."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 22 s\u00e6son 2",
+               "xmltv_ns" : "1 . 21 ."
+            }
+         },
+         {
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=74697&seasonid=138691&id=4211796&lid=7"
+            ],
+            "channel" : "nickjr.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "stop" : "1522990200",
+            "start" : "1522988700",
+            "date" : "2000",
+            "rating" : {
+               "stars" : "6.2 / 9"
+            },
+            "subTitle" : {
+               "da" : "Dora's Enchanted Forest Adventures: Secret of Atlantis (2)"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Marc Weiner"
+                  },
+                  {
+                     "name" : "Muhammed Cunningham"
+                  },
+                  {
+                     "name" : "Jose Zelaya"
+                  },
+                  {
+                     "name" : "Harrison Chad"
+                  },
+                  {
+                     "name" : "Kathleen Herles"
+                  },
+                  {
+                     "name" : "Chris Guifford"
+                  },
+                  {
+                     "name" : "Sasha Tora"
+                  },
+                  {
+                     "name" : "Sasha Toro"
+                  },
+                  {
+                     "name" : "Ashley Flemming"
+                  },
+                  {
+                     "name" : "Jake Burbage"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Dora Udforskeren"
+            },
+            "desc" : {
+               "da" : "Alle skovens dyr har valgt Unicorn som kongen af eventyrskoven, fordi han er venlig, klog og st\u00e6rk! Der er bare et problem: Unicorn er usikker og tror ikke p\u00e5 at han kan g\u00f8re sig fortjent til at v\u00e6re konge."
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/74697",
+               "xmltv_ns" : "5 . 12 .",
+               "onscreen" : "Afsnit 13 s\u00e6son 6"
+            }
+         },
+         {
+            "stop" : "1522991700",
+            "start" : "1522990260",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=287036&seasonid=600166&id=5018609&lid=7"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "date" : "2014",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Dusan Brown",
+                     "role" : "AJ"
+                  },
+                  {
+                     "name" : "",
+                     "role" : "Blaze"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Dustin Ferrer"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Daniel Ife"
+                  },
+                  {
+                     "name" : "Michael Martines"
+                  },
+                  {
+                     "name" : "Miguel Martinez-Joffre"
+                  },
+                  {
+                     "name" : "Dustin Mckenzie"
+                  },
+                  {
+                     "name" : "Andy Poon"
+                  },
+                  {
+                     "name" : "Blair Simmons"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Epic Sail"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/287036",
+               "xmltv_ns" : "0 . 5 .",
+               "onscreen" : "Afsnit 6 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Alle Monstermaskinerne er taget p\u00e5 stadion for at se Darington k\u00f8re p\u00e5 den vilde stuntbane. Men da den misundelige Crusher sender Darington langt, langt v\u00e6k, er det op til Blaze og AJ at f\u00e5 ham tilbage i tide til showet."
+            },
+            "title" : {
+               "da" : "Blaze og monstermaskinerne"
+            }
+         },
+         {
+            "start" : "1522991700",
+            "stop" : "1522993200",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=272472&seasonid=643560&id=5489835&lid=7"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "date" : "2013",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Berkley Silverman",
+                     "role" : "Everest"
+                  },
+                  {
+                     "role" : "Skye",
+                     "name" : "Kallan Holley"
+                  },
+                  {
+                     "role" : "Cali the Cat",
+                     "name" : "Julie Lemieux"
+                  },
+                  {
+                     "role" : "Ryder (Season 2)",
+                     "name" : "Elijha Hammill"
+                  },
+                  {
+                     "name" : "Hiromi Okuyama",
+                     "role" : "Farmer Yumi (Season 1)"
+                  },
+                  {
+                     "name" : "Tristan Samuel",
+                     "role" : "Chase (Season 1)"
+                  },
+                  {
+                     "name" : "Peter Cugno",
+                     "role" : "Fran\u00e7ois Turbot"
+                  },
+                  {
+                     "role" : "Farmer Yumi (Season 2)",
+                     "name" : "Stephany Seki"
+                  },
+                  {
+                     "role" : "Ryder (Seasons 1 & 2)",
+                     "name" : "Owen Mason"
+                  },
+                  {
+                     "role" : "Chase (Season 2)",
+                     "name" : "Max Calinescu"
+                  },
+                  {
+                     "name" : "Lucius Hoyos",
+                     "role" : "Carlos"
+                  },
+                  {
+                     "role" : "Marshall (Season 1)",
+                     "name" : "Gage Munroe"
+                  },
+                  {
+                     "role" : "Katie",
+                     "name" : "Katherine Forrester"
+                  },
+                  {
+                     "role" : "Zuma",
+                     "name" : "Alex Thorne"
+                  },
+                  {
+                     "name" : "Deann Degruijter",
+                     "role" : "Mayor Goodway"
+                  },
+                  {
+                     "name" : "Ron Pardo",
+                     "role" : "Cap'n Turbot/Mayor Humdinger/Farmer Al"
+                  },
+                  {
+                     "role" : "Mr. Porter",
+                     "name" : "Blair Williams"
+                  },
+                  {
+                     "role" : "Rubble",
+                     "name" : "Devan Cohen"
+                  },
+                  {
+                     "name" : "Christian DiStefano",
+                     "role" : "Alex Porter"
+                  },
+                  {
+                     "name" : "Scott McCord",
+                     "role" : "Jake"
+                  },
+                  {
+                     "name" : "Drew Davis",
+                     "role" : "Marshall (Season 2)"
+                  },
+                  {
+                     "name" : "Stuart Ralston",
+                     "role" : "Rocky"
+                  },
+                  {
+                     "name" : "Juan Chiordan",
+                     "role" : "Ringmaster Raimundo"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "7.5 / 9"
+            },
+            "subTitle" : {
+               "da" : "Pups Save Alex's Mini-Patrol"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7 s\u00e6son 3",
+               "xmltv_ns" : "2 . 6 .",
+               "thetvdb.com" : "series/272472"
+            },
+            "desc" : {
+               "da" : "Da Raimundos nyeste dyrenummer v\u00e6lter trapezen i cirkus, m\u00e5 Ryder og Paw Patrol hj\u00e6lpe med at bygge den op igen. // Vovserne afholder \"Superhunden Apollo\"-marathon, men f\u00f8r de ved af det, f\u00e5r Apollo brug for deres hj\u00e6lp."
+            },
+            "title" : {
+               "da" : "Paw Patrol"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Ridderprinsessen Nella"
+            },
+            "desc" : {
+               "da" : "Nellas budbringerfalk kommer til at levere nogle forvirrende invitationer til Clods f\u00f8dselsdagsfest. // Nella hj\u00e6lper en gnomling med at konkurrere i Slottehviles bowlingturnering."
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/322934",
+               "xmltv_ns" : "0 . 5 .",
+               "onscreen" : "Afsnit 6 s\u00e6son 1"
+            },
+            "subTitle" : {
+               "da" : "The Blaine Game"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Micah Gursoy",
+                     "role" : "Sir Garrett"
+                  },
+                  {
+                     "name" : "Jessica Paquet",
+                     "role" : "Queen Mom"
+                  },
+                  {
+                     "name" : "Alyson Leigh Rosenfeld",
+                     "role" : "Olivia"
+                  },
+                  {
+                     "role" : "Trinket",
+                     "name" : "Samantha Hahn"
+                  },
+                  {
+                     "name" : "Tia Mowry-Hardict",
+                     "role" : "Princess Nella"
+                  },
+                  {
+                     "name" : "Ty Jones",
+                     "role" : "King Dad"
+                  },
+                  {
+                     "role" : "Sir Blaine",
+                     "name" : "Kobi Frumer"
+                  },
+                  {
+                     "role" : "Sir Clod",
+                     "name" : "Matthew Gumley"
+                  },
+                  {
+                     "role" : "Princess Norma",
+                     "name" : "Courtney Shaw"
+                  }
+               ]
+            },
+            "date" : "2017",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=322934&seasonid=700065&id=5967704&lid=7"
+            ],
+            "start" : "1522993260",
+            "stop" : "1522994700"
+         },
+         {
+            "date" : "2015",
+            "channel" : "nickjr.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522996200",
+            "start" : "1522994760",
+            "title" : {
+               "da" : "Shimmer og Shine"
+            },
+            "desc" : {
+               "da" : "Leahs spand med skatte flyder til havs, og Leah beder Shimmer og Shine hj\u00e6lpe med at f\u00e5 byttet tilbage. Med \u00e5ndernes hj\u00e6lp forvandles en almindelig dag p\u00e5 stranden til en magisk skattejagt med skattekort, piratskib og en talende papeg\u00f8je!"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7 s\u00e6son 1",
+               "xmltv_ns" : "0 . 6 ."
+            },
+            "subTitle" : {
+               "da" : "Ahoy, Genies!"
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 3",
+               "thetvdb.com" : "series/272472",
+               "xmltv_ns" : "2 . 1 ."
+            },
+            "desc" : {
+               "da" : "Da en gammel guldgraver finder guld i Adventure Bay, bliver der guldfeber. // Da borgmester Humdinger og hans \"kat-astrofer\" vil stj\u00e6le en Paw Patroler, m\u00e5 Chase p\u00e5 sagen!"
+            },
+            "title" : {
+               "da" : "Paw Patrol"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Berkley Silverman",
+                     "role" : "Everest"
+                  },
+                  {
+                     "role" : "Skye",
+                     "name" : "Kallan Holley"
+                  },
+                  {
+                     "role" : "Cali the Cat",
+                     "name" : "Julie Lemieux"
+                  },
+                  {
+                     "name" : "Elijha Hammill",
+                     "role" : "Ryder (Season 2)"
+                  },
+                  {
+                     "role" : "Farmer Yumi (Season 1)",
+                     "name" : "Hiromi Okuyama"
+                  },
+                  {
+                     "role" : "Chase (Season 1)",
+                     "name" : "Tristan Samuel"
+                  },
+                  {
+                     "role" : "Fran\u00e7ois Turbot",
+                     "name" : "Peter Cugno"
+                  },
+                  {
+                     "name" : "Stephany Seki",
+                     "role" : "Farmer Yumi (Season 2)"
+                  },
+                  {
+                     "role" : "Ryder (Seasons 1 & 2)",
+                     "name" : "Owen Mason"
+                  },
+                  {
+                     "name" : "Max Calinescu",
+                     "role" : "Chase (Season 2)"
+                  },
+                  {
+                     "name" : "Lucius Hoyos",
+                     "role" : "Carlos"
+                  },
+                  {
+                     "name" : "Gage Munroe",
+                     "role" : "Marshall (Season 1)"
+                  },
+                  {
+                     "role" : "Katie",
+                     "name" : "Katherine Forrester"
+                  },
+                  {
+                     "role" : "Zuma",
+                     "name" : "Alex Thorne"
+                  },
+                  {
+                     "name" : "Deann Degruijter",
+                     "role" : "Mayor Goodway"
+                  },
+                  {
+                     "name" : "Ron Pardo",
+                     "role" : "Cap'n Turbot/Mayor Humdinger/Farmer Al"
+                  },
+                  {
+                     "name" : "Blair Williams",
+                     "role" : "Mr. Porter"
+                  },
+                  {
+                     "role" : "Rubble",
+                     "name" : "Devan Cohen"
+                  },
+                  {
+                     "role" : "Alex Porter",
+                     "name" : "Christian DiStefano"
+                  },
+                  {
+                     "name" : "Scott McCord",
+                     "role" : "Jake"
+                  },
+                  {
+                     "role" : "Marshall (Season 2)",
+                     "name" : "Drew Davis"
+                  },
+                  {
+                     "name" : "Stuart Ralston",
+                     "role" : "Rocky"
+                  },
+                  {
+                     "role" : "Ringmaster Raimundo",
+                     "name" : "Juan Chiordan"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Pups Save a Tightrope Walker"
+            },
+            "rating" : {
+               "stars" : "7.5 / 9"
+            },
+            "date" : "2013",
+            "stop" : "1522996800",
+            "start" : "1522996260",
+            "channel" : "nickjr.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=272472&seasonid=643560&id=5390750&lid=7"
+            ]
+         },
+         {
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Kyle Harrison Breitkopf",
+                     "role" : "Rusty"
+                  },
+                  {
+                     "role" : "Ray / Botasaur / Bytes",
+                     "name" : "Rob Tinkler"
+                  },
+                  {
+                     "role" : "Whirly / Crush",
+                     "name" : "Julie Lemieux"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Rusty's Penguin Problem"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/313091",
+               "xmltv_ns" : "0 . 18 .",
+               "onscreen" : "Afsnit 19 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Tegneserie-action-figurerne som Rusty har lavet til Bertram, bliver levende og opf\u00f8rer sig som deres erobrende karakterer. Dennis og Rusty m\u00e5 n\u00e5 tilbage til byen inden den l\u00e6kre blomst de har plukket til Dennis' sorbet, bliver ul\u00e6kker."
+            },
+            "title" : {
+               "da" : "Rusty Rivets"
+            },
+            "stop" : "1522997400",
+            "start" : "1522996980",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=313091&seasonid=670512&id=5921660&lid=7"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "date" : "2016"
+         },
+         {
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "stop" : "1522999200",
+            "start" : "1522997640",
+            "date" : "2014",
+            "subTitle" : {
+               "da" : "Dragon Hiccups"
+            },
+            "desc" : {
+               "da" : "Wallykazam er en tegnefilmsserie for b\u00f8rn i f\u00f8rskolealderen om de eventyr drengen Wally Troldfyr og hans k\u00e6ldedrage Norville oplever. Wally har en tryllepind der tryller ord frem. Hver historie har en ny r\u00e6kke trylleord, og Wally bruger ordene til at lege og forvandle verden omkring sig. Hvis dagens tryllebogstav for eksempel er K, kan Wally fremtrylle et kongeslot og skyde sig selv ind i det ved hj\u00e6lp af en katapult. Hvis ordene rimer p\u00e5 'Bl\u00e5', kan Wally og Norville have et helt eventyr efter at have tryllet sig selv sm\u00e5. Wally og Norville er altid med p\u00e5 alt hvad trylleordene f\u00f8rer til, men de skal passe p\u00e5 Kalle Kobold, der har det med at lave ballade."
+            },
+            "title" : {
+               "da" : "Wallykazam"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 s\u00e6son 1",
+               "xmltv_ns" : "0 . 4 ."
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "thetvdb.com" : "series/333809",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Doodle tror fejlagtigt, at Sunny har glemt ham p\u00e5 venskabsdagen og g\u00e5r ud for at finde sig en ny ven. Da Doodle bliver taget af hundefangeren Scratch, vil Sunny g\u00f8r alt for at f\u00e5 sin ven tilbage."
+            },
+            "title" : {
+               "da" : "Sunny Day"
+            },
+            "subTitle" : {
+               "da" : "Stick with Me"
+            },
+            "date" : "2017",
+            "start" : "1522999200",
+            "stop" : "1523000400",
+            "channel" : "nickjr.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=333809&seasonid=726333&id=6275394&lid=7"
+            ],
+            "new" : null
+         },
+         {
+            "subTitle" : {
+               "da" : "Big Birthday Surprise"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Micah Gursoy",
+                     "role" : "Sir Garrett"
+                  },
+                  {
+                     "name" : "Jessica Paquet",
+                     "role" : "Queen Mom"
+                  },
+                  {
+                     "name" : "Alyson Leigh Rosenfeld",
+                     "role" : "Olivia"
+                  },
+                  {
+                     "role" : "Trinket",
+                     "name" : "Samantha Hahn"
+                  },
+                  {
+                     "name" : "Tia Mowry-Hardict",
+                     "role" : "Princess Nella"
+                  },
+                  {
+                     "role" : "King Dad",
+                     "name" : "Ty Jones"
+                  },
+                  {
+                     "role" : "Sir Blaine",
+                     "name" : "Kobi Frumer"
+                  },
+                  {
+                     "name" : "Matthew Gumley",
+                     "role" : "Sir Clod"
+                  },
+                  {
+                     "name" : "Courtney Shaw",
+                     "role" : "Princess Norma"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Ridderprinsessen Nella"
+            },
+            "desc" : {
+               "da" : "Det er dagen for den store parade, og Trinket n\u00e6gter at indr\u00f8mme hun er fork\u00f8let. // Clod melder sig til en talentkonkurrence, men bliver pinligt ber\u00f8rt da han opdager han ikke har samme talent som de andre heste."
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/322934",
+               "xmltv_ns" : "0 . 7 .",
+               "onscreen" : "Afsnit 8 s\u00e6son 1"
+            },
+            "channel" : "nickjr.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=322934&seasonid=700065&id=5967707&lid=7"
+            ],
+            "new" : null,
+            "start" : "1523000580",
+            "stop" : "1523001900",
+            "date" : "2017"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "new" : null,
+            "stop" : "1523003400",
+            "start" : "1523001900",
+            "date" : "2015",
+            "subTitle" : {
+               "da" : "The Great Skate Mistake"
+            },
+            "title" : {
+               "da" : "Shimmer og Shine"
+            },
+            "desc" : {
+               "da" : "Leah og Zak er i skaterparken hvor de \u00f8ver sig til skateboardkonkurrencen. Men lige inden konkurrencen begynder, g\u00e5r Leahs skateboard i stykker. Som erstatning kommer Shimmer og Shine til at give hende et surfboard."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 16 .",
+               "onscreen" : "Afsnit 17 s\u00e6son 1"
+            }
+         },
+         {
+            "date" : "2015",
+            "channel" : "nickjr.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "start" : "1523003400",
+            "stop" : "1523004900",
+            "title" : {
+               "da" : "Shimmer og Shine"
+            },
+            "desc" : {
+               "da" : "Da Leah \u00f8nsker flere dukkevenner at lege med i sit nye dukkehus, skrumper Shimmer og Shine sig selv til dukkest\u00f8rrelse! Efter endnu et \u00f8nske der ender med at Leah selv bliver skrumpet, bliver det hele endnu mere indviklet."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 18 s\u00e6son 1",
+               "xmltv_ns" : "0 . 17 ."
+            },
+            "subTitle" : {
+               "da" : "Dream Dollhouse"
+            }
+         },
+         {
+            "start" : "1523004900",
+            "stop" : "1523005500",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "new" : null,
+            "date" : "2017",
+            "subTitle" : {
+               "da" : "The Abominable Pipe Thingy"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 11 .",
+               "onscreen" : "Afsnit 12 s\u00e6son 1"
+            },
+            "title" : {
+               "da" : "Kiva kan alt"
+            },
+            "desc" : {
+               "da" : "Det er vinter, og Nannis radiator er i stykker, og r\u00f8rene laver s\u00e6re lyde. Kiva og Paul unders\u00f8ger sagen i en sporingsb\u00e5d der suser gennem vandr\u00f8rene. De finder kilden til lyden, men det er ikke hvad de havde regnet med!"
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 5 .",
+               "onscreen" : "Afsnit 6 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Kringle er lykkelig for en cykel fra mor og far. Hun ved endnu ikke hvordan man cykler, og hendes br\u00f8dre og venner giver hende masser af hj\u00e6lpsomme r\u00e5d."
+            },
+            "title" : {
+               "da" : "Kid-e-Cats"
+            },
+            "subTitle" : {
+               "da" : "Bicycle"
+            },
+            "date" : "2017",
+            "start" : "1523005560",
+            "stop" : "1523005800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "new" : null
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7 s\u00e6son 1",
+               "xmltv_ns" : "0 . 6 ."
+            },
+            "title" : {
+               "da" : "Kid-e-Cats"
+            },
+            "desc" : {
+               "da" : "Killingerne bes\u00f8ger deres bedstemor p\u00e5 landet og h\u00e5ber p\u00e5 at f\u00e5 en sjov dag. Men bedstemor er s\u00e5 bekymret for hendes b\u00f8rneb\u00f8rns sikkerhed, at hun siger 'nej' til alt hvad de vil lave. P\u00e5 en skattejagt, finder hun dog sin indre killing igen."
+            },
+            "subTitle" : {
+               "da" : "Treasure"
+            },
+            "date" : "2017",
+            "stop" : "1523006100",
+            "start" : "1523005860",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "nickjr.dk"
+         },
+         {
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Dusan Brown",
+                     "role" : "AJ"
+                  },
+                  {
+                     "role" : "Blaze",
+                     "name" : ""
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Pickle Power"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 19 .",
+               "thetvdb.com" : "series/287036",
+               "onscreen" : "Afsnit 20 s\u00e6son 2"
+            },
+            "title" : {
+               "da" : "Blaze og monstermaskinerne"
+            },
+            "desc" : {
+               "da" : "Blaze og vennerne opdager en hemmelig racerbane i junglen. For enden af sporet venter en magisk skat, nemlig \u00d8nskehjulet. Blaze begiver sig ud p\u00e5 eventyr for at finde det magiske hjul, der kan opfylde alle hans venners \u00f8nsker."
+            },
+            "stop" : "1523007600",
+            "start" : "1523006280",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=287036&seasonid=639442&id=6037832&lid=7"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "date" : "2014"
+         },
+         {
+            "date" : "2014",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=287036&seasonid=685176&id=5798386&lid=7"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "stop" : "1523009100",
+            "start" : "1523007780",
+            "desc" : {
+               "da" : "Blaze bes\u00f8ger Hastighedstrup for at konkurrere med sine nye racerbilvenner i det l\u00e6ngste l\u00f8b nogensinde: Hundredekilometerl\u00f8bet. Men Crusher deltager ogs\u00e5 og vil g\u00f8re alt for at vinde."
+            },
+            "title" : {
+               "da" : "Blaze og monstermaskinerne"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/287036",
+               "xmltv_ns" : "2 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 3"
+            },
+            "subTitle" : {
+               "da" : "Dinocoaster"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "AJ",
+                     "name" : "Dusan Brown"
+                  },
+                  {
+                     "name" : "",
+                     "role" : "Blaze"
+                  }
+               ]
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7 s\u00e6son 1",
+               "xmltv_ns" : "0 . 6 .",
+               "thetvdb.com" : "series/313091"
+            },
+            "desc" : {
+               "da" : "Byens n\u00f8gle forsvinder, og alle tror Robotosaurus har begravet den. Men de f\u00e5r snart gravet sandheden frem. // Dennis fanges i en hule p\u00e5 en opdagelsestur, og Rusty redder dagen med en stor id\u00e9 inspireret af et lille dyr."
+            },
+            "title" : {
+               "da" : "Rusty Rivets"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Rusty",
+                     "name" : "Kyle Harrison Breitkopf"
+                  },
+                  {
+                     "name" : "Rob Tinkler",
+                     "role" : "Ray / Botasaur / Bytes"
+                  },
+                  {
+                     "role" : "Whirly / Crush",
+                     "name" : "Julie Lemieux"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Rusty Marks the Spot"
+            },
+            "date" : "2016",
+            "stop" : "1523010600",
+            "start" : "1523009220",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=313091&seasonid=670512&id=5823011&lid=7"
+            ],
+            "channel" : "nickjr.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            }
+         },
+         {
+            "date" : "2011",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=226391&seasonid=528732&id=5057786&lid=7"
+            ],
+            "start" : "1523010600",
+            "stop" : "1523012100",
+            "desc" : {
+               "da" : "Kv\u00e6k! Gil og Goby tager en haletudse, der hedder Fernando med i skole, s\u00e5 de kan f\u00f8lge ham, mens han bliver til en fr\u00f8. N\u00e5r Fernando er klar til at hoppe, m\u00e5 Gil og Goby lede han tilbage til sin dam i Oksefr\u00f8ernes store L\u00f8b."
+            },
+            "title" : {
+               "da" : "Bubble Guppies"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 18 s\u00e6son 3",
+               "xmltv_ns" : "2 . 17 .",
+               "thetvdb.com" : "series/226391"
+            },
+            "subTitle" : {
+               "da" : "Gobble Gobble Guppies"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Lenny",
+                     "name" : "Paolo Domingo"
+                  },
+                  {
+                     "role" : "Molly (Singing Voice)",
+                     "name" : "Brianna Gentilella"
+                  },
+                  {
+                     "name" : "Daniel Beretta",
+                     "role" : "Mr. Grouper"
+                  },
+                  {
+                     "name" : "Selena Gonzalez",
+                     "role" : "Demma"
+                  },
+                  {
+                     "role" : "Nonni",
+                     "name" : "Eamon Pirruccello"
+                  },
+                  {
+                     "role" : "Bubble Puppy",
+                     "name" : "Frank Welker"
+                  },
+                  {
+                     "name" : "Sylvie Feit Marie",
+                     "role" : "Oona"
+                  },
+                  {
+                     "role" : "Little Fish",
+                     "name" : "Skai Jackson"
+                  },
+                  {
+                     "role" : "Gil \"Gilly\"",
+                     "name" : "Zachary Gordon"
+                  }
+               ]
+            }
+         },
+         {
+            "stop" : "1523013600",
+            "start" : "1523012100",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=226391&seasonid=528732&id=5070577&lid=7"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "date" : "2011",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Lenny",
+                     "name" : "Paolo Domingo"
+                  },
+                  {
+                     "name" : "Brianna Gentilella",
+                     "role" : "Molly (Singing Voice)"
+                  },
+                  {
+                     "role" : "Mr. Grouper",
+                     "name" : "Daniel Beretta"
+                  },
+                  {
+                     "role" : "Demma",
+                     "name" : "Selena Gonzalez"
+                  },
+                  {
+                     "name" : "Eamon Pirruccello",
+                     "role" : "Nonni"
+                  },
+                  {
+                     "role" : "Bubble Puppy",
+                     "name" : "Frank Welker"
+                  },
+                  {
+                     "name" : "Sylvie Feit Marie",
+                     "role" : "Oona"
+                  },
+                  {
+                     "role" : "Little Fish",
+                     "name" : "Skai Jackson"
+                  },
+                  {
+                     "role" : "Gil \"Gilly\"",
+                     "name" : "Zachary Gordon"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "A Very Guppy Christmas!"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/226391",
+               "xmltv_ns" : "2 . 18 .",
+               "onscreen" : "Afsnit 19 s\u00e6son 3"
+            },
+            "desc" : {
+               "da" : "Det lader til, at alle i Bubbletucky er ved at blive fork\u00f8lede, selv hr. Grouper! Men bare rolig. I deres helt egen \"s\u00e6beopera\" bruger Guppyerne deres gode hygiejne til at vise hr. Grouper, hvordan han bliver rask igen,"
+            },
+            "title" : {
+               "da" : "Bubble Guppies"
+            }
+         },
+         {
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Milli",
+                     "name" : "Madeleine Rose Yen"
+                  },
+                  {
+                     "name" : "Scott Hollingsworth"
+                  },
+                  {
+                     "name" : "Chris Phillips"
+                  },
+                  {
+                     "name" : "Ethan Kempner",
+                     "role" : "Geo"
+                  },
+                  {
+                     "role" : "Umicar",
+                     "name" : "P.T. Walkley"
+                  },
+                  {
+                     "name" : "Mary Wood"
+                  },
+                  {
+                     "role" : "Bot",
+                     "name" : "Donovan Patton"
+                  },
+                  {
+                     "name" : "Squiddy The Squid & Doormouse"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Clark Stubbs"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Soo Kim"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Umi Ninjas"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 11 .",
+               "thetvdb.com" : "series/145951",
+               "onscreen" : "Afsnit 12 s\u00e6son 4"
+            },
+            "title" : {
+               "da" : "Umizoomi"
+            },
+            "desc" : {
+               "da" : "Umibil er sammen med Haj bil klar til det store Umi Grand prix racerl\u00f8b. De f\u00e5r h\u00e5rd konkurrence fra Figur Banditten, Lastvogn, Strutte og ballademagerne. Der bliver kamp til m\u00e5lstregen. K\u00f8rere, start motorene !"
+            },
+            "start" : "1523013660",
+            "stop" : "1523015100",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=145951&seasonid=511878&id=4772459&lid=7"
+            ],
+            "new" : null,
+            "date" : "2010"
+         },
+         {
+            "subTitle" : {
+               "da" : "Pups Save the Carnival"
+            },
+            "rating" : {
+               "stars" : "7.5 / 9"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Berkley Silverman",
+                     "role" : "Everest"
+                  },
+                  {
+                     "role" : "Skye",
+                     "name" : "Kallan Holley"
+                  },
+                  {
+                     "name" : "Julie Lemieux",
+                     "role" : "Cali the Cat"
+                  },
+                  {
+                     "name" : "Elijha Hammill",
+                     "role" : "Ryder (Season 2)"
+                  },
+                  {
+                     "role" : "Farmer Yumi (Season 1)",
+                     "name" : "Hiromi Okuyama"
+                  },
+                  {
+                     "role" : "Chase (Season 1)",
+                     "name" : "Tristan Samuel"
+                  },
+                  {
+                     "role" : "Fran\u00e7ois Turbot",
+                     "name" : "Peter Cugno"
+                  },
+                  {
+                     "role" : "Farmer Yumi (Season 2)",
+                     "name" : "Stephany Seki"
+                  },
+                  {
+                     "role" : "Ryder (Seasons 1 & 2)",
+                     "name" : "Owen Mason"
+                  },
+                  {
+                     "role" : "Chase (Season 2)",
+                     "name" : "Max Calinescu"
+                  },
+                  {
+                     "role" : "Carlos",
+                     "name" : "Lucius Hoyos"
+                  },
+                  {
+                     "name" : "Gage Munroe",
+                     "role" : "Marshall (Season 1)"
+                  },
+                  {
+                     "name" : "Katherine Forrester",
+                     "role" : "Katie"
+                  },
+                  {
+                     "name" : "Alex Thorne",
+                     "role" : "Zuma"
+                  },
+                  {
+                     "role" : "Mayor Goodway",
+                     "name" : "Deann Degruijter"
+                  },
+                  {
+                     "name" : "Ron Pardo",
+                     "role" : "Cap'n Turbot/Mayor Humdinger/Farmer Al"
+                  },
+                  {
+                     "name" : "Blair Williams",
+                     "role" : "Mr. Porter"
+                  },
+                  {
+                     "role" : "Rubble",
+                     "name" : "Devan Cohen"
+                  },
+                  {
+                     "role" : "Alex Porter",
+                     "name" : "Christian DiStefano"
+                  },
+                  {
+                     "role" : "Jake",
+                     "name" : "Scott McCord"
+                  },
+                  {
+                     "role" : "Marshall (Season 2)",
+                     "name" : "Drew Davis"
+                  },
+                  {
+                     "role" : "Rocky",
+                     "name" : "Stuart Ralston"
+                  },
+                  {
+                     "name" : "Juan Chiordan",
+                     "role" : "Ringmaster Raimundo"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Paw Patrol"
+            },
+            "desc" : {
+               "da" : "En babybl\u00e6ksprutte bliver v\u00e6k fra sin mor og s\u00e6nker R\u00f8dsp\u00e6tten. Hav Patrol m\u00e5 redde dagen."
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/272472",
+               "xmltv_ns" : "3 . 12 .",
+               "onscreen" : "Afsnit 13 s\u00e6son 4"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=272472&seasonid=699034&id=6046481&lid=7"
+            ],
+            "stop" : "1523016600",
+            "start" : "1523015160",
+            "date" : "2013"
+         },
+         {
+            "title" : {
+               "da" : "Paw Patrol"
+            },
+            "desc" : {
+               "da" : "PAW Patrol er en serie for de sm\u00e5, der handler om de seks heltemodige hundehvalpe: Chase, Marshall, Rocky, Zuma, Rubble, og Skye, som ledes af en teknologibegejstret ti-\u00e5rig dreng, der hedder Ryder."
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/272472",
+               "xmltv_ns" : "3 . 13 .",
+               "onscreen" : "Afsnit 14 s\u00e6son 4"
+            },
+            "subTitle" : {
+               "da" : "Pups Save the Flying Food"
+            },
+            "rating" : {
+               "stars" : "7.5 / 9"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Everest",
+                     "name" : "Berkley Silverman"
+                  },
+                  {
+                     "name" : "Kallan Holley",
+                     "role" : "Skye"
+                  },
+                  {
+                     "name" : "Julie Lemieux",
+                     "role" : "Cali the Cat"
+                  },
+                  {
+                     "role" : "Ryder (Season 2)",
+                     "name" : "Elijha Hammill"
+                  },
+                  {
+                     "name" : "Hiromi Okuyama",
+                     "role" : "Farmer Yumi (Season 1)"
+                  },
+                  {
+                     "name" : "Tristan Samuel",
+                     "role" : "Chase (Season 1)"
+                  },
+                  {
+                     "name" : "Peter Cugno",
+                     "role" : "Fran\u00e7ois Turbot"
+                  },
+                  {
+                     "name" : "Stephany Seki",
+                     "role" : "Farmer Yumi (Season 2)"
+                  },
+                  {
+                     "role" : "Ryder (Seasons 1 & 2)",
+                     "name" : "Owen Mason"
+                  },
+                  {
+                     "name" : "Max Calinescu",
+                     "role" : "Chase (Season 2)"
+                  },
+                  {
+                     "role" : "Carlos",
+                     "name" : "Lucius Hoyos"
+                  },
+                  {
+                     "role" : "Marshall (Season 1)",
+                     "name" : "Gage Munroe"
+                  },
+                  {
+                     "role" : "Katie",
+                     "name" : "Katherine Forrester"
+                  },
+                  {
+                     "name" : "Alex Thorne",
+                     "role" : "Zuma"
+                  },
+                  {
+                     "name" : "Deann Degruijter",
+                     "role" : "Mayor Goodway"
+                  },
+                  {
+                     "name" : "Ron Pardo",
+                     "role" : "Cap'n Turbot/Mayor Humdinger/Farmer Al"
+                  },
+                  {
+                     "name" : "Blair Williams",
+                     "role" : "Mr. Porter"
+                  },
+                  {
+                     "name" : "Devan Cohen",
+                     "role" : "Rubble"
+                  },
+                  {
+                     "role" : "Alex Porter",
+                     "name" : "Christian DiStefano"
+                  },
+                  {
+                     "role" : "Jake",
+                     "name" : "Scott McCord"
+                  },
+                  {
+                     "name" : "Drew Davis",
+                     "role" : "Marshall (Season 2)"
+                  },
+                  {
+                     "role" : "Rocky",
+                     "name" : "Stuart Ralston"
+                  },
+                  {
+                     "role" : "Ringmaster Raimundo",
+                     "name" : "Juan Chiordan"
+                  }
+               ]
+            },
+            "date" : "2013",
+            "channel" : "nickjr.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=272472&seasonid=699034&id=6088685&lid=7"
+            ],
+            "stop" : "1523018100",
+            "start" : "1523016720"
+         },
+         {
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=74697&seasonid=487954&id=4393245&lid=7"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "start" : "1523018220",
+            "stop" : "1523019600",
+            "date" : "2000",
+            "rating" : {
+               "stars" : "6.2 / 9"
+            },
+            "subTitle" : {
+               "da" : "Dora's Moonlight Adventure"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Marc Weiner"
+                  },
+                  {
+                     "name" : "Muhammed Cunningham"
+                  },
+                  {
+                     "name" : "Jose Zelaya"
+                  },
+                  {
+                     "name" : "Harrison Chad"
+                  },
+                  {
+                     "name" : "Kathleen Herles"
+                  },
+                  {
+                     "name" : "Chris Guifford"
+                  },
+                  {
+                     "name" : "Sasha Tora"
+                  },
+                  {
+                     "name" : "Sasha Toro"
+                  },
+                  {
+                     "name" : "Ashley Flemming"
+                  },
+                  {
+                     "name" : "Jake Burbage"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Dora Udforskeren"
+            },
+            "desc" : {
+               "da" : "Dora f\u00f8lger en garnn\u00f8gle ind i en magiske natverden mens hun leder efter Grandmas kattekilling Lucky, som er kommet p\u00e5 afveje."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "6 . 5 .",
+               "thetvdb.com" : "series/74697",
+               "onscreen" : "Afsnit 6 s\u00e6son 7"
+            }
+         },
+         {
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Billy Rosenberg"
+                  },
+                  {
+                     "name" : "Julie Lemieux"
+                  },
+                  {
+                     "name" : "Katie Griffin"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Ruby Gets the Picture"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/71741",
+               "xmltv_ns" : "4 . 6 .",
+               "onscreen" : "Afsnit 7 s\u00e6son 5"
+            },
+            "desc" : {
+               "da" : "Ruby tror ikke, at Max's hummer tog hendes kage; hun fort\u00e6ller historien om kaninen og hummeren. // Max dukker u\u00f8nsket op til Rubys pyjamasfest; hun fort\u00e6ller historien om \"Max og de tre bj\u00f8rne\". // Max vil ikke hj\u00e6lpe; Ruby fort\u00e6ller \"Lille Ruby H\u00f8ne\"."
+            },
+            "title" : {
+               "da" : "Max & Ruby"
+            },
+            "stop" : "1523021100",
+            "start" : "1523019720",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=71741&seasonid=378751&id=4555871&lid=7"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "date" : "2002"
+         },
+         {
+            "title" : {
+               "da" : "Den dag Henry traf"
+            },
+            "desc" : {
+               "da" : "I dag m\u00f8der Henry et kamera. Kameraet er nedtrykt, fordi han synes at hans billeder er kedelige, og han vil gerne tage billeder ingen f\u00f8r har taget. S\u00e5 finder Henry og kameraet Loch Ness uhyret, som elsker at blive fotograferet."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 15 .",
+               "onscreen" : "Afsnit 16 s\u00e6son 2"
+            },
+            "subTitle" : {
+               "da" : "The Day Henry Met... a Camera"
+            },
+            "date" : "2016",
+            "channel" : "nickjr.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "stop" : "1523021400",
+            "start" : "1523021220"
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 24 .",
+               "onscreen" : "Afsnit 25 s\u00e6son 1"
+            },
+            "title" : {
+               "da" : "Kid-e-Cats"
+            },
+            "desc" : {
+               "da" : "Morgenhavregr\u00f8den, som altid smager ens, inspirerer killingerne til at kokkerere og lave en salat til mor og far. Problemet er, at de fylder alt lige fra bananer til fisk i sk\u00e5len. Mor l\u00e6rer dem at blande l\u00e6kre sager, s\u00e5 det smager godt."
+            },
+            "subTitle" : {
+               "da" : "Cooking show"
+            },
+            "date" : "2017",
+            "start" : "1523021520",
+            "stop" : "1523021700",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "new" : null
+         },
+         {
+            "stop" : "1523023200",
+            "start" : "1523021760",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "new" : null,
+            "date" : "2014",
+            "subTitle" : {
+               "da" : "Naptime For Borgelorp"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Wallykazam er en tegnefilmsserie for b\u00f8rn i f\u00f8rskolealderen om de eventyr drengen Wally Troldfyr og hans k\u00e6ldedrage Norville oplever. Wally har en tryllepind der tryller ord frem. Hver historie har en ny r\u00e6kke trylleord, og Wally bruger ordene til at lege og forvandle verden omkring sig. Hvis dagens tryllebogstav for eksempel er K, kan Wally fremtrylle et kongeslot og skyde sig selv ind i det ved hj\u00e6lp af en katapult. Hvis ordene rimer p\u00e5 'Bl\u00e5', kan Wally og Norville have et helt eventyr efter at have tryllet sig selv sm\u00e5. Wally og Norville er altid med p\u00e5 alt hvad trylleordene f\u00f8rer til, men de skal passe p\u00e5 Kalle Kobold, der har det med at lave ballade."
+            },
+            "title" : {
+               "da" : "Wallykazam"
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 10 s\u00e6son 1",
+               "xmltv_ns" : "0 . 9 ."
+            },
+            "title" : {
+               "da" : "Shimmer og Shine"
+            },
+            "desc" : {
+               "da" : "Leah bem\u00e6rker at tryllekunstneren Zacs tryllekunster ikke rigtig lykkes, s\u00e5 hun tilkalder sine \u00e5nder for at f\u00e5 noget \u00e6gte magisk assistance."
+            },
+            "subTitle" : {
+               "da" : "Abraca-Genie"
+            },
+            "date" : "2015",
+            "stop" : "1523024400",
+            "start" : "1523023320",
+            "channel" : "nickjr.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 6 s\u00e6son 1",
+               "xmltv_ns" : "0 . 5 .",
+               "thetvdb.com" : "series/322934"
+            },
+            "title" : {
+               "da" : "Ridderprinsessen Nella"
+            },
+            "desc" : {
+               "da" : "Nellas budbringerfalk kommer til at levere nogle forvirrende invitationer til Clods f\u00f8dselsdagsfest. // Nella hj\u00e6lper en gnomling med at konkurrere i Slottehviles bowlingturnering."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Sir Garrett",
+                     "name" : "Micah Gursoy"
+                  },
+                  {
+                     "role" : "Queen Mom",
+                     "name" : "Jessica Paquet"
+                  },
+                  {
+                     "role" : "Olivia",
+                     "name" : "Alyson Leigh Rosenfeld"
+                  },
+                  {
+                     "role" : "Trinket",
+                     "name" : "Samantha Hahn"
+                  },
+                  {
+                     "name" : "Tia Mowry-Hardict",
+                     "role" : "Princess Nella"
+                  },
+                  {
+                     "role" : "King Dad",
+                     "name" : "Ty Jones"
+                  },
+                  {
+                     "name" : "Kobi Frumer",
+                     "role" : "Sir Blaine"
+                  },
+                  {
+                     "role" : "Sir Clod",
+                     "name" : "Matthew Gumley"
+                  },
+                  {
+                     "name" : "Courtney Shaw",
+                     "role" : "Princess Norma"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "The Blaine Game"
+            },
+            "date" : "2017",
+            "stop" : "1523025900",
+            "start" : "1523024640",
+            "channel" : "nickjr.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=322934&seasonid=700065&id=5967704&lid=7"
+            ]
+         },
+         {
+            "subTitle" : {
+               "da" : "Root of the Problem"
+            },
+            "title" : {
+               "da" : "Kiva kan alt"
+            },
+            "desc" : {
+               "da" : "Nanni har meldt sig til en k\u00e6mpegr\u00f8ntsagskonkurrence, men hendes gr\u00f8ntsagsbed giver kun bittesm\u00e5 guler\u00f8dder. Kiva og Paul rejser ind i eventyret Hans og b\u00f8nnestagen og begiver sig mod k\u00e6mpens have p\u00e5 jagt efter en k\u00e6mpegulerod."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 20 s\u00e6son 1",
+               "xmltv_ns" : "0 . 19 ."
+            },
+            "channel" : "nickjr.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "new" : null,
+            "stop" : "1523026500",
+            "start" : "1523025900",
+            "date" : "2017"
+         },
+         {
+            "subTitle" : {
+               "da" : "Pups Save Tiny Marshall"
+            },
+            "rating" : {
+               "stars" : "7.5 / 9"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Berkley Silverman",
+                     "role" : "Everest"
+                  },
+                  {
+                     "role" : "Skye",
+                     "name" : "Kallan Holley"
+                  },
+                  {
+                     "name" : "Julie Lemieux",
+                     "role" : "Cali the Cat"
+                  },
+                  {
+                     "name" : "Elijha Hammill",
+                     "role" : "Ryder (Season 2)"
+                  },
+                  {
+                     "role" : "Farmer Yumi (Season 1)",
+                     "name" : "Hiromi Okuyama"
+                  },
+                  {
+                     "name" : "Tristan Samuel",
+                     "role" : "Chase (Season 1)"
+                  },
+                  {
+                     "role" : "Fran\u00e7ois Turbot",
+                     "name" : "Peter Cugno"
+                  },
+                  {
+                     "name" : "Stephany Seki",
+                     "role" : "Farmer Yumi (Season 2)"
+                  },
+                  {
+                     "role" : "Ryder (Seasons 1 & 2)",
+                     "name" : "Owen Mason"
+                  },
+                  {
+                     "name" : "Max Calinescu",
+                     "role" : "Chase (Season 2)"
+                  },
+                  {
+                     "name" : "Lucius Hoyos",
+                     "role" : "Carlos"
+                  },
+                  {
+                     "name" : "Gage Munroe",
+                     "role" : "Marshall (Season 1)"
+                  },
+                  {
+                     "name" : "Katherine Forrester",
+                     "role" : "Katie"
+                  },
+                  {
+                     "name" : "Alex Thorne",
+                     "role" : "Zuma"
+                  },
+                  {
+                     "name" : "Deann Degruijter",
+                     "role" : "Mayor Goodway"
+                  },
+                  {
+                     "role" : "Cap'n Turbot/Mayor Humdinger/Farmer Al",
+                     "name" : "Ron Pardo"
+                  },
+                  {
+                     "name" : "Blair Williams",
+                     "role" : "Mr. Porter"
+                  },
+                  {
+                     "role" : "Rubble",
+                     "name" : "Devan Cohen"
+                  },
+                  {
+                     "name" : "Christian DiStefano",
+                     "role" : "Alex Porter"
+                  },
+                  {
+                     "role" : "Jake",
+                     "name" : "Scott McCord"
+                  },
+                  {
+                     "name" : "Drew Davis",
+                     "role" : "Marshall (Season 2)"
+                  },
+                  {
+                     "role" : "Rocky",
+                     "name" : "Stuart Ralston"
+                  },
+                  {
+                     "role" : "Ringmaster Raimundo",
+                     "name" : "Juan Chiordan"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Tom Berger"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Charles E. Bastien"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "PAW Patrol er en serie for de sm\u00e5, der handler om de seks heltemodige hundehvalpe: Chase, Marshall, Rocky, Zuma, Rubble, og Skye, som ledes af en teknologibegejstret ti-\u00e5rig dreng, der hedder Ryder."
+            },
+            "title" : {
+               "da" : "Paw Patrol"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 19 s\u00e6son 4",
+               "thetvdb.com" : "series/272472",
+               "xmltv_ns" : "3 . 18 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=272472&seasonid=699034&id=6271236&lid=7"
+            ],
+            "stop" : "1523028000",
+            "start" : "1523026680",
+            "date" : "2013"
+         },
+         {
+            "date" : "2014",
+            "start" : "1523028240",
+            "stop" : "1523029500",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=287036&seasonid=639442&id=5588916&lid=7"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "episodeNum" : {
+               "thetvdb.com" : "series/287036",
+               "xmltv_ns" : "1 . 4 .",
+               "onscreen" : "Afsnit 5 s\u00e6son 2"
+            },
+            "desc" : {
+               "da" : "Starla gl\u00e6der sig til at r\u00e6se med hendes racergris, Zippy, i et holdl\u00f8b. Men da hendes konkurrent Crusher og hans gris, Slop, snyder og sender Zippy langt v\u00e6k, er det op til Blaze, AJ og Starla at f\u00e5 Zippy tilbage inden l\u00f8bet starter."
+            },
+            "title" : {
+               "da" : "Blaze og monstermaskinerne"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "AJ",
+                     "name" : "Dusan Brown"
+                  },
+                  {
+                     "name" : "",
+                     "role" : "Blaze"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Race to the Top of the World (2)"
+            }
+         },
+         {
+            "date" : "2016",
+            "start" : "1523029680",
+            "stop" : "1523030100",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=313091&seasonid=670512&id=5940593&lid=7"
+            ],
+            "episodeNum" : {
+               "onscreen" : "Afsnit 20 s\u00e6son 1",
+               "thetvdb.com" : "series/313091",
+               "xmltv_ns" : "0 . 19 ."
+            },
+            "desc" : {
+               "da" : "Rusty og Ronja hj\u00e6lper Kok Betty og Dennis i ferskenplukkerkonkurrencen og m\u00e5 pr\u00f8ve at f\u00e5 dem til at arbejde sammen. / Ronja pr\u00f8ver at hj\u00e6lpe aberne i dyreparken med at finde p\u00e5 nogle nye numre - men de ender med at flygte!"
+            },
+            "title" : {
+               "da" : "Rusty Rivets"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Kyle Harrison Breitkopf",
+                     "role" : "Rusty"
+                  },
+                  {
+                     "role" : "Ray / Botasaur / Bytes",
+                     "name" : "Rob Tinkler"
+                  },
+                  {
+                     "name" : "Julie Lemieux",
+                     "role" : "Whirly / Crush"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Rusty's Sand Castle Hassle"
+            }
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=313091&seasonid=670512&id=5975106&lid=7"
+            ],
+            "new" : null,
+            "channel" : "nickjr.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "start" : "1523030340",
+            "stop" : "1523031000",
+            "date" : "2016",
+            "subTitle" : {
+               "da" : "Rusty's Space Bit"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Kyle Harrison Breitkopf",
+                     "role" : "Rusty"
+                  },
+                  {
+                     "name" : "Rob Tinkler",
+                     "role" : "Ray / Botasaur / Bytes"
+                  },
+                  {
+                     "name" : "Julie Lemieux",
+                     "role" : "Whirly / Crush"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Robotosaurus bliver tr\u00e6t af at lege, og Rusty bygger et st\u00f8rre batteri til ham - men der f\u00f8lger MEGET mere energi med. / Ronja demonstrerer sin nyeste opfindelse - verdens st\u00e6rkeste lim - og f\u00e5r hele Stambjerg til at klistre fast."
+            },
+            "title" : {
+               "da" : "Rusty Rivets"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 21 s\u00e6son 1",
+               "xmltv_ns" : "0 . 20 .",
+               "thetvdb.com" : "series/313091"
+            }
+         },
+         {
+            "start" : "1523031060",
+            "stop" : "1523031600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=280399&seasonid=581883&id=4876925&lid=7"
+            ],
+            "date" : "2014",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Gili Dolev"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Pop-Along Cowboy"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 1",
+               "xmltv_ns" : "0 . 3 .",
+               "thetvdb.com" : "series/280399"
+            },
+            "desc" : {
+               "da" : "Zack tager p\u00e5 jagt efter ingredienser til en nysekur / Quack f\u00f8ler sig overset da Zack f\u00e5r en ny boomerang"
+            },
+            "title" : {
+               "da" : "Zack & Quack"
+            }
+         },
+         {
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=333809&seasonid=726333&id=6275394&lid=7"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "start" : "1523031840",
+            "stop" : "1523033100",
+            "date" : "2017",
+            "subTitle" : {
+               "da" : "Stick with Me"
+            },
+            "title" : {
+               "da" : "Sunny Day"
+            },
+            "desc" : {
+               "da" : "Doodle tror fejlagtigt, at Sunny har glemt ham p\u00e5 venskabsdagen og g\u00e5r ud for at finde sig en ny ven. Da Doodle bliver taget af hundefangeren Scratch, vil Sunny g\u00f8r alt for at f\u00e5 sin ven tilbage."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "thetvdb.com" : "series/333809",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            }
+         },
+         {
+            "date" : "2015",
+            "stop" : "1523034600",
+            "start" : "1523033220",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 3",
+               "xmltv_ns" : "2 . 2 ."
+            },
+            "title" : {
+               "da" : "Shimmer og Shine"
+            },
+            "desc" : {
+               "da" : "Pigerne bes\u00f8ger t\u00e6ppes\u00e6lgeren for at f\u00e5 repareret deres t\u00e6ppe, og Zeta og Nazboo planl\u00e6gger at snuppe noget magisk tr\u00e5d. / Zeta og Nazboo fort\u00e6ller historien om hvordan de l\u00e6rte hinanden at kende, men der er noget der ikke helt passer."
+            },
+            "subTitle" : {
+               "da" : "Carpet Troubles / Dragon Tales"
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 19 s\u00e6son 3",
+               "thetvdb.com" : "series/272472",
+               "xmltv_ns" : "2 . 18 ."
+            },
+            "desc" : {
+               "da" : "G\u00f8dning f\u00e5r Yumis gr\u00f8nsager til at vokse kraftigt, s\u00e5 Ryder og Paw Patrol m\u00e5 have styr p\u00e5 de l\u00f8bske afgr\u00f8der. // Paw Patrol skriver en besked p\u00e5 Als mark for at fort\u00e6lle nogle rumv\u00e6sner, at hvalpene har fundet deres forsvundne leget\u00f8j."
+            },
+            "title" : {
+               "da" : "Paw Patrol"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Berkley Silverman",
+                     "role" : "Everest"
+                  },
+                  {
+                     "role" : "Skye",
+                     "name" : "Kallan Holley"
+                  },
+                  {
+                     "name" : "Julie Lemieux",
+                     "role" : "Cali the Cat"
+                  },
+                  {
+                     "name" : "Elijha Hammill",
+                     "role" : "Ryder (Season 2)"
+                  },
+                  {
+                     "role" : "Farmer Yumi (Season 1)",
+                     "name" : "Hiromi Okuyama"
+                  },
+                  {
+                     "role" : "Chase (Season 1)",
+                     "name" : "Tristan Samuel"
+                  },
+                  {
+                     "role" : "Fran\u00e7ois Turbot",
+                     "name" : "Peter Cugno"
+                  },
+                  {
+                     "role" : "Farmer Yumi (Season 2)",
+                     "name" : "Stephany Seki"
+                  },
+                  {
+                     "name" : "Owen Mason",
+                     "role" : "Ryder (Seasons 1 & 2)"
+                  },
+                  {
+                     "name" : "Max Calinescu",
+                     "role" : "Chase (Season 2)"
+                  },
+                  {
+                     "name" : "Lucius Hoyos",
+                     "role" : "Carlos"
+                  },
+                  {
+                     "role" : "Marshall (Season 1)",
+                     "name" : "Gage Munroe"
+                  },
+                  {
+                     "name" : "Katherine Forrester",
+                     "role" : "Katie"
+                  },
+                  {
+                     "role" : "Zuma",
+                     "name" : "Alex Thorne"
+                  },
+                  {
+                     "name" : "Deann Degruijter",
+                     "role" : "Mayor Goodway"
+                  },
+                  {
+                     "role" : "Cap'n Turbot/Mayor Humdinger/Farmer Al",
+                     "name" : "Ron Pardo"
+                  },
+                  {
+                     "role" : "Mr. Porter",
+                     "name" : "Blair Williams"
+                  },
+                  {
+                     "role" : "Rubble",
+                     "name" : "Devan Cohen"
+                  },
+                  {
+                     "name" : "Christian DiStefano",
+                     "role" : "Alex Porter"
+                  },
+                  {
+                     "name" : "Scott McCord",
+                     "role" : "Jake"
+                  },
+                  {
+                     "role" : "Marshall (Season 2)",
+                     "name" : "Drew Davis"
+                  },
+                  {
+                     "name" : "Stuart Ralston",
+                     "role" : "Rocky"
+                  },
+                  {
+                     "role" : "Ringmaster Raimundo",
+                     "name" : "Juan Chiordan"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Pups Save a School Bus"
+            },
+            "rating" : {
+               "stars" : "7.5 / 9"
+            },
+            "date" : "2013",
+            "stop" : "1523035800",
+            "start" : "1523034660",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=272472&seasonid=643560&id=5624091&lid=7"
+            ]
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=272472&seasonid=643560&id=5624092&lid=7"
+            ],
+            "start" : "1523036040",
+            "stop" : "1523037600",
+            "date" : "2013",
+            "subTitle" : {
+               "da" : "Pups Save the Song Birds"
+            },
+            "rating" : {
+               "stars" : "7.5 / 9"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Everest",
+                     "name" : "Berkley Silverman"
+                  },
+                  {
+                     "role" : "Skye",
+                     "name" : "Kallan Holley"
+                  },
+                  {
+                     "name" : "Julie Lemieux",
+                     "role" : "Cali the Cat"
+                  },
+                  {
+                     "role" : "Ryder (Season 2)",
+                     "name" : "Elijha Hammill"
+                  },
+                  {
+                     "name" : "Hiromi Okuyama",
+                     "role" : "Farmer Yumi (Season 1)"
+                  },
+                  {
+                     "role" : "Chase (Season 1)",
+                     "name" : "Tristan Samuel"
+                  },
+                  {
+                     "role" : "Fran\u00e7ois Turbot",
+                     "name" : "Peter Cugno"
+                  },
+                  {
+                     "role" : "Farmer Yumi (Season 2)",
+                     "name" : "Stephany Seki"
+                  },
+                  {
+                     "name" : "Owen Mason",
+                     "role" : "Ryder (Seasons 1 & 2)"
+                  },
+                  {
+                     "name" : "Max Calinescu",
+                     "role" : "Chase (Season 2)"
+                  },
+                  {
+                     "name" : "Lucius Hoyos",
+                     "role" : "Carlos"
+                  },
+                  {
+                     "name" : "Gage Munroe",
+                     "role" : "Marshall (Season 1)"
+                  },
+                  {
+                     "role" : "Katie",
+                     "name" : "Katherine Forrester"
+                  },
+                  {
+                     "role" : "Zuma",
+                     "name" : "Alex Thorne"
+                  },
+                  {
+                     "name" : "Deann Degruijter",
+                     "role" : "Mayor Goodway"
+                  },
+                  {
+                     "name" : "Ron Pardo",
+                     "role" : "Cap'n Turbot/Mayor Humdinger/Farmer Al"
+                  },
+                  {
+                     "role" : "Mr. Porter",
+                     "name" : "Blair Williams"
+                  },
+                  {
+                     "role" : "Rubble",
+                     "name" : "Devan Cohen"
+                  },
+                  {
+                     "role" : "Alex Porter",
+                     "name" : "Christian DiStefano"
+                  },
+                  {
+                     "name" : "Scott McCord",
+                     "role" : "Jake"
+                  },
+                  {
+                     "name" : "Drew Davis",
+                     "role" : "Marshall (Season 2)"
+                  },
+                  {
+                     "role" : "Rocky",
+                     "name" : "Stuart Ralston"
+                  },
+                  {
+                     "role" : "Ringmaster Raimundo",
+                     "name" : "Juan Chiordan"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Paw Patrol"
+            },
+            "desc" : {
+               "da" : "Da Everest bliver overspr\u00f8jtet af et stinkdyr, pr\u00f8ver vovserne diskret at fort\u00e6lle hende, at hun tr\u00e6nger til et bad. // Vovserne flyver nordp\u00e5, leger fangeleg og hj\u00e6lper en hvalunge, der er blevet fanget under isen."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 19 .",
+               "thetvdb.com" : "series/272472",
+               "onscreen" : "Afsnit 20 s\u00e6son 3"
+            }
+         },
+         {
+            "date" : "2016",
+            "start" : "1523037600",
+            "stop" : "1523037900",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 25 s\u00e6son 2",
+               "xmltv_ns" : "1 . 24 ."
+            },
+            "desc" : {
+               "da" : "I dag traf Henry en glad larve, som havde travlt med at spise blade, men ikke kan finde sin familie. Henry finder larvens mor, der siger, at larven skal g\u00e5 i seng. Henry ser hvordan larverne forvandler sig til sommerfugle."
+            },
+            "title" : {
+               "da" : "Den dag Henry traf"
+            },
+            "subTitle" : {
+               "da" : "The Day Henry Met... a Caterpillar"
+            }
+         },
+         {
+            "stop" : "1523038800",
+            "start" : "1523038140",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "new" : null,
+            "date" : "2017",
+            "subTitle" : {
+               "da" : "Party Island"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 6 s\u00e6son 1",
+               "xmltv_ns" : "0 . 5 ."
+            },
+            "title" : {
+               "da" : "Kiva kan alt"
+            },
+            "desc" : {
+               "da" : "Pauls ballon sv\u00e6ver for h\u00f8jt op, og han kan ikke f\u00e5 den tilbage. Kiva designer en varmluftsballon, s\u00e5 de kan komme den til unds\u00e6tning. Men det er sv\u00e6rere at f\u00e5 fat i Pauls ballon end de havde regnet med, og b\u00f8rnene m\u00e5 have hj\u00e6lp af eventyrer-Nanni."
+            }
+         },
+         {
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "stop" : "1523040300",
+            "start" : "1523039040",
+            "date" : "2014",
+            "subTitle" : {
+               "da" : "The Switching Stone"
+            },
+            "desc" : {
+               "da" : "Wallykazam er en tegnefilmsserie for b\u00f8rn i f\u00f8rskolealderen om de eventyr drengen Wally Troldfyr og hans k\u00e6ldedrage Norville oplever. Wally har en tryllepind der tryller ord frem. Hver historie har en ny r\u00e6kke trylleord, og Wally bruger ordene til at lege og forvandle verden omkring sig. Hvis dagens tryllebogstav for eksempel er K, kan Wally fremtrylle et kongeslot og skyde sig selv ind i det ved hj\u00e6lp af en katapult. Hvis ordene rimer p\u00e5 'Bl\u00e5', kan Wally og Norville have et helt eventyr efter at have tryllet sig selv sm\u00e5. Wally og Norville er altid med p\u00e5 alt hvad trylleordene f\u00f8rer til, men de skal passe p\u00e5 Kalle Kobold, der har det med at lave ballade."
+            },
+            "title" : {
+               "da" : "Wallykazam"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 16 .",
+               "onscreen" : "Afsnit 17 s\u00e6son 1"
+            }
+         },
+         {
+            "date" : "2014",
+            "channel" : "nickjr.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "new" : null,
+            "stop" : "1523042100",
+            "start" : "1523040540",
+            "title" : {
+               "da" : "Dora og venner"
+            },
+            "desc" : {
+               "da" : "Da Doras medk\u00f8rer Alana kommer til skade, er det op til Dora og hendes venner at st\u00e5 sammen og vinde Det store venne-race, der g\u00e5r gennem hele byen."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 13 s\u00e6son 1",
+               "xmltv_ns" : "0 . 12 ."
+            },
+            "subTitle" : {
+               "da" : "Buddy Race"
+            }
+         },
+         {
+            "date" : "2011",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=226391&seasonid=528732&id=4810904&lid=7"
+            ],
+            "channel" : "nickjr.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "start" : "1523042100",
+            "stop" : "1523043600",
+            "desc" : {
+               "da" : "Brrrr! Der er kold i Arktis. - Sikkert fordi der er fyldt med en masse seje dyr. Efter at have m\u00f8dt Arktis-Dan, begiver Gil sig ud p\u00e5 en iskold ekspedition. Kan Gil, med Guppiernes hj\u00e6lp, trodse elementerne, og n\u00e5 op til Nordpolen?"
+            },
+            "title" : {
+               "da" : "Bubble Guppies"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 9 s\u00e6son 3",
+               "thetvdb.com" : "series/226391",
+               "xmltv_ns" : "2 . 8 ."
+            },
+            "subTitle" : {
+               "da" : "The Amusement Parking Lot!"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Paolo Domingo",
+                     "role" : "Lenny"
+                  },
+                  {
+                     "role" : "Molly (Singing Voice)",
+                     "name" : "Brianna Gentilella"
+                  },
+                  {
+                     "role" : "Mr. Grouper",
+                     "name" : "Daniel Beretta"
+                  },
+                  {
+                     "role" : "Demma",
+                     "name" : "Selena Gonzalez"
+                  },
+                  {
+                     "role" : "Nonni",
+                     "name" : "Eamon Pirruccello"
+                  },
+                  {
+                     "name" : "Frank Welker",
+                     "role" : "Bubble Puppy"
+                  },
+                  {
+                     "name" : "Sylvie Feit Marie",
+                     "role" : "Oona"
+                  },
+                  {
+                     "name" : "Skai Jackson",
+                     "role" : "Little Fish"
+                  },
+                  {
+                     "role" : "Gil \"Gilly\"",
+                     "name" : "Zachary Gordon"
+                  }
+               ]
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Fox Cubs"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 40 .",
+               "onscreen" : "Afsnit 41 s\u00e6son 2"
+            },
+            "desc" : {
+               "da" : "R\u00e6veungerne har f\u00e5et en ny anf\u00f8rer i Det Lille Kongerige. Det er fru Blomme, som gerne vil kaldes for Pjuskede Ugle. I fors\u00f8get p\u00e5 at g\u00f8re sig fortjent til deres eventyrm\u00e6rker, bliver r\u00e6veungerne pludselig fanget p\u00e5 toppen af Mount Everest og m\u00e5 reddes."
+            },
+            "title" : {
+               "da" : "Det Lille Kongerige"
+            },
+            "start" : "1523043600",
+            "stop" : "1523044200",
+            "new" : null,
+            "channel" : "nickjr.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "date" : "2009"
+         },
+         {
+            "subTitle" : {
+               "da" : "Nanny Plum and the Wise Old Elf Swap Jobs for One Whole Day"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 41 .",
+               "onscreen" : "Afsnit 42 s\u00e6son 2"
+            },
+            "desc" : {
+               "da" : "Fru Blomme mener at hun arbejder h\u00e5rdere end den kloge Gammel Alf Den kloge Gammel Alf mener at han arbejder h\u00e5rdere end Fru Blomme. S\u00e5 Kong Tj\u00f8rn befaler at de bytter job i en hel dag, s\u00e5 de kan f\u00e5 afgjort hvem der har ret."
+            },
+            "title" : {
+               "da" : "Det Lille Kongerige"
+            },
+            "stop" : "1523044800",
+            "start" : "1523044200",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "date" : "2009"
+         },
+         {
+            "stop" : "1523046300",
+            "start" : "1523044800",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "date" : "2015",
+            "subTitle" : {
+               "da" : "Volcano Drain-o / Cleanie Genies"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 10 .",
+               "onscreen" : "Afsnit 11 s\u00e6son 2"
+            },
+            "title" : {
+               "da" : "Shimmer og Shine"
+            },
+            "desc" : {
+               "da" : "Zeta og Nazboo suger alt glimmeret ud af en vulkan, og pigerne m\u00e5 rejse til vulkanen for at stoppe dem. // Zeta stj\u00e6ler Leah, Shimmer og Shines Pletfri \u00c6delsten og forhekser en masse reng\u00f8ringsting - hvilket selvf\u00f8lgelig ender galt."
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 11 .",
+               "onscreen" : "Afsnit 12 s\u00e6son 2"
+            },
+            "desc" : {
+               "da" : "Leah bliver venner med en r\u00e6v der kan blive usynlig n\u00e5r Zeta pr\u00f8ver at fange den for dens magi. / Tala, Nahal og Parisa optr\u00e6der i et talentshow, men Zeta og Nazboo pr\u00f8ver at stj\u00e6le rampelyset."
+            },
+            "title" : {
+               "da" : "Shimmer og Shine"
+            },
+            "subTitle" : {
+               "da" : "Now You See Her / Untamed Talent"
+            },
+            "date" : "2015",
+            "stop" : "1523047800",
+            "start" : "1523046300",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "nickjr.dk"
+         },
+         {
+            "stop" : "1523049000",
+            "start" : "1523047800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=145951&seasonid=483055&id=4377805&lid=7"
+            ],
+            "date" : "2010",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Milli",
+                     "name" : "Madeleine Rose Yen"
+                  },
+                  {
+                     "name" : "Scott Hollingsworth"
+                  },
+                  {
+                     "name" : "Chris Phillips"
+                  },
+                  {
+                     "role" : "Geo",
+                     "name" : "Ethan Kempner"
+                  },
+                  {
+                     "role" : "Umicar",
+                     "name" : "P.T. Walkley"
+                  },
+                  {
+                     "name" : "Mary Wood"
+                  },
+                  {
+                     "name" : "Donovan Patton",
+                     "role" : "Bot"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "The Great Shape Race"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 11 .",
+               "thetvdb.com" : "series/145951",
+               "onscreen" : "Afsnit 12 s\u00e6son 3"
+            },
+            "title" : {
+               "da" : "Umizoomi"
+            },
+            "desc" : {
+               "da" : "N\u00e5r tryllekunstneren Presto ved et uheld l\u00e6gger sin tryllestav i vaskemaskinen, fyldes vaskerummet med magiske bobler og Presto bliver fanget i en af dem. Det er op til Team Umizoomi at komme igennem Prestos sk\u00f8re hus og redde ham!"
+            }
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=296855&seasonid=625956&id=5254065&lid=7"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "stop" : "1523050500",
+            "start" : "1523049120",
+            "date" : "2015",
+            "subTitle" : {
+               "da" : "Fruit Racer Game"
+            },
+            "desc" : {
+               "da" : "Da Kiki bliver suget ind i et computerspil henne i spillehallen, m\u00e5 resten af The Fresh Beat Band of Spies tr\u00e6nge ind for at redde hende ud. De er n\u00f8dt til at k\u00f8re hurtigere end spillets skurk, Brutalius Skovjordb\u00e6r, i kapl\u00f8bet."
+            },
+            "title" : {
+               "da" : "Fresh Beat Band: Musikspioner p\u00e5 mission"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 4 .",
+               "thetvdb.com" : "series/296855",
+               "onscreen" : "Afsnit 5 s\u00e6son 1"
+            }
+         },
+         {
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Everest",
+                     "name" : "Berkley Silverman"
+                  },
+                  {
+                     "role" : "Skye",
+                     "name" : "Kallan Holley"
+                  },
+                  {
+                     "name" : "Julie Lemieux",
+                     "role" : "Cali the Cat"
+                  },
+                  {
+                     "name" : "Elijha Hammill",
+                     "role" : "Ryder (Season 2)"
+                  },
+                  {
+                     "name" : "Hiromi Okuyama",
+                     "role" : "Farmer Yumi (Season 1)"
+                  },
+                  {
+                     "name" : "Tristan Samuel",
+                     "role" : "Chase (Season 1)"
+                  },
+                  {
+                     "name" : "Peter Cugno",
+                     "role" : "Fran\u00e7ois Turbot"
+                  },
+                  {
+                     "name" : "Stephany Seki",
+                     "role" : "Farmer Yumi (Season 2)"
+                  },
+                  {
+                     "name" : "Owen Mason",
+                     "role" : "Ryder (Seasons 1 & 2)"
+                  },
+                  {
+                     "role" : "Chase (Season 2)",
+                     "name" : "Max Calinescu"
+                  },
+                  {
+                     "name" : "Lucius Hoyos",
+                     "role" : "Carlos"
+                  },
+                  {
+                     "role" : "Marshall (Season 1)",
+                     "name" : "Gage Munroe"
+                  },
+                  {
+                     "name" : "Katherine Forrester",
+                     "role" : "Katie"
+                  },
+                  {
+                     "role" : "Zuma",
+                     "name" : "Alex Thorne"
+                  },
+                  {
+                     "name" : "Deann Degruijter",
+                     "role" : "Mayor Goodway"
+                  },
+                  {
+                     "name" : "Ron Pardo",
+                     "role" : "Cap'n Turbot/Mayor Humdinger/Farmer Al"
+                  },
+                  {
+                     "name" : "Blair Williams",
+                     "role" : "Mr. Porter"
+                  },
+                  {
+                     "role" : "Rubble",
+                     "name" : "Devan Cohen"
+                  },
+                  {
+                     "role" : "Alex Porter",
+                     "name" : "Christian DiStefano"
+                  },
+                  {
+                     "name" : "Scott McCord",
+                     "role" : "Jake"
+                  },
+                  {
+                     "role" : "Marshall (Season 2)",
+                     "name" : "Drew Davis"
+                  },
+                  {
+                     "name" : "Stuart Ralston",
+                     "role" : "Rocky"
+                  },
+                  {
+                     "name" : "Juan Chiordan",
+                     "role" : "Ringmaster Raimundo"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Pups Save Monkey-dinger"
+            },
+            "rating" : {
+               "stars" : "7.5 / 9"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 8 .",
+               "thetvdb.com" : "series/272472",
+               "onscreen" : "Afsnit 9 s\u00e6son 4"
+            },
+            "title" : {
+               "da" : "Paw Patrol"
+            },
+            "desc" : {
+               "da" : "PAW Patrol er en serie for de sm\u00e5, der handler om de seks heltemodige hundehvalpe: Chase, Marshall, Rocky, Zuma, Rubble, og Skye, som ledes af en teknologibegejstret ti-\u00e5rig dreng, der hedder Ryder."
+            },
+            "stop" : "1523051700",
+            "start" : "1523050560",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=272472&seasonid=699034&id=6046479&lid=7"
+            ],
+            "date" : "2013"
+         },
+         {
+            "subTitle" : {
+               "da" : "Rusty's Bits on the Fritz"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Rusty",
+                     "name" : "Kyle Harrison Breitkopf"
+                  },
+                  {
+                     "name" : "Rob Tinkler",
+                     "role" : "Ray / Botasaur / Bytes"
+                  },
+                  {
+                     "name" : "Julie Lemieux",
+                     "role" : "Whirly / Crush"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "De fr\u00e6kke aber slipper ud af deres bur i dyreparken, og Rusty m\u00e5 hj\u00e6lpe med at f\u00e5 dem tilbage. // Str\u00f8mmen i byen g\u00e5r, efter at Ronja tager Kvas med p\u00e5 en sjov flyvetur, og nu er der ingen lys p\u00e5 jorden, der kan hj\u00e6lpe dem med at lande."
+            },
+            "title" : {
+               "da" : "Rusty Rivets"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8 s\u00e6son 1",
+               "xmltv_ns" : "0 . 7 .",
+               "thetvdb.com" : "series/313091"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=313091&seasonid=670512&id=5823012&lid=7"
+            ],
+            "new" : null,
+            "start" : "1523051940",
+            "stop" : "1523053200",
+            "date" : "2016"
+         },
+         {
+            "episodeNum" : {
+               "thetvdb.com" : "series/287036",
+               "xmltv_ns" : "1 . 16 .",
+               "onscreen" : "Afsnit 17 s\u00e6son 2"
+            },
+            "title" : {
+               "da" : "Blaze og monstermaskinerne"
+            },
+            "desc" : {
+               "da" : "Vi f\u00f8lger med Blaze og AJ mens de suser gennem skyerne i deres nye ven, transporteren, som flyver dem til Racerbilland."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Dusan Brown",
+                     "role" : "AJ"
+                  },
+                  {
+                     "name" : "",
+                     "role" : "Blaze"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Race to Eagle Rock"
+            },
+            "date" : "2014",
+            "stop" : "1523054400",
+            "start" : "1523053260",
+            "channel" : "nickjr.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=287036&seasonid=639442&id=5634042&lid=7"
+            ],
+            "new" : null
+         },
+         {
+            "date" : "2013",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=272472&seasonid=527372&id=4638761&lid=7"
+            ],
+            "stop" : "1523055900",
+            "start" : "1523054640",
+            "desc" : {
+               "da" : "Marshal f\u00e5r en ny ven i Dunet. Paw Patrol m\u00e5 hj\u00e6lpe Dunet med at tr\u00e6kke sydp\u00e5, da han ikke vil forlade Ryder. // Paw Patrol m\u00e5 hj\u00e6lpe borgmesteren, der er kommet til at stige ombord i en varmluftsballon."
+            },
+            "title" : {
+               "da" : "Paw Patrol"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/272472",
+               "xmltv_ns" : "0 . 4 .",
+               "onscreen" : "Afsnit 5 s\u00e6son 1"
+            },
+            "subTitle" : {
+               "da" : "Pups Save the Sea Turtles"
+            },
+            "rating" : {
+               "stars" : "7.5 / 9"
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Ursula Ziegler Sullivan"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Everest",
+                     "name" : "Berkley Silverman"
+                  },
+                  {
+                     "role" : "Skye",
+                     "name" : "Kallan Holley"
+                  },
+                  {
+                     "role" : "Cali the Cat",
+                     "name" : "Julie Lemieux"
+                  },
+                  {
+                     "name" : "Elijha Hammill",
+                     "role" : "Ryder (Season 2)"
+                  },
+                  {
+                     "role" : "Farmer Yumi (Season 1)",
+                     "name" : "Hiromi Okuyama"
+                  },
+                  {
+                     "name" : "Tristan Samuel",
+                     "role" : "Chase (Season 1)"
+                  },
+                  {
+                     "role" : "Fran\u00e7ois Turbot",
+                     "name" : "Peter Cugno"
+                  },
+                  {
+                     "name" : "Stephany Seki",
+                     "role" : "Farmer Yumi (Season 2)"
+                  },
+                  {
+                     "role" : "Ryder (Seasons 1 & 2)",
+                     "name" : "Owen Mason"
+                  },
+                  {
+                     "role" : "Chase (Season 2)",
+                     "name" : "Max Calinescu"
+                  },
+                  {
+                     "role" : "Carlos",
+                     "name" : "Lucius Hoyos"
+                  },
+                  {
+                     "role" : "Marshall (Season 1)",
+                     "name" : "Gage Munroe"
+                  },
+                  {
+                     "role" : "Katie",
+                     "name" : "Katherine Forrester"
+                  },
+                  {
+                     "name" : "Alex Thorne",
+                     "role" : "Zuma"
+                  },
+                  {
+                     "role" : "Mayor Goodway",
+                     "name" : "Deann Degruijter"
+                  },
+                  {
+                     "name" : "Ron Pardo",
+                     "role" : "Cap'n Turbot/Mayor Humdinger/Farmer Al"
+                  },
+                  {
+                     "name" : "Blair Williams",
+                     "role" : "Mr. Porter"
+                  },
+                  {
+                     "role" : "Rubble",
+                     "name" : "Devan Cohen"
+                  },
+                  {
+                     "role" : "Alex Porter",
+                     "name" : "Christian DiStefano"
+                  },
+                  {
+                     "role" : "Jake",
+                     "name" : "Scott McCord"
+                  },
+                  {
+                     "name" : "Drew Davis",
+                     "role" : "Marshall (Season 2)"
+                  },
+                  {
+                     "name" : "Stuart Ralston",
+                     "role" : "Rocky"
+                  },
+                  {
+                     "role" : "Ringmaster Raimundo",
+                     "name" : "Juan Chiordan"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Jamie Whitney"
+                  }
+               ]
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 8 .",
+               "thetvdb.com" : "series/322934",
+               "onscreen" : "Afsnit 9 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Nella og Garratt kommer til at \u00f8del\u00e6gge Ridder Tr\u00e6ners yndlingsbyttekort og tager p\u00e5 en f\u00e6rd for at lave et nyt til ham. // En kendisridder bes\u00f8ger Slottehvile - det samme g\u00f8r den frygtelige drage han efter sigende besejrede."
+            },
+            "title" : {
+               "da" : "Ridderprinsessen Nella"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Micah Gursoy",
+                     "role" : "Sir Garrett"
+                  },
+                  {
+                     "name" : "Jessica Paquet",
+                     "role" : "Queen Mom"
+                  },
+                  {
+                     "role" : "Olivia",
+                     "name" : "Alyson Leigh Rosenfeld"
+                  },
+                  {
+                     "name" : "Samantha Hahn",
+                     "role" : "Trinket"
+                  },
+                  {
+                     "role" : "Princess Nella",
+                     "name" : "Tia Mowry-Hardict"
+                  },
+                  {
+                     "role" : "King Dad",
+                     "name" : "Ty Jones"
+                  },
+                  {
+                     "role" : "Sir Blaine",
+                     "name" : "Kobi Frumer"
+                  },
+                  {
+                     "role" : "Sir Clod",
+                     "name" : "Matthew Gumley"
+                  },
+                  {
+                     "role" : "Princess Norma",
+                     "name" : "Courtney Shaw"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "That's What Best Friends Are For"
+            },
+            "date" : "2017",
+            "start" : "1523055960",
+            "stop" : "1523057100",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=322934&seasonid=700065&id=5967708&lid=7"
+            ]
+         },
+         {
+            "channel" : "nickjr.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=322934&seasonid=700065&id=5967709&lid=7"
+            ],
+            "new" : null,
+            "stop" : "1523058600",
+            "start" : "1523057340",
+            "date" : "2017",
+            "subTitle" : {
+               "da" : "In Hot Watermelon"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Sir Garrett",
+                     "name" : "Micah Gursoy"
+                  },
+                  {
+                     "role" : "Queen Mom",
+                     "name" : "Jessica Paquet"
+                  },
+                  {
+                     "name" : "Alyson Leigh Rosenfeld",
+                     "role" : "Olivia"
+                  },
+                  {
+                     "name" : "Samantha Hahn",
+                     "role" : "Trinket"
+                  },
+                  {
+                     "name" : "Tia Mowry-Hardict",
+                     "role" : "Princess Nella"
+                  },
+                  {
+                     "role" : "King Dad",
+                     "name" : "Ty Jones"
+                  },
+                  {
+                     "name" : "Kobi Frumer",
+                     "role" : "Sir Blaine"
+                  },
+                  {
+                     "name" : "Matthew Gumley",
+                     "role" : "Sir Clod"
+                  },
+                  {
+                     "role" : "Princess Norma",
+                     "name" : "Courtney Shaw"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Ridderprinsessen Nella"
+            },
+            "desc" : {
+               "da" : "Nella og Garret kommer til at \u00f8del\u00e6gge Ridder Tr\u00e6nders yndlingsbyttekort og tager p\u00e5 mission for at lave et nyt til ham. / En kendisridder bes\u00f8ger Slottehvile. - sammen med den grusomme drage han efter sigende har f\u00e6ldet."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 10 s\u00e6son 1",
+               "xmltv_ns" : "0 . 9 .",
+               "thetvdb.com" : "series/322934"
+            }
+         },
+         {
+            "episodeNum" : {
+               "thetvdb.com" : "series/272472",
+               "xmltv_ns" : "2 . 6 .",
+               "onscreen" : "Afsnit 7 s\u00e6son 3"
+            },
+            "desc" : {
+               "da" : "Da Raimundos nyeste dyrenummer v\u00e6lter trapezen i cirkus, m\u00e5 Ryder og Paw Patrol hj\u00e6lpe med at bygge den op igen. // Vovserne afholder \"Superhunden Apollo\"-marathon, men f\u00f8r de ved af det, f\u00e5r Apollo brug for deres hj\u00e6lp."
+            },
+            "title" : {
+               "da" : "Paw Patrol"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Berkley Silverman",
+                     "role" : "Everest"
+                  },
+                  {
+                     "role" : "Skye",
+                     "name" : "Kallan Holley"
+                  },
+                  {
+                     "role" : "Cali the Cat",
+                     "name" : "Julie Lemieux"
+                  },
+                  {
+                     "name" : "Elijha Hammill",
+                     "role" : "Ryder (Season 2)"
+                  },
+                  {
+                     "name" : "Hiromi Okuyama",
+                     "role" : "Farmer Yumi (Season 1)"
+                  },
+                  {
+                     "name" : "Tristan Samuel",
+                     "role" : "Chase (Season 1)"
+                  },
+                  {
+                     "name" : "Peter Cugno",
+                     "role" : "Fran\u00e7ois Turbot"
+                  },
+                  {
+                     "role" : "Farmer Yumi (Season 2)",
+                     "name" : "Stephany Seki"
+                  },
+                  {
+                     "name" : "Owen Mason",
+                     "role" : "Ryder (Seasons 1 & 2)"
+                  },
+                  {
+                     "name" : "Max Calinescu",
+                     "role" : "Chase (Season 2)"
+                  },
+                  {
+                     "name" : "Lucius Hoyos",
+                     "role" : "Carlos"
+                  },
+                  {
+                     "role" : "Marshall (Season 1)",
+                     "name" : "Gage Munroe"
+                  },
+                  {
+                     "role" : "Katie",
+                     "name" : "Katherine Forrester"
+                  },
+                  {
+                     "name" : "Alex Thorne",
+                     "role" : "Zuma"
+                  },
+                  {
+                     "name" : "Deann Degruijter",
+                     "role" : "Mayor Goodway"
+                  },
+                  {
+                     "role" : "Cap'n Turbot/Mayor Humdinger/Farmer Al",
+                     "name" : "Ron Pardo"
+                  },
+                  {
+                     "name" : "Blair Williams",
+                     "role" : "Mr. Porter"
+                  },
+                  {
+                     "role" : "Rubble",
+                     "name" : "Devan Cohen"
+                  },
+                  {
+                     "name" : "Christian DiStefano",
+                     "role" : "Alex Porter"
+                  },
+                  {
+                     "role" : "Jake",
+                     "name" : "Scott McCord"
+                  },
+                  {
+                     "name" : "Drew Davis",
+                     "role" : "Marshall (Season 2)"
+                  },
+                  {
+                     "role" : "Rocky",
+                     "name" : "Stuart Ralston"
+                  },
+                  {
+                     "name" : "Juan Chiordan",
+                     "role" : "Ringmaster Raimundo"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "7.5 / 9"
+            },
+            "subTitle" : {
+               "da" : "Pups Save Alex's Mini-Patrol"
+            },
+            "date" : "2013",
+            "stop" : "1523060100",
+            "start" : "1523058720",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=272472&seasonid=643560&id=5489835&lid=7"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "channel" : "nickjr.dk"
+         }
+      ]
+   }
+}

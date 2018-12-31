@@ -1,0 +1,755 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "subTitle" : {
+               "da" : "Kentucky Confidential"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/76832/season/1/episode/2"
+            ],
+            "desc" : {
+               "da" : "Susan Smith bliver stikker for FBI og redder sig flere og flere fjender. Da hun forsvinder, er det ikke godt at vide, hvad der skete med hende."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Crime"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1/6 .",
+               "onscreen" : "Afsnit 2 af 6 s\u00e6son 1"
+            },
+            "date" : "2018",
+            "stop" : "1531877400",
+            "new" : null,
+            "start" : "1531874400",
+            "title" : {
+               "da" : "The Perfect Suspect"
+            },
+            "channel" : "investigation.discovery.dk"
+         },
+         {
+            "stop" : "1531880400",
+            "date" : "2016",
+            "channel" : "investigation.discovery.dk",
+            "title" : {
+               "da" : "Swamp Murders"
+            },
+            "new" : null,
+            "start" : "1531877400",
+            "url" : [
+               "https://www.themoviedb.org/tv/53100/season/4/episode/5"
+            ],
+            "subTitle" : {
+               "da" : "Shoeprints in the Mud"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Liget af Linda Strait bliver fundet i Spokane River. Politiet bruger resten af deres karriere p\u00e5 at finde den sk\u00e5nselsl\u00f8se morder."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 4/7 .",
+               "onscreen" : "Afsnit 5 af 7 s\u00e6son 4"
+            }
+         },
+         {
+            "start" : "1531880400",
+            "new" : null,
+            "title" : {
+               "da" : "I Almost Got Away With It"
+            },
+            "channel" : "investigation.discovery.dk",
+            "stop" : "1531883400",
+            "desc" : {
+               "da" : "Selvom han er efters\u00f8gt, vil McClarty ikke holde lav profil. Han vil have penge, biler, stoffer og kvinder - og vil g\u00f8re alt for at f\u00e5 det hele."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 28 s\u00e6son 3",
+               "xmltv_ns" : "2 . 27 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Got a Bad Temper"
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 3 .",
+               "thetvdb.com" : "series/313239",
+               "onscreen" : "Afsnit 4 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "En sygeplejestuderende br\u00e6nder inde, og McFadden konfronterer hendes elsker, eksk\u00e6reste og bedste ven for at se, hvem der startede branden."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Philadelphia Freedom"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=313239&seasonid=670874&id=5649999&lid=7"
+            ],
+            "new" : null,
+            "start" : "1531883400",
+            "title" : {
+               "da" : "I Am Homicide"
+            },
+            "channel" : "investigation.discovery.dk",
+            "date" : "2016",
+            "stop" : "1531886400"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Privatdetektiv Brian Wolfe og hans partner Perez arbejder p\u00e5 et lille feriested ved stranden p\u00e5 at finde den tyv, der stj\u00e6ler fra VIP-kunderne."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 4 .",
+               "onscreen" : "Afsnit 5 s\u00e6son 2"
+            },
+            "subTitle" : {
+               "da" : "Deep Inside Job"
+            },
+            "start" : "1531886400",
+            "new" : null,
+            "channel" : "investigation.discovery.dk",
+            "title" : {
+               "da" : "California Investigator"
+            },
+            "stop" : "1531887900"
+         },
+         {
+            "start" : "1531887900",
+            "new" : null,
+            "channel" : "investigation.discovery.dk",
+            "title" : {
+               "da" : "I'd Kill for You"
+            },
+            "date" : "2013",
+            "stop" : "1531891200",
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 8 .",
+               "onscreen" : "Afsnit 9 s\u00e6son 3",
+               "thetvdb.com" : "series/284451"
+            },
+            "desc" : {
+               "da" : "Det g\u00e5r godt for Verns ejendomsfirma. Men han har problemer: en s\u00f8n med et falleret \u00e6gteskab, og en forretningsaftale, der sl\u00e5r fejl."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Agent of Death"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=284451&seasonid=652832&id=5544563&lid=7"
+            ]
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 4/7 .",
+               "onscreen" : "Afsnit 5 af 7 s\u00e6son 4"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Liget af Linda Strait bliver fundet i Spokane River. Politiet bruger resten af deres karriere p\u00e5 at finde den sk\u00e5nselsl\u00f8se morder."
+            },
+            "subTitle" : {
+               "da" : "Shoeprints in the Mud"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/53100/season/4/episode/5"
+            ],
+            "start" : "1531891200",
+            "new" : null,
+            "title" : {
+               "da" : "Swamp Murders"
+            },
+            "channel" : "investigation.discovery.dk",
+            "date" : "2016",
+            "stop" : "1531894200"
+         },
+         {
+            "stop" : "1531897200",
+            "title" : {
+               "da" : "I Am Homicide"
+            },
+            "channel" : "investigation.discovery.dk",
+            "start" : "1531894200",
+            "new" : null,
+            "subTitle" : {
+               "da" : "From Gridiron to the Grave"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Gymnasiets sportsstjerne Travis Davis bliver skudt i Queen City, og det sender betjent Garry McFadden p\u00e5 jagt efter retf\u00e6rdigheden."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "url" : [
+               "https://www.themoviedb.org/tv/71450/season/1/episode/1"
+            ],
+            "subTitle" : {
+               "da" : "Southern Justice"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0/9 .",
+               "onscreen" : "Afsnit 1 af 9 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Rapperen Mac Phipps styrede mod ber\u00f8mmelsens tinder, da en fan blev skudt under en af hans koncerter. Mac blev d\u00f8mt for drabet, men var det \"sydstatsjustits\"?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1531900800",
+            "date" : "2017",
+            "channel" : "investigation.discovery.dk",
+            "title" : {
+               "da" : "Reasonable Doubt"
+            },
+            "new" : null,
+            "start" : "1531897200"
+         },
+         {
+            "new" : null,
+            "start" : "1531900800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Erfarne kriminalreportere fort\u00e6ller om de mange chokerende sager, som de er st\u00f8dt p\u00e5 i l\u00f8bet af deres arbejde."
+            },
+            "channel" : "investigation.discovery.dk",
+            "title" : {
+               "da" : "Baby Vanished: People Magazine Investigates"
+            },
+            "stop" : "1531904400"
+         },
+         {
+            "stop" : "1531906200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "investigation.discovery.dk",
+            "title" : {
+               "da" : "Teleshopping"
+            },
+            "start" : "1531904400",
+            "new" : null
+         },
+         {
+            "subTitle" : {
+               "da" : "Little Boy Blue"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 14 s\u00e6son 3",
+               "xmltv_ns" : "2 . 13 ."
+            },
+            "desc" : {
+               "da" : "En mor hyrer Wolfe til at finde sin teenages\u00f8n. Wolfe og McCarthy ser p\u00e5 s\u00f8nnens fortid og opdager en kriseramt teenager, der kan g\u00f8re skade p\u00e5 sig selv eller v\u00e6rre."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1531908000",
+            "new" : null,
+            "start" : "1531906200",
+            "title" : {
+               "da" : "California Investigator"
+            },
+            "channel" : "investigation.discovery.dk"
+         },
+         {
+            "stop" : "1531911600",
+            "title" : {
+               "da" : "I Almost Got Away With It"
+            },
+            "channel" : "investigation.discovery.dk",
+            "start" : "1531908000",
+            "new" : null,
+            "subTitle" : {
+               "da" : "Got a Bad Temper"
+            },
+            "desc" : {
+               "da" : "Selvom han er efters\u00f8gt, vil McClarty ikke holde lav profil. Han vil have penge, biler, stoffer og kvinder - og vil g\u00f8re alt for at f\u00e5 det hele."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 28 s\u00e6son 3",
+               "xmltv_ns" : "2 . 27 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Philadelphia Freedom"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=313239&seasonid=670874&id=5649999&lid=7"
+            ],
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 1",
+               "thetvdb.com" : "series/313239",
+               "xmltv_ns" : "0 . 3 ."
+            },
+            "desc" : {
+               "da" : "En sygeplejestuderende br\u00e6nder inde, og McFadden konfronterer hendes elsker, eksk\u00e6reste og bedste ven for at se, hvem der startede branden."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "date" : "2016",
+            "stop" : "1531915200",
+            "new" : null,
+            "start" : "1531911600",
+            "channel" : "investigation.discovery.dk",
+            "title" : {
+               "da" : "I Am Homicide"
+            }
+         },
+         {
+            "url" : [
+               "https://www.themoviedb.org/tv/71450/season/1/episode/9"
+            ],
+            "subTitle" : {
+               "da" : "Failure to Remember"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Penny Brummer beskyldes for at have dr\u00e6bt sin eksk\u00e6restes bedste ven. Men Penny var fuld og kan intet huske. Kan hun bevise sin uskyld?"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 9 af 9 s\u00e6son 1",
+               "xmltv_ns" : "0 . 8/9 ."
+            },
+            "stop" : "1531918800",
+            "date" : "2017",
+            "title" : {
+               "da" : "Reasonable Doubt"
+            },
+            "channel" : "investigation.discovery.dk",
+            "new" : null,
+            "start" : "1531915200"
+         },
+         {
+            "subTitle" : {
+               "da" : "Kentucky Confidential"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/76832/season/1/episode/2"
+            ],
+            "desc" : {
+               "da" : "Susan Smith bliver stikker for FBI og redder sig flere og flere fjender. Da hun forsvinder, er det ikke godt at vide, hvad der skete med hende."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 6 s\u00e6son 1",
+               "xmltv_ns" : "0 . 1/6 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Crime"
+               ]
+            },
+            "date" : "2018",
+            "stop" : "1531922400",
+            "start" : "1531918800",
+            "new" : null,
+            "title" : {
+               "da" : "The Perfect Suspect"
+            },
+            "channel" : "investigation.discovery.dk"
+         },
+         {
+            "subTitle" : {
+               "da" : "Hart of Darkness"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=284451&seasonid=652832&id=5485680&lid=7"
+            ],
+            "desc" : {
+               "da" : "Gilbert tror, at en streng opdragelse er det bedste, men det er hans kone ikke enig i. Og den familiefejde f\u00f8rer hurtigt til tragedie."
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/284451",
+               "onscreen" : "Afsnit 4 s\u00e6son 3",
+               "xmltv_ns" : "2 . 3 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "date" : "2013",
+            "stop" : "1531926000",
+            "new" : null,
+            "start" : "1531922400",
+            "title" : {
+               "da" : "I'd Kill for You"
+            },
+            "channel" : "investigation.discovery.dk"
+         },
+         {
+            "channel" : "investigation.discovery.dk",
+            "title" : {
+               "da" : "I Almost Got Away With It"
+            },
+            "new" : null,
+            "start" : "1531926000",
+            "stop" : "1531929600",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 29 s\u00e6son 3",
+               "xmltv_ns" : "2 . 28 ."
+            },
+            "desc" : {
+               "da" : "Vanetyven Gay undslipper en fangetransport fra f\u00e6ngslet og begiver sig gennem sumpene for at se sin d\u00f8deligt syge mor, f\u00f8r hun d\u00f8r. N\u00e5r han hjem med betjente i h\u00e6lene p\u00e5 sig?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Got a Country Legend's Tour Bus"
+            }
+         },
+         {
+            "channel" : "investigation.discovery.dk",
+            "title" : {
+               "da" : "Murder Chose Me"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Himself",
+                     "name" : "Rod Demery"
+                  },
+                  {
+                     "role" : "Detective Rod Demery",
+                     "name" : "John Nicholson"
+                  },
+                  {
+                     "name" : "Jordan Eli Arellano",
+                     "role" : "Young Rod Demery 1960"
+                  }
+               ]
+            },
+            "new" : null,
+            "start" : "1531929600",
+            "stop" : "1531933200",
+            "date" : "2017",
+            "desc" : {
+               "da" : "Venner finder liget af en venlig krigsveteran fra Vietnam ved navn Drexelle. Der er kun f\u00e5 spor i sagen, indtil Rod Demery kortl\u00e6gger offerets sidste timer."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Crime"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 3/10 .",
+               "onscreen" : "Afsnit 4 af 10 s\u00e6son 1"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/69544/season/1/episode/4"
+            ],
+            "subTitle" : {
+               "da" : "Looking for Love"
+            }
+         },
+         {
+            "start" : "1531933200",
+            "new" : null,
+            "channel" : "investigation.discovery.dk",
+            "title" : {
+               "da" : "Your Worst Nightmare"
+            },
+            "date" : "2014",
+            "stop" : "1531936800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Reggie og Carol Sumner bor i Florida, hvor pensionisterne vil nyde deres otium, men i stedet forsvinder de p\u00e5 mystisk vis."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 2",
+               "thetvdb.com" : "series/286981",
+               "xmltv_ns" : "1 . 2 ."
+            },
+            "subTitle" : {
+               "da" : "Unexpected Company"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=286981&seasonid=652836&id=5487124&lid=7"
+            ]
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Drama"
+               ]
+            },
+            "desc" : {
+               "da" : "13-\u00e5rige Tabitha Tuders forsvinder, og politiet mist\u00e6nker, hun er stukket af. Men de uhyggelige omst\u00e6ndigheder bag hendes forsvinden g\u00f8r familien desperate efter at h\u00f8re sandheden."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "8 . 7/13 .",
+               "onscreen" : "Afsnit 8 af 13 s\u00e6son 9"
+            },
+            "subTitle" : {
+               "da" : "Last Stop"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/26728/season/9/episode/8"
+            ],
+            "new" : null,
+            "start" : "1531936800",
+            "channel" : "investigation.discovery.dk",
+            "title" : {
+               "da" : "Disappeared"
+            },
+            "date" : "2018",
+            "stop" : "1531940400"
+         },
+         {
+            "new" : null,
+            "start" : "1531940400",
+            "channel" : "investigation.discovery.dk",
+            "title" : {
+               "da" : "Diabolical: Deadly Love"
+            },
+            "stop" : "1531944000",
+            "desc" : {
+               "da" : "Dr. Adam Frasch m\u00e6sker sig i et luksusliv med en smuk kone, et dyrt hus og eksotiske biler. Men han har v\u00e6vet et giftigt spind af l\u00f8gne, der f\u00f8rer til et brutalt mord."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 1"
+            },
+            "subTitle" : {
+               "da" : "Mistress Roulette"
+            }
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=260517&seasonid=730916&id=6394034&lid=7"
+            ],
+            "subTitle" : {
+               "da" : "Fatal Fuse"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "En boligejer bliver fundet skudt og d\u00f8d i sin egen indk\u00f8rsel. Et familiemedlem siger, at han var vidne, men en r\u00e6kke begivenheder rejser flere sp\u00f8rgsm\u00e5l end svar."
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/260517",
+               "onscreen" : "Afsnit 10 s\u00e6son 6",
+               "xmltv_ns" : "5 . 9 ."
+            },
+            "stop" : "1531947600",
+            "date" : "2012",
+            "channel" : "investigation.discovery.dk",
+            "title" : {
+               "da" : "Blood Relatives"
+            },
+            "new" : null,
+            "start" : "1531944000"
+         },
+         {
+            "subTitle" : {
+               "da" : "The Book Of James"
+            },
+            "desc" : {
+               "da" : "En gift pr\u00e6st har et \u00e5bent forhold med sin kone, men en uventet ankomst truer deres hemmelighed. Hvor langt vil de tre g\u00e5 for at holde deres l\u00f8fter?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 3"
+            },
+            "stop" : "1531950900",
+            "title" : {
+               "da" : "Forbidden: Dying for Love"
+            },
+            "channel" : "investigation.discovery.dk",
+            "start" : "1531947600",
+            "new" : null
+         },
+         {
+            "desc" : {
+               "da" : "Vi h\u00f8rer tragiske historier om drab gennem interviews med venner, familie og politiet i jagten p\u00e5 morderne."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "subTitle" : {
+               "da" : "The Graveyard Shift"
+            },
+            "channel" : "investigation.discovery.dk",
+            "title" : {
+               "da" : "Dead of Night"
+            },
+            "start" : "1531950900",
+            "new" : null,
+            "stop" : "1531954200"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Drama"
+               ]
+            },
+            "desc" : {
+               "da" : "Da en betjent bliver anklaget for seksuelle overgreb p\u00e5 to teenagepiger, pr\u00f8ver hans ven at rense ham. Han m\u00e5 g\u00f8re op med racisme for at finde den rette gerningsmand."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 6 af 8 s\u00e6son 5",
+               "xmltv_ns" : "4 . 5/8 ."
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/68549/season/5/episode/6"
+            ],
+            "subTitle" : {
+               "da" : "Beast With A Badge"
+            },
+            "channel" : "investigation.discovery.dk",
+            "title" : {
+               "da" : "A Crime to Remember"
+            },
+            "new" : null,
+            "start" : "1531954200",
+            "stop" : "1531957500",
+            "date" : "2018"
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=270476&seasonid=725813&id=6268589&lid=7"
+            ],
+            "subTitle" : {
+               "da" : "Deadliest Catch"
+            },
+            "desc" : {
+               "da" : "Det, der ligner et uheld, bliver til en drabssag, da 32-\u00e5rige Mike Muellers bil bliver fundet i en anden stat. Kan f\u00e6rdselspolitiet finde det afg\u00f8rende spor?"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "4 . 4 .",
+               "thetvdb.com" : "series/270476",
+               "onscreen" : "Afsnit 5 s\u00e6son 5"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1531960800",
+            "date" : "2013",
+            "channel" : "investigation.discovery.dk",
+            "title" : {
+               "da" : "Swamp Murders"
+            },
+            "new" : null,
+            "start" : "1531957500"
+         }
+      ]
+   }
+}

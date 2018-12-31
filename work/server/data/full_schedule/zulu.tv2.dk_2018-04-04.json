@@ -1,0 +1,2988 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "new" : null,
+            "stop" : "1522801800",
+            "date" : "2011",
+            "channel" : "zulu.tv2.dk",
+            "start" : "1522800000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "title" : {
+               "da" : "World's Craziest Fools"
+            }
+         },
+         {
+            "stop" : "1522803600",
+            "date" : "2011",
+            "new" : null,
+            "title" : {
+               "da" : "World's Craziest Fools"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "channel" : "zulu.tv2.dk",
+            "start" : "1522801800"
+         },
+         {
+            "date" : "2013",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=269895&seasonid=520229&id=4681676&lid=8"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "Ground Floor"
+            },
+            "desc" : {
+               "da" : "Det starter som en one night stand, da den ambiti\u00f8se, veluddannede og h\u00e5rdtarbejdende Brody m\u00f8der smukke, sjove og ubekymrede Jenny. Men da Brody finder ud af, at Jenny arbejder i stueetagen i hans kontorbygning, udvikler forholdet sig, og Brody begynder at stille sp\u00f8rgsm\u00e5lstegn ved, hvad der er vigtigt her i livet - til stor \u00e6rgrelse for hans chef og mentor Mr. Mainsfield."
+            },
+            "rating" : {
+               "stars" : "6.4 / 9"
+            },
+            "start" : "1522803600",
+            "subTitle" : {
+               "da" : "Off to the Races"
+            },
+            "stop" : "1522805100",
+            "previously_shown" : "zulu.tv2.dk|2018-02-19 02:50:00",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Jeff Astrof"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Briga Heelan",
+                     "role" : "Jenny Miller"
+                  },
+                  {
+                     "name" : "Emily Heller",
+                     "role" : "Lindsay Harris"
+                  },
+                  {
+                     "name" : "Rory Scovel",
+                     "role" : "Mark \"Harvard\" Shrake"
+                  },
+                  {
+                     "role" : "Tori",
+                     "name" : "Alexis Knapp"
+                  },
+                  {
+                     "name" : "James Earl",
+                     "role" : "Derrick Dupree"
+                  },
+                  {
+                     "name" : "Skylar Astin",
+                     "role" : "Brody Moyer"
+                  },
+                  {
+                     "role" : "Remington Stewart Mansfield",
+                     "name" : "John C. McGinley"
+                  },
+                  {
+                     "name" : "Anna Camp",
+                     "role" : "Heather"
+                  },
+                  {
+                     "role" : "Mike \"Threepeat\" Wen",
+                     "name" : "Rene Gube"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Gail Mancuso"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "channel" : "zulu.tv2.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1 .",
+               "thetvdb.com" : "series/269895",
+               "onscreen" : "Afsnit 2 s\u00e6son 1"
+            }
+         },
+         {
+            "start" : "1522805100",
+            "rating" : {
+               "stars" : "6.4 / 9"
+            },
+            "desc" : {
+               "da" : "Det starter som en one night stand, da den ambiti\u00f8se, veluddannede og h\u00e5rdtarbejdende Brody m\u00f8der smukke, sjove og ubekymrede Jenny. Men da Brody finder ud af, at Jenny arbejder i stueetagen i hans kontorbygning, udvikler forholdet sig, og Brody begynder at stille sp\u00f8rgsm\u00e5lstegn ved, hvad der er vigtigt her i livet - til stor \u00e6rgrelse for hans chef og mentor Mr. Mainsfield."
+            },
+            "title" : {
+               "da" : "Ground Floor"
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=269895&seasonid=520229&id=4681677&lid=8"
+            ],
+            "date" : "2013",
+            "channel" : "zulu.tv2.dk",
+            "episodeNum" : {
+               "thetvdb.com" : "series/269895",
+               "onscreen" : "Afsnit 3 s\u00e6son 1",
+               "xmltv_ns" : "0 . 2 ."
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Jason Belleville"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Briga Heelan",
+                     "role" : "Jenny Miller"
+                  },
+                  {
+                     "role" : "Lindsay Harris",
+                     "name" : "Emily Heller"
+                  },
+                  {
+                     "name" : "Rory Scovel",
+                     "role" : "Mark \"Harvard\" Shrake"
+                  },
+                  {
+                     "name" : "Alexis Knapp",
+                     "role" : "Tori"
+                  },
+                  {
+                     "role" : "Derrick Dupree",
+                     "name" : "James Earl"
+                  },
+                  {
+                     "name" : "Skylar Astin",
+                     "role" : "Brody Moyer"
+                  },
+                  {
+                     "role" : "Remington Stewart Mansfield",
+                     "name" : "John C. McGinley"
+                  },
+                  {
+                     "role" : "Heather",
+                     "name" : "Anna Camp"
+                  },
+                  {
+                     "role" : "Mike \"Threepeat\" Wen",
+                     "name" : "Rene Gube"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Gail Mancuso"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "subTitle" : {
+               "da" : "The New Office"
+            },
+            "previously_shown" : "zulu.tv2.dk|2018-02-20 02:40:00",
+            "stop" : "1522806600"
+         },
+         {
+            "start" : "1522806600",
+            "rating" : {
+               "stars" : "6.7 / 9"
+            },
+            "title" : {
+               "da" : "The Following"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=258744&seasonid=564551&id=4691086&lid=8"
+            ],
+            "new" : null,
+            "date" : "2013",
+            "episodeNum" : {
+               "thetvdb.com" : "series/258744",
+               "onscreen" : "Afsnit 2 s\u00e6son 2",
+               "xmltv_ns" : "1 . 1 ."
+            },
+            "channel" : "zulu.tv2.dk",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Kyle Catlett",
+                     "role" : "Joey Matthews"
+                  },
+                  {
+                     "role" : "Jacob Wells",
+                     "name" : "Nico Tortorella"
+                  },
+                  {
+                     "role" : "Lily Gray",
+                     "name" : "Connie Nielsen"
+                  },
+                  {
+                     "role" : "Roderick",
+                     "name" : "Warren Kole"
+                  },
+                  {
+                     "name" : "Valorie Curry",
+                     "role" : "Emma Hill"
+                  },
+                  {
+                     "name" : "Annie Parisse",
+                     "role" : "Debra Parker"
+                  },
+                  {
+                     "role" : "Joe Carroll",
+                     "name" : "James Purefoy"
+                  },
+                  {
+                     "role" : "Theo",
+                     "name" : "Michael Ealy"
+                  },
+                  {
+                     "name" : "Natalie Zea",
+                     "role" : "Claire Matthews"
+                  },
+                  {
+                     "role" : "Kyle",
+                     "name" : "Hunter Parrish"
+                  },
+                  {
+                     "role" : "Mandy Lang",
+                     "name" : "Tiffany Boone"
+                  },
+                  {
+                     "name" : "Jessica Stroup",
+                     "role" : "Max Hardy"
+                  },
+                  {
+                     "role" : "Mike Weston",
+                     "name" : "Shawn Ashmore"
+                  },
+                  {
+                     "role" : "Ryan Hardy",
+                     "name" : "Kevin Bacon"
+                  },
+                  {
+                     "role" : "Molly",
+                     "name" : "Jennifer Ferrin"
+                  },
+                  {
+                     "name" : "Sam Underwood",
+                     "role" : "Mark / Luke"
+                  },
+                  {
+                     "name" : "Adan Canto",
+                     "role" : "Paul Torres"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Joshua Butler"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Kevin Williamson"
+                  },
+                  {
+                     "name" : "Vincent Angell"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Kevin Williamson"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "previously_shown" : "zulu.tv2.dk|2018-03-01 03:40:00",
+            "stop" : "1522809600",
+            "subTitle" : {
+               "da" : "For Joe"
+            }
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=258744&seasonid=564551&id=4691087&lid=8"
+            ],
+            "new" : null,
+            "date" : "2013",
+            "rating" : {
+               "stars" : "6.6 / 9"
+            },
+            "start" : "1522809600",
+            "title" : {
+               "da" : "The Following"
+            },
+            "subTitle" : {
+               "da" : "Trust Me"
+            },
+            "stop" : "1522812300",
+            "previously_shown" : "zulu.tv2.dk|2018-02-12 03:25:00",
+            "channel" : "zulu.tv2.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 2",
+               "thetvdb.com" : "series/258744",
+               "xmltv_ns" : "1 . 2 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Kevin Williamson"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Joey Matthews",
+                     "name" : "Kyle Catlett"
+                  },
+                  {
+                     "name" : "Nico Tortorella",
+                     "role" : "Jacob Wells"
+                  },
+                  {
+                     "name" : "Connie Nielsen",
+                     "role" : "Lily Gray"
+                  },
+                  {
+                     "role" : "Roderick",
+                     "name" : "Warren Kole"
+                  },
+                  {
+                     "role" : "Emma Hill",
+                     "name" : "Valorie Curry"
+                  },
+                  {
+                     "role" : "Debra Parker",
+                     "name" : "Annie Parisse"
+                  },
+                  {
+                     "role" : "Joe Carroll",
+                     "name" : "James Purefoy"
+                  },
+                  {
+                     "name" : "Michael Ealy",
+                     "role" : "Theo"
+                  },
+                  {
+                     "role" : "Claire Matthews",
+                     "name" : "Natalie Zea"
+                  },
+                  {
+                     "name" : "Hunter Parrish",
+                     "role" : "Kyle"
+                  },
+                  {
+                     "role" : "Mandy Lang",
+                     "name" : "Tiffany Boone"
+                  },
+                  {
+                     "name" : "Jessica Stroup",
+                     "role" : "Max Hardy"
+                  },
+                  {
+                     "role" : "Mike Weston",
+                     "name" : "Shawn Ashmore"
+                  },
+                  {
+                     "role" : "Ryan Hardy",
+                     "name" : "Kevin Bacon"
+                  },
+                  {
+                     "role" : "Molly",
+                     "name" : "Jennifer Ferrin"
+                  },
+                  {
+                     "name" : "Sam Underwood",
+                     "role" : "Mark / Luke"
+                  },
+                  {
+                     "role" : "Paul Torres",
+                     "name" : "Adan Canto"
+                  },
+                  {
+                     "name" : "Carrie Preston"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Liz Friedlander"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Alexi Hawley"
+                  }
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "channel" : "zulu.tv2.dk",
+            "stop" : "1522814400",
+            "title" : {
+               "da" : "Dybvaaaaad!"
+            },
+            "desc" : {
+               "da" : "Tobias Dybvad kommer med knivskarpe jokes om kendisser og realitystjerner, som du har set i dit tv. De bliver snittet op og \u00e6dt r\u00e5t af manden, der leverer de hoarste jokes og parodier p\u00e5 de t\u00e5beligste tv-momenter. (12:12)"
+            },
+            "start" : "1522812300",
+            "date" : "2014",
+            "new" : null
+         },
+         {
+            "desc" : {
+               "da" : "'Dybvaaaaad'-redaktionen har set masser af tv for din skyld og kan nu pr\u00e6sentere sjette s\u00e6son af det popul\u00e6re stand-up-show. Intet eller ingen er helligt, s\u00e5 alle tv-personligheder, realitystjerner og tv-koncepter kan risikere at komme under k\u00e6rlig behandling af Tobias Dybvad. (1:12)"
+            },
+            "start" : "1522814400",
+            "title" : {
+               "da" : "Dybvaaaaad!"
+            },
+            "new" : null,
+            "date" : "2015",
+            "channel" : "zulu.tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "stop" : "1522816800"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "channel" : "zulu.tv2.dk",
+            "stop" : "1522818300",
+            "title" : {
+               "da" : "Dybvaaaaad!"
+            },
+            "start" : "1522816800",
+            "desc" : {
+               "da" : "'Dybvaaaaad'-redaktionen har set masser af tv for din skyld og kan nu pr\u00e6sentere sjette s\u00e6son af det popul\u00e6re stand-up-show. Intet eller ingen er helligt, s\u00e5 alle tv-personligheder, realitystjerner og tv-koncepter kan risikere at komme under k\u00e6rlig behandling af Tobias Dybvad. (2:12)"
+            },
+            "date" : "2015",
+            "new" : null
+         },
+         {
+            "title" : {
+               "da" : "Glee"
+            },
+            "desc" : {
+               "da" : "Will og Coach Beiste beordrer skolens fodboldspillere til at samarbejde med Glee Club i en uge, i et fors\u00f8g p\u00e5 at lette stemningen mellem Finn og de andre kormedlemmer. Samtidig s\u00e6tter Sue sine Cheerios i en vanskelig position, da hun tvinger dem til at v\u00e6lge mellem sang og cheerleading."
+            },
+            "rating" : {
+               "stars" : "6.8 / 9"
+            },
+            "start" : "1522818300",
+            "date" : "2009",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=83610&seasonid=284901&id=3302451&lid=8"
+            ],
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Ian Brennan"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Brad Falchuk"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Noah \"Puck\" Puckerman",
+                     "name" : "Mark Salling"
+                  },
+                  {
+                     "name" : "Chord Overstreet",
+                     "role" : "Sam Evans"
+                  },
+                  {
+                     "name" : "Jessalyn Gilsig",
+                     "role" : "Terri Schuester"
+                  },
+                  {
+                     "role" : "Jake Puckerman",
+                     "name" : "Jacob Artist"
+                  },
+                  {
+                     "name" : "Laura Dreyfuss",
+                     "role" : "Madison McCarthy"
+                  },
+                  {
+                     "name" : "Jayma Mays",
+                     "role" : "Emma Pillsbury"
+                  },
+                  {
+                     "name" : "Grant Gustin",
+                     "role" : "Sebastian Smythe"
+                  },
+                  {
+                     "name" : "Becca Tobin",
+                     "role" : "Kitty Wilde"
+                  },
+                  {
+                     "role" : "Brittany S. Pierce",
+                     "name" : "Heather Morris"
+                  },
+                  {
+                     "role" : "Marley Rose",
+                     "name" : "Melissa Benoist"
+                  },
+                  {
+                     "role" : "Mike Chang",
+                     "name" : "Harry Shum Jr."
+                  },
+                  {
+                     "name" : "Marshall Williams",
+                     "role" : "Spencer Porter"
+                  },
+                  {
+                     "role" : "Jane Hayward",
+                     "name" : "Samantha Marie Ware"
+                  },
+                  {
+                     "name" : "Jenna Ushkowitz",
+                     "role" : "Tina Cohen-Chang"
+                  },
+                  {
+                     "role" : "Becky Jackson",
+                     "name" : "Lauren Potter"
+                  },
+                  {
+                     "name" : "Damian McGinty",
+                     "role" : "Rory Flanagan"
+                  },
+                  {
+                     "name" : "Cory Monteith",
+                     "role" : "Finn Hudson"
+                  },
+                  {
+                     "role" : "Mason McCarthy",
+                     "name" : "Billy Lewis Jr."
+                  },
+                  {
+                     "name" : "Dot Marie Jones",
+                     "role" : "Shannon Beiste"
+                  },
+                  {
+                     "name" : "Iqbal Theba",
+                     "role" : "Principal Figgins"
+                  },
+                  {
+                     "role" : "Wade \"Unique\" Adams",
+                     "name" : "Alex Newell"
+                  },
+                  {
+                     "name" : "Romy Rosemont",
+                     "role" : "Carole Hudson"
+                  },
+                  {
+                     "role" : "Sue Sylvester",
+                     "name" : "Jane Lynch"
+                  },
+                  {
+                     "name" : "Noah Guthrie",
+                     "role" : "Roderick Meeks"
+                  },
+                  {
+                     "role" : "Ryder Lynn",
+                     "name" : "Blake Jenner"
+                  },
+                  {
+                     "role" : "Burt Hummel",
+                     "name" : "Mike O'Malley"
+                  },
+                  {
+                     "role" : "Blaine Anderson",
+                     "name" : "Darren Criss"
+                  },
+                  {
+                     "name" : "Naya Rivera",
+                     "role" : "Santana Lopez"
+                  },
+                  {
+                     "name" : "Matthew Morrison",
+                     "role" : "William \"Will\" Schuester"
+                  },
+                  {
+                     "role" : "Mercedes Jones",
+                     "name" : "Amber Riley"
+                  },
+                  {
+                     "name" : "Lea Michele",
+                     "role" : "Rachel Berry"
+                  },
+                  {
+                     "name" : "Dianna Agron",
+                     "role" : "Quinn Fabray"
+                  },
+                  {
+                     "role" : "Brody Weston",
+                     "name" : "Dean Geyer"
+                  },
+                  {
+                     "role" : "Jesse St James",
+                     "name" : "Jonathan Groff"
+                  },
+                  {
+                     "role" : "Artie Abrams",
+                     "name" : "Kevin McHale"
+                  },
+                  {
+                     "role" : "Dave Karofsky",
+                     "name" : "Max Adler"
+                  },
+                  {
+                     "role" : "Jeff Sterling",
+                     "name" : "Riker Lynch"
+                  },
+                  {
+                     "name" : "Charice Pempengco",
+                     "role" : "Sunshine Corazon"
+                  },
+                  {
+                     "name" : "Chris Colfer",
+                     "role" : "Kurt Hummel"
+                  },
+                  {
+                     "name" : "Katie Couric"
+                  },
+                  {
+                     "name" : "Iqbal Theba"
+                  },
+                  {
+                     "name" : "Dot-Marie Jones"
+                  },
+                  {
+                     "name" : "Romy Rosemont"
+                  },
+                  {
+                     "name" : "Harry Shum Jr."
+                  },
+                  {
+                     "name" : "Chord Overstreet"
+                  },
+                  {
+                     "name" : "Darren Criss"
+                  },
+                  {
+                     "name" : "Telly Leung"
+                  },
+                  {
+                     "name" : "Max Adler"
+                  },
+                  {
+                     "name" : "James Earl"
+                  },
+                  {
+                     "name" : "Scott Lincoln"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy",
+                  "Drama"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 10 .",
+               "onscreen" : "Afsnit 11 s\u00e6son 2",
+               "thetvdb.com" : "series/83610"
+            },
+            "channel" : "zulu.tv2.dk",
+            "stop" : "1522821600",
+            "previously_shown" : "zulu.tv2.dk|2018-04-03 12:50:00",
+            "subTitle" : {
+               "da" : "The Sue Sylvester Shuffle"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Will & Grace"
+            },
+            "rating" : {
+               "stars" : "7.9 / 9"
+            },
+            "start" : "1522821600",
+            "date" : "1998",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=71814&seasonid=3029&id=60803&lid=8"
+            ],
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Alex Herschlag"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "James Burrows"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Shelley Morrison",
+                     "role" : "Rosario Salazar"
+                  },
+                  {
+                     "role" : "Marilyn Truman",
+                     "name" : "Blythe Danner"
+                  },
+                  {
+                     "role" : "Elliot",
+                     "name" : "Michael Angarano"
+                  },
+                  {
+                     "name" : "Debbie Reynolds",
+                     "role" : "Bobbie Adler"
+                  },
+                  {
+                     "name" : "Leslie Jordan",
+                     "role" : "Beverley Leslie"
+                  },
+                  {
+                     "role" : "George Truman",
+                     "name" : "Sydney Pollack"
+                  },
+                  {
+                     "name" : "Bobby Cannavale",
+                     "role" : "Vince D'Angelo"
+                  },
+                  {
+                     "role" : "Karen Walker",
+                     "name" : "Megan Mullally"
+                  },
+                  {
+                     "name" : "Debra Messing",
+                     "role" : "Grace Adler"
+                  },
+                  {
+                     "name" : "Minnie Driver",
+                     "role" : "Lorraine Finster"
+                  },
+                  {
+                     "role" : "Jack McFarland",
+                     "name" : "Sean Hayes"
+                  },
+                  {
+                     "name" : "Harry Connick Jr.",
+                     "role" : "Leo Markus"
+                  },
+                  {
+                     "role" : "Will Truman",
+                     "name" : "Eric McCormack"
+                  },
+                  {
+                     "name" : "Natasha Lyonne"
+                  },
+                  {
+                     "name" : "Henriette Mantel"
+                  },
+                  {
+                     "name" : "Louis Giovannetti"
+                  },
+                  {
+                     "name" : "Christopher Darga"
+                  },
+                  {
+                     "name" : "Megan Cavanaugh"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "David Kohan"
+                  },
+                  {
+                     "name" : "Max Mutchnick"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/71814",
+               "onscreen" : "Afsnit 4 s\u00e6son 3",
+               "xmltv_ns" : "2 . 3 ."
+            },
+            "channel" : "zulu.tv2.dk",
+            "previously_shown" : "zulu.tv2.dk|2018-04-03 06:25:00",
+            "stop" : "1522823100",
+            "subTitle" : {
+               "da" : "Girl Trouble"
+            }
+         },
+         {
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Rosario Salazar",
+                     "name" : "Shelley Morrison"
+                  },
+                  {
+                     "role" : "Marilyn Truman",
+                     "name" : "Blythe Danner"
+                  },
+                  {
+                     "name" : "Michael Angarano",
+                     "role" : "Elliot"
+                  },
+                  {
+                     "name" : "Debbie Reynolds",
+                     "role" : "Bobbie Adler"
+                  },
+                  {
+                     "role" : "Beverley Leslie",
+                     "name" : "Leslie Jordan"
+                  },
+                  {
+                     "name" : "Sydney Pollack",
+                     "role" : "George Truman"
+                  },
+                  {
+                     "role" : "Vince D'Angelo",
+                     "name" : "Bobby Cannavale"
+                  },
+                  {
+                     "name" : "Megan Mullally",
+                     "role" : "Karen Walker"
+                  },
+                  {
+                     "role" : "Grace Adler",
+                     "name" : "Debra Messing"
+                  },
+                  {
+                     "role" : "Lorraine Finster",
+                     "name" : "Minnie Driver"
+                  },
+                  {
+                     "role" : "Jack McFarland",
+                     "name" : "Sean Hayes"
+                  },
+                  {
+                     "name" : "Harry Connick Jr.",
+                     "role" : "Leo Markus"
+                  },
+                  {
+                     "role" : "Will Truman",
+                     "name" : "Eric McCormack"
+                  },
+                  {
+                     "name" : "Troy Morton"
+                  },
+                  {
+                     "name" : "Jeremy Forte"
+                  },
+                  {
+                     "name" : "Wil Bowers"
+                  },
+                  {
+                     "name" : "Jason Stuart"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "James Burrows"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Jon Kinnally"
+                  },
+                  {
+                     "name" : "Tracy Poust"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "David Kohan"
+                  },
+                  {
+                     "name" : "Max Mutchnick"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 s\u00e6son 3",
+               "thetvdb.com" : "series/71814",
+               "xmltv_ns" : "2 . 4 ."
+            },
+            "channel" : "zulu.tv2.dk",
+            "stop" : "1522824900",
+            "subTitle" : {
+               "da" : "Grace 0, Jack 2000"
+            },
+            "title" : {
+               "da" : "Will & Grace"
+            },
+            "start" : "1522823100",
+            "rating" : {
+               "stars" : "7.9 / 9"
+            },
+            "date" : "1998",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=71814&seasonid=3029&id=60804&lid=8"
+            ],
+            "new" : null
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "series"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Brandon Walsh",
+                     "name" : "Jason Priestley"
+                  },
+                  {
+                     "name" : "Jennie Garth",
+                     "role" : "Kelly Taylor"
+                  },
+                  {
+                     "role" : "Dylan McKay",
+                     "name" : "Luke Perry"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "5 . 142 .",
+               "onscreen" : "Afsnit 143 s\u00e6son 6"
+            },
+            "channel" : "zulu.tv2.dk",
+            "previously_shown" : "zulu.tv2.dk|2018-04-03 08:30:00",
+            "stop" : "1522828200",
+            "subTitle" : {
+               "da" : "Home Is Where The Tart Is"
+            },
+            "title" : {
+               "da" : "Beverly Hills 90210"
+            },
+            "start" : "1522824900",
+            "desc" : {
+               "da" : "Alle vennerne fra Beverly Hills er tilbage efter en lang sommerferie. Kelly har fundet sig en ny k\u00e6reste, kunstmaleren Colin Robbins. Derfor afviser hun Dylan, der nu er p\u00e5 jagt efter sin fars morder. Brandon st\u00e5r med et n\u00e6sten tomt hus - bortset fra Valerie og hendes nye veninde Ginger, der hele tiden spiller op til narrestreger. Da de alle sammen er til fest hos Donnas mor, forsvinder en smuk v\u00e6rdifuld ring - men hvem har stj\u00e5let den?"
+            },
+            "date" : "1995",
+            "new" : null
+         },
+         {
+            "desc" : {
+               "da" : "Alle mist\u00e6nker Ray for at st\u00e5 bag tyverierne, som efterh\u00e5nden tager til blandt vennerne i Beverly Hills. Donna er den eneste, der bakker Ray op, men da de tropper op til Kellys f\u00f8dselsdag, er stemningen blandt vennerne trykket. Samtidig er Kelly s\u00e5ret over, at hendes nye ven Colin glimrer ved sit frav\u00e6r. Men m\u00e5ske kan gaverne lette p\u00e5 stemningen?"
+            },
+            "start" : "1522828200",
+            "title" : {
+               "da" : "Beverly Hills 90210"
+            },
+            "new" : null,
+            "date" : "1995",
+            "episodeNum" : {
+               "xmltv_ns" : "5 . 143 .",
+               "onscreen" : "Afsnit 144 s\u00e6son 6"
+            },
+            "channel" : "zulu.tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "series"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Brandon Walsh",
+                     "name" : "Jason Priestley"
+                  },
+                  {
+                     "name" : "Jennie Garth",
+                     "role" : "Kelly Taylor"
+                  },
+                  {
+                     "name" : "Luke Perry",
+                     "role" : "Dylan McKay"
+                  }
+               ]
+            },
+            "previously_shown" : "zulu.tv2.dk|2018-04-03 09:25:00",
+            "stop" : "1522830900",
+            "subTitle" : {
+               "da" : "Buffalo Girls"
+            }
+         },
+         {
+            "new" : null,
+            "date" : "1995",
+            "desc" : {
+               "da" : "P\u00e5 \u00e5rets f\u00f8rste skoledag st\u00f8der Brandon ind i Dylan. Men Dylan har ikke t\u00e6nkt sig at ende p\u00e5 skoleb\u00e6nken. Han vil derimod i kontakt med pigen Toni, der kan f\u00f8re ham ind p\u00e5 livet af hans fars morder. Brandon k\u00e6mper ind\u00e6dt for at komme til at skrive klummer under bladets nye redakt\u00f8r, Susan. Og der venter Kelly en ubehagelig overraskelse, da hun introducerer sin nye k\u00e6reste, Colin. Valerie og Colin kender nemlig hinanden."
+            },
+            "start" : "1522830900",
+            "title" : {
+               "da" : "Beverly Hills 90210"
+            },
+            "stop" : "1522833900",
+            "subTitle" : {
+               "da" : "Must Be a Guy Thing"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 145 s\u00e6son 6",
+               "xmltv_ns" : "5 . 144 ."
+            },
+            "channel" : "zulu.tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "series"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Brandon Walsh",
+                     "name" : "Jason Priestley"
+                  },
+                  {
+                     "name" : "Jennie Garth",
+                     "role" : "Kelly Taylor"
+                  },
+                  {
+                     "name" : "Luke Perry",
+                     "role" : "Dylan McKay"
+                  }
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "B\u00e5de Dylans forhold til Toni Marchette og Brandons forhold til Susan udvikler sig, mens de andre piger er optaget af en sk\u00f8nhedskonkurrence. Valerie har held med at smigre Colin, mens han er ved at male en mur i hendes natklub. Men hvad sker der, n\u00e5r Kelly opdager Valeries bedrag?"
+            },
+            "start" : "1522833900",
+            "title" : {
+               "da" : "Beverly Hills 90210"
+            },
+            "new" : null,
+            "date" : "1995",
+            "episodeNum" : {
+               "xmltv_ns" : "5 . 145 .",
+               "onscreen" : "Afsnit 146 s\u00e6son 6"
+            },
+            "channel" : "zulu.tv2.dk",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Jason Priestley",
+                     "role" : "Brandon Walsh"
+                  },
+                  {
+                     "name" : "Jennie Garth",
+                     "role" : "Kelly Taylor"
+                  },
+                  {
+                     "role" : "Dylan McKay",
+                     "name" : "Luke Perry"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "series"
+               ]
+            },
+            "stop" : "1522836900",
+            "subTitle" : {
+               "da" : "Everything's Coming Up Roses"
+            }
+         },
+         {
+            "date" : "1998",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=76648&seasonid=10994&id=205768&lid=8"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "Sex and the City"
+            },
+            "start" : "1522836900",
+            "rating" : {
+               "stars" : "6.3 / 9"
+            },
+            "desc" : {
+               "da" : "Samantha st\u00f8der ind i en gammel k\u00e6reste, der nu er dragqueen. Carrie fors\u00f8ger at \u00e6ndre p\u00e5 nogle af Bigs irriterende vaner, og Charlotte begynder at date en omsk\u00e5ret mand."
+            },
+            "subTitle" : {
+               "da" : "Old Dogs, New Dicks"
+            },
+            "stop" : "1522839000",
+            "previously_shown" : "zulu.tv2.dk|2018-02-11 12:20:00",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Jenny Bicks"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Samantha Jones",
+                     "name" : "Kim Cattrall"
+                  },
+                  {
+                     "name" : "Sarah Jessica Parker",
+                     "role" : "Carrie Bradshaw"
+                  },
+                  {
+                     "name" : "Kristin Davis",
+                     "role" : "Charlotte York-Goldenblatt"
+                  },
+                  {
+                     "name" : "Cynthia Nixon",
+                     "role" : "Miranda Hobbes"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Alan Taylor"
+                  }
+               ]
+            },
+            "channel" : "zulu.tv2.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 8 .",
+               "onscreen" : "Afsnit 9 s\u00e6son 2",
+               "thetvdb.com" : "series/76648"
+            }
+         },
+         {
+            "previously_shown" : "zulu.tv2.dk|2018-02-11 12:50:00",
+            "stop" : "1522840800",
+            "subTitle" : {
+               "da" : "The Caste System"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 9 .",
+               "onscreen" : "Afsnit 10 s\u00e6son 2",
+               "thetvdb.com" : "series/76648"
+            },
+            "channel" : "zulu.tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Darren Star"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Kim Cattrall",
+                     "role" : "Samantha Jones"
+                  },
+                  {
+                     "name" : "Sarah Jessica Parker",
+                     "role" : "Carrie Bradshaw"
+                  },
+                  {
+                     "name" : "Kristin Davis",
+                     "role" : "Charlotte York-Goldenblatt"
+                  },
+                  {
+                     "role" : "Miranda Hobbes",
+                     "name" : "Cynthia Nixon"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Allison Anders"
+                  }
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=76648&seasonid=10994&id=205769&lid=8"
+            ],
+            "new" : null,
+            "date" : "1998",
+            "rating" : {
+               "stars" : "6 / 9"
+            },
+            "desc" : {
+               "da" : "Veninderne f\u00e5r indblik i kl\u00f8ften mellem rig og fattig, da Miranda m\u00e5 forsikre sin k\u00e6reste om, at deres \u00f8konomiske forskelle ikke er et problem, og Samantha m\u00f8der sin megarige dates tjener."
+            },
+            "start" : "1522839000",
+            "title" : {
+               "da" : "Sex and the City"
+            }
+         },
+         {
+            "date" : "2004",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=73800&seasonid=34332&id=419188&lid=8"
+            ],
+            "title" : {
+               "da" : "Desperate Housewives"
+            },
+            "rating" : {
+               "stars" : "6.2 / 9"
+            },
+            "desc" : {
+               "da" : "Uheldig som Susan altid er, kommer hun og Edie til at l\u00e5se sig inde i Edies k\u00e6lder, og tvinges dermed til at tilbringe de n\u00e6ste par timer i hinandens selskab. Noget som virkelig kan f\u00e5 sandhederne p\u00e5 bordet. Gabrielle mister kontrollen over sine to b\u00f8rn og beder Carlos om hj\u00e6lp, mens Lynette ligeledes har nok at se til i hendes s\u00f8gen efter den forsvundne Porter. Alt imens kommer Dave et skridt n\u00e6rmere sin h\u00e6vn."
+            },
+            "start" : "1522840800",
+            "subTitle" : {
+               "da" : "Connect! Connect!"
+            },
+            "previously_shown" : "zulu.tv2.dk|2018-04-03 12:00:00",
+            "stop" : "1522843800",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Ken Whittingham"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "James Denton",
+                     "role" : "Mike Delfino"
+                  },
+                  {
+                     "name" : "Ricardo Antonio Chavira",
+                     "role" : "Carlos Solis"
+                  },
+                  {
+                     "name" : "Kathryn Joosten",
+                     "role" : "Karen McCluskey"
+                  },
+                  {
+                     "name" : "Charles Mesure",
+                     "role" : "Ben Faulkner"
+                  },
+                  {
+                     "name" : "Josh Henderson",
+                     "role" : "Austin McCann"
+                  },
+                  {
+                     "name" : "Joshua Logan Moore",
+                     "role" : "Parker Scavo"
+                  },
+                  {
+                     "role" : "Irina Korsakov",
+                     "name" : "Helena Mattsson"
+                  },
+                  {
+                     "role" : "Sam Allen",
+                     "name" : "Sam Page"
+                  },
+                  {
+                     "name" : "Felicity Huffman",
+                     "role" : "Lynette Scavo"
+                  },
+                  {
+                     "role" : "Jane Carlson",
+                     "name" : "Andrea Parker"
+                  },
+                  {
+                     "name" : "Nicollette Sheridan",
+                     "role" : "Edie Britt"
+                  },
+                  {
+                     "role" : "Porter Scavo",
+                     "name" : "Charlie Carver"
+                  },
+                  {
+                     "name" : "Tuc Watkins",
+                     "role" : "Bob Hunter"
+                  },
+                  {
+                     "role" : "Ida Greenberg",
+                     "name" : "Pat Crawford Brown"
+                  },
+                  {
+                     "name" : "Kiersten Warren",
+                     "role" : "Nora Huntington"
+                  },
+                  {
+                     "role" : "Dave Williams",
+                     "name" : "Neal McDonough"
+                  },
+                  {
+                     "name" : "Andrea Bowen",
+                     "role" : "Julie Mayer"
+                  },
+                  {
+                     "role" : "Gabrielle Solis",
+                     "name" : "Eva Longoria"
+                  },
+                  {
+                     "role" : "Betty Applewhite",
+                     "name" : "Alfre Woodard"
+                  },
+                  {
+                     "name" : "Brenda Strong",
+                     "role" : "Mary Alice Young"
+                  },
+                  {
+                     "name" : "Cody Kasch",
+                     "role" : "Zach Young"
+                  },
+                  {
+                     "role" : "Juanita Solis",
+                     "name" : "Madison de la Garza"
+                  },
+                  {
+                     "name" : "Kyle MacLachlan",
+                     "role" : "Orson Hodge"
+                  },
+                  {
+                     "role" : "Eddie Orlofsky",
+                     "name" : "Josh Zuckerman"
+                  },
+                  {
+                     "name" : "Max Carver",
+                     "role" : "Preston Scavo"
+                  },
+                  {
+                     "role" : "Paul Young",
+                     "name" : "Mark Moses"
+                  },
+                  {
+                     "role" : "Nick Bolen",
+                     "name" : "Jeffrey Nordling"
+                  },
+                  {
+                     "role" : "Phyllis Van De Kamp",
+                     "name" : "Shirley Knight"
+                  },
+                  {
+                     "role" : "Deirdre Taylor",
+                     "name" : "Jolie Jenkins"
+                  },
+                  {
+                     "name" : "Kevin Rahm",
+                     "role" : "Lee McDermott"
+                  },
+                  {
+                     "name" : "Steven Culp",
+                     "role" : "Rex Van De Kamp"
+                  },
+                  {
+                     "name" : "Drea de Matteo",
+                     "role" : "Angie Bolen"
+                  },
+                  {
+                     "name" : "Vanessa Williams",
+                     "role" : "Renee Perry"
+                  },
+                  {
+                     "name" : "Tony Plana",
+                     "role" : "Alejandro Perez"
+                  },
+                  {
+                     "name" : "Sarah Paulson",
+                     "role" : "Lydia Lindquist"
+                  },
+                  {
+                     "name" : "John Slattery",
+                     "role" : "Victor Lang"
+                  },
+                  {
+                     "role" : "Dylan Mayfair",
+                     "name" : "Lyndsy Fonseca"
+                  },
+                  {
+                     "role" : "John Rowland",
+                     "name" : "Jesse Metcalfe"
+                  },
+                  {
+                     "role" : "Karl Mayer",
+                     "name" : "Richard Burgi"
+                  },
+                  {
+                     "name" : "Julie Benz",
+                     "role" : "Robin Gallagher"
+                  },
+                  {
+                     "role" : "Gloria Hodge",
+                     "name" : "Dixie Carter"
+                  },
+                  {
+                     "name" : "Shawn Pyfrom",
+                     "role" : "Andrew Van De Kamp"
+                  },
+                  {
+                     "name" : "Christine Estabrook",
+                     "role" : "Martha Huber"
+                  },
+                  {
+                     "role" : "Ian Hainsworth",
+                     "name" : "Dougray Scott"
+                  },
+                  {
+                     "name" : "Dana Delany",
+                     "role" : "Katherine Mayfair"
+                  },
+                  {
+                     "role" : "Felicia Tilman",
+                     "name" : "Harriet Sansom Harris"
+                  },
+                  {
+                     "name" : "Orson Bean",
+                     "role" : "Roy Bender"
+                  },
+                  {
+                     "role" : "Keith Watson",
+                     "name" : "Brian Austin Green"
+                  },
+                  {
+                     "name" : "Nathan Fillion",
+                     "role" : "Adam Mayfair"
+                  },
+                  {
+                     "role" : "Penny Scavo",
+                     "name" : "Kendall Applegate"
+                  },
+                  {
+                     "name" : "Beau Mirchoff",
+                     "role" : "Danny Bolen"
+                  },
+                  {
+                     "role" : "Danielle Van De Kamp",
+                     "name" : "Joy Lauren"
+                  },
+                  {
+                     "name" : "Valerie Mahaffey",
+                     "role" : "Alma Hodge"
+                  },
+                  {
+                     "role" : "Chuck Vance",
+                     "name" : "Jonathan Cake"
+                  },
+                  {
+                     "role" : "Caleb Applewhite",
+                     "name" : "NaShawn Kearse"
+                  },
+                  {
+                     "role" : "Ana Solis",
+                     "name" : "Maiara Walsh"
+                  },
+                  {
+                     "name" : "Teri Hatcher",
+                     "role" : "Susan Mayer"
+                  },
+                  {
+                     "role" : "Beth Young",
+                     "name" : "Emily Bergl"
+                  },
+                  {
+                     "name" : "Ryan Carnes",
+                     "role" : "Justin"
+                  },
+                  {
+                     "name" : "Mehcad Brooks",
+                     "role" : "Matthew Applewhite"
+                  },
+                  {
+                     "name" : "Doug Savant",
+                     "role" : "Tom Scavo"
+                  },
+                  {
+                     "name" : "Mason Vale Cotton",
+                     "role" : "MJ Delfino"
+                  },
+                  {
+                     "role" : "Bree Van De Kamp",
+                     "name" : "Marcia Cross"
+                  },
+                  {
+                     "name" : "Roger Bart",
+                     "role" : "George Williams"
+                  },
+                  {
+                     "role" : "Wayne Davis",
+                     "name" : "Gary Cole"
+                  },
+                  {
+                     "name" : "Madison De La Garza"
+                  },
+                  {
+                     "name" : "Daniella Baltodano"
+                  },
+                  {
+                     "name" : "Polly Bergen"
+                  },
+                  {
+                     "name" : "Todd Grinnell"
+                  },
+                  {
+                     "name" : "Joanna Cassidy"
+                  },
+                  {
+                     "name" : "Bob Ross"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Jordon Nardino"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy",
+                  "Drama",
+                  "Soap"
+               ]
+            },
+            "channel" : "zulu.tv2.dk",
+            "episodeNum" : {
+               "thetvdb.com" : "series/73800",
+               "onscreen" : "Afsnit 12 s\u00e6son 5",
+               "xmltv_ns" : "4 . 11 ."
+            }
+         },
+         {
+            "stop" : "1522846800",
+            "subTitle" : {
+               "da" : "The Best Thing That Ever Could Have Happened"
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Marc Cherry"
+                  },
+                  {
+                     "name" : "Bob Daily"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "James Denton",
+                     "role" : "Mike Delfino"
+                  },
+                  {
+                     "name" : "Ricardo Antonio Chavira",
+                     "role" : "Carlos Solis"
+                  },
+                  {
+                     "role" : "Karen McCluskey",
+                     "name" : "Kathryn Joosten"
+                  },
+                  {
+                     "role" : "Ben Faulkner",
+                     "name" : "Charles Mesure"
+                  },
+                  {
+                     "name" : "Josh Henderson",
+                     "role" : "Austin McCann"
+                  },
+                  {
+                     "name" : "Joshua Logan Moore",
+                     "role" : "Parker Scavo"
+                  },
+                  {
+                     "name" : "Helena Mattsson",
+                     "role" : "Irina Korsakov"
+                  },
+                  {
+                     "name" : "Sam Page",
+                     "role" : "Sam Allen"
+                  },
+                  {
+                     "role" : "Lynette Scavo",
+                     "name" : "Felicity Huffman"
+                  },
+                  {
+                     "role" : "Jane Carlson",
+                     "name" : "Andrea Parker"
+                  },
+                  {
+                     "name" : "Nicollette Sheridan",
+                     "role" : "Edie Britt"
+                  },
+                  {
+                     "role" : "Porter Scavo",
+                     "name" : "Charlie Carver"
+                  },
+                  {
+                     "role" : "Bob Hunter",
+                     "name" : "Tuc Watkins"
+                  },
+                  {
+                     "name" : "Pat Crawford Brown",
+                     "role" : "Ida Greenberg"
+                  },
+                  {
+                     "role" : "Nora Huntington",
+                     "name" : "Kiersten Warren"
+                  },
+                  {
+                     "role" : "Dave Williams",
+                     "name" : "Neal McDonough"
+                  },
+                  {
+                     "role" : "Julie Mayer",
+                     "name" : "Andrea Bowen"
+                  },
+                  {
+                     "role" : "Gabrielle Solis",
+                     "name" : "Eva Longoria"
+                  },
+                  {
+                     "role" : "Betty Applewhite",
+                     "name" : "Alfre Woodard"
+                  },
+                  {
+                     "name" : "Brenda Strong",
+                     "role" : "Mary Alice Young"
+                  },
+                  {
+                     "role" : "Zach Young",
+                     "name" : "Cody Kasch"
+                  },
+                  {
+                     "name" : "Madison de la Garza",
+                     "role" : "Juanita Solis"
+                  },
+                  {
+                     "role" : "Orson Hodge",
+                     "name" : "Kyle MacLachlan"
+                  },
+                  {
+                     "name" : "Josh Zuckerman",
+                     "role" : "Eddie Orlofsky"
+                  },
+                  {
+                     "name" : "Max Carver",
+                     "role" : "Preston Scavo"
+                  },
+                  {
+                     "role" : "Paul Young",
+                     "name" : "Mark Moses"
+                  },
+                  {
+                     "name" : "Jeffrey Nordling",
+                     "role" : "Nick Bolen"
+                  },
+                  {
+                     "role" : "Phyllis Van De Kamp",
+                     "name" : "Shirley Knight"
+                  },
+                  {
+                     "role" : "Deirdre Taylor",
+                     "name" : "Jolie Jenkins"
+                  },
+                  {
+                     "name" : "Kevin Rahm",
+                     "role" : "Lee McDermott"
+                  },
+                  {
+                     "role" : "Rex Van De Kamp",
+                     "name" : "Steven Culp"
+                  },
+                  {
+                     "name" : "Drea de Matteo",
+                     "role" : "Angie Bolen"
+                  },
+                  {
+                     "role" : "Renee Perry",
+                     "name" : "Vanessa Williams"
+                  },
+                  {
+                     "role" : "Alejandro Perez",
+                     "name" : "Tony Plana"
+                  },
+                  {
+                     "name" : "Sarah Paulson",
+                     "role" : "Lydia Lindquist"
+                  },
+                  {
+                     "name" : "John Slattery",
+                     "role" : "Victor Lang"
+                  },
+                  {
+                     "name" : "Lyndsy Fonseca",
+                     "role" : "Dylan Mayfair"
+                  },
+                  {
+                     "role" : "John Rowland",
+                     "name" : "Jesse Metcalfe"
+                  },
+                  {
+                     "name" : "Richard Burgi",
+                     "role" : "Karl Mayer"
+                  },
+                  {
+                     "role" : "Robin Gallagher",
+                     "name" : "Julie Benz"
+                  },
+                  {
+                     "name" : "Dixie Carter",
+                     "role" : "Gloria Hodge"
+                  },
+                  {
+                     "role" : "Andrew Van De Kamp",
+                     "name" : "Shawn Pyfrom"
+                  },
+                  {
+                     "name" : "Christine Estabrook",
+                     "role" : "Martha Huber"
+                  },
+                  {
+                     "role" : "Ian Hainsworth",
+                     "name" : "Dougray Scott"
+                  },
+                  {
+                     "name" : "Dana Delany",
+                     "role" : "Katherine Mayfair"
+                  },
+                  {
+                     "role" : "Felicia Tilman",
+                     "name" : "Harriet Sansom Harris"
+                  },
+                  {
+                     "name" : "Orson Bean",
+                     "role" : "Roy Bender"
+                  },
+                  {
+                     "role" : "Keith Watson",
+                     "name" : "Brian Austin Green"
+                  },
+                  {
+                     "name" : "Nathan Fillion",
+                     "role" : "Adam Mayfair"
+                  },
+                  {
+                     "name" : "Kendall Applegate",
+                     "role" : "Penny Scavo"
+                  },
+                  {
+                     "role" : "Danny Bolen",
+                     "name" : "Beau Mirchoff"
+                  },
+                  {
+                     "role" : "Danielle Van De Kamp",
+                     "name" : "Joy Lauren"
+                  },
+                  {
+                     "role" : "Alma Hodge",
+                     "name" : "Valerie Mahaffey"
+                  },
+                  {
+                     "name" : "Jonathan Cake",
+                     "role" : "Chuck Vance"
+                  },
+                  {
+                     "role" : "Caleb Applewhite",
+                     "name" : "NaShawn Kearse"
+                  },
+                  {
+                     "name" : "Maiara Walsh",
+                     "role" : "Ana Solis"
+                  },
+                  {
+                     "name" : "Teri Hatcher",
+                     "role" : "Susan Mayer"
+                  },
+                  {
+                     "name" : "Emily Bergl",
+                     "role" : "Beth Young"
+                  },
+                  {
+                     "role" : "Justin",
+                     "name" : "Ryan Carnes"
+                  },
+                  {
+                     "name" : "Mehcad Brooks",
+                     "role" : "Matthew Applewhite"
+                  },
+                  {
+                     "name" : "Doug Savant",
+                     "role" : "Tom Scavo"
+                  },
+                  {
+                     "name" : "Mason Vale Cotton",
+                     "role" : "MJ Delfino"
+                  },
+                  {
+                     "name" : "Marcia Cross",
+                     "role" : "Bree Van De Kamp"
+                  },
+                  {
+                     "role" : "George Williams",
+                     "name" : "Roger Bart"
+                  },
+                  {
+                     "role" : "Wayne Davis",
+                     "name" : "Gary Cole"
+                  },
+                  {
+                     "name" : "Beau Bridges"
+                  },
+                  {
+                     "name" : "Christine Estabrook"
+                  },
+                  {
+                     "name" : "Kathryn Joosten"
+                  },
+                  {
+                     "name" : "Lucille Soong"
+                  },
+                  {
+                     "name" : "Steven Culp"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Larry Shaw"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy",
+                  "Drama",
+                  "Soap"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "4 . 12 .",
+               "thetvdb.com" : "series/73800",
+               "onscreen" : "Afsnit 13 s\u00e6son 5"
+            },
+            "channel" : "zulu.tv2.dk",
+            "date" : "2004",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=73800&seasonid=34332&id=419189&lid=8"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "Desperate Housewives"
+            },
+            "rating" : {
+               "stars" : "6.7 / 9"
+            },
+            "start" : "1522843800",
+            "desc" : {
+               "da" : "Wisteria Lane rammes h\u00e5rdt af et d\u00f8dsfald, da kvarterets handyman Eli Scruggs (Beau Bridges) pludselig falder om af et hjerteanfald, og samtlige af de desperate kvinder mindes, hvordan han hver is\u00e6r har hjulpet dem i medgang og modgang. Gabrielle husker, hvordan han hjalp hende med at f\u00e5 nye veninder, da hun flyttede til Wisteria Lane, Susan mindes, hvordan han altid stod parat med en tr\u00f8stende skulder, n\u00e5r hun blev droppet af en af sine m\u00e6nd, og Lynette t\u00e6nker tilbage p\u00e5, hvordan han hjalp hende i forhold til Penny."
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Silly Love Songs"
+            },
+            "stop" : "1522849500",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Ryan Murphy"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Noah \"Puck\" Puckerman",
+                     "name" : "Mark Salling"
+                  },
+                  {
+                     "name" : "Chord Overstreet",
+                     "role" : "Sam Evans"
+                  },
+                  {
+                     "name" : "Jessalyn Gilsig",
+                     "role" : "Terri Schuester"
+                  },
+                  {
+                     "name" : "Jacob Artist",
+                     "role" : "Jake Puckerman"
+                  },
+                  {
+                     "role" : "Madison McCarthy",
+                     "name" : "Laura Dreyfuss"
+                  },
+                  {
+                     "role" : "Emma Pillsbury",
+                     "name" : "Jayma Mays"
+                  },
+                  {
+                     "name" : "Grant Gustin",
+                     "role" : "Sebastian Smythe"
+                  },
+                  {
+                     "role" : "Kitty Wilde",
+                     "name" : "Becca Tobin"
+                  },
+                  {
+                     "role" : "Brittany S. Pierce",
+                     "name" : "Heather Morris"
+                  },
+                  {
+                     "name" : "Melissa Benoist",
+                     "role" : "Marley Rose"
+                  },
+                  {
+                     "role" : "Mike Chang",
+                     "name" : "Harry Shum Jr."
+                  },
+                  {
+                     "name" : "Marshall Williams",
+                     "role" : "Spencer Porter"
+                  },
+                  {
+                     "role" : "Jane Hayward",
+                     "name" : "Samantha Marie Ware"
+                  },
+                  {
+                     "name" : "Jenna Ushkowitz",
+                     "role" : "Tina Cohen-Chang"
+                  },
+                  {
+                     "name" : "Lauren Potter",
+                     "role" : "Becky Jackson"
+                  },
+                  {
+                     "name" : "Damian McGinty",
+                     "role" : "Rory Flanagan"
+                  },
+                  {
+                     "role" : "Finn Hudson",
+                     "name" : "Cory Monteith"
+                  },
+                  {
+                     "role" : "Mason McCarthy",
+                     "name" : "Billy Lewis Jr."
+                  },
+                  {
+                     "role" : "Shannon Beiste",
+                     "name" : "Dot Marie Jones"
+                  },
+                  {
+                     "name" : "Iqbal Theba",
+                     "role" : "Principal Figgins"
+                  },
+                  {
+                     "role" : "Wade \"Unique\" Adams",
+                     "name" : "Alex Newell"
+                  },
+                  {
+                     "name" : "Romy Rosemont",
+                     "role" : "Carole Hudson"
+                  },
+                  {
+                     "name" : "Jane Lynch",
+                     "role" : "Sue Sylvester"
+                  },
+                  {
+                     "role" : "Roderick Meeks",
+                     "name" : "Noah Guthrie"
+                  },
+                  {
+                     "name" : "Blake Jenner",
+                     "role" : "Ryder Lynn"
+                  },
+                  {
+                     "name" : "Mike O'Malley",
+                     "role" : "Burt Hummel"
+                  },
+                  {
+                     "role" : "Blaine Anderson",
+                     "name" : "Darren Criss"
+                  },
+                  {
+                     "name" : "Naya Rivera",
+                     "role" : "Santana Lopez"
+                  },
+                  {
+                     "role" : "William \"Will\" Schuester",
+                     "name" : "Matthew Morrison"
+                  },
+                  {
+                     "role" : "Mercedes Jones",
+                     "name" : "Amber Riley"
+                  },
+                  {
+                     "name" : "Lea Michele",
+                     "role" : "Rachel Berry"
+                  },
+                  {
+                     "name" : "Dianna Agron",
+                     "role" : "Quinn Fabray"
+                  },
+                  {
+                     "role" : "Brody Weston",
+                     "name" : "Dean Geyer"
+                  },
+                  {
+                     "role" : "Jesse St James",
+                     "name" : "Jonathan Groff"
+                  },
+                  {
+                     "name" : "Kevin McHale",
+                     "role" : "Artie Abrams"
+                  },
+                  {
+                     "name" : "Max Adler",
+                     "role" : "Dave Karofsky"
+                  },
+                  {
+                     "name" : "Riker Lynch",
+                     "role" : "Jeff Sterling"
+                  },
+                  {
+                     "role" : "Sunshine Corazon",
+                     "name" : "Charice Pempengco"
+                  },
+                  {
+                     "name" : "Chris Colfer",
+                     "role" : "Kurt Hummel"
+                  },
+                  {
+                     "name" : "Dot-Marie Jones"
+                  },
+                  {
+                     "name" : "Harry Shum Jr."
+                  },
+                  {
+                     "name" : "Chord Overstreet"
+                  },
+                  {
+                     "name" : "Darren Criss"
+                  },
+                  {
+                     "name" : "Ashley Fink"
+                  },
+                  {
+                     "name" : "Alexander Nifong"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Tate Donovan"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy",
+                  "Drama"
+               ]
+            },
+            "channel" : "zulu.tv2.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 12 s\u00e6son 2",
+               "thetvdb.com" : "series/83610",
+               "xmltv_ns" : "1 . 11 ."
+            },
+            "date" : "2009",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=83610&seasonid=284901&id=3302461&lid=8"
+            ],
+            "title" : {
+               "da" : "Glee"
+            },
+            "rating" : {
+               "stars" : "6.5 / 9"
+            },
+            "desc" : {
+               "da" : "Valentinsdag n\u00e6rmer sig, og Finn, der er fuld af selvtillid efter at have vundet distriktsmesterskabet, s\u00e6tter en kyssebod op for at tiltr\u00e6kke en gammel flamme. I mellemtiden tror Kurt fejlagtigt, at Blaine har f\u00f8lelser for ham, og Will beder Glee Club om at synge ber\u00f8mte k\u00e6rlighedssange."
+            },
+            "start" : "1522846800"
+         },
+         {
+            "new" : null,
+            "date" : "2017",
+            "start" : "1522849500",
+            "desc" : {
+               "da" : "'Herning, er I klar til jokes?' Se med fra det midtjyske, n\u00e5r Tobias Dybvad k\u00e6rligt og \u00e6rligt deler ud af parodier, sketches og satire om tv-koncepter og realitystjerner - fra Herning."
+            },
+            "title" : {
+               "da" : "Dybvaaaaad!"
+            },
+            "stop" : "1522851600",
+            "channel" : "zulu.tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            }
+         },
+         {
+            "start" : "1522851600",
+            "desc" : {
+               "da" : "Tobias Dybvad fink\u00e6mmer tv-programmerne og finder de sjoveste klip, som han pr\u00e6senterer for dig - som s\u00e6dvanlig med en god portion humor, parodier og sarkasme. 'Dybvaaaaad'-touren er denne gang landet i Horsens."
+            },
+            "title" : {
+               "da" : "Dybvaaaaad!"
+            },
+            "new" : null,
+            "date" : "2017",
+            "channel" : "zulu.tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "stop" : "1522853400"
+         },
+         {
+            "title" : {
+               "da" : "N\u00f8rgaards netfix"
+            },
+            "desc" : {
+               "da" : "Martin N\u00f8rgaard kommer med jokes, satire og bidende pointer p\u00e5 alt hvad vi elsker at hade ved de sociale medier, fra internettrends til t\u00e5belige facebookupdates. Som altid dykker vi ned i dybet af dumme debatter p\u00e5 de sociale medier og i dette afsnit tager vi fat p\u00e5 internettets smukkeste omr\u00e5de: scams, fup og netfiduser. F\u00e5 svar p\u00e5 om der virkelig findes Nigerianere, der har en million arv til dig?"
+            },
+            "start" : "1522853400",
+            "date" : "2014",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "channel" : "zulu.tv2.dk",
+            "stop" : "1522855200"
+         },
+         {
+            "previously_shown" : "zulu.tv2.dk|2018-02-17 14:25:00",
+            "stop" : "1522856700",
+            "subTitle" : {
+               "da" : "Julia Rogerts"
+            },
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Seth MacFarlane"
+                  },
+                  {
+                     "name" : "Mike Barker"
+                  },
+                  {
+                     "name" : "Matt Weitzman"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "12 . 128 .",
+               "onscreen" : "Afsnit 129 s\u00e6son 13"
+            },
+            "channel" : "zulu.tv2.dk",
+            "date" : "2016",
+            "new" : null,
+            "title" : {
+               "da" : "American Dad"
+            },
+            "desc" : {
+               "da" : "Stan og Roger deler en flaske vin, men indser for sent, at det var den sidste af Francines yndlingsvine, og de bliver n\u00f8dt til at erstatte den hurtigst muligt. Stan s\u00e5rer samtidig Rogers f\u00f8lelser, s\u00e5 Roger beslutter at s\u00f8ge tilflugt i en anden by og starte forfra, forkl\u00e6dt som en Julia Roberts-karakter. Stan finder dog Roger til sidst og fors\u00f8ger at f\u00e5 ham med hjem. Men m\u00e5ske er det allerede for sent, for de to venner opdager hurtigt, at den lille by ikke er helt s\u00e5 idyllisk, som den giver sig ud for."
+            },
+            "start" : "1522855200"
+         },
+         {
+            "date" : "2016",
+            "new" : null,
+            "title" : {
+               "da" : "American Dad"
+            },
+            "desc" : {
+               "da" : "Da Stans \u00e5rlige helbredstjek viser alt andet end gode resultater, bliver Francine bekymret for sin mands sundhed - og is\u00e6r bekymret for Stans d\u00e5rlige madvaner. Hun opfordrer derfor Roger til at snyde Stan til at tro, at han har f\u00e5et et hjerteanfald, i h\u00e5b om at skr\u00e6mme ham til at leve et sundere liv. Problemet er bare, at Stan er vild med n\u00e6rd\u00f8dsoplevelsen og snart udvikler en afh\u00e6ngighed for \"at d\u00f8\"."
+            },
+            "start" : "1522856700",
+            "previously_shown" : "zulu.tv2.dk|2018-02-24 13:55:00",
+            "stop" : "1522858200",
+            "subTitle" : {
+               "da" : "The Life and Times of Stan Smith"
+            },
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Seth MacFarlane"
+                  },
+                  {
+                     "name" : "Mike Barker"
+                  },
+                  {
+                     "name" : "Matt Weitzman"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "12 . 129 .",
+               "onscreen" : "Afsnit 130 s\u00e6son 13"
+            },
+            "channel" : "zulu.tv2.dk"
+         },
+         {
+            "previously_shown" : "zulu.tv2.dk|2018-04-03 16:30:00",
+            "stop" : "1522860000",
+            "subTitle" : {
+               "da" : "Crazy Train"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "6 . 20 .",
+               "thetvdb.com" : "series/95011",
+               "onscreen" : "Afsnit 21 s\u00e6son 7"
+            },
+            "channel" : "zulu.tv2.dk",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Jon Pollack"
+                  },
+                  {
+                     "name" : "Ryan Walls"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Luke Dunphy",
+                     "name" : "Nolan Gould"
+                  },
+                  {
+                     "name" : "Julie Bowen",
+                     "role" : "Claire Dunphy"
+                  },
+                  {
+                     "role" : "Manny Delgado",
+                     "name" : "Rico Rodriguez"
+                  },
+                  {
+                     "role" : "Mitchell Pritchett",
+                     "name" : "Jesse Tyler Ferguson"
+                  },
+                  {
+                     "name" : "Eric Stonestreet",
+                     "role" : "Cameron Tucker"
+                  },
+                  {
+                     "role" : "Gloria Delgado-Pritchett",
+                     "name" : "Sof\u00eda Vergara"
+                  },
+                  {
+                     "role" : "Lily Tucker-Pritchett",
+                     "name" : "Aubrey Anderson-Emmons"
+                  },
+                  {
+                     "name" : "Ariel Winter",
+                     "role" : "Alex Dunphy"
+                  },
+                  {
+                     "role" : "Phil Dunphy",
+                     "name" : "Ty Burrell"
+                  },
+                  {
+                     "role" : "Fulgencio Joseph Pritchett",
+                     "name" : "Jeremy Maguire"
+                  },
+                  {
+                     "role" : "Jay Pritchett",
+                     "name" : "Ed O'Neill"
+                  },
+                  {
+                     "role" : "Haley Dunphy",
+                     "name" : "Sarah Hyland"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Jim Hensz"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=95011&seasonid=625698&id=5571503&lid=8"
+            ],
+            "new" : null,
+            "date" : "2009",
+            "desc" : {
+               "da" : "Phil og Cameron hj\u00e6lper en ghostwriter med et bogprojekt. Luke og Alex er p\u00e5 udkig efter romantiske \u00f8jeblikke, alt imens Claire hj\u00e6lper Mitchell med at skrive bryllupstalen til Dedes bryllup."
+            },
+            "rating" : {
+               "stars" : "6.9 / 9"
+            },
+            "start" : "1522858200",
+            "title" : {
+               "da" : "Modern Family"
+            }
+         },
+         {
+            "rating" : {
+               "stars" : "7.3 / 9"
+            },
+            "start" : "1522860000",
+            "desc" : {
+               "da" : "Claire st\u00e5r over for at skulle fyre en medarbejder. Mitchell og Cameron sk\u00e6ndes om, hvem der skal have Lily i sommerferien. Imens tager Phil en snak med b\u00f8rnene om det at v\u00e6re i et forhold."
+            },
+            "title" : {
+               "da" : "Modern Family"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=95011&seasonid=625698&id=5571504&lid=8"
+            ],
+            "new" : null,
+            "date" : "2009",
+            "episodeNum" : {
+               "xmltv_ns" : "6 . 21 .",
+               "onscreen" : "Afsnit 22 s\u00e6son 7",
+               "thetvdb.com" : "series/95011"
+            },
+            "channel" : "zulu.tv2.dk",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Elaine Ko"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "James Bagdonas"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Luke Dunphy",
+                     "name" : "Nolan Gould"
+                  },
+                  {
+                     "role" : "Claire Dunphy",
+                     "name" : "Julie Bowen"
+                  },
+                  {
+                     "name" : "Rico Rodriguez",
+                     "role" : "Manny Delgado"
+                  },
+                  {
+                     "role" : "Mitchell Pritchett",
+                     "name" : "Jesse Tyler Ferguson"
+                  },
+                  {
+                     "role" : "Cameron Tucker",
+                     "name" : "Eric Stonestreet"
+                  },
+                  {
+                     "role" : "Gloria Delgado-Pritchett",
+                     "name" : "Sof\u00eda Vergara"
+                  },
+                  {
+                     "name" : "Aubrey Anderson-Emmons",
+                     "role" : "Lily Tucker-Pritchett"
+                  },
+                  {
+                     "role" : "Alex Dunphy",
+                     "name" : "Ariel Winter"
+                  },
+                  {
+                     "role" : "Phil Dunphy",
+                     "name" : "Ty Burrell"
+                  },
+                  {
+                     "role" : "Fulgencio Joseph Pritchett",
+                     "name" : "Jeremy Maguire"
+                  },
+                  {
+                     "role" : "Jay Pritchett",
+                     "name" : "Ed O'Neill"
+                  },
+                  {
+                     "role" : "Haley Dunphy",
+                     "name" : "Sarah Hyland"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "stop" : "1522861200",
+            "subTitle" : {
+               "da" : "Double-Click"
+            }
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=79168&seasonid=16107&id=303934&lid=8"
+            ],
+            "new" : null,
+            "date" : "1994",
+            "start" : "1522861200",
+            "rating" : {
+               "stars" : "6.3 / 9"
+            },
+            "desc" : {
+               "da" : "Under en vigtig jobsamtale misforst\u00e5r Rachel situationen, da forretningsbestyreren b\u00f8jer sig frem imod hende, og hun kysser ham p\u00e5 kinden. Da hun indser fejltagelsen, bliver hun rasende p\u00e5 sig selv. Monica og Chandler konkurrerer med Phoebe og Gary om, hvem der har det bedste forhold. Og hjemme i pigernes lejlighed er Joey frustreret over ikke at kunne finde frem til den lejlighed i bygningen overfor, hvor der st\u00e5r en laber blondine og vinker til ham."
+            },
+            "title" : {
+               "da" : "Venner"
+            },
+            "stop" : "1522863000",
+            "previously_shown" : "zulu.tv2.dk|2018-04-03 17:25:00",
+            "subTitle" : {
+               "da" : "The One With Rachel's Inadvertent Kiss"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "4 . 16 .",
+               "onscreen" : "Afsnit 17 s\u00e6son 5",
+               "thetvdb.com" : "series/79168"
+            },
+            "channel" : "zulu.tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Jennifer Aniston",
+                     "role" : "Rachel Green"
+                  },
+                  {
+                     "role" : "Chandler Bing",
+                     "name" : "Matthew Perry"
+                  },
+                  {
+                     "name" : "Courteney Cox",
+                     "role" : "Monica Geller"
+                  },
+                  {
+                     "role" : "Joey Tribbiani",
+                     "name" : "Matt LeBlanc"
+                  },
+                  {
+                     "role" : "Phoebe Buffay",
+                     "name" : "Lisa Kudrow"
+                  },
+                  {
+                     "name" : "David Schwimmer",
+                     "role" : "Ross Geller"
+                  },
+                  {
+                     "name" : "Steve Ireland"
+                  },
+                  {
+                     "name" : "Michael Rapaport"
+                  },
+                  {
+                     "name" : "Samantha Smith"
+                  },
+                  {
+                     "name" : "Marc Goldsmith"
+                  },
+                  {
+                     "name" : "Devyn La Bella"
+                  },
+                  {
+                     "name" : "Ralph Manza"
+                  },
+                  {
+                     "name" : "Tamara Pennington"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Shelley Jensen"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Andrew Reich"
+                  },
+                  {
+                     "name" : "Ted Cohen"
+                  }
+               ]
+            }
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=79168&seasonid=16107&id=303935&lid=8"
+            ],
+            "new" : null,
+            "date" : "1994",
+            "start" : "1522863000",
+            "rating" : {
+               "stars" : "6.3 / 9"
+            },
+            "desc" : {
+               "da" : "Rachel f\u00f8ler sig uden for p\u00e5 sit nye job hos Ralph Lauren, fordi hendes kolleger laver vigtige aftaler uden om hende i rygerummet. Hvad andet er der s\u00e5 at g\u00f8re end selv at begynde at ryge? Ross og Carol f\u00f8lger deres s\u00f8n Ben til en casting p\u00e5 en reklamefilm, og Joey slutter sig til dem i h\u00e5b om at f\u00e5 rollen som Bens far i suppereklamen. Alt g\u00e5r fint til at starte med - men s\u00e5 informerer casting-lederen dem om, at Ben og Joey ikke begge kan f\u00e5 en rolle i filmen, fordi de ikke ligner hinanden."
+            },
+            "title" : {
+               "da" : "Venner"
+            },
+            "subTitle" : {
+               "da" : "The One Where Rachel Smokes"
+            },
+            "stop" : "1522864500",
+            "channel" : "zulu.tv2.dk",
+            "episodeNum" : {
+               "thetvdb.com" : "series/79168",
+               "onscreen" : "Afsnit 18 s\u00e6son 5",
+               "xmltv_ns" : "4 . 17 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Michael Curtis"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Todd Holland"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Jennifer Aniston",
+                     "role" : "Rachel Green"
+                  },
+                  {
+                     "name" : "Matthew Perry",
+                     "role" : "Chandler Bing"
+                  },
+                  {
+                     "name" : "Courteney Cox",
+                     "role" : "Monica Geller"
+                  },
+                  {
+                     "role" : "Joey Tribbiani",
+                     "name" : "Matt LeBlanc"
+                  },
+                  {
+                     "name" : "Lisa Kudrow",
+                     "role" : "Phoebe Buffay"
+                  },
+                  {
+                     "name" : "David Schwimmer",
+                     "role" : "Ross Geller"
+                  },
+                  {
+                     "name" : "Jane Sibbett"
+                  },
+                  {
+                     "name" : "Jack Allen"
+                  },
+                  {
+                     "name" : "Charlie Allen"
+                  },
+                  {
+                     "name" : "Joanna Gleason"
+                  },
+                  {
+                     "name" : "Megan Ward"
+                  },
+                  {
+                     "name" : "Judy Kain"
+                  },
+                  {
+                     "name" : "Jim Wise"
+                  },
+                  {
+                     "name" : "Matt Weinberg"
+                  }
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "channel" : "zulu.tv2.dk",
+            "stop" : "1522866600",
+            "title" : {
+               "da" : "Dybvaaaaad!"
+            },
+            "desc" : {
+               "da" : "Tobias Dybvad dykker med fintf\u00f8lende sarkasme ned i kendis- og realitybegivenheder. Parodierne er skarpe, og tempoet h\u00f8jt, n\u00e5r han finder fejl, fad\u00e6ser og t\u00e5beligheder fra diverse tv-programmer. Er du mon g\u00e5et glip af noget i dit tv? Det kan du f\u00e5 svaret p\u00e5 her. (10:10)"
+            },
+            "start" : "1522864500",
+            "date" : "2013",
+            "new" : null
+         },
+         {
+            "stop" : "1522868400",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Tobias Dybvad"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "channel" : "zulu.tv2.dk",
+            "date" : "2014",
+            "new" : null,
+            "title" : {
+               "da" : "Dybvaaaaad!"
+            },
+            "start" : "1522866600",
+            "desc" : {
+               "da" : "Tobias Dybvad er tilbage med fjerde s\u00e6son af det popul\u00e6re stand-up-show. Denne gang tager han p\u00e5 tour hos de danske tv-seere. I f\u00f8rste program f\u00f8lger vi de danske gymnasieelevers h\u00e6rgen i det sydlige Europa, n\u00e5r ZULU sender fra en bjergtop i skiomr\u00e5det Val Thorens."
+            }
+         },
+         {
+            "stop" : "1522874700",
+            "episodeNum" : {
+               "themoviedb.org" : "movie/6498"
+            },
+            "channel" : "zulu.tv2.dk",
+            "country" : [
+               "DK"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Horror",
+                  "Thriller"
+               ]
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Ole Bornedal"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Nikolaj Coster-Waldau",
+                     "role" : "Martin"
+                  },
+                  {
+                     "name" : "Kim Bodnia",
+                     "role" : "Jens"
+                  },
+                  {
+                     "name" : "Rikke Louise Andersson",
+                     "role" : "Joyce"
+                  },
+                  {
+                     "role" : "Inspektor W\u00f6rmer",
+                     "name" : "Ulf Pilgaard"
+                  },
+                  {
+                     "role" : "Lotte",
+                     "name" : "Lotte Andersen"
+                  },
+                  {
+                     "name" : "Sofie Gr\u00e5b\u00f8l",
+                     "role" : "Kalinka"
+                  },
+                  {
+                     "name" : "Stig Hoffmeyer"
+                  },
+                  {
+                     "name" : "Gyrd L\u00f8fquist"
+                  },
+                  {
+                     "name" : "Keld N\u00f8rg\u00e5rd"
+                  },
+                  {
+                     "name" : "Steen Stig Lommer"
+                  },
+                  {
+                     "name" : "Niels Anders Thorn"
+                  },
+                  {
+                     "name" : "Ulrich Thomsen"
+                  },
+                  {
+                     "name" : "Christian Friis"
+                  },
+                  {
+                     "name" : "Peter Rygaard"
+                  },
+                  {
+                     "name" : "Jesper Hyldegaard"
+                  },
+                  {
+                     "name" : "Leif Adolfsson"
+                  },
+                  {
+                     "name" : "Henrik Fiig"
+                  },
+                  {
+                     "name" : "Karin R\u00f8rbech"
+                  },
+                  {
+                     "name" : "Cecilie Brask"
+                  },
+                  {
+                     "name" : "Michel Castenholt"
+                  },
+                  {
+                     "name" : "Michael Goeskj\u00e6r"
+                  },
+                  {
+                     "name" : "Mika Heilmann"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Ole Bornedal"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Michael Obel"
+                  }
+               ]
+            },
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/6498"
+            ],
+            "date" : "1994",
+            "rating" : {
+               "stars" : "7.1 / 10"
+            },
+            "desc" : {
+               "da" : "Den studerende Martin (Nikolaj Coster-Waldau) tager et feriejob som nattevagt p\u00e5 Retsmedicinsk Institut. Her kommer han i kontakt med kriminalinspekt\u00f8r W\u00f6rmer (Ulf Pilgaard), som efterforsker en r\u00e6kke uhyggelige mord p\u00e5 prostituerede. Snart begynder der at ske mystiske ting i k\u00e6ldrene, hvor Martin arbejder, og p\u00e5 grund af disse ting og nogle gr\u00e6nseoverskridende v\u00e6ddem\u00e5l Martin laver med sin sm\u00e5gale ven Jens (Kim Bodnia), begynder politiet at mist\u00e6nke Martin for mordene. Hans k\u00e6reste Kalinka (Sofie Gr\u00e5b\u00f8l) fors\u00f8ger at berolige ham, men hurtigt g\u00e5r det op for Martin, at nogen med en udspekuleret og veltilrettelagt plan fors\u00f8ger at h\u00e6nge ham op p\u00e5 de bestialske mord."
+            },
+            "start" : "1522868400",
+            "title" : {
+               "da" : "Nattevagten"
+            }
+         },
+         {
+            "title" : {
+               "da" : "K\u00f8rel\u00e6rerne"
+            },
+            "desc" : {
+               "da" : "K\u00f8rel\u00e6rerne har travlt, og is\u00e6r hos Jeff i Skanderborg, hvor der ofte st\u00e5r 12 k\u00f8retimer om dagen i kalenderen. Hos Loay i Odense skal Guldholdet til teoripr\u00f8ve. Ingen p\u00e5 et Guldhold er nogensinde dumpet, men kommer det til at ske? I Br\u00f8ndby forlanger Daniel, at Dalle skal k\u00f8re rundt i en badek\u00e5be, og Daniels t\u00e5lmodighed bliver testet, da slagterpigen Sofie ikke kan f\u00e5 bilen i gang. Og s\u00e5 er der selvf\u00f8lgelig teori med Tai Lien Lu."
+            },
+            "start" : "1522874700",
+            "date" : "2018",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "zulu.tv2.dk",
+            "stop" : "1522877100"
+         },
+         {
+            "channel" : "zulu.tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1522879200",
+            "start" : "1522877100",
+            "desc" : {
+               "da" : "I Odense er Loay og Guldholdet tidligt oppe. De skal nemlig p\u00e5 roadtrip til Tyskland, hvor de satser p\u00e5 en god handel. Ogs\u00e5 i Skanderborg ser Jeff en tur til Tyskland som en god fidus, n\u00e5r der skal \u00f8ves motorvej. Hos Daniel i Br\u00f8ndby er det k\u00f8repr\u00f8vetid, og det giver den ellers altid glade k\u00f8rel\u00e6rer sved p\u00e5 panden. Og s\u00e5 er der selvf\u00f8lgelig teori med Tai Lien Lu."
+            },
+            "title" : {
+               "da" : "K\u00f8rel\u00e6rerne"
+            },
+            "new" : null,
+            "date" : "2018"
+         },
+         {
+            "date" : "2017",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=327181&seasonid=708577&id=6078298&lid=8"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "Wunderland"
+            },
+            "desc" : {
+               "da" : "Sten er p\u00e5 vej ind i voksenlivet og har f\u00e5et nyt job. Torodd derimod har det sv\u00e6rt med at v\u00e6re arbejdsl\u00f8s og melder sig til et jobkursus. Og Bakkens plan om at forblive single falder til jorden, da han m\u00f8der Martha."
+            },
+            "start" : "1522879200",
+            "stop" : "1522880700",
+            "subTitle" : {
+               "da" : "Martha"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Himself",
+                     "name" : "Torodd Over\u00e5sberget"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/327181",
+               "onscreen" : "Afsnit 6 s\u00e6son 1",
+               "xmltv_ns" : "0 . 5 ."
+            },
+            "channel" : "zulu.tv2.dk"
+         },
+         {
+            "date" : "2015",
+            "new" : null,
+            "title" : {
+               "da" : "N\u00f8rgaards Netfix"
+            },
+            "start" : "1522880700",
+            "desc" : {
+               "da" : "Har du fulgt med i alle nettets afkroge i denne uge? Hvis ikke vil dette program hurtigt f\u00f8re dig ind i alt, hvad der er foreg\u00e5et p\u00e5 internettet i form af knivskarpe jokes og spoofs. Gl\u00e6d dig til at f\u00e5 vanviddet fra nettet i kondenseret form."
+            },
+            "stop" : "1522882500",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "channel" : "zulu.tv2.dk"
+         },
+         {
+            "stop" : "1522884600",
+            "channel" : "zulu.tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "new" : null,
+            "date" : "2015",
+            "desc" : {
+               "da" : "Har du fulgt med i alle nettets afkroge i denne uge? Hvis kan Martin N\u00f8rgaard indf\u00f8re dig i hvad der foreg\u00e5r p\u00e5 internettet og p\u00e5leve ham spidde de seneste opdagelser med knivskarpe jokes og spoofs. Gl\u00e6d dig til at v\u00e6re vidne til alt vanviddet fra nettet kondenseret ned i et tv-program: N\u00f8rgaards Netfix"
+            },
+            "start" : "1522882500",
+            "title" : {
+               "da" : "N\u00f8rgaards Netfix"
+            }
+         },
+         {
+            "stop" : "1522886400",
+            "channel" : "zulu.tv2.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Tobias Dybvad"
+                  }
+               ]
+            },
+            "new" : null,
+            "date" : "2014",
+            "start" : "1522884600",
+            "desc" : {
+               "da" : "Tobias Dybvad leverer jokes om t\u00e5belige tv-momenter og bes\u00f8ger ogs\u00e5 sin navneby, Dybvad."
+            },
+            "title" : {
+               "da" : "Dybvaaaaad!"
+            }
+         }
+      ]
+   }
+}

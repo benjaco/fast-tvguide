@@ -1,0 +1,644 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "new" : null,
+            "subTitle" : {
+               "da" : "Bannockburn"
+            },
+            "title" : {
+               "da" : "Battle of Kings: Bannockburn"
+            },
+            "channel" : "h2.historytv.dk",
+            "stop" : "1531707600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1531701600",
+            "desc" : {
+               "da" : "I 1314 havde den skotske kong Robert Bruce med ih\u00e6rdighed og r\u00e6nker indtaget alle vigtige engelske borge p\u00e5 n\u00e6r Stirling. Kong Edward II fors\u00f8gte at standse ham. Her er beretningen om felttoget, der endte i slaget ved Bannockburn."
+            }
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=81265&seasonid=50231&id=514281&lid=7"
+            ],
+            "title" : {
+               "da" : "UFO Hunters"
+            },
+            "channel" : "h2.historytv.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 3",
+               "thetvdb.com" : "series/81265"
+            },
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Himself",
+                     "name" : "Kevin Cook"
+                  },
+                  {
+                     "name" : "Pat Uskert",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Bill Birnes"
+                  },
+                  {
+                     "name" : "Dr. Ted Acworth",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Jeff Tomlinson"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Giant Triangles"
+            },
+            "start" : "1531707600",
+            "date" : "2008",
+            "desc" : {
+               "da" : "Holdet finder sj\u00e6ldne optagelser af enorme trekanter, der sv\u00e6ver over byer. Kan disse s\u00e6re observationer v\u00e6re af udenjordisk oprindelse?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Reality"
+               ]
+            },
+            "stop" : "1531710600"
+         },
+         {
+            "channel" : "h2.historytv.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=307599&seasonid=656558&id=5524860&lid=7"
+            ],
+            "title" : {
+               "da" : "Million Dollar Genius"
+            },
+            "subTitle" : {
+               "da" : "Selfie Made Man"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/307599",
+               "onscreen" : "Afsnit 3 s\u00e6son 1",
+               "xmltv_ns" : "0 . 2 ."
+            },
+            "new" : null,
+            "date" : "2016",
+            "desc" : {
+               "da" : "Ejendomsm\u00e6gleren Ethan Woods fra New York s\u00e6tter sin livsopsparing p\u00e5 spil, da han opfinder verdens f\u00f8rste grillrenserobot, Grillbot."
+            },
+            "start" : "1531710600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1531713600"
+         },
+         {
+            "channel" : "h2.historytv.dk",
+            "title" : {
+               "da" : "Ancient Aliens"
+            },
+            "subTitle" : {
+               "da" : "The Visionaries"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "8 . 5 .",
+               "onscreen" : "Afsnit 6 s\u00e6son 9"
+            },
+            "desc" : {
+               "da" : "Ancient astronaut-teoretikere har fremsat en teori om, at rumv\u00e6sner i al hemmelighed st\u00e5r bag menneskehedens store spring i teknologisk udvikling."
+            },
+            "start" : "1531713600",
+            "stop" : "1531717200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1531720800",
+            "start" : "1531717200",
+            "desc" : {
+               "da" : "Da videnskaben til stadighed skaber ny teknologi, har teoretikere fremsat den teori, at menneskeheden blot f\u00f8lger den vej, som rumv\u00e6sner har vist os."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "8 . 6 .",
+               "onscreen" : "Afsnit 7 s\u00e6son 9"
+            },
+            "new" : null,
+            "subTitle" : {
+               "da" : "The Next Humans"
+            },
+            "channel" : "h2.historytv.dk",
+            "title" : {
+               "da" : "Ancient Aliens"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "I 1980 observerede britiske og amerikanske soldater udstationeret p\u00e5 NATO/RAF-baser n\u00e6r Rendlesham Forest et mystisk objekt p\u00e5 himlen. Blev disse h\u00e6ndelser, der b\u00e5de involverede milit\u00e6ret og efterretningstjenester, m\u00f8rklagt?"
+            },
+            "start" : "1531720800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1531724400",
+            "channel" : "h2.historytv.dk",
+            "title" : {
+               "da" : "UFO Hunters"
+            },
+            "subTitle" : {
+               "da" : "Military vs UFOs"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 11 s\u00e6son 1",
+               "xmltv_ns" : "0 . 10 ."
+            }
+         },
+         {
+            "start" : "1531724400",
+            "desc" : {
+               "da" : "Holdet finder sj\u00e6ldne optagelser af enorme trekanter, der sv\u00e6ver over byer. Kan disse s\u00e6re observationer v\u00e6re af udenjordisk oprindelse?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1531728000",
+            "title" : {
+               "da" : "UFO Hunters"
+            },
+            "channel" : "h2.historytv.dk",
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 3",
+               "xmltv_ns" : "2 . 0 ."
+            },
+            "subTitle" : {
+               "da" : "Giant Triangles"
+            }
+         },
+         {
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 1"
+            },
+            "subTitle" : {
+               "da" : "The Real McCoy"
+            },
+            "title" : {
+               "da" : "Cowboys & Outlaws"
+            },
+            "channel" : "h2.historytv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1531731600",
+            "start" : "1531728000",
+            "desc" : {
+               "da" : "I cowboy-\u00e6raens start anl\u00e6gger Joe McCoy en by i \u00f8demarken: Abilene, den f\u00f8rste \"cow-by\", hvis historie skulle \u00e6ndre vesten."
+            }
+         },
+         {
+            "channel" : "h2.historytv.dk",
+            "title" : {
+               "da" : "Ancient Aliens"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 6 s\u00e6son 9",
+               "xmltv_ns" : "8 . 5 ."
+            },
+            "new" : null,
+            "subTitle" : {
+               "da" : "The Visionaries"
+            },
+            "start" : "1531731600",
+            "desc" : {
+               "da" : "Ancient astronaut-teoretikere har fremsat en teori om, at rumv\u00e6sner i al hemmelighed st\u00e5r bag menneskehedens store spring i teknologisk udvikling."
+            },
+            "stop" : "1531735200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1531738800",
+            "desc" : {
+               "da" : "Da videnskaben til stadighed skaber ny teknologi, har teoretikere fremsat den teori, at menneskeheden blot f\u00f8lger den vej, som rumv\u00e6sner har vist os."
+            },
+            "start" : "1531735200",
+            "subTitle" : {
+               "da" : "The Next Humans"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "8 . 6 .",
+               "onscreen" : "Afsnit 7 s\u00e6son 9"
+            },
+            "title" : {
+               "da" : "Ancient Aliens"
+            },
+            "channel" : "h2.historytv.dk"
+         },
+         {
+            "title" : {
+               "da" : "UFO Hunters"
+            },
+            "channel" : "h2.historytv.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 11 s\u00e6son 1",
+               "xmltv_ns" : "0 . 10 ."
+            },
+            "new" : null,
+            "subTitle" : {
+               "da" : "Military vs UFOs"
+            },
+            "start" : "1531738800",
+            "desc" : {
+               "da" : "I 1980 observerede britiske og amerikanske soldater udstationeret p\u00e5 NATO/RAF-baser n\u00e6r Rendlesham Forest et mystisk objekt p\u00e5 himlen. Blev disse h\u00e6ndelser, der b\u00e5de involverede milit\u00e6ret og efterretningstjenester, m\u00f8rklagt?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1531742400"
+         },
+         {
+            "title" : {
+               "da" : "UFO Hunters"
+            },
+            "channel" : "h2.historytv.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 3"
+            },
+            "new" : null,
+            "subTitle" : {
+               "da" : "Giant Triangles"
+            },
+            "start" : "1531742400",
+            "desc" : {
+               "da" : "Holdet finder sj\u00e6ldne optagelser af enorme trekanter, der sv\u00e6ver over byer. Kan disse s\u00e6re observationer v\u00e6re af udenjordisk oprindelse?"
+            },
+            "stop" : "1531746000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "I cowboy-\u00e6raens start anl\u00e6gger Joe McCoy en by i \u00f8demarken: Abilene, den f\u00f8rste \"cow-by\", hvis historie skulle \u00e6ndre vesten."
+            },
+            "start" : "1531746000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1531749600",
+            "channel" : "h2.historytv.dk",
+            "title" : {
+               "da" : "Cowboys & Outlaws"
+            },
+            "subTitle" : {
+               "da" : "The Real McCoy"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 1"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1531753200",
+            "start" : "1531749600",
+            "desc" : {
+               "da" : "Kan Thomas Jeffersons k\u00e6rlighedsliv hj\u00e6lpe dig med at holde din slankekur? Og h\u00f8r, hvordan John Kerrys kendte valgkampsbommert er n\u00f8glen til at sl\u00e5 en bils\u00e6lger p\u00e5 hjemmebane."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 1",
+               "xmltv_ns" : "0 . 2 ."
+            },
+            "new" : null,
+            "subTitle" : {
+               "da" : "Beat the Competition"
+            },
+            "title" : {
+               "da" : "How 2 Win"
+            },
+            "channel" : "h2.historytv.dk"
+         },
+         {
+            "channel" : "h2.historytv.dk",
+            "title" : {
+               "da" : "Ancient Impossible"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 s\u00e6son 1",
+               "xmltv_ns" : "0 . 4 ."
+            },
+            "new" : null,
+            "subTitle" : {
+               "da" : "Biggest Builds"
+            },
+            "start" : "1531753200",
+            "desc" : {
+               "da" : "En mega-fabrik er en moderne opfindelse. Nej, det var noget, de gamle gr\u00e6kere byggede for flere tusinde \u00e5r siden. Vi ser n\u00e6rmere p\u00e5 den utrolige opfindsomhed og de teknikker, der gjorde det muligt for de gamle gr\u00e6kere at have \"mega-fabrikker\"."
+            },
+            "date" : "2014",
+            "stop" : "1531756800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "subTitle" : {
+               "da" : "Badass Presidents"
+            },
+            "channel" : "h2.historytv.dk",
+            "title" : {
+               "da" : "United Stuff of America"
+            },
+            "stop" : "1531760400",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1531756800",
+            "desc" : {
+               "da" : "Rick Harrison pr\u00e6senterer en samling hverdagsting, som afsl\u00f8rer de virkelige historier bag nogle af pr\u00e6sidenternes mest forbl\u00f8ffende bedrifter."
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7 s\u00e6son 1",
+               "xmltv_ns" : "0 . 6 ."
+            },
+            "new" : null,
+            "subTitle" : {
+               "da" : "Invasion Texas 2008"
+            },
+            "title" : {
+               "da" : "UFO Hunters"
+            },
+            "channel" : "h2.historytv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1531764000",
+            "start" : "1531760400",
+            "desc" : {
+               "da" : "UFO Hunters rejser til Stephenville i Texas for at efterforske flere rapporter om s\u00e6re lys p\u00e5 himlen."
+            }
+         },
+         {
+            "channel" : "h2.historytv.dk",
+            "title" : {
+               "da" : "Ancient Aliens"
+            },
+            "subTitle" : {
+               "da" : "Alien Contacts"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 3 .",
+               "onscreen" : "Afsnit 4 s\u00e6son 2"
+            },
+            "desc" : {
+               "da" : "Kan rumv\u00e6sener have fortalt Jeanne D'Arc, hvordan hun kunne besejre den engelske h\u00e6r? Og kan en amerikansk menig have modtaget en besked, da han r\u00f8rte ved et rumskib? Eksperter unders\u00f8ger sagen."
+            },
+            "start" : "1531764000",
+            "stop" : "1531767600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "stop" : "1531771200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Erobrede og gemte Tempelridderne virkelig ufattelige skatte, som f\u00f8rst blev dokumenteret i D\u00f8dehavsrullerne?"
+            },
+            "date" : "2005",
+            "start" : "1531767600",
+            "subTitle" : {
+               "da" : "Templar Code: The Quest for Templar Treasure"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 10 s\u00e6son 1",
+               "xmltv_ns" : "0 . 9 ."
+            },
+            "title" : {
+               "da" : "Decoding the Past"
+            },
+            "channel" : "h2.historytv.dk"
+         },
+         {
+            "subTitle" : {
+               "da" : "Okinawa 1945"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 21 s\u00e6son 1",
+               "xmltv_ns" : "0 . 20 ."
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Clash of Warriors"
+            },
+            "channel" : "h2.historytv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1531774800",
+            "desc" : {
+               "da" : "I anden verdenskrigs sidste dage rasede kampen om Okinawa. Der var store tab, men amerikanerne sejrede efter Buckners d\u00f8d og Ushijimas selvmord."
+            },
+            "start" : "1531771200"
+         },
+         {
+            "title" : {
+               "da" : "Ancient Impossible"
+            },
+            "channel" : "h2.historytv.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 4 .",
+               "onscreen" : "Afsnit 5 s\u00e6son 1"
+            },
+            "new" : null,
+            "subTitle" : {
+               "da" : "Biggest Builds"
+            },
+            "start" : "1531774800",
+            "desc" : {
+               "da" : "En mega-fabrik er en moderne opfindelse. Nej, det var noget, de gamle gr\u00e6kere byggede for flere tusinde \u00e5r siden. Vi ser n\u00e6rmere p\u00e5 den utrolige opfindsomhed og de teknikker, der gjorde det muligt for de gamle gr\u00e6kere at have \"mega-fabrikker\"."
+            },
+            "date" : "2014",
+            "stop" : "1531778400",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "start" : "1531778400",
+            "desc" : {
+               "da" : "Rick Harrison pr\u00e6senterer en samling hverdagsting, som afsl\u00f8rer de virkelige historier bag nogle af pr\u00e6sidenternes mest forbl\u00f8ffende bedrifter."
+            },
+            "stop" : "1531782000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "h2.historytv.dk",
+            "title" : {
+               "da" : "United Stuff of America"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "new" : null,
+            "subTitle" : {
+               "da" : "Badass Presidents"
+            }
+         },
+         {
+            "stop" : "1531785000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1531782000",
+            "desc" : {
+               "da" : "UFO Hunters rejser til Stephenville i Texas for at efterforske flere rapporter om s\u00e6re lys p\u00e5 himlen."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7 s\u00e6son 1",
+               "xmltv_ns" : "0 . 6 ."
+            },
+            "new" : null,
+            "subTitle" : {
+               "da" : "Invasion Texas 2008"
+            },
+            "title" : {
+               "da" : "UFO Hunters"
+            },
+            "channel" : "h2.historytv.dk"
+         },
+         {
+            "subTitle" : {
+               "da" : "Alien Contacts"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 2",
+               "xmltv_ns" : "1 . 3 ."
+            },
+            "title" : {
+               "da" : "Ancient Aliens"
+            },
+            "channel" : "h2.historytv.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1531788000",
+            "desc" : {
+               "da" : "Kan rumv\u00e6sener have fortalt Jeanne D'Arc, hvordan hun kunne besejre den engelske h\u00e6r? Og kan en amerikansk menig have modtaget en besked, da han r\u00f8rte ved et rumskib? Eksperter unders\u00f8ger sagen."
+            },
+            "start" : "1531785000"
+         }
+      ]
+   }
+}

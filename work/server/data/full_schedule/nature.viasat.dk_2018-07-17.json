@@ -1,0 +1,1422 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "desc" : {
+               "da" : "Tiden er ved at rinde ud for at redde ugle\u00e6g fra et uventet rovdyr, og Mirarty, den sultne krokodille, snupper selv et mellemm\u00e5ltid i Chris' k\u00f8kken."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "xmltv_ns" : "0 . 1 ."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null,
+            "start" : "1531785600",
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Chris Humfrey's Dyre-instinkter"
+            },
+            "date" : "2016",
+            "stop" : "1531787100"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 1",
+               "xmltv_ns" : "0 . 2 ."
+            },
+            "desc" : {
+               "da" : "Chris starter dagen med barberingstips fra sin gode ven Trevor, en vandagam. Og vi ser til Matilda, den lillebitte koalaunge i koalacenteret."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "date" : "2016",
+            "stop" : "1531788600",
+            "new" : null,
+            "start" : "1531787100",
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Chris Humfrey's Dyre-instinkter"
+            }
+         },
+         {
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Hundehistorier: Tibor til unds\u00e6tning"
+            },
+            "new" : null,
+            "start" : "1531788600",
+            "stop" : "1531790100",
+            "date" : "2016",
+            "desc" : {
+               "da" : "Tibor skal hj\u00e6lpe Hooch, en amerikansk bulldog, der er s\u00e5 aggressiv, at ejeren ikke kan have bes\u00f8g. Og han hj\u00e6lper Monica med at adoptere end ven til D.O.G."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7 s\u00e6son 1",
+               "xmltv_ns" : "0 . 6 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Hvad g\u00f8r man, n\u00e5r schnauzerne har overtaget hele huset? Man ringer efter Tibor!"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 7 .",
+               "onscreen" : "Afsnit 8 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "title" : {
+               "da" : "Hundehistorier: Tibor til unds\u00e6tning"
+            },
+            "channel" : "nature.viasat.dk",
+            "new" : null,
+            "start" : "1531790100",
+            "stop" : "1531791600",
+            "date" : "2016"
+         },
+         {
+            "stop" : "1531793100",
+            "date" : "2017",
+            "title" : {
+               "da" : "Bj\u00f8rneinternatet"
+            },
+            "channel" : "nature.viasat.dk",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Brad Quenville"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Angelika Langen"
+                  },
+                  {
+                     "name" : "Peter Langen"
+                  }
+               ]
+            },
+            "new" : null,
+            "start" : "1531791600",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Angelika knokler for at redde en forladt bj\u00f8rneunge, der blev ramt af en bil. Thomas f\u00e5r til opgave at opdr\u00e6tte en d\u00e5kalv, der blev f\u00f8dt ved akut kejsersnit."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            }
+         },
+         {
+            "stop" : "1531794600",
+            "date" : "2017",
+            "title" : {
+               "da" : "Bj\u00f8rneinternatet"
+            },
+            "channel" : "nature.viasat.dk",
+            "start" : "1531793100",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Angelika Langen"
+                  },
+                  {
+                     "name" : "Peter Langen"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Brad Quenville"
+                  }
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Angelika skal have de unge bj\u00f8rneunger ud i naturen igen, men de er ret sv\u00e6re at bed\u00f8ve f\u00f8rst. Medhj\u00e6lperne Kim og Amy pr\u00f8ver at slippe to egern l\u00f8s i naturen igen."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "xmltv_ns" : "0 . 1 ."
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Ved 'Store Kattehus' er der meget travlt. Den sibiriske tigerunge, Alisha, bliver opfostret af Angelika. Imens ser Petra efter de sidste nytilkomne til tigerfamilien: 9 uger gamle firlinger."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Nature"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 6",
+               "xmltv_ns" : "5 . 0 ."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "title" : {
+               "da" : "Dyreparkens unger"
+            },
+            "channel" : "nature.viasat.dk",
+            "start" : "1531794600",
+            "new" : null,
+            "stop" : "1531796400",
+            "date" : "2014"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 6",
+               "xmltv_ns" : "5 . 1 ."
+            },
+            "desc" : {
+               "da" : "Abehuset i zoo'en har f\u00e5et en nytilkommen; orangutang-babyen Rieke. Hun blev f\u00f8rst udst\u00f8dt af sin mor og er nu fuldkommen afh\u00e6ngig af dyrepasseren; Christian."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Nature"
+               ]
+            },
+            "date" : "2014",
+            "stop" : "1531797900",
+            "start" : "1531796400",
+            "new" : null,
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Dyreparkens unger"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Nutidens dyr er alle meget sultne. For aben Rhea er m\u00e6lk ikke l\u00e6ngere nok. Hun skal v\u00e6nnes fra og starte p\u00e5 fast f\u00f8de. (h6, ep3)"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Nature"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 6",
+               "xmltv_ns" : "5 . 2 ."
+            },
+            "stop" : "1531800600",
+            "date" : "2014",
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Dyreparkens unger"
+            },
+            "new" : null,
+            "start" : "1531797900"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8 s\u00e6son 1",
+               "xmltv_ns" : "0 . 7 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "I Anchorage er der tr\u00e6pindsvin i byens parker, haver og p\u00e5 gaderne. De dobbelt s\u00e5 store pindsvin leder efter f\u00f8de i byen og efter husly, n\u00e5r vinteren raser i Alaska."
+            },
+            "stop" : "1531802100",
+            "date" : "2016",
+            "title" : {
+               "da" : "Alaskas vildeste by"
+            },
+            "channel" : "nature.viasat.dk",
+            "country" : [
+               "GB"
+            ],
+            "start" : "1531800600",
+            "new" : null
+         },
+         {
+            "desc" : {
+               "da" : "Hvad g\u00f8r man, n\u00e5r schnauzerne har overtaget hele huset? Man ringer efter Tibor!"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 7 .",
+               "onscreen" : "Afsnit 8 s\u00e6son 1"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Hundehistorier: Tibor til unds\u00e6tning"
+            },
+            "new" : null,
+            "start" : "1531802100",
+            "stop" : "1531803600",
+            "date" : "2016"
+         },
+         {
+            "desc" : {
+               "da" : "Denne gang skal Tibor t\u00e6mme Samantha, en stor engelsk mastiff med et iltert temperament. Hun farer efter folk p\u00e5 gaden og g\u00f8r som besat."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "start" : "1531803600",
+            "new" : null,
+            "title" : {
+               "da" : "Hundehistorier: Tibor til unds\u00e6tning"
+            },
+            "channel" : "nature.viasat.dk",
+            "date" : "2016",
+            "stop" : "1531805100"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "I dette afsnit tager vi et kig p\u00e5 verdens dummeste dyr - og vi fors\u00f8ger at finde ud af, hvilket v\u00e6sen, der er det dummeste."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 5 .",
+               "onscreen" : "Afsnit 6 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Nature"
+               ]
+            },
+            "date" : "2015",
+            "stop" : "1531806900",
+            "start" : "1531805100",
+            "country" : [
+               "GB"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "Dyrenes narrestreger"
+            },
+            "channel" : "nature.viasat.dk"
+         },
+         {
+            "desc" : {
+               "da" : "Dette afsnit viser top-tyve listen over de dyr, der ikke er \"kyllinger\", men er lige s\u00e5 modige som l\u00f8ver. L\u00e6r mere om, hvilket v\u00e6sen, der er det modigste i verden!"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7 s\u00e6son 1",
+               "xmltv_ns" : "0 . 6 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Nature"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Dyrenes narrestreger"
+            },
+            "new" : null,
+            "country" : [
+               "GB"
+            ],
+            "start" : "1531806900",
+            "stop" : "1531808700",
+            "date" : "2015"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 1",
+               "xmltv_ns" : "0 . 2 ."
+            },
+            "desc" : {
+               "da" : "Chris starter dagen med barberingstips fra sin gode ven Trevor, en vandagam. Og vi ser til Matilda, den lillebitte koalaunge i koalacenteret."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "date" : "2016",
+            "stop" : "1531810200",
+            "new" : null,
+            "start" : "1531808700",
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Chris Humfrey's Dyre-instinkter"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 3 .",
+               "onscreen" : "Afsnit 4 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Det er parringstid for pungm\u00e5rene, og da der kun er f\u00e5 avlsprogrammer i Australien, er presset stort."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "date" : "2016",
+            "stop" : "1531812000",
+            "new" : null,
+            "start" : "1531810200",
+            "title" : {
+               "da" : "Chris Humfrey's Dyre-instinkter"
+            },
+            "channel" : "nature.viasat.dk"
+         },
+         {
+            "stop" : "1531813500",
+            "date" : "2017",
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Bj\u00f8rneinternatet"
+            },
+            "new" : null,
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Brad Quenville"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Angelika Langen"
+                  },
+                  {
+                     "name" : "Peter Langen"
+                  }
+               ]
+            },
+            "start" : "1531812000",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Angelika skal have de unge bj\u00f8rneunger ud i naturen igen, men de er ret sv\u00e6re at bed\u00f8ve f\u00f8rst. Medhj\u00e6lperne Kim og Amy pr\u00f8ver at slippe to egern l\u00f8s i naturen igen."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Angelika vil redde tre bj\u00f8rneunger, efter deres mor blev skudt. Tanja og Kim skal slippe to bj\u00f8rneunger fri i naturen og igen og ser, hvordan instinktet bare overtager."
+            },
+            "stop" : "1531815000",
+            "date" : "2017",
+            "title" : {
+               "da" : "Bj\u00f8rneinternatet"
+            },
+            "channel" : "nature.viasat.dk",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Brad Quenville"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Angelika Langen"
+                  },
+                  {
+                     "name" : "Peter Langen"
+                  }
+               ]
+            },
+            "new" : null,
+            "start" : "1531813500"
+         },
+         {
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Hundens bedste ven"
+            },
+            "start" : "1531815000",
+            "new" : null,
+            "stop" : "1531816500",
+            "date" : "2013",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Nature"
+               ]
+            },
+            "desc" : {
+               "da" : "Den arktiske ulv Vanda blev opfostret af hunden Cuate, og har aldrig indset, at hun faktisk kunne g\u00f8re k\u00e5l p\u00e5 moderen, hvis hun ville."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7 s\u00e6son 1",
+               "xmltv_ns" : "0 . 6 ."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Hundens bedste ven"
+            },
+            "channel" : "nature.viasat.dk",
+            "start" : "1531816500",
+            "new" : null,
+            "stop" : "1531818000",
+            "date" : "2013",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8 s\u00e6son 1",
+               "xmltv_ns" : "0 . 7 ."
+            },
+            "desc" : {
+               "da" : "I denne episode h\u00f8rer vi historien om en lille pr\u00e6rieulv, som kommer ud af sin skal med hj\u00e6lp fra en r\u00f8dlos."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Nature"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "date" : "2016",
+            "stop" : "1531819500",
+            "start" : "1531818000",
+            "new" : null,
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Dyrenes Forenede Stater"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 6 .",
+               "onscreen" : "Afsnit 7 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Hvert \u00e5r i marts oplever Platte River Valley i Nebraska et utroligt kor af traner. Tusindvis af pr\u00e6rietraner stopper her for at hvile og spise under den \u00e5rlige migration."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "start" : "1531819500",
+            "new" : null,
+            "title" : {
+               "da" : "Dyrenes Forenede Stater"
+            },
+            "channel" : "nature.viasat.dk",
+            "date" : "2016",
+            "stop" : "1531821000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Stranden vrimler med krabber. Og der er fare over feltet i Tucson med nogle d\u00f8dfarlige fugle, og p\u00e5 Californiens kyst myldrer det med monark-sommerfugle."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8 s\u00e6son 1",
+               "xmltv_ns" : "0 . 7 ."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "stop" : "1531824000",
+            "date" : "2016",
+            "title" : {
+               "da" : "En vild dag"
+            },
+            "channel" : "nature.viasat.dk",
+            "start" : "1531821000",
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "xmltv_ns" : "0 . 1 ."
+            },
+            "desc" : {
+               "da" : "En flok l\u00f8ver jager uden for normal tid, en lille \u00f8rkenspidsmus skal have fart p\u00e5, og en flodhest, der er tr\u00e6t af varmen... Se dem overleve i 24 timer p\u00e5 Afrikas savanne."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "desc" : {
+               "da" : "Angelika knokler for at redde en forladt bj\u00f8rneunge, der blev ramt af en bil. Thomas f\u00e5r til opgave at opdr\u00e6tte en d\u00e5kalv, der blev f\u00f8dt ved akut kejsersnit."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "date" : "2017",
+            "stop" : "1531825500",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Brad Quenville"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Angelika Langen"
+                  },
+                  {
+                     "name" : "Peter Langen"
+                  }
+               ]
+            },
+            "new" : null,
+            "start" : "1531824000",
+            "title" : {
+               "da" : "Bj\u00f8rneinternatet"
+            },
+            "channel" : "nature.viasat.dk"
+         },
+         {
+            "new" : null,
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Brad Quenville"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Angelika Langen"
+                  },
+                  {
+                     "name" : "Peter Langen"
+                  }
+               ]
+            },
+            "start" : "1531825500",
+            "title" : {
+               "da" : "Bj\u00f8rneinternatet"
+            },
+            "channel" : "nature.viasat.dk",
+            "date" : "2017",
+            "stop" : "1531827000",
+            "desc" : {
+               "da" : "Angelika skal have de unge bj\u00f8rneunger ud i naturen igen, men de er ret sv\u00e6re at bed\u00f8ve f\u00f8rst. Medhj\u00e6lperne Kim og Amy pr\u00f8ver at slippe to egern l\u00f8s i naturen igen."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 1"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 1",
+               "xmltv_ns" : "0 . 2 ."
+            },
+            "desc" : {
+               "da" : "Angelika vil redde tre bj\u00f8rneunger, efter deres mor blev skudt. Tanja og Kim skal slippe to bj\u00f8rneunger fri i naturen og igen og ser, hvordan instinktet bare overtager."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Angelika Langen"
+                  },
+                  {
+                     "name" : "Peter Langen"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Brad Quenville"
+                  }
+               ]
+            },
+            "new" : null,
+            "start" : "1531827000",
+            "title" : {
+               "da" : "Bj\u00f8rneinternatet"
+            },
+            "channel" : "nature.viasat.dk",
+            "date" : "2017",
+            "stop" : "1531828500"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Da to traumatiserede bj\u00f8rneunger kommer til internatet, g\u00f8r Angelika alt for at hj\u00e6lpe dem, da de udviser symptomer p\u00e5 ekstrem stress."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 1",
+               "xmltv_ns" : "0 . 3 ."
+            },
+            "stop" : "1531830000",
+            "date" : "2017",
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Bj\u00f8rneinternatet"
+            },
+            "new" : null,
+            "start" : "1531828500",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Brad Quenville"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Angelika Langen"
+                  },
+                  {
+                     "name" : "Peter Langen"
+                  }
+               ]
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 s\u00e6son 1",
+               "xmltv_ns" : "0 . 4 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "De sidste to bj\u00f8rneunger, der skal s\u00e6ttes ud i naturen igen, har knyttet sig til de frivillige. Kan Angelika ikke l\u00e6re dem at frygte mennesker, kan det bringe hele ordningen i fare."
+            },
+            "date" : "2017",
+            "stop" : "1531831500",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Brad Quenville"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Angelika Langen"
+                  },
+                  {
+                     "name" : "Peter Langen"
+                  }
+               ]
+            },
+            "new" : null,
+            "start" : "1531830000",
+            "title" : {
+               "da" : "Bj\u00f8rneinternatet"
+            },
+            "channel" : "nature.viasat.dk"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 6 s\u00e6son 1",
+               "xmltv_ns" : "0 . 5 ."
+            },
+            "desc" : {
+               "da" : "Tusindvis flokkes til internatets \u00e5rlige \u00e5bent hus, og Angelika skal afveje publicity og en alvorligt syg d\u00e5kalv."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "date" : "2017",
+            "stop" : "1531833000",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Angelika Langen"
+                  },
+                  {
+                     "name" : "Peter Langen"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Brad Quenville"
+                  }
+               ]
+            },
+            "new" : null,
+            "start" : "1531831500",
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Bj\u00f8rneinternatet"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Peter og Angelika redder to bj\u00f8rneunger, efter deres mor blev dr\u00e6bt i trafikken. Thomas tr\u00e6ffer en vigtig karrierebeslutning, og Kim og Shawn redder en s\u00e5ret d\u00e5kalv."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7 s\u00e6son 1",
+               "xmltv_ns" : "0 . 6 ."
+            },
+            "date" : "2017",
+            "stop" : "1531834500",
+            "new" : null,
+            "start" : "1531833000",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Brad Quenville"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Angelika Langen"
+                  },
+                  {
+                     "name" : "Peter Langen"
+                  }
+               ]
+            },
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Bj\u00f8rneinternatet"
+            }
+         },
+         {
+            "new" : null,
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Brad Quenville"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Angelika Langen"
+                  },
+                  {
+                     "name" : "Peter Langen"
+                  }
+               ]
+            },
+            "start" : "1531834500",
+            "title" : {
+               "da" : "Bj\u00f8rneinternatet"
+            },
+            "channel" : "nature.viasat.dk",
+            "date" : "2017",
+            "stop" : "1531836000",
+            "desc" : {
+               "da" : "Angelika er udmattet og glemmer derfor at lukke et af burene. To unger slipper ud, og nu skal hun finde dem igen. Senere pr\u00f8ver Peter at fange en snu ulv."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8 s\u00e6son 1",
+               "xmltv_ns" : "0 . 7 ."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "En unge er alvorligt syg, og en anden har et grimt s\u00e5r p\u00e5 maven. Angelika og Peter k\u00e6mper for at g\u00f8re den st\u00f8rre bj\u00f8rneindhegning klar."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 9 s\u00e6son 1",
+               "xmltv_ns" : "0 . 8 ."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Bj\u00f8rneinternatet"
+            },
+            "start" : "1531836000",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Angelika Langen"
+                  },
+                  {
+                     "name" : "Peter Langen"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Brad Quenville"
+                  }
+               ]
+            },
+            "stop" : "1531837500",
+            "date" : "2017"
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 6 .",
+               "onscreen" : "Afsnit 7 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "En af de f\u00f8rste diabeteshunde i Canada redder to tvillingers liv og giver dem ny frihed og uafh\u00e6ngighed."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "title" : {
+               "da" : "N\u00e5r pligten kalder"
+            },
+            "channel" : "nature.viasat.dk",
+            "start" : "1531837500",
+            "new" : null,
+            "stop" : "1531839000",
+            "date" : "2016"
+         },
+         {
+            "new" : null,
+            "start" : "1531839000",
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Dyrepolitiet: Phoenix"
+            },
+            "date" : "2016",
+            "stop" : "1531842000",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Dyrepolitiet redder en rottweiler, der var l\u00e6nket i den varme sol, og dyrl\u00e6gerne k\u00e6mper for at redde en hund efter et coyote-angreb."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Chris starter dagen med barberingstips fra sin gode ven Trevor, en vandagam. Og vi ser til Matilda, den lillebitte koalaunge i koalacenteret."
+            },
+            "date" : "2016",
+            "stop" : "1531843500",
+            "new" : null,
+            "start" : "1531842000",
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Chris Humfrey's Dyre-instinkter"
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 1",
+               "xmltv_ns" : "0 . 3 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Det er parringstid for pungm\u00e5rene, og da der kun er f\u00e5 avlsprogrammer i Australien, er presset stort."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Chris Humfrey's Dyre-instinkter"
+            },
+            "start" : "1531843500",
+            "new" : null,
+            "stop" : "1531845000",
+            "date" : "2016"
+         },
+         {
+            "date" : "2016",
+            "stop" : "1531847700",
+            "new" : null,
+            "country" : [
+               "GB"
+            ],
+            "start" : "1531845000",
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Vilde dyr med Dominic Monaghan"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Efter en dags sightseeing i Sao Paulo tager Dom til Brasiliens Pantanal, verdens st\u00f8rste v\u00e5dlandsomr\u00e5de. Han leder efter k\u00e6mpemyreslugeren, der er Pantanals m\u00e6rkeligste dyr."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 9 .",
+               "onscreen" : "Afsnit 10 s\u00e6son 3"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Denne dokumentar er et indblik i, hvordan Nigel Marven fanger og unders\u00f8ger udrydningstruede dyr."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Nature"
+               ]
+            },
+            "date" : "2011",
+            "stop" : "1531850400",
+            "start" : "1531847700",
+            "country" : [
+               "GB"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "Nigel Marvens eventyr i Yunnan"
+            },
+            "channel" : "nature.viasat.dk"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "For tusinder af \u00e5r siden var Nordamerika begravet under tre kilometer tyk is. De store mammutter og uldne n\u00e6sehorn vandrede rundt p\u00e5 landjorden - men de blev jaget af grupper af glubske sabelkatte."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "date" : "2013",
+            "stop" : "1531853700",
+            "start" : "1531850400",
+            "country" : [
+               "GB"
+            ],
+            "new" : null,
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Istids-giganterne"
+            }
+         },
+         {
+            "stop" : "1531857300",
+            "date" : "2013",
+            "title" : {
+               "da" : "Tal med dyrene"
+            },
+            "channel" : "nature.viasat.dk",
+            "start" : "1531853700",
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Lucy ser p\u00e5, hvordan dyr kommunikerer i deres sociale grupper, og p\u00e5 kommunikationen mellem dyr, der leder efter den perfekte mage."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "En vild dag"
+            },
+            "new" : null,
+            "start" : "1531857300",
+            "stop" : "1531860600",
+            "date" : "2016",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Vi f\u00f8lger nogle af verdens mest ekstreme \u00f8rkendyr i 24 timer. En flok \u00f8rkenelefanter drager p\u00e5 en vigtig rejse, og et \u00e6gte natteuhyre udnytter dagens forskellige tidspunkter."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 1",
+               "xmltv_ns" : "0 . 2 ."
+            },
+            "desc" : {
+               "da" : "Dyrepolitiet redder en rottweiler, der var l\u00e6nket i den varme sol, og dyrl\u00e6gerne k\u00e6mper for at redde en hund efter et coyote-angreb."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "start" : "1531860600",
+            "new" : null,
+            "title" : {
+               "da" : "Dyrepolitiet: Phoenix"
+            },
+            "channel" : "nature.viasat.dk",
+            "date" : "2016",
+            "stop" : "1531863600"
+         },
+         {
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Evolution p\u00e5 farten"
+            },
+            "new" : null,
+            "start" : "1531863600",
+            "stop" : "1531866900",
+            "date" : "2014",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Flokke af chimpanser fra Mali og Senegal har forladt skoven og s\u00f8gt mod savannen. De l\u00e6rer hurtigt at tilpasse sig de nye omgivelser og lave v\u00e5ben til at jage med."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "stop" : "1531870200",
+            "date" : "2014",
+            "title" : {
+               "da" : "Evolution p\u00e5 farten"
+            },
+            "channel" : "nature.viasat.dk",
+            "new" : null,
+            "start" : "1531866900",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Bavianer p\u00e5 den arabiske halv\u00f8 bortf\u00f8rer og opfostrer hunde. Er det ligesom, da vi mennesker gjorde ulven tam, men nu er det aber og hunde?"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 1"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Huskier har hjulpet mennesket med at overleve i Alaskas ubarmhjertige vildnis. Hundene har stadig mange af deres vilde aners isl\u00e6t, s\u00e5 de kan overleve den barske vinter."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            },
+            "date" : "2016",
+            "stop" : "1531871700",
+            "country" : [
+               "GB"
+            ],
+            "new" : null,
+            "start" : "1531870200",
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Alaskas vildeste by"
+            }
+         },
+         {
+            "date" : "2015",
+            "stop" : "1531873200",
+            "new" : null,
+            "start" : "1531871700",
+            "channel" : "nature.viasat.dk",
+            "title" : {
+               "da" : "Polar Bear Town"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Dennis er mentor for en isbj\u00f8rne-guide, der skal opl\u00e6res i de mest n\u00f8dvendige ting. Imens tager Brian tv\u00e6rs hen over kloden, for at skaffe den n\u00f8dvendige bj\u00f8rnesikkerhed, til sin vejside-attraktion."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "xmltv_ns" : "0 . 1 ."
+            }
+         }
+      ]
+   }
+}

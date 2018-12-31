@@ -1,0 +1,756 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "desc" : {
+               "en" : "Get a behind-the-scenes look at the US Navy's salvage ship, the USNS Grasp, as it sails on a mission in the North Sea to hunt for a famous US shipwreck."
+            },
+            "start" : "1522627200",
+            "title" : {
+               "en" : "Mighty Ships"
+            },
+            "new" : null,
+            "channel" : "en.discovery.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "5 . 4 .",
+               "onscreen" : "Episode 5 season 6"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "en" : "USNS Grasp"
+            },
+            "stop" : "1522630800"
+         },
+         {
+            "start" : "1522630800",
+            "desc" : {
+               "en" : "The boys head to Chinatown, where a group of local thugs attempt to scupper the plucky duo's plans. But will it be big treasure in little China?"
+            },
+            "title" : {
+               "en" : "Auction Hunters"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 6 .",
+               "onscreen" : "Episode 7 season 4"
+            },
+            "channel" : "en.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1522632600",
+            "subTitle" : {
+               "en" : "Flying Ton, Creeping Allen"
+            }
+         },
+         {
+            "title" : {
+               "en" : "Auction Hunters"
+            },
+            "desc" : {
+               "en" : "The boys run into an old friend and former employee at a particularly lively auction, but will her new found confidence lead to any auction scuffles with the boys?"
+            },
+            "start" : "1522632600",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 7 .",
+               "onscreen" : "Episode 8 season 4"
+            },
+            "channel" : "en.discovery.dk",
+            "stop" : "1522634100",
+            "subTitle" : {
+               "en" : "Whip It Good"
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Episode 9 season 4",
+               "xmltv_ns" : "3 . 8 ."
+            },
+            "channel" : "en.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1522635600",
+            "subTitle" : {
+               "en" : "Machine Gun Ton"
+            },
+            "desc" : {
+               "en" : "Auction Hunters Ton and Allen get in a bidding war with two highly competitive women over a heavy Gatling gun and an old suit of armour."
+            },
+            "start" : "1522634100",
+            "title" : {
+               "en" : "Auction Hunters"
+            },
+            "new" : null
+         },
+         {
+            "subTitle" : {
+               "en" : "Always Money in Philadelphia"
+            },
+            "stop" : "1522637100",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "channel" : "en.discovery.dk",
+            "episodeNum" : {
+               "onscreen" : "Episode 10 season 4",
+               "xmltv_ns" : "3 . 9 ."
+            },
+            "new" : null,
+            "title" : {
+               "en" : "Auction Hunters"
+            },
+            "desc" : {
+               "en" : "In Philadelphia, Ton and Allen tackle former NFL player Vince Papale over a vintage football-passing machine and a Colonial musket."
+            },
+            "start" : "1522635600"
+         },
+         {
+            "start" : "1522637100",
+            "desc" : {
+               "en" : "Wayne's thrilled to discover two early 356 Porsches in a garage, but Wayne discovers the driver's door on one car is riddled with 60-year-old bullet holes."
+            },
+            "title" : {
+               "en" : "Chasing Classic Cars"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "7 . 16 .",
+               "onscreen" : "Episode 17 season 8"
+            },
+            "channel" : "en.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1522638600",
+            "subTitle" : {
+               "en" : "This Porsche Is Shot"
+            }
+         },
+         {
+            "channel" : "en.discovery.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "7 . 17 .",
+               "onscreen" : "Episode 18 season 8"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "en" : "Rain Man Buick"
+            },
+            "stop" : "1522640100",
+            "start" : "1522638600",
+            "desc" : {
+               "en" : "Director/producer Barry Levinson asks Wayne to restore his iconic 1949 Buick Roadmaster, which starred in the Oscar-winning hit film 'Rain Man'."
+            },
+            "title" : {
+               "en" : "Chasing Classic Cars"
+            },
+            "new" : null
+         },
+         {
+            "title" : {
+               "en" : "How It's Made"
+            },
+            "desc" : {
+               "en" : "Find out how items such as sidecars, frozen French toast, refrigerator compressors and superchargers are made."
+            },
+            "start" : "1522640100",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 23 season 21",
+               "xmltv_ns" : "20 . 22 ."
+            },
+            "channel" : "en.discovery.dk",
+            "stop" : "1522641600",
+            "subTitle" : {
+               "en" : "Sidecars, Frozen French Toast, Refrigerator Compressors, Superchargers"
+            }
+         },
+         {
+            "stop" : "1522643100",
+            "subTitle" : {
+               "en" : "Custom Knee Braces, Air Conditioners, Window Films, Motorcycle Exhaust"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "20 . 23 .",
+               "onscreen" : "Episode 24 season 21"
+            },
+            "channel" : "en.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "new" : null,
+            "desc" : {
+               "en" : "More everyday items are put under the microscope as we discover how custom knee braces, ductless air conditioners, window film and motorcycle exhaust systems are made."
+            },
+            "start" : "1522641600",
+            "title" : {
+               "en" : "How It's Made"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "channel" : "en.discovery.dk",
+            "episodeNum" : {
+               "onscreen" : "Episode 25 season 4",
+               "xmltv_ns" : "3 . 24 ."
+            },
+            "subTitle" : {
+               "en" : "Gone in 20 Seconds"
+            },
+            "stop" : "1522644900",
+            "title" : {
+               "en" : "Auction Hunters"
+            },
+            "start" : "1522643100",
+            "desc" : {
+               "en" : "Ton and Allen get taken down by their fiercest opponent, CJ, but a twist of fate keeps them in the game. Meanwhile, they uncover a Geiger counter."
+            },
+            "new" : null
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 25 .",
+               "onscreen" : "Episode 26 season 4"
+            },
+            "channel" : "en.discovery.dk",
+            "stop" : "1522646400",
+            "subTitle" : {
+               "en" : "To Pawn or Not to Pawn"
+            },
+            "title" : {
+               "en" : "Auction Hunters"
+            },
+            "start" : "1522644900",
+            "desc" : {
+               "en" : "On the brink of a major decision, Ton and Allen face-off with Carolyn at an auction in Covina. Later, the guys decide the fate of the shop."
+            },
+            "new" : null
+         },
+         {
+            "start" : "1522646400",
+            "desc" : {
+               "en" : "Pete and his crew bring the spirit of Kenya to Washington State, building an African-inspired circular hut treehouse with a traditional thatched roof."
+            },
+            "title" : {
+               "en" : "Treehouse Masters"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 7 .",
+               "onscreen" : "Episode 8 season 2"
+            },
+            "channel" : "en.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1522649700",
+            "subTitle" : {
+               "en" : "African Safari Hut"
+            }
+         },
+         {
+            "new" : null,
+            "start" : "1522649700",
+            "desc" : {
+               "en" : "Joel faces off against the Philippines Army Scout Rangers. The elite group has 48 hours to track, hunt and capture Joel before he escapes the dense Philippines jungle."
+            },
+            "title" : {
+               "en" : "Manhunt with Joel Lambert"
+            },
+            "stop" : "1522652700",
+            "subTitle" : {
+               "en" : "Philippines"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 5 .",
+               "onscreen" : "Episode 6 season 1"
+            },
+            "channel" : "en.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "title" : {
+               "en" : "Wheeler Dealers"
+            },
+            "desc" : {
+               "en" : "Mike goes to France in search of a retro-cool Citro\u00ebn HY Van. Edd isn't impressed with his spoils, knowing it will be a costly renovation. But can they find a buyer?"
+            },
+            "start" : "1522652700",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 16 season 12",
+               "xmltv_ns" : "11 . 15 ."
+            },
+            "channel" : "en.discovery.dk",
+            "stop" : "1522656000",
+            "subTitle" : {
+               "en" : "Citroen HY Van"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "channel" : "en.discovery.dk",
+            "episodeNum" : {
+               "onscreen" : "Episode 1 season 2",
+               "xmltv_ns" : "1 . 0 ."
+            },
+            "subTitle" : {
+               "en" : "Surfs Up for a '61 Econo-fine"
+            },
+            "stop" : "1522659600",
+            "title" : {
+               "en" : "Misfit Garage"
+            },
+            "desc" : {
+               "en" : "Fired Up rescues a rusty 1961 Ford Econoline pickup. When Tom finds hidden treasure, he hunts down legendary Mexican luchador Blue Demon Jr."
+            },
+            "start" : "1522656000",
+            "new" : null
+         },
+         {
+            "desc" : {
+               "en" : "The crew of The Wizard face a life or death situation when a deckhand collapses. Meanwhile, on the Seabrooke, Scott is determined to win the captain's wager, but at what cost?"
+            },
+            "start" : "1522659600",
+            "title" : {
+               "en" : "Deadliest Catch"
+            },
+            "new" : null,
+            "channel" : "en.discovery.dk",
+            "episodeNum" : {
+               "onscreen" : "Episode 6 season 8",
+               "xmltv_ns" : "7 . 5 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "en" : "Vital Signs"
+            },
+            "stop" : "1522663200"
+         },
+         {
+            "new" : null,
+            "start" : "1522663200",
+            "desc" : {
+               "en" : "All the teams are working hard to make the season pay. But they will have to contend with the weight of the past before they can land on future riches."
+            },
+            "title" : {
+               "en" : "Gold Divers"
+            },
+            "stop" : "1522666800",
+            "subTitle" : {
+               "en" : "Baggage"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "4 . 3 .",
+               "onscreen" : "Episode 4 season 5"
+            },
+            "channel" : "en.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "title" : {
+               "en" : "Gold Divers"
+            },
+            "start" : "1522666800",
+            "desc" : {
+               "en" : "With less than a week remaining in the season, every crew member is battling the clock. Just when they think it couldn't get any harder, a massive storm descends on Nome."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "channel" : "en.discovery.dk",
+            "episodeNum" : {
+               "onscreen" : "Episode 5 season 5",
+               "xmltv_ns" : "4 . 4 ."
+            },
+            "subTitle" : {
+               "en" : "The Blizzard"
+            },
+            "stop" : "1522670400"
+         },
+         {
+            "new" : null,
+            "start" : "1522670400",
+            "desc" : {
+               "en" : "How did the crew crisscross eight countries to capture elusive jaguars, mountain lions and battling bull bison on film? Find out in this special."
+            },
+            "title" : {
+               "en" : "North America"
+            },
+            "subTitle" : {
+               "en" : "North America: Revealed"
+            },
+            "stop" : "1522674000",
+            "channel" : "en.discovery.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 5 .",
+               "onscreen" : "Episode 6 season 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "new" : null,
+            "title" : {
+               "en" : "Alaska Mega Machines"
+            },
+            "desc" : {
+               "en" : "A rugged ship built to withstand tsunami size waves travels on a highway unlike any other in North America. Later, a fleet of machines combats a massive flood."
+            },
+            "start" : "1522674000",
+            "subTitle" : {
+               "en" : "Beasts Of The Arctic"
+            },
+            "stop" : "1522677600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "channel" : "en.discovery.dk",
+            "episodeNum" : {
+               "onscreen" : "Episode 2 season 1",
+               "xmltv_ns" : "0 . 1 ."
+            }
+         },
+         {
+            "title" : {
+               "en" : "Salvage Hunters"
+            },
+            "desc" : {
+               "en" : "Drew gets to live out every schoolboy's dream - driving a 1940s steam engine. Then, he visits a country house where there's hundreds of years' worth of junk to trawl for gems."
+            },
+            "start" : "1522677600",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "channel" : "en.discovery.dk",
+            "episodeNum" : {
+               "onscreen" : "Episode 4 season 6",
+               "xmltv_ns" : "5 . 3 ."
+            },
+            "subTitle" : {
+               "en" : "Episode 4"
+            },
+            "stop" : "1522681200"
+         },
+         {
+            "stop" : "1522684800",
+            "subTitle" : {
+               "en" : "Hollywood Plane Landing"
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 6 season 1",
+               "xmltv_ns" : "0 . 5 ."
+            },
+            "channel" : "en.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "new" : null,
+            "desc" : {
+               "en" : "Is it possible to scale a building with vacuum cleaners? Could an amateur land a plane with radio instructions? The build team contestants find out."
+            },
+            "start" : "1522681200",
+            "title" : {
+               "en" : "Mythbusters: The Search"
+            }
+         },
+         {
+            "new" : null,
+            "desc" : {
+               "en" : "Mike is ecstatic when he snaps up a cult VW Corrado coupe with only one previous owner for a bargain price. But with cheap cars come expensive surprises."
+            },
+            "start" : "1522684800",
+            "title" : {
+               "en" : "Wheeler Dealers"
+            },
+            "stop" : "1522688400",
+            "subTitle" : {
+               "en" : "VW Corrado VR6"
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 17 season 12",
+               "xmltv_ns" : "11 . 16 ."
+            },
+            "channel" : "en.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "subTitle" : {
+               "en" : "One Cool Impala"
+            },
+            "stop" : "1522692000",
+            "channel" : "en.discovery.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 1 .",
+               "onscreen" : "Episode 2 season 3"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "new" : null,
+            "start" : "1522688400",
+            "desc" : {
+               "en" : "When Richard buys a '65 Chevy Impala, they put their Gas Monkey spin on it. Meanwhile, Richard and Aaron score a '34 Five Window Ford."
+            },
+            "title" : {
+               "en" : "Fast N' Loud"
+            }
+         },
+         {
+            "new" : null,
+            "title" : {
+               "en" : "Street Outlaws Vs Fast N' Loud"
+            },
+            "start" : "1522692000",
+            "desc" : {
+               "en" : "In the lead-up to the second Mega Race, NASCAR racing superstar Karl Busch presents a catch up of the rivalry the 405 crew and Gas Monkey garage."
+            },
+            "stop" : "1522695600",
+            "subTitle" : {
+               "en" : "Start Your Engines"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 1 season 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "channel" : "en.discovery.dk"
+         },
+         {
+            "new" : null,
+            "desc" : {
+               "en" : "After losing to the 405 in the Mega Race, Richard Rawlings wants a re-match. Plus, the Fired Up crew call out Farmtruck and AZN to a race of their own."
+            },
+            "start" : "1522695600",
+            "title" : {
+               "en" : "Street Outlaws Vs Fast N' Loud"
+            },
+            "stop" : "1522699200",
+            "subTitle" : {
+               "en" : "Build To Mega Race: Gear 1"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1 .",
+               "onscreen" : "Episode 2 season 1"
+            },
+            "channel" : "en.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 13 season 4",
+               "xmltv_ns" : "3 . 12 ."
+            },
+            "channel" : "en.discovery.dk",
+            "stop" : "1522702800",
+            "subTitle" : {
+               "en" : "It's Getting Hot In Here"
+            },
+            "title" : {
+               "en" : "Kindig Customs"
+            },
+            "start" : "1522699200",
+            "desc" : {
+               "en" : "It's the last car show of the season. The Fairlane and the Nomad get extra attention and Dave and Kevin check out the best cars in Reno."
+            },
+            "new" : null
+         },
+         {
+            "new" : null,
+            "title" : {
+               "en" : "Alaska: The Last Frontier"
+            },
+            "start" : "1522702800",
+            "desc" : {
+               "en" : "Otto and Eivin attempt to turn the wilderness into a source of food. Meanwhile, Atz Sr battles the elements and a menace at the head of the bay."
+            },
+            "stop" : "1522706400",
+            "subTitle" : {
+               "en" : "Blood, Sweat & Beers"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "4 . 1 .",
+               "onscreen" : "Episode 2 season 5"
+            },
+            "channel" : "en.discovery.dk"
+         },
+         {
+            "desc" : {
+               "en" : "Brian and Jon investigate whether a burglar stuck in a chimney could be shot skywards by a propane explosion. Plus, an old team member returns."
+            },
+            "start" : "1522706400",
+            "title" : {
+               "en" : "Mythbusters"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Episode 2 season 11",
+               "xmltv_ns" : "10 . 1 ."
+            },
+            "channel" : "en.discovery.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1522710000",
+            "subTitle" : {
+               "en" : "Chimney Cannon"
+            }
+         },
+         {
+            "subTitle" : {
+               "en" : "Build To Mega Race: Gear 1"
+            },
+            "stop" : "1522713600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "channel" : "en.discovery.dk",
+            "episodeNum" : {
+               "onscreen" : "Episode 2 season 1",
+               "xmltv_ns" : "0 . 1 ."
+            },
+            "new" : null,
+            "title" : {
+               "en" : "Street Outlaws Vs Fast N' Loud"
+            },
+            "start" : "1522710000",
+            "desc" : {
+               "en" : "After losing to the 405 in the Mega Race, Richard Rawlings wants a re-match. Plus, the Fired Up crew call out Farmtruck and AZN to a race of their own."
+            }
+         }
+      ]
+   }
+}

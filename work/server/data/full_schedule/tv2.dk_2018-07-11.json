@@ -1,0 +1,504 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "stop" : "1531271400",
+            "date" : "2011",
+            "channel" : "tv2.dk",
+            "title" : {
+               "da" : "Kaos i Skagen"
+            },
+            "start" : "1531269300",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "S\u00e6lgeren Morten Lund afholder stor promotionevent for sin ros\u00e9-cocktail i Gl. Skagen, men Morten m\u00f8des af flere udfordringer, og eventen g\u00e5r ikke helt efter planen. Knallertgruppen Eightball k\u00e6mper med tidspres og motorstop p\u00e5 deres 200 kilometer lange roadtrip p\u00e5 vej mod MC-tr\u00e6f. Og s\u00e5 mangler restaurat\u00f8r Henrik Tauchau fra den ekslusive restaurant De 2 Have picnickurve til Verdensballetten."
+            }
+         },
+         {
+            "new" : null,
+            "start" : "1531271400",
+            "title" : {
+               "da" : "BS & manddomspr\u00f8ven"
+            },
+            "channel" : "tv2.dk",
+            "date" : "2016",
+            "stop" : "1531274400",
+            "desc" : {
+               "da" : "Otte m\u00e6nd, der f\u00f8r var usikre og hj\u00e6lpel\u00f8se, er t\u00e6t p\u00e5 at best\u00e5 den ultimative manddomspr\u00f8ve. P\u00e5 en \u00f8de tropisk \u00f8 har de i ugevis k\u00e6mpet en r\u00e5 kamp for at overleve. Presset til det yderste, mentalt og fysisk, er de blevet guidet og undervist af mentaltr\u00e6ner BS Christiansen. Og har omsider fundet hjem til deres indre autentiske mand. De har bevist, at det aldrig er for sent, at f\u00e5 et godt liv. Men er nyvunden selvsikkerhed og styrke nok til at bringe dem over det farlige rev, der omgiver \u00f8en? Hvordan vil familien reagere, n\u00e5r vattet er skiftet ud med maskuline v\u00e6rdier og mentale muskler? Nu skal det vise sig, om tilegnet urkraft og en bambus-t\u00f8mmerfl\u00e5de vil b\u00e6re eller briste i deres nye liv?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "date" : "2018",
+            "stop" : "1531283400",
+            "new" : null,
+            "start" : "1531274400",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyhederne og Vejret"
+            },
+            "channel" : "tv2.dk"
+         },
+         {
+            "date" : "2018",
+            "stop" : "1531303200",
+            "new" : null,
+            "start" : "1531283400",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Go' morgen Danmark"
+            },
+            "channel" : "tv2.dk"
+         },
+         {
+            "desc" : {
+               "da" : "Michael St\u00e6rke har g\u00e6ster i studiet, og sammen giver de en update p\u00e5 de vigtigste begivenheder, og hvad der er i vente i Tour de France. De f\u00e5r ogs\u00e5 sidste nyt og analyser fra TV 2s kommentatorer og reportere direkte fra Tour-ruten. Find altid resultater, analyser og nyheder p\u00e5 tv2sport.dk."
+            },
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Sports"
+               ]
+            },
+            "date" : "2018",
+            "stop" : "1531305300",
+            "start" : "1531303200",
+            "new" : null,
+            "title" : {
+               "da" : "Tour de France: Studiet"
+            },
+            "channel" : "tv2.dk"
+         },
+         {
+            "subTitle" : {
+               "da" : "Tour de France 2018"
+            },
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Sports"
+               ]
+            },
+            "desc" : {
+               "da" : "Dagens etape er en h\u00e5rd og kuperet Bretagne-etape, med masser af skjulte h\u00f8jdemeter. Den kan minde lidt i profil om en for\u00e5rsklassiker og er oplagt til et udbrud. Den slutter i den gamle by Quimper, der senest var m\u00e5lby i 2004, hvor Thor Hushoved vandt en etape i den."
+            },
+            "date" : "2018",
+            "stop" : "1531314000",
+            "new" : null,
+            "start" : "1531305300",
+            "channel" : "tv2.dk",
+            "title" : {
+               "da" : "Tour de France: 5. etape"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "channel" : "tv2.dk",
+            "title" : {
+               "da" : "Nyhederne"
+            },
+            "start" : "1531314000",
+            "new" : null,
+            "stop" : "1531314600",
+            "date" : "2018"
+         },
+         {
+            "stop" : "1531323000",
+            "date" : "2018",
+            "title" : {
+               "da" : "Tour de France: 5. etape"
+            },
+            "channel" : "tv2.dk",
+            "new" : null,
+            "start" : "1531314600",
+            "subTitle" : {
+               "da" : "Tour de France 2018"
+            },
+            "desc" : {
+               "da" : "Dagens etape er en h\u00e5rd og kuperet Bretagne-etape, med masser af skjulte h\u00f8jdemeter. Den kan minde lidt i profil om en for\u00e5rsklassiker og er oplagt til et udbrud. Den slutter i den gamle by Quimper, der senest var m\u00e5lby i 2004, hvor Thor Hushoved vandt en etape i den."
+            },
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Sports"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Sports"
+               ]
+            },
+            "desc" : {
+               "da" : "Michael St\u00e6rke har g\u00e6ster i studiet, og sammen giver de en update p\u00e5 de vigtigste begivenheder, og hvad der er i vente i Tour de France. De f\u00e5r ogs\u00e5 sidste nyt og analyser fra TV 2s kommentatorer og reportere direkte fra Tour-ruten. Find altid resultater, analyser og nyheder p\u00e5 tv2sport.dk."
+            },
+            "date" : "2018",
+            "stop" : "1531324800",
+            "new" : null,
+            "start" : "1531323000",
+            "channel" : "tv2.dk",
+            "title" : {
+               "da" : "Tour de France: Studiet"
+            }
+         },
+         {
+            "date" : "2018",
+            "stop" : "1531325400",
+            "new" : null,
+            "start" : "1531324800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyhederne og Sporten"
+            },
+            "channel" : "tv2.dk"
+         },
+         {
+            "new" : null,
+            "start" : "1531325400",
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "channel" : "tv2.dk",
+            "title" : {
+               "da" : "Regionale nyheder"
+            },
+            "date" : "2018",
+            "stop" : "1531325700"
+         },
+         {
+            "stop" : "1531326000",
+            "date" : "2018",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "tv2.dk",
+            "title" : {
+               "da" : "Dit sommervejr"
+            },
+            "new" : null,
+            "start" : "1531325700"
+         },
+         {
+            "desc" : {
+               "da" : "Michael St\u00e6rke har g\u00e6ster i studiet, og sammen giver de en update p\u00e5 de vigtigste begivenheder, og hvad der er i vente i Tour de France. De f\u00e5r ogs\u00e5 sidste nyt og analyser fra TV 2s kommentatorer og reportere direkte fra Tour-ruten. Find altid resultater, analyser og nyheder p\u00e5 tv2sport.dk."
+            },
+            "category" : {
+               "en" : [
+                  "sports",
+                  "Sports"
+               ]
+            },
+            "start" : "1531326000",
+            "new" : null,
+            "channel" : "tv2.dk",
+            "title" : {
+               "da" : "Tour de France: Studiet"
+            },
+            "date" : "2018",
+            "stop" : "1531328400"
+         },
+         {
+            "date" : "2018",
+            "stop" : "1531330200",
+            "start" : "1531328400",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyhederne"
+            },
+            "channel" : "tv2.dk"
+         },
+         {
+            "stop" : "1531332000",
+            "date" : "2018",
+            "channel" : "tv2.dk",
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "title" : {
+               "da" : "Regionalprogram"
+            },
+            "new" : null,
+            "start" : "1531330200"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Dybt inde i Borneos regnskov er Mikkel, Marian og Theis p\u00e5 deres hidtil h\u00e5rdeste eventyr. De kommer t\u00e6t p\u00e5 den sj\u00e6ldne orangutang, men oplever ogs\u00e5 p\u00e5 n\u00e6rmeste hold, hvorfor menneskeaben er truet p\u00e5 sin eksistens. I en afsides flodby genforenes hele familien ombord p\u00e5 Havana og s\u00e6tter kursen mod Singapore. Men sejladsen g\u00e5r ikke helt, som de havde h\u00e5bet. Luftfugtigheden er i top, og mekanikken driller konstant."
+            },
+            "date" : "2017",
+            "stop" : "1531335000",
+            "new" : null,
+            "start" : "1531332000",
+            "channel" : "tv2.dk",
+            "title" : {
+               "da" : "Kurs mod fjerne kyster"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Politiet er p\u00e5 patrulje i det k\u00f8benhavnske natteliv, da de st\u00f8der p\u00e5 en meget forvirret bilist, der har sv\u00e6rt ved at finde rundt. P\u00e5 Politiskolen skal de studerende p\u00e5 kadetuddannelsen for f\u00f8rste gang have deres uniformer p\u00e5. Og s\u00e5 spotter en patrulje en ung mand, der opf\u00f8rer sig mist\u00e6nkeligt ved indgangen til en opgang. Betjentene mist\u00e6nker ham for at v\u00e6re i besiddelse af narko, men i f\u00f8rste omgang n\u00e6gter han alt."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "title" : {
+               "da" : "Station 2: Politirapporten"
+            },
+            "channel" : "tv2.dk",
+            "start" : "1531335000",
+            "new" : null,
+            "stop" : "1531337100",
+            "date" : "2017"
+         },
+         {
+            "title" : {
+               "da" : "Razzia"
+            },
+            "channel" : "tv2.dk",
+            "start" : "1531337100",
+            "new" : null,
+            "stop" : "1531339200",
+            "date" : "2016",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "P\u00e5 en k\u00f8rende razzia p\u00e5 de sj\u00e6llandske motorveje standser betjent Johnny Klindt Jacobsen fra Midt- og Vestsj\u00e6llands Politi en svensk bus, der ikke har alle de n\u00f8dvendige papirer i orden. Betjenten Mikkel fra Sydsj\u00e6llands og Lolland-Falsters Politi er taget p\u00e5 fartkontrol og standser en bilist, der k\u00f8rer 90 km/t i en 60-zone og h\u00e5rdnakket p\u00e5st\u00e5r, at det ikke har noget med sikkerhed at g\u00f8re, n\u00e5r politiet foretager fartkontrol. Dyrl\u00e6ge Inger Lund Overgaard tager ud for at redde nogle f\u00e5r, der sidder fast i et hegn p\u00e5 en mark ved Tarm. Og det er langt fra f\u00f8rste gang, Dyrenes Beskyttelse har modtaget en henvendelse om den p\u00e5g\u00e6ldende landmand."
+            }
+         },
+         {
+            "start" : "1531339200",
+            "new" : null,
+            "title" : {
+               "da" : "Nyhederne, Sporten og Vejret"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2.dk",
+            "date" : "2018",
+            "stop" : "1531340940"
+         },
+         {
+            "start" : "1531340940",
+            "new" : null,
+            "channel" : "tv2.dk",
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "title" : {
+               "da" : "Regionale nyheder"
+            },
+            "date" : "2018",
+            "stop" : "1531341900"
+         },
+         {
+            "stop" : "1531345200",
+            "date" : "2008",
+            "channel" : "tv2.dk",
+            "title" : {
+               "da" : "Krop umulig!"
+            },
+            "new" : null,
+            "start" : "1531341900",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Dawn Harper",
+                     "role" : "Herself - Doctor"
+                  },
+                  {
+                     "role" : "Herself - Doctor",
+                     "name" : "Pixie McKenna"
+                  },
+                  {
+                     "role" : "Himself - Doctor",
+                     "name" : "Christian Jessen"
+                  },
+                  {
+                     "name" : "Ashley Jensen",
+                     "role" : "Herself - Narrator"
+                  }
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=136191&seasonid=505430&id=4561792&lid=8"
+            ],
+            "subTitle" : {
+               "da" : "Sundown"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "5 . 7 .",
+               "thetvdb.com" : "series/136191",
+               "onscreen" : "Afsnit 8 s\u00e6son 6"
+            },
+            "desc" : {
+               "da" : "De popul\u00e6re tv-l\u00e6ger kaster endnu engang deres kyndige \u00f8jne og frygtl\u00f8se blik p\u00e5 fysiske lidelser, der er mere end almindeligt ubehagelige lidelser. Dr. Dawn m\u00f8der en ung kvinde med en meget sj\u00e6lden genetisk sygdom, der vansirer hendes ansigt, dr. Pixie hj\u00e6lper en kvinde med et par uligev\u00e6gtige bryster, og dr. Christian unders\u00f8ger en ung mand, der har voldsomme smerter i den ene testikel. Seerne kan ogs\u00e5 m\u00f8de den tidligere rubgyspiller Matt Hampson, hvis liv blev forandret p\u00e5 et splitsekund. Efter en voldsom tackling p\u00e5 banen blev han lam fra halsen og ned, og han er i dag bundet til en k\u00f8restol."
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Der er gensyn med nogle af de st\u00f8rste patienter, n\u00e5r l\u00e6gerne f\u00e5r bes\u00f8g af tidligere medvirkende, der lider af ekstrem overv\u00e6gt. M\u00f8d Patience et \u00e5r efter det f\u00f8rste bes\u00f8g hos dr. Christian og se, hvordan Mike og Sara klarer sig efter deres overv\u00e6gtsoperationer."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "date" : "2013",
+            "stop" : "1531348500",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Christian Jessen"
+                  },
+                  {
+                     "name" : "Pixie McKenna"
+                  },
+                  {
+                     "name" : "Dawn Harper"
+                  }
+               ]
+            },
+            "start" : "1531345200",
+            "title" : {
+               "da" : "Krop umulig fedme - tilbage til klinikken"
+            },
+            "channel" : "tv2.dk"
+         },
+         {
+            "desc" : {
+               "da" : "Hver dag rejser flere end 20.000 passagerer ind i Australien med skib eller fly, og de skal alle igennem gr\u00e6nsekontrollen, f\u00f8r de bliver lukket ind i landet. De mange kvinder og m\u00e6nd, der bogstavelig talt udg\u00f8r Australiens frontlinje, er bl.a. p\u00e5 udkig efter rejsende, der m\u00e5ske ikke er, hvad de udgiver sig for, narkokurerer, illegale immigranter og mulige terrorister."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "tv2.dk",
+            "title" : {
+               "da" : "Gr\u00e6nsepatruljen"
+            },
+            "start" : "1531348500",
+            "new" : null,
+            "stop" : "1531350300",
+            "date" : "2017"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Hver dag rejser flere end 20.000 passagerer ind i Australien med skib eller fly, og de skal alle igennem gr\u00e6nsekontrollen, f\u00f8r de bliver lukket ind i landet. De mange kvinder og m\u00e6nd, der bogstavelig talt udg\u00f8r Australiens frontlinje, er bl.a. p\u00e5 udkig efter rejsende, der m\u00e5ske ikke er, hvad de udgiver sig for, narkokurerer, illegale immigranter og mulige terrorister."
+            },
+            "stop" : "1531352100",
+            "date" : "2017",
+            "channel" : "tv2.dk",
+            "title" : {
+               "da" : "Gr\u00e6nsepatruljen"
+            },
+            "new" : null,
+            "start" : "1531350300"
+         },
+         {
+            "desc" : {
+               "da" : "I de tidlige 1980'ere blev de f\u00f8rste ofre for den berygtede Green River-seriemorder fundet. En gerningsmand, der endte med at myrde over 50 kvinder, hvilket gjorde ham til USA's mest uhyggeligt aktive seriemorder. Efterforskningen stod p\u00e5 i n\u00e6sten to \u00e5rtier, og beviset, der f\u00e6ldede morderen, var usynligt for det blotte \u00f8je. Den verdenskendte retsmediciner, Skip Palenik, brugte en banebrydende teknik til at afsl\u00f8re bittesm\u00e5 spor af maling, der var gemt i st\u00f8v p\u00e5 ofrenes t\u00f8j. Analyser viste, at malingen var en avanceret emaljemaling, som blev anvendt p\u00e5 Kenworth-truckfabrikken, hvor den mist\u00e6nkte arbejdede."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "subTitle" : {
+               "da" : "The Green River Killer"
+            },
+            "new" : null,
+            "start" : "1531352100",
+            "title" : {
+               "da" : "Det afg\u00f8rende bevis"
+            },
+            "channel" : "tv2.dk",
+            "date" : "2017",
+            "stop" : "1531355100"
+         }
+      ]
+   }
+}

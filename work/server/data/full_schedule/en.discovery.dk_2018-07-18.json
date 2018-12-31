@@ -1,0 +1,706 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "new" : null,
+            "start" : "1531872000",
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Last Outpost"
+            },
+            "stop" : "1531875600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "desc" : {
+               "en" : "Carney Joe needs a portable shelter for the Arctic Circle's freezing nights. Todd and Clint turn an old fuselage into the ultimate survival pod."
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 1 season 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "subTitle" : {
+               "en" : "Monster Tow Truck & Survival Pod"
+            }
+         },
+         {
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Naked And Afraid"
+            },
+            "start" : "1531875600",
+            "new" : null,
+            "stop" : "1531878900",
+            "desc" : {
+               "en" : "Two naked survivalists have to survive 21 days in the Louisiana swamp. They have to tackle deadly snakes at every moment while avoiding the hungry alligators."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 6 season 1",
+               "xmltv_ns" : "0 . 5 ."
+            },
+            "subTitle" : {
+               "en" : "Beware the Bayou"
+            }
+         },
+         {
+            "subTitle" : {
+               "en" : "Episode 1 Part 2"
+            },
+            "desc" : {
+               "en" : "Crab fishing off the Alaska coast on the icy Bering Sea is deadly work and it's health versus wealth. New beginnings see big investments and bittersweet endings."
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 1 season 13",
+               "xmltv_ns" : "12 . 0 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1531881900",
+            "start" : "1531878900",
+            "new" : null,
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Deadliest Catch"
+            }
+         },
+         {
+            "stop" : "1531884900",
+            "new" : null,
+            "start" : "1531881900",
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Diesel Brothers"
+            },
+            "subTitle" : {
+               "en" : "Dear Diary"
+            },
+            "desc" : {
+               "en" : "The Muscle and Diesel Dave rewrite Heavy D's autobiography. The Megaram is on a rescue but gets stuck in the mud, and Redbeard comes to the rescue in Salt Lake City."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 2 season 1",
+               "xmltv_ns" : "0 . 1 ."
+            }
+         },
+         {
+            "start" : "1531884900",
+            "new" : null,
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "How It's Made"
+            },
+            "stop" : "1531886400",
+            "episodeNum" : {
+               "onscreen" : "Episode 13 season 21",
+               "xmltv_ns" : "20 . 12 ."
+            },
+            "desc" : {
+               "en" : "More everyday items go under the microscope with a look at how objects including car tyres, scuba tanks and silk are manufactured."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "en" : "Car Tires, Silk, Art Conservation, Scuba Tanks"
+            }
+         },
+         {
+            "subTitle" : {
+               "en" : "Electric Stand-Up Vehicles, Frozen Fruit, Beer Coasters, Forged Door Handle"
+            },
+            "desc" : {
+               "en" : "More everyday items go under the microscope. How are objects including electric stand up vehicles made?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "20 . 13 .",
+               "onscreen" : "Episode 14 season 21"
+            },
+            "stop" : "1531887900",
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "How It's Made"
+            },
+            "start" : "1531886400",
+            "new" : null
+         },
+         {
+            "stop" : "1531889700",
+            "new" : null,
+            "start" : "1531887900",
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Auction Kings"
+            },
+            "subTitle" : {
+               "en" : "Headhunter Axe / Vintage Coke Machine"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 13 season 1",
+               "xmltv_ns" : "0 . 12 ."
+            },
+            "desc" : {
+               "en" : "The auction gurus get ready for their next auction, which includes a headhunter's axe and a rare Vespa scooter. Plus, Paul and Cindy fight over a vintage Coke machine."
+            }
+         },
+         {
+            "subTitle" : {
+               "en" : "Johnny Cash Guitar/Speed Rug"
+            },
+            "desc" : {
+               "en" : "The team auctions Johnny Cash's autographed guitar and a trading knife made from a jawbone, while picker Jon is initiated with the much dreaded Speed Rug."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 13 .",
+               "onscreen" : "Episode 14 season 1"
+            },
+            "stop" : "1531891200",
+            "title" : {
+               "en" : "Auction Kings"
+            },
+            "channel" : "en.discovery.dk",
+            "start" : "1531889700",
+            "new" : null
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 10 .",
+               "onscreen" : "Episode 11 season 3"
+            },
+            "desc" : {
+               "en" : "Ocean waves are being moulded out of acrylic when ATM brings a realistic reef into the Bella Terra luxury condo complex."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "en" : "Brace Yourself for Employee of the Month"
+            },
+            "start" : "1531891200",
+            "new" : null,
+            "title" : {
+               "en" : "Tanked"
+            },
+            "channel" : "en.discovery.dk",
+            "stop" : "1531894500"
+         },
+         {
+            "subTitle" : {
+               "en" : "Deadly Dunes"
+            },
+            "desc" : {
+               "en" : "Marooned in a sea of sand dunes, Joe and Cody traverse the unforgiving desert and trek deep into the mountains of Oman to learn the survival methods of nomads."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 2 .",
+               "onscreen" : "Episode 3 season 4"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1531897500",
+            "new" : null,
+            "start" : "1531894500",
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Dual Survival"
+            }
+         },
+         {
+            "stop" : "1531900800",
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Wheeler Dealers"
+            },
+            "new" : null,
+            "start" : "1531897500",
+            "subTitle" : {
+               "en" : "Jag E-Type"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 1 season 8",
+               "xmltv_ns" : "7 . 0 ."
+            },
+            "desc" : {
+               "en" : "This classic Jag is one of the best-looking cars in the world and Mike gladly takes a risk on a wreck. But the price of parts is huge - will the project crash and burn?"
+            }
+         },
+         {
+            "desc" : {
+               "en" : "Heavy D adds a second truck to their latest giveaway, with a snowmobile race to promote it. And, the team is in Houston to help hurricane victims."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 2 .",
+               "onscreen" : "Episode 3 season 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "en" : "Hurricanes, Trucks And Snowmobiles"
+            },
+            "title" : {
+               "en" : "Diesel Brothers"
+            },
+            "channel" : "en.discovery.dk",
+            "new" : null,
+            "start" : "1531900800",
+            "stop" : "1531904400"
+         },
+         {
+            "stop" : "1531908000",
+            "start" : "1531904400",
+            "new" : null,
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Deadliest Catch"
+            },
+            "subTitle" : {
+               "en" : "Seismic Shift"
+            },
+            "desc" : {
+               "en" : "The fall season begins with uncertainty. A seismic shift in sea temperature sends the fleet searching for displaced crab - and fighting an unusually large first storm."
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 2 season 13",
+               "xmltv_ns" : "12 . 1 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "stop" : "1531911600",
+            "new" : null,
+            "start" : "1531908000",
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Gold Rush (Season Specials)"
+            },
+            "subTitle" : {
+               "en" : "Klondike Legend"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "5 . 2 .",
+               "onscreen" : "Episode 3 season 6"
+            },
+            "desc" : {
+               "en" : "Tony Beets travels back to his roots in Holland, where he reveals details about his transformation from a farm boy to a Klondike mining legend."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "stop" : "1531915200",
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Gold Rush (Season Specials)"
+            },
+            "start" : "1531911600",
+            "new" : null,
+            "subTitle" : {
+               "en" : "Gold Hard Truth"
+            },
+            "desc" : {
+               "en" : "The miners reveal shocking truths including a crew romance. Plus, the mine bosses offer a sneak peek of their radical new plans for next season."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "5 . 3 .",
+               "onscreen" : "Episode 4 season 6"
+            }
+         },
+         {
+            "stop" : "1531918800",
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Alaska: The Last Frontier"
+            },
+            "new" : null,
+            "start" : "1531915200",
+            "subTitle" : {
+               "en" : "Homesteading - The Next Generation"
+            },
+            "desc" : {
+               "en" : "A new generation must continue the legacy that Yule Kilcher began 80 years ago if the homestead is to survive. Will they rise to the challenge?"
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 5 season 7",
+               "xmltv_ns" : "6 . 4 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 5 .",
+               "onscreen" : "Episode 6 season 1"
+            },
+            "desc" : {
+               "en" : "Todd Lowder and Joel Van der Loon head to the shore of Alpine Lake. They must design a watercraft that can carry three people and their supplies across the lake."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "en" : "Taking On Water"
+            },
+            "start" : "1531918800",
+            "new" : null,
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Bushcraft Build-Off"
+            },
+            "stop" : "1531922400"
+         },
+         {
+            "desc" : {
+               "en" : "Aboard the HMS Raleigh, a diverse group of young men and women are pushed through an intense 10-week training course in order to survive and pass as fully qualified shipmates."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1 .",
+               "onscreen" : "Episode 2 season 1"
+            },
+            "subTitle" : {
+               "en" : "Episode 2"
+            },
+            "start" : "1531922400",
+            "new" : null,
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Royal Navy Sailor School"
+            },
+            "stop" : "1531926000"
+         },
+         {
+            "stop" : "1531929600",
+            "start" : "1531926000",
+            "new" : null,
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Salvage Hunters"
+            },
+            "subTitle" : {
+               "en" : "Episode 6"
+            },
+            "desc" : {
+               "en" : "Drew and Tee find a heavy-duty surprise at a magnificent country house in Scotland. In Edinburgh, the chaps visit a former veterinary college turned arts centre."
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 6 season 5",
+               "xmltv_ns" : "4 . 5 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "subTitle" : {
+               "en" : "Mini Moke"
+            },
+            "desc" : {
+               "en" : "Designed as an off-road army car the Mini Moke soon became a civilian cult classic, so this should be a winner. But can the lads agree on anything and get the job done?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 2 season 8",
+               "xmltv_ns" : "7 . 1 ."
+            },
+            "stop" : "1531933200",
+            "new" : null,
+            "start" : "1531929600",
+            "title" : {
+               "en" : "Wheeler Dealers"
+            },
+            "channel" : "en.discovery.dk"
+         },
+         {
+            "subTitle" : {
+               "en" : "Epsiode 10"
+            },
+            "desc" : {
+               "en" : "In a wild frontier world of blistering heat and vast distances, an army of workers work tirelessly day and night to keep Australia's railway network on time and on track."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 9 .",
+               "onscreen" : "Episode 10 season 2"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1531936800",
+            "title" : {
+               "en" : "Railroad Australia"
+            },
+            "channel" : "en.discovery.dk",
+            "start" : "1531933200",
+            "new" : null
+         },
+         {
+            "subTitle" : {
+               "en" : "Motorcycles & A Lambo: That's What's For Dinner"
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 14 season 9",
+               "xmltv_ns" : "8 . 13 ."
+            },
+            "desc" : {
+               "en" : "A diner is closing down so the owners rush to sell three vintage America motorcycles. And at F40, the crew works on an '86 Lambo."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1531938600",
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Chasing Classic Cars"
+            },
+            "start" : "1531936800",
+            "new" : null
+         },
+         {
+            "stop" : "1531940400",
+            "title" : {
+               "en" : "Chasing Classic Cars"
+            },
+            "channel" : "en.discovery.dk",
+            "new" : null,
+            "start" : "1531938600",
+            "subTitle" : {
+               "en" : "Burning For A Boattail & A 944 Porsche"
+            },
+            "desc" : {
+               "en" : "Wayne dreams of an Auburn Boattail Speedster. Fate leads him to sisters selling their granddad's collection, including a 1909 Ford Model T."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "8 . 14 .",
+               "onscreen" : "Episode 15 season 9"
+            }
+         },
+         {
+            "subTitle" : {
+               "en" : "Episode 8"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 7 .",
+               "onscreen" : "Episode 8 season 2"
+            },
+            "desc" : {
+               "en" : "It's a new winter on Canada's busiest highway. From monster snow storms to overturned trucks, the heavy rescue crews face daily dangers to keep traffic rolling."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1531944000",
+            "start" : "1531940400",
+            "new" : null,
+            "title" : {
+               "en" : "Heavy Rescue"
+            },
+            "channel" : "en.discovery.dk"
+         },
+         {
+            "subTitle" : {
+               "en" : "Episode 7"
+            },
+            "desc" : {
+               "en" : "Dennis Pittsenbarger travels the country to uncover and evaluate antique cars. From vintage motors to old hot rod shells, these dusty discoveries could be worth a fortune."
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 7 season 1",
+               "xmltv_ns" : "0 . 6 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1531947600",
+            "title" : {
+               "en" : "Sticker Shock"
+            },
+            "channel" : "en.discovery.dk",
+            "new" : null,
+            "start" : "1531944000"
+         },
+         {
+            "start" : "1531947600",
+            "new" : null,
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Rocky Mountain Railroad"
+            },
+            "stop" : "1531951200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "desc" : {
+               "en" : "When a massive snowstorm hits the mountain railroad, an avalanche warning threatens to derail one of Canadian Pacific's most important $50 million loads."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Episode 1 season 1"
+            },
+            "subTitle" : {
+               "en" : "Avalanche"
+            }
+         },
+         {
+            "stop" : "1531954800",
+            "new" : null,
+            "start" : "1531951200",
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Mythbusters: The Search"
+            },
+            "subTitle" : {
+               "en" : "Fast & Furious Ejector Seat"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 1 season 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "desc" : {
+               "en" : "Elite builders face off to become the next Mythbusters crew and test two tall tales - the sideways ejector seat and infamous 'Deflategate' football."
+            }
+         },
+         {
+            "subTitle" : {
+               "en" : "Episode 8"
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 8 season 2",
+               "xmltv_ns" : "1 . 7 ."
+            },
+            "desc" : {
+               "en" : "It's a new winter on Canada's busiest highway. From monster snow storms to overturned trucks, the heavy rescue crews face daily dangers to keep traffic rolling."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1531958400",
+            "start" : "1531954800",
+            "new" : null,
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Heavy Rescue"
+            }
+         }
+      ]
+   }
+}

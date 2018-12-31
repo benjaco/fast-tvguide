@@ -1,0 +1,265 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "subTitle" : {
+               "da" : "The Schemer"
+            },
+            "stop" : "1522556700",
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 15 s\u00e6son 2",
+               "xmltv_ns" : "1. 14 ."
+            },
+            "start" : "1522555200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Psychic Detectives"
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 12 s\u00e6son 6",
+               "xmltv_ns" : "5. 11 ."
+            },
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "stop" : "1522559700",
+            "subTitle" : {
+               "da" : "Disorder In The Court 2"
+            },
+            "title" : {
+               "da" : "Investigators (Nordic)"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1522556700"
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 13 s\u00e6son 6",
+               "xmltv_ns" : "5. 12 ."
+            },
+            "stop" : "1522562400",
+            "subTitle" : {
+               "da" : "Shopping To Extremes"
+            },
+            "new" : null,
+            "channel" : "tnt-tv.dk",
+            "title" : {
+               "da" : "Investigators (Nordic)"
+            },
+            "start" : "1522559700",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "title" : {
+               "da" : "Tnt Teleshopping"
+            },
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "stop" : "1522569900",
+            "start" : "1522562400",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0. 0 ."
+            },
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "subTitle" : {
+               "da" : "Dead Silence"
+            },
+            "stop" : "1522573500",
+            "title" : {
+               "da" : "Fatal Vows"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1522569900"
+         },
+         {
+            "title" : {
+               "da" : "Fatal Vows"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1522573500",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "xmltv_ns" : "0. 1 ."
+            },
+            "subTitle" : {
+               "da" : "Blood and Wine"
+            },
+            "stop" : "1522576800",
+            "channel" : "tnt-tv.dk",
+            "new" : null
+         },
+         {
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "stop" : "1522580400",
+            "subTitle" : {
+               "da" : "Secrets of a Dying Man"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 1",
+               "xmltv_ns" : "0. 2 ."
+            },
+            "start" : "1522576800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Fatal Vows"
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 1",
+               "xmltv_ns" : "0. 3 ."
+            },
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "stop" : "1522584000",
+            "subTitle" : {
+               "da" : "The Last Seduction"
+            },
+            "title" : {
+               "da" : "Fatal Vows"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1522580400"
+         },
+         {
+            "title" : {
+               "da" : "Star Trek: The Motion Picture"
+            },
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "start" : "1522584000",
+            "stop" : "1522592400",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "title" : {
+               "da" : "Star Trek II: The Wrath of Khan"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Series"
+               ]
+            },
+            "stop" : "1522599600",
+            "start" : "1522592400",
+            "channel" : "tnt-tv.dk",
+            "new" : null
+         },
+         {
+            "stop" : "1522606500",
+            "start" : "1522599600",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "channel" : "tnt-tv.dk",
+            "title" : {
+               "da" : "Star Trek III: The Search For Spock"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Series"
+               ]
+            },
+            "start" : "1522606500",
+            "stop" : "1522614300",
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "title" : {
+               "da" : "Star Trek IV: The Voyage Home"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Star Trek V: the Final Frontier"
+            },
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "stop" : "1522621200",
+            "start" : "1522614300",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "title" : {
+               "da" : "Star Trek: The Motion Picture"
+            },
+            "new" : null,
+            "channel" : "tnt-tv.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Series"
+               ]
+            },
+            "start" : "1522621200",
+            "stop" : "1522629600"
+         }
+      ]
+   }
+}

@@ -1,0 +1,3804 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7 s\u00e6son 3",
+               "xmltv_ns" : "2 . 6 .",
+               "thetvdb.com" : "series/265374"
+            },
+            "stop" : "1523146800",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Hallie Cantor"
+                  },
+                  {
+                     "name" : "Kim Caramele"
+                  },
+                  {
+                     "name" : "Kyle Dunnigan"
+                  },
+                  {
+                     "name" : "Jon Glaser"
+                  },
+                  {
+                     "name" : "Jessi Klein"
+                  },
+                  {
+                     "name" : "Kurt Metzger"
+                  },
+                  {
+                     "name" : "Christine Nangle"
+                  },
+                  {
+                     "name" : "Daniel Powell"
+                  },
+                  {
+                     "name" : "Tami Sagher"
+                  },
+                  {
+                     "name" : "Amy Schumer"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Amy Schumer",
+                     "role" : "Herself"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Ryan McFaul"
+                  }
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=265374&seasonid=603576&id=5225264&lid=10"
+            ],
+            "new" : null,
+            "date" : "2013",
+            "rating" : {
+               "stars" : "6.1 / 9"
+            },
+            "title" : {
+               "da" : "Inside Amy Schumer"
+            },
+            "desc" : {
+               "da" : "Amy f\u00e5r en mand med postordre, tr\u00e6ner m\u00e6nd i kvindelig f\u00f8lelsesm\u00e6ssig kamp og stripper for hunde."
+            },
+            "start" : "1523145600",
+            "channel" : "comedycentral.dk",
+            "subTitle" : {
+               "da" : "Fight Like a Girl"
+            }
+         },
+         {
+            "start" : "1523146800",
+            "desc" : {
+               "da" : "Orson Welles ' \"Citizen Kane\" g\u00f8r William Randolph Hearst vred, animat\u00f8ren Ub Iwerks hj\u00e6lper Walt Disney med at lave Mickey Mouse, og Nancy Reagan overtaler sin filmstjerne-mand til at blive politiker."
+            },
+            "channel" : "comedycentral.dk",
+            "title" : {
+               "da" : "Drunk History"
+            },
+            "date" : "2013",
+            "subTitle" : {
+               "da" : "Hollywood"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 5 .",
+               "onscreen" : "Afsnit 6 s\u00e6son 2"
+            },
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "stop" : "1523148300"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/97731",
+               "xmltv_ns" : "7 . 16 .",
+               "onscreen" : "Afsnit 17 s\u00e6son 8"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Daniel Tosh",
+                     "role" : "Himself"
+                  }
+               ]
+            },
+            "stop" : "1523149500",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=97731&seasonid=645265&id=5676299&lid=10"
+            ],
+            "title" : {
+               "da" : "Tosh.0"
+            },
+            "desc" : {
+               "da" : "Med bidske kommentarer dykker komikeren Daniel Tosh ned i alle aspekter af internettet, fra det absurde til det geniale, i sin ugentlige serie. Tosh.0 giver webjunkier alle steder en grund til at holde begynde at se intetnettet p\u00e5 tv'et."
+            },
+            "channel" : "comedycentral.dk",
+            "start" : "1523148300",
+            "date" : "2009",
+            "rating" : {
+               "stars" : "7.5 / 9"
+            },
+            "subTitle" : {
+               "da" : "Three Cheese"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Gameshow"
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/293322",
+               "xmltv_ns" : "1 . 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 2"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Herself",
+                     "name" : "Chrissy Teigen"
+                  },
+                  {
+                     "name" : "LL Cool J",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Anthony Anderson"
+                  },
+                  {
+                     "name" : "Tracee Ellis Ross"
+                  }
+               ]
+            },
+            "stop" : "1523150700",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=293322&seasonid=643864&id=5470707&lid=10"
+            ],
+            "new" : null,
+            "date" : "2015",
+            "title" : {
+               "da" : "Lip Sync Battle"
+            },
+            "channel" : "comedycentral.dk",
+            "desc" : {
+               "da" : "Anthony Anderson vs. Tracee Ellis Ross"
+            },
+            "start" : "1523149500",
+            "subTitle" : {
+               "da" : "Anthony Anderson vs. Tracee Ellis Ross"
+            }
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=72268&seasonid=17575&id=327441&lid=10"
+            ],
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Jill Wagner"
+                  },
+                  {
+                     "name" : "Jordan Black"
+                  },
+                  {
+                     "name" : "Vince Green"
+                  },
+                  {
+                     "name" : "Ryan Pinkston"
+                  },
+                  {
+                     "name" : "B.J. Novak"
+                  },
+                  {
+                     "name" : "Ashton Kutcher"
+                  },
+                  {
+                     "name" : "Rob Pinkston"
+                  },
+                  {
+                     "name" : "Rob Pue"
+                  },
+                  {
+                     "name" : "Ahmed Ahmed"
+                  },
+                  {
+                     "name" : "Whitney Cummings"
+                  },
+                  {
+                     "name" : "Brandon Johnson"
+                  },
+                  {
+                     "name" : "Julia Wolov"
+                  },
+                  {
+                     "name" : "Dana Goodman"
+                  },
+                  {
+                     "name" : "Al Shearer"
+                  },
+                  {
+                     "name" : "Dax Shepard"
+                  },
+                  {
+                     "name" : "Chris Ellwood"
+                  }
+               ]
+            },
+            "stop" : "1523151900",
+            "episodeNum" : {
+               "thetvdb.com" : "series/72268",
+               "xmltv_ns" : "7 . 6 .",
+               "onscreen" : "Afsnit 7 s\u00e6son 8"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Pitbull, Kelis, Too $hort"
+            },
+            "date" : "2003",
+            "channel" : "comedycentral.dk",
+            "desc" : {
+               "da" : "Pitbull giver en hj\u00e6lpende h\u00e5nd. Too Short kommer ud p\u00e5 dybt vand til en bilvask. Kelis finder ud af, at man ikke b\u00f8r komme for sent, s\u00e6rligt n\u00e5r der er b\u00f8rn involveret."
+            },
+            "start" : "1523150700",
+            "title" : {
+               "da" : "Punk'd"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Jim ser p\u00e5 Demokraternes tvivlsomme branding, stiller sp\u00f8rgsm\u00e5l ved pr\u00e6sident Trumps tweet om transk\u00f8nnede i milit\u00e6ret og f\u00e5r sig en snak med Evan McMullin."
+            },
+            "start" : "1523151900",
+            "channel" : "comedycentral.dk",
+            "title" : {
+               "da" : "The Jim Jefferies Show"
+            },
+            "date" : "2017",
+            "subTitle" : {
+               "da" : "The Fight for LGBT Military Rights"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/328640",
+               "xmltv_ns" : "0 . 7 .",
+               "onscreen" : "Afsnit 8 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy",
+                  "Talk"
+               ]
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=328640&seasonid=712356&id=6224731&lid=10"
+            ],
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Brad Pitt",
+                     "role" : "Weatherman"
+                  },
+                  {
+                     "name" : "Jim Jefferies",
+                     "role" : "Himself - Host"
+                  }
+               ]
+            },
+            "stop" : "1523153400"
+         },
+         {
+            "desc" : {
+               "da" : "Nikki ser n\u00e6rmere p\u00e5 professionelle krammere og spiller en omgang Tinder Tapout med sine g\u00e6ster Mary Lynn Rajskub og Adam Pally."
+            },
+            "start" : "1523153400",
+            "channel" : "comedycentral.dk",
+            "title" : {
+               "da" : "Not Safe With Nikki Glaser"
+            },
+            "date" : "2016",
+            "subTitle" : {
+               "da" : "Is That Your Belt?"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/305283",
+               "onscreen" : "Afsnit 11 s\u00e6son 1",
+               "xmltv_ns" : "0 . 10 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy",
+                  "Talk"
+               ]
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=305283&seasonid=650450&id=5632733&lid=10"
+            ],
+            "stop" : "1523154600",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Host",
+                     "name" : "Nikki Glaser"
+                  },
+                  {
+                     "name" : "Mary Lynn Rajskub"
+                  },
+                  {
+                     "name" : "Adam Pally"
+                  }
+               ]
+            }
+         },
+         {
+            "date" : "2012",
+            "title" : {
+               "da" : "Far p\u00e5 fuldtid"
+            },
+            "channel" : "comedycentral.dk",
+            "desc" : {
+               "da" : "David Hobbs har v\u00e6ret USA's mes popul\u00e6re far de sidste ti \u00e5r, men det st\u00e5r for en afslutning. David siger farvel til sit tv-serie-liv og goddag til virkeligheden med kone og tre b\u00f8rn, der venter ham derhjemme."
+            },
+            "start" : "1523154600",
+            "subTitle" : {
+               "da" : "See Dad Run Until He Drops"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/262266",
+               "xmltv_ns" : "1 . 13 .",
+               "onscreen" : "Afsnit 14 s\u00e6son 2"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Jackson Brundage",
+                     "role" : "Joe Hobbs"
+                  },
+                  {
+                     "role" : "David Hobbs",
+                     "name" : "Scott Baio"
+                  },
+                  {
+                     "role" : "Emily Hobbs",
+                     "name" : "Ryan Newman"
+                  },
+                  {
+                     "name" : "Bailey Michelle Brown",
+                     "role" : "Janie Hobbs"
+                  },
+                  {
+                     "name" : "Mark Curry",
+                     "role" : "Marcus"
+                  }
+               ]
+            },
+            "stop" : "1523156340",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=262266&seasonid=521710&id=4757517&lid=10"
+            ]
+         },
+         {
+            "date" : "2014",
+            "desc" : {
+               "da" : "Da Blaze og Starla m\u00f8der en flok bissende kv\u00e6g ude i \u00f8rkenen, m\u00e5 de begive sig ud p\u00e5 et eventyr i det vilde vesten, for at drive kv\u00e6get tilbage til Starlas lade."
+            },
+            "channel" : "comedycentral.dk",
+            "start" : "1523160240",
+            "title" : {
+               "da" : "Blaze og monstermaskinerne"
+            },
+            "subTitle" : {
+               "da" : "Runaway Rocket"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/287036",
+               "xmltv_ns" : "0 . 16 .",
+               "onscreen" : "Afsnit 17 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=287036&seasonid=600166&id=5218614&lid=10"
+            ],
+            "new" : null,
+            "stop" : "1523161500",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Wade Cross"
+                  },
+                  {
+                     "name" : "Miguel Martinez-Joffre"
+                  },
+                  {
+                     "name" : "Jacob Joice"
+                  },
+                  {
+                     "name" : "Blair Simmons"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Clark Stubbs"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "",
+                     "role" : "Blaze"
+                  },
+                  {
+                     "role" : "AJ",
+                     "name" : "Dusan Brown"
+                  }
+               ]
+            }
+         },
+         {
+            "title" : {
+               "da" : "Alvin og de fr\u00e6kke jordegern"
+            },
+            "channel" : "comedycentral.dk",
+            "desc" : {
+               "da" : "Brittany kommer til skade med foden, og Jeanette erstatter hende som inspekt\u00f8rens assistent. // Bocarters far hj\u00e6lper ham med hans skoleprojekt, og Alvin f\u00e5r Daves hj\u00e6lp, s\u00e5dan at det ender med en ren familiekamp."
+            },
+            "start" : "1523161680",
+            "date" : "2015",
+            "subTitle" : {
+               "da" : "Switch Witch"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 17 .",
+               "onscreen" : "Afsnit 18 s\u00e6son 2",
+               "thetvdb.com" : "series/295851"
+            },
+            "stop" : "1523162400",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=295851&seasonid=659630&id=5705065&lid=10"
+            ],
+            "new" : null
+         },
+         {
+            "start" : "1523162400",
+            "desc" : {
+               "da" : "Crocker \u00f8nsker sig en arving til sin p\u00e5st\u00e5ede \"formue og ber\u00f8mmelse\" og Poof ender ved et tilf\u00e6lde i hans varet\u00e6gt. // Timmy \u00f8nsker sig at komme til togafest, men ender i stedet blandt Olympens guder."
+            },
+            "channel" : "comedycentral.dk",
+            "title" : {
+               "da" : "De Fantastiske Fehoveder"
+            },
+            "rating" : {
+               "stars" : "7.9 / 9"
+            },
+            "date" : "2001",
+            "subTitle" : {
+               "da" : "Formula For Disaster"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 7",
+               "xmltv_ns" : "6 . 3 .",
+               "thetvdb.com" : "series/76372"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=76372&seasonid=32582&id=1492161&lid=10"
+            ],
+            "new" : null,
+            "stop" : "1523163300",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Cosmo / Mr. Turner / Jorgen Von Strangle",
+                     "name" : "Daran Norris"
+                  },
+                  {
+                     "name" : "Jason Marsden",
+                     "role" : "Chester McBadbat (2003-present)"
+                  },
+                  {
+                     "name" : "Grey Delisle",
+                     "role" : "Vicky / Tootie and various"
+                  },
+                  {
+                     "role" : "Wanda / Mrs. Turner",
+                     "name" : "Susan Blakeslee"
+                  },
+                  {
+                     "role" : "Chester McBadbat (2001-2003)",
+                     "name" : "Frankie Muniz"
+                  },
+                  {
+                     "name" : "Dionne Quan",
+                     "role" : "Trixie Tang"
+                  },
+                  {
+                     "name" : "Mary Kay Bergman",
+                     "role" : "Timmy Turner (Oh Yeah! Cartoons shorts) (1998-1999)"
+                  },
+                  {
+                     "role" : "Timmy Turner / Poof",
+                     "name" : "Tara Strong"
+                  },
+                  {
+                     "role" : "A.J. Mechawegger (2002 - present)",
+                     "name" : "Gary Leroi Gray"
+                  },
+                  {
+                     "role" : "Francis",
+                     "name" : "Faith Abrahams"
+                  },
+                  {
+                     "role" : "A.J. Mechawegger (2001 - 2003)",
+                     "name" : "Ibrahim Haneef Muhammad"
+                  },
+                  {
+                     "name" : "Carlos Alazraqui",
+                     "role" : "Denzel Crocker"
+                  }
+               ]
+            }
+         },
+         {
+            "stop" : "1523163900",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Lynn",
+                     "name" : "Ashleigh Ball"
+                  },
+                  {
+                     "role" : "Luan",
+                     "name" : "Cristina Pucelli"
+                  },
+                  {
+                     "name" : "Caleel Harris",
+                     "role" : "Clyde"
+                  },
+                  {
+                     "name" : "Liliana Mumy",
+                     "role" : "Leni"
+                  },
+                  {
+                     "role" : "Luna",
+                     "name" : "Nika Futterman"
+                  },
+                  {
+                     "name" : "Bryn McAuley",
+                     "role" : "Lily"
+                  },
+                  {
+                     "role" : "Lisa",
+                     "name" : "Brian Drummond"
+                  },
+                  {
+                     "name" : "Jessica DiCicco",
+                     "role" : "Lucy"
+                  },
+                  {
+                     "name" : "Kathleen Barr",
+                     "role" : "Leni"
+                  },
+                  {
+                     "role" : "Mom",
+                     "name" : "Jill Talley"
+                  },
+                  {
+                     "role" : "Lisa",
+                     "name" : "Lara Jill Miller"
+                  },
+                  {
+                     "name" : "Andrea Libman",
+                     "role" : "Lincoln"
+                  },
+                  {
+                     "role" : "Lars",
+                     "name" : "Tabitha St. Germain"
+                  },
+                  {
+                     "name" : "Brian Stepanek",
+                     "role" : "Dad"
+                  },
+                  {
+                     "role" : "Lola",
+                     "name" : "Grey DeLisle"
+                  },
+                  {
+                     "name" : "Catherine Taber",
+                     "role" : "Lori"
+                  }
+               ]
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=309726&seasonid=687936&id=6110501&lid=10"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 24 .",
+               "onscreen" : "Afsnit 25 s\u00e6son 2",
+               "thetvdb.com" : "series/309726"
+            },
+            "subTitle" : {
+               "da" : "The Loudest Mission- Relative Chaos"
+            },
+            "title" : {
+               "da" : "H\u00f8js hus"
+            },
+            "channel" : "comedycentral.dk",
+            "desc" : {
+               "da" : "For at f\u00e5 Lilys gr\u00e5d til at oph\u00f8re, giver b\u00f8rnene hende et syngende leget\u00f8j fra loftet, men det driver dem hurtigt til vanvid./Far erkl\u00e6rer krig mod b\u00f8rnenes apparater, s\u00e5 de beslutter at vise far, hvor sejt elektronik og internettet er."
+            },
+            "start" : "1523163300",
+            "date" : "2016"
+         },
+         {
+            "subTitle" : {
+               "da" : "The Loudest Mission- Relative Chaos"
+            },
+            "date" : "2016",
+            "channel" : "comedycentral.dk",
+            "desc" : {
+               "da" : "For at f\u00e5 Lilys gr\u00e5d til at oph\u00f8re, giver b\u00f8rnene hende et syngende leget\u00f8j fra loftet, men det driver dem hurtigt til vanvid./Far erkl\u00e6rer krig mod b\u00f8rnenes apparater, s\u00e5 de beslutter at vise far, hvor sejt elektronik og internettet er."
+            },
+            "start" : "1523163960",
+            "title" : {
+               "da" : "H\u00f8js hus"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=309726&seasonid=687936&id=6110501&lid=10"
+            ],
+            "new" : null,
+            "stop" : "1523164500",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Ashleigh Ball",
+                     "role" : "Lynn"
+                  },
+                  {
+                     "name" : "Cristina Pucelli",
+                     "role" : "Luan"
+                  },
+                  {
+                     "role" : "Clyde",
+                     "name" : "Caleel Harris"
+                  },
+                  {
+                     "role" : "Leni",
+                     "name" : "Liliana Mumy"
+                  },
+                  {
+                     "role" : "Luna",
+                     "name" : "Nika Futterman"
+                  },
+                  {
+                     "role" : "Lily",
+                     "name" : "Bryn McAuley"
+                  },
+                  {
+                     "name" : "Brian Drummond",
+                     "role" : "Lisa"
+                  },
+                  {
+                     "role" : "Lucy",
+                     "name" : "Jessica DiCicco"
+                  },
+                  {
+                     "name" : "Kathleen Barr",
+                     "role" : "Leni"
+                  },
+                  {
+                     "role" : "Mom",
+                     "name" : "Jill Talley"
+                  },
+                  {
+                     "role" : "Lisa",
+                     "name" : "Lara Jill Miller"
+                  },
+                  {
+                     "role" : "Lincoln",
+                     "name" : "Andrea Libman"
+                  },
+                  {
+                     "name" : "Tabitha St. Germain",
+                     "role" : "Lars"
+                  },
+                  {
+                     "name" : "Brian Stepanek",
+                     "role" : "Dad"
+                  },
+                  {
+                     "name" : "Grey DeLisle",
+                     "role" : "Lola"
+                  },
+                  {
+                     "name" : "Catherine Taber",
+                     "role" : "Lori"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 25 s\u00e6son 2",
+               "xmltv_ns" : "1 . 24 .",
+               "thetvdb.com" : "series/309726"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Comedy"
+               ]
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Quaddy-Shack"
+            },
+            "title" : {
+               "da" : "Nicky, Ricky, Dicky & Dawn"
+            },
+            "start" : "1523164680",
+            "desc" : {
+               "da" : "Firlingerne laver en retssal i h\u00e6ngud-garagen for at afg\u00f8re deres egne uoverensstemmelser og ender med at bruge Firlinge-retten til at f\u00e6lde domme over deres venner og klassekammerater."
+            },
+            "channel" : "comedycentral.dk",
+            "date" : "2014",
+            "stop" : "1523166000",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Tim Brenner"
+                  },
+                  {
+                     "name" : "Natalie Barbrie"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Gabrielle Elyse",
+                     "role" : "Josie"
+                  },
+                  {
+                     "name" : "Casey Simpson",
+                     "role" : "Ricky"
+                  },
+                  {
+                     "role" : "Dicky",
+                     "name" : "Mace Coronel"
+                  },
+                  {
+                     "name" : "Brian Stepanek",
+                     "role" : "Tom Harper"
+                  },
+                  {
+                     "name" : "Allison Munn",
+                     "role" : "Anne Harper"
+                  },
+                  {
+                     "name" : "Lizzy Greene",
+                     "role" : "Dawn"
+                  },
+                  {
+                     "role" : "Nicky",
+                     "name" : "Aidan Gallagher"
+                  },
+                  {
+                     "name" : "Jessica Belkin as Madison, BJ Tanner as Spaulding, Jake Brennan as Hamilton"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Eric Dean Seaton"
+                  }
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=280882&seasonid=623424&id=5318454&lid=10"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/280882",
+               "xmltv_ns" : "1 . 9 .",
+               "onscreen" : "Afsnit 10 s\u00e6son 2"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "The Very Old Finger"
+            },
+            "date" : "2015",
+            "desc" : {
+               "da" : "Da Dubs bror dukker op hos Game Shakers og inviterer alle undtagen Dub med til sit bryllup, overbeviser b\u00f8rnene ham om ogs\u00e5 at invitere broren med ved at love, at Dub opf\u00f8rer sig ordenligt."
+            },
+            "channel" : "comedycentral.dk",
+            "start" : "1523166240",
+            "title" : {
+               "da" : "Game Shakers"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=299779&seasonid=677030&id=5734286&lid=10"
+            ],
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Madisyn Shipman",
+                     "role" : "Kenzie"
+                  },
+                  {
+                     "name" : "Thomas Kuc",
+                     "role" : "Hudson"
+                  },
+                  {
+                     "role" : "Double G",
+                     "name" : "Kel Mitchell"
+                  },
+                  {
+                     "role" : "Triple G",
+                     "name" : "Benjamin Flores, Jr."
+                  },
+                  {
+                     "name" : "Cree Cicchino",
+                     "role" : "Babe"
+                  }
+               ]
+            },
+            "stop" : "1523167500",
+            "episodeNum" : {
+               "thetvdb.com" : "series/299779",
+               "xmltv_ns" : "1 . 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 2"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids",
+                  "Comedy"
+               ]
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Space Invaders (2)"
+            },
+            "title" : {
+               "da" : "Henry Danger"
+            },
+            "channel" : "comedycentral.dk",
+            "desc" : {
+               "da" : "Da Henry bruger sin nye superkraft for at konkurrere i en Duk og Kast turnering, g\u00e5r Ray, Schwoz og Charlotte undercover for at give Henry en l\u00e6restreg."
+            },
+            "start" : "1523167620",
+            "date" : "2014",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Jace Norman",
+                     "role" : "Henry Hart / Kid Danger"
+                  },
+                  {
+                     "role" : "Jasper Dunlop",
+                     "name" : "Sean Ryan Fox"
+                  },
+                  {
+                     "role" : "Ray Manchester / Captain Man",
+                     "name" : "Cooper Barnes"
+                  },
+                  {
+                     "name" : "Ella Anderson",
+                     "role" : "Piper Hart"
+                  },
+                  {
+                     "name" : "Riele Downs",
+                     "role" : "Charlotte Bolton"
+                  }
+               ]
+            },
+            "stop" : "1523169000",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=284114&seasonid=681427&id=5868304&lid=10"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 10 .",
+               "onscreen" : "Afsnit 11 s\u00e6son 3",
+               "thetvdb.com" : "series/284114"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy",
+                  "Fantasy"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 10 .",
+               "onscreen" : "Afsnit 11 s\u00e6son 1",
+               "thetvdb.com" : "series/274283"
+            },
+            "stop" : "1523170800",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Robby Countryman"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Barb Thunderman",
+                     "name" : "Rosa Blasi"
+                  },
+                  {
+                     "role" : "Hank Thunderman",
+                     "name" : "Chris Tallman"
+                  },
+                  {
+                     "role" : "Billy Thunderman",
+                     "name" : "Diego Velazquez"
+                  },
+                  {
+                     "role" : "Max Thunderman",
+                     "name" : "Jack Griffo"
+                  },
+                  {
+                     "role" : "Chloe Thunderman",
+                     "name" : "Maya Le Clark"
+                  },
+                  {
+                     "name" : "Addison Riecke",
+                     "role" : "Nora Thunderman"
+                  },
+                  {
+                     "role" : "Phoebe Thunderman",
+                     "name" : "Kira Kosarin"
+                  },
+                  {
+                     "name" : "Keely Marshall"
+                  },
+                  {
+                     "name" : "Logan Shroyer"
+                  },
+                  {
+                     "name" : "Cassidy Ann Shaffer"
+                  },
+                  {
+                     "name" : "Chantz Simpson"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Jay J. Dempouris"
+                  }
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=274283&seasonid=564566&id=4794807&lid=10"
+            ],
+            "new" : null,
+            "date" : "2013",
+            "rating" : {
+               "stars" : "5.6 / 9"
+            },
+            "title" : {
+               "da" : "Familien Thunderman"
+            },
+            "channel" : "comedycentral.dk",
+            "desc" : {
+               "da" : "B\u00f8rnene kommer ved et uheld til at \u00f8del\u00e6gge den gave, som Hank har k\u00f8bt til Barb i anledning af deres bryllupsdag. De m\u00e5 nu ty til familiemedlemmet og superhelten Klumpe for at f\u00e5 hj\u00e6lp til at reparere den, mens de selv distraherer for\u00e6ldrene."
+            },
+            "start" : "1523169240",
+            "subTitle" : {
+               "da" : "Going Wonkers"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "A Pharaoh to Remember"
+            },
+            "rating" : {
+               "stars" : "6.4 / 9"
+            },
+            "date" : "1999",
+            "desc" : {
+               "da" : "Benders \u00f8nske om at blive husket af efterverden motiverer ham til at blive en tyrannisk farao p\u00e5 planeten Osiris 4."
+            },
+            "start" : "1523170800",
+            "channel" : "comedycentral.dk",
+            "title" : {
+               "da" : "Futurama"
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=73871&seasonid=6591&id=131224&lid=7"
+            ],
+            "stop" : "1523172600",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Ron Weiner"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Billy West",
+                     "role" : "Phillip J. Fry"
+                  },
+                  {
+                     "name" : "Lauren Tom",
+                     "role" : "Amy Wong"
+                  },
+                  {
+                     "name" : "Katey Sagal",
+                     "role" : "Turanga Leela"
+                  },
+                  {
+                     "role" : "Bender",
+                     "name" : "John DiMaggio"
+                  },
+                  {
+                     "role" : "Hermes Conrad",
+                     "name" : "Phil LaMarr"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Mark Ervin"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/73871",
+               "xmltv_ns" : "3 . 6 .",
+               "onscreen" : "Afsnit 7 s\u00e6son 4"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy",
+                  "Sci-Fi"
+               ]
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Anthology of Interest II"
+            },
+            "desc" : {
+               "da" : "Da professoren finjusterer sin Hvad nu hvis-maskine, opdager Bender, hvordan det ville v\u00e6re at v\u00e6re menneske. Fry oplever livet i et tv-spil og Leela opdager, hvordan det ville v\u00e6re, hvis hun fandt sit rigtige hjem."
+            },
+            "start" : "1523172600",
+            "channel" : "comedycentral.dk",
+            "title" : {
+               "da" : "Futurama"
+            },
+            "rating" : {
+               "stars" : "6.4 / 9"
+            },
+            "date" : "1999",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=73871&seasonid=6591&id=131220&lid=7"
+            ],
+            "stop" : "1523174400",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Lewis Morton"
+                  },
+                  {
+                     "name" : "David X. Cohen"
+                  },
+                  {
+                     "name" : "Jason Gorbett"
+                  },
+                  {
+                     "name" : "Scott Kirby"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Billy West",
+                     "role" : "Phillip J. Fry"
+                  },
+                  {
+                     "name" : "Lauren Tom",
+                     "role" : "Amy Wong"
+                  },
+                  {
+                     "name" : "Katey Sagal",
+                     "role" : "Turanga Leela"
+                  },
+                  {
+                     "name" : "John DiMaggio",
+                     "role" : "Bender"
+                  },
+                  {
+                     "name" : "Phil LaMarr",
+                     "role" : "Hermes Conrad"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Bret Haaland"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/73871",
+               "onscreen" : "Afsnit 3 s\u00e6son 4",
+               "xmltv_ns" : "3 . 2 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy",
+                  "Sci-Fi"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy",
+                  "Sci-Fi"
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/73871",
+               "xmltv_ns" : "3 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 4"
+            },
+            "stop" : "1523176200",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "J. Stewart Burns"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Phillip J. Fry",
+                     "name" : "Billy West"
+                  },
+                  {
+                     "name" : "Lauren Tom",
+                     "role" : "Amy Wong"
+                  },
+                  {
+                     "role" : "Turanga Leela",
+                     "name" : "Katey Sagal"
+                  },
+                  {
+                     "name" : "John DiMaggio",
+                     "role" : "Bender"
+                  },
+                  {
+                     "role" : "Hermes Conrad",
+                     "name" : "Phil LaMarr"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Rich Moore"
+                  }
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=73871&seasonid=6591&id=131218&lid=7"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "Futurama"
+            },
+            "desc" : {
+               "da" : "Da Planet Express-skibet rejser i tiden til Roswell i New Mexico, bliver Fry sit eget afkom."
+            },
+            "channel" : "comedycentral.dk",
+            "start" : "1523174400",
+            "date" : "1999",
+            "rating" : {
+               "stars" : "6.5 / 9"
+            },
+            "subTitle" : {
+               "da" : "Roswell That Ends Well"
+            }
+         },
+         {
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Tanya Roberts",
+                     "role" : "Midge Pinciotti"
+                  },
+                  {
+                     "role" : "Randy Pearson",
+                     "name" : "Josh Meyers"
+                  },
+                  {
+                     "name" : "Tommy Chong",
+                     "role" : "Leo"
+                  },
+                  {
+                     "name" : "Laura Prepon",
+                     "role" : "Donna Pinciotti"
+                  },
+                  {
+                     "name" : "Danny Masterson",
+                     "role" : "Steven Hyde"
+                  },
+                  {
+                     "role" : "Laurie Anne Forman",
+                     "name" : "Lisa Robin Kelly"
+                  },
+                  {
+                     "name" : "Topher Grace",
+                     "role" : "Eric Forman"
+                  },
+                  {
+                     "role" : "Kitty Forman",
+                     "name" : "Debra Jo Rupp"
+                  },
+                  {
+                     "role" : "Michael Kelso",
+                     "name" : "Ashton Kutcher"
+                  },
+                  {
+                     "name" : "Wilmer Valderrama",
+                     "role" : "Fez"
+                  },
+                  {
+                     "name" : "Mila Kunis",
+                     "role" : "Jackie Burkhart"
+                  },
+                  {
+                     "role" : "Red Forman",
+                     "name" : "Kurtwood Smith"
+                  },
+                  {
+                     "name" : "Don Stark",
+                     "role" : "Bob Pinciotti"
+                  },
+                  {
+                     "name" : "Ben Ziff"
+                  },
+                  {
+                     "name" : "Jennifer Alden"
+                  },
+                  {
+                     "name" : "Ashley Drane"
+                  },
+                  {
+                     "name" : "Shonda Farr"
+                  },
+                  {
+                     "name" : "Paul Butcher"
+                  },
+                  {
+                     "name" : "Timmy Deters"
+                  },
+                  {
+                     "name" : "Bridgette Ho"
+                  },
+                  {
+                     "name" : "Aria Wallace"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Philip Stark"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "David Trainer"
+                  }
+               ]
+            },
+            "stop" : "1523178000",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=73787&seasonid=6440&id=128507&lid=10"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/73787",
+               "onscreen" : "Afsnit 7 s\u00e6son 6",
+               "xmltv_ns" : "5 . 6 ."
+            },
+            "subTitle" : {
+               "da" : "Christmas"
+            },
+            "title" : {
+               "da" : "That '70s Show"
+            },
+            "desc" : {
+               "da" : "Eric m\u00f8der en pige til en fest. N\u00e5r de ringer til Donna p\u00e5 radiostationen for at tilegne en sang til ham, flipper hun ud. Red skaber sin egen julegl\u00e6de i storcentret som julemanden."
+            },
+            "channel" : "comedycentral.dk",
+            "start" : "1523176200",
+            "date" : "1998",
+            "rating" : {
+               "stars" : "6.6 / 9"
+            }
+         },
+         {
+            "rating" : {
+               "stars" : "6.6 / 9"
+            },
+            "date" : "1998",
+            "channel" : "comedycentral.dk",
+            "desc" : {
+               "da" : "Eric sumper \u2014 sover hele dagen og lader Kitty opvarte ham \u2014 og Donna har f\u00e5et nok. Kelso og Brookes dobbeltdate med Hyde og Jackie er en katastrofe."
+            },
+            "start" : "1523178000",
+            "title" : {
+               "da" : "That '70s Show"
+            },
+            "subTitle" : {
+               "da" : "I'm a Boy"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/73787",
+               "onscreen" : "Afsnit 8 s\u00e6son 6",
+               "xmltv_ns" : "5 . 7 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=73787&seasonid=6440&id=128508&lid=10"
+            ],
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Midge Pinciotti",
+                     "name" : "Tanya Roberts"
+                  },
+                  {
+                     "name" : "Josh Meyers",
+                     "role" : "Randy Pearson"
+                  },
+                  {
+                     "name" : "Tommy Chong",
+                     "role" : "Leo"
+                  },
+                  {
+                     "name" : "Laura Prepon",
+                     "role" : "Donna Pinciotti"
+                  },
+                  {
+                     "name" : "Danny Masterson",
+                     "role" : "Steven Hyde"
+                  },
+                  {
+                     "role" : "Laurie Anne Forman",
+                     "name" : "Lisa Robin Kelly"
+                  },
+                  {
+                     "name" : "Topher Grace",
+                     "role" : "Eric Forman"
+                  },
+                  {
+                     "name" : "Debra Jo Rupp",
+                     "role" : "Kitty Forman"
+                  },
+                  {
+                     "role" : "Michael Kelso",
+                     "name" : "Ashton Kutcher"
+                  },
+                  {
+                     "role" : "Fez",
+                     "name" : "Wilmer Valderrama"
+                  },
+                  {
+                     "name" : "Mila Kunis",
+                     "role" : "Jackie Burkhart"
+                  },
+                  {
+                     "name" : "Kurtwood Smith",
+                     "role" : "Red Forman"
+                  },
+                  {
+                     "name" : "Don Stark",
+                     "role" : "Bob Pinciotti"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Kristin Newman"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "David Trainer"
+                  }
+               ]
+            },
+            "stop" : "1523179800"
+         },
+         {
+            "subTitle" : {
+               "da" : "Young Man Blues"
+            },
+            "date" : "1998",
+            "rating" : {
+               "stars" : "6.9 / 9"
+            },
+            "title" : {
+               "da" : "That '70s Show"
+            },
+            "desc" : {
+               "da" : "Jackie bliver en \"stores\u00f8ster\". Eric g\u00f8r et ynkeligt fors\u00f8g p\u00e5 at blive en g\u00f8r det selv-mand. Og politielev Kelso f\u00e5r en tur i en patruljevogn."
+            },
+            "start" : "1523179800",
+            "channel" : "comedycentral.dk",
+            "stop" : "1523181600",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "David Trainer"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Chris Peterson"
+                  },
+                  {
+                     "name" : "Bryan Moore"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Midge Pinciotti",
+                     "name" : "Tanya Roberts"
+                  },
+                  {
+                     "role" : "Randy Pearson",
+                     "name" : "Josh Meyers"
+                  },
+                  {
+                     "name" : "Tommy Chong",
+                     "role" : "Leo"
+                  },
+                  {
+                     "name" : "Laura Prepon",
+                     "role" : "Donna Pinciotti"
+                  },
+                  {
+                     "role" : "Steven Hyde",
+                     "name" : "Danny Masterson"
+                  },
+                  {
+                     "role" : "Laurie Anne Forman",
+                     "name" : "Lisa Robin Kelly"
+                  },
+                  {
+                     "name" : "Topher Grace",
+                     "role" : "Eric Forman"
+                  },
+                  {
+                     "role" : "Kitty Forman",
+                     "name" : "Debra Jo Rupp"
+                  },
+                  {
+                     "role" : "Michael Kelso",
+                     "name" : "Ashton Kutcher"
+                  },
+                  {
+                     "name" : "Wilmer Valderrama",
+                     "role" : "Fez"
+                  },
+                  {
+                     "role" : "Jackie Burkhart",
+                     "name" : "Mila Kunis"
+                  },
+                  {
+                     "name" : "Kurtwood Smith",
+                     "role" : "Red Forman"
+                  },
+                  {
+                     "role" : "Bob Pinciotti",
+                     "name" : "Don Stark"
+                  },
+                  {
+                     "name" : "Steffani Brass"
+                  },
+                  {
+                     "name" : "James Avery"
+                  },
+                  {
+                     "name" : "Tom Weber"
+                  }
+               ]
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=73787&seasonid=6440&id=128509&lid=10"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/73787",
+               "onscreen" : "Afsnit 9 s\u00e6son 6",
+               "xmltv_ns" : "5 . 8 ."
+            }
+         },
+         {
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=73787&seasonid=6440&id=128510&lid=10"
+            ],
+            "stop" : "1523183400",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Alan Dybner"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Midge Pinciotti",
+                     "name" : "Tanya Roberts"
+                  },
+                  {
+                     "name" : "Josh Meyers",
+                     "role" : "Randy Pearson"
+                  },
+                  {
+                     "name" : "Tommy Chong",
+                     "role" : "Leo"
+                  },
+                  {
+                     "name" : "Laura Prepon",
+                     "role" : "Donna Pinciotti"
+                  },
+                  {
+                     "role" : "Steven Hyde",
+                     "name" : "Danny Masterson"
+                  },
+                  {
+                     "name" : "Lisa Robin Kelly",
+                     "role" : "Laurie Anne Forman"
+                  },
+                  {
+                     "name" : "Topher Grace",
+                     "role" : "Eric Forman"
+                  },
+                  {
+                     "role" : "Kitty Forman",
+                     "name" : "Debra Jo Rupp"
+                  },
+                  {
+                     "name" : "Ashton Kutcher",
+                     "role" : "Michael Kelso"
+                  },
+                  {
+                     "name" : "Wilmer Valderrama",
+                     "role" : "Fez"
+                  },
+                  {
+                     "name" : "Mila Kunis",
+                     "role" : "Jackie Burkhart"
+                  },
+                  {
+                     "role" : "Red Forman",
+                     "name" : "Kurtwood Smith"
+                  },
+                  {
+                     "name" : "Don Stark",
+                     "role" : "Bob Pinciotti"
+                  },
+                  {
+                     "name" : "James Avery"
+                  },
+                  {
+                     "name" : "Katie O'Rourke"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "David Trainer"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/73787",
+               "onscreen" : "Afsnit 10 s\u00e6son 6",
+               "xmltv_ns" : "5 . 9 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "subTitle" : {
+               "da" : "A Legal Matter"
+            },
+            "rating" : {
+               "stars" : "6.8 / 9"
+            },
+            "date" : "1998",
+            "channel" : "comedycentral.dk",
+            "desc" : {
+               "da" : "Kelso g\u00e5r i panik, n\u00e5r han tror, at han er skydeskiven p\u00e5 politiskolen. Fez s\u00f8ger om et green card."
+            },
+            "start" : "1523181600",
+            "title" : {
+               "da" : "That '70s Show"
+            }
+         },
+         {
+            "episodeNum" : {
+               "thetvdb.com" : "series/73787",
+               "xmltv_ns" : "5 . 10 .",
+               "onscreen" : "Afsnit 11 s\u00e6son 6"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=73787&seasonid=6440&id=128511&lid=10"
+            ],
+            "new" : null,
+            "stop" : "1523185200",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Tanya Roberts",
+                     "role" : "Midge Pinciotti"
+                  },
+                  {
+                     "name" : "Josh Meyers",
+                     "role" : "Randy Pearson"
+                  },
+                  {
+                     "name" : "Tommy Chong",
+                     "role" : "Leo"
+                  },
+                  {
+                     "name" : "Laura Prepon",
+                     "role" : "Donna Pinciotti"
+                  },
+                  {
+                     "name" : "Danny Masterson",
+                     "role" : "Steven Hyde"
+                  },
+                  {
+                     "role" : "Laurie Anne Forman",
+                     "name" : "Lisa Robin Kelly"
+                  },
+                  {
+                     "role" : "Eric Forman",
+                     "name" : "Topher Grace"
+                  },
+                  {
+                     "name" : "Debra Jo Rupp",
+                     "role" : "Kitty Forman"
+                  },
+                  {
+                     "name" : "Ashton Kutcher",
+                     "role" : "Michael Kelso"
+                  },
+                  {
+                     "name" : "Wilmer Valderrama",
+                     "role" : "Fez"
+                  },
+                  {
+                     "role" : "Jackie Burkhart",
+                     "name" : "Mila Kunis"
+                  },
+                  {
+                     "name" : "Kurtwood Smith",
+                     "role" : "Red Forman"
+                  },
+                  {
+                     "role" : "Bob Pinciotti",
+                     "name" : "Don Stark"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Sarah McLaughlin"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "David Trainer"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "6.6 / 9"
+            },
+            "date" : "1998",
+            "start" : "1523183400",
+            "desc" : {
+               "da" : "Donna og Eric ser p\u00e5 et sted at holde bryllup og \u00f8del\u00e6gger Kelsos varevogn. Jackie giver Hydes v\u00e6relse et kvindeligt pr\u00e6g. Og Red f\u00e5r en m\u00e6rkelig gave fra Bob."
+            },
+            "channel" : "comedycentral.dk",
+            "title" : {
+               "da" : "That '70s Show"
+            },
+            "subTitle" : {
+               "da" : "I Can See for Miles"
+            }
+         },
+         {
+            "episodeNum" : {
+               "thetvdb.com" : "series/73787",
+               "xmltv_ns" : "5 . 11 .",
+               "onscreen" : "Afsnit 12 s\u00e6son 6"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=73787&seasonid=6440&id=128512&lid=10"
+            ],
+            "stop" : "1523187000",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "David Trainer"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Dean Batali"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Tanya Roberts",
+                     "role" : "Midge Pinciotti"
+                  },
+                  {
+                     "role" : "Randy Pearson",
+                     "name" : "Josh Meyers"
+                  },
+                  {
+                     "role" : "Leo",
+                     "name" : "Tommy Chong"
+                  },
+                  {
+                     "name" : "Laura Prepon",
+                     "role" : "Donna Pinciotti"
+                  },
+                  {
+                     "role" : "Steven Hyde",
+                     "name" : "Danny Masterson"
+                  },
+                  {
+                     "name" : "Lisa Robin Kelly",
+                     "role" : "Laurie Anne Forman"
+                  },
+                  {
+                     "role" : "Eric Forman",
+                     "name" : "Topher Grace"
+                  },
+                  {
+                     "role" : "Kitty Forman",
+                     "name" : "Debra Jo Rupp"
+                  },
+                  {
+                     "name" : "Ashton Kutcher",
+                     "role" : "Michael Kelso"
+                  },
+                  {
+                     "name" : "Wilmer Valderrama",
+                     "role" : "Fez"
+                  },
+                  {
+                     "role" : "Jackie Burkhart",
+                     "name" : "Mila Kunis"
+                  },
+                  {
+                     "role" : "Red Forman",
+                     "name" : "Kurtwood Smith"
+                  },
+                  {
+                     "name" : "Don Stark",
+                     "role" : "Bob Pinciotti"
+                  },
+                  {
+                     "name" : "Alyson Hannigan"
+                  },
+                  {
+                     "name" : "Eric Allan Kramer"
+                  }
+               ]
+            },
+            "channel" : "comedycentral.dk",
+            "desc" : {
+               "da" : "Kelso g\u00f8r et akavet fors\u00f8g p\u00e5 at bringe Fez sammen med Suzy, en ven fra politiskolen. Kitty g\u00e5r i forsvarsposition, n\u00e5r Red f\u00e5r bes\u00f8g af en stressekspert."
+            },
+            "start" : "1523185200",
+            "title" : {
+               "da" : "That '70s Show"
+            },
+            "rating" : {
+               "stars" : "6.5 / 9"
+            },
+            "date" : "1998",
+            "subTitle" : {
+               "da" : "Sally Simpson"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Paid Regular"
+            },
+            "desc" : {
+               "da" : "Ari Shaffir's stand-up special er filmet i The Comedy Store i Los Angeles og d\u00e6kker alt lige fra at se en UFC-kamp til hvorfor skuespillere er de v\u00e6rste mennesker i verden."
+            },
+            "channel" : "comedycentral.dk",
+            "start" : "1523187000",
+            "title" : {
+               "da" : "Ari Shaffir"
+            },
+            "date" : "2015",
+            "new" : null,
+            "stop" : "1523190600",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "title" : {
+               "da" : "Chris Ramsey's Stand Up Central"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "start" : "1523190600",
+            "channel" : "comedycentral.dk",
+            "stop" : "1523192400",
+            "new" : null
+         },
+         {
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=76156&seasonid=16440&id=314313&lid=10"
+            ],
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Todd Quinlan",
+                     "name" : "Robert Maschio"
+                  },
+                  {
+                     "role" : "Lucy Bennett",
+                     "name" : "Kerry Bish\u00e9"
+                  },
+                  {
+                     "name" : "Elizabeth Banks",
+                     "role" : "Dr. Kim Briggs"
+                  },
+                  {
+                     "role" : "Dr. Christopher Turk",
+                     "name" : "Donald Faison"
+                  },
+                  {
+                     "role" : "Dr. Perry Cox",
+                     "name" : "John C. McGinley"
+                  },
+                  {
+                     "name" : "Dave Franco",
+                     "role" : "Cole McCallister"
+                  },
+                  {
+                     "role" : "Drew Suffin",
+                     "name" : "Michael Mosley"
+                  },
+                  {
+                     "name" : "Sarah Chalke",
+                     "role" : "Dr. Elliot Reid"
+                  },
+                  {
+                     "name" : "Christa Miller",
+                     "role" : "Jordan Sullivan"
+                  },
+                  {
+                     "name" : "Zach Braff",
+                     "role" : "Dr. John Dorian"
+                  },
+                  {
+                     "name" : "Sam Lloyd",
+                     "role" : "Ted Buckland"
+                  },
+                  {
+                     "name" : "Judy Reyes",
+                     "role" : "Nurse Carla Espinosa"
+                  },
+                  {
+                     "name" : "Aloma Wright",
+                     "role" : "Nurse Laverne Roberts"
+                  },
+                  {
+                     "role" : "Dr. Bob Kelso",
+                     "name" : "Ken Jenkins"
+                  },
+                  {
+                     "name" : "Eliza Coupe",
+                     "role" : "Denise Mahoney"
+                  },
+                  {
+                     "role" : "Keith Dudemeister",
+                     "name" : "Travis Schuldt"
+                  },
+                  {
+                     "role" : "Dr. Doug Murphy",
+                     "name" : "Johnny Kastl"
+                  },
+                  {
+                     "name" : "Heather Graham",
+                     "role" : "Dr. Molly Clock"
+                  },
+                  {
+                     "role" : "The Janitor",
+                     "name" : "Neil Flynn"
+                  },
+                  {
+                     "name" : "Licia L. Shearer"
+                  },
+                  {
+                     "name" : "Tiffany Scott"
+                  },
+                  {
+                     "name" : "Lou Saliba"
+                  },
+                  {
+                     "name" : "Pamela Dubin"
+                  },
+                  {
+                     "name" : "Andy Pessoa"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Gabrielle Allan"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "John Michel"
+                  }
+               ]
+            },
+            "stop" : "1523194200",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 s\u00e6son 6",
+               "xmltv_ns" : "5 . 4 .",
+               "thetvdb.com" : "series/76156"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "subTitle" : {
+               "da" : "My Friend with Money"
+            },
+            "rating" : {
+               "stars" : "6.6 / 9"
+            },
+            "date" : "2001",
+            "desc" : {
+               "da" : "Elliot bliver J.D.'s sugar mama."
+            },
+            "channel" : "comedycentral.dk",
+            "start" : "1523192400",
+            "title" : {
+               "da" : "Scrubs"
+            }
+         },
+         {
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=76156&seasonid=16440&id=314314&lid=10"
+            ],
+            "stop" : "1523196000",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Will Mackenzie"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Debra Fordham"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Robert Maschio",
+                     "role" : "Todd Quinlan"
+                  },
+                  {
+                     "name" : "Kerry Bish\u00e9",
+                     "role" : "Lucy Bennett"
+                  },
+                  {
+                     "role" : "Dr. Kim Briggs",
+                     "name" : "Elizabeth Banks"
+                  },
+                  {
+                     "role" : "Dr. Christopher Turk",
+                     "name" : "Donald Faison"
+                  },
+                  {
+                     "role" : "Dr. Perry Cox",
+                     "name" : "John C. McGinley"
+                  },
+                  {
+                     "role" : "Cole McCallister",
+                     "name" : "Dave Franco"
+                  },
+                  {
+                     "role" : "Drew Suffin",
+                     "name" : "Michael Mosley"
+                  },
+                  {
+                     "name" : "Sarah Chalke",
+                     "role" : "Dr. Elliot Reid"
+                  },
+                  {
+                     "role" : "Jordan Sullivan",
+                     "name" : "Christa Miller"
+                  },
+                  {
+                     "role" : "Dr. John Dorian",
+                     "name" : "Zach Braff"
+                  },
+                  {
+                     "name" : "Sam Lloyd",
+                     "role" : "Ted Buckland"
+                  },
+                  {
+                     "name" : "Judy Reyes",
+                     "role" : "Nurse Carla Espinosa"
+                  },
+                  {
+                     "role" : "Nurse Laverne Roberts",
+                     "name" : "Aloma Wright"
+                  },
+                  {
+                     "role" : "Dr. Bob Kelso",
+                     "name" : "Ken Jenkins"
+                  },
+                  {
+                     "name" : "Eliza Coupe",
+                     "role" : "Denise Mahoney"
+                  },
+                  {
+                     "name" : "Travis Schuldt",
+                     "role" : "Keith Dudemeister"
+                  },
+                  {
+                     "name" : "Johnny Kastl",
+                     "role" : "Dr. Doug Murphy"
+                  },
+                  {
+                     "name" : "Heather Graham",
+                     "role" : "Dr. Molly Clock"
+                  },
+                  {
+                     "role" : "The Janitor",
+                     "name" : "Neil Flynn"
+                  },
+                  {
+                     "name" : "Karen Ziemba"
+                  },
+                  {
+                     "name" : "Adam Hunter"
+                  },
+                  {
+                     "name" : "Kym Hoy"
+                  },
+                  {
+                     "name" : "Jennifer Leigh Warren"
+                  },
+                  {
+                     "name" : "Paul F. Perry"
+                  },
+                  {
+                     "name" : "Johnny Kastl"
+                  },
+                  {
+                     "name" : "Stephanie D'Abruzzo"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/76156",
+               "xmltv_ns" : "5 . 5 .",
+               "onscreen" : "Afsnit 6 s\u00e6son 6"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "subTitle" : {
+               "da" : "My Musical"
+            },
+            "desc" : {
+               "da" : "Livet er en sang, n\u00e5r de medvirkende i \"Scrubs\" er med i et musical-afsnit med sange skrevet af de Tony-vindende komponister af \"Avenue Q\" Robert Lopez og Jeff Marx."
+            },
+            "channel" : "comedycentral.dk",
+            "start" : "1523194200",
+            "title" : {
+               "da" : "Scrubs"
+            },
+            "rating" : {
+               "stars" : "6.9 / 9"
+            },
+            "date" : "2001"
+         },
+         {
+            "episodeNum" : {
+               "thetvdb.com" : "series/76156",
+               "xmltv_ns" : "5 . 6 .",
+               "onscreen" : "Afsnit 7 s\u00e6son 6"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=76156&seasonid=16440&id=314315&lid=10"
+            ],
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Linda Mendoza"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Mike Schwartz"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Todd Quinlan",
+                     "name" : "Robert Maschio"
+                  },
+                  {
+                     "role" : "Lucy Bennett",
+                     "name" : "Kerry Bish\u00e9"
+                  },
+                  {
+                     "role" : "Dr. Kim Briggs",
+                     "name" : "Elizabeth Banks"
+                  },
+                  {
+                     "name" : "Donald Faison",
+                     "role" : "Dr. Christopher Turk"
+                  },
+                  {
+                     "role" : "Dr. Perry Cox",
+                     "name" : "John C. McGinley"
+                  },
+                  {
+                     "name" : "Dave Franco",
+                     "role" : "Cole McCallister"
+                  },
+                  {
+                     "name" : "Michael Mosley",
+                     "role" : "Drew Suffin"
+                  },
+                  {
+                     "name" : "Sarah Chalke",
+                     "role" : "Dr. Elliot Reid"
+                  },
+                  {
+                     "role" : "Jordan Sullivan",
+                     "name" : "Christa Miller"
+                  },
+                  {
+                     "name" : "Zach Braff",
+                     "role" : "Dr. John Dorian"
+                  },
+                  {
+                     "role" : "Ted Buckland",
+                     "name" : "Sam Lloyd"
+                  },
+                  {
+                     "role" : "Nurse Carla Espinosa",
+                     "name" : "Judy Reyes"
+                  },
+                  {
+                     "name" : "Aloma Wright",
+                     "role" : "Nurse Laverne Roberts"
+                  },
+                  {
+                     "name" : "Ken Jenkins",
+                     "role" : "Dr. Bob Kelso"
+                  },
+                  {
+                     "name" : "Eliza Coupe",
+                     "role" : "Denise Mahoney"
+                  },
+                  {
+                     "role" : "Keith Dudemeister",
+                     "name" : "Travis Schuldt"
+                  },
+                  {
+                     "role" : "Dr. Doug Murphy",
+                     "name" : "Johnny Kastl"
+                  },
+                  {
+                     "name" : "Heather Graham",
+                     "role" : "Dr. Molly Clock"
+                  },
+                  {
+                     "name" : "Neil Flynn",
+                     "role" : "The Janitor"
+                  },
+                  {
+                     "name" : "Lindsay Ravage"
+                  },
+                  {
+                     "name" : "Shaughn Buchholz"
+                  },
+                  {
+                     "name" : "Sulekha Naidu"
+                  },
+                  {
+                     "name" : "V. Lynn Meneses"
+                  },
+                  {
+                     "name" : "Elizabeth Tippet"
+                  },
+                  {
+                     "name" : "Michael Weston"
+                  },
+                  {
+                     "name" : "Caroline Do"
+                  }
+               ]
+            },
+            "stop" : "1523197800",
+            "channel" : "comedycentral.dk",
+            "desc" : {
+               "da" : "Personalet p\u00e5 Sacred Heart splittes over politik."
+            },
+            "start" : "1523196000",
+            "title" : {
+               "da" : "Scrubs"
+            },
+            "rating" : {
+               "stars" : "6.5 / 9"
+            },
+            "date" : "2001",
+            "subTitle" : {
+               "da" : "His Story IV"
+            }
+         },
+         {
+            "stop" : "1523199600",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Mark Stegemann"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Robert Maschio",
+                     "role" : "Todd Quinlan"
+                  },
+                  {
+                     "name" : "Kerry Bish\u00e9",
+                     "role" : "Lucy Bennett"
+                  },
+                  {
+                     "role" : "Dr. Kim Briggs",
+                     "name" : "Elizabeth Banks"
+                  },
+                  {
+                     "name" : "Donald Faison",
+                     "role" : "Dr. Christopher Turk"
+                  },
+                  {
+                     "role" : "Dr. Perry Cox",
+                     "name" : "John C. McGinley"
+                  },
+                  {
+                     "role" : "Cole McCallister",
+                     "name" : "Dave Franco"
+                  },
+                  {
+                     "role" : "Drew Suffin",
+                     "name" : "Michael Mosley"
+                  },
+                  {
+                     "name" : "Sarah Chalke",
+                     "role" : "Dr. Elliot Reid"
+                  },
+                  {
+                     "role" : "Jordan Sullivan",
+                     "name" : "Christa Miller"
+                  },
+                  {
+                     "role" : "Dr. John Dorian",
+                     "name" : "Zach Braff"
+                  },
+                  {
+                     "role" : "Ted Buckland",
+                     "name" : "Sam Lloyd"
+                  },
+                  {
+                     "name" : "Judy Reyes",
+                     "role" : "Nurse Carla Espinosa"
+                  },
+                  {
+                     "name" : "Aloma Wright",
+                     "role" : "Nurse Laverne Roberts"
+                  },
+                  {
+                     "role" : "Dr. Bob Kelso",
+                     "name" : "Ken Jenkins"
+                  },
+                  {
+                     "name" : "Eliza Coupe",
+                     "role" : "Denise Mahoney"
+                  },
+                  {
+                     "role" : "Keith Dudemeister",
+                     "name" : "Travis Schuldt"
+                  },
+                  {
+                     "role" : "Dr. Doug Murphy",
+                     "name" : "Johnny Kastl"
+                  },
+                  {
+                     "name" : "Heather Graham",
+                     "role" : "Dr. Molly Clock"
+                  },
+                  {
+                     "name" : "Neil Flynn",
+                     "role" : "The Janitor"
+                  },
+                  {
+                     "name" : "Van Epperson"
+                  },
+                  {
+                     "name" : "Michael Ausiello"
+                  },
+                  {
+                     "name" : "Rick Irwin"
+                  },
+                  {
+                     "name" : "Kelli Kirkland Powers"
+                  },
+                  {
+                     "name" : "Eamonn Roche"
+                  },
+                  {
+                     "name" : "Spice Williams"
+                  },
+                  {
+                     "name" : "Naomi Serotoff"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Mark Stegemann"
+                  }
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=76156&seasonid=16440&id=315313&lid=10"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "5 . 7 .",
+               "onscreen" : "Afsnit 8 s\u00e6son 6",
+               "thetvdb.com" : "series/76156"
+            },
+            "subTitle" : {
+               "da" : "My Road to Nowhere"
+            },
+            "date" : "2001",
+            "rating" : {
+               "stars" : "6.4 / 9"
+            },
+            "title" : {
+               "da" : "Scrubs"
+            },
+            "desc" : {
+               "da" : "Efter at v\u00e6re blevet overbevist om at g\u00e5 til Tacoma for Kims f\u00f8rste ultralyd, k\u00f8rer J.D., Carla, Elliot, pedellen, Keith og Ted af sted p\u00e5 en biltur i Kelsos nye autocamper."
+            },
+            "start" : "1523197800",
+            "channel" : "comedycentral.dk"
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=76156&seasonid=16440&id=315633&lid=10"
+            ],
+            "new" : null,
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "John Putch"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Angela Nissel"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Todd Quinlan",
+                     "name" : "Robert Maschio"
+                  },
+                  {
+                     "name" : "Kerry Bish\u00e9",
+                     "role" : "Lucy Bennett"
+                  },
+                  {
+                     "role" : "Dr. Kim Briggs",
+                     "name" : "Elizabeth Banks"
+                  },
+                  {
+                     "name" : "Donald Faison",
+                     "role" : "Dr. Christopher Turk"
+                  },
+                  {
+                     "role" : "Dr. Perry Cox",
+                     "name" : "John C. McGinley"
+                  },
+                  {
+                     "name" : "Dave Franco",
+                     "role" : "Cole McCallister"
+                  },
+                  {
+                     "role" : "Drew Suffin",
+                     "name" : "Michael Mosley"
+                  },
+                  {
+                     "name" : "Sarah Chalke",
+                     "role" : "Dr. Elliot Reid"
+                  },
+                  {
+                     "name" : "Christa Miller",
+                     "role" : "Jordan Sullivan"
+                  },
+                  {
+                     "role" : "Dr. John Dorian",
+                     "name" : "Zach Braff"
+                  },
+                  {
+                     "name" : "Sam Lloyd",
+                     "role" : "Ted Buckland"
+                  },
+                  {
+                     "role" : "Nurse Carla Espinosa",
+                     "name" : "Judy Reyes"
+                  },
+                  {
+                     "role" : "Nurse Laverne Roberts",
+                     "name" : "Aloma Wright"
+                  },
+                  {
+                     "name" : "Ken Jenkins",
+                     "role" : "Dr. Bob Kelso"
+                  },
+                  {
+                     "name" : "Eliza Coupe",
+                     "role" : "Denise Mahoney"
+                  },
+                  {
+                     "name" : "Travis Schuldt",
+                     "role" : "Keith Dudemeister"
+                  },
+                  {
+                     "role" : "Dr. Doug Murphy",
+                     "name" : "Johnny Kastl"
+                  },
+                  {
+                     "role" : "Dr. Molly Clock",
+                     "name" : "Heather Graham"
+                  },
+                  {
+                     "name" : "Neil Flynn",
+                     "role" : "The Janitor"
+                  },
+                  {
+                     "name" : "Ravi Patel"
+                  },
+                  {
+                     "name" : "Spice Williams"
+                  },
+                  {
+                     "name" : "Artie O'Daly"
+                  },
+                  {
+                     "name" : "Eamonn Roche"
+                  },
+                  {
+                     "name" : "Jerry Shea"
+                  },
+                  {
+                     "name" : "Dean J. West"
+                  },
+                  {
+                     "name" : "David Weidoff"
+                  },
+                  {
+                     "name" : "Richard Augustine"
+                  },
+                  {
+                     "name" : "Guilford Adams"
+                  },
+                  {
+                     "name" : "Dajuan Johnson"
+                  },
+                  {
+                     "name" : "Glenn Hetrick"
+                  },
+                  {
+                     "name" : "Benjamin King"
+                  },
+                  {
+                     "name" : "Chris Dougherty"
+                  },
+                  {
+                     "name" : "Michael Weston"
+                  },
+                  {
+                     "name" : "Michael Patrick McGill"
+                  }
+               ]
+            },
+            "stop" : "1523201400",
+            "episodeNum" : {
+               "thetvdb.com" : "series/76156",
+               "xmltv_ns" : "5 . 8 .",
+               "onscreen" : "Afsnit 9 s\u00e6son 6"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "subTitle" : {
+               "da" : "My Perspective"
+            },
+            "desc" : {
+               "da" : "En kroatisk l\u00e6rer kommer til Sacred Heart, men han opdager, at han skal gentage sin kandidattid der. J.D. udvikler vasovagal synkope, hvilket f\u00e5r ham til at besvime og f\u00e5 blackout."
+            },
+            "start" : "1523199600",
+            "channel" : "comedycentral.dk",
+            "title" : {
+               "da" : "Scrubs"
+            },
+            "rating" : {
+               "stars" : "6.6 / 9"
+            },
+            "date" : "2001"
+         },
+         {
+            "subTitle" : {
+               "da" : "White People Renovating Houses"
+            },
+            "date" : "1997",
+            "rating" : {
+               "stars" : "7.7 / 9"
+            },
+            "title" : {
+               "da" : "South Park"
+            },
+            "desc" : {
+               "da" : "Randy forholder sig til, hvad det indeb\u00e6rer at v\u00e6re hvid i dagens samfund."
+            },
+            "channel" : "comedycentral.dk",
+            "start" : "1523201400",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Trey Parker"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Trey Parker"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Mona Marshall",
+                     "role" : "Sheila Broflovski|Linda Stotch"
+                  },
+                  {
+                     "name" : "Eliza Schneider",
+                     "role" : "Liane Cartman|Principal Victoria"
+                  },
+                  {
+                     "name" : "Jennifer Howell",
+                     "role" : "Bebe Stevens"
+                  },
+                  {
+                     "name" : "April Stewart",
+                     "role" : "Wendy Testaburger|Sharon Marsh"
+                  },
+                  {
+                     "name" : "Matt Stone",
+                     "role" : "Kyle Broflovski|Kenny McCormick|Leopold \"Butters\" Stotch"
+                  },
+                  {
+                     "name" : "Eric Stough",
+                     "role" : "Kenny McCormick"
+                  },
+                  {
+                     "role" : "Stan Marsh|Eric Cartman|Randy Marsh",
+                     "name" : "Trey Parker"
+                  },
+                  {
+                     "name" : "Isaac Hayes",
+                     "role" : "Chef"
+                  },
+                  {
+                     "role" : "Token Black",
+                     "name" : "Adrien Beard"
+                  },
+                  {
+                     "role" : "Liane Cartman|Sheila Broflovski|Shelly Marsh",
+                     "name" : "Mary Kay Bergman"
+                  }
+               ]
+            },
+            "stop" : "1523203200",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=75897&seasonid=712290&id=6092246&lid=10"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/75897",
+               "xmltv_ns" : "20 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 21"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 21",
+               "xmltv_ns" : "20 . 1 .",
+               "thetvdb.com" : "series/75897"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Mona Marshall",
+                     "role" : "Sheila Broflovski|Linda Stotch"
+                  },
+                  {
+                     "role" : "Liane Cartman|Principal Victoria",
+                     "name" : "Eliza Schneider"
+                  },
+                  {
+                     "role" : "Bebe Stevens",
+                     "name" : "Jennifer Howell"
+                  },
+                  {
+                     "role" : "Wendy Testaburger|Sharon Marsh",
+                     "name" : "April Stewart"
+                  },
+                  {
+                     "name" : "Matt Stone",
+                     "role" : "Kyle Broflovski|Kenny McCormick|Leopold \"Butters\" Stotch"
+                  },
+                  {
+                     "role" : "Kenny McCormick",
+                     "name" : "Eric Stough"
+                  },
+                  {
+                     "name" : "Trey Parker",
+                     "role" : "Stan Marsh|Eric Cartman|Randy Marsh"
+                  },
+                  {
+                     "role" : "Chef",
+                     "name" : "Isaac Hayes"
+                  },
+                  {
+                     "role" : "Token Black",
+                     "name" : "Adrien Beard"
+                  },
+                  {
+                     "name" : "Mary Kay Bergman",
+                     "role" : "Liane Cartman|Sheila Broflovski|Shelly Marsh"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Trey Parker"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Trey Parker"
+                  }
+               ]
+            },
+            "stop" : "1523205000",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=75897&seasonid=712290&id=6092247&lid=10"
+            ],
+            "date" : "1997",
+            "rating" : {
+               "stars" : "7.7 / 9"
+            },
+            "title" : {
+               "da" : "South Park"
+            },
+            "desc" : {
+               "da" : "Nordkorea har South Park i sigtekornet."
+            },
+            "start" : "1523203200",
+            "channel" : "comedycentral.dk",
+            "subTitle" : {
+               "da" : "Put It Down"
+            }
+         },
+         {
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Sheila Broflovski|Linda Stotch",
+                     "name" : "Mona Marshall"
+                  },
+                  {
+                     "name" : "Eliza Schneider",
+                     "role" : "Liane Cartman|Principal Victoria"
+                  },
+                  {
+                     "name" : "Jennifer Howell",
+                     "role" : "Bebe Stevens"
+                  },
+                  {
+                     "name" : "April Stewart",
+                     "role" : "Wendy Testaburger|Sharon Marsh"
+                  },
+                  {
+                     "name" : "Matt Stone",
+                     "role" : "Kyle Broflovski|Kenny McCormick|Leopold \"Butters\" Stotch"
+                  },
+                  {
+                     "name" : "Eric Stough",
+                     "role" : "Kenny McCormick"
+                  },
+                  {
+                     "role" : "Stan Marsh|Eric Cartman|Randy Marsh",
+                     "name" : "Trey Parker"
+                  },
+                  {
+                     "name" : "Isaac Hayes",
+                     "role" : "Chef"
+                  },
+                  {
+                     "role" : "Token Black",
+                     "name" : "Adrien Beard"
+                  },
+                  {
+                     "role" : "Liane Cartman|Sheila Broflovski|Shelly Marsh",
+                     "name" : "Mary Kay Bergman"
+                  },
+                  {
+                     "name" : "Rochelle Leffler"
+                  },
+                  {
+                     "name" : "Adrien Beard"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Trey Parker"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Trey Parker"
+                  }
+               ]
+            },
+            "stop" : "1523206800",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=75897&seasonid=9420&id=179632&lid=10"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/75897",
+               "onscreen" : "Afsnit 13 s\u00e6son 6",
+               "xmltv_ns" : "5 . 12 ."
+            },
+            "subTitle" : {
+               "da" : "The Return of the Fellowship of the Ring to the Two Towers"
+            },
+            "date" : "1997",
+            "rating" : {
+               "stars" : "7.2 / 9"
+            },
+            "title" : {
+               "da" : "South Park"
+            },
+            "start" : "1523205000",
+            "desc" : {
+               "da" : "Drengene tager p\u00e5 et mytisk eventyr for at aflevere deres kopi af \"Ringenes Herre\" i videobutikken, og Butters ser sin f\u00f8rste pornofilm."
+            },
+            "channel" : "comedycentral.dk"
+         },
+         {
+            "rating" : {
+               "stars" : "6.5 / 9"
+            },
+            "date" : "1997",
+            "desc" : {
+               "da" : "Mr. Garrison vender tilbage til l\u00e6rergerningen for at erstatte Mr. Hat, og drengene bliver sendt til Tolerancens D\u00f8dskamp."
+            },
+            "start" : "1523206800",
+            "channel" : "comedycentral.dk",
+            "title" : {
+               "da" : "South Park"
+            },
+            "subTitle" : {
+               "da" : "The Death Camp of Tolerance"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "5 . 13 .",
+               "onscreen" : "Afsnit 14 s\u00e6son 6",
+               "thetvdb.com" : "series/75897"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy"
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=75897&seasonid=9420&id=179633&lid=10"
+            ],
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Sheila Broflovski|Linda Stotch",
+                     "name" : "Mona Marshall"
+                  },
+                  {
+                     "name" : "Eliza Schneider",
+                     "role" : "Liane Cartman|Principal Victoria"
+                  },
+                  {
+                     "name" : "Jennifer Howell",
+                     "role" : "Bebe Stevens"
+                  },
+                  {
+                     "name" : "April Stewart",
+                     "role" : "Wendy Testaburger|Sharon Marsh"
+                  },
+                  {
+                     "name" : "Matt Stone",
+                     "role" : "Kyle Broflovski|Kenny McCormick|Leopold \"Butters\" Stotch"
+                  },
+                  {
+                     "role" : "Kenny McCormick",
+                     "name" : "Eric Stough"
+                  },
+                  {
+                     "role" : "Stan Marsh|Eric Cartman|Randy Marsh",
+                     "name" : "Trey Parker"
+                  },
+                  {
+                     "role" : "Chef",
+                     "name" : "Isaac Hayes"
+                  },
+                  {
+                     "name" : "Adrien Beard",
+                     "role" : "Token Black"
+                  },
+                  {
+                     "name" : "Mary Kay Bergman",
+                     "role" : "Liane Cartman|Sheila Broflovski|Shelly Marsh"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Trey Parker"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Trey Parker"
+                  }
+               ]
+            },
+            "stop" : "1523208600"
+         },
+         {
+            "subTitle" : {
+               "da" : "The Biggest Douche in the Universe"
+            },
+            "title" : {
+               "da" : "South Park"
+            },
+            "start" : "1523208600",
+            "desc" : {
+               "da" : "Da et ber\u00f8mt spititistik medium ikke kan mane Kenny ud af Cartmans krop, fors\u00f8ger Chefs mor lidt voodoomagi p\u00e5 ham selv."
+            },
+            "channel" : "comedycentral.dk",
+            "date" : "1997",
+            "rating" : {
+               "stars" : "6.9 / 9"
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Trey Parker"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Trey Parker"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Mona Marshall",
+                     "role" : "Sheila Broflovski|Linda Stotch"
+                  },
+                  {
+                     "name" : "Eliza Schneider",
+                     "role" : "Liane Cartman|Principal Victoria"
+                  },
+                  {
+                     "role" : "Bebe Stevens",
+                     "name" : "Jennifer Howell"
+                  },
+                  {
+                     "name" : "April Stewart",
+                     "role" : "Wendy Testaburger|Sharon Marsh"
+                  },
+                  {
+                     "name" : "Matt Stone",
+                     "role" : "Kyle Broflovski|Kenny McCormick|Leopold \"Butters\" Stotch"
+                  },
+                  {
+                     "name" : "Eric Stough",
+                     "role" : "Kenny McCormick"
+                  },
+                  {
+                     "name" : "Trey Parker",
+                     "role" : "Stan Marsh|Eric Cartman|Randy Marsh"
+                  },
+                  {
+                     "role" : "Chef",
+                     "name" : "Isaac Hayes"
+                  },
+                  {
+                     "name" : "Adrien Beard",
+                     "role" : "Token Black"
+                  },
+                  {
+                     "role" : "Liane Cartman|Sheila Broflovski|Shelly Marsh",
+                     "name" : "Mary Kay Bergman"
+                  },
+                  {
+                     "name" : "Karin Perrotta"
+                  }
+               ]
+            },
+            "stop" : "1523210400",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=75897&seasonid=9420&id=179634&lid=10"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 15 s\u00e6son 6",
+               "xmltv_ns" : "5 . 14 .",
+               "thetvdb.com" : "series/75897"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Godfellas"
+            },
+            "title" : {
+               "da" : "Futurama"
+            },
+            "desc" : {
+               "da" : "Bender bliver skudt ud i rummet og en race af sm\u00e5 rumv\u00e6sner begynder at betragte ham som en gud. Men hans rolle holder ikke og s\u00e5 m\u00f8der han den \u00e6gte vare..."
+            },
+            "channel" : "comedycentral.dk",
+            "start" : "1523210400",
+            "date" : "1999",
+            "rating" : {
+               "stars" : "6.6 / 9"
+            },
+            "stop" : "1523212200",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Susie Dietter"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Phillip J. Fry",
+                     "name" : "Billy West"
+                  },
+                  {
+                     "name" : "Lauren Tom",
+                     "role" : "Amy Wong"
+                  },
+                  {
+                     "name" : "Katey Sagal",
+                     "role" : "Turanga Leela"
+                  },
+                  {
+                     "role" : "Bender",
+                     "name" : "John DiMaggio"
+                  },
+                  {
+                     "role" : "Hermes Conrad",
+                     "name" : "Phil LaMarr"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Ken Keeler"
+                  }
+               ]
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=73871&seasonid=6591&id=131225&lid=7"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy",
+                  "Sci-Fi"
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/73871",
+               "onscreen" : "Afsnit 8 s\u00e6son 4",
+               "xmltv_ns" : "3 . 7 ."
+            }
+         },
+         {
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=73871&seasonid=6591&id=131226&lid=7"
+            ],
+            "stop" : "1523214000",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Brian Sheesley"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Aaron Ehasz"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Billy West",
+                     "role" : "Phillip J. Fry"
+                  },
+                  {
+                     "role" : "Amy Wong",
+                     "name" : "Lauren Tom"
+                  },
+                  {
+                     "role" : "Turanga Leela",
+                     "name" : "Katey Sagal"
+                  },
+                  {
+                     "role" : "Bender",
+                     "name" : "John DiMaggio"
+                  },
+                  {
+                     "name" : "Phil LaMarr",
+                     "role" : "Hermes Conrad"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/73871",
+               "onscreen" : "Afsnit 9 s\u00e6son 4",
+               "xmltv_ns" : "3 . 8 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy",
+                  "Sci-Fi"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Futurestock"
+            },
+            "rating" : {
+               "stars" : "6.5 / 9"
+            },
+            "date" : "1999",
+            "start" : "1523212200",
+            "desc" : {
+               "da" : "En kille, der er blevet nedfrosset i 1980'erne, bliver t\u00f8et op og bliver chef for Planet Express - men han truer med at s\u00e6lge firmaet til dets st\u00f8rste konkurrent, som vil slagte det."
+            },
+            "channel" : "comedycentral.dk",
+            "title" : {
+               "da" : "Futurama"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Thanks-hoarding"
+            },
+            "date" : "2011",
+            "rating" : {
+               "stars" : "7.4 / 9"
+            },
+            "title" : {
+               "da" : "Bob's Burgers"
+            },
+            "start" : "1523214000",
+            "channel" : "comedycentral.dk",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Tina Belcher",
+                     "name" : "Dan Mintz"
+                  },
+                  {
+                     "role" : "Linda Belcher",
+                     "name" : "John Roberts"
+                  },
+                  {
+                     "role" : "Gene Belcher",
+                     "name" : "Eugene Mirman"
+                  },
+                  {
+                     "name" : "Kristen Schaal",
+                     "role" : "Louise Belcher"
+                  },
+                  {
+                     "name" : "H. Jon Benjamin",
+                     "role" : "Bob Belcher"
+                  },
+                  {
+                     "role" : "Teddy",
+                     "name" : "Larry Murphy"
+                  }
+               ]
+            },
+            "stop" : "1523215800",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=194031&seasonid=717361&id=6372023&lid=10"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/194031",
+               "xmltv_ns" : "7 . 4 .",
+               "onscreen" : "Afsnit 5 s\u00e6son 8"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/194031",
+               "xmltv_ns" : "7 . 9 .",
+               "onscreen" : "Afsnit 10 s\u00e6son 8"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Dan Mintz",
+                     "role" : "Tina Belcher"
+                  },
+                  {
+                     "name" : "John Roberts",
+                     "role" : "Linda Belcher"
+                  },
+                  {
+                     "name" : "Eugene Mirman",
+                     "role" : "Gene Belcher"
+                  },
+                  {
+                     "role" : "Louise Belcher",
+                     "name" : "Kristen Schaal"
+                  },
+                  {
+                     "role" : "Bob Belcher",
+                     "name" : "H. Jon Benjamin"
+                  },
+                  {
+                     "role" : "Teddy",
+                     "name" : "Larry Murphy"
+                  }
+               ]
+            },
+            "stop" : "1523217600",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=194031&seasonid=717361&id=6567623&lid=10"
+            ],
+            "title" : {
+               "da" : "Bob's Burgers"
+            },
+            "channel" : "comedycentral.dk",
+            "start" : "1523215800",
+            "date" : "2011",
+            "rating" : {
+               "stars" : "7.4 / 9"
+            },
+            "subTitle" : {
+               "da" : "The Secret Ceramics Room of Secrets"
+            }
+         },
+         {
+            "channel" : "comedycentral.dk",
+            "desc" : {
+               "da" : "Jim Jefferies Show vender den vante formel til politiske senaftensshow p\u00e5 hovedet. Jim gennemg\u00e5r dagens nyheder med oprigtighed, skarp indsigt og et unikt australsk synspunkt."
+            },
+            "start" : "1523217600",
+            "title" : {
+               "da" : "The Jim Jefferies Show"
+            },
+            "date" : "2017",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "new" : null,
+            "stop" : "1523219400"
+         },
+         {
+            "date" : "2018",
+            "channel" : "comedycentral.dk",
+            "start" : "1523219400",
+            "title" : {
+               "da" : "Corporate"
+            },
+            "subTitle" : {
+               "da" : "Weekend"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/339137",
+               "xmltv_ns" : "0 . 8 .",
+               "onscreen" : "Afsnit 9 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy",
+                  "Drama"
+               ]
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=339137&seasonid=741501&id=6512674&lid=10"
+            ],
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Amelie Gillette"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Anne Dudek",
+                     "role" : "Kate"
+                  },
+                  {
+                     "name" : "Matt Ingebretson",
+                     "role" : "Matt"
+                  },
+                  {
+                     "role" : "Jake",
+                     "name" : "Jake Weisman"
+                  },
+                  {
+                     "name" : "Adam Lustick",
+                     "role" : "John"
+                  },
+                  {
+                     "name" : "Aparna Nancherla",
+                     "role" : "Grace"
+                  },
+                  {
+                     "name" : "Lance Reddick",
+                     "role" : "Christian DeVille"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Pat Bishop"
+                  }
+               ]
+            },
+            "stop" : "1523221200"
+         },
+         {
+            "stop" : "1523223000",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 3 .",
+               "onscreen" : "Afsnit 4 s\u00e6son 1"
+            },
+            "subTitle" : {
+               "da" : "104"
+            },
+            "date" : "2017",
+            "title" : {
+               "da" : "Ridiculousness Danmark"
+            },
+            "channel" : "comedycentral.dk",
+            "desc" : {
+               "da" : "I Ridiculousness Danmark tager v\u00e6rten Mattias Hundeb\u00f8ll internettets sjoveste amat\u00f8rvideoer og s\u00e6tter dem sammen til et hylende morsomt show - sammen med sine medv\u00e6rter Amalie Ny Wichmann og USO. Aftenens g\u00e6st er Youtuberen Albert Dyrlund."
+            },
+            "start" : "1523221200"
+         },
+         {
+            "new" : null,
+            "stop" : "1523224800",
+            "start" : "1523223000",
+            "channel" : "comedycentral.dk",
+            "title" : {
+               "da" : "Chris Ramsey's Stand Up Central"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            }
+         },
+         {
+            "date" : "1997",
+            "rating" : {
+               "stars" : "6.6 / 9"
+            },
+            "title" : {
+               "da" : "South Park"
+            },
+            "channel" : "comedycentral.dk",
+            "desc" : {
+               "da" : "I et fors\u00f8g p\u00e5 at beskytte deres b\u00f8rn fra kidnappere, hyrer for\u00e6ldrene ejeren af City Wok for at bygge den Kinesiske Mur i South Park."
+            },
+            "start" : "1523224800",
+            "subTitle" : {
+               "da" : "Child Abduction is Not Funny"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/75897",
+               "onscreen" : "Afsnit 11 s\u00e6son 6",
+               "xmltv_ns" : "5 . 10 ."
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Trey Parker"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Trey Parker"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Sheila Broflovski|Linda Stotch",
+                     "name" : "Mona Marshall"
+                  },
+                  {
+                     "name" : "Eliza Schneider",
+                     "role" : "Liane Cartman|Principal Victoria"
+                  },
+                  {
+                     "role" : "Bebe Stevens",
+                     "name" : "Jennifer Howell"
+                  },
+                  {
+                     "name" : "April Stewart",
+                     "role" : "Wendy Testaburger|Sharon Marsh"
+                  },
+                  {
+                     "name" : "Matt Stone",
+                     "role" : "Kyle Broflovski|Kenny McCormick|Leopold \"Butters\" Stotch"
+                  },
+                  {
+                     "name" : "Eric Stough",
+                     "role" : "Kenny McCormick"
+                  },
+                  {
+                     "role" : "Stan Marsh|Eric Cartman|Randy Marsh",
+                     "name" : "Trey Parker"
+                  },
+                  {
+                     "name" : "Isaac Hayes",
+                     "role" : "Chef"
+                  },
+                  {
+                     "role" : "Token Black",
+                     "name" : "Adrien Beard"
+                  },
+                  {
+                     "name" : "Mary Kay Bergman",
+                     "role" : "Liane Cartman|Sheila Broflovski|Shelly Marsh"
+                  }
+               ]
+            },
+            "stop" : "1523226600",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=75897&seasonid=9420&id=179629&lid=10"
+            ],
+            "new" : null
+         },
+         {
+            "date" : "1997",
+            "rating" : {
+               "stars" : "6.8 / 9"
+            },
+            "title" : {
+               "da" : "South Park"
+            },
+            "desc" : {
+               "da" : "Da drengene leder efter Kenny i Himlen, unders\u00f8ger myndighederne om Saddam Hussein muligvis skjuler v\u00e5ben der."
+            },
+            "channel" : "comedycentral.dk",
+            "start" : "1523226600",
+            "subTitle" : {
+               "da" : "A Ladder to Heaven"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "5 . 11 .",
+               "onscreen" : "Afsnit 12 s\u00e6son 6",
+               "thetvdb.com" : "series/75897"
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Trey Parker"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Mona Marshall",
+                     "role" : "Sheila Broflovski|Linda Stotch"
+                  },
+                  {
+                     "role" : "Liane Cartman|Principal Victoria",
+                     "name" : "Eliza Schneider"
+                  },
+                  {
+                     "role" : "Bebe Stevens",
+                     "name" : "Jennifer Howell"
+                  },
+                  {
+                     "role" : "Wendy Testaburger|Sharon Marsh",
+                     "name" : "April Stewart"
+                  },
+                  {
+                     "name" : "Matt Stone",
+                     "role" : "Kyle Broflovski|Kenny McCormick|Leopold \"Butters\" Stotch"
+                  },
+                  {
+                     "role" : "Kenny McCormick",
+                     "name" : "Eric Stough"
+                  },
+                  {
+                     "name" : "Trey Parker",
+                     "role" : "Stan Marsh|Eric Cartman|Randy Marsh"
+                  },
+                  {
+                     "role" : "Chef",
+                     "name" : "Isaac Hayes"
+                  },
+                  {
+                     "name" : "Adrien Beard",
+                     "role" : "Token Black"
+                  },
+                  {
+                     "role" : "Liane Cartman|Sheila Broflovski|Shelly Marsh",
+                     "name" : "Mary Kay Bergman"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Trey Parker"
+                  }
+               ]
+            },
+            "stop" : "1523228400",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=75897&seasonid=9420&id=179631&lid=10"
+            ]
+         },
+         {
+            "title" : {
+               "da" : "Most Ridiculous"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "channel" : "comedycentral.dk",
+            "start" : "1523228400",
+            "stop" : "1523230200",
+            "new" : null
+         },
+         {
+            "subTitle" : {
+               "da" : "Weekend"
+            },
+            "date" : "2018",
+            "start" : "1523230200",
+            "channel" : "comedycentral.dk",
+            "title" : {
+               "da" : "Corporate"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=339137&seasonid=741501&id=6512674&lid=10"
+            ],
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Kate",
+                     "name" : "Anne Dudek"
+                  },
+                  {
+                     "name" : "Matt Ingebretson",
+                     "role" : "Matt"
+                  },
+                  {
+                     "name" : "Jake Weisman",
+                     "role" : "Jake"
+                  },
+                  {
+                     "name" : "Adam Lustick",
+                     "role" : "John"
+                  },
+                  {
+                     "name" : "Aparna Nancherla",
+                     "role" : "Grace"
+                  },
+                  {
+                     "role" : "Christian DeVille",
+                     "name" : "Lance Reddick"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Amelie Gillette"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Pat Bishop"
+                  }
+               ]
+            },
+            "stop" : "1523232000",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 9 s\u00e6son 1",
+               "xmltv_ns" : "0 . 8 .",
+               "thetvdb.com" : "series/339137"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy",
+                  "Drama"
+               ]
+            }
+         }
+      ]
+   }
+}

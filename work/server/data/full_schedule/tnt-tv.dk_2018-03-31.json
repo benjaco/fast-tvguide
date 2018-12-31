@@ -1,0 +1,448 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "subTitle" : {
+               "da" : "Pushed Too Far"
+            },
+            "stop" : "1522458900",
+            "new" : null,
+            "channel" : "tnt-tv.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 12 s\u00e6son 5",
+               "xmltv_ns" : "4. 11 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1522457100",
+            "title" : {
+               "da" : "Psychic Detectives"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Bad Business"
+            },
+            "stop" : "1522460400",
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 13 s\u00e6son 5",
+               "xmltv_ns" : "4. 12 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1522458900",
+            "title" : {
+               "da" : "Psychic Detectives"
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 6",
+               "xmltv_ns" : "5. 0 ."
+            },
+            "new" : null,
+            "channel" : "tnt-tv.dk",
+            "stop" : "1522461900",
+            "subTitle" : {
+               "da" : "Secrets in the Forest"
+            },
+            "title" : {
+               "da" : "Psychic Detectives"
+            },
+            "start" : "1522460400",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 6",
+               "xmltv_ns" : "5. 1 ."
+            },
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "stop" : "1522463700",
+            "subTitle" : {
+               "da" : "The Hunted"
+            },
+            "title" : {
+               "da" : "Psychic Detectives"
+            },
+            "start" : "1522461900",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "5. 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 6"
+            },
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "stop" : "1522465200",
+            "subTitle" : {
+               "da" : "Blood Will Tell"
+            },
+            "title" : {
+               "da" : "Psychic Detectives"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1522463700"
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 6",
+               "xmltv_ns" : "5. 3 ."
+            },
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "subTitle" : {
+               "da" : "Secrets in the Deep"
+            },
+            "stop" : "1522467000",
+            "title" : {
+               "da" : "Psychic Detectives"
+            },
+            "start" : "1522465200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7 s\u00e6son 6",
+               "xmltv_ns" : "5. 6 ."
+            },
+            "stop" : "1522468800",
+            "subTitle" : {
+               "da" : "Midnight Strangers"
+            },
+            "new" : null,
+            "channel" : "tnt-tv.dk",
+            "title" : {
+               "da" : "Psychic Detectives"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1522467000"
+         },
+         {
+            "start" : "1522468800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Psychic Detectives"
+            },
+            "stop" : "1522470300",
+            "subTitle" : {
+               "da" : "About Face"
+            },
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 13 s\u00e6son 2",
+               "xmltv_ns" : "1. 12 ."
+            }
+         },
+         {
+            "start" : "1522470300",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Investigators (Nordic)"
+            },
+            "stop" : "1522473300",
+            "subTitle" : {
+               "da" : "Family Secrets"
+            },
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 10 s\u00e6son 6",
+               "xmltv_ns" : "5. 9 ."
+            }
+         },
+         {
+            "title" : {
+               "da" : "Investigators (Nordic)"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1522473300",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 11 s\u00e6son 6",
+               "xmltv_ns" : "5. 10 ."
+            },
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "subTitle" : {
+               "da" : "Dead Or Alive"
+            },
+            "stop" : "1522476000"
+         },
+         {
+            "title" : {
+               "da" : "Tnt Teleshopping"
+            },
+            "new" : null,
+            "channel" : "tnt-tv.dk",
+            "start" : "1522476000",
+            "stop" : "1522483200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "title" : {
+               "da" : "Psychic Detectives"
+            },
+            "start" : "1522483200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 14 s\u00e6son 2",
+               "xmltv_ns" : "1. 13 ."
+            },
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "subTitle" : {
+               "da" : "Dance with a Stranger"
+            },
+            "stop" : "1522485000"
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "0. 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            },
+            "stop" : "1522488600",
+            "subTitle" : {
+               "da" : "With This Bullet, I Thee Kill"
+            },
+            "new" : null,
+            "channel" : "tnt-tv.dk",
+            "title" : {
+               "da" : "Fatal Attraction"
+            },
+            "start" : "1522485000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "title" : {
+               "da" : "Fatal Attraction"
+            },
+            "start" : "1522488600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0. 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 1"
+            },
+            "stop" : "1522492200",
+            "subTitle" : {
+               "da" : "Broken Vows, Bloody Murder"
+            },
+            "new" : null,
+            "channel" : "tnt-tv.dk"
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "0. 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 1"
+            },
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "subTitle" : {
+               "da" : "Prisoner of Love"
+            },
+            "stop" : "1522495800",
+            "title" : {
+               "da" : "Fatal Attraction"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1522492200"
+         },
+         {
+            "new" : null,
+            "channel" : "tnt-tv.dk",
+            "subTitle" : {
+               "da" : "Shopping for Murder"
+            },
+            "stop" : "1522499700",
+            "episodeNum" : {
+               "xmltv_ns" : "0. 3 .",
+               "onscreen" : "Afsnit 4 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1522495800",
+            "title" : {
+               "da" : "Fatal Attraction"
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 s\u00e6son 1",
+               "xmltv_ns" : "0. 4 ."
+            },
+            "stop" : "1522503300",
+            "subTitle" : {
+               "da" : "A Devil in Uniform"
+            },
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "title" : {
+               "da" : "Fatal Attraction"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1522499700"
+         },
+         {
+            "new" : null,
+            "channel" : "tnt-tv.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Series"
+               ]
+            },
+            "start" : "1522503300",
+            "stop" : "1522509600",
+            "title" : {
+               "da" : "Concrete Evidence: A Fixer Upper Mystery"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Patricia Cornwell's The Front"
+            },
+            "new" : null,
+            "channel" : "tnt-tv.dk",
+            "stop" : "1522515900",
+            "start" : "1522509600",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Series"
+               ]
+            },
+            "stop" : "1522522800",
+            "start" : "1522515900",
+            "title" : {
+               "da" : "Galaxy Quest"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Highlander: The Source"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Series"
+               ]
+            },
+            "stop" : "1522528800",
+            "start" : "1522522800",
+            "new" : null,
+            "channel" : "tnt-tv.dk"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Series"
+               ]
+            },
+            "stop" : "1522555200",
+            "start" : "1522528800",
+            "new" : null,
+            "channel" : "tnt-tv.dk",
+            "title" : {
+               "da" : "Black Hawk Down"
+            }
+         }
+      ]
+   }
+}

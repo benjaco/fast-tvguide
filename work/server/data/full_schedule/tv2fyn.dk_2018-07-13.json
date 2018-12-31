@@ -1,0 +1,444 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "stop" : "1531456200",
+            "start" : "1531454400",
+            "new" : null,
+            "desc" : {
+               "da" : "De bedste historier fra hele Danmark og dagens medv\u00e6rt:"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2fyn.dk",
+            "title" : {
+               "da" : "S\u00e5danmark"
+            }
+         },
+         {
+            "stop" : "1531478100",
+            "new" : null,
+            "start" : "1531456200",
+            "title" : {
+               "da" : "Nyheder fra tv2fyn.dk"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2fyn.dk"
+         },
+         {
+            "start" : "1531478100",
+            "new" : null,
+            "channel" : "tv2fyn.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder fra tv2fyn.dk"
+            },
+            "stop" : "1531489200"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Egentlig ville Katja Kafling og hendes veninde bare \u00e6re deres store idol, George Michael, efter han var d\u00f8d. Men deres projekt greb om sig, og i dag har de rejst n\u00e6sten en halv million kroner til velg\u00f8renhed. F\u00e5 den historie og kom ogs\u00e5 med, n\u00e5r en gruppe rutschebane-entusiaster fra USA og England skal afpr\u00f8ve den nyeste forlystelse i Djurs Sommerland."
+            },
+            "channel" : "tv2fyn.dk",
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "new" : null,
+            "start" : "1531489200",
+            "stop" : "1531491000"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Annemette Voss Fridthjof har igen selskab af Thomas Sonne-Schmidt fra projektet Unge P\u00e5 Toppen i Aabenraa. I dag skal vi til Gedsted, eller \"Goat City\", som en hollandsk kunstner kalder landsbyen. Han er lige nu ved at male et enormt kunstv\u00e6rk af en ged p\u00e5 en silo i byen. M\u00f8d ogs\u00e5 Rico Karlsen, som kan huske resultatet af samtlige kampe, der er spillet ved VM."
+            },
+            "channel" : "tv2fyn.dk",
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "start" : "1531491000",
+            "new" : null,
+            "stop" : "1531492800"
+         },
+         {
+            "new" : null,
+            "start" : "1531492800",
+            "desc" : {
+               "da" : "Annemette Voss Fridthjof har igen i dag selskab af dansedivaen, Britt Bendixen, som snart er klar til at tage sin 15. t\u00f8rn som dommer i Vild Med Dans. Vi skal ogs\u00e5 til Stryn\u00f8, hvor en familie er chokeret over, at skolen risikerer lukning kun en m\u00e5ned efter, at de flyttede til den sydfynske \u00f8. Og s\u00e5 skal vi til Bornholm, hvor 31 kabinescootere fra '50erne og '60erne for nyligt k\u00f8rte rundt. Det er ren nostalgi p\u00e5 tre hjul."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2fyn.dk",
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "stop" : "1531494600"
+         },
+         {
+            "stop" : "1531496400",
+            "desc" : {
+               "da" : "Dagens medv\u00e6rt er beviset p\u00e5, at man ikke n\u00f8dvendigvis skal g\u00e5 p\u00e5 pension, selv om de gr\u00e5 h\u00e5r for l\u00e6ngst har indfundet sig. Britt Bendixens liv har v\u00e6ret fyldt med dans, og det er det stadigv\u00e6k. H\u00f8r historier fra et helt us\u00e6dvanligt liv i dag og kom ogs\u00e5 hele vejen rundt i landet i selskab med Britt og Annemette Voss Fridthjof."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "channel" : "tv2fyn.dk",
+            "start" : "1531494600",
+            "new" : null
+         },
+         {
+            "stop" : "1531498200",
+            "desc" : {
+               "da" : "De bedste historier fra hele Danmark og dagens medv\u00e6rt:"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "channel" : "tv2fyn.dk",
+            "new" : null,
+            "start" : "1531496400"
+         },
+         {
+            "title" : {
+               "da" : "Nyheder"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Aktuel nyhedsoversigt med de v\u00e6sentligste nyheder fra hele Fyn."
+            },
+            "channel" : "tv2fyn.dk",
+            "start" : "1531498200",
+            "new" : null,
+            "stop" : "1531498500"
+         },
+         {
+            "start" : "1531498500",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "desc" : {
+               "da" : "Hvem skulle have troet, at et projekt, hvor 19 kontanthj\u00e6lpsmodtagere bliver tr\u00e6net op til en lang og kr\u00e6vende cykeltur, er n\u00f8glen til at f\u00e5 dem i job eller uddannelse? Det gjorde dagens medv\u00e6rt, Thomas Sonne-Schmidt, som er projektleder for \"Unge P\u00e5 Toppen\", som projektet hedder. H\u00f8r historien om det succesfulde projekt, n\u00e5r han i dag er Annemette Voss Fridthjofs medv\u00e6rt i S\u00e5danmark. Vi skal ogs\u00e5 m\u00f8de Kevin Petersen, som br\u00e6nder for at skabe et godt milj\u00f8 i skatehallen i Nyk\u00f8bing Falster. Og s\u00e5 skal vi m\u00f8de to venner fra L\u00f8kken, som p\u00e5 eget initiativ har udgivet en fotobog, som er lidt af en k\u00e6rlighedserkl\u00e6ring til byen."
+            },
+            "channel" : "tv2fyn.dk",
+            "stop" : "1531500300"
+         },
+         {
+            "title" : {
+               "da" : "Nyheder"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Aktuel nyhedsoversigt med de v\u00e6sentligste nyheder fra hele Fyn."
+            },
+            "channel" : "tv2fyn.dk",
+            "new" : null,
+            "start" : "1531500300",
+            "stop" : "1531500600"
+         },
+         {
+            "new" : null,
+            "start" : "1531500600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Aktuel nyhedsoversigt med de v\u00e6sentligste nyheder fra hele Fyn."
+            },
+            "title" : {
+               "da" : "Nyheder"
+            },
+            "channel" : "tv2fyn.dk",
+            "stop" : "1531500900"
+         },
+         {
+            "stop" : "1531501200",
+            "desc" : {
+               "da" : "Aktuel nyhedsoversigt med de v\u00e6sentligste nyheder fra hele Fyn."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder"
+            },
+            "channel" : "tv2fyn.dk",
+            "start" : "1531500900",
+            "new" : null
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "De bedste historier fra hele Danmark og dagens medv\u00e6rt:"
+            },
+            "channel" : "tv2fyn.dk",
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "start" : "1531501200",
+            "new" : null,
+            "stop" : "1531503000"
+         },
+         {
+            "start" : "1531503000",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Kl.19.30-20.00(=).Nyheder og livesendinger i det fynske folks tjeneste"
+            },
+            "channel" : "tv2fyn.dk",
+            "title" : {
+               "da" : "Nyheder"
+            },
+            "stop" : "1531504500"
+         },
+         {
+            "new" : null,
+            "start" : "1531504500",
+            "desc" : {
+               "da" : "Det er blevet sommerferie i Danmark, og det er tydeligt at opleve i denne udgave af S\u00e5danmark. M\u00f8d frivillige ved sommerens arrangementer, f\u00e5r historien om dengang, vi slet ikke holdt sommerferie i Danmark og kom med til biltr\u00e6f i Thisted, hvor duften af br\u00e6ndt gummi er s\u00e5 sk\u00f8n, at arrang\u00f8ren ville \u00f8nske, han kunne f\u00e5 den som deo. I studiet er v\u00e6rt Annemette Voss Fridthjof og medv\u00e6rt Thomas Funding."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "channel" : "tv2fyn.dk",
+            "stop" : "1531506300"
+         },
+         {
+            "stop" : "1531507800",
+            "title" : {
+               "da" : "Nyheder"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Kl.19.30-20.00(=).Nyheder og livesendinger i det fynske folks tjeneste"
+            },
+            "channel" : "tv2fyn.dk",
+            "new" : null,
+            "start" : "1531506300"
+         },
+         {
+            "stop" : "1531509300",
+            "channel" : "tv2fyn.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "De bedste historier fra hele Danmark og dagens medv\u00e6rt:"
+            },
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "start" : "1531507800",
+            "new" : null
+         },
+         {
+            "new" : null,
+            "start" : "1531509300",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Kl.19.30-20.00(=).Nyheder og livesendinger i det fynske folks tjeneste"
+            },
+            "title" : {
+               "da" : "Nyheder"
+            },
+            "channel" : "tv2fyn.dk",
+            "stop" : "1531510800"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "desc" : {
+               "da" : "De bedste historier fra hele Danmark og dagens medv\u00e6rt:"
+            },
+            "channel" : "tv2fyn.dk",
+            "new" : null,
+            "start" : "1531510800",
+            "stop" : "1531512600"
+         },
+         {
+            "title" : {
+               "da" : "Nyheder fra tv2fyn.dk"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2fyn.dk",
+            "new" : null,
+            "start" : "1531512600",
+            "stop" : "1531514400"
+         },
+         {
+            "desc" : {
+               "da" : "De bedste historier fra hele Danmark og dagens medv\u00e6rt:"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2fyn.dk",
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "new" : null,
+            "start" : "1531514400",
+            "stop" : "1531515900"
+         },
+         {
+            "stop" : "1531517400",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder"
+            },
+            "desc" : {
+               "da" : "Kl.19.30-20.00(=).Nyheder og livesendinger i det fynske folks tjeneste"
+            },
+            "channel" : "tv2fyn.dk",
+            "new" : null,
+            "start" : "1531515900"
+         },
+         {
+            "stop" : "1531519200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "De bedste historier fra hele Danmark og dagens medv\u00e6rt:"
+            },
+            "channel" : "tv2fyn.dk",
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "new" : null,
+            "start" : "1531517400"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder fra tv2fyn.dk"
+            },
+            "channel" : "tv2fyn.dk",
+            "start" : "1531519200",
+            "new" : null,
+            "stop" : "1531540800"
+         }
+      ]
+   }
+}

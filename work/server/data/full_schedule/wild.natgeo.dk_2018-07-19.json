@@ -1,0 +1,1028 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "subTitle" : {
+               "da" : "Vand"
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 af 5 s\u00e6son 1",
+               "xmltv_ns" : "0 . 4/5 ."
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-01-25 15:25:00",
+            "title" : {
+               "da" : "Mennesket og naturen"
+            },
+            "channel" : "wild.natgeo.dk",
+            "country" : [
+               "US"
+            ],
+            "stop" : "1531961700",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "desc" : {
+               "da" : "Tag med til b\u00e5de Afrika, Usbekistan, Grand Canyon og Missouri for at se, hvordan menneskets brug af vand kan hj\u00e6lpe eller skade klodens dyreliv."
+            },
+            "date" : "2013",
+            "start" : "1531958700"
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 5 s\u00e6son 1",
+               "xmltv_ns" : "0 . 1/5 ."
+            },
+            "new" : "0",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "subTitle" : {
+               "da" : "Skove"
+            },
+            "title" : {
+               "da" : "Mennesket og naturen"
+            },
+            "channel" : "wild.natgeo.dk",
+            "previously_shown" : "wild.natgeo.dk|2018-01-25 13:05:00",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "stop" : "1531964400",
+            "start" : "1531961700",
+            "date" : "2013",
+            "desc" : {
+               "da" : "Dr. Sanjayan rejser dybt ind i Amazonas og l\u00e6gger ogs\u00e5 vejen forbi en regnskov i Alaska samt Portugals korkskove."
+            }
+         },
+         {
+            "country" : [
+               "FR"
+            ],
+            "stop" : "1531967100",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "desc" : {
+               "da" : "I Polynesien vil en stor gruppe hajer blive studeret som aldrig f\u00f8r. Et hold forskere vil dykke blandt 700 eksemplarer."
+            },
+            "date" : "2018",
+            "start" : "1531964400",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "subTitle" : {
+               "da" : "700 hajer"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/1 .",
+               "onscreen" : "Afsnit 1 af 1"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-07-17 16:00:00",
+            "channel" : "wild.natgeo.dk",
+            "title" : {
+               "da" : "700 hajer"
+            }
+         },
+         {
+            "new" : "0",
+            "episodeNum" : {
+               "thetvdb.com" : "series/274572",
+               "onscreen" : "Afsnit 2 s\u00e6son 4",
+               "xmltv_ns" : "3 . 1 ."
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Tourist Traps"
+            },
+            "title" : {
+               "da" : "N\u00e5r hajerne angriber"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=274572&seasonid=723116&id=6233737&lid=7"
+            ],
+            "channel" : "wild.natgeo.dk",
+            "previously_shown" : "wild.natgeo.dk|2018-07-17 16:45:00",
+            "country" : [
+               "US"
+            ],
+            "stop" : "1531970100",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "start" : "1531967100",
+            "desc" : {
+               "da" : "I 2015 var nordkysten i New South Wales, Australien, under angreb. Det lokale samfund gik i panik, da antallet af turister faldt."
+            },
+            "date" : "2013"
+         },
+         {
+            "desc" : {
+               "da" : "Pandaunger er nuttede, men menneske\u00e6dende tigre skal man undg\u00e5. Udforsk menneskets forunderlige forhold til dyreriget i selskab med Dr. Sanjayan."
+            },
+            "date" : "2013",
+            "start" : "1531970100",
+            "country" : [
+               "US"
+            ],
+            "stop" : "1531972800",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-01-25 14:35:00",
+            "title" : {
+               "da" : "Mennesket og naturen"
+            },
+            "channel" : "wild.natgeo.dk",
+            "subTitle" : {
+               "da" : "Hjemsteder"
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 af 5 s\u00e6son 1",
+               "xmltv_ns" : "0 . 3/5 ."
+            }
+         },
+         {
+            "previously_shown" : "wild.natgeo.dk|2018-01-28 05:00:00",
+            "title" : {
+               "da" : "Livets kamp"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=309116&seasonid=660494&id=5554464&lid=7"
+            ],
+            "channel" : "wild.natgeo.dk",
+            "subTitle" : {
+               "da" : "Defences"
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/309116",
+               "xmltv_ns" : "0 . 8 .",
+               "onscreen" : "Afsnit 9 s\u00e6son 1"
+            },
+            "new" : "0",
+            "date" : "2016",
+            "desc" : {
+               "da" : "Fra insekter, der ligner blade, og slanger, der spiller d\u00f8de, til flyvende fisk og giftige tudser beskytter dyr sig p\u00e5 de mest fantastiske m\u00e5der."
+            },
+            "start" : "1531972800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1531974300"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Underwater Predators"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "thetvdb.com" : "series/309116",
+               "onscreen" : "Afsnit 10 s\u00e6son 1",
+               "xmltv_ns" : "0 . 9 ."
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-01-28 05:25:00",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=309116&seasonid=660494&id=5554465&lid=7"
+            ],
+            "channel" : "wild.natgeo.dk",
+            "title" : {
+               "da" : "Livets kamp"
+            },
+            "stop" : "1531975800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "De fleste dyr i havet har kroppe, der er designet til jagt eller beskyttelse, og rovdyrene har udviklet imponerende overlevelsesmetoder."
+            },
+            "date" : "2016",
+            "start" : "1531974300"
+         },
+         {
+            "channel" : "wild.natgeo.dk",
+            "title" : {
+               "da" : "Store hajer styrer"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-07-18 16:00:00",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 1",
+               "xmltv_ns" : ". 0/1 ."
+            },
+            "new" : "0",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "subTitle" : {
+               "da" : "Store hajer styrer"
+            },
+            "start" : "1531975800",
+            "date" : "2018",
+            "desc" : {
+               "da" : "Dette er en rejse i superfart ind i hajernes verden. Hvem er de? Hvordan overlever de? Hvorfor er de her, og hvordan er de blevet s\u00e5 store?"
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "stop" : "1531978500"
+         },
+         {
+            "desc" : {
+               "da" : "I 2006 var nordkysten i Oregon under angreb. Det lokale samfund samt surferne er bekymrede over de uhyggelige tilstande."
+            },
+            "date" : "2013",
+            "start" : "1531978500",
+            "stop" : "1531981500",
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-07-18 16:45:00",
+            "channel" : "wild.natgeo.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=274572&seasonid=723116&id=6233739&lid=7"
+            ],
+            "title" : {
+               "da" : "N\u00e5r hajerne angriber"
+            },
+            "subTitle" : {
+               "da" : "Episode 3"
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "thetvdb.com" : "series/274572",
+               "onscreen" : "Afsnit 3 s\u00e6son 4",
+               "xmltv_ns" : "3 . 2 ."
+            }
+         },
+         {
+            "start" : "1531981500",
+            "desc" : {
+               "da" : "Machli, kendt som Dronningen af Ranthambore, er den mest ber\u00f8mte tiger i verden. Hun er frygtindgydende, men ogs\u00e5 mor til fire kuld unger."
+            },
+            "date" : "2017",
+            "stop" : "1531984500",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "title" : {
+               "da" : "Verdens mest ber\u00f8mte tiger"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-01-21 17:00:00",
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/1 .",
+               "onscreen" : "Afsnit 1 af 1"
+            },
+            "new" : "0",
+            "subTitle" : {
+               "da" : "Verdens mest ber\u00f8mte tiger"
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "subTitle" : {
+               "da" : "Slangem\u00f8dre"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 4/8 .",
+               "onscreen" : "Afsnit 5 af 8 s\u00e6son 1"
+            },
+            "new" : "0",
+            "previously_shown" : "wild.natgeo.dk|2018-03-07 13:50:00",
+            "channel" : "wild.natgeo.dk",
+            "title" : {
+               "da" : "NG Wild series 1"
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "stop" : "1531987500",
+            "date" : "2016",
+            "desc" : {
+               "da" : "Hugormen er en slags Mike Tyson i slangernes verden - korte, t\u00e6tbyggede, med en lynhurtig h\u00e5rdtsl\u00e5ende n\u00e6ve fuld af gift. Fra det barske amerikanske vilde vesten, til de fugtige jungler i hjertet af Afrika, har gamle og nye stammer af hugorme blandet sig for at skabe en superfamilie inden for slangeverden. Mens hugorme er ikoniske koldblodige mordere, har de en anderledes bl\u00f8d side n\u00e5r det g\u00e6lder deres familie. Velvet, og Therma, en Gaboon hugorm og en klapperslange er to m\u00f8dre med forskellige udfordringer i ekstreme, kontrastfyldte landskaber, men deres m\u00e5l er det samme: at g\u00f8re familien st\u00f8rre og beholde deres egen titel som dronning i deres rige."
+            },
+            "start" : "1531984500"
+         },
+         {
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 1",
+               "xmltv_ns" : ". 0/1 ."
+            },
+            "subTitle" : {
+               "da" : "Store hajer styrer"
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "title" : {
+               "da" : "Store hajer styrer"
+            },
+            "channel" : "wild.natgeo.dk",
+            "previously_shown" : "wild.natgeo.dk|2018-07-18 16:00:00",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "stop" : "1531990200",
+            "country" : [
+               "US"
+            ],
+            "start" : "1531987500",
+            "date" : "2018",
+            "desc" : {
+               "da" : "Dette er en rejse i superfart ind i hajernes verden. Hvem er de? Hvordan overlever de? Hvorfor er de her, og hvordan er de blevet s\u00e5 store?"
+            }
+         },
+         {
+            "new" : "0",
+            "episodeNum" : {
+               "thetvdb.com" : "series/274572",
+               "onscreen" : "Afsnit 3 s\u00e6son 4",
+               "xmltv_ns" : "3 . 2 ."
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Episode 3"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=274572&seasonid=723116&id=6233739&lid=7"
+            ],
+            "channel" : "wild.natgeo.dk",
+            "title" : {
+               "da" : "N\u00e5r hajerne angriber"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-07-18 16:45:00",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1531993200",
+            "country" : [
+               "US"
+            ],
+            "start" : "1531990200",
+            "date" : "2013",
+            "desc" : {
+               "da" : "I 2006 var nordkysten i Oregon under angreb. Det lokale samfund samt surferne er bekymrede over de uhyggelige tilstande."
+            }
+         },
+         {
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 4 s\u00e6son 1",
+               "xmltv_ns" : "0 . 1/4 ."
+            },
+            "subTitle" : {
+               "da" : "Et voldsomt liv"
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "title" : {
+               "da" : "Den nordiske vildmark"
+            },
+            "channel" : "wild.natgeo.dk",
+            "previously_shown" : "wild.natgeo.dk|2018-03-08 13:50:00",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "country" : [
+               "UK"
+            ],
+            "stop" : "1531995900",
+            "start" : "1531993200",
+            "date" : "2011",
+            "desc" : {
+               "da" : "Efter\u00e5r p\u00e5 tundraen er parringstid for de store moskusokser. Elge, tjurer og hjorte k\u00e6mper ogs\u00e5 for mulighederne for at yngle."
+            }
+         },
+         {
+            "title" : {
+               "da" : "Den nordiske vildmark"
+            },
+            "channel" : "wild.natgeo.dk",
+            "previously_shown" : "wild.natgeo.dk|2018-01-20 01:05:00",
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 2/4 .",
+               "onscreen" : "Afsnit 3 af 4 s\u00e6son 1"
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Ude ved kanten"
+            },
+            "start" : "1531995900",
+            "date" : "2011",
+            "desc" : {
+               "da" : "Mens de svenske hav\u00f8rne byder vinterisens opbrud velkommen, kan de \u00e5bne have betyde, at der kommer sultne tider for isbj\u00f8rnene."
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "country" : [
+               "UK"
+            ],
+            "stop" : "1531998900"
+         },
+         {
+            "date" : "2017",
+            "desc" : {
+               "da" : "Machli, kendt som Dronningen af Ranthambore, er den mest ber\u00f8mte tiger i verden. Hun er frygtindgydende, men ogs\u00e5 mor til fire kuld unger."
+            },
+            "start" : "1531998900",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "stop" : "1532001900",
+            "previously_shown" : "wild.natgeo.dk|2018-01-21 17:00:00",
+            "channel" : "wild.natgeo.dk",
+            "title" : {
+               "da" : "Verdens mest ber\u00f8mte tiger"
+            },
+            "subTitle" : {
+               "da" : "Verdens mest ber\u00f8mte tiger"
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 1",
+               "xmltv_ns" : ". 0/1 ."
+            },
+            "new" : "0"
+         },
+         {
+            "desc" : {
+               "da" : "Hugormen er en slags Mike Tyson i slangernes verden - korte, t\u00e6tbyggede, med en lynhurtig h\u00e5rdtsl\u00e5ende n\u00e6ve fuld af gift. Fra det barske amerikanske vilde vesten, til de fugtige jungler i hjertet af Afrika, har gamle og nye stammer af hugorme blandet sig for at skabe en superfamilie inden for slangeverden. Mens hugorme er ikoniske koldblodige mordere, har de en anderledes bl\u00f8d side n\u00e5r det g\u00e6lder deres familie. Velvet, og Therma, en Gaboon hugorm og en klapperslange er to m\u00f8dre med forskellige udfordringer i ekstreme, kontrastfyldte landskaber, men deres m\u00e5l er det samme: at g\u00f8re familien st\u00f8rre og beholde deres egen titel som dronning i deres rige."
+            },
+            "date" : "2016",
+            "start" : "1532001900",
+            "stop" : "1532004600",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-03-07 13:50:00",
+            "channel" : "wild.natgeo.dk",
+            "title" : {
+               "da" : "NG Wild series 1"
+            },
+            "subTitle" : {
+               "da" : "Slangem\u00f8dre"
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 4/8 .",
+               "onscreen" : "Afsnit 5 af 8 s\u00e6son 1"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "stop" : "1532007300",
+            "country" : [
+               "UK"
+            ],
+            "date" : "2011",
+            "desc" : {
+               "da" : "Efterh\u00e5nden som den h\u00e5rde arktiske vinter l\u00f8sner sit greb, kommer dyrene i Skandinavien frem, og dyreungerne unders\u00f8ger deres nye hjem."
+            },
+            "start" : "1532004600",
+            "subTitle" : {
+               "da" : "Genf\u00f8dt"
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0/4 .",
+               "onscreen" : "Afsnit 1 af 4 s\u00e6son 1"
+            },
+            "new" : "0",
+            "previously_shown" : "wild.natgeo.dk|2018-01-20 00:20:00",
+            "channel" : "wild.natgeo.dk",
+            "title" : {
+               "da" : "Den nordiske vildmark"
+            }
+         },
+         {
+            "date" : "2011",
+            "desc" : {
+               "da" : "Efter\u00e5r p\u00e5 tundraen er parringstid for de store moskusokser. Elge, tjurer og hjorte k\u00e6mper ogs\u00e5 for mulighederne for at yngle."
+            },
+            "start" : "1532007300",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "stop" : "1532010300",
+            "country" : [
+               "UK"
+            ],
+            "previously_shown" : "wild.natgeo.dk|2018-03-08 13:50:00",
+            "title" : {
+               "da" : "Den nordiske vildmark"
+            },
+            "channel" : "wild.natgeo.dk",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "subTitle" : {
+               "da" : "Et voldsomt liv"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 4 s\u00e6son 1",
+               "xmltv_ns" : "0 . 1/4 ."
+            },
+            "new" : "0"
+         },
+         {
+            "start" : "1532010300",
+            "desc" : {
+               "da" : "Mens de svenske hav\u00f8rne byder vinterisens opbrud velkommen, kan de \u00e5bne have betyde, at der kommer sultne tider for isbj\u00f8rnene."
+            },
+            "date" : "2011",
+            "stop" : "1532013000",
+            "country" : [
+               "UK"
+            ],
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "title" : {
+               "da" : "Den nordiske vildmark"
+            },
+            "channel" : "wild.natgeo.dk",
+            "previously_shown" : "wild.natgeo.dk|2018-01-20 01:05:00",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 af 4 s\u00e6son 1",
+               "xmltv_ns" : "0 . 2/4 ."
+            },
+            "new" : "0",
+            "subTitle" : {
+               "da" : "Ude ved kanten"
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            }
+         },
+         {
+            "date" : "2011",
+            "desc" : {
+               "da" : "Livet i Skandinavien er ikke let, men omr\u00e5dets dyr har udviklet imponerende overlevelsesstrategier."
+            },
+            "start" : "1532013000",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "country" : [
+               "UK"
+            ],
+            "stop" : "1532016000",
+            "previously_shown" : "wild.natgeo.dk|2018-01-20 01:55:00",
+            "title" : {
+               "da" : "Den nordiske vildmark"
+            },
+            "channel" : "wild.natgeo.dk",
+            "subTitle" : {
+               "da" : "Ultimative overlevere"
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 af 4 s\u00e6son 1",
+               "xmltv_ns" : "0 . 3/4 ."
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "stop" : "1532018700",
+            "start" : "1532016000",
+            "date" : "2018",
+            "desc" : {
+               "da" : "N\u00e6sten seks millioner amerikanske turister bes\u00f8gte Hawaii sidste \u00e5r, is\u00e6r Oahu. I 2015 blev paradiset lammet af tre hajangreb p\u00e5 under tre uger."
+            },
+            "new" : "1",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 af 6 s\u00e6son 4",
+               "xmltv_ns" : "3 . 3/6 ."
+            },
+            "subTitle" : {
+               "da" : "Chokb\u00f8lger i Hawaii"
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "channel" : "wild.natgeo.dk",
+            "title" : {
+               "da" : "N\u00e5r hajerne angriber"
+            }
+         },
+         {
+            "channel" : "wild.natgeo.dk",
+            "title" : {
+               "da" : "N\u00e5r hajerne angriber"
+            },
+            "new" : "1",
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 4/6 .",
+               "onscreen" : "Afsnit 5 af 6 s\u00e6son 4"
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Kaos i Mexico"
+            },
+            "start" : "1532018700",
+            "date" : "2018",
+            "desc" : {
+               "da" : "Cancun er et turistmekka, men mellem 2011 og 2013 fandt seks hajangreb sted. Efterforskere leder desperat efter svar."
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "stop" : "1532021700",
+            "country" : [
+               "US"
+            ]
+         },
+         {
+            "start" : "1532021700",
+            "date" : "2013",
+            "desc" : {
+               "da" : "Find ud af, hvordan nogle af klodens st\u00f8rste dyr overlever i en af dens mest ug\u00e6stfri \u00f8rkener, hvor flygtige floder opretholder diversiteten."
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "stop" : "1532024700",
+            "country" : [
+               "UK"
+            ],
+            "channel" : "wild.natgeo.dk",
+            "title" : {
+               "da" : "Det vilde Namibia"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-01-07 05:50:00",
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/1 .",
+               "onscreen" : "Afsnit 1 af 1"
+            },
+            "subTitle" : {
+               "da" : "Det vilde Namibia"
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            }
+         },
+         {
+            "previously_shown" : "wild.natgeo.dk|2018-07-19 16:00:00",
+            "title" : {
+               "da" : "N\u00e5r hajerne angriber"
+            },
+            "channel" : "wild.natgeo.dk",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "subTitle" : {
+               "da" : "Chokb\u00f8lger i Hawaii"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 3/6 .",
+               "onscreen" : "Afsnit 4 af 6 s\u00e6son 4"
+            },
+            "new" : "0",
+            "date" : "2018",
+            "desc" : {
+               "da" : "N\u00e6sten seks millioner amerikanske turister bes\u00f8gte Hawaii sidste \u00e5r, is\u00e6r Oahu. I 2015 blev paradiset lammet af tre hajangreb p\u00e5 under tre uger."
+            },
+            "start" : "1532024700",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "stop" : "1532027700"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "stop" : "1532030400",
+            "country" : [
+               "US"
+            ],
+            "date" : "2018",
+            "desc" : {
+               "da" : "Cancun er et turistmekka, men mellem 2011 og 2013 fandt seks hajangreb sted. Efterforskere leder desperat efter svar."
+            },
+            "start" : "1532027700",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Kaos i Mexico"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 4/6 .",
+               "onscreen" : "Afsnit 5 af 6 s\u00e6son 4"
+            },
+            "new" : "0",
+            "previously_shown" : "wild.natgeo.dk|2018-07-19 16:45:00",
+            "channel" : "wild.natgeo.dk",
+            "title" : {
+               "da" : "N\u00e5r hajerne angriber"
+            }
+         },
+         {
+            "channel" : "wild.natgeo.dk",
+            "title" : {
+               "da" : "Den nordiske vildmark"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-01-20 01:55:00",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 af 4 s\u00e6son 1",
+               "xmltv_ns" : "0 . 3/4 ."
+            },
+            "new" : "0",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "subTitle" : {
+               "da" : "Ultimative overlevere"
+            },
+            "start" : "1532030400",
+            "date" : "2011",
+            "desc" : {
+               "da" : "Livet i Skandinavien er ikke let, men omr\u00e5dets dyr har udviklet imponerende overlevelsesstrategier."
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "stop" : "1532033400",
+            "country" : [
+               "UK"
+            ]
+         },
+         {
+            "previously_shown" : "wild.natgeo.dk|2018-01-21 17:00:00",
+            "channel" : "wild.natgeo.dk",
+            "title" : {
+               "da" : "Verdens mest ber\u00f8mte tiger"
+            },
+            "subTitle" : {
+               "da" : "Verdens mest ber\u00f8mte tiger"
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/1 .",
+               "onscreen" : "Afsnit 1 af 1"
+            },
+            "date" : "2017",
+            "desc" : {
+               "da" : "Machli, kendt som Dronningen af Ranthambore, er den mest ber\u00f8mte tiger i verden. Hun er frygtindgydende, men ogs\u00e5 mor til fire kuld unger."
+            },
+            "start" : "1532033400",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "stop" : "1532036400"
+         },
+         {
+            "desc" : {
+               "da" : "Hugormen er en slags Mike Tyson i slangernes verden - korte, t\u00e6tbyggede, med en lynhurtig h\u00e5rdtsl\u00e5ende n\u00e6ve fuld af gift. Fra det barske amerikanske vilde vesten, til de fugtige jungler i hjertet af Afrika, har gamle og nye stammer af hugorme blandet sig for at skabe en superfamilie inden for slangeverden. Mens hugorme er ikoniske koldblodige mordere, har de en anderledes bl\u00f8d side n\u00e5r det g\u00e6lder deres familie. Velvet, og Therma, en Gaboon hugorm og en klapperslange er to m\u00f8dre med forskellige udfordringer i ekstreme, kontrastfyldte landskaber, men deres m\u00e5l er det samme: at g\u00f8re familien st\u00f8rre og beholde deres egen titel som dronning i deres rige."
+            },
+            "date" : "2016",
+            "start" : "1532036400",
+            "stop" : "1532039400",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-03-07 13:50:00",
+            "title" : {
+               "da" : "NG Wild series 1"
+            },
+            "channel" : "wild.natgeo.dk",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Slangem\u00f8dre"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5 af 8 s\u00e6son 1",
+               "xmltv_ns" : "0 . 4/8 ."
+            },
+            "new" : "0"
+         },
+         {
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 4 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0/4 ."
+            },
+            "subTitle" : {
+               "da" : "Genf\u00f8dt"
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "title" : {
+               "da" : "Den nordiske vildmark"
+            },
+            "channel" : "wild.natgeo.dk",
+            "previously_shown" : "wild.natgeo.dk|2018-01-20 00:20:00",
+            "stop" : "1532042100",
+            "country" : [
+               "UK"
+            ],
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "start" : "1532039400",
+            "desc" : {
+               "da" : "Efterh\u00e5nden som den h\u00e5rde arktiske vinter l\u00f8sner sit greb, kommer dyrene i Skandinavien frem, og dyreungerne unders\u00f8ger deres nye hjem."
+            },
+            "date" : "2011"
+         },
+         {
+            "previously_shown" : "wild.natgeo.dk|2018-03-08 13:50:00",
+            "title" : {
+               "da" : "Den nordiske vildmark"
+            },
+            "channel" : "wild.natgeo.dk",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "subTitle" : {
+               "da" : "Et voldsomt liv"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1/4 .",
+               "onscreen" : "Afsnit 2 af 4 s\u00e6son 1"
+            },
+            "new" : "0",
+            "desc" : {
+               "da" : "Efter\u00e5r p\u00e5 tundraen er parringstid for de store moskusokser. Elge, tjurer og hjorte k\u00e6mper ogs\u00e5 for mulighederne for at yngle."
+            },
+            "date" : "2011",
+            "start" : "1532042100",
+            "stop" : "1532045100",
+            "country" : [
+               "UK"
+            ],
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            }
+         }
+      ]
+   }
+}

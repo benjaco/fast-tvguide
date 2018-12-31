@@ -1,0 +1,2097 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2006",
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "http://www.themoviedb.org/movie/1948"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Thriller",
+                  "Crime"
+               ]
+            },
+            "channel" : "action.film.viasat.dk",
+            "start" : "1523146500",
+            "stop" : "1523152800",
+            "title" : {
+               "da" : "Crank"
+            },
+            "desc" : {
+               "da" : "Chev Chelios (Jason Statham) er en professionel lejemorder, der arbejder for et kartel. Han bliver forr\u00e5dt af forbryderen Carlito (Carlos Sanz) og den ambiti\u00f8se lejemorder Ricky Verona (Jose Pablo Cantillo). Chelios bliver forgiftet og han m\u00e5 holde sit adrenalinniveau oppe - ellers vil han d\u00f8. Det kriminelle syndikat, som han plejede at arbejde for, tager ogs\u00e5 hans k\u00e6reste, Eve Lyndon (Amy Smart), som gidsel. Chelios m\u00e5 redde hende, mens han leder efter en modgift mod giftstoffet - og tingene eskalerer!"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/1948"
+            },
+            "rating" : {
+               "stars" : "6.6 / 10"
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Brian Taylor"
+                  },
+                  {
+                     "name" : "Mark Neveldine"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Jason Statham",
+                     "role" : "Chev Chelios"
+                  },
+                  {
+                     "role" : "Eve",
+                     "name" : "Amy Smart"
+                  },
+                  {
+                     "name" : "Jose Pablo Cantillo",
+                     "role" : "Ricky Verona"
+                  },
+                  {
+                     "role" : "Kaylo",
+                     "name" : "Efren Ramirez"
+                  },
+                  {
+                     "role" : "Doc Miles",
+                     "name" : "Dwight Yoakam"
+                  },
+                  {
+                     "name" : "Carlos Sanz",
+                     "role" : "Carlito"
+                  },
+                  {
+                     "role" : "Orlando",
+                     "name" : "Reno Wilson"
+                  },
+                  {
+                     "role" : "Haitian Cabbie",
+                     "name" : "Edi Gathegi"
+                  },
+                  {
+                     "role" : "Doctor",
+                     "name" : "Glenn Howerton"
+                  },
+                  {
+                     "role" : "Alex",
+                     "name" : "Jay Xcala"
+                  },
+                  {
+                     "role" : "Don Kim",
+                     "name" : "Keone Young"
+                  },
+                  {
+                     "name" : "Valarie Rae Miller",
+                     "role" : "Chocolate"
+                  },
+                  {
+                     "name" : "Yousuf Azami",
+                     "role" : "Arab Cabbie"
+                  },
+                  {
+                     "role" : "Man in Garage",
+                     "name" : "Laurent Schwaar"
+                  },
+                  {
+                     "role" : "Sin City Brother",
+                     "name" : "David Brown"
+                  },
+                  {
+                     "name" : "Dorian Kingi",
+                     "role" : "Convenience Store Clerk"
+                  },
+                  {
+                     "role" : "Verona Crew #1",
+                     "name" : "Med Abrous"
+                  },
+                  {
+                     "name" : "Daniel Stevens",
+                     "role" : "Verona Crew #2"
+                  },
+                  {
+                     "role" : "Verona Crew #3",
+                     "name" : "Wally Lozano"
+                  },
+                  {
+                     "name" : "Eve Loseth",
+                     "role" : "Hightower"
+                  },
+                  {
+                     "role" : "Hightower",
+                     "name" : "David T. Green"
+                  },
+                  {
+                     "role" : "Restaurant Waitress",
+                     "name" : "Eve Loseth"
+                  },
+                  {
+                     "name" : "Allen Bloomfield",
+                     "role" : "Pharmacy Man"
+                  },
+                  {
+                     "role" : "Pharmacist",
+                     "name" : "Stephanie Mace"
+                  },
+                  {
+                     "role" : "Pharmacy Stoner",
+                     "name" : "Chester Bennington"
+                  },
+                  {
+                     "role" : "Hospital Cop",
+                     "name" : "Michael McLafferty"
+                  },
+                  {
+                     "name" : "Earl Carroll",
+                     "role" : "Stretcher Patient"
+                  },
+                  {
+                     "role" : "Hospital Tech #1",
+                     "name" : "Brian Swibel"
+                  },
+                  {
+                     "role" : "Hospital Tech #2",
+                     "name" : "Donnie Smith"
+                  },
+                  {
+                     "role" : "Motorcycle Cop",
+                     "name" : "Sean Graham"
+                  },
+                  {
+                     "name" : "Dan Callahan",
+                     "role" : "TV Store Guy"
+                  },
+                  {
+                     "name" : "Noel Gugliemi",
+                     "role" : "Warehouse Rooftop Hood"
+                  },
+                  {
+                     "role" : "Warehouse Window Hood",
+                     "name" : "Daniel Venegas"
+                  },
+                  {
+                     "name" : "Francis Capra",
+                     "role" : "Warehouse Hood Leader"
+                  },
+                  {
+                     "role" : "Warehouse Hood #1",
+                     "name" : "Frank Blake"
+                  },
+                  {
+                     "role" : "Warehouse Hood #2",
+                     "name" : "Mike G."
+                  },
+                  {
+                     "role" : "Hood #3",
+                     "name" : "Ken Moreno"
+                  },
+                  {
+                     "name" : "Troy Robinson",
+                     "role" : "Hood #4"
+                  },
+                  {
+                     "name" : "Eddie Perez",
+                     "role" : "Hood #5"
+                  },
+                  {
+                     "role" : "Hood #6",
+                     "name" : "Justin Riemer"
+                  },
+                  {
+                     "role" : "Shirt Factory Supervisor",
+                     "name" : "Peter Choi"
+                  },
+                  {
+                     "role" : "Bus Girl",
+                     "name" : "Elizabeth Jayne Hong"
+                  },
+                  {
+                     "role" : "Japanese Businessman",
+                     "name" : "Toshi Toda"
+                  },
+                  {
+                     "name" : "Samuel Witwer",
+                     "role" : "Shootout Henchman #1"
+                  },
+                  {
+                     "name" : "Jai Stefan",
+                     "role" : "Shootout Henchman #2"
+                  },
+                  {
+                     "role" : "Cocoon Girl",
+                     "name" : "Jacki R. Chan"
+                  },
+                  {
+                     "name" : "Rick Shuster",
+                     "role" : "Helicopter Pilot"
+                  },
+                  {
+                     "name" : "Ted Garcia",
+                     "role" : "TV Reporter"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Michael Davis"
+                  },
+                  {
+                     "name" : "Gary Lucchesi"
+                  },
+                  {
+                     "name" : "Tom Rosenberg"
+                  },
+                  {
+                     "name" : "Skip Williamson"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Brian Taylor"
+                  },
+                  {
+                     "name" : "Mark Neveldine"
+                  }
+               ]
+            }
+         },
+         {
+            "episodeNum" : {
+               "themoviedb.org" : "movie/21641"
+            },
+            "desc" : {
+               "da" : "Den ellers tidligere succesfulde fodbold-manager, Brian Clough, overtager Englands bedste fodboldklub, Leeds United. Men hans h\u00e5rde tilgang og \u00e5benlyse foragt for spillernes beskidte spillestil g\u00f8r det klart, at der vil opst\u00e5 problemer. Episoder fra hans tidligere karriere forklarer b\u00e5de hans fjendtlighed over for den tidligere manager, Don Revie, og afsavnet til assistenten Peter Taylor, hvis loyalitet ligger hos Brighton & Hove Albion."
+            },
+            "title" : {
+               "da" : "The Damned United"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Michael Sheen",
+                     "role" : "Brian Clough"
+                  },
+                  {
+                     "name" : "Timothy Spall",
+                     "role" : "Peter Taylor"
+                  },
+                  {
+                     "name" : "Colm Meaney",
+                     "role" : "Don Revie"
+                  },
+                  {
+                     "role" : "Sam Longson",
+                     "name" : "Jim Broadbent"
+                  },
+                  {
+                     "name" : "Maurice Roeves",
+                     "role" : "Jimmy Gordon"
+                  },
+                  {
+                     "name" : "Stephen Graham",
+                     "role" : "Billy Bremner"
+                  },
+                  {
+                     "name" : "Henry Goodman",
+                     "role" : "Manny Cossins"
+                  },
+                  {
+                     "role" : "Austin Mitchell",
+                     "name" : "Mark Bazeley"
+                  },
+                  {
+                     "name" : "Giles Alderson",
+                     "role" : "Colin Todd"
+                  },
+                  {
+                     "name" : "Martin Compston",
+                     "role" : "John O'Hare"
+                  },
+                  {
+                     "name" : "David Roper",
+                     "role" : "Sam Bolton"
+                  },
+                  {
+                     "name" : "Jimmy Reddington",
+                     "role" : "Keith Archer"
+                  },
+                  {
+                     "role" : "Johnny Giles",
+                     "name" : "Peter McDonald"
+                  },
+                  {
+                     "name" : "Oliver Stokes",
+                     "role" : "Nigel Clough"
+                  },
+                  {
+                     "name" : "Ryan Day",
+                     "role" : "Simon Clough"
+                  },
+                  {
+                     "name" : "Ralph Ineson",
+                     "role" : "Journalist"
+                  },
+                  {
+                     "role" : "Barbara Clough",
+                     "name" : "Elizabeth Carling"
+                  },
+                  {
+                     "name" : "Brian McCardie",
+                     "role" : "Dave Mackay"
+                  },
+                  {
+                     "name" : "Sydney Wade",
+                     "role" : "Elizabeth Clough"
+                  },
+                  {
+                     "role" : "Duncan McKenzie",
+                     "name" : "Joe Dempsie"
+                  },
+                  {
+                     "name" : "Mark Cameron",
+                     "role" : "Norman Hunter"
+                  },
+                  {
+                     "role" : "John McGovern",
+                     "name" : "Colin Harris"
+                  },
+                  {
+                     "role" : "Les Coker",
+                     "name" : "Liam Thomas"
+                  },
+                  {
+                     "role" : "FA Committee Chairman",
+                     "name" : "Terence Harvey"
+                  },
+                  {
+                     "name" : "Paul Bown",
+                     "role" : "Mike Bamber"
+                  },
+                  {
+                     "name" : "Gillian Waugh",
+                     "role" : "Lillian Taylor"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Peter Morgan"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Andy Harries"
+                  },
+                  {
+                     "name" : "Grainne Marmion"
+                  },
+                  {
+                     "name" : "Lee Morris"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Tom Hooper"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "7.2 / 10"
+            },
+            "country" : [
+               "GB"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2008",
+            "start" : "1523152800",
+            "stop" : "1523160000",
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/21641"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama"
+               ]
+            },
+            "channel" : "action.film.viasat.dk"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Adventure",
+                  "Comedy",
+                  "Drama"
+               ]
+            },
+            "channel" : "action.film.viasat.dk",
+            "url" : [
+               "http://www.themoviedb.org/movie/371645"
+            ],
+            "new" : null,
+            "start" : "1523160000",
+            "stop" : "1523167200",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2016",
+            "country" : [
+               "NZ"
+            ],
+            "rating" : {
+               "stars" : "7.8 / 10"
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Taika Waititi"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Hec Faulkner",
+                     "name" : "Sam Neill"
+                  },
+                  {
+                     "role" : "Ricky Baker",
+                     "name" : "Julian Dennison"
+                  },
+                  {
+                     "name" : "Rima Te Wiata",
+                     "role" : "Bella M. Faulkner"
+                  },
+                  {
+                     "role" : "Paula Hall",
+                     "name" : "Rachel House"
+                  },
+                  {
+                     "name" : "Rhys Darby",
+                     "role" : "Psycho Sam"
+                  },
+                  {
+                     "name" : "Oscar Kightley",
+                     "role" : "Officer Andy"
+                  },
+                  {
+                     "role" : "Kahu",
+                     "name" : "Tioreore Ngatai-Melbourne"
+                  },
+                  {
+                     "name" : "Troy Kingi",
+                     "role" : "TK"
+                  },
+                  {
+                     "name" : "Cohen Holloway",
+                     "role" : "Hugh"
+                  },
+                  {
+                     "role" : "Ron",
+                     "name" : "Stan Walker"
+                  },
+                  {
+                     "role" : "Joe",
+                     "name" : "Mike Minogue"
+                  },
+                  {
+                     "name" : "Hamish Parkinson",
+                     "role" : "Gavin"
+                  },
+                  {
+                     "role" : "Minister",
+                     "name" : "Taika Waititi"
+                  },
+                  {
+                     "name" : "Lloyd Scott",
+                     "role" : "Tourist"
+                  },
+                  {
+                     "role" : "Organ Player",
+                     "name" : "Selena Wolfe"
+                  },
+                  {
+                     "name" : "Mabelle Dennison",
+                     "role" : "Church Lady"
+                  },
+                  {
+                     "name" : "Sonia Spyve",
+                     "role" : "Court Lawyer"
+                  },
+                  {
+                     "name" : "Timothy Herbert",
+                     "role" : "Court Lawyer"
+                  },
+                  {
+                     "name" : "Stu Giles",
+                     "role" : "Sick Man"
+                  },
+                  {
+                     "role" : "Organ Player",
+                     "name" : "Selina Woulfe"
+                  },
+                  {
+                     "name" : "Tuss",
+                     "role" : "Tupac"
+                  },
+                  {
+                     "name" : "Finn",
+                     "role" : "Zag"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Carthew Neal"
+                  },
+                  {
+                     "name" : "Matt Noonan"
+                  },
+                  {
+                     "name" : "Leanne Saunders"
+                  },
+                  {
+                     "name" : "Taika Waititi"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Taika Waititi"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Hunt for the Wilderpeople"
+            },
+            "desc" : {
+               "da" : "Den mindre\u00e5rige og kriminelle Ricky Baker (Julian Dennison) bliver hentet af de sociale myndigheder, og sendes i familiepleje hos konen og manden, Bella (Rima Te Wiata, og den gnavne Hec (Sam Neill). Rickys umiddelbare skepsis ryger hurtigt v\u00e6k, da Bella k\u00f8ber ham en hund i f\u00f8dselsdagsgave. Hans navn er Tupac. Efter Bellas pludselige d\u00f8d, fort\u00e6ller Hec til Ricky, at han skal tilbage p\u00e5 plejehjem. Ricky mislykkedes med at iscenes\u00e6tte sit selvmord, da han kommer til at s\u00e6tte ild til laden, og han flygter derefter med Tupac. Han opdager hurtigt, at han er faret vild. Hec finder ham, men skader sin ankel. De sl\u00e5r lejr i skoven i nogle dage. Tilbage p\u00e5 g\u00e5rden er politiet og de sociale myndigheder dukket op, hvor de finder huset tomt og laden br\u00e6ndt ned til grunden. De kommer frem til den konklusion: at som f\u00f8lge af konens d\u00f8dsfald, har Hec bortf\u00f8rt Ricky. Den fejlagtige antagelse forts\u00e6tter, da tre, idiotiske j\u00e6gere tror, at Hec forgriber sig p\u00e5 Ricky. Et kort stykke tid efter tilst\u00e5r Hec, at han ikke er i stand til at skrive og regne, og at han har siddet inde for mord."
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/371645"
+            }
+         },
+         {
+            "rating" : {
+               "stars" : "7.1 / 10"
+            },
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Peter Chernin"
+                  },
+                  {
+                     "name" : "Dylan Clark"
+                  },
+                  {
+                     "name" : "Rick Jaffa"
+                  },
+                  {
+                     "name" : "Amanda Silver"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Rupert Wyatt"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "James Franco",
+                     "role" : "Will Rodman"
+                  },
+                  {
+                     "name" : "Freida Pinto",
+                     "role" : "Caroline Aranha"
+                  },
+                  {
+                     "name" : "John Lithgow",
+                     "role" : "Charles Rodman"
+                  },
+                  {
+                     "name" : "Brian Cox",
+                     "role" : "John Landon"
+                  },
+                  {
+                     "name" : "Tom Felton",
+                     "role" : "Dodge Landon"
+                  },
+                  {
+                     "name" : "Andy Serkis",
+                     "role" : "Caesar"
+                  },
+                  {
+                     "name" : "David Oyelowo",
+                     "role" : "Steven Jacobs"
+                  },
+                  {
+                     "name" : "Tyler Labine",
+                     "role" : "Robert Franklin"
+                  },
+                  {
+                     "name" : "Jamie Harris",
+                     "role" : "Rodney"
+                  },
+                  {
+                     "role" : "John Hamil",
+                     "name" : "Ty Olsson"
+                  },
+                  {
+                     "name" : "David Hewlett",
+                     "role" : "Douglas Hunsiker"
+                  },
+                  {
+                     "role" : "Irena",
+                     "name" : "Chelah Horsdal"
+                  },
+                  {
+                     "role" : "Donnie Thompson",
+                     "name" : "Jesse Reid"
+                  },
+                  {
+                     "role" : "Todd Hunsiker",
+                     "name" : "Joey Roche"
+                  },
+                  {
+                     "role" : "Alice Hunsiker",
+                     "name" : "Madison Bell"
+                  },
+                  {
+                     "name" : "Makena Joy",
+                     "role" : "Teenage Alice Hunsiker"
+                  },
+                  {
+                     "name" : "B.J. Harrison",
+                     "role" : "Dottie"
+                  },
+                  {
+                     "role" : "Linda",
+                     "name" : "Mattie Hawkinson"
+                  },
+                  {
+                     "name" : "Karin Konoval",
+                     "role" : "Maurice / Court Clerk"
+                  },
+                  {
+                     "role" : "Rocket / Bright Eyes",
+                     "name" : "Terry Notary"
+                  },
+                  {
+                     "role" : "Buck",
+                     "name" : "Richard Ridings"
+                  },
+                  {
+                     "name" : "Christopher Gordon",
+                     "role" : "Koda"
+                  },
+                  {
+                     "role" : "Cornelia",
+                     "name" : "Devyn Dalton"
+                  },
+                  {
+                     "role" : "Alpha",
+                     "name" : "Jay Caputo"
+                  },
+                  {
+                     "name" : "Leah Gibson",
+                     "role" : "Party Girl #1"
+                  },
+                  {
+                     "name" : "Tracy Spiridakos",
+                     "role" : "Party Girl #2"
+                  },
+                  {
+                     "role" : "SFPD #2",
+                     "name" : "Chris Shields"
+                  },
+                  {
+                     "role" : "Scared Girl in Stairway (uncredited)",
+                     "name" : "Lauren Watson"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Rick Jaffa"
+                  },
+                  {
+                     "name" : "Amanda Silver"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Caesar er en chimpanse, der f\u00e5r et menneskeligt intelligensniveau og f\u00f8lelser gennem et eksperimentelt fors\u00f8g med et medikament. Caesar, der er blevet opfostret af fors\u00f8gets ophavsmand, Will Rodman, sammen med primatologen Caroline Aranha, bliver til sidst fjernet fra de mennesker, som han elsker, og derefter sat i et reservat for aber. Sammen med sine \"medfanger\" s\u00f8ger Caesar derfor nu h\u00e6vn, og giver de andre aber det samme medikament, som blev brugt p\u00e5 ham. Derefter skaber han et abeopr\u00f8r."
+            },
+            "title" : {
+               "da" : "Abernes Planet: Oprindelsen"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/61791"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Thriller",
+                  "Action",
+                  "Drama",
+                  "Sci-Fi"
+               ]
+            },
+            "channel" : "action.film.viasat.dk",
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/61791"
+            ],
+            "stop" : "1523174400",
+            "start" : "1523167200",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2011",
+            "country" : [
+               "US"
+            ]
+         },
+         {
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Saara Cantell"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Psilander",
+                     "name" : "Magnus Krepper"
+                  },
+                  {
+                     "name" : "Antti Reini"
+                  },
+                  {
+                     "name" : "Claes Malmberg"
+                  },
+                  {
+                     "name" : "Maria Sid"
+                  },
+                  {
+                     "role" : "Rakel",
+                     "name" : "Elin Petersdottir"
+                  },
+                  {
+                     "role" : "Valpuri",
+                     "name" : "Kaija Pakarinen"
+                  },
+                  {
+                     "name" : "Johanna af Schult\u00e9n"
+                  },
+                  {
+                     "name" : "Tuulia Eloranta",
+                     "role" : "Anna"
+                  },
+                  {
+                     "name" : "Lauri Tanskanen",
+                     "role" : "Elias"
+                  },
+                  {
+                     "name" : "Pirkko H\u00e4m\u00e4l\u00e4inen"
+                  },
+                  {
+                     "name" : "Sonja Halla-aho",
+                     "role" : "Lovisa"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "6.3 / 10"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/408194"
+            },
+            "desc" : {
+               "da" : "Vi er i seksten hundrede seks og tres p\u00e5 \u00f8en \u00c5land, i en afsides landsby, hvor kvinder bliver anklaget for hekseri. Teenageren Anna (Tuulia Eloranta) bliver forelsket i den gifte fisker Nils (Magnus Krepper). Hun bliver pludselig centrum for en heksejagt og en kamp mod landsbyens hierarki."
+            },
+            "title" : {
+               "da" : "Tulen Morsian"
+            },
+            "start" : "1523174400",
+            "stop" : "1523181600",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama"
+               ]
+            },
+            "channel" : "action.film.viasat.dk",
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/408194"
+            ],
+            "country" : [
+               "LV",
+               "FI",
+               "SE",
+               "NO"
+            ],
+            "date" : "2016",
+            "video" : {
+               "aspect" : "4:3"
+            }
+         },
+         {
+            "start" : "1523181600",
+            "stop" : "1523188800",
+            "channel" : "action.film.viasat.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Documentary"
+               ]
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/455483"
+            ],
+            "new" : null,
+            "country" : [
+               "SE"
+            ],
+            "date" : "2017",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Henrik Jansson-Schweizer"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Mia Sohlman"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Ronnie Peterson"
+                  },
+                  {
+                     "name" : "Niki Lauda"
+                  },
+                  {
+                     "name" : "Jackie Stewart"
+                  },
+                  {
+                     "name" : "Jody Scheckter"
+                  },
+                  {
+                     "name" : "Nina Kennedy"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/455483"
+            },
+            "title" : {
+               "da" : "Superswede: En film om Ronnie Peterson"
+            },
+            "desc" : {
+               "da" : "Den svenske racerlegende Ronnie Petersen blev dr\u00e6bt i en d\u00f8dsulykke p\u00e5 Autodromo Nazionale di Monza i 1978, hvilket sendte chokb\u00f8lger gennem verden. Filmen interviewer Nina Kennedy og nogle af de st\u00f8rste navne i motorverdenen, og tager p\u00e5 en episk rejse gennem en \u00e6ra med Formel 1, der er fyldt med glamour, heltemod, 'big business' og de omst\u00e6ndigheder, der f\u00f8rte til, at mange racerk\u00f8rere mistede deres liv."
+            }
+         },
+         {
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Ivan Reitman"
+                  },
+                  {
+                     "name" : "Amy Pascal"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Paul Feig"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Katie Dippold"
+                  },
+                  {
+                     "name" : "Paul Feig"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Melissa McCarthy",
+                     "role" : "Abby Yates"
+                  },
+                  {
+                     "role" : "Erin Gilbert",
+                     "name" : "Kristen Wiig"
+                  },
+                  {
+                     "name" : "Kate McKinnon",
+                     "role" : "Jillian Holtzmann"
+                  },
+                  {
+                     "role" : "Patty Tolan",
+                     "name" : "Leslie Jones"
+                  },
+                  {
+                     "role" : "Kevin Smith",
+                     "name" : "Chris Hemsworth"
+                  },
+                  {
+                     "role" : "Rowan North",
+                     "name" : "Neil Casey"
+                  },
+                  {
+                     "name" : "Charles Dance",
+                     "role" : "Harold Fillmore"
+                  },
+                  {
+                     "role" : "Agent Hawkins",
+                     "name" : "Michael Kenneth Williams"
+                  },
+                  {
+                     "name" : "Cecily Strong",
+                     "role" : "Jennifer Lynch"
+                  },
+                  {
+                     "role" : "Mayor Bradley",
+                     "name" : "Andy Garc\u00eda"
+                  },
+                  {
+                     "name" : "Matt Walsh",
+                     "role" : "Agent Rorke"
+                  },
+                  {
+                     "name" : "Ed Begley Jr.",
+                     "role" : "Ed Mulgrave"
+                  },
+                  {
+                     "name" : "Steve Higgins",
+                     "role" : "Dean Jones"
+                  },
+                  {
+                     "role" : "Jonathan the Theater Manager",
+                     "name" : "Michael McDonald"
+                  },
+                  {
+                     "name" : "Karan Soni",
+                     "role" : "Benny"
+                  },
+                  {
+                     "role" : "Tour Guide Garrett",
+                     "name" : "Zach Woods"
+                  },
+                  {
+                     "role" : "Graffiti Artist",
+                     "name" : "Nate Corddry"
+                  },
+                  {
+                     "role" : "Officer Stevenson",
+                     "name" : "Toby Huss"
+                  },
+                  {
+                     "name" : "Katie Dippold",
+                     "role" : "Rental Agent"
+                  },
+                  {
+                     "name" : "Jessica Chaffin",
+                     "role" : "Waitress"
+                  },
+                  {
+                     "role" : "Waitress",
+                     "name" : "Jamie Denbo"
+                  },
+                  {
+                     "role" : "Electrocuted Ghost",
+                     "name" : "Dave Allen"
+                  },
+                  {
+                     "role" : "Flasher Ghost",
+                     "name" : "Steve Bannos"
+                  },
+                  {
+                     "role" : "Lead Singer / Voice of Slimer",
+                     "name" : "Adam Ray"
+                  },
+                  {
+                     "name" : "Bill Murray",
+                     "role" : "Martin Heiss"
+                  },
+                  {
+                     "role" : "Frustrated Cabbie",
+                     "name" : "Dan Aykroyd"
+                  },
+                  {
+                     "name" : "Ernie Hudson",
+                     "role" : "Uncle Bill"
+                  },
+                  {
+                     "role" : "Rebecca Gorin",
+                     "name" : "Sigourney Weaver"
+                  },
+                  {
+                     "name" : "Annie Potts",
+                     "role" : "Desk Clerk"
+                  },
+                  {
+                     "role" : "Famous Rock Star",
+                     "name" : "Ozzy Osbourne"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Al Roker"
+                  },
+                  {
+                     "role" : "Fox 5 News Anchor",
+                     "name" : "Rosanna Scotto"
+                  },
+                  {
+                     "role" : "Fox 5 News Anchor",
+                     "name" : "Greg Kelly"
+                  },
+                  {
+                     "name" : "Daniel Ramis",
+                     "role" : "Metal Head"
+                  },
+                  {
+                     "name" : "Sam Richardson",
+                     "role" : "Basement Cop"
+                  },
+                  {
+                     "role" : "Subway Rat Woman",
+                     "name" : "Milana Vayntrub"
+                  },
+                  {
+                     "name" : "Bess Rous",
+                     "role" : "Gertrude Aldridge Ghost"
+                  },
+                  {
+                     "name" : "Pat Kiernan",
+                     "role" : "NY1 News Anchor #1"
+                  },
+                  {
+                     "role" : "Bass Guitarist",
+                     "name" : "Eugene Cordero"
+                  },
+                  {
+                     "role" : "Reporter Outside Theater",
+                     "name" : "Jeanine Ramirez"
+                  },
+                  {
+                     "role" : "Flashed Man",
+                     "name" : "Tom Yi"
+                  },
+                  {
+                     "name" : "Susan Park",
+                     "role" : "Flashed Woman"
+                  },
+                  {
+                     "name" : "Stephen Boss",
+                     "role" : "Police Officer"
+                  },
+                  {
+                     "role" : "Lady Slimer (voice)",
+                     "name" : "Robin Shelby"
+                  },
+                  {
+                     "role" : "Higgins Student",
+                     "name" : "John Milhiser"
+                  },
+                  {
+                     "role" : "Higgins Student",
+                     "name" : "Ben Harris"
+                  },
+                  {
+                     "name" : "Jaime Pacheco",
+                     "role" : "Fernando the Janitor"
+                  },
+                  {
+                     "name" : "Davey Jones",
+                     "role" : "Ely the Drummer"
+                  },
+                  {
+                     "name" : "Ryan Levine",
+                     "role" : "Rock Guitarist"
+                  },
+                  {
+                     "role" : "Rock Guitarist",
+                     "name" : "Dan Teicher"
+                  },
+                  {
+                     "name" : "Theodore Shapiro",
+                     "role" : "Keyboardist"
+                  },
+                  {
+                     "role" : "Lightboard Operator",
+                     "name" : "Matteo Borghese"
+                  },
+                  {
+                     "role" : "NY1 News Anchor #2",
+                     "name" : "Cheryl Wills"
+                  },
+                  {
+                     "name" : "Tony Viveiros",
+                     "role" : "Police Officer"
+                  },
+                  {
+                     "role" : "Baba Booey Shouter",
+                     "name" : "Johnny Higgins"
+                  },
+                  {
+                     "role" : "Phyllis Adler",
+                     "name" : "Elizabeth Perkins"
+                  },
+                  {
+                     "role" : "Ghost Prostitute / College Student (uncredited)",
+                     "name" : "Kristen Annese"
+                  },
+                  {
+                     "name" : "Stephanie Atkinson",
+                     "role" : "Restaurant Patron (uncredited)"
+                  },
+                  {
+                     "role" : "Frank (uncredited)",
+                     "name" : "Brian Baumgartner"
+                  },
+                  {
+                     "name" : "Amanda Blattner",
+                     "role" : "Aldridge Mansion Tourist (uncredited)"
+                  },
+                  {
+                     "role" : "Pedestrian (uncredited)",
+                     "name" : "Chemi Che-Mponda"
+                  },
+                  {
+                     "role" : "AA News Reporter (uncredited)",
+                     "name" : "Kadian Clarke"
+                  },
+                  {
+                     "name" : "Mackenzie Hawe",
+                     "role" : "Concert Goer (uncredited)"
+                  },
+                  {
+                     "role" : "Coffeeshop Patron / Concert Goer (uncredited)",
+                     "name" : "Erin Katrina Hayes"
+                  },
+                  {
+                     "role" : "NYC Pedestrian (uncredited)",
+                     "name" : "Sigrid Lium"
+                  },
+                  {
+                     "role" : "Concert Goer (uncredited)",
+                     "name" : "Paige MacLean"
+                  },
+                  {
+                     "name" : "Lesley Nicol",
+                     "role" : "Mrs. Potter (uncredited)"
+                  },
+                  {
+                     "name" : "Diane Pimentel",
+                     "role" : "Concert Goer (uncredited)"
+                  },
+                  {
+                     "role" : "Guitar Technician (uncredited)",
+                     "name" : "Lexie Roth"
+                  },
+                  {
+                     "name" : "Stephanie Ann Saunders",
+                     "role" : "Woman in Subway (uncredited)"
+                  },
+                  {
+                     "name" : "Kallie Tabor",
+                     "role" : "Community College Student (uncredited)"
+                  },
+                  {
+                     "name" : "Jordan Tofalo",
+                     "role" : "1950s Ghost (uncredited)"
+                  },
+                  {
+                     "name" : "Chaunty Spillane",
+                     "role" : "Show Girl Ghost (uncredited)/Double for Gertrude Aldridge Ghost & Bess Rous"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "5.3 / 10"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/43074"
+            },
+            "desc" : {
+               "da" : "Fysikerne Dr. Abigail \"Abi\" Yates (Melissa McCarthy) og Dr. Erin Gilbert (Kristen Wiig), ingeni\u00f8ren Dr. Jillian \"Holtz\" Holtzmann (Kate McKinnon) samt metro-medarbejderen Patricia \"Patty\" Tolan (Leslie Jones) g\u00e5r sammen, for at danne 'Ghostbusters', for at g\u00e5 til kamp mod det stigende antal af paranormale f\u00e6nomener i New York."
+            },
+            "title" : {
+               "da" : "Ghostbusters"
+            },
+            "stop" : "1523196000",
+            "start" : "1523188800",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Fantasy",
+                  "Comedy"
+               ]
+            },
+            "channel" : "action.film.viasat.dk",
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/43074"
+            ],
+            "country" : [
+               "US"
+            ],
+            "date" : "2016",
+            "video" : {
+               "aspect" : "4:3"
+            }
+         },
+         {
+            "stop" : "1523203200",
+            "start" : "1523196000",
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/70667"
+            ],
+            "channel" : "action.film.viasat.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Adventure",
+                  "History"
+               ]
+            },
+            "country" : [
+               "DK",
+               "DE",
+               "NO",
+               "SE",
+               "GB"
+            ],
+            "date" : "2012",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Aage Aaberge"
+                  },
+                  {
+                     "name" : "Jeremy Thomas"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Joachim R\u00f8nning"
+                  },
+                  {
+                     "name" : "Espen Sandberg"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "P\u00e5l Sverre Hagen",
+                     "role" : "Thor Heyerdahl"
+                  },
+                  {
+                     "name" : "Anders Baasmo Christiansen",
+                     "role" : "Herman Watzinger"
+                  },
+                  {
+                     "role" : "Knut Haugland",
+                     "name" : "Tobias Santelmann"
+                  },
+                  {
+                     "role" : "Bengt Danielsson",
+                     "name" : "Gustaf Skarsg\u00e5rd"
+                  },
+                  {
+                     "role" : "Erik Hesselberg",
+                     "name" : "Odd-Magnus Williamson"
+                  },
+                  {
+                     "name" : "Jakob Oftebro",
+                     "role" : "Torstein Raaby"
+                  },
+                  {
+                     "name" : "Agnes Kittelsen",
+                     "role" : "Liv Heyerdahl"
+                  },
+                  {
+                     "role" : "Jose Bustamente",
+                     "name" : "Manuel Cauchi"
+                  },
+                  {
+                     "role" : "L\u00f8ytnant Lewis",
+                     "name" : "Richard Trinder"
+                  },
+                  {
+                     "name" : "S\u00f8ren Pilmark",
+                     "role" : "Freuchen"
+                  },
+                  {
+                     "name" : "Peter Wight",
+                     "role" : "Spinden"
+                  },
+                  {
+                     "name" : "Jo Adrian Haavind",
+                     "role" : "Journalist"
+                  },
+                  {
+                     "name" : "Ian Bonar",
+                     "role" : "Sailor"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "7 / 10"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/70667"
+            },
+            "desc" : {
+               "da" : "Den norske opdagelsesrejsende, Thor Heyerdahl, krydsede Stillehavet i en b\u00e5d i balsatr\u00e6 i 1947. Sammen med fem mand ville han bevise, at Sydamerikanerne tilbage i Colombias tidlige tid kunne have krydset havet og sl\u00e5et sig ned i Polynesien. Efter at have finansieret turen med l\u00e5n og donationer, tager de afsted p\u00e5 en episk 101 dag lang tur, otte tusinde kilometer lang - mens verden venter p\u00e5 resultatet af deres tur."
+            },
+            "title" : {
+               "da" : "Kon-Tiki"
+            }
+         },
+         {
+            "stop" : "1523210400",
+            "start" : "1523203200",
+            "url" : [
+               "http://www.themoviedb.org/movie/21641"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Drama"
+               ]
+            },
+            "channel" : "action.film.viasat.dk",
+            "country" : [
+               "GB"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2008",
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Andy Harries"
+                  },
+                  {
+                     "name" : "Grainne Marmion"
+                  },
+                  {
+                     "name" : "Lee Morris"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Tom Hooper"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Peter Morgan"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Brian Clough",
+                     "name" : "Michael Sheen"
+                  },
+                  {
+                     "name" : "Timothy Spall",
+                     "role" : "Peter Taylor"
+                  },
+                  {
+                     "role" : "Don Revie",
+                     "name" : "Colm Meaney"
+                  },
+                  {
+                     "role" : "Sam Longson",
+                     "name" : "Jim Broadbent"
+                  },
+                  {
+                     "name" : "Maurice Roeves",
+                     "role" : "Jimmy Gordon"
+                  },
+                  {
+                     "role" : "Billy Bremner",
+                     "name" : "Stephen Graham"
+                  },
+                  {
+                     "name" : "Henry Goodman",
+                     "role" : "Manny Cossins"
+                  },
+                  {
+                     "role" : "Austin Mitchell",
+                     "name" : "Mark Bazeley"
+                  },
+                  {
+                     "name" : "Giles Alderson",
+                     "role" : "Colin Todd"
+                  },
+                  {
+                     "role" : "John O'Hare",
+                     "name" : "Martin Compston"
+                  },
+                  {
+                     "name" : "David Roper",
+                     "role" : "Sam Bolton"
+                  },
+                  {
+                     "role" : "Keith Archer",
+                     "name" : "Jimmy Reddington"
+                  },
+                  {
+                     "role" : "Johnny Giles",
+                     "name" : "Peter McDonald"
+                  },
+                  {
+                     "name" : "Oliver Stokes",
+                     "role" : "Nigel Clough"
+                  },
+                  {
+                     "role" : "Simon Clough",
+                     "name" : "Ryan Day"
+                  },
+                  {
+                     "name" : "Ralph Ineson",
+                     "role" : "Journalist"
+                  },
+                  {
+                     "name" : "Elizabeth Carling",
+                     "role" : "Barbara Clough"
+                  },
+                  {
+                     "role" : "Dave Mackay",
+                     "name" : "Brian McCardie"
+                  },
+                  {
+                     "role" : "Elizabeth Clough",
+                     "name" : "Sydney Wade"
+                  },
+                  {
+                     "role" : "Duncan McKenzie",
+                     "name" : "Joe Dempsie"
+                  },
+                  {
+                     "name" : "Mark Cameron",
+                     "role" : "Norman Hunter"
+                  },
+                  {
+                     "role" : "John McGovern",
+                     "name" : "Colin Harris"
+                  },
+                  {
+                     "role" : "Les Coker",
+                     "name" : "Liam Thomas"
+                  },
+                  {
+                     "name" : "Terence Harvey",
+                     "role" : "FA Committee Chairman"
+                  },
+                  {
+                     "name" : "Paul Bown",
+                     "role" : "Mike Bamber"
+                  },
+                  {
+                     "name" : "Gillian Waugh",
+                     "role" : "Lillian Taylor"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "7.2 / 10"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/21641"
+            },
+            "desc" : {
+               "da" : "Den ellers tidligere succesfulde fodbold-manager, Brian Clough, overtager Englands bedste fodboldklub, Leeds United. Men hans h\u00e5rde tilgang og \u00e5benlyse foragt for spillernes beskidte spillestil g\u00f8r det klart, at der vil opst\u00e5 problemer. Episoder fra hans tidligere karriere forklarer b\u00e5de hans fjendtlighed over for den tidligere manager, Don Revie, og afsavnet til assistenten Peter Taylor, hvis loyalitet ligger hos Brighton & Hove Albion."
+            },
+            "title" : {
+               "da" : "The Damned United"
+            }
+         },
+         {
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Jon Watts"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Tom Holland"
+                  },
+                  {
+                     "name" : "Zendaya"
+                  },
+                  {
+                     "name" : "Donald Glover"
+                  },
+                  {
+                     "name" : "Marisa Tomei"
+                  },
+                  {
+                     "name" : "Michael Keaton"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Peter Parker fors\u00f8ger at man\u00f8vrere i sit \"andet liv\" som den elskede Spider-Man. Lykkelig over sin seneste mission med The Avengers, vender han hjem - dog under konstant overv\u00e5gning fra sin nye mentor; Tony Stark. Peter fors\u00f8ger at falde tilbage i den normale, daglige rutine, men distraheres af sine tanker om at ville bevise sit v\u00e6rd, og at han er mere end bare den hj\u00e6lpsomme Spider-Man. Men da Vulture dukker op som en ny trussel, er alt hvad Peter holder af pludselig i fare."
+            },
+            "title" : {
+               "da" : "Spider-Man: Homecoming"
+            },
+            "new" : null,
+            "channel" : "action.film.viasat.dk",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Adventure"
+               ]
+            },
+            "stop" : "1523218500",
+            "start" : "1523210400",
+            "date" : "2017",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ]
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2006",
+            "start" : "1523218500",
+            "stop" : "1523224800",
+            "url" : [
+               "http://www.themoviedb.org/movie/1948"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Thriller",
+                  "Crime"
+               ]
+            },
+            "channel" : "action.film.viasat.dk",
+            "episodeNum" : {
+               "themoviedb.org" : "movie/1948"
+            },
+            "desc" : {
+               "da" : "Chev Chelios (Jason Statham) er en professionel lejemorder, der arbejder for et kartel. Han bliver forr\u00e5dt af forbryderen Carlito (Carlos Sanz) og den ambiti\u00f8se lejemorder Ricky Verona (Jose Pablo Cantillo). Chelios bliver forgiftet og han m\u00e5 holde sit adrenalinniveau oppe - ellers vil han d\u00f8. Det kriminelle syndikat, som han plejede at arbejde for, tager ogs\u00e5 hans k\u00e6reste, Eve Lyndon (Amy Smart), som gidsel. Chelios m\u00e5 redde hende, mens han leder efter en modgift mod giftstoffet - og tingene eskalerer!"
+            },
+            "title" : {
+               "da" : "Crank"
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Brian Taylor"
+                  },
+                  {
+                     "name" : "Mark Neveldine"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Chev Chelios",
+                     "name" : "Jason Statham"
+                  },
+                  {
+                     "role" : "Eve",
+                     "name" : "Amy Smart"
+                  },
+                  {
+                     "role" : "Ricky Verona",
+                     "name" : "Jose Pablo Cantillo"
+                  },
+                  {
+                     "name" : "Efren Ramirez",
+                     "role" : "Kaylo"
+                  },
+                  {
+                     "role" : "Doc Miles",
+                     "name" : "Dwight Yoakam"
+                  },
+                  {
+                     "role" : "Carlito",
+                     "name" : "Carlos Sanz"
+                  },
+                  {
+                     "role" : "Orlando",
+                     "name" : "Reno Wilson"
+                  },
+                  {
+                     "role" : "Haitian Cabbie",
+                     "name" : "Edi Gathegi"
+                  },
+                  {
+                     "name" : "Glenn Howerton",
+                     "role" : "Doctor"
+                  },
+                  {
+                     "name" : "Jay Xcala",
+                     "role" : "Alex"
+                  },
+                  {
+                     "name" : "Keone Young",
+                     "role" : "Don Kim"
+                  },
+                  {
+                     "name" : "Valarie Rae Miller",
+                     "role" : "Chocolate"
+                  },
+                  {
+                     "role" : "Arab Cabbie",
+                     "name" : "Yousuf Azami"
+                  },
+                  {
+                     "role" : "Man in Garage",
+                     "name" : "Laurent Schwaar"
+                  },
+                  {
+                     "name" : "David Brown",
+                     "role" : "Sin City Brother"
+                  },
+                  {
+                     "role" : "Convenience Store Clerk",
+                     "name" : "Dorian Kingi"
+                  },
+                  {
+                     "role" : "Verona Crew #1",
+                     "name" : "Med Abrous"
+                  },
+                  {
+                     "name" : "Daniel Stevens",
+                     "role" : "Verona Crew #2"
+                  },
+                  {
+                     "role" : "Verona Crew #3",
+                     "name" : "Wally Lozano"
+                  },
+                  {
+                     "role" : "Hightower",
+                     "name" : "Eve Loseth"
+                  },
+                  {
+                     "role" : "Hightower",
+                     "name" : "David T. Green"
+                  },
+                  {
+                     "name" : "Eve Loseth",
+                     "role" : "Restaurant Waitress"
+                  },
+                  {
+                     "role" : "Pharmacy Man",
+                     "name" : "Allen Bloomfield"
+                  },
+                  {
+                     "name" : "Stephanie Mace",
+                     "role" : "Pharmacist"
+                  },
+                  {
+                     "role" : "Pharmacy Stoner",
+                     "name" : "Chester Bennington"
+                  },
+                  {
+                     "role" : "Hospital Cop",
+                     "name" : "Michael McLafferty"
+                  },
+                  {
+                     "role" : "Stretcher Patient",
+                     "name" : "Earl Carroll"
+                  },
+                  {
+                     "name" : "Brian Swibel",
+                     "role" : "Hospital Tech #1"
+                  },
+                  {
+                     "name" : "Donnie Smith",
+                     "role" : "Hospital Tech #2"
+                  },
+                  {
+                     "name" : "Sean Graham",
+                     "role" : "Motorcycle Cop"
+                  },
+                  {
+                     "name" : "Dan Callahan",
+                     "role" : "TV Store Guy"
+                  },
+                  {
+                     "name" : "Noel Gugliemi",
+                     "role" : "Warehouse Rooftop Hood"
+                  },
+                  {
+                     "role" : "Warehouse Window Hood",
+                     "name" : "Daniel Venegas"
+                  },
+                  {
+                     "role" : "Warehouse Hood Leader",
+                     "name" : "Francis Capra"
+                  },
+                  {
+                     "role" : "Warehouse Hood #1",
+                     "name" : "Frank Blake"
+                  },
+                  {
+                     "role" : "Warehouse Hood #2",
+                     "name" : "Mike G."
+                  },
+                  {
+                     "name" : "Ken Moreno",
+                     "role" : "Hood #3"
+                  },
+                  {
+                     "name" : "Troy Robinson",
+                     "role" : "Hood #4"
+                  },
+                  {
+                     "name" : "Eddie Perez",
+                     "role" : "Hood #5"
+                  },
+                  {
+                     "role" : "Hood #6",
+                     "name" : "Justin Riemer"
+                  },
+                  {
+                     "role" : "Shirt Factory Supervisor",
+                     "name" : "Peter Choi"
+                  },
+                  {
+                     "role" : "Bus Girl",
+                     "name" : "Elizabeth Jayne Hong"
+                  },
+                  {
+                     "role" : "Japanese Businessman",
+                     "name" : "Toshi Toda"
+                  },
+                  {
+                     "name" : "Samuel Witwer",
+                     "role" : "Shootout Henchman #1"
+                  },
+                  {
+                     "name" : "Jai Stefan",
+                     "role" : "Shootout Henchman #2"
+                  },
+                  {
+                     "name" : "Jacki R. Chan",
+                     "role" : "Cocoon Girl"
+                  },
+                  {
+                     "role" : "Helicopter Pilot",
+                     "name" : "Rick Shuster"
+                  },
+                  {
+                     "role" : "TV Reporter",
+                     "name" : "Ted Garcia"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Brian Taylor"
+                  },
+                  {
+                     "name" : "Mark Neveldine"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "Michael Davis"
+                  },
+                  {
+                     "name" : "Gary Lucchesi"
+                  },
+                  {
+                     "name" : "Tom Rosenberg"
+                  },
+                  {
+                     "name" : "Skip Williamson"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "6.6 / 10"
+            }
+         },
+         {
+            "rating" : {
+               "stars" : "5.3 / 10"
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Anna Foerster"
+                  }
+               ],
+               "producer" : [
+                  {
+                     "name" : "David Kern"
+                  },
+                  {
+                     "name" : "Gary Lucchesi"
+                  },
+                  {
+                     "name" : "Tom Rosenberg"
+                  },
+                  {
+                     "name" : "Len Wiseman"
+                  },
+                  {
+                     "name" : "Richard S. Wright"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Selene",
+                     "name" : "Kate Beckinsale"
+                  },
+                  {
+                     "role" : "David",
+                     "name" : "Theo James"
+                  },
+                  {
+                     "name" : "Tobias Menzies",
+                     "role" : "Marius"
+                  },
+                  {
+                     "role" : "Semira",
+                     "name" : "Lara Pulver"
+                  },
+                  {
+                     "role" : "Varga",
+                     "name" : "Bradley James"
+                  },
+                  {
+                     "role" : "Vidar",
+                     "name" : "Peter Andersson"
+                  },
+                  {
+                     "name" : "James Faulkner",
+                     "role" : "Cassius"
+                  },
+                  {
+                     "role" : "Lena",
+                     "name" : "Clementine Nicholson"
+                  },
+                  {
+                     "role" : "Alexia",
+                     "name" : "Daisy Head"
+                  },
+                  {
+                     "name" : "Oliver Stark",
+                     "role" : "Gregor"
+                  },
+                  {
+                     "role" : "Thomas",
+                     "name" : "Charles Dance"
+                  },
+                  {
+                     "role" : "Vampire Council #1",
+                     "name" : "Zuzana Stiv\u00ednov\u00e1"
+                  },
+                  {
+                     "name" : "Brian Caspe",
+                     "role" : "Vampire Council #2"
+                  },
+                  {
+                     "role" : "Vampire Council #3",
+                     "name" : "Jan Nemejovsk\u00fd"
+                  },
+                  {
+                     "name" : "Sveta Driga",
+                     "role" : "Amelia"
+                  },
+                  {
+                     "name" : "Dan Bradford",
+                     "role" : "Lycan Pack Leader #1"
+                  },
+                  {
+                     "name" : "David Bowles",
+                     "role" : "Lycan Pack Leader #2"
+                  },
+                  {
+                     "name" : "Tomas Fisher",
+                     "role" : "Lycan Pack Leader #3"
+                  },
+                  {
+                     "role" : "Lycan Pack Leader #4",
+                     "name" : "Rostislav Nov\u00e1k ml."
+                  },
+                  {
+                     "name" : "Eva Larvoire",
+                     "role" : "Tech Lycan"
+                  },
+                  {
+                     "name" : "Jiri N. Jelinek",
+                     "role" : "Lycan Underling"
+                  },
+                  {
+                     "role" : "Black Lycan Sidekick",
+                     "name" : "Marielle Tepper"
+                  },
+                  {
+                     "name" : "Jordan Haj",
+                     "role" : "Lead Death Dealer"
+                  },
+                  {
+                     "role" : "Death Dealer",
+                     "name" : "Daniel Pietrucha"
+                  },
+                  {
+                     "name" : "Jakub Krop\u00e1\u010dek",
+                     "role" : "Vampire Cadet #1"
+                  },
+                  {
+                     "name" : "S\u00e1ra Arnsteinov\u00e1",
+                     "role" : "Vampire Cadet #2"
+                  },
+                  {
+                     "name" : "Irena Morisakova",
+                     "role" : "Cello Vampire #1"
+                  },
+                  {
+                     "role" : "Cello Vampire #2",
+                     "name" : "Terezie Kovalova"
+                  },
+                  {
+                     "name" : "Tomas Fingerland",
+                     "role" : "Cello Vampire #3"
+                  },
+                  {
+                     "name" : "Jakub Mayer",
+                     "role" : "Cello Vampire #4"
+                  },
+                  {
+                     "name" : "Denisa Krskova",
+                     "role" : "Society Vampire #1"
+                  },
+                  {
+                     "name" : "Simona Simkova",
+                     "role" : "Society Vampire #2"
+                  },
+                  {
+                     "role" : "Society Vampire #3",
+                     "name" : "Daniel Vojtech"
+                  },
+                  {
+                     "role" : "Control Room Vampire",
+                     "name" : "Jared Doreck"
+                  },
+                  {
+                     "name" : "Lukas Vydrzal",
+                     "role" : "Nordic Vampire #1"
+                  },
+                  {
+                     "name" : "Lukas Krampera",
+                     "role" : "Nordic Vampire #2"
+                  },
+                  {
+                     "role" : "Nordic Child #1",
+                     "name" : "Adam Vosecek"
+                  },
+                  {
+                     "name" : "Agatha Hofmanov\u00e1",
+                     "role" : "Nordic Child #2"
+                  },
+                  {
+                     "role" : "Nordic Child #3",
+                     "name" : "Anezka Noskov\u00e1"
+                  },
+                  {
+                     "name" : "Alicia Vela-Bailey",
+                     "role" : "Safehouse Lycan"
+                  },
+                  {
+                     "name" : "India Eisley",
+                     "role" : "Eve (uncredited)"
+                  },
+                  {
+                     "role" : "Hybrid Michael (uncredited)",
+                     "name" : "Trent Garrett"
+                  },
+                  {
+                     "role" : "Lycan (uncredited)",
+                     "name" : "Martavious Gayles"
+                  },
+                  {
+                     "role" : "Lycan in Tunnel (uncredited)",
+                     "name" : "Miroslav Lhotka"
+                  },
+                  {
+                     "name" : "Richard William Romanov",
+                     "role" : "Lycan (uncredited)"
+                  },
+                  {
+                     "name" : "Junes Zahdi",
+                     "role" : "Lycan (uncredited)"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Cory Goodman"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Kate Beckinsale, Theo James og Charles Dance medvirker i dette n\u00e6ste sp\u00e6ndende kapital af vampyren Selenes saga. Hun bliver jagtet af vampirer og varulve, som er ude efter hendes blod og datteren."
+            },
+            "title" : {
+               "da" : "Underworld 5"
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/346672"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Action",
+                  "Fantasy",
+                  "Horror"
+               ]
+            },
+            "channel" : "action.film.viasat.dk",
+            "new" : null,
+            "url" : [
+               "http://www.themoviedb.org/movie/346672"
+            ],
+            "stop" : "1523232000",
+            "start" : "1523224800",
+            "date" : "2016",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ]
+         }
+      ]
+   }
+}

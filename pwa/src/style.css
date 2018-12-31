@@ -1,138 +1,3 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-body{
-    font-family: Roboto, Helvetica, sans-serif;
-}
-.clear{
-    clear: both;
-}
-header{
-    background-color: #f8f8f8;
-    border-bottom: 1px solid #e7e7e7;
-
-    position: relative;
-    z-index: 2;
-}
-header h1{
-    color: #777;
-    padding: 15px;
-    font-size: 18px;
-    font-weight: normal;
-    float: left;
-}
-header ul {
-    float: right;
-}
-header ul li {
-    float: left;
-    list-style: none;
-    color: #666;
-    font-size: 16px;
-    font-weight: normal;
-    padding: 5px;
-    margin: 10px 21px 0 0;
-}
-
-
-/* Dayes */
-.days{
-    padding: 15px;
-    background: #fff;
-    z-index: 1;
-    box-shadow: 0 0 10px rgba(0,0,0,.5);
-    position: relative;
-
-    overflow-x: auto;
-    overflow-y: hidden;
-}
-.days_inner{
-    width: 500px;
-}
-.days_inner > span{
-    margin-right: 10px;
-    padding: 5px;
-}
-.days .focus{
-    font-weight: bold;
-}
-/* Tv guide */
-.tvguide{
-    display: flex;
-}
-.channelicon img{
-    margin: 5px;
-}
-.channel-icons{
-    padding: 35px 15px 200px 10px;
-    border-right: 1px solid #aaaaaa;
-    box-shadow: 0 0 10px rgba(0,0,0,.5);
-    width: 55px;
-    overflow-x: hidden;
-
-}
-.channel-programs{
-    overflow-x: scroll;
-    overflow-y: hidden;
-    width: 100%;
-    padding: 10px 0;
-
-    position: relative;
-    will-change: transform;
-}
-.timeDesktop{
-    height: 20px;
-    position: relative;
-}
-.timeMobile{
-    height: 20px;
-    position: relative;
-}
-.timeonday{
-    position: absolute;
-    color: #333333;
-}
-.programms{
-    position: relative;
-}
-
-[data-day-wrapper]{
-    position: absolute;
-    overflow: hidden;
-}
-.program-wrapper{
-    position: absolute;
-    overflow: hidden;
-}
-.program-in-the-past{
-    opacity: .5;
-}
-.program {
-    margin: 2px;
-    background: #fbfbfb;
-    /*border-radius: 2px;*/
-    border: 1px solid #EEE;
-}
-.program-title{
-    white-space: nowrap;
-    overflow: hidden;
-}
-.program-time{
-    white-space: nowrap;
-    overflow: hidden;
-    opacity: .8;
-}
-.now{
-    position: absolute;
-
-    top: 0;
-    bottom: 0;
-
-    width: 2px;
-    background: red;
-    height: 100%;
-}
 /* Program info */
 .program_info {
     position: fixed;
@@ -142,15 +7,13 @@ header ul li {
     box-shadow: 0 0 15px rgba(0, 0, 0, 5);
     background: #ffffff;
 
-    transition: transform 500ms;
-    will-change: trasform;
-    transform: translateY(200px);
 
     padding: 15px;
 
     max-height: 200px;
     min-height: 115px;
     overflow-y: auto;
+
 }
 .program_info .title{
     font-weight: bold;
@@ -194,9 +57,10 @@ header ul li {
     padding: 10px;
     overflow-y: auto;
 
-    transition: transform 500ms;
-    will-change: transform;
     transform: translateX(345px);
+
+    transition: transform 500ms;
+    will-change: trasform;
 }
 .kanal-valg.on{
     transform: translateX(0);

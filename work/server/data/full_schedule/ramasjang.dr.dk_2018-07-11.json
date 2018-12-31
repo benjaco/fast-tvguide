@@ -1,0 +1,1632 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "title" : {
+               "da" : "Ramasjang sover"
+            },
+            "new" : null,
+            "country" : [
+               "DK"
+            ],
+            "start" : "1531276800",
+            "stop" : "1531278000",
+            "date" : "2018"
+         },
+         {
+            "stop" : "1531278600",
+            "country" : [
+               "GB"
+            ],
+            "start" : "1531278000",
+            "new" : null,
+            "previously_shown" : "ramasjang.dr.dk|2018-04-13 08:15:00",
+            "title" : {
+               "da" : "Den fortryllede karrusel"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 10",
+               "xmltv_ns" : ". 9 ."
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 29 s\u00e6son 2",
+               "xmltv_ns" : "1. 28 ."
+            },
+            "desc" : {
+               "da" : "Mossis mission."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "date" : "2015",
+            "stop" : "1531279200",
+            "previously_shown" : "ramasjang.dr.dk|2018-03-01 04:20:00",
+            "start" : "1531278600",
+            "country" : [
+               "IE"
+            ],
+            "new" : null,
+            "channel" : "ramasjang.dr.dk",
+            "title" : {
+               "da" : "S\u00f8papeg\u00f8jernes \u00f8"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "date" : "2015",
+            "stop" : "1531279500",
+            "start" : "1531279200",
+            "country" : [
+               "NO"
+            ],
+            "new" : null,
+            "channel" : "ramasjang.dr.dk",
+            "title" : {
+               "da" : "Ellevilde Ella"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Ramasjang Mysteriet"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "previously_shown" : "ramasjang.dr.dk|2018-02-19 10:25:00",
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "start" : "1531279500",
+            "stop" : "1531280100",
+            "date" : "2016",
+            "desc" : {
+               "da" : "De gr\u00f8nne pilfingre er v\u00e6k! Sigurd er virkelig i problemer. Og dagens skurk har v\u00e6ret kvik for at kunne stj\u00e6le pilfingrene. Nu er sp\u00f8rgsm\u00e5let bare, om Kristian er kvik nok til at finde skurken! Heldigvis f\u00e5r han hj\u00e6lp af Emilie. Men er det nok? Husk at se med!"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 10 s\u00e6son 5",
+               "xmltv_ns" : "4. 9 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1531281300",
+            "date" : "2018",
+            "title" : {
+               "da" : "Ramasjang sover - lidt endnu"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "start" : "1531280100"
+         },
+         {
+            "previously_shown" : "ramasjang.dr.dk|2018-04-11 14:00:00",
+            "country" : [
+               "GB"
+            ],
+            "start" : "1531281300",
+            "new" : null,
+            "title" : {
+               "da" : "Chuggington"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "date" : "2012",
+            "stop" : "1531281900",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 22",
+               "xmltv_ns" : ". 21 ."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : ". 0 .",
+               "onscreen" : "Afsnit 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "title" : {
+               "da" : "Morten Skildpadde"
+            },
+            "country" : [
+               "CA"
+            ],
+            "start" : "1531281900",
+            "new" : null,
+            "previously_shown" : "ramasjang.dr.dk|2018-02-19 14:15:00",
+            "stop" : "1531283400",
+            "date" : "2011"
+         },
+         {
+            "title" : {
+               "da" : "Godmorgen Bondeg\u00e5rd"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "country" : [
+               "DK"
+            ],
+            "start" : "1531283400",
+            "new" : null,
+            "stop" : "1531283700",
+            "date" : "2014",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Motor Mille elsker at k\u00f8re i store maskiner. Men hun har aldrig l\u00e6rt at k\u00f8re en vaske \u00e6gte Monster Truck. Det skal vise sig ikke at v\u00e6re det nemmeste, s\u00e5 Motor Mille er n\u00f8dt til at l\u00e6re, hvordan man k\u00f8rer s\u00e5dan en krabat og \u00f8ve sig."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 1 .",
+               "onscreen" : "Afsnit 2"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null,
+            "country" : [
+               "DK"
+            ],
+            "start" : "1531283700",
+            "previously_shown" : "ramasjang.dr.dk|2018-02-26 16:00:00",
+            "title" : {
+               "da" : "Motor Mille p\u00e5 maskintur"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "date" : "2017",
+            "stop" : "1531284600"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 19",
+               "xmltv_ns" : ". 18 ."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "title" : {
+               "da" : "Robin Hood - spilopper i Sherwood-skoven"
+            },
+            "country" : [
+               "GB"
+            ],
+            "start" : "1531284600",
+            "new" : null,
+            "previously_shown" : "ramasjang.dr.dk|2018-03-25 16:00:00",
+            "stop" : "1531285500",
+            "date" : "2015"
+         },
+         {
+            "stop" : "1531286100",
+            "date" : "2010",
+            "title" : {
+               "da" : "Junglebogen"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "previously_shown" : "ramasjang.dr.dk|2018-05-22 14:30:00",
+            "start" : "1531285500",
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "desc" : {
+               "da" : "Et desmerdyr ser r\u00f8dt."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 32",
+               "xmltv_ns" : ". 31 ."
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "desc" : {
+               "da" : "Pixie har ringet til Heino, da l\u00e5gen til hendes undulats bur er g\u00e5et i stykker. Nu er Pixie bange for at undulaten flyver v\u00e6k. Heino gl\u00e6der sig, fordi han t\u00e6nker, at han endelig kan f\u00e5 brugt sit nye svejseapparat."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 7 .",
+               "onscreen" : "Afsnit 8"
+            },
+            "date" : "2018",
+            "stop" : "1531287000",
+            "new" : null,
+            "country" : [
+               "DK"
+            ],
+            "start" : "1531286100",
+            "previously_shown" : "ramasjang.dr.dk|2018-06-13 15:50:00",
+            "title" : {
+               "da" : "Heino fikser alt - Fugleburet"
+            },
+            "channel" : "ramasjang.dr.dk"
+         },
+         {
+            "stop" : "1531287360",
+            "date" : "2016",
+            "title" : {
+               "da" : "F for f\u00e5r"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "start" : "1531287000",
+            "country" : [
+               "GB"
+            ],
+            "new" : null,
+            "url" : [
+               "https://www.themoviedb.org/tv/3902/season/5/episode/8"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "subTitle" : {
+               "da" : "Dangerous Deliveries"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy",
+                  "Kids"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8 af 20 s\u00e6son 5",
+               "xmltv_ns" : "4 . 7/20 ."
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Hop ombord i jeepen, for nu skal vi p\u00e5 safari til den vilde savanne, hvor l\u00f8ven Leon spiller med musklerne. Men pas hellere p\u00e5, for Leon er verdens mest uheldige l\u00f8ve. S\u00e5 selvom han som dyrenes konge gang p\u00e5 gang pr\u00f8ver at br\u00f8le frygtindgydende, er han bare s\u00f8d og bl\u00f8d."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1531287600",
+            "date" : "2008",
+            "title" : {
+               "da" : "Leon"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "start" : "1531287360",
+            "new" : null
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 9 s\u00e6son 6",
+               "xmltv_ns" : "5. 8 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "stop" : "1531287900",
+            "date" : "2008",
+            "title" : {
+               "da" : "Gurli Gris"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "previously_shown" : "ramasjang.dr.dk|2018-02-26 14:45:00",
+            "country" : [
+               "GB"
+            ],
+            "start" : "1531287600",
+            "new" : null
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "5. 9 .",
+               "onscreen" : "Afsnit 10 s\u00e6son 6"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "new" : null,
+            "country" : [
+               "GB"
+            ],
+            "start" : "1531287900",
+            "previously_shown" : "ramasjang.dr.dk|2018-02-27 14:40:00",
+            "channel" : "ramasjang.dr.dk",
+            "title" : {
+               "da" : "Gurli Gris"
+            },
+            "date" : "2008",
+            "stop" : "1531288200"
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 15",
+               "xmltv_ns" : ". 14 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "title" : {
+               "da" : "Masha og Bj\u00f8rnen"
+            },
+            "previously_shown" : "ramasjang.dr.dk|2018-02-23 14:05:00",
+            "country" : [
+               "RU"
+            ],
+            "new" : null,
+            "start" : "1531288200",
+            "stop" : "1531288500",
+            "date" : "2016"
+         },
+         {
+            "stop" : "1531289100",
+            "date" : "2016",
+            "title" : {
+               "da" : "Masha og Bj\u00f8rnen"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "previously_shown" : "ramasjang.dr.dk|2018-02-24 14:05:00",
+            "country" : [
+               "RU"
+            ],
+            "new" : null,
+            "start" : "1531288500",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 15 .",
+               "onscreen" : "Afsnit 16"
+            }
+         },
+         {
+            "stop" : "1531290900",
+            "date" : "1998",
+            "title" : {
+               "da" : "Pippi Langstr\u00f8mpe"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "new" : null,
+            "country" : [
+               "SE"
+            ],
+            "start" : "1531289100",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            }
+         },
+         {
+            "stop" : "1531291500",
+            "date" : "2018",
+            "channel" : "ramasjang.dr.dk",
+            "title" : {
+               "da" : "Kasper og Sofie"
+            },
+            "start" : "1531290900",
+            "new" : null,
+            "previously_shown" : "ramasjang.dr.dk|2018-04-11 14:45:00",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Sofie v\u00e5gner en morgen og opdager, at Basse er ved at grave blomsterbedene op. Morfar bliver ked af det, da han opdager, at hans blomster er blevet \u00f8delagte. Sofie og Kasper vil hj\u00e6lpe morfar med at plante nogle nye. Morfar l\u00e6rer dem alt om havearbejde. Basse g\u00e5r i vejen for dem, graver flere blomsterbede op, og jord, gr\u00e6s og blomster flyver i alle retninger. Endelig forst\u00e5r de hvorfor Basse graver - hun leder efter et ben, hun engang har gravet ned i haven."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1. 7 .",
+               "onscreen" : "Afsnit 8 s\u00e6son 2"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 35 .",
+               "onscreen" : "Afsnit 36"
+            },
+            "stop" : "1531292400",
+            "date" : "2015",
+            "channel" : "ramasjang.dr.dk",
+            "title" : {
+               "da" : "Pyjamasheltene"
+            },
+            "new" : null,
+            "country" : [
+               "GB"
+            ],
+            "start" : "1531291500",
+            "previously_shown" : "ramasjang.dr.dk|2018-07-10 14:25:00"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8",
+               "xmltv_ns" : ". 7 ."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "start" : "1531292400",
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "Sommer i Ramasjang"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "stop" : "1531296000"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "En \u00e6gte ulv."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 46",
+               "xmltv_ns" : ". 45 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "date" : "2010",
+            "stop" : "1531296600",
+            "previously_shown" : "ramasjang.dr.dk|2018-05-30 14:35:00",
+            "new" : null,
+            "start" : "1531296000",
+            "title" : {
+               "da" : "Junglebogen"
+            },
+            "channel" : "ramasjang.dr.dk"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Sofus lander hos Belinda, der bor hos sin bedstemor i bjergene i Honduras. Hun leger ofte med sine to f\u00e6tre. Der er nemt en af dem, der kommer til at f\u00f8le sig uden for, n\u00e5r man er tre om \u00e9n ballon. Men det er sjovest n\u00e5r alle er med. Om natten er det koldt og Belinda giver Sofus en farvelgave og en hue p\u00e5, s\u00e5 han ikke skal fryse."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8",
+               "xmltv_ns" : ". 7 ."
+            },
+            "date" : "2012",
+            "stop" : "1531297500",
+            "previously_shown" : "ramasjang.dr.dk|2018-02-22 16:30:00",
+            "start" : "1531296600",
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "channel" : "ramasjang.dr.dk",
+            "title" : {
+               "da" : "Sofus"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "desc" : {
+               "da" : "Rosa bes\u00f8ger Bertram for at finde p\u00e5 en godnathistorie, der handler om hans sovedyr Skarptand. Skarptand er en ulv med skarpe og farlige t\u00e6nder, men han er ogs\u00e5 bl\u00f8d og god at kramme. P\u00e5 Bertrams v\u00e6relse finder de en sej piratklo, som Bertram bruger, n\u00e5r han leger pirat. Derfor bliver Skarptands historie et vaske\u00e6gte pirateventyr med skattejagt, f\u00e6gtekamp og en lumsk skurk med en farlig klo."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 6",
+               "xmltv_ns" : ". 5 ."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "title" : {
+               "da" : "Sovedyr p\u00e5 eventyr"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "previously_shown" : "ramasjang.dr.dk|2018-03-05 08:55:00",
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "start" : "1531297500",
+            "stop" : "1531299000",
+            "date" : "2016"
+         },
+         {
+            "date" : "1999",
+            "stop" : "1531300500",
+            "new" : null,
+            "country" : [
+               "DK"
+            ],
+            "start" : "1531299000",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Producer",
+                     "name" : "Birgit Jensen"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Kaj og Andrea"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "desc" : {
+               "da" : "Kaj er syg. S\u00e5 syg at han skal puttes og plejes - men hvem mon har smittet ham? Ole kommer ind, og han er ogs\u00e5 syg! De snakker om smitteveje og bakterier. Heldigvis kan patienterne synge endnu - og det bliver sygdomssangen. Nu begynder Karla ogs\u00e5 at nyse! De leger prinsessen p\u00e5 \u00e6rten. Medvirkende: Kjeld N\u00f8rgaard, Hanne Willumsen, Christine Skou og Ole Kibsgaard. Manuskript og instruktion: Kjeld N\u00f8rgaard og Katrine Hauch-Fausb\u00f8ll."
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 12",
+               "xmltv_ns" : ". 11 ."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "title" : {
+               "da" : "Sarah og And"
+            },
+            "previously_shown" : "ramasjang.dr.dk|2018-02-17 05:05:00",
+            "new" : null,
+            "country" : [
+               "GB"
+            ],
+            "start" : "1531300500",
+            "stop" : "1531301100",
+            "date" : "2013"
+         },
+         {
+            "country" : [
+               "DK"
+            ],
+            "start" : "1531301100",
+            "new" : null,
+            "previously_shown" : "ramasjang.dr.dk|2018-02-23 10:15:00",
+            "channel" : "ramasjang.dr.dk",
+            "title" : {
+               "da" : "Onkel Reje og b\u00f8rnenes brevkasse"
+            },
+            "date" : "2012",
+            "stop" : "1531301700",
+            "episodeNum" : {
+               "xmltv_ns" : ". 4 .",
+               "onscreen" : "Afsnit 5"
+            },
+            "desc" : {
+               "da" : "Musikalsk og legesyg brevkasse med Onkel Reje og Brille. Se hvor de tager hen i verden med rejseknappen i denne uge og m\u00f8d ogs\u00e5 Onkel Rejes sure sokker, der elsker at fort\u00e6lle vittigheder."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2",
+               "xmltv_ns" : ". 1 ."
+            },
+            "desc" : {
+               "da" : "Hvor er Sebastians briller? Der sker mystiske ting i Ramasjang. Byens syv skurke driller, og ting forsvinder. Heldigvis har Kristian en hemmelig detektivhule under byen, hvor han med hj\u00e6lp fra superseje b\u00f8rn l\u00f8ser dagens mysterium. www.dr.dk/ramasjang."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "stop" : "1531303500",
+            "date" : "2012",
+            "title" : {
+               "da" : "Ramasjang Mysteriet"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "start" : "1531301700",
+            "previously_shown" : "ramasjang.dr.dk|2018-02-21 10:25:00"
+         },
+         {
+            "desc" : {
+               "da" : "Skatten. Bamse og Kylling finder den samme skat. Hvem skal nu beholde den? Medvirkende: Christian Damsgaard og Brian Patterson. Instruktion og producer: Katrine Hauch-Fausb\u00f8ll."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "new" : null,
+            "country" : [
+               "DK"
+            ],
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Elin Bing"
+                  }
+               ]
+            },
+            "start" : "1531303500",
+            "title" : {
+               "da" : "Bamses Billedbog"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "date" : "2003",
+            "stop" : "1531305000"
+         },
+         {
+            "date" : "2012",
+            "stop" : "1531306500",
+            "start" : "1531305000",
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "Ramasjang Rally"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Sp\u00e6nd hjelmen! For nu g\u00e5r det l\u00f8s i Danmarks sejeste s\u00e6bekasser\u00e6s - Ramasjang Rally! I den anden kvartfinale skal de skr\u00e6kkelige, levende d\u00f8de fra Splatterne k\u00e6mpe imod de brilleb\u00e6rende Computern\u00f8rder, der har f\u00e5et et wildcard for bedste hold\u00e5nd. Der bliver fart over feltet, n\u00e5r de to hold dr\u00f8ner ned ad striben, ud p\u00e5 Specialbanen foran 15.000 mennesker, og endelig rundt p\u00e5 Ramasjang Ringen. Holdene k\u00e6mper om en plads i semifinalen."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Hvem skal man sp\u00f8rge, hvis man gerne vil have hj\u00e6lp til at overraske nogen med en kage? Rosa fra Rouladegade selvf\u00f8lgelig. Og det er lige netop hvad Sophus g\u00f8r. Han vil nemlig gerne bage en kage til sin bedstefar, der har arbejdet som mekaniker og har sit helt eget bilv\u00e6rksted hjemme i garagen. Rosa og Sophus forkl\u00e6der sig som gadefejere og sniger sig hjem til bedste, for at finde ud af hvad kagen skal ligne, hvilken farve den skal have og hvad den skal smage af."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 11 s\u00e6son 2",
+               "xmltv_ns" : "1. 10 ."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "previously_shown" : "ramasjang.dr.dk|2018-03-06 11:50:00",
+            "start" : "1531306500",
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "channel" : "ramasjang.dr.dk",
+            "title" : {
+               "da" : "Rosa fra Rouladegade"
+            },
+            "date" : "2011",
+            "stop" : "1531308300"
+         },
+         {
+            "desc" : {
+               "da" : "Udflugten. Vennerne i lufthavnen gl\u00e6der sig til den \u00e5rlige udflugt, men nogen gange g\u00e5r tingene ikke, som man regner med. Kristian f\u00e5r en hjerteknusende besked, der truer med at \u00f8del\u00e6gge hele turen. Heldigvis f\u00e5r Sus en god id\u00e9."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 2",
+               "xmltv_ns" : "1. 0 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "DK"
+            ],
+            "start" : "1531308300",
+            "new" : null,
+            "previously_shown" : "ramasjang.dr.dk|2018-02-15 12:15:00",
+            "channel" : "ramasjang.dr.dk",
+            "title" : {
+               "da" : "Ramajetterne"
+            },
+            "date" : "2015",
+            "stop" : "1531309500"
+         },
+         {
+            "channel" : "ramasjang.dr.dk",
+            "title" : {
+               "da" : "Ring til Ramasjang"
+            },
+            "country" : [
+               "DK"
+            ],
+            "start" : "1531309500",
+            "new" : null,
+            "stop" : "1531310100",
+            "date" : "2015",
+            "desc" : {
+               "da" : "Hundebamsen B\u00f8lle ringer ind til b\u00f8rnepanelet, fordi han har brug for gode ideer til gemmesteder. Pelsi ringer, fordi han ikke gider deles om familiens iPad, men b\u00f8rnene f\u00e5r ham p\u00e5 andre tanker."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Sikker & S\u00f8n"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "previously_shown" : "ramasjang.dr.dk|2018-03-05 12:55:00",
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "start" : "1531310100",
+            "stop" : "1531310700",
+            "date" : "2017",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 19 s\u00e6son 4",
+               "xmltv_ns" : "3. 18 ."
+            },
+            "desc" : {
+               "da" : "Sikker & S\u00f8n byder velkommen til et barn p\u00e5 trafikskolen. Imens S\u00f8n pr\u00f8ver at lave trafik\u00f8velser, bygger Sikker en rundboldbane. Det bliver en sk\u00f8r dag p\u00e5 trafikskolen, men heldigvis er der mange m\u00e5der at tr\u00e6ne trafik p\u00e5, s\u00e5 Sikker og S\u00f8n kan til sidst sende barnet sikkert hjem igen - helt uden at v\u00e6re pakket ind i vat."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Den Sure Mand p\u00e5 campingpladsen har taget alle b\u00f8rnenes badedyr og l\u00e5st dem inde i sin campingvogn. Motor Mille og B\u00f8rnebanden l\u00e6gger en snedig og vild plan for at f\u00e5 badedyrene tilbage."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 3 .",
+               "onscreen" : "Afsnit 4"
+            },
+            "date" : "2015",
+            "stop" : "1531312200",
+            "previously_shown" : "ramasjang.dr.dk|2018-02-15 13:10:00",
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "start" : "1531310700",
+            "title" : {
+               "da" : "Motor Mille og B\u00f8rnebanden"
+            },
+            "channel" : "ramasjang.dr.dk"
+         },
+         {
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "desc" : {
+               "da" : "Selv om Tinsoldaten kun har \u00e9t ben, har han et hjerte af guld og er meget, meget tapper. S\u00e5 da han forelsker sig i den yndige danserinde p\u00e5 spilled\u00e5sen, kan intet holde ham tilbage!"
+            },
+            "date" : "2003",
+            "stop" : "1531314000",
+            "new" : null,
+            "start" : "1531312200",
+            "title" : {
+               "da" : "Der var engang..."
+            },
+            "channel" : "ramasjang.dr.dk"
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : ". 16 .",
+               "onscreen" : "Afsnit 17"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "previously_shown" : "ramasjang.dr.dk|2018-04-09 13:50:00",
+            "new" : null,
+            "country" : [
+               "GB"
+            ],
+            "start" : "1531314000",
+            "title" : {
+               "da" : "Chuggington"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "date" : "2012",
+            "stop" : "1531314600"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 17 .",
+               "onscreen" : "Afsnit 18"
+            },
+            "date" : "2012",
+            "stop" : "1531315200",
+            "previously_shown" : "ramasjang.dr.dk|2018-04-09 14:00:00",
+            "new" : null,
+            "country" : [
+               "GB"
+            ],
+            "start" : "1531314600",
+            "channel" : "ramasjang.dr.dk",
+            "title" : {
+               "da" : "Chuggington"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 17 .",
+               "onscreen" : "Afsnit 18"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "previously_shown" : "ramasjang.dr.dk|2018-02-26 14:05:00",
+            "new" : null,
+            "country" : [
+               "RU"
+            ],
+            "start" : "1531315200",
+            "channel" : "ramasjang.dr.dk",
+            "title" : {
+               "da" : "Masha og Bj\u00f8rnen"
+            },
+            "date" : "2016",
+            "stop" : "1531315500"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 2",
+               "xmltv_ns" : "1. 2 ."
+            },
+            "desc" : {
+               "da" : "M\u00f8d den uimodst\u00e5elige Gurli Gris og hendes fnisende, gryntende, herlige familie p\u00e5 deres vilde kolb\u00f8tteridt gennem livet. Hendes eventyr slutter altid med h\u00f8je lattergrynt."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "date" : "2007",
+            "stop" : "1531315800",
+            "previously_shown" : "ramasjang.dr.dk|2018-06-28 13:40:00",
+            "country" : [
+               "GB"
+            ],
+            "start" : "1531315500",
+            "new" : null,
+            "title" : {
+               "da" : "Gurli Gris"
+            },
+            "channel" : "ramasjang.dr.dk"
+         },
+         {
+            "previously_shown" : "ramasjang.dr.dk|2018-06-28 13:45:00",
+            "country" : [
+               "GB"
+            ],
+            "new" : null,
+            "start" : "1531315800",
+            "title" : {
+               "da" : "Gurli Gris"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "date" : "2007",
+            "stop" : "1531316100",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "desc" : {
+               "da" : "M\u00f8d den uimodst\u00e5elige Gurli Gris og hendes fnisende, gryntende, herlige familie p\u00e5 deres vilde kolb\u00f8tteridt gennem livet. Hendes eventyr slutter altid med h\u00f8je lattergrynt."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1. 3 .",
+               "onscreen" : "Afsnit 4 s\u00e6son 2"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8",
+               "xmltv_ns" : ". 7 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "stop" : "1531317600",
+            "date" : "2011",
+            "channel" : "ramasjang.dr.dk",
+            "title" : {
+               "da" : "Morten Skildpadde"
+            },
+            "new" : null,
+            "country" : [
+               "CA"
+            ],
+            "start" : "1531316100",
+            "previously_shown" : "ramasjang.dr.dk|2018-02-26 14:15:00"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 19 .",
+               "onscreen" : "Afsnit 20"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "previously_shown" : "ramasjang.dr.dk|2018-03-26 16:00:00",
+            "start" : "1531317600",
+            "country" : [
+               "GB"
+            ],
+            "new" : null,
+            "channel" : "ramasjang.dr.dk",
+            "title" : {
+               "da" : "Robin Hood - spilopper i Sherwood-skoven"
+            },
+            "date" : "2015",
+            "stop" : "1531318500"
+         },
+         {
+            "stop" : "1531319100",
+            "date" : "2010",
+            "title" : {
+               "da" : "Junglebogen"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "previously_shown" : "ramasjang.dr.dk|2018-05-31 14:45:00",
+            "start" : "1531318500",
+            "new" : null,
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 50",
+               "xmltv_ns" : ". 49 ."
+            },
+            "desc" : {
+               "da" : "Kong Baloo."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : ". 36 .",
+               "onscreen" : "Afsnit 37"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "title" : {
+               "da" : "Pyjamasheltene"
+            },
+            "new" : null,
+            "country" : [
+               "GB"
+            ],
+            "start" : "1531319100",
+            "stop" : "1531319700",
+            "date" : "2015"
+         },
+         {
+            "date" : "2016",
+            "stop" : "1531321200",
+            "previously_shown" : "ramasjang.dr.dk|2018-02-14 15:35:00",
+            "start" : "1531319700",
+            "country" : [
+               "US"
+            ],
+            "new" : null,
+            "title" : {
+               "da" : "Paw Patrol"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "subTitle" : {
+               "da" : "Pups Save a School Bus / Pups Save the Songbirds"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/57532/season/3/episode/12"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Family",
+                  "Kids"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 11/27 .",
+               "onscreen" : "Afsnit 12 af 27 s\u00e6son 3"
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "1. 7 .",
+               "onscreen" : "Afsnit 8 s\u00e6son 2"
+            },
+            "desc" : {
+               "da" : "Dr. John har kidnappet Siljes ven Silas for at koge ham om til \u00f8jenskygge. Onkel Reje og Brille er heldigvis klar til at hj\u00e6lpe og kaster sig ud i en actionfyldt mission, der bl.a. involverer H\u00f8vdinge Grethes bryllupshelikopter, gummist\u00f8vler med airbag og 100 hunde med tyndskid. Medvirkende: Mads Geertsen, Brian Lykke."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "start" : "1531321200",
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "previously_shown" : "ramasjang.dr.dk|2018-02-26 16:30:00",
+            "channel" : "ramasjang.dr.dk",
+            "title" : {
+               "da" : "Onkel Rejes s\u00f8r\u00f8vershow"
+            },
+            "date" : "2016",
+            "stop" : "1531322100"
+         },
+         {
+            "stop" : "1531323000",
+            "date" : "2016",
+            "channel" : "ramasjang.dr.dk",
+            "title" : {
+               "da" : "Sprinter Galore"
+            },
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "start" : "1531322100",
+            "previously_shown" : "ramasjang.dr.dk|2018-02-18 10:40:00",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8",
+               "xmltv_ns" : ". 7 ."
+            },
+            "desc" : {
+               "da" : "Viola skal overnatte og inden de skal sove v\u00e6lger de at fort\u00e6lle gyserhistorier. Sprinter bliver s\u00e5 bange for Violas historie om midnatsluskeren at han ikke kan sove. I stedet v\u00e6lger han at s\u00e6tte en f\u00e6lde op for midnatsluskeren i k\u00f8kkenet, men det er ikke midnatsluskeren der ender med at g\u00e5 i f\u00e6lden."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            }
+         },
+         {
+            "title" : {
+               "da" : "Emil fra L\u00f8nneberg"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "start" : "1531323000",
+            "country" : [
+               "SE"
+            ],
+            "new" : null,
+            "stop" : "1531324800",
+            "date" : "1973",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "desc" : {
+               "da" : "Om ham der Emil og alle hans skarnstreger. Midt under bibeltime og kirkekaffe p\u00e5 Katholt kommer Emil til at lukke sin far inde p\u00e5 lokummet."
+            },
+            "video" : {
+               "aspect" : "4:3"
+            }
+         },
+         {
+            "channel" : "ramasjang.dr.dk",
+            "title" : {
+               "da" : "Sommer i Ramasjang"
+            },
+            "previously_shown" : "ramasjang.dr.dk|2018-07-11 07:00:00",
+            "start" : "1531324800",
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "stop" : "1531328400",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8",
+               "xmltv_ns" : ". 7 ."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "previously_shown" : "ultra.dr.dk|2018-06-24 15:15:00",
+            "country" : [
+               "CA"
+            ],
+            "start" : "1531328400",
+            "new" : null,
+            "channel" : "ramasjang.dr.dk",
+            "title" : {
+               "da" : "Wild Kratts"
+            },
+            "date" : "2012",
+            "stop" : "1531329600",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8",
+               "xmltv_ns" : ". 7 ."
+            },
+            "desc" : {
+               "da" : "Edderkoppespindets hemmelighed."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "start" : "1531329600",
+            "new" : null,
+            "previously_shown" : "ultra.dr.dk|2018-02-13 05:45:00",
+            "title" : {
+               "da" : "Zorro"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "date" : "2015",
+            "stop" : "1531331100",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 16",
+               "xmltv_ns" : ". 15 ."
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Yakari"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "start" : "1531331100",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "voice",
+                     "name" : "Pierre Casanova"
+                  },
+                  {
+                     "role" : "voice",
+                     "name" : "Mia Diekow"
+                  },
+                  {
+                     "role" : "voice",
+                     "name" : "Julia F\u00f6lster"
+                  }
+               ]
+            },
+            "previously_shown" : "ramasjang.dr.dk|2018-02-25 17:10:00",
+            "stop" : "1531332000",
+            "date" : "2012",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 9 af 26 s\u00e6son 3",
+               "xmltv_ns" : "2 . 8/26 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Family"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/61071/season/3/episode/9"
+            ]
+         },
+         {
+            "title" : {
+               "da" : "Godnat - nu g\u00e5r vi i seng"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "start" : "1531332000",
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "stop" : "1531333200",
+            "date" : "2018",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "title" : {
+               "da" : "Ramasjang sover"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "start" : "1531333200",
+            "country" : [
+               "DK"
+            ],
+            "new" : null,
+            "stop" : "1531343100",
+            "date" : "2018"
+         },
+         {
+            "country" : [
+               "DK"
+            ],
+            "start" : "1531343100",
+            "new" : null,
+            "title" : {
+               "da" : "Ramasjang sover"
+            },
+            "channel" : "ramasjang.dr.dk",
+            "date" : "2018",
+            "stop" : "1531353000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "new" : null,
+            "country" : [
+               "DK"
+            ],
+            "start" : "1531353000",
+            "channel" : "ramasjang.dr.dk",
+            "title" : {
+               "da" : "Ramasjang sover"
+            },
+            "date" : "2018",
+            "stop" : "1531362900",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            }
+         }
+      ]
+   }
+}

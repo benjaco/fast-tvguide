@@ -1,6 +1,8 @@
 /**
  * Created by Benjamin on 07-06-2017.
  */
+
+// todo https://github.com/WICG/BackgroundSync/blob/master/explainer.md
 const version = "[AIV]{version}[/AIV]";
 const staticCacheName = "tvguide-static-" + version;
 const imageCacheName = "tvguide-icon-images";
@@ -16,10 +18,10 @@ const assets = [
     'icons/close.png',
     'icons/icon_32.ico',
 
-    // 'manifest.json',
-    // 'icons/icon_128.png',
-    // 'icons/icon_256.png',
-    // 'icons/icon_512.png',
+    // only on installable 'manifest.json',
+    // only on installable 'icons/icon_128.png',
+    // only on installable 'icons/icon_256.png',
+    // only on installable 'icons/icon_512.png',
 ];
 
 const removeCharsAtStart = location.host === "localhost" ? 8 : 0;
@@ -77,7 +79,7 @@ self.addEventListener('fetch', event => {
         return;
     }
 
-    if (path.startsWith("/server/data/images/")) {
+    if (path.startsWith("/images/")) {
         event.respondWith(
             caches.open(imageCacheName).then(cache =>
                 cache.match(full_path).then(result => {
@@ -94,7 +96,7 @@ self.addEventListener('fetch', event => {
         return;
     }
 
-    if (path === "/server/data/channels/dk_channel_names_manuel.json") {
+    if (path === "/channel_names") {
         event.respondWith(
             caches.open(channelNameCacheName).then(cache =>
                 cache.match(full_path).then(result => {

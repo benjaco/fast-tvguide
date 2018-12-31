@@ -1,0 +1,1768 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "stop" : "1532061120",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Robbie Daymond",
+                     "role" : "Peter Parker / Spider-Man"
+                  },
+                  {
+                     "name" : "Scott Menville",
+                     "role" : "Otto Octavius / Dr. Octopus"
+                  },
+                  {
+                     "name" : "Max Mittelman",
+                     "role" : "Harry Osborn"
+                  },
+                  {
+                     "name" : "Patton Oswalt",
+                     "role" : "Uncle Ben"
+                  },
+                  {
+                     "name" : "Nadji Jeter",
+                     "role" : "Miles Morales"
+                  },
+                  {
+                     "name" : "Josh Keaton",
+                     "role" : "Norman Osborn"
+                  },
+                  {
+                     "name" : "Melanie Minichino",
+                     "role" : "Anya Corazon"
+                  },
+                  {
+                     "name" : "Fred Tatasciore",
+                     "role" : "Max Modell"
+                  },
+                  {
+                     "name" : "Laura Bailey",
+                     "role" : "Gwen Stacy"
+                  }
+               ]
+            },
+            "date" : "2017",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Marvel's Spider-Man"
+            },
+            "start" : "1532059200",
+            "desc" : {
+               "da" : "Peter kommer ind p\u00e5 en af de bedste skoler og l\u00e6rer at v\u00e6re superhelt"
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-05-24 19:00:00",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 25 s\u00e6son 1",
+               "xmltv_ns" : "0 . 24 .",
+               "thetvdb.com" : "series/329456"
+            },
+            "subTitle" : {
+               "da" : "Hobgoblin: Part Two"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=329456&seasonid=714514&id=6527626&lid=10"
+            ],
+            "channel" : "xd.disneychannel.dk"
+         },
+         {
+            "previously_shown" : "xd.disneychannel.dk|2018-05-03 11:25:00",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 65 s\u00e6son 3",
+               "xmltv_ns" : "2. 64 ."
+            },
+            "desc" : {
+               "da" : "En helt ny komedieserie p\u00e5 Disney XD, som handler om tre teenagere, der har superkr\u00e6fter, og som fors\u00f8ger at passe ind p\u00e5 skolen med hj\u00e6lp fra deres ven, Leo, der er helt almindelig."
+            },
+            "start" : "1532061120",
+            "title" : {
+               "da" : "Lab Rats"
+            },
+            "channel" : "xd.disneychannel.dk",
+            "stop" : "1532062800",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Sitcom"
+               ]
+            }
+         },
+         {
+            "episodeNum" : {
+               "thetvdb.com" : "series/75931",
+               "xmltv_ns" : "0 . 4 .",
+               "onscreen" : "Afsnit 5 s\u00e6son 1"
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-01-01 06:55:00",
+            "desc" : {
+               "da" : "Rup k\u00e6mper for at levere onkel Joakims lykkem\u00f8nt tilbage."
+            },
+            "title" : {
+               "da" : "Ducktales"
+            },
+            "start" : "1532062800",
+            "channel" : "xd.disneychannel.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=75931&seasonid=9471&id=4226194&lid=10"
+            ],
+            "rating" : {
+               "stars" : "7.8 / 9"
+            },
+            "subTitle" : {
+               "da" : "Treasure of the Golden Suns (5) - Too Much of a Gold Thing"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Bubba / Bigtime Beagle / Baggy Beagle",
+                     "name" : "Frank Welker"
+                  },
+                  {
+                     "name" : "Russi Taylor",
+                     "role" : "Webby / Dewey / Louie / Huey"
+                  },
+                  {
+                     "role" : "Magica De Spell / Ma Beagle / Mrs. Featherby",
+                     "name" : "June Foray"
+                  },
+                  {
+                     "name" : "Hal Smith",
+                     "role" : "Gyro Gearloose / Flintheart Glomgold"
+                  },
+                  {
+                     "role" : "Doofus Drake / Bugle/Bebop Beagle",
+                     "name" : "Brian Cummings"
+                  },
+                  {
+                     "name" : "Hamilton Camp",
+                     "role" : "Fenton Crackshell / Gizmoduck"
+                  },
+                  {
+                     "role" : "Mrs. Crackshell",
+                     "name" : "Kathleen Freeman"
+                  },
+                  {
+                     "name" : "Joan Gerber",
+                     "role" : "Mrs. Bentina Beakley / Glittering Goldie"
+                  },
+                  {
+                     "role" : "Donald Duck",
+                     "name" : "Tony Anselmo"
+                  },
+                  {
+                     "role" : "Bankjob Beagle / Admiral Grimitz",
+                     "name" : "Peter Cullen"
+                  },
+                  {
+                     "name" : "Alan Young",
+                     "role" : "Scrooge McDuck"
+                  },
+                  {
+                     "name" : "Chuck McCann",
+                     "role" : "Duckworth / Burger Beagle / Bouncer Beagle"
+                  },
+                  {
+                     "role" : "Launchpad McQuack / Babyface Beagle",
+                     "name" : "Terrance McGovern"
+                  }
+               ]
+            },
+            "stop" : "1532064720",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "date" : "1987"
+         },
+         {
+            "title" : {
+               "da" : "Familien Green I Storbyen"
+            },
+            "start" : "1532064720",
+            "desc" : {
+               "da" : "Familien Green flytter fra landet til storbyen."
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-07-03 15:00:00",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 13 s\u00e6son 1",
+               "xmltv_ns" : "0 . 12 .",
+               "thetvdb.com" : "series/342059"
+            },
+            "subTitle" : {
+               "da" : "Gridlocked"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=342059&seasonid=767717&id=6736172&lid=10"
+            ],
+            "channel" : "xd.disneychannel.dk",
+            "stop" : "1532065500",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Marieve Herington",
+                     "role" : "Tilly Green"
+                  },
+                  {
+                     "name" : "Chris Houghton",
+                     "role" : "Cricket Green"
+                  },
+                  {
+                     "name" : "Bob Joles",
+                     "role" : "Bill Green"
+                  },
+                  {
+                     "name" : "Artemis Pebdani",
+                     "role" : "Gramma Alice"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy"
+               ]
+            },
+            "new" : null
+         },
+         {
+            "channel" : "xd.disneychannel.dk",
+            "previously_shown" : "xd.disneychannel.dk|2018-06-06 05:32:00",
+            "episodeNum" : {
+               "xmltv_ns" : "0. 11 .",
+               "onscreen" : "Afsnit 12 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Andr\u00e9 er et vildt, ungt dovendyr med tonsvis af energi."
+            },
+            "start" : "1532065500",
+            "title" : {
+               "da" : "Furiki Wheels"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "stop" : "1532066400"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "new" : null,
+            "stop" : "1532067900",
+            "channel" : "xd.disneychannel.dk",
+            "title" : {
+               "da" : "Phineas og Ferb"
+            },
+            "start" : "1532066400",
+            "desc" : {
+               "da" : "Phineas og Ferb vil g\u00f8re hver eneste dag i deres sommerferie helt spektakul\u00e6r! Hver dag finder de p\u00e5 nye fantasirige opfindelser, alt imens deres misundelige stores\u00f8ster, Candace, pr\u00f8ver at sladre om dem til mor. De kan bygge en rutsjebane i baghaven, surfe p\u00e5 forstadens tidevandsb\u00f8lger, eller rejse tilbage til forhistorien. Samtidig lever familiens ikke alt for smarte husdyr, n\u00e6bdyret Perry, et dobbeltliv som hemmelig agent, der i hvert afsnit k\u00e6mper mod den ondskabsfulde Dr. Doofenshmirtz."
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-01-24 09:25:00",
+            "episodeNum" : {
+               "xmltv_ns" : "2. 91 .",
+               "onscreen" : "Afsnit 92 s\u00e6son 3"
+            }
+         },
+         {
+            "date" : "2007",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Comedy"
+               ]
+            },
+            "new" : null,
+            "stop" : "1532069400",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Bobby Gaylor"
+                  },
+                  {
+                     "name" : "Martin Olson"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Kelly Hu",
+                     "role" : "Stacy Hirano"
+                  },
+                  {
+                     "role" : "Ferb Fletcher",
+                     "name" : "Thomas Brodie-Sangster"
+                  },
+                  {
+                     "role" : "Isabella Garcia-Shapiro",
+                     "name" : "Alyson Stoner"
+                  },
+                  {
+                     "name" : "Vincent Martella",
+                     "role" : "Phineas Flynn"
+                  },
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "Perry the Platypus"
+                  },
+                  {
+                     "name" : "Caroline Rhea",
+                     "role" : "Linda Flynn-Fletcher"
+                  },
+                  {
+                     "name" : "Jeff \"Swampy\" Marsh",
+                     "role" : "Major Monogram"
+                  },
+                  {
+                     "name" : "Mitchel Musso",
+                     "role" : "Jeremy Johnson"
+                  },
+                  {
+                     "name" : "Ashley Tisdale",
+                     "role" : "Candace Flynn"
+                  },
+                  {
+                     "role" : "Amanda",
+                     "name" : "Jennifer Stone"
+                  },
+                  {
+                     "name" : "Dan Povenmire",
+                     "role" : "Dr. Doofenshmirtz"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Dan Povenmire"
+                  }
+               ]
+            },
+            "rating" : {
+               "stars" : "7.6 / 9"
+            },
+            "subTitle" : {
+               "da" : "Journey to the Center of Candace"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=81848&seasonid=32024&id=363265&lid=10"
+            ],
+            "channel" : "xd.disneychannel.dk",
+            "start" : "1532067900",
+            "title" : {
+               "da" : "Phineas og Ferb"
+            },
+            "desc" : {
+               "da" : "Minigolfbanen bliver lukket, s\u00e5 drengene bygger deres egen."
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-01-16 09:00:00",
+            "episodeNum" : {
+               "thetvdb.com" : "series/81848",
+               "xmltv_ns" : "0 . 19 .",
+               "onscreen" : "Afsnit 20 s\u00e6son 1"
+            }
+         },
+         {
+            "channel" : "xd.disneychannel.dk",
+            "start" : "1532069400",
+            "title" : {
+               "da" : "Mickey Mouse"
+            },
+            "desc" : {
+               "da" : "Tag med Anders, Mickey, Pluto og vennerne ud p\u00e5 deres animerede klassiske eventyr."
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-06-18 08:50:00",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 30 s\u00e6son 2",
+               "xmltv_ns" : "1. 29 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "new" : null,
+            "stop" : "1532069700"
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=315954&seasonid=678122&id=5777392&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "The Undergrounders"
+            },
+            "channel" : "xd.disneychannel.dk",
+            "desc" : {
+               "da" : "Milos f\u00f8rste footballkamp. De tre venner skal beskytte et \u00e6g"
+            },
+            "start" : "1532069700",
+            "title" : {
+               "da" : "Milo Murphys lov"
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-01-03 09:50:00",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "thetvdb.com" : "series/315954",
+               "xmltv_ns" : "0 . 1 ."
+            },
+            "date" : "2016",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy"
+               ]
+            },
+            "stop" : "1532071200",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Bob Bowen"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "\"Weird Al\" Yankovic",
+                     "role" : "Milo Murphy"
+                  },
+                  {
+                     "name" : "Sabrina Carpenter",
+                     "role" : "Melissa Chase"
+                  },
+                  {
+                     "name" : "Diedrich Bader",
+                     "role" : "Martin Murphy"
+                  },
+                  {
+                     "name" : "Pamela Adlon",
+                     "role" : "Brigette Murphy"
+                  },
+                  {
+                     "role" : "Diogee",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "name" : "Kate Micucci",
+                     "role" : "Sara Murphy"
+                  },
+                  {
+                     "name" : "Vincent Martella",
+                     "role" : "Bradley Nicholson"
+                  },
+                  {
+                     "name" : "Mekai Curtis",
+                     "role" : "Zack Underwood"
+                  },
+                  {
+                     "name" : "Laraine Newman"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Dani Vetere"
+                  }
+               ]
+            }
+         },
+         {
+            "previously_shown" : "xd.disneychannel.dk|2018-01-03 10:00:00",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 3 .",
+               "thetvdb.com" : "series/315954",
+               "onscreen" : "Afsnit 4 s\u00e6son 1"
+            },
+            "start" : "1532071200",
+            "title" : {
+               "da" : "Milo Murphys lov"
+            },
+            "desc" : {
+               "da" : "Melissa og Zack holder Milos f\u00f8rste surprise party."
+            },
+            "channel" : "xd.disneychannel.dk",
+            "subTitle" : {
+               "da" : "Sunny Side Up"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=315954&seasonid=678122&id=5722405&lid=10"
+            ],
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Robert F. Hughes"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "\"Weird Al\" Yankovic",
+                     "role" : "Milo Murphy"
+                  },
+                  {
+                     "name" : "Sabrina Carpenter",
+                     "role" : "Melissa Chase"
+                  },
+                  {
+                     "name" : "Diedrich Bader",
+                     "role" : "Martin Murphy"
+                  },
+                  {
+                     "role" : "Brigette Murphy",
+                     "name" : "Pamela Adlon"
+                  },
+                  {
+                     "role" : "Diogee",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "role" : "Sara Murphy",
+                     "name" : "Kate Micucci"
+                  },
+                  {
+                     "role" : "Bradley Nicholson",
+                     "name" : "Vincent Martella"
+                  },
+                  {
+                     "name" : "Mekai Curtis",
+                     "role" : "Zack Underwood"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Dan Povenmire"
+                  },
+                  {
+                     "name" : "Kyle Menke"
+                  }
+               ]
+            },
+            "stop" : "1532072700",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy"
+               ]
+            },
+            "new" : null,
+            "date" : "2016"
+         },
+         {
+            "stop" : "1532073600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "1. 76 .",
+               "onscreen" : "Afsnit 77 s\u00e6son 2"
+            },
+            "start" : "1532072700",
+            "title" : {
+               "da" : "Phineas og Ferb"
+            },
+            "desc" : {
+               "da" : "Hver dag er fyldt med sk\u00f8re eventyr for Phineas og Ferb! De vil g\u00f8re hver eneste dag i deres sommerferie mere spektakul\u00e6r end den anden!"
+            },
+            "channel" : "xd.disneychannel.dk"
+         },
+         {
+            "desc" : {
+               "da" : "Familien Pines pr\u00f8ver at leve som de plejer efter ipsoden med Lille Gideon. Stan, Mabel og Dipper holder en \"Mysterie Hytten er tilbage\" fest, men de f\u00e5r bes\u00f8g af nogle uventede g\u00e6ster!"
+            },
+            "title" : {
+               "da" : "Gravity Falls"
+            },
+            "start" : "1532073600",
+            "previously_shown" : "xd.disneychannel.dk|2018-01-02 07:41:00",
+            "episodeNum" : {
+               "xmltv_ns" : "1. 22 .",
+               "onscreen" : "Afsnit 23 s\u00e6son 2"
+            },
+            "channel" : "xd.disneychannel.dk",
+            "stop" : "1532075100",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            }
+         },
+         {
+            "channel" : "xd.disneychannel.dk",
+            "desc" : {
+               "da" : "Med hj\u00e6lp fra Mabel og Dipper, begynder Soos modvilligt en jagt efter en date, som han kan tage med til hans f\u00e6tters forlovelsesfest. Soos er ikke god til at flirte, s\u00e5 han k\u00f8ber et computerspil, hvor en virtuel k\u00e6reste skal hj\u00e6lpe ham med at f\u00e5 selvtilliden i orden, n\u00e5r han st\u00e5r foran en pige. Stan pr\u00f8ver ind\u00e6dt at stj\u00e6le en robotvaskebj\u00f8rn, som skal hj\u00e6lpe ham med at tjene penge."
+            },
+            "title" : {
+               "da" : "Gravity Falls"
+            },
+            "start" : "1532075100",
+            "episodeNum" : {
+               "xmltv_ns" : "1. 23 .",
+               "onscreen" : "Afsnit 24 s\u00e6son 2"
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-01-03 07:19:00",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "stop" : "1532076600"
+         },
+         {
+            "channel" : "xd.disneychannel.dk",
+            "start" : "1532076600",
+            "title" : {
+               "da" : "Mickey Mouse"
+            },
+            "desc" : {
+               "da" : "Tag med Anders, Mickey, Pluto og vennerne ud p\u00e5 deres animerede klassiske eventyr."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0. 8 .",
+               "onscreen" : "Afsnit 9 s\u00e6son 1"
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-07-12 08:50:00",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "new" : null,
+            "stop" : "1532076900"
+         },
+         {
+            "desc" : {
+               "da" : "Tag med Anders, Mickey, Pluto og vennerne ud p\u00e5 deres animerede klassiske eventyr."
+            },
+            "title" : {
+               "da" : "Mickey Mouse"
+            },
+            "start" : "1532076900",
+            "previously_shown" : "xd.disneychannel.dk|2018-06-15 08:50:00",
+            "episodeNum" : {
+               "xmltv_ns" : "1. 28 .",
+               "onscreen" : "Afsnit 29 s\u00e6son 2"
+            },
+            "channel" : "xd.disneychannel.dk",
+            "stop" : "1532077200",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            }
+         },
+         {
+            "channel" : "xd.disneychannel.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 62 s\u00e6son 3",
+               "xmltv_ns" : "2. 61 ."
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-05-02 11:25:00",
+            "desc" : {
+               "da" : "Leo optager m\u00e6rkelige f\u00e6nomener under en m\u00e5neform\u00f8rkelse."
+            },
+            "title" : {
+               "da" : "Lab Rats"
+            },
+            "start" : "1532077200",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Sitcom"
+               ]
+            },
+            "stop" : "1532079120"
+         },
+         {
+            "channel" : "xd.disneychannel.dk",
+            "start" : "1532079120",
+            "title" : {
+               "da" : "Lab Rats"
+            },
+            "desc" : {
+               "da" : "Bree lader som om hun er Perry for at drille Adam."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 63 s\u00e6son 3",
+               "xmltv_ns" : "2. 62 ."
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-05-09 11:25:00",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Sitcom"
+               ]
+            },
+            "new" : null,
+            "stop" : "1532080800"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Comedy"
+               ]
+            },
+            "new" : null,
+            "date" : "2007",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Bobby Gaylor"
+                  },
+                  {
+                     "name" : "Martin Olson"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Stacy Hirano",
+                     "name" : "Kelly Hu"
+                  },
+                  {
+                     "name" : "Thomas Brodie-Sangster",
+                     "role" : "Ferb Fletcher"
+                  },
+                  {
+                     "role" : "Isabella Garcia-Shapiro",
+                     "name" : "Alyson Stoner"
+                  },
+                  {
+                     "name" : "Vincent Martella",
+                     "role" : "Phineas Flynn"
+                  },
+                  {
+                     "role" : "Perry the Platypus",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "role" : "Linda Flynn-Fletcher",
+                     "name" : "Caroline Rhea"
+                  },
+                  {
+                     "role" : "Major Monogram",
+                     "name" : "Jeff \"Swampy\" Marsh"
+                  },
+                  {
+                     "name" : "Mitchel Musso",
+                     "role" : "Jeremy Johnson"
+                  },
+                  {
+                     "role" : "Candace Flynn",
+                     "name" : "Ashley Tisdale"
+                  },
+                  {
+                     "name" : "Jennifer Stone",
+                     "role" : "Amanda"
+                  },
+                  {
+                     "role" : "Dr. Doofenshmirtz",
+                     "name" : "Dan Povenmire"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Zac Moncrief"
+                  }
+               ]
+            },
+            "stop" : "1532082720",
+            "channel" : "xd.disneychannel.dk",
+            "subTitle" : {
+               "da" : "Fang dem p\u00e5 TV"
+            },
+            "rating" : {
+               "stars" : "7.6 / 9"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=81848&seasonid=32024&id=363271&lid=10"
+            ],
+            "episodeNum" : {
+               "onscreen" : "Afsnit 26 s\u00e6son 1",
+               "thetvdb.com" : "series/81848",
+               "xmltv_ns" : "0 . 25 ."
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-02-21 13:19:00",
+            "start" : "1532080800",
+            "title" : {
+               "da" : "Phineas og Ferb"
+            },
+            "desc" : {
+               "da" : "Drengene beslutter at bygge et studie for at lave deres egne tegnefilm med Candace som skurk. Hans bror er blevet valgt ind som borgmester, s\u00e5 Doofenshmirtz bygger et land, han kan regere over."
+            }
+         },
+         {
+            "channel" : "xd.disneychannel.dk",
+            "subTitle" : {
+               "da" : "Mudder og Monstertrucks"
+            },
+            "rating" : {
+               "stars" : "7.6 / 9"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=81848&seasonid=32024&id=363263&lid=10"
+            ],
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 17 .",
+               "thetvdb.com" : "series/81848",
+               "onscreen" : "Afsnit 18 s\u00e6son 1"
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-01-12 09:00:00",
+            "title" : {
+               "da" : "Phineas og Ferb"
+            },
+            "start" : "1532082720",
+            "desc" : {
+               "da" : "Bedstemor var en gang en stor rullesk\u00f8jtel\u00f8ber, s\u00e5 drengene"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Comedy"
+               ]
+            },
+            "new" : null,
+            "date" : "2007",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Zac Moncrief"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Kelly Hu",
+                     "role" : "Stacy Hirano"
+                  },
+                  {
+                     "name" : "Thomas Brodie-Sangster",
+                     "role" : "Ferb Fletcher"
+                  },
+                  {
+                     "role" : "Isabella Garcia-Shapiro",
+                     "name" : "Alyson Stoner"
+                  },
+                  {
+                     "name" : "Vincent Martella",
+                     "role" : "Phineas Flynn"
+                  },
+                  {
+                     "role" : "Perry the Platypus",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "name" : "Caroline Rhea",
+                     "role" : "Linda Flynn-Fletcher"
+                  },
+                  {
+                     "role" : "Major Monogram",
+                     "name" : "Jeff \"Swampy\" Marsh"
+                  },
+                  {
+                     "name" : "Mitchel Musso",
+                     "role" : "Jeremy Johnson"
+                  },
+                  {
+                     "name" : "Ashley Tisdale",
+                     "role" : "Candace Flynn"
+                  },
+                  {
+                     "role" : "Amanda",
+                     "name" : "Jennifer Stone"
+                  },
+                  {
+                     "role" : "Dr. Doofenshmirtz",
+                     "name" : "Dan Povenmire"
+                  },
+                  {
+                     "role" : "Buck Buckerson",
+                     "name" : "Billy Ray Cyrus"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Bobby Gaylor"
+                  },
+                  {
+                     "name" : "Martin Olson"
+                  }
+               ]
+            },
+            "stop" : "1532084400"
+         },
+         {
+            "title" : {
+               "da" : "Phineas og Ferb Mission Marvel"
+            },
+            "start" : "1532084400",
+            "stop" : "1532087700",
+            "desc" : {
+               "da" : "Da Dr. Doofenshmirtz' nyeste \"inator\" kommer til at stj\u00e6le kr\u00e6fterne fra de kendte Marvel-superhelte Spider-Man, Iron Man, Thor og Hulken, s\u00e6tter superheltene kurs mod Danville. Der sl\u00e5r de sig sammen med Phineas och Ferb og tager kampen op for at genvinde deres kr\u00e6fter - og bek\u00e6mpe en flok Marvel-skurke, der er ude efter Doofenshmirtz' kraftstj\u00e6lende teknologi. Kan de redde Danville fra total \u00f8del\u00e6ggelse...?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "new" : null,
+            "channel" : "xd.disneychannel.dk"
+         },
+         {
+            "channel" : "xd.disneychannel.dk",
+            "title" : {
+               "da" : "Mickey Mouse"
+            },
+            "start" : "1532087700",
+            "desc" : {
+               "da" : "Tag med Anders, Mickey, Pluto og vennerne ud p\u00e5 deres animerede klassiske eventyr."
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-07-19 08:50:00",
+            "episodeNum" : {
+               "xmltv_ns" : "0. 13 .",
+               "onscreen" : "Afsnit 14 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "new" : null,
+            "stop" : "1532088000"
+         },
+         {
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "stop" : "1532089920",
+            "channel" : "xd.disneychannel.dk",
+            "desc" : {
+               "da" : "Phineas og Ferb vil g\u00f8re hver eneste dag i deres sommerferie helt spektakul\u00e6r! Hver dag finder de p\u00e5 nye fantasirige opfindelser, alt imens deres misundelige stores\u00f8ster, Candace, pr\u00f8ver at sladre om dem til mor. De kan bygge en rutsjebane i baghaven, surfe p\u00e5 forstadens tidevandsb\u00f8lger, eller rejse tilbage til forhistorien. Samtidig lever familiens ikke alt for smarte husdyr, n\u00e6bdyret Perry, et dobbeltliv som hemmelig agent, der i hvert afsnit k\u00e6mper mod den ondskabsfulde Dr."
+            },
+            "title" : {
+               "da" : "Phineas og Ferb"
+            },
+            "start" : "1532088000",
+            "previously_shown" : "xd.disneychannel.dk|2018-02-05 17:47:00",
+            "episodeNum" : {
+               "xmltv_ns" : "3. 124 .",
+               "onscreen" : "Afsnit 125 s\u00e6son 4"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "new" : null,
+            "stop" : "1532091600",
+            "channel" : "xd.disneychannel.dk",
+            "previously_shown" : "xd.disneychannel.dk|2018-02-06 17:47:00",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 126 s\u00e6son 4",
+               "xmltv_ns" : "3. 125 ."
+            },
+            "title" : {
+               "da" : "Phineas og Ferb"
+            },
+            "start" : "1532089920",
+            "desc" : {
+               "da" : "Phineas og Ferb vil g\u00f8re hver eneste dag i deres sommerferie helt spektakul\u00e6r! Hver dag finder de p\u00e5 nye fantasirige opfindelser, alt imens deres misundelige stores\u00f8ster, Candace, pr\u00f8ver at sladre om dem til mor. De kan bygge en rutsjebane i baghaven, surfe p\u00e5 forstadens tidevandsb\u00f8lger, eller rejse tilbage til forhistorien. Samtidig lever familiens ikke alt for smarte husdyr, n\u00e6bdyret Perry, et dobbeltliv som hemmelig agent, der i hvert afsnit k\u00e6mper mod den ondskabsfulde Dr."
+            }
+         },
+         {
+            "channel" : "xd.disneychannel.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "1. 16 .",
+               "onscreen" : "Afsnit 17 s\u00e6son 2"
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-01-02 06:56:00",
+            "desc" : {
+               "da" : "Da 12 \u00e5rige Rowan Freemaker, som er f\u00f8lsom overfor kraften, opdager Kyber Saber, en forhistorisk artefakt med kraftful forbindelse til Jedien, bliver der vendt op og ned p\u00e5 hans tilv\u00e6relse."
+            },
+            "title" : {
+               "da" : "Star Wars Freemaker Adventures"
+            },
+            "start" : "1532091600",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "stop" : "1532093520"
+         },
+         {
+            "stop" : "1532095200",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-01-25 17:50:00",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 118 s\u00e6son 4",
+               "xmltv_ns" : "3. 117 ."
+            },
+            "desc" : {
+               "da" : "Phineas og Ferb vil g\u00f8re hver eneste dag i deres sommerferie helt spektakul\u00e6r! Hver dag finder de p\u00e5 nye fantasirige opfindelser, alt imens deres misundelige stores\u00f8ster, Candace, pr\u00f8ver at sladre om dem til mor. De kan bygge en rutsjebane i baghaven, surfe p\u00e5 forstadens tidevandsb\u00f8lger, eller rejse tilbage til forhistorien. Samtidig lever familiens ikke alt for smarte husdyr, n\u00e6bdyret Perry, et dobbeltliv som hemmelig agent, der i hvert afsnit k\u00e6mper mod den ondskabsfulde Dr."
+            },
+            "start" : "1532093520",
+            "title" : {
+               "da" : "Phineas og Ferb"
+            },
+            "channel" : "xd.disneychannel.dk"
+         },
+         {
+            "desc" : {
+               "da" : "Rip, Rap og Rup og Fru Trippebys barnebarn Tulle opdager nogle gamle og velholdte familiehemmeligheder fra Onkel Joakims episke fortid, og det sender familien afsted p\u00e5 eventyr verden over."
+            },
+            "start" : "1532095200",
+            "title" : {
+               "da" : "Ducktales"
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-06-02 07:32:00",
+            "episodeNum" : {
+               "thetvdb.com" : "series/75931",
+               "xmltv_ns" : "0 . 11 .",
+               "onscreen" : "Afsnit 12 s\u00e6son 1"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=75931&seasonid=9471&id=4226201&lid=10"
+            ],
+            "rating" : {
+               "stars" : "7.8 / 9"
+            },
+            "subTitle" : {
+               "da" : "Lampens \u00e5nd"
+            },
+            "channel" : "xd.disneychannel.dk",
+            "stop" : "1532097120",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Bubba / Bigtime Beagle / Baggy Beagle",
+                     "name" : "Frank Welker"
+                  },
+                  {
+                     "name" : "Russi Taylor",
+                     "role" : "Webby / Dewey / Louie / Huey"
+                  },
+                  {
+                     "role" : "Magica De Spell / Ma Beagle / Mrs. Featherby",
+                     "name" : "June Foray"
+                  },
+                  {
+                     "name" : "Hal Smith",
+                     "role" : "Gyro Gearloose / Flintheart Glomgold"
+                  },
+                  {
+                     "role" : "Doofus Drake / Bugle/Bebop Beagle",
+                     "name" : "Brian Cummings"
+                  },
+                  {
+                     "role" : "Fenton Crackshell / Gizmoduck",
+                     "name" : "Hamilton Camp"
+                  },
+                  {
+                     "name" : "Kathleen Freeman",
+                     "role" : "Mrs. Crackshell"
+                  },
+                  {
+                     "name" : "Joan Gerber",
+                     "role" : "Mrs. Bentina Beakley / Glittering Goldie"
+                  },
+                  {
+                     "name" : "Tony Anselmo",
+                     "role" : "Donald Duck"
+                  },
+                  {
+                     "role" : "Bankjob Beagle / Admiral Grimitz",
+                     "name" : "Peter Cullen"
+                  },
+                  {
+                     "name" : "Alan Young",
+                     "role" : "Scrooge McDuck"
+                  },
+                  {
+                     "name" : "Chuck McCann",
+                     "role" : "Duckworth / Burger Beagle / Bouncer Beagle"
+                  },
+                  {
+                     "role" : "Launchpad McQuack / Babyface Beagle",
+                     "name" : "Terrance McGovern"
+                  }
+               ]
+            },
+            "date" : "1987",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            }
+         },
+         {
+            "channel" : "xd.disneychannel.dk",
+            "previously_shown" : "xd.disneychannel.dk|2018-05-04 14:32:00",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 9 s\u00e6son 1",
+               "xmltv_ns" : "0. 8 ."
+            },
+            "title" : {
+               "da" : "Big Hero 6 - TV-serien"
+            },
+            "start" : "1532097120",
+            "desc" : {
+               "da" : "Big Hero 6 vender tilbage i underholdende, animerede eventyr."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "new" : null,
+            "stop" : "1532098800"
+         },
+         {
+            "stop" : "1532100720",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Tilly Green",
+                     "name" : "Marieve Herington"
+                  },
+                  {
+                     "name" : "Chris Houghton",
+                     "role" : "Cricket Green"
+                  },
+                  {
+                     "name" : "Bob Joles",
+                     "role" : "Bill Green"
+                  },
+                  {
+                     "name" : "Artemis Pebdani",
+                     "role" : "Gramma Alice"
+                  }
+               ]
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Comedy"
+               ]
+            },
+            "desc" : {
+               "da" : "Familien Green flytter fra landet til storbyen."
+            },
+            "start" : "1532098800",
+            "title" : {
+               "da" : "Familien Green I Storbyen"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 8 .",
+               "thetvdb.com" : "series/342059",
+               "onscreen" : "Afsnit 9 s\u00e6son 1"
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-07-03 05:32:00",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=342059&seasonid=767717&id=6736156&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "Gramma's License"
+            },
+            "channel" : "xd.disneychannel.dk"
+         },
+         {
+            "channel" : "xd.disneychannel.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "0. 7 .",
+               "onscreen" : "Afsnit 8 s\u00e6son 1"
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-06-06 15:32:00",
+            "desc" : {
+               "da" : "Andr\u00e9 er et vildt, ungt dovendyr med tonsvis af energi."
+            },
+            "title" : {
+               "da" : "Furiki Wheels"
+            },
+            "start" : "1532100720",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "stop" : "1532102400"
+         },
+         {
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Sitcom"
+               ]
+            },
+            "stop" : "1532104320",
+            "channel" : "xd.disneychannel.dk",
+            "previously_shown" : "xd.disneychannel.dk|2018-05-08 11:25:00",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 64 s\u00e6son 3",
+               "xmltv_ns" : "2. 63 ."
+            },
+            "desc" : {
+               "da" : "B\u00f8rnene beslutter at f\u00e5 Davenport tilbage som deres leder."
+            },
+            "title" : {
+               "da" : "Lab Rats"
+            },
+            "start" : "1532102400"
+         },
+         {
+            "title" : {
+               "da" : "Lab Rats"
+            },
+            "start" : "1532104320",
+            "desc" : {
+               "da" : "En helt ny komedieserie p\u00e5 Disney XD, som handler om tre teenagere, der har superkr\u00e6fter, og som fors\u00f8ger at passe ind p\u00e5 skolen med hj\u00e6lp fra deres ven, Leo, der er helt almindelig."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 65 s\u00e6son 3",
+               "xmltv_ns" : "2. 64 ."
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-05-03 11:25:00",
+            "channel" : "xd.disneychannel.dk",
+            "stop" : "1532106000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Sitcom"
+               ]
+            },
+            "new" : null
+         },
+         {
+            "stop" : "1532107920",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Disney 11"
+            },
+            "start" : "1532106000",
+            "desc" : {
+               "da" : "Gabo har stadig ondt i anklen, men han er fast besluttet p\u00e5 at spille. Fjorten g\u00f8r grin med Lucas. Zoe pr\u00f8ver p\u00e5 at overtale Gabo til ikke at spille. Rafa og hans far har en god samtale."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0. 39 .",
+               "onscreen" : "Afsnit 40 s\u00e6son 1"
+            },
+            "channel" : "xd.disneychannel.dk"
+         },
+         {
+            "desc" : {
+               "da" : "Ryan opdager at han har evnen til at styre en k\u00e6mperobot."
+            },
+            "title" : {
+               "da" : "Mech-X4"
+            },
+            "start" : "1532107920",
+            "episodeNum" : {
+               "thetvdb.com" : "series/316465",
+               "xmltv_ns" : "0 . 14 .",
+               "onscreen" : "Afsnit 15 s\u00e6son 1"
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-05-15 16:00:00",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=316465&seasonid=679565&id=6057605&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "Let's End This! (2)"
+            },
+            "channel" : "xd.disneychannel.dk",
+            "stop" : "1532109600",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Mark Walker",
+                     "name" : "Raymond Cham"
+                  },
+                  {
+                     "name" : "Kamran Lucas",
+                     "role" : "Harris"
+                  },
+                  {
+                     "role" : "Spyder",
+                     "name" : "Pearce Joza"
+                  },
+                  {
+                     "role" : "Veracidade",
+                     "name" : "Alyssa Jirrels"
+                  },
+                  {
+                     "name" : "Crystal Balint",
+                     "role" : "Grace Walker"
+                  },
+                  {
+                     "role" : "Principal Grey",
+                     "name" : "Ali Liebert"
+                  },
+                  {
+                     "role" : "Seth Harper",
+                     "name" : "Peter Benson"
+                  },
+                  {
+                     "role" : "Ryan Walker",
+                     "name" : "Nathaniel James Potvin"
+                  }
+               ]
+            },
+            "date" : "2016",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy",
+                  "Sci-Fi"
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Tulle og Lena k\u00e6mper sig gennem en h\u00e6r af bj\u00f8rnebanditter."
+            },
+            "start" : "1532109600",
+            "title" : {
+               "da" : "Ducktales"
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-01-01 07:15:00",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 6 s\u00e6son 1",
+               "thetvdb.com" : "series/75931",
+               "xmltv_ns" : "0 . 5 ."
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=75931&seasonid=9471&id=4226195&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "Send in the Clones"
+            },
+            "rating" : {
+               "stars" : "7.8 / 9"
+            },
+            "channel" : "xd.disneychannel.dk",
+            "stop" : "1532111520",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Bubba / Bigtime Beagle / Baggy Beagle",
+                     "name" : "Frank Welker"
+                  },
+                  {
+                     "name" : "Russi Taylor",
+                     "role" : "Webby / Dewey / Louie / Huey"
+                  },
+                  {
+                     "name" : "June Foray",
+                     "role" : "Magica De Spell / Ma Beagle / Mrs. Featherby"
+                  },
+                  {
+                     "role" : "Gyro Gearloose / Flintheart Glomgold",
+                     "name" : "Hal Smith"
+                  },
+                  {
+                     "name" : "Brian Cummings",
+                     "role" : "Doofus Drake / Bugle/Bebop Beagle"
+                  },
+                  {
+                     "role" : "Fenton Crackshell / Gizmoduck",
+                     "name" : "Hamilton Camp"
+                  },
+                  {
+                     "name" : "Kathleen Freeman",
+                     "role" : "Mrs. Crackshell"
+                  },
+                  {
+                     "name" : "Joan Gerber",
+                     "role" : "Mrs. Bentina Beakley / Glittering Goldie"
+                  },
+                  {
+                     "role" : "Donald Duck",
+                     "name" : "Tony Anselmo"
+                  },
+                  {
+                     "name" : "Peter Cullen",
+                     "role" : "Bankjob Beagle / Admiral Grimitz"
+                  },
+                  {
+                     "role" : "Scrooge McDuck",
+                     "name" : "Alan Young"
+                  },
+                  {
+                     "name" : "Chuck McCann",
+                     "role" : "Duckworth / Burger Beagle / Bouncer Beagle"
+                  },
+                  {
+                     "name" : "Terrance McGovern",
+                     "role" : "Launchpad McQuack / Babyface Beagle"
+                  }
+               ]
+            },
+            "date" : "1987",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Big Hero 6 vender tilbage i underholdende, animerede eventyr."
+            },
+            "title" : {
+               "da" : "Big Hero 6 - TV-serien"
+            },
+            "start" : "1532111520",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 1",
+               "xmltv_ns" : "0. 2 ."
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-05-01 14:32:00",
+            "channel" : "xd.disneychannel.dk",
+            "stop" : "1532112900",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Peter kommer ind p\u00e5 en af de bedste skoler og l\u00e6rer at v\u00e6re superhelt"
+            },
+            "start" : "1532112900",
+            "title" : {
+               "da" : "Marvel's Spider-Man"
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-05-03 04:00:00",
+            "episodeNum" : {
+               "thetvdb.com" : "series/329456",
+               "xmltv_ns" : "0 . 3 .",
+               "onscreen" : "Afsnit 4 s\u00e6son 1"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=329456&seasonid=714514&id=6253914&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "A Day in the Life"
+            },
+            "channel" : "xd.disneychannel.dk",
+            "stop" : "1532114400",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Mike Fasolo"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Robbie Daymond",
+                     "role" : "Peter Parker / Spider-Man"
+                  },
+                  {
+                     "name" : "Scott Menville",
+                     "role" : "Otto Octavius / Dr. Octopus"
+                  },
+                  {
+                     "role" : "Harry Osborn",
+                     "name" : "Max Mittelman"
+                  },
+                  {
+                     "role" : "Uncle Ben",
+                     "name" : "Patton Oswalt"
+                  },
+                  {
+                     "role" : "Miles Morales",
+                     "name" : "Nadji Jeter"
+                  },
+                  {
+                     "role" : "Norman Osborn",
+                     "name" : "Josh Keaton"
+                  },
+                  {
+                     "role" : "Anya Corazon",
+                     "name" : "Melanie Minichino"
+                  },
+                  {
+                     "role" : "Max Modell",
+                     "name" : "Fred Tatasciore"
+                  },
+                  {
+                     "role" : "Gwen Stacy",
+                     "name" : "Laura Bailey"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Dan Duncan"
+                  }
+               ]
+            },
+            "date" : "2017",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            }
+         },
+         {
+            "date" : "2014",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Sci-Fi"
+               ]
+            },
+            "new" : null,
+            "stop" : "1532115900",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Steward Lee"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Paul Reubens",
+                     "role" : "Pilot droid RX-24"
+                  },
+                  {
+                     "name" : "James Arnold Taylor",
+                     "role" : "Young Obi-Wan Kenobi"
+                  },
+                  {
+                     "role" : "Bail Organa",
+                     "name" : "Phil LaMarr"
+                  },
+                  {
+                     "role" : "Thrawn",
+                     "name" : "Lars Mikkelsen"
+                  },
+                  {
+                     "name" : "Taylor Gray",
+                     "role" : "Ezra Bridger"
+                  },
+                  {
+                     "role" : "Saw Gerrera",
+                     "name" : "Forest Whitaker"
+                  },
+                  {
+                     "role" : "Sabine Wren",
+                     "name" : "Tiya Sircar"
+                  },
+                  {
+                     "name" : "James Earl Jones",
+                     "role" : "Darth Vader"
+                  },
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "Rex"
+                  },
+                  {
+                     "role" : "Maul",
+                     "name" : "Sam Witwer"
+                  },
+                  {
+                     "role" : "Hondo Ohnaka",
+                     "name" : "Jim Cummings"
+                  },
+                  {
+                     "role" : "Bendu",
+                     "name" : "Tom Baker"
+                  },
+                  {
+                     "name" : "Keone Young",
+                     "role" : "Sato"
+                  },
+                  {
+                     "name" : "Ray Stevenson",
+                     "role" : "Gar Saxon"
+                  },
+                  {
+                     "role" : "Arihnda Pryce",
+                     "name" : "Mary Elizabeth McGlynn"
+                  },
+                  {
+                     "name" : "Stephen Stanton",
+                     "role" : "Obi-Wan \"Ben\" Kenobi"
+                  },
+                  {
+                     "name" : "Vanessa Marshall",
+                     "role" : "Hera Syndulla"
+                  },
+                  {
+                     "name" : "Kevin McKidd",
+                     "role" : "Fenn Rau"
+                  },
+                  {
+                     "name" : "Billy Dee Williams",
+                     "role" : "Lando Calrissian"
+                  },
+                  {
+                     "role" : "Rukh",
+                     "name" : "Warwick Davis"
+                  },
+                  {
+                     "name" : "Nathan Kress",
+                     "role" : "Wedge Antilles"
+                  },
+                  {
+                     "role" : "The Grand Inquisitor",
+                     "name" : "Jason Isaacs"
+                  },
+                  {
+                     "role" : "Kallus",
+                     "name" : "David Oyelowo"
+                  },
+                  {
+                     "role" : "Zeb Orrelios",
+                     "name" : "Steve Blum"
+                  },
+                  {
+                     "name" : "Freddie Prinze Jr.",
+                     "role" : "Kanan Jarrus"
+                  },
+                  {
+                     "name" : "Katee Sackhoff",
+                     "role" : "Bo-Katan Kryze"
+                  },
+                  {
+                     "name" : "Anthony Daniels",
+                     "role" : "C-3PO"
+                  },
+                  {
+                     "name" : "Ashley Eckstein",
+                     "role" : "Ahsoka Tano"
+                  },
+                  {
+                     "role" : "Mon Mothma",
+                     "name" : "Genevieve O'Reilly"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Henry Gilroy"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Rise of the Old Masters"
+            },
+            "rating" : {
+               "stars" : "6.8 / 9"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=283468&seasonid=590285&id=4961295&lid=10"
+            ],
+            "channel" : "xd.disneychannel.dk",
+            "start" : "1532114400",
+            "title" : {
+               "da" : "Star Wars Rebels"
+            },
+            "desc" : {
+               "da" : "Teamets plan om at kapre gods og s\u00e6lge det til Vizago for h\u00e5rdt tiltr\u00e6ngte kreditter tager en drejning, da det viser sig, at godset best\u00e5r af yders farlige og illegale v\u00e5ben. Mens de fors\u00f8ger at f\u00f8re deres plan ud i livet, m\u00f8der de R2-D2, hvis mission er, at forhindre v\u00e5bnene i at falde i h\u00e6nderne p\u00e5 Imperiet, men det ved hans f\u00f8lgesvend, C-3PO, intet om."
+            },
+            "previously_shown" : "xd.disneychannel.dk|2018-01-02 20:10:00",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 2 .",
+               "thetvdb.com" : "series/283468",
+               "onscreen" : "Afsnit 3 s\u00e6son 1"
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "3. 198 .",
+               "onscreen" : "Afsnit 199 s\u00e6son 4"
+            },
+            "title" : {
+               "da" : "Phineas og Ferb"
+            },
+            "start" : "1532115900",
+            "desc" : {
+               "da" : "Phineas og Ferb vil g\u00f8re hver eneste dag i deres sommerferie helt spektakul\u00e6r! Hver dag finder de p\u00e5 nye fantasirige opfindelser, alt imens deres misundelige stores\u00f8ster, Candace, pr\u00f8ver at sladre om dem til mor. De kan bygge en rutsjebane i baghaven, surfe p\u00e5 forstadens tidevandsb\u00f8lger, eller rejse tilbage til forhistorien. Samtidig lever familiens ikke alt for smarte husdyr, n\u00e6bdyret Perry, et dobbeltliv som hemmelig agent, der i hvert afsnit k\u00e6mper mod den"
+            },
+            "channel" : "xd.disneychannel.dk",
+            "stop" : "1532145600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "new" : null
+         }
+      ]
+   }
+}

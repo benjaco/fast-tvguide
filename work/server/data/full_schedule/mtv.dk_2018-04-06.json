@@ -1,0 +1,1055 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1522972800",
+            "title" : {
+               "da" : "Jersey Shore Family Vacation"
+            },
+            "new" : null,
+            "channel" : "mtv.dk",
+            "subTitle" : {
+               "da" : "S\u00e6son 1 Episode 1"
+            },
+            "stop" : "1522976400",
+            "date" : "2018",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "De medvirkende i Jersey Shore svor p\u00e5, at de altid ville holde ferie sammen. Nu fem \u00e5r, fem b\u00f8rn, tre \u00e6gteskaber og hvem ved, hvor mange GTL-omgange senere er sl\u00e6nget sammen igen og p\u00e5 ferie i det l\u00e6kre hus i Miami Beach."
+            }
+         },
+         {
+            "date" : "2011",
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 19 .",
+               "onscreen" : "Afsnit 20 s\u00e6son 4",
+               "thetvdb.com" : "series/250793"
+            },
+            "desc" : {
+               "da" : "I dette afsnit af \"Ridiculousness\" h\u00e6nger Rob ud med Sterling og Chanel for at se, hvorfor folk bliver \"dissede p\u00e5 nettet\", unders\u00f8ger \"ekstreme kram\" og har det sjovt med nogle \"lussingeslagsm\u00e5l\"."
+            },
+            "channel" : "mtv.dk",
+            "new" : null,
+            "rating" : {
+               "stars" : "7.4 / 9"
+            },
+            "stop" : "1522978200",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Rob Dyrdek",
+                     "role" : "Rob Dyrdek, Host"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Harley Morenstein"
+            },
+            "title" : {
+               "da" : "Ridiculousness"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=250793&seasonid=570703&id=4841936&lid=7"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "start" : "1522976400"
+         },
+         {
+            "episodeNum" : {
+               "thetvdb.com" : "series/250793",
+               "onscreen" : "Afsnit 21 s\u00e6son 4",
+               "xmltv_ns" : "3 . 20 ."
+            },
+            "desc" : {
+               "da" : "I et splinternyt afsnit af Ridiculousness ser skuespiller Lacey Chabert og Rob n\u00e6rmere p\u00e5 \u00e6ldres \"sidste \u00f8jebliks eventyr\" og pars \"k\u00e6rlige \u00f8jeblikke\", mens Lacey forklarer, hvorfor det ikke altid er nemt at \"spille sexet\"."
+            },
+            "date" : "2011",
+            "stop" : "1522980000",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Rob Dyrdek",
+                     "role" : "Rob Dyrdek, Host"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Chanel and Sterling X"
+            },
+            "channel" : "mtv.dk",
+            "new" : null,
+            "rating" : {
+               "stars" : "7.4 / 9"
+            },
+            "title" : {
+               "da" : "Ridiculousness"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=250793&seasonid=570703&id=4841937&lid=7"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "start" : "1522978200"
+         },
+         {
+            "desc" : {
+               "da" : "MTV spiller de bedste musikvideoer - hele natten."
+            },
+            "title" : {
+               "da" : "Night Videos"
+            },
+            "stop" : "1522987200",
+            "start" : "1522980000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "channel" : "mtv.dk"
+         },
+         {
+            "title" : {
+               "da" : "MTV Breakfast Club"
+            },
+            "start" : "1522987200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "date" : "2009",
+            "desc" : {
+               "da" : "Morgenshowet med de perfekte klip at v\u00e5gne op til."
+            },
+            "channel" : "mtv.dk",
+            "new" : null,
+            "stop" : "1522994400"
+         },
+         {
+            "start" : "1522994400",
+            "stop" : "1522998000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "channel" : "mtv.dk",
+            "new" : null,
+            "title" : {
+               "da" : "TOP 10 TRENDING VIDEOS"
+            }
+         },
+         {
+            "start" : "1522998000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Reality"
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=221141&seasonid=717819&id=6320437&lid=7"
+            ],
+            "title" : {
+               "da" : "Teen Mom 2"
+            },
+            "stop" : "1523001600",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Corey Simms",
+                     "name" : "Corey Simms"
+                  },
+                  {
+                     "role" : "Jenelle Evans",
+                     "name" : "Jenelle Evans"
+                  },
+                  {
+                     "role" : "Adam Lind",
+                     "name" : "Adam Lind"
+                  },
+                  {
+                     "name" : "Chelsea Houska",
+                     "role" : "Chelsea Houska"
+                  },
+                  {
+                     "name" : "Briana DeJesus",
+                     "role" : "Briana DeJesus"
+                  },
+                  {
+                     "role" : "Kailyn Lowry",
+                     "name" : "Kailyn Lowry"
+                  },
+                  {
+                     "role" : "Leah Messer-Calvert",
+                     "name" : "Leah Messer-Calvert"
+                  },
+                  {
+                     "role" : "Jonathan 'Jo' Rivera",
+                     "name" : "Jonathan 'Jo' Rivera"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Somewhere Else"
+            },
+            "channel" : "mtv.dk",
+            "new" : null,
+            "desc" : {
+               "da" : "Teen Mom er en spin-off at MTV's dokumentarserie 16 & Pregnant. Vi f\u00f8lger fire piger fra f\u00f8rste s\u00e6son, der st\u00f8der p\u00e5 udfordringerne ved de f\u00f8rste \u00e5r som m\u00f8dre."
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/221141",
+               "xmltv_ns" : "7 . 11 .",
+               "onscreen" : "Afsnit 12 s\u00e6son 8"
+            },
+            "date" : "2011"
+         },
+         {
+            "desc" : {
+               "da" : "Teen Mom er en spin-off at MTV's dokumentarserie 16 & Pregnant. Vi f\u00f8lger fire piger fra f\u00f8rste s\u00e6son, der st\u00f8der p\u00e5 udfordringerne ved de f\u00f8rste \u00e5r som m\u00f8dre."
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/221141",
+               "xmltv_ns" : "7 . 12 .",
+               "onscreen" : "Afsnit 13 s\u00e6son 8"
+            },
+            "date" : "2011",
+            "stop" : "1523005200",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Corey Simms",
+                     "role" : "Corey Simms"
+                  },
+                  {
+                     "role" : "Jenelle Evans",
+                     "name" : "Jenelle Evans"
+                  },
+                  {
+                     "name" : "Adam Lind",
+                     "role" : "Adam Lind"
+                  },
+                  {
+                     "role" : "Chelsea Houska",
+                     "name" : "Chelsea Houska"
+                  },
+                  {
+                     "name" : "Briana DeJesus",
+                     "role" : "Briana DeJesus"
+                  },
+                  {
+                     "role" : "Kailyn Lowry",
+                     "name" : "Kailyn Lowry"
+                  },
+                  {
+                     "role" : "Leah Messer-Calvert",
+                     "name" : "Leah Messer-Calvert"
+                  },
+                  {
+                     "name" : "Jonathan 'Jo' Rivera",
+                     "role" : "Jonathan 'Jo' Rivera"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Winter in Summer"
+            },
+            "channel" : "mtv.dk",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=221141&seasonid=717819&id=6320438&lid=7"
+            ],
+            "title" : {
+               "da" : "Teen Mom 2"
+            },
+            "start" : "1523001600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "stop" : "1523008800",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Corey Simms",
+                     "name" : "Corey Simms"
+                  },
+                  {
+                     "name" : "Jenelle Evans",
+                     "role" : "Jenelle Evans"
+                  },
+                  {
+                     "name" : "Adam Lind",
+                     "role" : "Adam Lind"
+                  },
+                  {
+                     "name" : "Chelsea Houska",
+                     "role" : "Chelsea Houska"
+                  },
+                  {
+                     "role" : "Briana DeJesus",
+                     "name" : "Briana DeJesus"
+                  },
+                  {
+                     "name" : "Kailyn Lowry",
+                     "role" : "Kailyn Lowry"
+                  },
+                  {
+                     "name" : "Leah Messer-Calvert",
+                     "role" : "Leah Messer-Calvert"
+                  },
+                  {
+                     "role" : "Jonathan 'Jo' Rivera",
+                     "name" : "Jonathan 'Jo' Rivera"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Oh, the Places You'll Go"
+            },
+            "new" : null,
+            "channel" : "mtv.dk",
+            "desc" : {
+               "da" : "Teen Mom er en spin-off at MTV's dokumentarserie 16 & Pregnant. Vi f\u00f8lger fire piger fra f\u00f8rste s\u00e6son, der st\u00f8der p\u00e5 udfordringerne ved de f\u00f8rste \u00e5r som m\u00f8dre."
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/221141",
+               "xmltv_ns" : "7 . 13 .",
+               "onscreen" : "Afsnit 14 s\u00e6son 8"
+            },
+            "date" : "2011",
+            "start" : "1523005200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Reality"
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=221141&seasonid=717819&id=6332450&lid=7"
+            ],
+            "title" : {
+               "da" : "Teen Mom 2"
+            }
+         },
+         {
+            "start" : "1523008800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=262754&seasonid=521494&id=4634928&lid=7"
+            ],
+            "title" : {
+               "da" : "Catfish: The TV Show"
+            },
+            "subTitle" : {
+               "da" : "Jesse & Brian"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Nev Schulman",
+                     "name" : "Nev Schulman"
+                  },
+                  {
+                     "role" : "Max Joseph",
+                     "name" : "Max Joseph"
+                  }
+               ]
+            },
+            "stop" : "1523012400",
+            "new" : null,
+            "rating" : {
+               "stars" : "6.3 / 9"
+            },
+            "channel" : "mtv.dk",
+            "desc" : {
+               "da" : "Da Jesse m\u00f8der Brian p\u00e5 Facebook tror hun, hun har f\u00e5et jackpot. De planl\u00e6gger at m\u00f8des, men Brian dukker ikke op. Nu, flere \u00e5r senere, sp\u00f8rger Brian om de skal flytte sammen. Hvad skjuler Brian?"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8 s\u00e6son 2",
+               "xmltv_ns" : "1 . 7 .",
+               "thetvdb.com" : "series/262754"
+            },
+            "date" : "2012"
+         },
+         {
+            "date" : "2012",
+            "episodeNum" : {
+               "thetvdb.com" : "series/262754",
+               "xmltv_ns" : "1 . 8 .",
+               "onscreen" : "Afsnit 9 s\u00e6son 2"
+            },
+            "desc" : {
+               "da" : "For fem m\u00e5neder siden m\u00f8dte Artis Jess, en smuk blondine, p\u00e5 nettet. Artis og Jess havde begge k\u00e6rester men f\u00f8lte, der var tale om \u00e6gte k\u00e6rlighed. Nu vil Artis m\u00f8de Jess. Men er hun den, hun giver sig ud for?"
+            },
+            "channel" : "mtv.dk",
+            "new" : null,
+            "rating" : {
+               "stars" : "6.3 / 9"
+            },
+            "subTitle" : {
+               "da" : "Artis & Jess"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Nev Schulman",
+                     "role" : "Nev Schulman"
+                  },
+                  {
+                     "name" : "Max Joseph",
+                     "role" : "Max Joseph"
+                  }
+               ]
+            },
+            "stop" : "1523016000",
+            "title" : {
+               "da" : "Catfish: The TV Show"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=262754&seasonid=521494&id=4634930&lid=7"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "start" : "1523012400"
+         },
+         {
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Ebony Jackson",
+                     "role" : "Herself"
+                  },
+                  {
+                     "name" : "Joshua Rendon",
+                     "role" : "Himself"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Kayla"
+            },
+            "stop" : "1523019600",
+            "new" : null,
+            "channel" : "mtv.dk",
+            "desc" : {
+               "da" : "Megan bliver gravid og planl\u00e6gger at opfostre barnet i for\u00e6ldrenes k\u00e6lder med hj\u00e6lp fra sin fyr, Nathan, der spiller tv-spil. Megan aner ikke, hvad hun skal lave efter skolen og m\u00e5 blive voksen hurtigt."
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/126011",
+               "xmltv_ns" : "1 . 17 .",
+               "onscreen" : "Afsnit 18 s\u00e6son 2"
+            },
+            "date" : "2009",
+            "start" : "1523016000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=126011&seasonid=256241&id=4089980&lid=7"
+            ],
+            "title" : {
+               "da" : "16 and Pregnant"
+            }
+         },
+         {
+            "date" : "2009",
+            "episodeNum" : {
+               "thetvdb.com" : "series/127351",
+               "xmltv_ns" : "0 . 4 .",
+               "onscreen" : "Afsnit 5 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Beboerne i huset samles om Snooki, og efter sl\u00e5skampen i byen og det brutale slag, er det overraskende resultat, at det bringer huset t\u00e6ttere sammen."
+            },
+            "channel" : "mtv.dk",
+            "new" : null,
+            "rating" : {
+               "stars" : "6 / 9"
+            },
+            "subTitle" : {
+               "da" : "Just Another Day at the Shore"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Mike 'The Situation' Sorrentino"
+                  },
+                  {
+                     "name" : "Angelina Pivarnick"
+                  },
+                  {
+                     "name" : "Jenni 'JWow' Farley"
+                  },
+                  {
+                     "name" : "Vinny Guadagnino"
+                  },
+                  {
+                     "name" : "Nicole 'Snooki' Polizzi"
+                  },
+                  {
+                     "name" : "Sammi 'Sweetheart' Giancola"
+                  },
+                  {
+                     "name" : "Ronnie Ortiz-Magro"
+                  },
+                  {
+                     "name" : "Deena Nicole Cortese"
+                  },
+                  {
+                     "name" : "DJ Pauly D"
+                  }
+               ]
+            },
+            "stop" : "1523023200",
+            "title" : {
+               "da" : "Jersey Shore"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=127351&seasonid=153531&id=1492811&lid=7"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "start" : "1523019600"
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=79550&seasonid=28326&id=334507&lid=7"
+            ],
+            "title" : {
+               "da" : "The Hills"
+            },
+            "start" : "1523023200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "desc" : {
+               "da" : "Lauren pr\u00f8ver at hj\u00e6lpe Audrina med at beslutte om Justin har k\u00e6restekvalitet, men Audrina har allerede truffet sin beslutning. Heidi finder ud af, at det ikke er lutter lagkage at v\u00e6re forlovet."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 3",
+               "xmltv_ns" : "2 . 2 .",
+               "thetvdb.com" : "series/79550"
+            },
+            "date" : "2006",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Heidi Montag",
+                     "role" : "Heidi"
+                  },
+                  {
+                     "name" : "Lauren Conrad",
+                     "role" : "Lauren"
+                  },
+                  {
+                     "name" : "Brody Jenner",
+                     "role" : "Brody"
+                  },
+                  {
+                     "role" : "Kristin",
+                     "name" : "Kristin Cavallari"
+                  },
+                  {
+                     "role" : "Stacie",
+                     "name" : "Stacie Hall"
+                  },
+                  {
+                     "name" : "Audrina Patridge",
+                     "role" : "Audrina"
+                  },
+                  {
+                     "role" : "Stephanie",
+                     "name" : "Stephanie Pratt"
+                  },
+                  {
+                     "role" : "Lo",
+                     "name" : "Lo Bosworth"
+                  },
+                  {
+                     "role" : "Whitney",
+                     "name" : "Whitney Port"
+                  },
+                  {
+                     "role" : "Justin",
+                     "name" : "Justin Brescia"
+                  },
+                  {
+                     "name" : "Spencer Pratt",
+                     "role" : "Spencer"
+                  }
+               ]
+            },
+            "stop" : "1523025000",
+            "subTitle" : {
+               "da" : "Truth and Time Tells All"
+            },
+            "new" : null,
+            "channel" : "mtv.dk"
+         },
+         {
+            "desc" : {
+               "da" : "If\u00f8lge mig: et komisk twist p\u00e5 din yndlings reality-serie. Fra Lauren til Spencer og alle de andre, intet bitchy look eller bromance udelades af skuespilleren, der spilleralle de medvirkende."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 3",
+               "xmltv_ns" : "2 . 3 .",
+               "thetvdb.com" : "series/79550"
+            },
+            "date" : "2006",
+            "subTitle" : {
+               "da" : "Meet the Parents"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Heidi",
+                     "name" : "Heidi Montag"
+                  },
+                  {
+                     "name" : "Lauren Conrad",
+                     "role" : "Lauren"
+                  },
+                  {
+                     "role" : "Brody",
+                     "name" : "Brody Jenner"
+                  },
+                  {
+                     "name" : "Kristin Cavallari",
+                     "role" : "Kristin"
+                  },
+                  {
+                     "name" : "Stacie Hall",
+                     "role" : "Stacie"
+                  },
+                  {
+                     "name" : "Audrina Patridge",
+                     "role" : "Audrina"
+                  },
+                  {
+                     "role" : "Stephanie",
+                     "name" : "Stephanie Pratt"
+                  },
+                  {
+                     "role" : "Lo",
+                     "name" : "Lo Bosworth"
+                  },
+                  {
+                     "role" : "Whitney",
+                     "name" : "Whitney Port"
+                  },
+                  {
+                     "role" : "Justin",
+                     "name" : "Justin Brescia"
+                  },
+                  {
+                     "role" : "Spencer",
+                     "name" : "Spencer Pratt"
+                  }
+               ]
+            },
+            "stop" : "1523026800",
+            "new" : null,
+            "channel" : "mtv.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=79550&seasonid=28326&id=334508&lid=7"
+            ],
+            "title" : {
+               "da" : "The Hills"
+            },
+            "start" : "1523025000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "date" : "2006",
+            "episodeNum" : {
+               "thetvdb.com" : "series/79550",
+               "onscreen" : "Afsnit 5 s\u00e6son 3",
+               "xmltv_ns" : "2 . 4 ."
+            },
+            "desc" : {
+               "da" : "Heidis sociale omgangskreds krymper da Spencer \"sl\u00e5r op\" med Brody fordi han har h\u00e6ngt ud med Lauren. Audrina vil v\u00e6re fast k\u00e6reste med Justin, men det n\u00e6gter han at g\u00e5 med til."
+            },
+            "new" : null,
+            "channel" : "mtv.dk",
+            "subTitle" : {
+               "da" : "Rolling with the Enemy"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Heidi",
+                     "name" : "Heidi Montag"
+                  },
+                  {
+                     "name" : "Lauren Conrad",
+                     "role" : "Lauren"
+                  },
+                  {
+                     "role" : "Brody",
+                     "name" : "Brody Jenner"
+                  },
+                  {
+                     "name" : "Kristin Cavallari",
+                     "role" : "Kristin"
+                  },
+                  {
+                     "role" : "Stacie",
+                     "name" : "Stacie Hall"
+                  },
+                  {
+                     "name" : "Audrina Patridge",
+                     "role" : "Audrina"
+                  },
+                  {
+                     "role" : "Stephanie",
+                     "name" : "Stephanie Pratt"
+                  },
+                  {
+                     "name" : "Lo Bosworth",
+                     "role" : "Lo"
+                  },
+                  {
+                     "name" : "Whitney Port",
+                     "role" : "Whitney"
+                  },
+                  {
+                     "name" : "Justin Brescia",
+                     "role" : "Justin"
+                  },
+                  {
+                     "name" : "Spencer Pratt",
+                     "role" : "Spencer"
+                  }
+               ]
+            },
+            "stop" : "1523028600",
+            "title" : {
+               "da" : "The Hills"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=79550&seasonid=28326&id=335070&lid=7"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "start" : "1523026800"
+         },
+         {
+            "date" : "2006",
+            "desc" : {
+               "da" : "Lauren bliver ringet op af en eksk\u00e6reste. Heidi konkurrerer med sin kollega Elodie om at blive forfremmet p\u00e5 arbejdet."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 6 s\u00e6son 3",
+               "xmltv_ns" : "2 . 5 .",
+               "thetvdb.com" : "series/79550"
+            },
+            "new" : null,
+            "channel" : "mtv.dk",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Heidi",
+                     "name" : "Heidi Montag"
+                  },
+                  {
+                     "name" : "Lauren Conrad",
+                     "role" : "Lauren"
+                  },
+                  {
+                     "name" : "Brody Jenner",
+                     "role" : "Brody"
+                  },
+                  {
+                     "role" : "Kristin",
+                     "name" : "Kristin Cavallari"
+                  },
+                  {
+                     "role" : "Stacie",
+                     "name" : "Stacie Hall"
+                  },
+                  {
+                     "role" : "Audrina",
+                     "name" : "Audrina Patridge"
+                  },
+                  {
+                     "role" : "Stephanie",
+                     "name" : "Stephanie Pratt"
+                  },
+                  {
+                     "name" : "Lo Bosworth",
+                     "role" : "Lo"
+                  },
+                  {
+                     "name" : "Whitney Port",
+                     "role" : "Whitney"
+                  },
+                  {
+                     "name" : "Justin Brescia",
+                     "role" : "Justin"
+                  },
+                  {
+                     "role" : "Spencer",
+                     "name" : "Spencer Pratt"
+                  }
+               ]
+            },
+            "stop" : "1523030400",
+            "subTitle" : {
+               "da" : "Second Chances"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=79550&seasonid=28326&id=336327&lid=7"
+            ],
+            "title" : {
+               "da" : "The Hills"
+            },
+            "start" : "1523028600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "start" : "1523030400",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "title" : {
+               "da" : "Beach Body SOS"
+            },
+            "new" : null,
+            "channel" : "mtv.dk",
+            "stop" : "1523034000",
+            "subTitle" : {
+               "da" : "105"
+            },
+            "desc" : {
+               "da" : "Becci er tr\u00e6k af at v\u00e6re den tykke s\u00f8ster og vil tabe sig. Kieran er tr\u00e6t af at v\u00e6re en splejs og vil have muskler. Kan de forvandle deres kroppe i tide til deres Ex on the Beach-afsl\u00f8ring?"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 5",
+               "xmltv_ns" : ". 4 ."
+            }
+         },
+         {
+            "stop" : "1523037600",
+            "subTitle" : {
+               "da" : "Something Blue"
+            },
+            "channel" : "mtv.dk",
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : ". 11 .",
+               "onscreen" : "Afsnit 12"
+            },
+            "desc" : {
+               "da" : "Amber har en stor nyhed til Leah. Farrah f\u00e5r presset produceren til at for\u00e6re hende en vaginalforyngelse. Catelynn har lidt kvalitetstid med Nova, mens Tyler bliver f\u00f8lelsesladet, da han afleverer Butch til afv\u00e6nning. Maci og Taylor tager til Ryan og Mack"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "start" : "1523034000",
+            "title" : {
+               "da" : "Teen Mom OG"
+            }
+         },
+         {
+            "channel" : "mtv.dk",
+            "new" : null,
+            "stop" : "1523041200",
+            "subTitle" : {
+               "da" : "101"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 0 .",
+               "onscreen" : "Afsnit 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "start" : "1523037600",
+            "title" : {
+               "da" : "The Charlotte Show"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Jersey Shore Family Vacation"
+            },
+            "start" : "1523041200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "date" : "2018",
+            "desc" : {
+               "da" : "De medvirkende i Jersey Shore svor p\u00e5, at de altid ville holde ferie sammen. Nu fem \u00e5r, fem b\u00f8rn, tre \u00e6gteskaber og hvem ved, hvor mange GTL-omgange senere er sl\u00e6nget sammen igen og p\u00e5 ferie i det l\u00e6kre hus i Miami Beach."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "new" : null,
+            "channel" : "mtv.dk",
+            "subTitle" : {
+               "da" : "S\u00e6son 1 Episode 1"
+            },
+            "stop" : "1523044800"
+         },
+         {
+            "title" : {
+               "da" : "Ex On The Beach"
+            },
+            "start" : "1523044800",
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Ex On The Beach er tilbage! En gruppe flotte singler f\u00e5r meget snart deres dr\u00f8mmeferie \u00f8delagt, n\u00e5r en af deres ekser dukker op for at spolere festen! Had, sk\u00e6nderier, t\u00e5rer, drama og f\u00f8lelser!"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 8",
+               "xmltv_ns" : "7 . 0 ."
+            },
+            "date" : "2013",
+            "stop" : "1523048400",
+            "subTitle" : {
+               "da" : "801"
+            },
+            "new" : null,
+            "channel" : "mtv.dk"
+         },
+         {
+            "new" : null,
+            "channel" : "mtv.dk",
+            "start" : "1523048400",
+            "stop" : "1523052000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "title" : {
+               "da" : "The Challenge: Vendettas"
+            }
+         },
+         {
+            "date" : "2009",
+            "desc" : {
+               "da" : "MTV World Stage er din chance for at se de st\u00f8rste internationale artister fra sofakanten. Hver uge viser MTV gigs, der er filmet over hele verden - fra Tokyo til London."
+            },
+            "channel" : "mtv.dk",
+            "new" : null,
+            "stop" : "1523055600",
+            "title" : {
+               "da" : "MTV World Stage"
+            },
+            "start" : "1523052000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "start" : "1523055600",
+            "title" : {
+               "da" : "The Charlotte Show"
+            },
+            "channel" : "mtv.dk",
+            "new" : null,
+            "subTitle" : {
+               "da" : "101"
+            },
+            "stop" : "1523059200",
+            "episodeNum" : {
+               "xmltv_ns" : ". 0 .",
+               "onscreen" : "Afsnit 1"
+            }
+         }
+      ]
+   }
+}

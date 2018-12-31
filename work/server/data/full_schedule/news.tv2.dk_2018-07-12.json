@@ -1,0 +1,172 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "stop" : "1531389600",
+            "date" : "2018",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Morgennyhederne p\u00e5 NEWS"
+            },
+            "channel" : "news.tv2.dk",
+            "start" : "1531371600",
+            "new" : null
+         },
+         {
+            "stop" : "1531393200",
+            "date" : "2018",
+            "title" : {
+               "da" : "Nyheder med business og vejr"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "news.tv2.dk",
+            "start" : "1531389600",
+            "new" : null
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "news.tv2.dk",
+            "title" : {
+               "da" : "Nyheder, sport, vejr"
+            },
+            "start" : "1531393200",
+            "new" : null,
+            "stop" : "1531402500",
+            "date" : "2018"
+         },
+         {
+            "desc" : {
+               "da" : "Morten Strunge har trods sine blot 32 \u00e5r flere store millionsalg bag sig. Teleselskaberne Onfone og Plenti og e-bogsplatformen Mofibo har udbygget hans allerede imponerende formue, men vejen til succes har v\u00e6ret h\u00e5rd og lang for den unge serieiv\u00e6rks\u00e6tter."
+            },
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "channel" : "news.tv2.dk",
+            "title" : {
+               "da" : "Min f\u00f8rste million: Morten Strunge"
+            },
+            "start" : "1531402500",
+            "new" : null,
+            "stop" : "1531414800",
+            "date" : "2018"
+         },
+         {
+            "title" : {
+               "da" : "19 Nyhederne"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "news.tv2.dk",
+            "start" : "1531414800",
+            "new" : null,
+            "stop" : "1531416300",
+            "date" : "2018"
+         },
+         {
+            "stop" : "1531424100",
+            "date" : "2018",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder, sport, vejr"
+            },
+            "channel" : "news.tv2.dk",
+            "start" : "1531416300",
+            "new" : null
+         },
+         {
+            "new" : null,
+            "start" : "1531424100",
+            "title" : {
+               "da" : "Min f\u00f8rste million: Morten Strunge"
+            },
+            "channel" : "news.tv2.dk",
+            "date" : "2018",
+            "stop" : "1531425600",
+            "desc" : {
+               "da" : "Morten Strunge har trods sine blot 32 \u00e5r flere store millionsalg bag sig. Teleselskaberne Onfone og Plenti og e-bogsplatformen Mofibo har udbygget hans allerede imponerende formue, men vejen til succes har v\u00e6ret h\u00e5rd og lang for den unge serieiv\u00e6rks\u00e6tter."
+            },
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            }
+         },
+         {
+            "start" : "1531425600",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "22 Nyhederne"
+            },
+            "channel" : "news.tv2.dk",
+            "date" : "2018",
+            "stop" : "1531427100"
+         },
+         {
+            "date" : "2018",
+            "stop" : "1531432800",
+            "start" : "1531427100",
+            "new" : null,
+            "title" : {
+               "da" : "News Night"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "news.tv2.dk"
+         },
+         {
+            "date" : "2018",
+            "stop" : "1531458000",
+            "start" : "1531432800",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder, sport, vejr"
+            },
+            "channel" : "news.tv2.dk"
+         }
+      ]
+   }
+}

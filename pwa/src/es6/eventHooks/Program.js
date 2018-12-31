@@ -41,14 +41,14 @@ class Program {
         if (!this.open) {
             this.openPopup()
         }
-        this._programInfoEl.getElementsByClassName('channellogo')[0].src = `../server/data/images/${channel}.png`;
+        this._programInfoEl.getElementsByClassName('channellogo')[0].src = `../images/${channel}.png`;
         this._programInfoEl.getElementsByClassName('title-text')[0].textContent = title;
         this._programInfoEl.getElementsByClassName('time-text')[0].textContent = time;
         this._programInfoEl.getElementsByClassName('desc')[0].textContent = "";
         this._programInfoEl.getElementsByClassName('onscreen')[0].textContent = "";
         this._programInfoEl.getElementsByClassName('quality')[0].style.display = "none";
 
-        fetch("../server/get_all_info.php?channel=" + channel + "&date=" + dato + "&no=" + programmNo)
+        fetch("../all_info?channel=" + channel + "&date=" + dato + "&no=" + programmNo)
             .then(r => r.json())
             .then((data) => {
 

@@ -1,0 +1,624 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "date" : "1998",
+            "stop" : "1531737000",
+            "start" : "1531735200",
+            "new" : null,
+            "title" : {
+               "da" : "TV2 \u00d8STJYLLAND for 20 \u00e5r siden"
+            },
+            "channel" : "tv2oj.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Se hvordan \u00d8stjylland s\u00e5 ud for 20 \u00e5r siden, og hvad \u00f8stjyderne dengang lavede og diskuterede."
+            }
+         },
+         {
+            "stop" : "1531738800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2oj.dk",
+            "desc" : {
+               "da" : "De bedste historier fra hele Danmark og dagens medv\u00e6rt:"
+            },
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "new" : null,
+            "start" : "1531737000"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Denne gang bes\u00f8ger programmet \"Mit K\u00e6reste Eje\" Salten. En flere hundrede \u00e5r gammel medalje med en dramatisk historie og et v\u00e6ld af detaljer, s\u00e6tter gang i fort\u00e6llegenet hos Peter Tholstrup, fra Bruun Rasmussen. Og s\u00e5 giver et sp\u00e6ndende keramikfad, med en sjov historie, anledning til en munter og ikke helt stueren ordveksling om, hvad kunstv\u00e6rker dog kan hedde."
+            },
+            "stop" : "1531740600",
+            "date" : "2016",
+            "title" : {
+               "da" : "Mit K\u00e6reste Eje"
+            },
+            "channel" : "tv2oj.dk",
+            "start" : "1531738800",
+            "new" : null
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Der er t\u00e6ndt op i b\u00e5let ud til Skagerrak lidt \u00f8st for Hanstholm. Kok Michael Eriksen servere pasta med vilde svampe og desserten best\u00e5r af hyben. Biolog Kate Kronborg kommer forbi for at fort\u00e6lle om naturen ud til havet, hvor hybenrosen breder sig og truer de planter der er tilpasset vind og salt fra havet."
+            },
+            "channel" : "tv2oj.dk",
+            "title" : {
+               "da" : "Vild mad 9"
+            },
+            "new" : null,
+            "start" : "1531740600",
+            "stop" : "1531742400",
+            "date" : "2017"
+         },
+         {
+            "stop" : "1531744200",
+            "channel" : "tv2oj.dk",
+            "title" : {
+               "da" : "Det Brune Guld"
+            },
+            "start" : "1531742400",
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : ". 6/8 .",
+               "onscreen" : "Afsnit 7 af 8"
+            },
+            "desc" : {
+               "da" : "P\u00e5 trods af energikrisen stoppede i 1970 et eventyrligt kapitel i dansk arbejder og industrihistorie. Br\u00e6ndslet var for d\u00e5rligt og m\u00e6ngden af brunkul i undergrunden kun ville kunne d\u00e6kke energiforbruget i Danmark i et enkelt \u00e5r."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Husker du? Se de \u00f8stjyske nyheder for 10 \u00e5r siden."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1531745700",
+            "date" : "2008",
+            "title" : {
+               "da" : "TV2 \u00d8STJYLLAND for 10 \u00e5r siden"
+            },
+            "channel" : "tv2oj.dk",
+            "start" : "1531744200",
+            "new" : null
+         },
+         {
+            "stop" : "1531747200",
+            "start" : "1531745700",
+            "new" : null,
+            "channel" : "tv2oj.dk",
+            "title" : {
+               "da" : "Kolonihaven"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 20/25 .",
+               "onscreen" : "Afsnit 21 af 25"
+            },
+            "desc" : {
+               "da" : "Der er stadig meget, der skal n\u00e5s, og mens Nancy har hemmeligheder for i haven, opdager Gert og s\u00f8nnen Kasper, at en d\u00f8r kan s\u00e6ttes i p\u00e5 mange forkerte m\u00e5der."
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Denne gang bes\u00f8ger programmet \"Mit K\u00e6reste Eje\" Salten. En flere hundrede \u00e5r gammel medalje med en dramatisk historie og et v\u00e6ld af detaljer, s\u00e6tter gang i fort\u00e6llegenet hos Peter Tholstrup, fra Bruun Rasmussen. Og s\u00e5 giver et sp\u00e6ndende keramikfad, med en sjov historie, anledning til en munter og ikke helt stueren ordveksling om, hvad kunstv\u00e6rker dog kan hedde."
+            },
+            "stop" : "1531749300",
+            "date" : "2016",
+            "channel" : "tv2oj.dk",
+            "title" : {
+               "da" : "Mit K\u00e6reste Eje"
+            },
+            "start" : "1531747200",
+            "new" : null
+         },
+         {
+            "stop" : "1531750500",
+            "date" : "2014",
+            "title" : {
+               "da" : "Nationalpark Mols Bjerge"
+            },
+            "channel" : "tv2oj.dk",
+            "new" : null,
+            "start" : "1531749300",
+            "desc" : {
+               "da" : "P\u00e5 vandring i Mols Bjerge finder Morten DD det truede markfirben, der er s\u00e5 truet og beskyttet, at det kan stoppe byggeriet af en hovedvej, og med sit net fanger han en fantastisk flyver, en mosaikguldsmed."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 2/6 .",
+               "onscreen" : "Afsnit 3 af 6"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/6 .",
+               "onscreen" : "Afsnit 1 af 6"
+            },
+            "desc" : {
+               "da" : "I 1935 blev Danmarks stolthed, det verdensber\u00f8mte ekspeditionsskib DANA, p\u00e5sejlet af en tysk trawler ud for Hvide Sande og skibet gik ned. DANA var blev verdenskendt for en videnskabelig verdensomsejling - forl\u00f8beren for de ber\u00f8mte Galath\u00e6a-ekspeditioner, hvor man blandt andet l\u00f8ste g\u00e5den om den europ\u00e6iske \u00e5ls vandring til Zargassohavet ud for Nordamerikas kyst. Et dykkerhold - med en 86 \u00e5rig eventyrer om bord - har sat sig for, at de vil finde vraget af DANA og fors\u00f8ge bj\u00e6rge genstande, der kan v\u00e6re med til at fort\u00e6lle historien om det ber\u00f8mte skib. Eksperten og eventyreren Torben Wolf har personlig kendt bes\u00e6tningsmedlemmer fra ekspeditionskibet, og har desuden selv v\u00e6ret med p\u00e5 flere ekspeditioner. Blandt andet en galath\u00e6a-ekspedition i 50'erne. P\u00e5 dykkertogtet, der skulle komme til at forl\u00f8be over seks \u00e5r, viser det sig, at det langt fra bliver s\u00e5 let som forventet at finde vraget af DANA."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1531752300",
+            "new" : null,
+            "start" : "1531750500",
+            "title" : {
+               "da" : "Havets Historier"
+            },
+            "channel" : "tv2oj.dk"
+         },
+         {
+            "desc" : {
+               "da" : "Se hvordan \u00d8stjylland s\u00e5 ud for 20 \u00e5r siden, og hvad \u00f8stjyderne dengang lavede og diskuterede."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2oj.dk",
+            "title" : {
+               "da" : "TV2 \u00d8STJYLLAND for 20 \u00e5r siden"
+            },
+            "start" : "1531752300",
+            "new" : null,
+            "stop" : "1531754160",
+            "date" : "1998"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Regionale nyheder fra \u00d8stjylland."
+            },
+            "stop" : "1531754340",
+            "date" : "2018",
+            "title" : {
+               "da" : "Nyheder fra \u00d8stjylland"
+            },
+            "channel" : "tv2oj.dk",
+            "start" : "1531754160",
+            "new" : null
+         },
+         {
+            "stop" : "1531756200",
+            "start" : "1531754340",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tv2oj.dk",
+            "desc" : {
+               "da" : "De bedste historier fra hele Danmark og dagens medv\u00e6rt:"
+            },
+            "title" : {
+               "da" : "S\u00e5danmark"
+            }
+         },
+         {
+            "stop" : "1531757400",
+            "start" : "1531756200",
+            "new" : null,
+            "channel" : "tv2oj.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Peter Tholstrup er kommet i himmerrige n\u00e5r han og Anna bes\u00f8ger J L M\u00f8llers m\u00f8belfabrik. Her m\u00f8der de fjerde generation, nemlig den unge kvinde Kirsten M\u00f8ller, der er opvokset i USA. Hun er kommet hjem for at drive den gamle fabrik med de stolte h\u00e5ndv\u00e6rkstraditioner videre i sine forf\u00e6dres \u00e5nd. Men hun har ogs\u00e5 sat sit eget og mere moderne pr\u00e6g p\u00e5 fabrikkens produktion."
+            },
+            "title" : {
+               "da" : "Peter og Anna p\u00e5 M\u00f8belfabrikken"
+            }
+         },
+         {
+            "date" : "2018",
+            "stop" : "1531758300",
+            "start" : "1531757400",
+            "new" : null,
+            "channel" : "tv2oj.dk",
+            "title" : {
+               "da" : "Nyheder fra \u00d8stjylland"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Regionale nyheder fra \u00d8stjylland."
+            }
+         },
+         {
+            "stop" : "1531760400",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Hvad har vi talt om i \u00d8stjylland i de seneste 25 \u00e5r? Hvordan s\u00e5 vi ud? Hvor er udviklingen virkelig rykket og hvor er den g\u00e5et i st\u00e5? Det giver historikeren Benno Bl\u00e6sild sit bud p\u00e5 i serien Vores \u00d8stjylland, \u00d8stjyderne har f\u00e5et mere motorvej og f\u00e6rre f\u00e6rger at transportere sig rundt p\u00e5 - og det har givet b\u00e5de gl\u00e6der og sorger."
+            },
+            "channel" : "tv2oj.dk",
+            "title" : {
+               "da" : "Vores \u00d8stjylland"
+            },
+            "start" : "1531758300",
+            "new" : null
+         },
+         {
+            "desc" : {
+               "da" : "Vild Med Dyr handler om det f\u00f8rste st\u00e6vnem\u00f8de mellem to isbj\u00f8rne. Isbj\u00f8rnen Lady som er ny i parken skal for f\u00f8rste gang i n\u00e6rkontakt med en af de andre bj\u00f8rne. (Sendt f\u00f8rste gang 21.03.2012)"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1531761000",
+            "title" : {
+               "da" : "Vild med Dyr"
+            },
+            "channel" : "tv2oj.dk",
+            "new" : null,
+            "start" : "1531760400",
+            "credits" : {
+               "presenter" : [
+                  {
+                     "name" : "Anne Louise T. Didriksen"
+                  }
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "I 1998 havde Kent Glud Jensen fra Hammel en dr\u00f8m - han ville gerne v\u00e6re cykelrytter - det fik han chancen for."
+            },
+            "date" : "2018",
+            "stop" : "1531762200",
+            "start" : "1531761000",
+            "new" : null,
+            "channel" : "tv2oj.dk",
+            "title" : {
+               "da" : "Gode Gensyn: Grib chancen"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Regionale nyheder fra \u00d8stjylland."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1531763700",
+            "date" : "2018",
+            "title" : {
+               "da" : "Nyheder fra \u00d8stjylland"
+            },
+            "channel" : "tv2oj.dk",
+            "new" : null,
+            "start" : "1531762200"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Nu er to af haverne ved at v\u00e6re f\u00e6rdige: I Brabrand fryder Ane Stresino sig over den nye 22 meter lange sti med pergola, som hun har omkranset med lange bede med stauder og roser. I Gl. Rye har Emma og S\u00f8ren Frandsens store hvide hus helt \u00e6ndret karakter, efter der er anlagt terrasser og plantet og s\u00e5et omkring. Det har v\u00e6ret en k\u00e6mpe omgang, og ind i mellem har de v\u00e6ret ved at miste pusten."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 8/12 .",
+               "onscreen" : "Afsnit 9 af 12"
+            },
+            "stop" : "1531765200",
+            "new" : null,
+            "start" : "1531763700",
+            "channel" : "tv2oj.dk",
+            "title" : {
+               "da" : "Havemennesker"
+            }
+         },
+         {
+            "channel" : "tv2oj.dk",
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "start" : "1531765200",
+            "new" : null,
+            "stop" : "1531768920",
+            "date" : "2018",
+            "desc" : {
+               "da" : "Det er tv-v\u00e6rt og ambassad\u00f8r for organisationen Organtransplantation- Ja tak, Iben Makienok, som i dag er Annemette Voss' medv\u00e6rt i S\u00e5danmark. H\u00f8r, hvorfor det at f\u00e5 danskerne til at tage stilling til organtransplantation er blevet Ibis hjertesag. Og m\u00f8d Hanne Knudsen, der for 24 \u00e5r siden fik en hjertetransplantation, hvilket bet\u00f8d, at hun har set sine b\u00f8rn vokse op. Men vi skal ogs\u00e5 p\u00e5 bes\u00f8g hos Ragnhold og Vagner Nielsen, som har drevet renseri i Br\u00e6dstrup i \u00e5rtier, men som nu siger stop for at rejse ud og opleve Danmark."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "I 1935 blev Danmarks stolthed, det verdensber\u00f8mte ekspeditionsskib DANA, p\u00e5sejlet af en tysk trawler ud for Hvide Sande og skibet gik ned. DANA var blev verdenskendt for en videnskabelig verdensomsejling - forl\u00f8beren for de ber\u00f8mte Galath\u00e6a-ekspeditioner, hvor man blandt andet l\u00f8ste g\u00e5den om den europ\u00e6iske \u00e5ls vandring til Zargassohavet ud for Nordamerikas kyst. Et dykkerhold - med en 86 \u00e5rig eventyrer om bord - har sat sig for, at de vil finde vraget af DANA og fors\u00f8ge bj\u00e6rge genstande, der kan v\u00e6re med til at fort\u00e6lle historien om det ber\u00f8mte skib. Eksperten og eventyreren Torben Wolf har personlig kendt bes\u00e6tningsmedlemmer fra ekspeditionskibet, og har desuden selv v\u00e6ret med p\u00e5 flere ekspeditioner. Blandt andet en galath\u00e6a-ekspedition i 50'erne. P\u00e5 dykkertogtet, der skulle komme til at forl\u00f8be over seks \u00e5r, viser det sig, at det langt fra bliver s\u00e5 let som forventet at finde vraget af DANA."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 6",
+               "xmltv_ns" : ". 0/6 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1531768920",
+            "new" : null,
+            "channel" : "tv2oj.dk",
+            "title" : {
+               "da" : "Havets Historier"
+            },
+            "stop" : "1531770900"
+         },
+         {
+            "stop" : "1531770960",
+            "new" : null,
+            "start" : "1531770900",
+            "channel" : "tv2oj.dk",
+            "title" : {
+               "da" : "Kolonihaven"
+            },
+            "desc" : {
+               "da" : "Der er stadig meget, der skal n\u00e5s, og mens Nancy har hemmeligheder for i haven, opdager Gert og s\u00f8nnen Kasper, at en d\u00f8r kan s\u00e6ttes i p\u00e5 mange forkerte m\u00e5der."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 20/25 .",
+               "onscreen" : "Afsnit 21 af 25"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "stop" : "1531772940",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Fangstgaranti 4: Broholm"
+            },
+            "desc" : {
+               "da" : "Der er garanti for h\u00f8jt hum\u00f8r, stor begejstring og masser af fisk p\u00e5 krogen, n\u00e5r Morten Stamm Mikkelsen kaster sn\u00f8ren i vandet. I det f\u00f8rste afsnit fisker de muntre fyre glubske geder i en voldgrav, hvor der egentlig er fiskeri forbudt."
+            },
+            "channel" : "tv2oj.dk",
+            "new" : null,
+            "start" : "1531770960"
+         },
+         {
+            "title" : {
+               "da" : "Nyheder fra \u00d8stjylland"
+            },
+            "channel" : "tv2oj.dk",
+            "start" : "1531772940",
+            "new" : null,
+            "stop" : "1531774800",
+            "date" : "2018",
+            "desc" : {
+               "da" : "Regionale nyheder fra \u00d8stjylland."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "title" : {
+               "da" : "S\u00e5danmark"
+            },
+            "channel" : "tv2oj.dk",
+            "new" : null,
+            "start" : "1531774800",
+            "stop" : "1531776600",
+            "date" : "2018",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Det er tv-v\u00e6rt og ambassad\u00f8r for organisationen Organtransplantation- Ja tak, Iben Makienok, som i dag er Annemette Voss' medv\u00e6rt i S\u00e5danmark. H\u00f8r, hvorfor det at f\u00e5 danskerne til at tage stilling til organtransplantation er blevet Ibis hjertesag. Og m\u00f8d Hanne Knudsen, der for 24 \u00e5r siden fik en hjertetransplantation, hvilket bet\u00f8d, at hun har set sine b\u00f8rn vokse op. Men vi skal ogs\u00e5 p\u00e5 bes\u00f8g hos Ragnhold og Vagner Nielsen, som har drevet renseri i Br\u00e6dstrup i \u00e5rtier, men som nu siger stop for at rejse ud og opleve Danmark."
+            }
+         },
+         {
+            "stop" : "1531776900",
+            "date" : "2008",
+            "title" : {
+               "da" : "TV2 \u00d8STJYLLAND for 10 \u00e5r siden"
+            },
+            "channel" : "tv2oj.dk",
+            "start" : "1531776600",
+            "new" : null,
+            "desc" : {
+               "da" : "Husker du? Se de \u00f8stjyske nyheder for 10 \u00e5r siden."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "date" : "2018",
+            "stop" : "1531778100",
+            "start" : "1531776900",
+            "new" : null,
+            "title" : {
+               "da" : "Gode Gensyn: Grib chancen"
+            },
+            "channel" : "tv2oj.dk",
+            "desc" : {
+               "da" : "I 1998 havde Kent Glud Jensen fra Hammel en dr\u00f8m - han ville gerne v\u00e6re cykelrytter - det fik han chancen for."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Regionale nyheder fra \u00d8stjylland."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1531779300",
+            "date" : "2018",
+            "channel" : "tv2oj.dk",
+            "title" : {
+               "da" : "Nyheder fra \u00d8stjylland"
+            },
+            "new" : null,
+            "start" : "1531778100"
+         },
+         {
+            "stop" : "1531780200",
+            "start" : "1531779300",
+            "new" : null,
+            "channel" : "tv2oj.dk",
+            "title" : {
+               "da" : "Kolonihaven"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Der er stadig meget, der skal n\u00e5s, og mens Nancy har hemmeligheder for i haven, opdager Gert og s\u00f8nnen Kasper, at en d\u00f8r kan s\u00e6ttes i p\u00e5 mange forkerte m\u00e5der."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 21 af 25",
+               "xmltv_ns" : ". 20/25 ."
+            }
+         },
+         {
+            "stop" : "1531821600",
+            "new" : null,
+            "start" : "1531780200",
+            "channel" : "tv2oj.dk",
+            "title" : {
+               "da" : "Havemennesker"
+            },
+            "desc" : {
+               "da" : "Nu er to af haverne ved at v\u00e6re f\u00e6rdige: I Brabrand fryder Ane Stresino sig over den nye 22 meter lange sti med pergola, som hun har omkranset med lange bede med stauder og roser. I Gl. Rye har Emma og S\u00f8ren Frandsens store hvide hus helt \u00e6ndret karakter, efter der er anlagt terrasser og plantet og s\u00e5et omkring. Det har v\u00e6ret en k\u00e6mpe omgang, og ind i mellem har de v\u00e6ret ved at miste pusten."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 9 af 12",
+               "xmltv_ns" : ". 8/12 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         }
+      ]
+   }
+}

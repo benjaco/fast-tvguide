@@ -1,0 +1,289 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "new" : null,
+            "start" : "1531627200",
+            "desc" : {
+               "da" : "Frederiksberg Lokal TV"
+            },
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "channel" : "kanalhovedstaden.dk",
+            "title" : {
+               "da" : "Frederiksberg Lokal TV"
+            },
+            "stop" : "1531638000"
+         },
+         {
+            "new" : null,
+            "start" : "1531638000",
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "channel" : "kanalhovedstaden.dk",
+            "desc" : {
+               "da" : "Christiania TV"
+            },
+            "title" : {
+               "da" : "Christiania"
+            },
+            "stop" : "1531641600"
+         },
+         {
+            "stop" : "1531643400",
+            "new" : null,
+            "start" : "1531641600",
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "desc" : {
+               "da" : "TV Kronborg"
+            },
+            "channel" : "kanalhovedstaden.dk",
+            "title" : {
+               "da" : "TV Kronborg"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "title" : {
+               "da" : "TV Kronborg"
+            },
+            "desc" : {
+               "da" : "TV Kronborg"
+            },
+            "channel" : "kanalhovedstaden.dk",
+            "start" : "1531643400",
+            "new" : null,
+            "stop" : "1531645200"
+         },
+         {
+            "stop" : "1531647000",
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "title" : {
+               "da" : "TV Kronborg"
+            },
+            "desc" : {
+               "da" : "TV Kronborg"
+            },
+            "channel" : "kanalhovedstaden.dk",
+            "start" : "1531645200",
+            "new" : null
+         },
+         {
+            "start" : "1531647000",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "title" : {
+               "da" : "TRAFIK 8 del 2"
+            },
+            "desc" : {
+               "da" : "TRAFIK 8. Projekt for 8. klasser. Trafikofre fort\u00e6ller om deres ulykker og konsekvenser."
+            },
+            "channel" : "kanalhovedstaden.dk",
+            "stop" : "1531648800"
+         },
+         {
+            "stop" : "1531656000",
+            "start" : "1531655520",
+            "new" : null,
+            "channel" : "kanalhovedstaden.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "TV-Bella *Lokal-tv for Vanl\u00f8se og Br\u00f8nsh\u00f8j"
+            }
+         },
+         {
+            "stop" : "1531659600",
+            "new" : null,
+            "start" : "1531656000",
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "title" : {
+               "da" : "Vesterbro Lokal TV"
+            },
+            "desc" : {
+               "da" : "Vesterbro Lokal TV"
+            },
+            "channel" : "kanalhovedstaden.dk"
+         },
+         {
+            "stop" : "1531666800",
+            "desc" : {
+               "da" : "Public Access til Borgerne. KANAL 1 er en ikke-kommerciel lokal-tv station i hovedstadsregionen, der ? udover at producere k\u00f8benhavnsk lokal-tv ? ogs\u00e5 fors\u00f8ger at give kommunikationssvage grupper i plads i et massemedium, tv-mediet."
+            },
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "channel" : "kanalhovedstaden.dk",
+            "title" : {
+               "da" : "Kanal 1"
+            },
+            "new" : null,
+            "start" : "1531659600"
+         },
+         {
+            "new" : null,
+            "start" : "1531666800",
+            "channel" : "kanalhovedstaden.dk",
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "desc" : {
+               "da" : "17:00 TIDENS TEGN 18:00 TV 2 NYHEDERNE 18:30 DR1 TV AVISEN 19:00 TV 2 NYHEDERNE 20:00 DR1 TV AVISEN (GEN) 20:30 TV 2 NYHEDERNE (GEN)"
+            },
+            "title" : {
+               "da" : "Tegnsprogskanalen"
+            },
+            "stop" : "1531681200"
+         },
+         {
+            "stop" : "1531684800",
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "channel" : "kanalhovedstaden.dk",
+            "desc" : {
+               "da" : "Christiania TV"
+            },
+            "title" : {
+               "da" : "Christiania"
+            },
+            "new" : null,
+            "start" : "1531681200"
+         },
+         {
+            "stop" : "1531688400",
+            "new" : null,
+            "start" : "1531684800",
+            "title" : {
+               "da" : "Vesterbro Lokal TV"
+            },
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "desc" : {
+               "da" : "Vesterbro Lokal TV"
+            },
+            "channel" : "kanalhovedstaden.dk"
+         },
+         {
+            "new" : null,
+            "start" : "1531690140",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "kanalhovedstaden.dk",
+            "title" : {
+               "da" : "Hovedstaden"
+            },
+            "stop" : "1531690200"
+         },
+         {
+            "title" : {
+               "da" : "Mosaik"
+            },
+            "channel" : "kanalhovedstaden.dk",
+            "start" : "1531690200",
+            "new" : null,
+            "stop" : "1531691820",
+            "date" : "2018",
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "desc" : {
+               "da" : "Alternativet har f\u00e5et gennemf\u00f8rt et forslag om at nedbringe m\u00e6ngden af k\u00f8d i de k\u00f8benhavnske institutioner. Hvorfor er det s\u00e5 vigtigt? Studiev\u00e6rt Mads Tobias Olsen har Franciska Rosenkilde, medl. af Borgerrepr\u00e6sentation (\u00c5) og Kristian Sloth, Greenpeace til debat om madpolitikken i K\u00f8benhavns kommunes institutioner"
+            },
+            "subTitle" : {
+               "da" : "Madpolitik i K\u00f8benhavns kommunes institutioner"
+            }
+         },
+         {
+            "stop" : "1531692000",
+            "new" : null,
+            "start" : "1531691820",
+            "channel" : "kanalhovedstaden.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Hovedstaden"
+            }
+         },
+         {
+            "stop" : "1531711800",
+            "start" : "1531692000",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "desc" : {
+               "da" : "NUL TV"
+            },
+            "channel" : "kanalhovedstaden.dk",
+            "title" : {
+               "da" : "0 TV"
+            }
+         }
+      ]
+   }
+}

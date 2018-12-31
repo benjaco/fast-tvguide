@@ -10,11 +10,15 @@ import OngoingTime from "./OngoingTime";
 import Dates from "./Dates"
 import LoadScript from "./LoadScript"
 import DataRetriever from "./DataRetriever";
+import LoadCSS from "./LoadCSS"
 
 function requestAnimationFramePromise() {
     return new Promise((resolve, reject) => {
         requestAnimationFrame(resolve);
     })
+}
+function dobbleRAF() {
+    return requestAnimationFramePromise().then(requestAnimationFramePromise);
 }
 
 class App {
@@ -72,13 +76,10 @@ class App {
                 document.getElementsByClassName("channel-programs")[0].scrollLeft = (new Date()).getHours() * this.responsive.timeLength - 50;
 
 
-                return requestAnimationFramePromise()
-                    .then(_ => requestAnimationFramePromise())
-                    .then(_ => {
+                return dobbleRAF().then(_ => {
                         this.channelsIconRender.render(this.channelList.channels);
-                        return requestAnimationFramePromise();
+                        return dobbleRAF();
                     })
-                    .then(_ => requestAnimationFramePromise())
                     .then(_ => {
                         this.timelineRender.addMissingSetup();
                         this.timelineRender.addEventListener();
@@ -92,7 +93,7 @@ class App {
                         if((new Date()).getHours() + (this.responsive.width / this.responsive.timeLength) > 24) {
                             this.renderDayIfNeeded(1)
                         }
-                        return fetch("../server/data/channels/dk_channel_names_manuel.json")
+                        return fetch("../channel_names")
                     })
                     .then(r => r.json())
                     .catch(_ => {
@@ -104,6 +105,8 @@ class App {
                 this.channelsIconRender.addLabels(r);
 
                 this.timeRender.renderDays(this.week.length);
+
+                dobbleRAF().then(LoadCSS("style.min.css"));
             })
             .then(_ => LoadScript("show_program.js"))
             .then(_ => {

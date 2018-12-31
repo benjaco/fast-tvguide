@@ -1,0 +1,682 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "subTitle" : {
+               "da" : "Riff Raff"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 10 s\u00e6son 3",
+               "xmltv_ns" : "2 . 9 ."
+            },
+            "desc" : {
+               "da" : "Denne uge i et helt nyt afsnit af Ridiculousness: rapper Riff Raff viser sin Brain Freeze og tager med Rob for at analysere noget utroligt sh*t midt i centret."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "date" : "2013",
+            "stop" : "1531701000",
+            "start" : "1531699200",
+            "new" : null,
+            "title" : {
+               "da" : "Ridiculousness"
+            },
+            "channel" : "mtv.dk"
+         },
+         {
+            "date" : "2013",
+            "stop" : "1531702800",
+            "new" : null,
+            "start" : "1531701000",
+            "channel" : "mtv.dk",
+            "title" : {
+               "da" : "Ridiculousness"
+            },
+            "subTitle" : {
+               "da" : "Dominic Monaghan"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 10 .",
+               "onscreen" : "Afsnit 11 s\u00e6son 3"
+            },
+            "desc" : {
+               "da" : "Stjernen i Lost og Ringenes Herre Dominic Monaghan kommer forbi studiet for at m\u00e5be over nogle \"milde ting\" og se nogle uskyldige tilskuere f\u00e5 en \"vandskade\"!"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "A$AP Rocky"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 12 s\u00e6son 3",
+               "xmltv_ns" : "2 . 11 ."
+            },
+            "desc" : {
+               "da" : "Stjernen i Lost og Ringenes Herre Dominic Monaghan kommer forbi studiet for at m\u00e5be over nogle \"milde ting\" og se nogle uskyldige tilskuere f\u00e5 en \"vandskade\"!"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1531704600",
+            "date" : "2013",
+            "channel" : "mtv.dk",
+            "title" : {
+               "da" : "Ridiculousness"
+            },
+            "start" : "1531702800",
+            "new" : null
+         },
+         {
+            "stop" : "1531706400",
+            "date" : "2013",
+            "channel" : "mtv.dk",
+            "title" : {
+               "da" : "Ridiculousness"
+            },
+            "new" : null,
+            "start" : "1531704600",
+            "subTitle" : {
+               "da" : "Ray J"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 13 s\u00e6son 3",
+               "xmltv_ns" : "2 . 12 ."
+            },
+            "desc" : {
+               "da" : "Singer Ray J tager forbi studiet for at se noget \"knockout-underholdning\" og diskutere faren ved \"selfies\"."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "stop" : "1531713600",
+            "desc" : {
+               "da" : "MTV spiller de bedste musikvideoer - hele natten."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "mtv.dk",
+            "title" : {
+               "da" : "Night Videos"
+            },
+            "start" : "1531706400",
+            "new" : null
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "Morgenshowet med de perfekte klip at v\u00e5gne op til."
+            },
+            "new" : null,
+            "start" : "1531713600",
+            "title" : {
+               "da" : "MTV Breakfast Club"
+            },
+            "channel" : "mtv.dk",
+            "date" : "2009",
+            "stop" : "1531720800"
+         },
+         {
+            "stop" : "1531724400",
+            "start" : "1531720800",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "channel" : "mtv.dk",
+            "title" : {
+               "da" : "TOP 10 TRENDING VIDEOS"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Jenelle fort\u00e6ller Barbara og Jace, at hun er gravid, og Aubree begynder i 1. klasse. Jo skal dele Isaac med Kailyn og Javi, mens Leah tager sine d\u00f8tre med til Californien."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "6 . 18 .",
+               "onscreen" : "Afsnit 19 s\u00e6son 7"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Last to Know"
+            },
+            "channel" : "mtv.dk",
+            "title" : {
+               "da" : "Teen Mom 2"
+            },
+            "new" : null,
+            "start" : "1531724400",
+            "stop" : "1531728000",
+            "date" : "2011"
+         },
+         {
+            "subTitle" : {
+               "da" : "Fake Out"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "6 . 19 .",
+               "onscreen" : "Afsnit 20 s\u00e6son 7"
+            },
+            "desc" : {
+               "da" : "Leah f\u00e5r en overraskende besked om Aleeah. Jenelle tror, at Nathan pr\u00f8ver at vinde hende tilbage, og det bliver David ikke glad for. Kailyn og Isaac begynder i skolen, men det ekstra pres skaber splid mellem Jo og Vee."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "date" : "2011",
+            "stop" : "1531731600",
+            "start" : "1531728000",
+            "new" : null,
+            "channel" : "mtv.dk",
+            "title" : {
+               "da" : "Teen Mom 2"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Jenelle forbereder sig p\u00e5 den kommende retssag efter at have h\u00f8rt en overraskende nyhed om Nathan. Chelsea fejrer Aubrees syv\u00e5rs f\u00f8dselsdag. Jeremy kommer hjem fra South Dakota. Kailyn og Javis fremtid er uafklaret."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "6 . 20 .",
+               "onscreen" : "Afsnit 21 s\u00e6son 7"
+            },
+            "subTitle" : {
+               "da" : "I Don't Wanna Talk About It"
+            },
+            "title" : {
+               "da" : "Teen Mom 2"
+            },
+            "channel" : "mtv.dk",
+            "start" : "1531731600",
+            "new" : null,
+            "stop" : "1531735200",
+            "date" : "2011"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "desc" : {
+               "da" : "Jersey-pigen Daisy m\u00f8dte Marcus p\u00e5 Instagram og han stjal hendes hjerte, da han hjalp hende med problemer derhjemme. Men han vil ikke tale i telefon med hende eller m\u00f8des, s\u00e5 Nev og YouTube-stjernen Tyler Oakley pr\u00f8ver at arrangere et m\u00f8de."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 4",
+               "xmltv_ns" : "3 . 3 ."
+            },
+            "subTitle" : {
+               "da" : "Daisy & Marcus"
+            },
+            "new" : null,
+            "start" : "1531735200",
+            "channel" : "mtv.dk",
+            "title" : {
+               "da" : "Catfish: The TV Show"
+            },
+            "date" : "2012",
+            "stop" : "1531738800"
+         },
+         {
+            "desc" : {
+               "da" : "Chitara sprang ud for sin familie, da hun m\u00f8dte Priscilla online. Men Priscilla endte deres forhold uventet, og nu vil Chitara finde ud af, hvad der skete. Nev og skuespiller Alex Shaffer hj\u00e6lper Chitara med at opdage sandheden."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 4 .",
+               "onscreen" : "Afsnit 5 s\u00e6son 4"
+            },
+            "subTitle" : {
+               "da" : "Chitara & Priscilla"
+            },
+            "start" : "1531738800",
+            "new" : null,
+            "channel" : "mtv.dk",
+            "title" : {
+               "da" : "Catfish: The TV Show"
+            },
+            "date" : "2012",
+            "stop" : "1531742400"
+         },
+         {
+            "subTitle" : {
+               "da" : "Maci"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "F\u00f8r hun fandt ud af, at hun var gravid, var Maci en superelev fra Chattanooga, Tenessee. Da hendes k\u00e6reste Ryan ikke viser nogen interesse for at hj\u00e6lpe, skal Maci finde ud af, om deres forhold kan overleve, eller om hun st\u00e5r alene med udfordringerne."
+            },
+            "date" : "2010",
+            "stop" : "1531746000",
+            "new" : null,
+            "start" : "1531742400",
+            "title" : {
+               "da" : "16 and Pregnant"
+            },
+            "channel" : "mtv.dk"
+         },
+         {
+            "title" : {
+               "da" : "Jersey Shore"
+            },
+            "channel" : "mtv.dk",
+            "new" : null,
+            "start" : "1531746000",
+            "stop" : "1531749600",
+            "date" : "2009",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "desc" : {
+               "da" : "Sommeren p\u00e5 Jersey Shore bliver sparket igang da otte meget forskellige fremmede flytter ind i deres f\u00e6lles hus ved stranden. Romancerne blusser straks op da de m\u00f8des og Sammy og Mike er de f\u00f8rste til at knytte b\u00e5nd p\u00e5 Jersey Shore."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "da" : "A New Family"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Da Mike m\u00f8der Felicia gennem et datingsite sl\u00e5r det gnister. Men da de aftaler at m\u00f8des, dukker hun ikke op. Mike f\u00f8ler alligevel, at de har noget s\u00e6rligt. Kan Mike stole p\u00e5 Felicia eller beder han kun om at blive skuffet?"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 11 s\u00e6son 1",
+               "xmltv_ns" : "0 . 10 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Mike & Felicia"
+            },
+            "new" : null,
+            "start" : "1531749600",
+            "channel" : "mtv.dk",
+            "title" : {
+               "da" : "Catfish: The TV Show"
+            },
+            "date" : "2012",
+            "stop" : "1531753200"
+         },
+         {
+            "subTitle" : {
+               "da" : "Cassie & Steve"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 2",
+               "xmltv_ns" : "1 . 0 ."
+            },
+            "desc" : {
+               "da" : "Cassies liv gik sk\u00e6vt, indtil hun fik en venneanmodning fra rapperen Steve. Han blev den positive indflydelse, der fik hendes liv p\u00e5 rette kurs. 2 \u00bd \u00e5r senere er de forlovede, men har aldrig m\u00f8dt hinanden."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "date" : "2012",
+            "stop" : "1531756800",
+            "start" : "1531753200",
+            "new" : null,
+            "title" : {
+               "da" : "Catfish: The TV Show"
+            },
+            "channel" : "mtv.dk"
+         },
+         {
+            "subTitle" : {
+               "da" : "Anthony & Marq"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "desc" : {
+               "da" : "Anthony er Irak-veteranen, der g\u00e5r med f\u00f8lelserne uden p\u00e5 t\u00f8jet. For et \u00e5r siden m\u00f8dte han en s\u00f8d, single fyr, der hedder Marq. De er forelskede, men hvad skjuler Marq?"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 2",
+               "xmltv_ns" : "1 . 1 ."
+            },
+            "date" : "2012",
+            "stop" : "1531760400",
+            "new" : null,
+            "start" : "1531756800",
+            "title" : {
+               "da" : "Catfish: The TV Show"
+            },
+            "channel" : "mtv.dk"
+         },
+         {
+            "desc" : {
+               "da" : "Ramons eneste lyspunkt er Paola, en pige han m\u00f8dte p\u00e5 Facebook. Men efter flere mislykkede fors\u00f8g p\u00e5 at kontakte Paola, er hun s\u00e5 virkelig den, hun giver sig ud for at v\u00e6re?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 2",
+               "xmltv_ns" : "1 . 2 ."
+            },
+            "subTitle" : {
+               "da" : "Ramon & Paola"
+            },
+            "channel" : "mtv.dk",
+            "title" : {
+               "da" : "Catfish: The TV Show"
+            },
+            "new" : null,
+            "start" : "1531760400",
+            "stop" : "1531764000",
+            "date" : "2012"
+         },
+         {
+            "date" : "2012",
+            "stop" : "1531767600",
+            "new" : null,
+            "start" : "1531764000",
+            "channel" : "mtv.dk",
+            "title" : {
+               "da" : "Catfish: The TV Show"
+            },
+            "subTitle" : {
+               "da" : "Lauren & Derek"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "desc" : {
+               "da" : "Lauren m\u00f8dte Derek p\u00e5 MySpace for flere \u00e5r siden, men de har aldrig m\u00f8dt hinanden i virkeligheden. Derek er s\u00f8d og har st\u00f8ttet Lauren, der fik et barn med en tidligere k\u00e6reste. S\u00e5 hvorfor vil Derek ikke m\u00f8des med hende?"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 2",
+               "xmltv_ns" : "1 . 3 ."
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "201"
+            },
+            "desc" : {
+               "da" : "\"Teen Mom UK\" er tilbage. Chloe, Mia, Megan og Amber f\u00e5r selskab af en k\u00e6ph\u00f8j ny teenagemor. Der er t\u00e5rer, udbrug og \u00e6gte k\u00e6rlighed fra de britiske teenagere."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 2",
+               "xmltv_ns" : "1 . 0 ."
+            },
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "Series"
+               ]
+            },
+            "stop" : "1531771200",
+            "date" : "2016",
+            "channel" : "mtv.dk",
+            "title" : {
+               "da" : "Teen Mom UK"
+            },
+            "new" : null,
+            "start" : "1531767600"
+         },
+         {
+            "subTitle" : {
+               "da" : "Pomp and Circumstance"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 11 s\u00e6son 1",
+               "xmltv_ns" : "0 . 10 ."
+            },
+            "desc" : {
+               "da" : "Kayla og hendes mor m\u00f8des med en advokat. Brianna m\u00e5 fort\u00e6lle Danae den h\u00e5rde sandhed. Lexi f\u00e5r bes\u00f8g af sin far. Ashley og Bar tager babyen med p\u00e5 bes\u00f8g til Bars mor. Jade v\u00e6nner sig til livet uden Sean i huset."
+            },
+            "stop" : "1531774800",
+            "date" : "2018",
+            "title" : {
+               "da" : "Teen Mom: Young & Pregnant"
+            },
+            "channel" : "mtv.dk",
+            "new" : null,
+            "start" : "1531771200"
+         },
+         {
+            "subTitle" : {
+               "da" : "Chanel and Sterling XXXVI"
+            },
+            "desc" : {
+               "da" : "I dette nye afsnit af \"Ridiculousness\" tjekker Chanel og Sterling nogle \"Hverdagsdillere\" ud, ser nogle videoer, som bliver \"Hundebombede\" og folk, som er helt vildt \"Motorgode\"."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "7 . 25 .",
+               "onscreen" : "Afsnit 26 s\u00e6son 8"
+            },
+            "date" : "2013",
+            "stop" : "1531776600",
+            "new" : null,
+            "start" : "1531774800",
+            "title" : {
+               "da" : "Ridiculousness"
+            },
+            "channel" : "mtv.dk"
+         },
+         {
+            "stop" : "1531778400",
+            "date" : "2013",
+            "channel" : "mtv.dk",
+            "title" : {
+               "da" : "Ridiculousness"
+            },
+            "new" : null,
+            "start" : "1531776600",
+            "subTitle" : {
+               "da" : "Jerry Springer"
+            },
+            "desc" : {
+               "da" : "I aftenens nye afsnit af \"Ridiculousness\" kommer den legendariske programv\u00e6rt Jerry Springer og holder Rob, Chanel og Sterling med selskab i remsen \"Jerry! Jerry! Jerry!\" ser de \"Bedste b\u00e6ster\" og poster billeder p\u00e5 \"Inskade-gram\"."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 27 s\u00e6son 8",
+               "xmltv_ns" : "7 . 26 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 28 s\u00e6son 8",
+               "xmltv_ns" : "7 . 27 ."
+            },
+            "desc" : {
+               "da" : "I dette nye afsnit af \"Ridiculousness\" viser Rob Chanel og Sterling, hvordan man kontrollerer dyr i \"Dyrenes herrer\", det tragiske ved \"B\u00e6angreb\" og farerne ved \"Fodbomber\"."
+            },
+            "subTitle" : {
+               "da" : "Chanel and Sterling XXXVII"
+            },
+            "new" : null,
+            "start" : "1531778400",
+            "channel" : "mtv.dk",
+            "title" : {
+               "da" : "Ridiculousness"
+            },
+            "date" : "2013",
+            "stop" : "1531780200"
+         },
+         {
+            "subTitle" : {
+               "da" : "Jolene Van Vugt"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "I dette nye afsnit af \"Ridiculousness\" kigger stuntkvinden og Nitro Circus-stjernen Jolene Van Vugt forbi for at blive destruktiv med \"Smadregl\u00e6de\" og fanger det perfekte \u00f8jeblik i \"Rigtige sted, rigtige abe\"."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 29 s\u00e6son 8",
+               "xmltv_ns" : "7 . 28 ."
+            },
+            "stop" : "1531782000",
+            "date" : "2013",
+            "title" : {
+               "da" : "Ridiculousness"
+            },
+            "channel" : "mtv.dk",
+            "new" : null,
+            "start" : "1531780200"
+         },
+         {
+            "date" : "2013",
+            "stop" : "1531783800",
+            "start" : "1531782000",
+            "new" : null,
+            "title" : {
+               "da" : "Ridiculousness"
+            },
+            "channel" : "mtv.dk",
+            "subTitle" : {
+               "da" : "Chanel and Sterling XXXVIII"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 30 s\u00e6son 8",
+               "xmltv_ns" : "7 . 29 ."
+            },
+            "desc" : {
+               "da" : "I dette nye afsnit af \"Ridiculousness\" diskuterer Rob, Chanel og Sterling fuldegenialiteten i \"Drinkovat\u00f8rer\", udforsker den ejendommelige \"Vapernes planet\" og tester sk\u00e6bneganen i \"En smag af d\u00f8den\"."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Chanel and Sterling XXXIX"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "I niende s\u00e6sonpremiere af \"Ridiculousness\" bliver Rob, Chanel og Sterling \"Bortredigerede\", tager til \"Hell mart\" og nyder en delikat \"Gr\u00e6skarkrydret\"."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 9",
+               "xmltv_ns" : "8 . 0 ."
+            },
+            "date" : "2013",
+            "stop" : "1531785600",
+            "new" : null,
+            "start" : "1531783800",
+            "title" : {
+               "da" : "Ridiculousness"
+            },
+            "channel" : "mtv.dk"
+         }
+      ]
+   }
+}

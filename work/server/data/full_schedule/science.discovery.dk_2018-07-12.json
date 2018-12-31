@@ -1,0 +1,1332 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Lucky Accidents"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 1",
+               "xmltv_ns" : "0 . 2 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Vi ser p\u00e5 den sn\u00f8rklede vej til nogle af Silicon Valleys st\u00f8rste ikoner. Bl.a. med interview med centrale iv\u00e6rks\u00e6ttere."
+            },
+            "stop" : "1531356480",
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "Silicon Valley: The Untold Story"
+            },
+            "start" : "1531353600",
+            "new" : null
+         },
+         {
+            "new" : null,
+            "start" : "1531356480",
+            "title" : {
+               "da" : "What Could Possibly Go Wrong?"
+            },
+            "channel" : "science.discovery.dk",
+            "date" : "2015",
+            "stop" : "1531359360",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "desc" : {
+               "da" : "Grant og Kevin n\u00e5r nye h\u00f8jder med en gigantisk papirflyvemaskine, der kan flyve over 182 m. De bruger trykluft for at sikre den ultimative levering af \u00f8l."
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/291522",
+               "onscreen" : "Afsnit 8 s\u00e6son 1",
+               "xmltv_ns" : "0 . 7 ."
+            },
+            "subTitle" : {
+               "da" : "Deadly Donuts of Fire"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=291522&seasonid=611886&id=5260959&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            }
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=82403&seasonid=33439&id=373828&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "City At Sea (Super Ships)"
+            },
+            "desc" : {
+               "da" : "En serie, som viser de st\u00f8rste byggeprojekter. Den internationale rum-station er et globalt projekt, som vil koste milliarder af dollars og tage mange \u00e5r."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "thetvdb.com" : "series/82403",
+               "xmltv_ns" : "0 . 1 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1531362240",
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "Building the Biggest"
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Alex West"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Alex West"
+                  }
+               ]
+            },
+            "new" : null,
+            "start" : "1531359360"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Hvordan l\u00e6rer man en robot at masseproducere en bil? Og hvordan forvandles jordens st\u00f8rste fodboldstadion til den st\u00f8rste ishockeyarena? Find ud af det her."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8 s\u00e6son 8",
+               "thetvdb.com" : "series/80038",
+               "xmltv_ns" : "7 . 7 ."
+            },
+            "subTitle" : {
+               "da" : "Brewery; Playing Cards; Gulfstream"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=80038&seasonid=493827&id=4337627&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "start" : "1531362240",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Rupert Degas",
+                     "role" : "Narrator"
+                  }
+               ]
+            },
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "How Do They Do It?"
+            },
+            "date" : "2006",
+            "stop" : "1531363680"
+         },
+         {
+            "stop" : "1531365120",
+            "date" : "2014",
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "Food Factory USA"
+            },
+            "start" : "1531363680",
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=285389&seasonid=624001&id=5268872&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "More Deliciouser"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 12 .",
+               "onscreen" : "Afsnit 13 s\u00e6son 2",
+               "thetvdb.com" : "series/285389"
+            },
+            "desc" : {
+               "da" : "Se, hvad det kr\u00e6ver at opfylde eftersp\u00f8rgslen p\u00e5 Quiznos-sandwiches p\u00e5 en g\u00e5rd i Florida, og se, hvordan gr\u00f8nne tomater modnes dobbelt s\u00e5 hurtigt som normalt."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Bolts of Fire"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "'Sci-Trek' udforsker lynets kraft, som nogle gange dr\u00e6ber sine ofre, men f\u00e5r det uventede frem i andre. Og se, hvordan det er med til at p\u00e5virke de globale klimaforandringer."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 7 .",
+               "onscreen" : "Afsnit 8 s\u00e6son 1"
+            },
+            "stop" : "1531368000",
+            "new" : null,
+            "start" : "1531365120",
+            "title" : {
+               "da" : "Sci-Trek"
+            },
+            "channel" : "science.discovery.dk"
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 11 s\u00e6son 6",
+               "thetvdb.com" : "series/80038",
+               "xmltv_ns" : "5 . 10 ."
+            },
+            "desc" : {
+               "da" : "Se, hvordan robotter bygger biler, hvordan vinflasker forsegles, og hvordan havvand kan forvandles til friskt drikkevand."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Assembly Line Robots; Wine Bottles; Desalinize Sea Water"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=80038&seasonid=396461&id=4109884&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Rupert Degas",
+                     "role" : "Narrator"
+                  }
+               ]
+            },
+            "start" : "1531368000",
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "How Do They Do It?"
+            },
+            "date" : "2006",
+            "stop" : "1531369560"
+         },
+         {
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Lucky Accidents"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Vi ser p\u00e5 den sn\u00f8rklede vej til nogle af Silicon Valleys st\u00f8rste ikoner. Bl.a. med interview med centrale iv\u00e6rks\u00e6ttere."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1531372440",
+            "title" : {
+               "da" : "Silicon Valley: The Untold Story"
+            },
+            "channel" : "science.discovery.dk",
+            "new" : null,
+            "start" : "1531369560"
+         },
+         {
+            "stop" : "1531375320",
+            "title" : {
+               "da" : "Building the Biggest"
+            },
+            "channel" : "science.discovery.dk",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Alex West"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Alex West"
+                  }
+               ]
+            },
+            "new" : null,
+            "start" : "1531372440",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=82403&seasonid=33439&id=373828&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "City At Sea (Super Ships)"
+            },
+            "desc" : {
+               "da" : "En serie, som viser de st\u00f8rste byggeprojekter. Den internationale rum-station er et globalt projekt, som vil koste milliarder af dollars og tage mange \u00e5r."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "thetvdb.com" : "series/82403"
+            }
+         },
+         {
+            "stop" : "1531378200",
+            "date" : "2012",
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "NASA's Unexplained Files"
+            },
+            "start" : "1531375320",
+            "new" : null,
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=279357&seasonid=579361&id=4837988&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "Black Knight Rises"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Special Interest"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 2 .",
+               "thetvdb.com" : "series/279357",
+               "onscreen" : "Afsnit 3 s\u00e6son 1"
+            },
+            "desc" : {
+               "da" : "Et stykke af solen synes at v\u00e6re forsvundet. Gennem Hubble-rumteleskopet kan man se tusindvis af uidentificerede objekter, der bev\u00e6ger sig hurtigere end lyset. Bliver vi iagttaget?"
+            }
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=80038&seasonid=493827&id=4337627&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Brewery; Playing Cards; Gulfstream"
+            },
+            "desc" : {
+               "da" : "Hvordan l\u00e6rer man en robot at masseproducere en bil? Og hvordan forvandles jordens st\u00f8rste fodboldstadion til den st\u00f8rste ishockeyarena? Find ud af det her."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8 s\u00e6son 8",
+               "thetvdb.com" : "series/80038",
+               "xmltv_ns" : "7 . 7 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1531379640",
+            "date" : "2006",
+            "title" : {
+               "da" : "How Do They Do It?"
+            },
+            "channel" : "science.discovery.dk",
+            "start" : "1531378200",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Narrator",
+                     "name" : "Rupert Degas"
+                  }
+               ]
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 12 .",
+               "onscreen" : "Afsnit 13 s\u00e6son 2",
+               "thetvdb.com" : "series/285389"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Se, hvad det kr\u00e6ver at opfylde eftersp\u00f8rgslen p\u00e5 Quiznos-sandwiches p\u00e5 en g\u00e5rd i Florida, og se, hvordan gr\u00f8nne tomater modnes dobbelt s\u00e5 hurtigt som normalt."
+            },
+            "subTitle" : {
+               "da" : "More Deliciouser"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=285389&seasonid=624001&id=5268872&lid=10"
+            ],
+            "start" : "1531379640",
+            "new" : null,
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "Food Factory USA"
+            },
+            "date" : "2014",
+            "stop" : "1531381080"
+         },
+         {
+            "new" : null,
+            "start" : "1531381080",
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "Silicon Valley: The Untold Story"
+            },
+            "stop" : "1531383960",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Vi ser p\u00e5 den sn\u00f8rklede vej til nogle af Silicon Valleys st\u00f8rste ikoner. Bl.a. med interview med centrale iv\u00e6rks\u00e6ttere."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 1",
+               "xmltv_ns" : "0 . 2 ."
+            },
+            "subTitle" : {
+               "da" : "Lucky Accidents"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            }
+         },
+         {
+            "stop" : "1531386840",
+            "date" : "2015",
+            "title" : {
+               "da" : "What Could Possibly Go Wrong?"
+            },
+            "channel" : "science.discovery.dk",
+            "new" : null,
+            "start" : "1531383960",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=291522&seasonid=611886&id=5260959&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "Deadly Donuts of Fire"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/291522",
+               "onscreen" : "Afsnit 8 s\u00e6son 1",
+               "xmltv_ns" : "0 . 7 ."
+            },
+            "desc" : {
+               "da" : "Grant og Kevin n\u00e5r nye h\u00f8jder med en gigantisk papirflyvemaskine, der kan flyve over 182 m. De bruger trykluft for at sikre den ultimative levering af \u00f8l."
+            }
+         },
+         {
+            "stop" : "1531389720",
+            "start" : "1531386840",
+            "new" : null,
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Alex West"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Alex West"
+                  }
+               ]
+            },
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "Building the Biggest"
+            },
+            "subTitle" : {
+               "da" : "City At Sea (Super Ships)"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=82403&seasonid=33439&id=373828&lid=10"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "En serie, som viser de st\u00f8rste byggeprojekter. Den internationale rum-station er et globalt projekt, som vil koste milliarder af dollars og tage mange \u00e5r."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "thetvdb.com" : "series/82403",
+               "xmltv_ns" : "0 . 1 ."
+            }
+         },
+         {
+            "desc" : {
+               "da" : "'Sci-Trek' udforsker lynets kraft, som nogle gange dr\u00e6ber sine ofre, men f\u00e5r det uventede frem i andre. Og se, hvordan det er med til at p\u00e5virke de globale klimaforandringer."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8 s\u00e6son 1",
+               "xmltv_ns" : "0 . 7 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Bolts of Fire"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "start" : "1531389720",
+            "new" : null,
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "Sci-Trek"
+            },
+            "stop" : "1531392600"
+         },
+         {
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "NASA's Unexplained Files"
+            },
+            "start" : "1531392600",
+            "new" : null,
+            "stop" : "1531395480",
+            "date" : "2012",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Special Interest"
+               ]
+            },
+            "desc" : {
+               "da" : "Et stykke af solen synes at v\u00e6re forsvundet. Gennem Hubble-rumteleskopet kan man se tusindvis af uidentificerede objekter, der bev\u00e6ger sig hurtigere end lyset. Bliver vi iagttaget?"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 1",
+               "thetvdb.com" : "series/279357"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=279357&seasonid=579361&id=4837988&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Black Knight Rises"
+            }
+         },
+         {
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=80038&seasonid=493827&id=4337627&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "Brewery; Playing Cards; Gulfstream"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8 s\u00e6son 8",
+               "thetvdb.com" : "series/80038",
+               "xmltv_ns" : "7 . 7 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Hvordan l\u00e6rer man en robot at masseproducere en bil? Og hvordan forvandles jordens st\u00f8rste fodboldstadion til den st\u00f8rste ishockeyarena? Find ud af det her."
+            },
+            "stop" : "1531396920",
+            "date" : "2006",
+            "title" : {
+               "da" : "How Do They Do It?"
+            },
+            "channel" : "science.discovery.dk",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Rupert Degas",
+                     "role" : "Narrator"
+                  }
+               ]
+            },
+            "new" : null,
+            "start" : "1531395480"
+         },
+         {
+            "desc" : {
+               "da" : "Se, hvad det kr\u00e6ver at opfylde eftersp\u00f8rgslen p\u00e5 Quiznos-sandwiches p\u00e5 en g\u00e5rd i Florida, og se, hvordan gr\u00f8nne tomater modnes dobbelt s\u00e5 hurtigt som normalt."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 12 .",
+               "onscreen" : "Afsnit 13 s\u00e6son 2",
+               "thetvdb.com" : "series/285389"
+            },
+            "subTitle" : {
+               "da" : "More Deliciouser"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=285389&seasonid=624001&id=5268872&lid=10"
+            ],
+            "start" : "1531396920",
+            "new" : null,
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "Food Factory USA"
+            },
+            "date" : "2014",
+            "stop" : "1531398360"
+         },
+         {
+            "subTitle" : {
+               "da" : "Lucky Accidents"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Vi ser p\u00e5 den sn\u00f8rklede vej til nogle af Silicon Valleys st\u00f8rste ikoner. Bl.a. med interview med centrale iv\u00e6rks\u00e6ttere."
+            },
+            "stop" : "1531401240",
+            "start" : "1531398360",
+            "new" : null,
+            "title" : {
+               "da" : "Silicon Valley: The Untold Story"
+            },
+            "channel" : "science.discovery.dk"
+         },
+         {
+            "stop" : "1531404120",
+            "date" : "2015",
+            "title" : {
+               "da" : "What Could Possibly Go Wrong?"
+            },
+            "channel" : "science.discovery.dk",
+            "new" : null,
+            "start" : "1531401240",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=291522&seasonid=611886&id=5260959&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Deadly Donuts of Fire"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/291522",
+               "onscreen" : "Afsnit 8 s\u00e6son 1",
+               "xmltv_ns" : "0 . 7 ."
+            },
+            "desc" : {
+               "da" : "Grant og Kevin n\u00e5r nye h\u00f8jder med en gigantisk papirflyvemaskine, der kan flyve over 182 m. De bruger trykluft for at sikre den ultimative levering af \u00f8l."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "stop" : "1531407000",
+            "date" : "2012",
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "NASA's Unexplained Files"
+            },
+            "start" : "1531404120",
+            "new" : null,
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=279357&seasonid=579361&id=4837988&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "Black Knight Rises"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Special Interest"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 1",
+               "thetvdb.com" : "series/279357"
+            },
+            "desc" : {
+               "da" : "Et stykke af solen synes at v\u00e6re forsvundet. Gennem Hubble-rumteleskopet kan man se tusindvis af uidentificerede objekter, der bev\u00e6ger sig hurtigere end lyset. Bliver vi iagttaget?"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "What Animals Build"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "desc" : {
+               "da" : "Se dyrenes fascinerende ingeni\u00f8rv\u00e6rker som edderkoppespind, bikager og b\u00e6verd\u00e6mninger, der kan konkurrere med - og nogle gange endda overg\u00e5r - menneskets konstruktioner."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 8 .",
+               "onscreen" : "Afsnit 9 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "stop" : "1531410000",
+            "start" : "1531407000",
+            "new" : null,
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "Sci-Trek"
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "7 . 8 .",
+               "thetvdb.com" : "series/80038",
+               "onscreen" : "Afsnit 9 s\u00e6son 8"
+            },
+            "desc" : {
+               "da" : "Hvordan laves en harmonika? Hvordan tilberedes den wasabi, som giver den japanske sushi et ekstra spark? Og hvordan kommer man frem til en lokkefl\u00f8jte, som narrer \u00e6nderne?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Roulette Tables; Olive Oil; Batmobile"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=80038&seasonid=493827&id=4337628&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "start" : "1531410000",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Rupert Degas",
+                     "role" : "Narrator"
+                  }
+               ]
+            },
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "How Do They Do It?"
+            },
+            "date" : "2006",
+            "stop" : "1531411500"
+         },
+         {
+            "title" : {
+               "da" : "Food Factory USA"
+            },
+            "channel" : "science.discovery.dk",
+            "new" : null,
+            "start" : "1531411500",
+            "stop" : "1531413000",
+            "date" : "2014",
+            "desc" : {
+               "da" : "Produktion af osteprodukter, bl.a. gedeost, cheddar-kaninkiks, osterejer, spr\u00f8de mozzarella-st\u00e6nger og Papa John's pizza."
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/285389",
+               "onscreen" : "Afsnit 14 s\u00e6son 2",
+               "xmltv_ns" : "1 . 13 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=285389&seasonid=624001&id=5305922&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Cheesiest Episode Ever"
+            }
+         },
+         {
+            "stop" : "1531414500",
+            "date" : "2001",
+            "title" : {
+               "da" : "How It's Made"
+            },
+            "channel" : "science.discovery.dk",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Narrator",
+                     "name" : "Marie-H\u00e9l\u00e8ne Fortin"
+                  },
+                  {
+                     "name" : "Jean-Luc Brassard",
+                     "role" : "Narrateur"
+                  },
+                  {
+                     "name" : "Vincent Graton",
+                     "role" : "Narrator"
+                  }
+               ]
+            },
+            "start" : "1531413000",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=79485&seasonid=637969&id=5332731&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "rating" : {
+               "stars" : "7.7 / 9"
+            },
+            "subTitle" : {
+               "da" : "Time-Delay Locks; Brownies; Pallet Dispensers; Crystal Chandeliers"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Flere hverdagsting kommer under mikroskopet, n\u00e5r vi ser n\u00e6rmere p\u00e5, hvordan de er lavet. Hvordan fremstiller man henholdsvis dumplings og vandhaner af messing?"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "25 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 26",
+               "thetvdb.com" : "series/79485"
+            }
+         },
+         {
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=79485&seasonid=618565&id=5181693&lid=10"
+            ],
+            "rating" : {
+               "stars" : "7.7 / 9"
+            },
+            "subTitle" : {
+               "da" : "Grammy Awards; Bicycle Lights; Above-Ground Pools; Foldable Solar Panels"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Vi zoomer ind p\u00e5, hvordan alverdens hverdagsting bliver produceret. Hvordan fremstilles ting som glaktoboureko, CO2-skrubbere og honninglys?"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/79485",
+               "onscreen" : "Afsnit 1 s\u00e6son 25",
+               "xmltv_ns" : "24 . 0 ."
+            },
+            "stop" : "1531416000",
+            "date" : "2001",
+            "title" : {
+               "da" : "How It's Made"
+            },
+            "channel" : "science.discovery.dk",
+            "new" : null,
+            "start" : "1531414500",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Marie-H\u00e9l\u00e8ne Fortin",
+                     "role" : "Narrator"
+                  },
+                  {
+                     "role" : "Narrateur",
+                     "name" : "Jean-Luc Brassard"
+                  },
+                  {
+                     "name" : "Vincent Graton",
+                     "role" : "Narrator"
+                  }
+               ]
+            }
+         },
+         {
+            "stop" : "1531419000",
+            "new" : null,
+            "start" : "1531416000",
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "Building the Biggest"
+            },
+            "subTitle" : {
+               "da" : "Super Jumbo Jet (Sky Giants)"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=82403&seasonid=33439&id=373829&lid=10"
+            ],
+            "desc" : {
+               "da" : "Stig p\u00e5 og m\u00e6rk adrenalinen, n\u00e5r tre forlystelsesparker s\u00e6tter millioner p\u00e5 spil, mens de kappes om at bygge den st\u00f8rste rutchebane."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 1",
+               "thetvdb.com" : "series/82403",
+               "xmltv_ns" : "0 . 2 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Der er tegn p\u00e5, at en fjern planet har en jordlignende atmosf\u00e6re, og et s\u00e6rt gl\u00f8dende lys p\u00e5 M\u00e5nen forvirrer astronauter. Er det bevis p\u00e5 et nedstyrtet ikkejordisk rumskib?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Special Interest"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 3 .",
+               "onscreen" : "Afsnit 4 s\u00e6son 1",
+               "thetvdb.com" : "series/279357"
+            },
+            "subTitle" : {
+               "da" : "Interstellar Gold Rush"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=279357&seasonid=579361&id=4837989&lid=10"
+            ],
+            "new" : null,
+            "start" : "1531419000",
+            "title" : {
+               "da" : "NASA's Unexplained Files"
+            },
+            "channel" : "science.discovery.dk",
+            "date" : "2012",
+            "stop" : "1531422000"
+         },
+         {
+            "new" : null,
+            "start" : "1531422000",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Narrator",
+                     "name" : "Marie-H\u00e9l\u00e8ne Fortin"
+                  },
+                  {
+                     "role" : "Narrateur",
+                     "name" : "Jean-Luc Brassard"
+                  },
+                  {
+                     "role" : "Narrator",
+                     "name" : "Vincent Graton"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "How It's Made"
+            },
+            "channel" : "science.discovery.dk",
+            "date" : "2001",
+            "stop" : "1531423500",
+            "desc" : {
+               "da" : "Flere hverdagsting kommer under mikroskopet, n\u00e5r vi ser n\u00e6rmere p\u00e5, hvordan de er lavet. Hvordan fremstiller man henholdsvis dumplings og vandhaner af messing?"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/79485",
+               "onscreen" : "Afsnit 1 s\u00e6son 26",
+               "xmltv_ns" : "25 . 0 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Time-Delay Locks; Brownies; Pallet Dispensers; Crystal Chandeliers"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=79485&seasonid=637969&id=5332731&lid=10"
+            ],
+            "rating" : {
+               "stars" : "7.7 / 9"
+            }
+         },
+         {
+            "title" : {
+               "da" : "How It's Made"
+            },
+            "channel" : "science.discovery.dk",
+            "new" : null,
+            "start" : "1531423500",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Marie-H\u00e9l\u00e8ne Fortin",
+                     "role" : "Narrator"
+                  },
+                  {
+                     "role" : "Narrateur",
+                     "name" : "Jean-Luc Brassard"
+                  },
+                  {
+                     "role" : "Narrator",
+                     "name" : "Vincent Graton"
+                  }
+               ]
+            },
+            "stop" : "1531425000",
+            "date" : "2001",
+            "episodeNum" : {
+               "xmltv_ns" : "24 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 25",
+               "thetvdb.com" : "series/79485"
+            },
+            "desc" : {
+               "da" : "Vi zoomer ind p\u00e5, hvordan alverdens hverdagsting bliver produceret. Hvordan fremstilles ting som glaktoboureko, CO2-skrubbere og honninglys?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "rating" : {
+               "stars" : "7.7 / 9"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=79485&seasonid=618565&id=5181693&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "Grammy Awards; Bicycle Lights; Above-Ground Pools; Foldable Solar Panels"
+            }
+         },
+         {
+            "stop" : "1531428000",
+            "date" : "2015",
+            "title" : {
+               "da" : "What Could Possibly Go Wrong?"
+            },
+            "channel" : "science.discovery.dk",
+            "new" : null,
+            "start" : "1531425000",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=291522&seasonid=611886&id=5261778&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Kingpins of Chaos"
+            },
+            "desc" : {
+               "da" : "Kevin og Grant \u00e6ndrer en gokart, s\u00e5 den kan k\u00f8re hurtigere end en lastbil i direkte dragracing. Og gutterne spiller paintball i m\u00f8rke med hjemmelavede natbriller."
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/291522",
+               "onscreen" : "Afsnit 9 s\u00e6son 1",
+               "xmltv_ns" : "0 . 8 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "date" : "2006",
+            "stop" : "1531429500",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Rupert Degas",
+                     "role" : "Narrator"
+                  }
+               ]
+            },
+            "new" : null,
+            "start" : "1531428000",
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "How Do They Do It?"
+            },
+            "subTitle" : {
+               "da" : "Roulette Tables; Olive Oil; Batmobile"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=80038&seasonid=493827&id=4337628&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/80038",
+               "onscreen" : "Afsnit 9 s\u00e6son 8",
+               "xmltv_ns" : "7 . 8 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Hvordan laves en harmonika? Hvordan tilberedes den wasabi, som giver den japanske sushi et ekstra spark? Og hvordan kommer man frem til en lokkefl\u00f8jte, som narrer \u00e6nderne?"
+            }
+         },
+         {
+            "new" : null,
+            "start" : "1531429500",
+            "title" : {
+               "da" : "Food Factory USA"
+            },
+            "channel" : "science.discovery.dk",
+            "date" : "2014",
+            "stop" : "1531431000",
+            "desc" : {
+               "da" : "Produktion af osteprodukter, bl.a. gedeost, cheddar-kaninkiks, osterejer, spr\u00f8de mozzarella-st\u00e6nger og Papa John's pizza."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 13 .",
+               "onscreen" : "Afsnit 14 s\u00e6son 2",
+               "thetvdb.com" : "series/285389"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Cheesiest Episode Ever"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=285389&seasonid=624001&id=5305922&lid=10"
+            ]
+         },
+         {
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "Building the Biggest"
+            },
+            "start" : "1531431000",
+            "new" : null,
+            "stop" : "1531434000",
+            "desc" : {
+               "da" : "Stig p\u00e5 og m\u00e6rk adrenalinen, n\u00e5r tre forlystelsesparker s\u00e6tter millioner p\u00e5 spil, mens de kappes om at bygge den st\u00f8rste rutchebane."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 1",
+               "thetvdb.com" : "series/82403"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=82403&seasonid=33439&id=373829&lid=10"
+            ],
+            "subTitle" : {
+               "da" : "Super Jumbo Jet (Sky Giants)"
+            }
+         },
+         {
+            "stop" : "1531437000",
+            "start" : "1531434000",
+            "new" : null,
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "Sci-Trek"
+            },
+            "subTitle" : {
+               "da" : "What Animals Build"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "desc" : {
+               "da" : "Se dyrenes fascinerende ingeni\u00f8rv\u00e6rker som edderkoppespind, bikager og b\u00e6verd\u00e6mninger, der kan konkurrere med - og nogle gange endda overg\u00e5r - menneskets konstruktioner."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 8 .",
+               "onscreen" : "Afsnit 9 s\u00e6son 1"
+            }
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=279357&seasonid=579361&id=4837989&lid=10"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "subTitle" : {
+               "da" : "Interstellar Gold Rush"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 1",
+               "thetvdb.com" : "series/279357",
+               "xmltv_ns" : "0 . 3 ."
+            },
+            "desc" : {
+               "da" : "Der er tegn p\u00e5, at en fjern planet har en jordlignende atmosf\u00e6re, og et s\u00e6rt gl\u00f8dende lys p\u00e5 M\u00e5nen forvirrer astronauter. Er det bevis p\u00e5 et nedstyrtet ikkejordisk rumskib?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary",
+                  "Special Interest"
+               ]
+            },
+            "stop" : "1531440000",
+            "date" : "2012",
+            "channel" : "science.discovery.dk",
+            "title" : {
+               "da" : "NASA's Unexplained Files"
+            },
+            "start" : "1531437000",
+            "new" : null
+         }
+      ]
+   }
+}

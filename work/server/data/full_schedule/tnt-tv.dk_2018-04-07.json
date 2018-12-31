@@ -1,0 +1,631 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "title" : {
+               "da" : "Investigators (Nordic)"
+            },
+            "start" : "1523060700",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "5. 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 6"
+            },
+            "subTitle" : {
+               "da" : "Soundtrack For Murder"
+            },
+            "stop" : "1523064000",
+            "new" : null,
+            "channel" : "tnt-tv.dk"
+         },
+         {
+            "title" : {
+               "da" : "Investigators (Nordic)"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1523064000",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 6",
+               "xmltv_ns" : "5. 2 ."
+            },
+            "stop" : "1523067300",
+            "subTitle" : {
+               "da" : "The Erie Massacre"
+            },
+            "channel" : "tnt-tv.dk",
+            "new" : null
+         },
+         {
+            "start" : "1523067300",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=251100&seasonid=472043&id=4153018&lid=10"
+            ],
+            "title" : {
+               "da" : "Haunting Evidence"
+            },
+            "stop" : "1523069100",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Patrick Burns",
+                     "role" : "Investigator"
+                  },
+                  {
+                     "role" : "Medium",
+                     "name" : "John J. Oliver"
+                  },
+                  {
+                     "name" : "Carla Baron",
+                     "role" : "Psychic Profiler"
+                  },
+                  {
+                     "name" : "Carla Baron, John J. Oliver, Patrick Burns"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Mystery on the Appalachian Trail"
+            },
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "episodeNum" : {
+               "thetvdb.com" : "series/251100",
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "date" : "2005"
+         },
+         {
+            "date" : "2005",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "xmltv_ns" : "0 . 1 .",
+               "thetvdb.com" : "series/251100"
+            },
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "subTitle" : {
+               "da" : "Mystery in the Ashes"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Investigator",
+                     "name" : "Patrick Burns"
+                  },
+                  {
+                     "name" : "John J. Oliver",
+                     "role" : "Medium"
+                  },
+                  {
+                     "name" : "Carla Baron",
+                     "role" : "Psychic Profiler"
+                  },
+                  {
+                     "name" : "Carla Baron, John J. Oliver, Patrick Burns"
+                  }
+               ]
+            },
+            "stop" : "1523070600",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=251100&seasonid=472043&id=4153019&lid=10"
+            ],
+            "title" : {
+               "da" : "Haunting Evidence"
+            },
+            "start" : "1523069100",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 3 .",
+               "onscreen" : "Afsnit 4 s\u00e6son 1",
+               "thetvdb.com" : "series/251100"
+            },
+            "date" : "2005",
+            "subTitle" : {
+               "da" : "The Missing D.A."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Investigator",
+                     "name" : "Patrick Burns"
+                  },
+                  {
+                     "role" : "Medium",
+                     "name" : "John J. Oliver"
+                  },
+                  {
+                     "name" : "Carla Baron",
+                     "role" : "Psychic Profiler"
+                  },
+                  {
+                     "name" : "Carla Baron, John J. Oliver, Patrick Burns"
+                  }
+               ]
+            },
+            "stop" : "1523072100",
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "title" : {
+               "da" : "Haunting Evidence"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=251100&seasonid=472043&id=4153021&lid=10"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "start" : "1523070600"
+         },
+         {
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Patrick Burns",
+                     "role" : "Investigator"
+                  },
+                  {
+                     "role" : "Medium",
+                     "name" : "John J. Oliver"
+                  },
+                  {
+                     "role" : "Psychic Profiler",
+                     "name" : "Carla Baron"
+                  },
+                  {
+                     "name" : "Carla Baron, John J. Oliver, Patrick Burns"
+                  }
+               ]
+            },
+            "stop" : "1523073600",
+            "subTitle" : {
+               "da" : "Hidden Truth"
+            },
+            "date" : "2005",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 4 .",
+               "onscreen" : "Afsnit 5 s\u00e6son 1",
+               "thetvdb.com" : "series/251100"
+            },
+            "start" : "1523072100",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=251100&seasonid=472043&id=4153022&lid=10"
+            ],
+            "title" : {
+               "da" : "Haunting Evidence"
+            }
+         },
+         {
+            "start" : "1523073600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Psychic Detectives"
+            },
+            "new" : null,
+            "channel" : "tnt-tv.dk",
+            "subTitle" : {
+               "da" : "One Step Behind"
+            },
+            "stop" : "1523075100",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 13 s\u00e6son 4",
+               "xmltv_ns" : "3. 12 ."
+            }
+         },
+         {
+            "title" : {
+               "da" : "Investigators (Nordic)"
+            },
+            "start" : "1523075100",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0. 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 1"
+            },
+            "new" : null,
+            "channel" : "tnt-tv.dk",
+            "subTitle" : {
+               "da" : "Badge of Dishonor"
+            },
+            "stop" : "1523078100"
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "0. 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 1"
+            },
+            "stop" : "1523080800",
+            "subTitle" : {
+               "da" : "Cold Clues: The Peppin Case & The Smith Case"
+            },
+            "new" : null,
+            "channel" : "tnt-tv.dk",
+            "title" : {
+               "da" : "Investigators (Nordic)"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1523078100"
+         },
+         {
+            "title" : {
+               "da" : "Tnt Teleshopping"
+            },
+            "stop" : "1523088000",
+            "start" : "1523080800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "channel" : "tnt-tv.dk"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1523088000",
+            "title" : {
+               "da" : "Psychic Detectives"
+            },
+            "subTitle" : {
+               "da" : "Secrets in the Forest"
+            },
+            "stop" : "1523089800",
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "5. 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 6"
+            }
+         },
+         {
+            "new" : null,
+            "channel" : "tnt-tv.dk",
+            "subTitle" : {
+               "da" : "Mental Maps"
+            },
+            "stop" : "1523091600",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0. 0 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1523089800",
+            "title" : {
+               "da" : "Psychic Detectives"
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "xmltv_ns" : "0. 1 ."
+            },
+            "subTitle" : {
+               "da" : "Send the Divers Back"
+            },
+            "stop" : "1523093400",
+            "new" : null,
+            "channel" : "tnt-tv.dk",
+            "title" : {
+               "da" : "Psychic Detectives"
+            },
+            "start" : "1523091600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "xmltv_ns" : "0. 1 ."
+            },
+            "new" : null,
+            "channel" : "tnt-tv.dk",
+            "stop" : "1523097000",
+            "subTitle" : {
+               "da" : "Bird in the Hand"
+            },
+            "title" : {
+               "da" : "The Glades"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1523093400"
+         },
+         {
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "stop" : "1523100300",
+            "subTitle" : {
+               "da" : "A Perfect Storm"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0. 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 1"
+            },
+            "start" : "1523097000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "The Glades"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1523100300",
+            "title" : {
+               "da" : "Fairly Legal"
+            },
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "stop" : "1523103600",
+            "subTitle" : {
+               "da" : "Satisfaction"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 2",
+               "xmltv_ns" : "1. 0 ."
+            }
+         },
+         {
+            "title" : {
+               "da" : "Fairly Legal"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1523103600",
+            "episodeNum" : {
+               "xmltv_ns" : "1. 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 2"
+            },
+            "subTitle" : {
+               "da" : "Start Me Up"
+            },
+            "stop" : "1523106900",
+            "channel" : "tnt-tv.dk",
+            "new" : null
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "0. 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            },
+            "stop" : "1523110200",
+            "subTitle" : {
+               "da" : "Fake"
+            },
+            "new" : null,
+            "channel" : "tnt-tv.dk",
+            "title" : {
+               "da" : "Chicago Justice"
+            },
+            "start" : "1523106900",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "xmltv_ns" : "0. 1 ."
+            },
+            "subTitle" : {
+               "da" : "Uncertainty Principle"
+            },
+            "stop" : "1523113800",
+            "new" : null,
+            "channel" : "tnt-tv.dk",
+            "title" : {
+               "da" : "Chicago Justice"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1523110200"
+         },
+         {
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "subTitle" : {
+               "da" : "Born to Run"
+            },
+            "stop" : "1523117400",
+            "episodeNum" : {
+               "xmltv_ns" : "0. 6 .",
+               "onscreen" : "Afsnit 7 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1523113800",
+            "title" : {
+               "da" : "Rizzoli & Isles"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1523117400",
+            "title" : {
+               "da" : "Rizzoli & Isles"
+            },
+            "new" : null,
+            "channel" : "tnt-tv.dk",
+            "stop" : "1523121000",
+            "subTitle" : {
+               "da" : "I'm Your Boogie Man"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8 s\u00e6son 1",
+               "xmltv_ns" : "0. 7 ."
+            }
+         },
+         {
+            "title" : {
+               "da" : "Rizzoli & Isles"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1523121000",
+            "episodeNum" : {
+               "xmltv_ns" : "0. 8 .",
+               "onscreen" : "Afsnit 9 s\u00e6son 1"
+            },
+            "stop" : "1523124300",
+            "subTitle" : {
+               "da" : "The Beast in Me"
+            },
+            "channel" : "tnt-tv.dk",
+            "new" : null
+         },
+         {
+            "start" : "1523124300",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Rizzoli & Isles"
+            },
+            "channel" : "tnt-tv.dk",
+            "new" : null,
+            "subTitle" : {
+               "da" : "When the Gun Goes Bang, Bang, Bang"
+            },
+            "stop" : "1523127600",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 10 s\u00e6son 1",
+               "xmltv_ns" : "0. 9 ."
+            }
+         },
+         {
+            "title" : {
+               "da" : "Pulp Fiction"
+            },
+            "start" : "1523127600",
+            "stop" : "1523137800",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "channel" : "tnt-tv.dk"
+         },
+         {
+            "title" : {
+               "da" : "Black Rain"
+            },
+            "new" : null,
+            "channel" : "tnt-tv.dk",
+            "stop" : "1523145900",
+            "start" : "1523137800",
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Series"
+               ]
+            }
+         }
+      ]
+   }
+}

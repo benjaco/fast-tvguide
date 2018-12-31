@@ -1,0 +1,802 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "stop" : "1523170800",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "DK"
+            ],
+            "date" : "2018",
+            "title" : {
+               "da" : "Deadline Nat"
+            },
+            "channel" : "dr2.dr.dk",
+            "desc" : {
+               "da" : "Genudsendelser af aftenens Deadline med udfordrende og overraskende perspektiver p\u00e5 dagens og tidens v\u00e6sentligste historier."
+            },
+            "start" : "1523145900"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "new" : null,
+            "stop" : "1523172600",
+            "date" : "2018",
+            "start" : "1523170800",
+            "channel" : "dr2.dr.dk",
+            "title" : {
+               "da" : "Nyheder fra Gr\u00f8nland"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "DK"
+            ]
+         },
+         {
+            "country" : [
+               "DK"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "title" : {
+               "da" : "JERSILD om Trump"
+            },
+            "desc" : {
+               "da" : "Er Trump gal eller genial? Jens Olaf Jersild og g\u00e6ster analyserer hver uge hvad der reelt foreg\u00e5r i toppen af amerikansk politik - intet er som f\u00f8r Trump."
+            },
+            "start" : "1523172600",
+            "channel" : "dr2.dr.dk",
+            "date" : "2018",
+            "stop" : "1523174400",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            }
+         },
+         {
+            "new" : null,
+            "stop" : "1523177100",
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "country" : [
+               "DK"
+            ],
+            "channel" : "dr2.dr.dk",
+            "desc" : {
+               "da" : "Jens Olaf Jersild og hans panel sk\u00e6rer igennem spin og mediebilleder for at finde ud af hvad der reelt foreg\u00e5r i dansk politik."
+            },
+            "start" : "1523174400",
+            "title" : {
+               "da" : "JERSILD minus SPIN"
+            },
+            "date" : "2018"
+         },
+         {
+            "new" : null,
+            "stop" : "1523180700",
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "country" : [
+               "DK"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2018",
+            "start" : "1523177100",
+            "channel" : "dr2.dr.dk",
+            "title" : {
+               "da" : "Debatten"
+            }
+         },
+         {
+            "new" : null,
+            "stop" : "1523182500",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "country" : [
+               "DK"
+            ],
+            "desc" : {
+               "da" : "- tjekker fakta og tal i den aktuelle debat og unders\u00f8ger, i hvor h\u00f8j grad det, magthavere, meningsdannere og medier siger, faktisk kan dokumenteres."
+            },
+            "start" : "1523180700",
+            "channel" : "dr2.dr.dk",
+            "title" : {
+               "da" : "Detektor"
+            },
+            "date" : "2018"
+         },
+         {
+            "country" : [
+               "DK"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "start" : "1523182500",
+            "desc" : {
+               "da" : "Dansk reportageserie fra 2012 Vi vokser op til eventyrene om prinsen p\u00e5 den hvide hest og dr\u00f8mmen om den eneste ene, men i virkelighedens verden har vi rigtig sv\u00e6rt ved k\u00e6rligheden. Knap halvdelen af os bliver skilt og flere og flere lever som singler. I denne serie unders\u00f8ger vi, hvad videnskaben kan l\u00e6re os om forelskelse, forhold og konflikter. I f\u00f8rste program unders\u00f8ger vi hvilke mekanismer der afg\u00f8r det f\u00f8rste m\u00f8de. Kan man snyde sig mere tiltr\u00e6kkende? Er det klogt at dyrke sex? Og kan P-piller vise sig sk\u00e6bnesvangre og forstyrre vores naturlige valg? Sendt f\u00f8rste gang 19.09.2012."
+            },
+            "channel" : "dr2.dr.dk",
+            "title" : {
+               "da" : "K\u00e6rlighedens Laboratorium"
+            },
+            "date" : "2012",
+            "new" : null,
+            "previously_shown" : "dr2.dr.dk|2018-04-03 16:30:00",
+            "stop" : "1523184300",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 7",
+               "xmltv_ns" : ". 0/7 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : ". 1/7 .",
+               "onscreen" : "Afsnit 2 af 7"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "new" : null,
+            "previously_shown" : "dr2.dr.dk|2018-04-04 16:30:00",
+            "stop" : "1523186100",
+            "date" : "2012",
+            "desc" : {
+               "da" : "Dansk reportageserie fra 2012 Forelskelse g\u00f8r os blind over for partnerens fejl, s\u00e5 kan vi overhovedet bruge den f\u00f8lelse til at skabe et lykkeligt forhold? Og hvorfor ligner forelskelse tvangstanker? Det unders\u00f8ger v\u00e6rt Thomas Breinholt i dagens program. Vi vokser op til eventyrene om prinsen p\u00e5 den hvide hest og dr\u00f8mmen om den eneste ene, men i virkelighedens verden har vi rigtig sv\u00e6rt ved k\u00e6rligheden. Knap halvdelen af os bliver skilt og flere og flere lever som singler. I denne serie unders\u00f8ger Thomas Breinholt, hvad videnskaben kan l\u00e6re os om forelskelse, forhold og konflikter. Sendt f\u00f8rste gang 26.09.2012."
+            },
+            "channel" : "dr2.dr.dk",
+            "start" : "1523184300",
+            "title" : {
+               "da" : "K\u00e6rlighedens Laboratorium"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "DK"
+            ]
+         },
+         {
+            "title" : {
+               "da" : "K\u00e6rlighedens Laboratorium"
+            },
+            "start" : "1523186100",
+            "desc" : {
+               "da" : "Hvordan ved du, om du har fundet den rette partner? Hvad afg\u00f8r, om et parforhold fungerer p\u00e5 l\u00e6ngere sigt? Det unders\u00f8ger v\u00e6rt Thomas Breinholt i dagens program, hvor en amerikansk professor ogs\u00e5 tester om et forelsket par vil blive sammen - eller g\u00e5 fra hinanden senere i livet. Vi vokser op til eventyrene om prinsen p\u00e5 den hvide hest og dr\u00f8mmen om den eneste ene, men i virkelighedens verden har vi rigtig sv\u00e6rt ved k\u00e6rligheden. Knap halvdelen af os bliver skilt og flere og flere lever som singler. I denne serie unders\u00f8ger Thomas Breinholt, hvad videnskaben kan l\u00e6re os om forelskelse, forhold og konflikter. Sendt f\u00f8rste gang 03.10.2012."
+            },
+            "channel" : "dr2.dr.dk",
+            "date" : "2012",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "DK"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 2/7 .",
+               "onscreen" : "Afsnit 3 af 7"
+            },
+            "stop" : "1523187900",
+            "previously_shown" : "dr2.dr.dk|2018-04-05 16:30:00",
+            "new" : null
+         },
+         {
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "country" : [
+               "GB"
+            ],
+            "title" : {
+               "da" : "En kongefamilie i krig"
+            },
+            "desc" : {
+               "da" : "Siden grundl\u00e6ggelsen af Saudi Arabien i 1932 har en uudt\u00f8mmelig rigdom sikret de saudiske prinser enev\u00e6ldig magt hjemme og frihed til ustraffet at skeje ud i udlandet. Landets nye kronprins, den 32-\u00e5rige Mohammed bin Salman, vil reformere det saudiske samfund og i et fors\u00f8g p\u00e5 at f\u00e5 flere kvinder ud p\u00e5 arbejdsmarkedet, vil han tilbage til en moderat islam. Men mange i kongefamilien har forbindelse med konservative, religi\u00f8se kr\u00e6fter og har i et fors\u00f8g p\u00e5 at begr\u00e6nse Irans indflydelse i regionen ydet betydelig \u00f8konomisk st\u00f8tte til voldelige ekstremister."
+            },
+            "start" : "1523187900",
+            "channel" : "dr2.dr.dk",
+            "date" : "2018",
+            "stop" : "1523190900",
+            "previously_shown" : "dr2.dr.dk|2018-03-27 21:00:00",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/3 .",
+               "onscreen" : "Afsnit 1 af 3"
+            }
+         },
+         {
+            "title" : {
+               "da" : "En kongefamilie i krig"
+            },
+            "desc" : {
+               "da" : "Siden grundl\u00e6ggelsen af Saudi Arabien i 1932 har en uudt\u00f8mmelig rigdom sikret de saudiske prinser enev\u00e6ldig magt hjemme og frihed til ustraffet at skeje ud i udlandet, men i november 2017 lod den 32-\u00e5rige kronprins, Mohammed bin Salman, mere end 40 prinser og h\u00f8jtst\u00e5ende embedsm\u00e6nd arrestere for korruption og bestikkelse. Salman har lovet at omdanne landet og reformere Saudis olieafh\u00e6ngige \u00f8konomi, men kritikere h\u00e6vder, at kampen mod korruption mere handler om at sikre hans vej til tronen."
+            },
+            "channel" : "dr2.dr.dk",
+            "start" : "1523190900",
+            "date" : "2018",
+            "country" : [
+               "GB"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 1/3 .",
+               "onscreen" : "Afsnit 2 af 3"
+            },
+            "stop" : "1523193900",
+            "new" : null,
+            "previously_shown" : "dr2.dr.dk|2018-03-28 21:05:00"
+         },
+         {
+            "new" : null,
+            "previously_shown" : "dr2.dr.dk|2018-03-29 21:00:00",
+            "stop" : "1523196900",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 af 3",
+               "xmltv_ns" : ". 2/3 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "country" : [
+               "GB"
+            ],
+            "start" : "1523193900",
+            "desc" : {
+               "da" : "P\u00e5 intet tidspunkt siden grundl\u00e6ggelsen af Saudi Arabien i 1932, har landet oplevet en lignende ustabilitet som nu. Det g\u00e6lder ogs\u00e5 for selve kongefamilien. Den 32-\u00e5rige kronprins, Mohammed bin Salman, har indledt en r\u00e6kke sociale og \u00f8konomiske reformer, som bl.a. kommer landets kvinder til gode, og har tilsyneladende sl\u00e5et st\u00e6rkt ned p\u00e5 korruption. Men han har samtidig indledt en voldsom undertrykkelse af systemkritikere, der har f\u00f8rt til en b\u00f8lge af anholdelser, tortur og henrettelser."
+            },
+            "channel" : "dr2.dr.dk",
+            "title" : {
+               "da" : "En kongefamilie i krig"
+            },
+            "date" : "2018"
+         },
+         {
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "country" : [
+               "GB"
+            ],
+            "date" : "2013",
+            "title" : {
+               "da" : "Jagten p\u00e5 Bigfoot"
+            },
+            "desc" : {
+               "da" : "Bigfoot er et enormt abelignende v\u00e6sen, der siges at leve p\u00e5 det nordamerikanske kontinent. Her m\u00f8der vi nogle af de Bigfoot-j\u00e6gere, der h\u00e5rdnakket p\u00e5st\u00e5r, at de har set v\u00e6senet flere gange."
+            },
+            "channel" : "dr2.dr.dk",
+            "start" : "1523196900",
+            "stop" : "1523202600",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "C. Thomas Biscardi",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Wayne Burton",
+                     "role" : "Himself"
+                  },
+                  {
+                     "name" : "Rick Dyer",
+                     "role" : "Himself"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Dallas Gilbert"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "Morgan Matthews"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Morgan Matthews"
+                  }
+               ]
+            },
+            "previously_shown" : "dr2.dr.dk|2018-04-02 07:10:00",
+            "url" : [
+               "http://www.themoviedb.org/movie/191510"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Documentary"
+               ]
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/191510"
+            }
+         },
+         {
+            "title" : {
+               "da" : "De n\u00e5desl\u00f8se"
+            },
+            "start" : "1523202600",
+            "desc" : {
+               "da" : "William Munny har trukket sig tilbage som revolvermand, da nogle prostituerede udlover en dus\u00f8r til dem, der vil dr\u00e6be de cowboys, som har skamferet \u00e9n af deres veninder. Den h\u00e5ndfaste sherif Little Bill bryder sig ikke om dus\u00f8rj\u00e6gere i sin by, men Munny beslutter sig med to venner for at indkassere dus\u00f8ren. Og s\u00e5 tegner alt til et blodigt opg\u00f8r mellem loven og retf\u00e6rdigheden."
+            },
+            "channel" : "dr2.dr.dk",
+            "date" : "1992",
+            "rating" : {
+               "stars" : "7.8 / 10"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Western"
+               ]
+            },
+            "episodeNum" : {
+               "themoviedb.org" : "movie/33"
+            },
+            "stop" : "1523210400",
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Clint Eastwood"
+                  },
+                  {
+                     "name" : "Julian Ludwig"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "David Webb Peoples"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Clint Eastwood",
+                     "role" : "Bill Munny"
+                  },
+                  {
+                     "name" : "Gene Hackman",
+                     "role" : "Little Bill Daggett"
+                  },
+                  {
+                     "role" : "Ned Logan",
+                     "name" : "Morgan Freeman"
+                  },
+                  {
+                     "role" : "English Bob",
+                     "name" : "Richard Harris"
+                  },
+                  {
+                     "name" : "Jaimz Woolvett",
+                     "role" : "The Schofield Kid"
+                  },
+                  {
+                     "role" : "Delilah Fitzgerald",
+                     "name" : "Anna Levine"
+                  },
+                  {
+                     "role" : "W.W. Beauchamp",
+                     "name" : "Saul Rubinek"
+                  },
+                  {
+                     "name" : "Frances Fisher",
+                     "role" : "Strawberry Alice"
+                  },
+                  {
+                     "name" : "David Mucci",
+                     "role" : "Quick Mike"
+                  },
+                  {
+                     "name" : "Rob Campbell",
+                     "role" : "Davey Bunting"
+                  },
+                  {
+                     "role" : "Skinny Dubois",
+                     "name" : "Anthony James"
+                  },
+                  {
+                     "name" : "Ron White",
+                     "role" : "Clyde Ledbetter"
+                  },
+                  {
+                     "role" : "Fatty Rossiter",
+                     "name" : "Jefferson Mappin"
+                  },
+                  {
+                     "name" : "Jeremy Ratchford",
+                     "role" : "Deputy Andy Russell"
+                  },
+                  {
+                     "name" : "Philip Maurice Hayes",
+                     "role" : "Lippy MacGregor"
+                  },
+                  {
+                     "role" : "Little Sue",
+                     "name" : "Tara Frederick"
+                  },
+                  {
+                     "role" : "Silky",
+                     "name" : "Beverley Elliott"
+                  },
+                  {
+                     "role" : "Faith",
+                     "name" : "Liisa Repo-Martell"
+                  },
+                  {
+                     "name" : "Shane Meier",
+                     "role" : "Will Munny"
+                  },
+                  {
+                     "name" : "Robert Koons",
+                     "role" : "Crocker"
+                  },
+                  {
+                     "role" : "Muddy Chandler",
+                     "name" : "Mina E. Mina"
+                  },
+                  {
+                     "name" : "John Pyper-Ferguson",
+                     "role" : "Charley Hecker"
+                  },
+                  {
+                     "role" : "Barber",
+                     "name" : "Walter Marsh"
+                  },
+                  {
+                     "role" : "Tom Luckinbill",
+                     "name" : "Larry Reese"
+                  },
+                  {
+                     "name" : "Blair Haynes",
+                     "role" : "Paddy McGee"
+                  },
+                  {
+                     "role" : "Fuzzy",
+                     "name" : "Frank C. Turner"
+                  },
+                  {
+                     "role" : "Texas Slim",
+                     "name" : "Lochlyn Munro"
+                  },
+                  {
+                     "role" : "Johnny Foley",
+                     "name" : "Ben Cardinal"
+                  },
+                  {
+                     "role" : "Wiggens",
+                     "name" : "Michael Charrois"
+                  },
+                  {
+                     "name" : "Michael Maurer",
+                     "role" : "Train Person"
+                  },
+                  {
+                     "name" : "Larry Joshua",
+                     "role" : "Bucky"
+                  },
+                  {
+                     "role" : "The Shadow",
+                     "name" : "George Orrison"
+                  },
+                  {
+                     "name" : "Greg Goossen",
+                     "role" : "Fighter"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Clint Eastwood"
+                  }
+               ]
+            },
+            "url" : [
+               "http://www.themoviedb.org/movie/33"
+            ],
+            "new" : null
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "GB"
+            ],
+            "title" : {
+               "da" : "P\u00e5 storvildtsjagt i Afrika"
+            },
+            "channel" : "dr2.dr.dk",
+            "desc" : {
+               "da" : "Louis Theroux tager til Sydafrika sammen med en gruppe s\u00e6rdeles velhavende, amerikanske j\u00e6gere, som betaler uhyre summer for den luksuri\u00f8se oplevelse at skyde storvildt i Afrika. L\u00f8ver, leoparder, elefanter, b\u00f8fler, flodheste, ja selv n\u00e6sehorn er mulige trof\u00e6er for dem, der har penge nok. Forsvarere for jagten siger, at det er en human og n\u00f8dvendig vildtpleje, mens kritikere kalder den ond og barbarisk. J\u00e6gerne siger, at jagten bringer dem i kontakt med deres dybeste og mest primitive selv, og for at g\u00f8re oplevelsen endnu mere udfordrende foretr\u00e6kker nogle at jage med h\u00e5ndv\u00e5ben eller endog med spyd."
+            },
+            "start" : "1523210400",
+            "date" : "2008",
+            "stop" : "1523214000",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "Documentary"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "new" : null,
+            "stop" : "1523215800",
+            "start" : "1523214000",
+            "desc" : {
+               "da" : "Sidste chance for at grine af ugen der er g\u00e5et, inden du bliver ramt af den n\u00e6ste. Comedyshow hvor ugens nyheder og tidsaktuelle tendenser tages under k\u00e6rlig, men bestemt behandling af Jonatan Spang."
+            },
+            "channel" : "dr2.dr.dk",
+            "title" : {
+               "da" : "T\u00e6t p\u00e5 sandheden med Jonatan Spang"
+            },
+            "date" : "2018",
+            "video" : {
+               "quality" : "HDTV"
+            }
+         },
+         {
+            "date" : "2016",
+            "desc" : {
+               "da" : "Dansk dokumentar fra 2017 Da den Nigerianske fl\u00e5de anholder et dansk-ejet tankskib mist\u00e6nkt for ulovlig oliehandel, rejser DR2 til Nigeria. Her starter en af de seneste \u00e5rs st\u00f8rre skandale-sager i dansk erhvervsliv. Firmaets to direkt\u00f8rer har p\u00e5 f\u00e5 \u00e5r skabt en milliardoms\u00e6tning, masser af arbejdspladser i hjembyen og er lidt af en darling i den danske erhvervspresse. Men langsomt begynder billedet at \u00e6ndre sig. Tilrettel\u00e6ggelse: Jon Adelsten og Magnus Boding Hansen."
+            },
+            "start" : "1523215800",
+            "channel" : "dr2.dr.dk",
+            "title" : {
+               "da" : "Oliemilliard\u00e6rerne fra Fredericia"
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "country" : [
+               "DK"
+            ],
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "Documentary"
+               ]
+            },
+            "new" : null,
+            "stop" : "1523219400",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Monjasa",
+                     "role" : "I centrum st\u00e5r et succesrigt oliehandelsfirma fra Fredericia, som de f\u00e6rreste har h\u00f8rt om"
+                  }
+               ]
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "DK"
+            ],
+            "title" : {
+               "da" : "Deadline"
+            },
+            "start" : "1523219400",
+            "desc" : {
+               "da" : "Udfordrende og overraskende perspektiver p\u00e5 dagens og tidens v\u00e6sentligste historier."
+            },
+            "channel" : "dr2.dr.dk",
+            "date" : "2018",
+            "stop" : "1523221200",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            }
+         },
+         {
+            "channel" : "dr2.dr.dk",
+            "start" : "1523221200",
+            "title" : {
+               "da" : "Quizzen med Signe Molde"
+            },
+            "date" : "2018",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "country" : [
+               "DK"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Entertainment"
+               ]
+            },
+            "new" : null,
+            "stop" : "1523223000"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "News"
+               ]
+            },
+            "stop" : "1523226000",
+            "new" : null,
+            "title" : {
+               "da" : "JERSILD minus SPIN"
+            },
+            "start" : "1523223000",
+            "desc" : {
+               "da" : "Jens Olaf Jersild og hans panel sk\u00e6rer igennem spin og mediebilleder for at finde ud af hvad der reelt foreg\u00e5r i dansk politik."
+            },
+            "channel" : "dr2.dr.dk",
+            "date" : "2018",
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "country" : [
+               "DK"
+            ]
+         },
+         {
+            "url" : [
+               "http://www.themoviedb.org/movie/302502"
+            ],
+            "new" : null,
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Frida Barkfors"
+                  },
+                  {
+                     "name" : "Lasse Barkfors"
+                  }
+               ]
+            },
+            "stop" : "1523230800",
+            "episodeNum" : {
+               "themoviedb.org" : "movie/302502"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Crime",
+                  "Documentary"
+               ]
+            },
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "country" : [
+               "DK",
+               "SE"
+            ],
+            "rating" : {
+               "stars" : "7 / 10"
+            },
+            "date" : "2015",
+            "channel" : "dr2.dr.dk",
+            "desc" : {
+               "da" : "Den kritikerroste danske Sundance vinder film \"Pervert Park\" tager os med til en trailerpark i Florida, hvor alle 120 beboere har afsonet domme for sexovergreb. Vi f\u00f8lger hverdagen i parken, n\u00e5r beboerne er i terapi med terapeuten Don, og filmen tvinger os til at tage stilling til et moralsk dilemma, der er dybere og mere komplekst, end man m\u00e5ske har lyst til at blive mindet om. Gennem de st\u00e6rke personlige historier, udfordrer filmen vores stereotyper forestillinger og om det gavnlige i at bryde stilheden og tabuet, de destruktive cirkler af misbrug, der ofte g\u00e5r igen i generationer. Filmen er blevet vist rundt omkring i landet i samarbejde med bla Red Barnet."
+            },
+            "start" : "1523226000",
+            "title" : {
+               "da" : "Pervert Park"
+            }
+         },
+         {
+            "new" : null,
+            "stop" : "1523235300",
+            "category" : {
+               "en" : [
+                  "tvshow",
+                  "Documentary"
+               ]
+            },
+            "country" : [
+               "DK"
+            ],
+            "video" : {
+               "quality" : "HDTV"
+            },
+            "date" : "2014",
+            "desc" : {
+               "da" : "Dansk dokumentar fra 2014 En hinde af forladthed, af svigt og forr\u00e6deri ligger som en usynlig maske over disse b\u00f8rns ansigter. Men inde bag vreden og desperationen, inde bag hadet ulmer h\u00e5bet om at k\u00e6rligheden til de for\u00e6ldre som har ladet dem bortf\u00f8re til et afsidesliggende teenagef\u00e6ngsel i Utah, igen kan vokse sig st\u00e6rk. Det er h\u00e5bet om at k\u00e6rligheden overvinder alt der f\u00e5r denne historie fra Los Angeles, dr\u00f8mmenes by, til at blive vores alle sammens historie... skambidte k\u00e6rlighedsryttere som vi er til hobe! En film af Jon Bang Carlsen."
+            },
+            "channel" : "dr2.dr.dk",
+            "start" : "1523230800",
+            "title" : {
+               "da" : "I k\u00e6rlighedens navn"
+            }
+         }
+      ]
+   }
+}

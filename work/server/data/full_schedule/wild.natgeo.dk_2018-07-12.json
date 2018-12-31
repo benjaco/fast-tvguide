@@ -1,0 +1,1120 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 8 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0/8 ."
+            },
+            "new" : "0",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "desc" : {
+               "da" : "En elefant er st\u00e6rk nok til at skubbe en lastbil, en orangutang er lige s\u00e5 st\u00e6rk som 7 m\u00e6nd, og begge to er de super intelligente."
+            },
+            "title" : {
+               "da" : "Den ultimative guide til dyreriget - uddrag"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-03-21 08:15:00",
+            "date" : "2017",
+            "subTitle" : {
+               "da" : "Elefanter og orangutanger"
+            },
+            "start" : "1531353900",
+            "stop" : "1531355400"
+         },
+         {
+            "title" : {
+               "da" : "Den ultimative guide til dyreriget - uddrag"
+            },
+            "desc" : {
+               "da" : "Grise kan opfange lugte, der er begravede 6-7 meter nede i jorden, mens en hunds n\u00e6se kan sl\u00e6be dig i retten."
+            },
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 8 s\u00e6son 1",
+               "xmltv_ns" : "0 . 1/8 ."
+            },
+            "new" : "0",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "start" : "1531355400",
+            "stop" : "1531356900",
+            "subTitle" : {
+               "da" : "Grise og hunde"
+            },
+            "date" : "2017",
+            "previously_shown" : "wild.natgeo.dk|2018-03-21 08:40:00"
+         },
+         {
+            "previously_shown" : "wild.natgeo.dk|2018-03-21 13:50:00",
+            "date" : "2017",
+            "subTitle" : {
+               "da" : "L\u00f8ver og rejer"
+            },
+            "start" : "1531356900",
+            "stop" : "1531358100",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 2/8 .",
+               "onscreen" : "Afsnit 3 af 8 s\u00e6son 1"
+            },
+            "new" : "0",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "desc" : {
+               "da" : "Kn\u00e6lerrejen rammer lige s\u00e5 h\u00e5rdt som et projektil, og en l\u00f8ves br\u00f8l kan h\u00f8res 50 km v\u00e6k."
+            },
+            "title" : {
+               "da" : "Den ultimative guide til dyreriget - uddrag"
+            }
+         },
+         {
+            "previously_shown" : "wild.natgeo.dk|2018-03-21 14:20:00",
+            "date" : "2017",
+            "subTitle" : {
+               "da" : "Ulve og krager"
+            },
+            "start" : "1531358100",
+            "stop" : "1531359600",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 af 8 s\u00e6son 1",
+               "xmltv_ns" : "0 . 3/8 ."
+            },
+            "new" : "0",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "channel" : "wild.natgeo.dk",
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "desc" : {
+               "da" : "Krager er lige s\u00e5 kloge som delfiner og kan snakke som papeg\u00f8jer. Ulve kan jage i tre dage i tr\u00e6k i et territorie p\u00e5 st\u00f8rrelse med Delaware."
+            },
+            "title" : {
+               "da" : "Den ultimative guide til dyreriget - uddrag"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/301931",
+               "xmltv_ns" : "0 . 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            },
+            "new" : "0",
+            "country" : [
+               "US"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "desc" : {
+               "da" : "Sean Duggan tager til Thailand og Arkansas p\u00e5 jagt efter den frygtede slangehovedfisk, der kan g\u00e5 p\u00e5 land og overleve flere dage over vandet."
+            },
+            "title" : {
+               "da" : "F\u00f8dt som monster"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-05-02 05:35:00",
+            "date" : "2015",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=301931&seasonid=641580&id=5370669&lid=7"
+            ],
+            "subTitle" : {
+               "da" : "Tiger Snakes"
+            },
+            "stop" : "1531362300",
+            "start" : "1531359600"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 2 .",
+               "onscreen" : "Afsnit 3 s\u00e6son 1",
+               "thetvdb.com" : "series/301931"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "channel" : "wild.natgeo.dk",
+            "desc" : {
+               "da" : "Sean Duggan rejser til Sydafrika, hvor han unders\u00f8ger beretninger om en 7-meter lang krokodile, der skulle have dr\u00e6bt hele 300 mennesker."
+            },
+            "title" : {
+               "da" : "F\u00f8dt som monster"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-02-08 20:15:00",
+            "date" : "2015",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=301931&seasonid=641580&id=5370671&lid=7"
+            ],
+            "subTitle" : {
+               "da" : "Snake Head Fish"
+            },
+            "stop" : "1531365300",
+            "start" : "1531362300"
+         },
+         {
+            "desc" : {
+               "da" : "Ugler 'ser' ved hj\u00e6lp af deres \u00f8rer og er m\u00e5ske i stand til at h\u00f8re om en mus er gravid, og n\u00e6sehornets hud sveder blod."
+            },
+            "title" : {
+               "da" : "Den ultimative guide til dyreriget - uddrag"
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7 af 8 s\u00e6son 1",
+               "xmltv_ns" : "0 . 6/8 ."
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "channel" : "wild.natgeo.dk",
+            "subTitle" : {
+               "da" : "N\u00e6sehorn og ugler"
+            },
+            "stop" : "1531366500",
+            "start" : "1531365300",
+            "previously_shown" : "wild.natgeo.dk|2018-03-21 11:25:00",
+            "date" : "2017"
+         },
+         {
+            "previously_shown" : "wild.natgeo.dk|2018-01-01 05:25:00",
+            "date" : "2017",
+            "stop" : "1531368000",
+            "start" : "1531366500",
+            "subTitle" : {
+               "da" : "Katte og fr\u00f8er"
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "channel" : "wild.natgeo.dk",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 7/8 .",
+               "onscreen" : "Afsnit 8 af 8 s\u00e6son 1"
+            },
+            "title" : {
+               "da" : "Den ultimative guide til dyreriget - uddrag"
+            },
+            "desc" : {
+               "da" : "M\u00e5ske er fr\u00f8er n\u00f8glen til menneskets ud\u00f8delighed, og en kats spinden kan hj\u00e6lpe med at holde astronauter i live ude i rummet."
+            }
+         },
+         {
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "thetvdb.com" : "series/319766",
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "title" : {
+               "da" : "Fantastiske Afrika"
+            },
+            "desc" : {
+               "da" : "Elefanterne p\u00e5 Nazinga Ranch i Burkina Faso trives. Videnskabsfolk t\u00e6ller dem med en drone for at blive klogere p\u00e5 sagen."
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=319766&seasonid=688448&id=5837523&lid=7"
+            ],
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Paul David"
+                  }
+               ]
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-01-05 21:05:00",
+            "date" : "2014",
+            "start" : "1531368000",
+            "stop" : "1531369500",
+            "subTitle" : {
+               "da" : "The Continent Of Colours"
+            }
+         },
+         {
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 1",
+               "thetvdb.com" : "series/319766"
+            },
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Documentary"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "desc" : {
+               "da" : "En af Jordens st\u00f8rste og \u00e6ldste skove ligger i Congo-b\u00e6kkenet. Det enorme, gr\u00f8nne omr\u00e5de d\u00e6kker over 2 millioner kvadratkilometer."
+            },
+            "title" : {
+               "da" : "Fantastiske Afrika"
+            },
+            "date" : "2014",
+            "previously_shown" : "wild.natgeo.dk|2018-01-05 21:35:00",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=319766&seasonid=688448&id=5837524&lid=7"
+            ],
+            "subTitle" : {
+               "da" : "The Treasures Of Eastern Congo"
+            },
+            "stop" : "1531371000",
+            "start" : "1531369500"
+         },
+         {
+            "title" : {
+               "da" : "Dyrenes kampklub"
+            },
+            "desc" : {
+               "da" : "Not available yet"
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "country" : [
+               "UK"
+            ],
+            "channel" : "wild.natgeo.dk",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "4 . 7/8 .",
+               "onscreen" : "Afsnit 8 af 8 s\u00e6son 5"
+            },
+            "stop" : "1531373700",
+            "start" : "1531371000",
+            "subTitle" : {
+               "da" : "Sammenhold"
+            },
+            "date" : "2018",
+            "previously_shown" : "wild.natgeo.dk|2018-07-11 16:00:00"
+         },
+         {
+            "start" : "1531373700",
+            "stop" : "1531375200",
+            "subTitle" : {
+               "da" : "Krokodille i baghaven"
+            },
+            "date" : "2017",
+            "title" : {
+               "da" : "Outback Wrangler"
+            },
+            "desc" : {
+               "da" : "Simon og hans kone Lauren ejer en g\u00e5rd 480 km. fra Darwin, lige ned til Roper River."
+            },
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 2/8 .",
+               "onscreen" : "Afsnit 3 af 8 s\u00e6son 3"
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            }
+         },
+         {
+            "stop" : "1531376700",
+            "start" : "1531375200",
+            "subTitle" : {
+               "da" : "Overnatning blandt krokodiller"
+            },
+            "date" : "2017",
+            "title" : {
+               "da" : "Outback Wrangler"
+            },
+            "desc" : {
+               "da" : "Mineefterforsker-holdet har sl\u00e5et lejr p\u00e5 ejendommen, hvor de er afh\u00e6ngige af floden for at f\u00e5 vand. Men det er her, krokodillerne lever."
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 3/8 .",
+               "onscreen" : "Afsnit 4 af 8 s\u00e6son 3"
+            },
+            "new" : "0"
+         },
+         {
+            "desc" : {
+               "da" : "Kamtjatka, et afsidesliggende paradis for dyreliv i det \u00f8stlige Rusland, hvor dyrene k\u00e6mper for at overleve i bidende kulde."
+            },
+            "title" : {
+               "da" : "Det vilde Rusland"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 0/4 .",
+               "onscreen" : "Afsnit 1 af 4 s\u00e6son 2"
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "subTitle" : {
+               "da" : "Kamtjatka: Ildringen"
+            },
+            "start" : "1531376700",
+            "stop" : "1531379700",
+            "date" : "2018"
+         },
+         {
+            "title" : {
+               "da" : "Det vilde Rusland"
+            },
+            "desc" : {
+               "da" : "Den russiske s\u00f8 Baikal og det Kaspiske Hav byder p\u00e5 stor biodiversitet, og s\u00e6re, mystiske skabninger."
+            },
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 4 s\u00e6son 2",
+               "xmltv_ns" : "1 . 1/4 ."
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "start" : "1531379700",
+            "stop" : "1531382700",
+            "subTitle" : {
+               "da" : "\u00d8st for Eden"
+            },
+            "date" : "2018"
+         },
+         {
+            "date" : "2018",
+            "subTitle" : {
+               "da" : "Sammenhold"
+            },
+            "start" : "1531382700",
+            "stop" : "1531385400",
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "4 . 7/8 .",
+               "onscreen" : "Afsnit 8 af 8 s\u00e6son 5"
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "country" : [
+               "UK"
+            ],
+            "desc" : {
+               "da" : "Not available yet"
+            },
+            "title" : {
+               "da" : "Dyrenes kampklub"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "Simon og hans kone Lauren ejer en g\u00e5rd 480 km. fra Darwin, lige ned til Roper River."
+            },
+            "title" : {
+               "da" : "Outback Wrangler"
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 af 8 s\u00e6son 3",
+               "xmltv_ns" : "2 . 2/8 ."
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "subTitle" : {
+               "da" : "Krokodille i baghaven"
+            },
+            "stop" : "1531386900",
+            "start" : "1531385400",
+            "date" : "2017"
+         },
+         {
+            "date" : "2017",
+            "subTitle" : {
+               "da" : "Overnatning blandt krokodiller"
+            },
+            "stop" : "1531388400",
+            "start" : "1531386900",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 af 8 s\u00e6son 3",
+               "xmltv_ns" : "2 . 3/8 ."
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "desc" : {
+               "da" : "Mineefterforsker-holdet har sl\u00e5et lejr p\u00e5 ejendommen, hvor de er afh\u00e6ngige af floden for at f\u00e5 vand. Men det er her, krokodillerne lever."
+            },
+            "title" : {
+               "da" : "Outback Wrangler"
+            }
+         },
+         {
+            "stop" : "1531391100",
+            "start" : "1531388400",
+            "subTitle" : {
+               "da" : "Det skjulte rige"
+            },
+            "date" : "2018",
+            "title" : {
+               "da" : "Det vilde Rusland"
+            },
+            "desc" : {
+               "da" : "I det \u00f8stlige Rusland m\u00f8der de nordlige skovomr\u00e5der de tempererede regnskove i syd. I dette unikke omr\u00e5de s\u00f8ger flere dyrearter i ly."
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 3/4 .",
+               "onscreen" : "Afsnit 4 af 4 s\u00e6son 2"
+            },
+            "new" : "0"
+         },
+         {
+            "date" : "2017",
+            "stop" : "1531394100",
+            "start" : "1531391100",
+            "subTitle" : {
+               "da" : "Ruslands vilde hav 1"
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0/2 .",
+               "onscreen" : "Afsnit 1 af 2 s\u00e6son 1"
+            },
+            "new" : "0",
+            "title" : {
+               "da" : "Ruslands vilde hav"
+            },
+            "desc" : {
+               "da" : "Vi udforsker de udfordringer, livet i et ubarmhjertigt milj\u00f8 medf\u00f8rer, og unders\u00f8ger, hvordan dyrene har udviklet strategier til at overleve."
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Kamtjatka: Ildringen"
+            },
+            "start" : "1531394100",
+            "stop" : "1531397100",
+            "date" : "2018",
+            "desc" : {
+               "da" : "Kamtjatka, et afsidesliggende paradis for dyreliv i det \u00f8stlige Rusland, hvor dyrene k\u00e6mper for at overleve i bidende kulde."
+            },
+            "title" : {
+               "da" : "Det vilde Rusland"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 4 s\u00e6son 2",
+               "xmltv_ns" : "1 . 0/4 ."
+            },
+            "new" : "0",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            }
+         },
+         {
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 1/4 .",
+               "onscreen" : "Afsnit 2 af 4 s\u00e6son 2"
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "title" : {
+               "da" : "Det vilde Rusland"
+            },
+            "desc" : {
+               "da" : "Den russiske s\u00f8 Baikal og det Kaspiske Hav byder p\u00e5 stor biodiversitet, og s\u00e6re, mystiske skabninger."
+            },
+            "date" : "2018",
+            "start" : "1531397100",
+            "stop" : "1531399800",
+            "subTitle" : {
+               "da" : "\u00d8st for Eden"
+            }
+         },
+         {
+            "start" : "1531399800",
+            "stop" : "1531402500",
+            "subTitle" : {
+               "da" : "Sibiriens frosne hjerte"
+            },
+            "date" : "2018",
+            "title" : {
+               "da" : "Det vilde Rusland"
+            },
+            "desc" : {
+               "da" : "I Sibirien falder temperaturen til -60 grader om vinteren. Om sommeren kommer den op p\u00e5 40. Men disse ekstremer generer ikke dyrene."
+            },
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 af 4 s\u00e6son 2",
+               "xmltv_ns" : "1 . 2/4 ."
+            },
+            "new" : "0",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            }
+         },
+         {
+            "start" : "1531402500",
+            "stop" : "1531405500",
+            "subTitle" : {
+               "da" : "Det skjulte rige"
+            },
+            "date" : "2018",
+            "title" : {
+               "da" : "Det vilde Rusland"
+            },
+            "desc" : {
+               "da" : "I det \u00f8stlige Rusland m\u00f8der de nordlige skovomr\u00e5der de tempererede regnskove i syd. I dette unikke omr\u00e5de s\u00f8ger flere dyrearter i ly."
+            },
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 3/4 .",
+               "onscreen" : "Afsnit 4 af 4 s\u00e6son 2"
+            },
+            "new" : "0",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Ruslands vilde hav 1"
+            },
+            "stop" : "1531408200",
+            "start" : "1531405500",
+            "date" : "2017",
+            "desc" : {
+               "da" : "Vi udforsker de udfordringer, livet i et ubarmhjertigt milj\u00f8 medf\u00f8rer, og unders\u00f8ger, hvordan dyrene har udviklet strategier til at overleve."
+            },
+            "title" : {
+               "da" : "Ruslands vilde hav"
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0/2 .",
+               "onscreen" : "Afsnit 1 af 2 s\u00e6son 1"
+            },
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "wild.natgeo.dk"
+         },
+         {
+            "start" : "1531408200",
+            "stop" : "1531411200",
+            "subTitle" : {
+               "da" : "Ruslands vilde hav 2"
+            },
+            "date" : "2017",
+            "title" : {
+               "da" : "Ruslands vilde hav"
+            },
+            "desc" : {
+               "da" : "Et \u00e5r med overflod er p\u00e5 vej. R\u00f8dkronede traner udf\u00f8rer deres parringsdans p\u00e5 \u00f8en Hokkaido, hvor r\u00e6vene jagter skia'er."
+            },
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 2 s\u00e6son 1",
+               "xmltv_ns" : "0 . 1/2 ."
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "date" : "2015",
+            "subTitle" : {
+               "da" : "Livet under frysepunktet"
+            },
+            "stop" : "1531413900",
+            "start" : "1531411200",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 3 s\u00e6son 1",
+               "xmltv_ns" : "0 . 0/3 ."
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "desc" : {
+               "da" : "I visse dele af Europa forsvandt istiden aldrig, og kampen for at overleve under frysepunktet er fortsat for mange dyr."
+            },
+            "title" : {
+               "da" : "Europas st\u00f8rste vildnis"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1/3 .",
+               "onscreen" : "Afsnit 2 af 3 s\u00e6son 1"
+            },
+            "new" : "0",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "desc" : {
+               "da" : "Fra Middelhavets korkskove til den stedsegr\u00f8nne taiga t\u00e6t ved polarcirklen er skove nogle af verdens smukkeste steder."
+            },
+            "title" : {
+               "da" : "Europas st\u00f8rste vildnis"
+            },
+            "date" : "2015",
+            "subTitle" : {
+               "da" : "Europas gr\u00f8nne hjerte"
+            },
+            "stop" : "1531416900",
+            "start" : "1531413900"
+         },
+         {
+            "title" : {
+               "da" : "Et vildt \u00e5r: Siberien"
+            },
+            "desc" : {
+               "da" : "Kun de mest h\u00e5rdf\u00f8re dyr kan overleve i Siberien. Disse dyr k\u00e6mper for overlevelsen p\u00e5 den k\u00e6mpe, n\u00f8gne tundra."
+            },
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 1",
+               "xmltv_ns" : ". 0/1 ."
+            },
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "start" : "1531416900",
+            "stop" : "1531419900",
+            "subTitle" : {
+               "da" : "Et vildt \u00e5r: Siberien"
+            },
+            "date" : "2017"
+         },
+         {
+            "title" : {
+               "da" : "Europas st\u00f8rste vildnis"
+            },
+            "desc" : {
+               "da" : "I visse dele af Europa forsvandt istiden aldrig, og kampen for at overleve under frysepunktet er fortsat for mange dyr."
+            },
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0/3 .",
+               "onscreen" : "Afsnit 1 af 3 s\u00e6son 1"
+            },
+            "new" : "0",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "start" : "1531419900",
+            "stop" : "1531422900",
+            "subTitle" : {
+               "da" : "Livet under frysepunktet"
+            },
+            "date" : "2015"
+         },
+         {
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 3 s\u00e6son 1",
+               "xmltv_ns" : "0 . 1/3 ."
+            },
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "desc" : {
+               "da" : "Fra Middelhavets korkskove til den stedsegr\u00f8nne taiga t\u00e6t ved polarcirklen er skove nogle af verdens smukkeste steder."
+            },
+            "title" : {
+               "da" : "Europas st\u00f8rste vildnis"
+            },
+            "date" : "2015",
+            "subTitle" : {
+               "da" : "Europas gr\u00f8nne hjerte"
+            },
+            "stop" : "1531425600",
+            "start" : "1531422900"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1/2 .",
+               "onscreen" : "Afsnit 2 af 2 s\u00e6son 1"
+            },
+            "title" : {
+               "da" : "Ruslands vilde hav"
+            },
+            "desc" : {
+               "da" : "Et \u00e5r med overflod er p\u00e5 vej. R\u00f8dkronede traner udf\u00f8rer deres parringsdans p\u00e5 \u00f8en Hokkaido, hvor r\u00e6vene jagter skia'er."
+            },
+            "date" : "2017",
+            "stop" : "1531428600",
+            "start" : "1531425600",
+            "subTitle" : {
+               "da" : "Ruslands vilde hav 2"
+            }
+         },
+         {
+            "date" : "2018",
+            "subTitle" : {
+               "da" : "Kamtjatka: Ildringen"
+            },
+            "start" : "1531428600",
+            "stop" : "1531431600",
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 0/4 .",
+               "onscreen" : "Afsnit 1 af 4 s\u00e6son 2"
+            },
+            "new" : "0",
+            "video" : {
+               "quality" : "HDTV",
+               "aspect" : "16:9"
+            },
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "desc" : {
+               "da" : "Kamtjatka, et afsidesliggende paradis for dyreliv i det \u00f8stlige Rusland, hvor dyrene k\u00e6mper for at overleve i bidende kulde."
+            },
+            "title" : {
+               "da" : "Det vilde Rusland"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 4 s\u00e6son 2",
+               "xmltv_ns" : "1 . 1/4 ."
+            },
+            "title" : {
+               "da" : "Det vilde Rusland"
+            },
+            "desc" : {
+               "da" : "Den russiske s\u00f8 Baikal og det Kaspiske Hav byder p\u00e5 stor biodiversitet, og s\u00e6re, mystiske skabninger."
+            },
+            "date" : "2018",
+            "stop" : "1531434600",
+            "start" : "1531431600",
+            "subTitle" : {
+               "da" : "\u00d8st for Eden"
+            }
+         },
+         {
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 2/4 .",
+               "onscreen" : "Afsnit 3 af 4 s\u00e6son 2"
+            },
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "channel" : "wild.natgeo.dk",
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "desc" : {
+               "da" : "I Sibirien falder temperaturen til -60 grader om vinteren. Om sommeren kommer den op p\u00e5 40. Men disse ekstremer generer ikke dyrene."
+            },
+            "title" : {
+               "da" : "Det vilde Rusland"
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-07-12 12:50:00",
+            "date" : "2018",
+            "subTitle" : {
+               "da" : "Sibiriens frosne hjerte"
+            },
+            "start" : "1531434600",
+            "stop" : "1531437300"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series"
+               ]
+            },
+            "channel" : "wild.natgeo.dk",
+            "video" : {
+               "aspect" : "16:9",
+               "quality" : "HDTV"
+            },
+            "new" : "0",
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 3/4 .",
+               "onscreen" : "Afsnit 4 af 4 s\u00e6son 2"
+            },
+            "title" : {
+               "da" : "Det vilde Rusland"
+            },
+            "desc" : {
+               "da" : "I det \u00f8stlige Rusland m\u00f8der de nordlige skovomr\u00e5der de tempererede regnskove i syd. I dette unikke omr\u00e5de s\u00f8ger flere dyrearter i ly."
+            },
+            "previously_shown" : "wild.natgeo.dk|2018-07-12 09:40:00",
+            "date" : "2018",
+            "stop" : "1531440300",
+            "start" : "1531437300",
+            "subTitle" : {
+               "da" : "Det skjulte rige"
+            }
+         }
+      ]
+   }
+}

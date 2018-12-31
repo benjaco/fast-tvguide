@@ -1,0 +1,591 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "new" : null,
+            "title" : {
+               "da" : "S\u00e5danmark, medv\u00e6rt Thomas Uhrskov"
+            },
+            "start" : "1523073660",
+            "desc" : {
+               "da" : "De seneste uger og m\u00e5neder har journalist Thomas Uhrskov bes\u00f8gt 20 forskellige idr\u00e6tsklubber for at finde ud af, hvad det er for et f\u00e6llesskab, der hersker i dem. Det er blevet til programserien \"Min Klub\", som bliver sendt p\u00e5 TV 2 Lorry. H\u00f8r om Thomas' oplevelser i dag, n\u00e5r han er Henriette Honor\u00e9s medv\u00e6rt, og m\u00f8d ogs\u00e5 \"Kantmaskerne\" fra Or\u00f8, hvis kombination af strik og velg\u00f8renhed efterh\u00e5nden har spredt sig til hele Danmark."
+            },
+            "stop" : "1523075400",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/2 .",
+               "onscreen" : "Afsnit 1 af 2"
+            },
+            "channel" : "tvsyd.dk"
+         },
+         {
+            "stop" : "1523076900",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Nyheder fra TV SYD"
+            },
+            "channel" : "tvsyd.dk",
+            "start" : "1523075400",
+            "desc" : {
+               "da" : "Dagens nyheder og aktuelle reportager"
+            }
+         },
+         {
+            "channel" : "tvsyd.dk",
+            "start" : "1523076900",
+            "desc" : {
+               "da" : "Nyheder fra TV SYDs webredaktion"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "TVSYD.DK"
+            },
+            "new" : null,
+            "stop" : "1523079000"
+         },
+         {
+            "new" : null,
+            "stop" : "1523080500",
+            "start" : "1523079000",
+            "desc" : {
+               "da" : "Dagens nyheder og aktuelle reportager"
+            },
+            "channel" : "tvsyd.dk",
+            "title" : {
+               "da" : "Nyheder fra TV SYD"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "new" : null,
+            "stop" : "1523082600",
+            "start" : "1523080500",
+            "desc" : {
+               "da" : "Nyheder fra TV SYDs webredaktion"
+            },
+            "channel" : "tvsyd.dk",
+            "title" : {
+               "da" : "TVSYD.DK"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "new" : null,
+            "stop" : "1523084100",
+            "channel" : "tvsyd.dk",
+            "start" : "1523082600",
+            "desc" : {
+               "da" : "Dagens nyheder og aktuelle reportager"
+            },
+            "title" : {
+               "da" : "Nyheder fra TV SYD"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "stop" : "1523089800",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "TVSYD.DK"
+            },
+            "start" : "1523084100",
+            "desc" : {
+               "da" : "Nyheder fra TV SYDs webredaktion"
+            },
+            "channel" : "tvsyd.dk"
+         },
+         {
+            "stop" : "1523091600",
+            "channel" : "tvsyd.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 2",
+               "xmltv_ns" : ". 1/2 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "desc" : {
+               "da" : "Thomas Uhrskov er tilbage som Henriette Honor\u00e9s medv\u00e6rt, og i dag skal vi blandt andre m\u00f8de en mand, der er s\u00e5 stor fan af Tintin, at den lille figur har fulgt ham hele livet og endda medvirkede til, at han k\u00f8bte sit hus!"
+            },
+            "start" : "1523089800",
+            "title" : {
+               "da" : "S\u00e5danmark, medv\u00e6rt Thomas Uhrskov"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Nyheder fra \u00d8stjylland"
+            },
+            "desc" : {
+               "da" : "Regionale nyheder fra \u00d8stjylland."
+            },
+            "start" : "1523091600",
+            "date" : "2018",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvsyd.dk",
+            "stop" : "1523093100"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "TVSYD.DK"
+            },
+            "channel" : "tvsyd.dk",
+            "start" : "1523093100",
+            "desc" : {
+               "da" : "Nyheder fra V SYDs webredaktion"
+            },
+            "stop" : "1523104200",
+            "new" : null
+         },
+         {
+            "stop" : "1523106000",
+            "channel" : "tvsyd.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 2",
+               "xmltv_ns" : ". 0/2 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "desc" : {
+               "da" : "Bandet Danser Med Drenge har 25 \u00e5rs jubil\u00e6um i \u00e5r, og i den anledning er Henriette Honor\u00e9s medv\u00e6rter Rie Rasmussen og Klaus Kjellerup. Se historien om, hvordan medarbejdere p\u00e5 Hvidovre Hospital har t\u00e6nkt kreativt for at hj\u00e6lpe patienterne med at sove bedre, og kom med til DM i madkundskab, hvor der n\u00e6sten er garanti for mundvand."
+            },
+            "start" : "1523104200",
+            "title" : {
+               "da" : "S\u00e5danmark, medv\u00e6rter: Rie Rasmussen og Klaus Kjellerup"
+            }
+         },
+         {
+            "new" : null,
+            "stop" : "1523115000",
+            "desc" : {
+               "da" : "Nyheder fra TV SYDs webredaktion"
+            },
+            "start" : "1523106000",
+            "channel" : "tvsyd.dk",
+            "title" : {
+               "da" : "TVSYD.DK"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "new" : null,
+            "stop" : "1523116800",
+            "start" : "1523115000",
+            "desc" : {
+               "da" : "I denne udsendelse f\u00f8lger vi Philip Jensen, der har problemer med ondt i ryggen og med at f\u00e5 sko, fordi hans ben ikke er lige lange. Faktisk er der 3,5 centimeters forskel. Knud Stenild vil fors\u00f8ge at forl\u00e6nge benet ved at indoperere et helt specielt s\u00f8m. Medicinske Triumfer er et samarbejde mellem fem af landets regionale tv-stationer: TV 2 \u00d8st, TV 2/Fyn, TV 2/Nord, TV SYD og TV/MIDT-VEST."
+            },
+            "channel" : "tvsyd.dk",
+            "title" : {
+               "da" : "Medicinske Triumfer - Benforl\u00e6ngelse"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "start" : "1523116800",
+            "desc" : {
+               "da" : "Nyheder fra TV SYDs webredaktion"
+            },
+            "channel" : "tvsyd.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "TVSYD.DK"
+            },
+            "new" : null,
+            "stop" : "1523117700"
+         },
+         {
+            "title" : {
+               "da" : "Kort nyhedsoversigt"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvsyd.dk",
+            "desc" : {
+               "da" : "Kort nyhedsoversigt"
+            },
+            "start" : "1523117700",
+            "stop" : "1523118000",
+            "new" : null
+         },
+         {
+            "title" : {
+               "da" : "TVSYD.DK"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "start" : "1523118000",
+            "desc" : {
+               "da" : "Nyheder fra TV SYDs webredaktion"
+            },
+            "channel" : "tvsyd.dk",
+            "stop" : "1523118600",
+            "new" : null
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Bunkerne (5): Skildpaddespionen"
+            },
+            "channel" : "tvsyd.dk",
+            "desc" : {
+               "da" : "Bunkerne langs Vestkysten rummer dramatiske, tragiske - og romantiske historier. Historier, der tilsammen giver et nyt og nuanceret billede af Anden Verdenskrig i Vestjylland. Et stykke danmarkshistorie, der aldrig f\u00f8r har v\u00e6ret vist p\u00e5 TV, kommer frem i serien \"Bunkerne,\" hvor vi blandt andre m\u00f8der b\u00f8rn af tyske bunkersoldater, en bunkerbygger og en r\u00e6kke tyske soldater, der under krigen gjorde tjeneste i Danmark. Flere end 20 personer fra Tyskland, England, USA, Australien og Danmark er interviewet til de ni afsnit i serien - og de bidrager alle til en ny og hudl\u00f8s \u00e6rlig beskrivelse af Verdenskrigen i Vestjylland."
+            },
+            "start" : "1523118600",
+            "stop" : "1523120400",
+            "new" : null
+         },
+         {
+            "stop" : "1523122200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvsyd.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 af 2",
+               "xmltv_ns" : ". 0/2 ."
+            },
+            "new" : null,
+            "title" : {
+               "da" : "S\u00e5danmark, medv\u00e6rter: Rie Rasmussen og Klaus Kjellerup"
+            },
+            "start" : "1523120400",
+            "desc" : {
+               "da" : "Bandet Danser Med Drenge har 25 \u00e5rs jubil\u00e6um i \u00e5r, og i den anledning er Henriette Honor\u00e9s medv\u00e6rter Rie Rasmussen og Klaus Kjellerup. Se historien om, hvordan medarbejdere p\u00e5 Hvidovre Hospital har t\u00e6nkt kreativt for at hj\u00e6lpe patienterne med at sove bedre, og kom med til DM i madkundskab, hvor der n\u00e6sten er garanti for mundvand."
+            }
+         },
+         {
+            "start" : "1523122200",
+            "episodeNum" : {
+               "xmltv_ns" : ". 13/25 .",
+               "onscreen" : "Afsnit 14 af 25"
+            },
+            "channel" : "tvsyd.dk",
+            "title" : {
+               "da" : "Kolonihaven"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "stop" : "1523123100"
+         },
+         {
+            "stop" : "1523123700",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "TV SYD Kr\u00f8niken 1993"
+            },
+            "desc" : {
+               "da" : "Et guldbryllup blev en us\u00e6dvanlig mindev\u00e6rdig begivenhed for Erik og Kather Cramer fra Uldum. Gaderne i Horsens, Vejle og Fredericia sv\u00f8mmede over, og guldbrudeparret fik deres festlokale i Vejle totalt omsluttet af vandet, der stod 1.60 meter over normal. Det var ogs\u00e5 i 1993, Whitney Houston spillede p\u00e5 Kolding stadion for 30.000 mennesker, og \u00e5rets julegave var en mobiltelefon, som pludselig var kommet i en prisklasse, s\u00e5 almindelige mennesker kunne v\u00e6re med."
+            },
+            "start" : "1523123100",
+            "channel" : "tvsyd.dk"
+         },
+         {
+            "new" : null,
+            "stop" : "1523125500",
+            "start" : "1523123700",
+            "desc" : {
+               "da" : "De tre jyder rapper Jonny Hefty, foredragsholder Gitte Hornsh\u00f8j og l\u00e6rer Anette Karkov k\u00e6mper for hovedlandet. P\u00e5 \u00f8-holdet samles det verbale skyts af forfatter Anne-Marie Donslund, studerende Daniel Mieritz og Entertainer Bjarne Kure. V\u00e6rt er Sussi R\u00f8mer Rasmussen."
+            },
+            "channel" : "tvsyd.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "Sprogblomster - det sk\u00f8nne danske sprog"
+            }
+         },
+         {
+            "stop" : "1523127300",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvsyd.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 6 af 11",
+               "xmltv_ns" : ". 5/11 ."
+            },
+            "date" : "1985",
+            "new" : null,
+            "title" : {
+               "da" : "TV SYD Retro 1985"
+            },
+            "desc" : {
+               "da" : "Hver gang i TV SYD Retro dyrker vi nostalgien og smiler af de gode gensyn. Dette program er fra 1985."
+            },
+            "start" : "1523125500"
+         },
+         {
+            "new" : null,
+            "title" : {
+               "da" : "S\u00e5danmark, medv\u00e6rter: Rie Rasmussen og Klaus Kjellerup"
+            },
+            "start" : "1523127300",
+            "desc" : {
+               "da" : "Rie Rasmussen og Klaus Kjellerup fra Danser Med Drenge er tilbage som Henriette Honor\u00e9s medv\u00e6rter. I dag skal vi med til den f\u00f8rste test af Nationalmuseets nye \"kedsomhedsknap\", og vi skal ogs\u00e5 m\u00f8de de afg\u00e5ende og helt nye v\u00e6rtspar p\u00e5 en af Danmarks st\u00f8rste campingpladser, Ribe Camping."
+            },
+            "stop" : "1523129100",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvsyd.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 2",
+               "xmltv_ns" : ". 1/2 ."
+            }
+         },
+         {
+            "title" : {
+               "da" : "Kolonihaven"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvsyd.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 14 af 25",
+               "xmltv_ns" : ". 13/25 ."
+            },
+            "start" : "1523129100",
+            "stop" : "1523130000",
+            "new" : null
+         },
+         {
+            "new" : null,
+            "stop" : "1523130600",
+            "channel" : "tvsyd.dk",
+            "start" : "1523130000",
+            "desc" : {
+               "da" : "Et guldbryllup blev en us\u00e6dvanlig mindev\u00e6rdig begivenhed for Erik og Kather Cramer fra Uldum. Gaderne i Horsens, Vejle og Fredericia sv\u00f8mmede over, og guldbrudeparret fik deres festlokale i Vejle totalt omsluttet af vandet, der stod 1.60 meter over normal. Det var ogs\u00e5 i 1993, Whitney Houston spillede p\u00e5 Kolding stadion for 30.000 mennesker, og \u00e5rets julegave var en mobiltelefon, som pludselig var kommet i en prisklasse, s\u00e5 almindelige mennesker kunne v\u00e6re med."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "title" : {
+               "da" : "TV SYD Kr\u00f8niken 1993"
+            }
+         },
+         {
+            "title" : {
+               "da" : "TVSYD.DK"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvsyd.dk",
+            "start" : "1523130600",
+            "stop" : "1523131200",
+            "new" : null
+         },
+         {
+            "channel" : "tvsyd.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1523132100",
+            "start" : "1523131200",
+            "desc" : {
+               "da" : "Regionale nyheder fra \u00d8stjylland."
+            },
+            "title" : {
+               "da" : "Nyheder fra \u00d8stjylland"
+            },
+            "new" : null,
+            "date" : "2018"
+         },
+         {
+            "stop" : "1523133900",
+            "new" : null,
+            "title" : {
+               "da" : "TV SYD Retro 2005"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "TV SYD Retro viser gamle programmer fra TV SYDs barndom til i dag. Dette program er fra 2005."
+            },
+            "start" : "1523132100",
+            "channel" : "tvsyd.dk"
+         },
+         {
+            "stop" : "1523135700",
+            "new" : null,
+            "title" : {
+               "da" : "Mit k\u00e6reste eje - Lintrup"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "desc" : {
+               "da" : "I Lintrup ligger Wellings Landsbymuseum. En af dagens g\u00e6ster har blandt andet en lampe med, og den viser sig at v\u00e6re mange penge v\u00e6rd."
+            },
+            "start" : "1523133900",
+            "channel" : "tvsyd.dk"
+         },
+         {
+            "stop" : "1523137500",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "channel" : "tvsyd.dk",
+            "episodeNum" : {
+               "xmltv_ns" : ". 1/2 .",
+               "onscreen" : "Afsnit 2 af 2"
+            },
+            "new" : null,
+            "title" : {
+               "da" : "S\u00e5danmark, medv\u00e6rter: Rie Rasmussen og Klaus Kjellerup"
+            },
+            "desc" : {
+               "da" : "Rie Rasmussen og Klaus Kjellerup fra Danser Med Drenge er tilbage som Henriette Honor\u00e9s medv\u00e6rter. I dag skal vi med til den f\u00f8rste test af Nationalmuseets nye \"kedsomhedsknap\", og vi skal ogs\u00e5 m\u00f8de de afg\u00e5ende og helt nye v\u00e6rtspar p\u00e5 en af Danmarks st\u00f8rste campingpladser, Ribe Camping."
+            },
+            "start" : "1523135700"
+         },
+         {
+            "channel" : "tvsyd.dk",
+            "start" : "1523137500",
+            "title" : {
+               "da" : "TVSYD.DK"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "stop" : "1523160060"
+         }
+      ]
+   }
+}

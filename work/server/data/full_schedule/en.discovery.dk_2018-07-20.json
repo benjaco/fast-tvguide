@@ -1,0 +1,681 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 1 .",
+               "onscreen" : "Episode 2 season 2"
+            },
+            "desc" : {
+               "en" : "In Rotterdam, two huge cubes are moved off a cargo vessel to a small barge. In Ipswich, 50 trucks are lifted and in Portsmouth, WWII army tanks are transported."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "en" : "Episode 2"
+            },
+            "start" : "1532044800",
+            "new" : null,
+            "title" : {
+               "en" : "Mega Shippers"
+            },
+            "channel" : "en.discovery.dk",
+            "stop" : "1532048400"
+         },
+         {
+            "subTitle" : {
+               "en" : "Man Vs. Amazon"
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 1 season 1",
+               "xmltv_ns" : "0 . 0 ."
+            },
+            "desc" : {
+               "en" : "Two survivalists journey to the Amazon without modern conveniences or clothing. Battling piranhas, jaguars and mosquitoes, can they survive the unsurvivable?"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1532051700",
+            "new" : null,
+            "start" : "1532048400",
+            "title" : {
+               "en" : "Naked And Afraid"
+            },
+            "channel" : "en.discovery.dk"
+         },
+         {
+            "subTitle" : {
+               "en" : "Down In Flames"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "12 . 2 .",
+               "onscreen" : "Episode 3 season 13"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "desc" : {
+               "en" : "Toxic smoke engulfs the Saga, Sean struggles to save the family business on the Brenna A, and Wild Bill fears he may lose Nick to a terminal illness."
+            },
+            "stop" : "1532054700",
+            "title" : {
+               "en" : "Deadliest Catch"
+            },
+            "channel" : "en.discovery.dk",
+            "new" : null,
+            "start" : "1532051700"
+         },
+         {
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Kindig Customs"
+            },
+            "new" : null,
+            "start" : "1532054700",
+            "stop" : "1532057700",
+            "desc" : {
+               "en" : "Dave has his hands full trying to build a 1959 Buick Invicta- which pushes the shop to the max- and even to a Foundry straight out of medieval times."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 0 .",
+               "onscreen" : "Episode 1 season 2"
+            },
+            "subTitle" : {
+               "en" : "Baby Needs a New Pair of Shoes"
+            }
+         },
+         {
+            "subTitle" : {
+               "en" : "Rock Crushers, Fabric Lampshades, Cake Sprinkles, Steam Irons"
+            },
+            "desc" : {
+               "en" : "More everyday items go under the microscope. How are rock crushers, cake sprinkles and steam irons made?"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "20 . 14 .",
+               "onscreen" : "Episode 15 season 21"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1532059200",
+            "new" : null,
+            "start" : "1532057700",
+            "title" : {
+               "en" : "How It's Made"
+            },
+            "channel" : "en.discovery.dk"
+         },
+         {
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "How It's Made"
+            },
+            "start" : "1532059200",
+            "new" : null,
+            "stop" : "1532060700",
+            "episodeNum" : {
+               "onscreen" : "Episode 16 season 21",
+               "xmltv_ns" : "20 . 15 ."
+            },
+            "desc" : {
+               "en" : "More everyday items go under the microscope with a look at how detachable Indy-Car steering wheels and wind turbines are made."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "en" : "Indy Steering Wheels, Mixed Salad, Wind Turbines"
+            }
+         },
+         {
+            "stop" : "1532062500",
+            "title" : {
+               "en" : "Auction Kings"
+            },
+            "channel" : "en.discovery.dk",
+            "new" : null,
+            "start" : "1532060700",
+            "subTitle" : {
+               "en" : "Napoleon Mirror/WWI Boy Scout Poster"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "desc" : {
+               "en" : "The team auctions a hand mirror signed by Napoleon and a WWI Boy Scout war bonds poster. And John goes all out to impress Paul by helping assemble the new catalogue."
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 17 season 1",
+               "xmltv_ns" : "0 . 16 ."
+            }
+         },
+         {
+            "stop" : "1532064000",
+            "start" : "1532062500",
+            "new" : null,
+            "title" : {
+               "en" : "Auction Kings"
+            },
+            "channel" : "en.discovery.dk",
+            "subTitle" : {
+               "en" : "Happy Days Pinball/Wall of Shame"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "desc" : {
+               "en" : "The team auctions a vintage Happy Days pinball machine and a WWII Soviet flag. Meanwhile, not even Paul can escape Cindy's Wall of Shame for people who don't pay their bills."
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 18 season 1",
+               "xmltv_ns" : "0 . 17 ."
+            }
+         },
+         {
+            "subTitle" : {
+               "en" : "Crazy Client Requests"
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 13 season 3",
+               "xmltv_ns" : "2 . 12 ."
+            },
+            "desc" : {
+               "en" : "Brett and Wayde work to make their clients' outrageous tank dreams a reality, even though sometimes it's a nightmare for the ATM crew."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1532067300",
+            "start" : "1532064000",
+            "new" : null,
+            "title" : {
+               "en" : "Tanked"
+            },
+            "channel" : "en.discovery.dk"
+         },
+         {
+            "subTitle" : {
+               "en" : "Journey's End to a New Beginning"
+            },
+            "desc" : {
+               "en" : "After 15 episodes, the partnership of Cody and Joe is coming to an end. This special episode goes behind the scenes with the show's crew."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 4 .",
+               "onscreen" : "Episode 5 season 4"
+            },
+            "stop" : "1532070300",
+            "start" : "1532067300",
+            "new" : null,
+            "title" : {
+               "en" : "Dual Survival"
+            },
+            "channel" : "en.discovery.dk"
+         },
+         {
+            "stop" : "1532073600",
+            "new" : null,
+            "start" : "1532070300",
+            "title" : {
+               "en" : "Wheeler Dealers"
+            },
+            "channel" : "en.discovery.dk",
+            "subTitle" : {
+               "en" : "Range Rover"
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 3 season 8",
+               "xmltv_ns" : "7 . 2 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "desc" : {
+               "en" : "Mike buys a bargain Range Rover P38 and Edd sets about mending it. They head to the wilds of Exmoor to give the car a final test drive before searching for a buyer."
+            }
+         },
+         {
+            "subTitle" : {
+               "en" : "Blue Suede Shoes"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "desc" : {
+               "en" : "The Invicta build finally comes to a show-ready end after many challenges, including the most ambitious interior job the shop has ever attempted."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 1 .",
+               "onscreen" : "Episode 2 season 2"
+            },
+            "stop" : "1532077200",
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Kindig Customs"
+            },
+            "start" : "1532073600",
+            "new" : null
+         },
+         {
+            "stop" : "1532080800",
+            "start" : "1532077200",
+            "new" : null,
+            "title" : {
+               "en" : "Deadliest Catch"
+            },
+            "channel" : "en.discovery.dk",
+            "subTitle" : {
+               "en" : "Crushing Blows"
+            },
+            "desc" : {
+               "en" : "Wild Bill gets the truth about Nick's terminal illness. A damaging mechanical issue threatens to crush Jake's future and warming seas force Keith into the unknown."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "12 . 3 .",
+               "onscreen" : "Episode 4 season 13"
+            }
+         },
+         {
+            "stop" : "1532084400",
+            "new" : null,
+            "start" : "1532080800",
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Gold Rush"
+            },
+            "subTitle" : {
+               "en" : "Eye In The Sky"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 2 season 7",
+               "xmltv_ns" : "6 . 1 ."
+            },
+            "desc" : {
+               "en" : "At Eureka Creek, Tony Beets' runway is complete. He tests his son Kevin by putting him in charge this season. Plus, the Hoffman crew faces a make or break decision."
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "desc" : {
+               "en" : "Having left the Klondike, the Hoffman crew returns to dismantle Monster Red and take it 2,000 miles to Oregon. Plus, is Parker on target for his season goal?"
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 3 season 7",
+               "xmltv_ns" : "6 . 2 ."
+            },
+            "subTitle" : {
+               "en" : "Frankenstein Machinery"
+            },
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Gold Rush"
+            },
+            "new" : null,
+            "start" : "1532084400",
+            "stop" : "1532088000"
+         },
+         {
+            "stop" : "1532091600",
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Rocky Mountain Railroad"
+            },
+            "new" : null,
+            "start" : "1532088000",
+            "subTitle" : {
+               "en" : "Tunnel To Hell"
+            },
+            "desc" : {
+               "en" : "Train crews in the Rockies must haul their 15,000 ton grain train through ice-encrusted tunnels to make their delivery on time."
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 2 season 1",
+               "xmltv_ns" : "0 . 1 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "desc" : {
+               "en" : "Tamra Drawn Hyde and Tyler White face off in Utah's spruce forest. They have just seven days to build a waterproof shelter for when a sudden snowfall interrupts."
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 4 season 1",
+               "xmltv_ns" : "0 . 3 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "en" : "Double Or Nothing"
+            },
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Bushcraft Build-Off"
+            },
+            "new" : null,
+            "start" : "1532091600",
+            "stop" : "1532095200"
+         },
+         {
+            "stop" : "1532098800",
+            "start" : "1532095200",
+            "new" : null,
+            "title" : {
+               "en" : "Royal Navy Sailor School"
+            },
+            "channel" : "en.discovery.dk",
+            "subTitle" : {
+               "en" : "Episode 4"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 3 .",
+               "onscreen" : "Episode 4 season 1"
+            },
+            "desc" : {
+               "en" : "Aboard the HMS Raleigh, a diverse group of young men and women are pushed through an intense 10-week training course, hoping to survive and pass as fully qualified shipmates."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "subTitle" : {
+               "en" : "Episode 8"
+            },
+            "desc" : {
+               "en" : "Drew and Tee hunt for hidden treasure at a stately 400-year-old school in Cambridgeshire. Down the road in Herefordshire, the chaps tour one of the oldest paper mills in the UK."
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 8 season 5",
+               "xmltv_ns" : "4 . 7 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "stop" : "1532102400",
+            "title" : {
+               "en" : "Salvage Hunters"
+            },
+            "channel" : "en.discovery.dk",
+            "new" : null,
+            "start" : "1532098800"
+         },
+         {
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Wheeler Dealers"
+            },
+            "new" : null,
+            "start" : "1532102400",
+            "stop" : "1532106000",
+            "desc" : {
+               "en" : "Mike has nearly given up his hunt for a bargain Frogeye Sprite when he finds a potential winner. Could he and Edd double their money with this little classic?"
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 4 season 8",
+               "xmltv_ns" : "7 . 3 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "en" : "Frogeye Sprite"
+            }
+         },
+         {
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Railroad Australia"
+            },
+            "new" : null,
+            "start" : "1532106000",
+            "stop" : "1532109600",
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 11 .",
+               "onscreen" : "Episode 12 season 2"
+            },
+            "desc" : {
+               "en" : "In a wild frontier world of blistering heat and vast distances, an army of workers work tirelessly day and night to keep Australia's railway network on time and on track."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "en" : "Epsiode 12"
+            }
+         },
+         {
+            "stop" : "1532113200",
+            "title" : {
+               "en" : "Deadliest Catch"
+            },
+            "channel" : "en.discovery.dk",
+            "start" : "1532109600",
+            "new" : null,
+            "subTitle" : {
+               "en" : "Captain Conflict"
+            },
+            "desc" : {
+               "en" : "Sig races to offload his tanks before losing half a million dollars in crab. Plus, tension between co-captains reaches breaking point in the Wizard's wheelhouse."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "13 . 12 .",
+               "onscreen" : "Episode 13 season 14"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            }
+         },
+         {
+            "title" : {
+               "en" : "Gold Divers"
+            },
+            "channel" : "en.discovery.dk",
+            "start" : "1532113200",
+            "new" : null,
+            "stop" : "1532116800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "desc" : {
+               "en" : "The Bering Sea battle intensifies as Shawn bets big on a new discovery. The Kellys are forced to find new ground and Emily nearly boils a diver alive."
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 6 season 7",
+               "xmltv_ns" : "6 . 5 ."
+            },
+            "subTitle" : {
+               "en" : "Second Wind"
+            }
+         },
+         {
+            "subTitle" : {
+               "en" : "Tar Heelin' And Dealin'"
+            },
+            "desc" : {
+               "en" : "The racers are in Dunn, North Carolina for the seventh race. After weeks of racing, many of the racers struggle to keep their cars running."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 15 season 1",
+               "xmltv_ns" : "0 . 14 ."
+            },
+            "stop" : "1532120400",
+            "new" : null,
+            "start" : "1532116800",
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Street Outlaws: No Prep Kings (Special)"
+            }
+         },
+         {
+            "desc" : {
+               "en" : "As the racers enter the later rounds, the spotlight is on Chuck, Birdman, and Ryan Martin. And, a win in North Carolina could put Ryan a step closer to winning."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 6 .",
+               "onscreen" : "Episode 7 season 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "en" : "$40,000 and Dunn"
+            },
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Street Outlaws: No Prep Kings"
+            },
+            "new" : null,
+            "start" : "1532120400",
+            "stop" : "1532124000"
+         },
+         {
+            "desc" : {
+               "en" : "With two competitors eliminated the remaining builders attempt a cardboard boat. Plus, gun skills are tested when they probe the myth of targeting by sound alone."
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 3 season 1",
+               "xmltv_ns" : "0 . 2 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "subTitle" : {
+               "en" : "Shooting Blind"
+            },
+            "start" : "1532124000",
+            "new" : null,
+            "title" : {
+               "en" : "Mythbusters: The Search"
+            },
+            "channel" : "en.discovery.dk",
+            "stop" : "1532127600"
+         },
+         {
+            "subTitle" : {
+               "en" : "Second Wind"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Reality"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Episode 6 season 7",
+               "xmltv_ns" : "6 . 5 ."
+            },
+            "desc" : {
+               "en" : "The Bering Sea battle intensifies as Shawn bets big on a new discovery. The Kellys are forced to find new ground and Emily nearly boils a diver alive."
+            },
+            "stop" : "1532131200",
+            "start" : "1532127600",
+            "new" : null,
+            "channel" : "en.discovery.dk",
+            "title" : {
+               "en" : "Gold Divers"
+            }
+         }
+      ]
+   }
+}

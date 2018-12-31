@@ -1,0 +1,1919 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "channel" : "junior.disneychannel.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 28 s\u00e6son 1",
+               "xmltv_ns" : "0. 27 ."
+            },
+            "start" : "1531713600",
+            "stop" : "1531714800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "previously_shown" : "junior.disneychannel.dk|2018-04-22 05:00:00",
+            "new" : null,
+            "desc" : {
+               "da" : "Kobberpot dyrker k\u00e6mpetomater. Kokkene l\u00e6rer at samarbejde."
+            },
+            "title" : {
+               "da" : "Trulliland"
+            }
+         },
+         {
+            "date" : "2017",
+            "stop" : "1531715700",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "previously_shown" : "junior.disneychannel.dk|2018-02-08 15:31:00",
+            "new" : null,
+            "desc" : {
+               "da" : "To hvalpe er p\u00e5 en mission efter sjov og eventyr!"
+            },
+            "title" : {
+               "da" : "Hvalpevenner"
+            },
+            "channel" : "junior.disneychannel.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=325978&seasonid=705368&id=6181739&lid=10"
+            ],
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 24 .",
+               "thetvdb.com" : "series/325978",
+               "onscreen" : "Afsnit 25 s\u00e6son 1"
+            },
+            "start" : "1531714800",
+            "subTitle" : {
+               "da" : "Captain Rolly"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Isaac Ryan Brown",
+                     "role" : "Bingo"
+                  }
+               ]
+            }
+         },
+         {
+            "start" : "1531715700",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 32 .",
+               "thetvdb.com" : "series/300921",
+               "onscreen" : "Afsnit 33 s\u00e6son 1"
+            },
+            "subTitle" : {
+               "da" : "Gekko Floats"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "",
+                     "role" : "Romeo"
+                  },
+                  {
+                     "role" : "Amaya - Owlette: Leader",
+                     "name" : "Addison Holley"
+                  },
+                  {
+                     "name" : "",
+                     "role" : "Mr. Riz Nakagawa (School Teacher)"
+                  },
+                  {
+                     "role" : "Luna Girl",
+                     "name" : "Brianna Daguanno"
+                  },
+                  {
+                     "name" : "",
+                     "role" : "Night Ninja"
+                  },
+                  {
+                     "name" : "Jacob Ewaniuk",
+                     "role" : "Connor - Catboy: Technician & Former Leader"
+                  },
+                  {
+                     "name" : "Tristan Samuel",
+                     "role" : "Cameron"
+                  },
+                  {
+                     "name" : "Kyle Harrison Breitkopf",
+                     "role" : "Gregg - Gekko: Lieutenant"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Stephen Senders"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Christian De Vita"
+                  }
+               ]
+            },
+            "channel" : "junior.disneychannel.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=300921&seasonid=638935&id=5506007&lid=10"
+            ],
+            "title" : {
+               "da" : "Pyjamasheltene"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "date" : "2015",
+            "stop" : "1531716900",
+            "new" : null,
+            "previously_shown" : "junior.disneychannel.dk|2018-02-10 17:15:00",
+            "desc" : {
+               "da" : "De f\u00e5r deres kr\u00e6fter fra deres dyreamuletter - Jens bliver til Gekko, Amanda bliver til Ugline, og Oscar bliver til Kattedreng. Deres dragter ligner m\u00e5ske pyjamasser, men de er faktisk Pyjamasheltene!"
+            }
+         },
+         {
+            "stop" : "1531718940",
+            "date" : "2017",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "desc" : {
+               "da" : "Fedtmule er heldig. De Glade Hj\u00e6lpere p\u00e5 golfbanen."
+            },
+            "previously_shown" : "junior.disneychannel.dk|2018-02-05 10:15:00",
+            "new" : null,
+            "title" : {
+               "da" : "Mickey Og Racerholdet"
+            },
+            "channel" : "junior.disneychannel.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=320725&seasonid=695611&id=5937355&lid=10"
+            ],
+            "episodeNum" : {
+               "onscreen" : "Afsnit 13 s\u00e6son 1",
+               "thetvdb.com" : "series/320725",
+               "xmltv_ns" : "0 . 12 ."
+            },
+            "start" : "1531716900",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Bill Farmer",
+                     "role" : "Goofy"
+                  },
+                  {
+                     "name" : "Russi Taylor",
+                     "role" : "Minnie Mouse"
+                  },
+                  {
+                     "role" : "Pluto (w/Red Collar)",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "role" : "Chip 'n Dale",
+                     "name" : "Rob Paulsen"
+                  },
+                  {
+                     "name" : "April Winchell",
+                     "role" : "Clarabelle Cow"
+                  },
+                  {
+                     "name" : "",
+                     "role" : "Billy Beagle"
+                  },
+                  {
+                     "name" : "Corey Burton",
+                     "role" : "Professer Ludwig Von Drake"
+                  },
+                  {
+                     "name" : "Jim Cummings",
+                     "role" : "Pete Peter"
+                  },
+                  {
+                     "name" : "Tress MacNeille",
+                     "role" : "Daisy Duck"
+                  },
+                  {
+                     "role" : "Mickey Mouse",
+                     "name" : "Bret Iwan"
+                  },
+                  {
+                     "role" : "Donald Duck",
+                     "name" : "Tony Anselmo"
+                  },
+                  {
+                     "role" : "Cuckoo-Loca",
+                     "name" : ""
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Ye Olde Royal Heist"
+            }
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=335717&seasonid=731931&id=6340324&lid=10"
+            ],
+            "channel" : "junior.disneychannel.dk",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "2) (Mr. Gore",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "role" : "Bridget",
+                     "name" : "ViviAnn Yee"
+                  },
+                  {
+                     "name" : "Sanai Victoria",
+                     "role" : "Phoebe"
+                  },
+                  {
+                     "name" : "Lauren Graham",
+                     "role" : "Oxana Hauntley (Vampirina's Mom)"
+                  },
+                  {
+                     "name" : "James Van Der Beek",
+                     "role" : "Boris Hauntley (Vampirina's Dad)"
+                  },
+                  {
+                     "name" : "Cree Summer",
+                     "role" : "Edna"
+                  },
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "Wolfie The Dog / Wolfie The Weredog"
+                  },
+                  {
+                     "name" : "Jordan Alexa Davis",
+                     "role" : "Poppy"
+                  },
+                  {
+                     "role" : "Edgar",
+                     "name" : "Benji Risley"
+                  },
+                  {
+                     "role" : "Gregoria The Gargoyle",
+                     "name" : "Wanda Sykes"
+                  },
+                  {
+                     "name" : "Cree Summer",
+                     "role" : "Edna"
+                  },
+                  {
+                     "name" : "Ian James Corlett",
+                     "role" : "Chef Remy Bones"
+                  },
+                  {
+                     "name" : "Patti Lupone",
+                     "role" : "Nanpire Hauntley (Vampirina's Grandma)"
+                  },
+                  {
+                     "role" : "Grandpop Hauntley (Vampirina's Grandpa)",
+                     "name" : "Brian Stokes Mitchell"
+                  },
+                  {
+                     "name" : "Isabella Cramp",
+                     "role" : "Vampirina \"Vee\" Hauntley"
+                  },
+                  {
+                     "name" : "Mitchell Whitfield",
+                     "role" : "Demi"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Vee Goes Viral"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/335717",
+               "xmltv_ns" : "0 . 5 .",
+               "onscreen" : "Afsnit 6 s\u00e6son 1"
+            },
+            "start" : "1531718940",
+            "new" : null,
+            "previously_shown" : "junior.disneychannel.dk|2018-02-09 16:30:00",
+            "desc" : {
+               "da" : "V tager p\u00e5 campingtur. Et monster under Lisbeths seng!"
+            },
+            "stop" : "1531720800",
+            "date" : "2017",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Fantasy"
+               ]
+            },
+            "title" : {
+               "da" : "Vampirina"
+            }
+         },
+         {
+            "start" : "1531720800",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 93 s\u00e6son 3",
+               "xmltv_ns" : "2. 92 ."
+            },
+            "channel" : "junior.disneychannel.dk",
+            "title" : {
+               "da" : "Mickeys klubhus"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "stop" : "1531722600",
+            "previously_shown" : "junior.disneychannel.dk|2016-12-31 08:30:00",
+            "desc" : {
+               "da" : "Mickey, Minnie, Anders, Andersine, Fedtmule, Pluto og Raptus von And koncentrerer sig om at interagere med seeren og stimulere probleml\u00f8sning ved hj\u00e6lp af basal viden, former og tal. Den er fuld af Disneys yndlingsfigurer og g\u00f8r det sjovt at l\u00e6re!"
+            },
+            "new" : null
+         },
+         {
+            "channel" : "junior.disneychannel.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=79854&seasonid=17357&id=323500&lid=10"
+            ],
+            "rating" : {
+               "stars" : "5.8 / 9"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 5 .",
+               "thetvdb.com" : "series/79854",
+               "onscreen" : "Afsnit 6 s\u00e6son 1"
+            },
+            "start" : "1531722600",
+            "subTitle" : {
+               "da" : "Donald and the Beanstalk"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Pluto (w/Green Collar)",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "role" : "Donald Duck",
+                     "name" : "Tony Anselmo"
+                  },
+                  {
+                     "name" : "Russi Taylor",
+                     "role" : "Minnie Mouse"
+                  },
+                  {
+                     "name" : "Bret Iwan (Mickey Mouse (Season 3"
+                  },
+                  {
+                     "name" : "Second Half, | Seasons 4&5))"
+                  },
+                  {
+                     "name" : "Jim Cummings",
+                     "role" : "Pete Peter"
+                  },
+                  {
+                     "name" : "Rob Paulsen",
+                     "role" : "Chip 'n Dale"
+                  },
+                  {
+                     "role" : "Clarabelle Cow",
+                     "name" : "April Winchell"
+                  },
+                  {
+                     "role" : "Daisy Duck",
+                     "name" : "Tress MacNeille"
+                  },
+                  {
+                     "role" : "Toodles",
+                     "name" : ""
+                  },
+                  {
+                     "role" : "Professer Ludwig Von Drake",
+                     "name" : "Corey Burton"
+                  },
+                  {
+                     "role" : "Goofy",
+                     "name" : "Bill Farmer"
+                  },
+                  {
+                     "name" : "Wayne Allwine (Mickey Mouse (Seasons 1-3"
+                  },
+                  {
+                     "name" : "First Half))"
+                  },
+                  {
+                     "name" : "Willie the Giant and Boo-Boo Chicken"
+                  }
+               ]
+            },
+            "date" : "2006",
+            "stop" : "1531724400",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "desc" : {
+               "da" : "Anders bytter sit yndlingsk\u00e6ledyr, Boo Boo Chicken, for fem magiske b\u00f8nner. Men han savner sit k\u00e6ledyr, s\u00e5 Mickey og Fedmule m\u00e5 g\u00e5 med ham tilbage til b\u00f8nnestagen for at f\u00e5 h\u00f8nen tilbage fra den store lade i skyerne. (S1 ep6)"
+            },
+            "previously_shown" : "junior.disneychannel.dk|2016-11-08 09:15:00",
+            "new" : null,
+            "title" : {
+               "da" : "Mickeys klubhus"
+            }
+         },
+         {
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Isaac Ryan Brown",
+                     "role" : "Bingo"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Hawaii Pug-Oh"
+            },
+            "start" : "1531724400",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0 .",
+               "thetvdb.com" : "series/325978",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=325978&seasonid=705368&id=6018184&lid=10"
+            ],
+            "channel" : "junior.disneychannel.dk",
+            "title" : {
+               "da" : "Hvalpevenner"
+            },
+            "previously_shown" : "junior.disneychannel.dk|2018-02-05 08:25:00",
+            "new" : null,
+            "desc" : {
+               "da" : "To hvalpe er p\u00e5 en mission efter sjov og eventyr!"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "stop" : "1531725600",
+            "date" : "2017"
+         },
+         {
+            "desc" : {
+               "da" : "To hvalpe er p\u00e5 en mission efter sjov og eventyr!"
+            },
+            "previously_shown" : "junior.disneychannel.dk|2018-02-10 10:15:00",
+            "new" : null,
+            "stop" : "1531726800",
+            "date" : "2017",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "title" : {
+               "da" : "Hvalpevenner"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=325978&seasonid=705368&id=6047728&lid=10"
+            ],
+            "channel" : "junior.disneychannel.dk",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Bingo",
+                     "name" : "Isaac Ryan Brown"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Pot O' Pugs"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 5 .",
+               "thetvdb.com" : "series/325978",
+               "onscreen" : "Afsnit 6 s\u00e6son 1"
+            },
+            "start" : "1531725600"
+         },
+         {
+            "title" : {
+               "da" : "Hvalpevenner"
+            },
+            "date" : "2017",
+            "stop" : "1531728000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "previously_shown" : "junior.disneychannel.dk|2018-02-10 11:00:00",
+            "desc" : {
+               "da" : "To hvalpe er p\u00e5 en mission efter sjov og eventyr!"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 13 s\u00e6son 1",
+               "thetvdb.com" : "series/325978",
+               "xmltv_ns" : "0 . 12 ."
+            },
+            "start" : "1531726800",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Bingo",
+                     "name" : "Isaac Ryan Brown"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Hissy's Big Day"
+            },
+            "channel" : "junior.disneychannel.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=325978&seasonid=705368&id=6087207&lid=10"
+            ]
+         },
+         {
+            "start" : "1531728000",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 24 s\u00e6son 1",
+               "thetvdb.com" : "series/325978",
+               "xmltv_ns" : "0 . 23 ."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Isaac Ryan Brown",
+                     "role" : "Bingo"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Counting Sheep"
+            },
+            "channel" : "junior.disneychannel.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=325978&seasonid=705368&id=6181738&lid=10"
+            ],
+            "title" : {
+               "da" : "Hvalpevenner"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "date" : "2017",
+            "stop" : "1531728900",
+            "new" : null,
+            "previously_shown" : "junior.disneychannel.dk|2018-02-07 15:31:00",
+            "desc" : {
+               "da" : "To hvalpe er p\u00e5 en mission efter sjov og eventyr!"
+            }
+         },
+         {
+            "desc" : {
+               "da" : "To hvalpe er p\u00e5 en mission efter sjov og eventyr!"
+            },
+            "previously_shown" : "junior.disneychannel.dk|2018-05-02 14:31:00",
+            "new" : null,
+            "date" : "2017",
+            "stop" : "1531730100",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "title" : {
+               "da" : "Hvalpevenner"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=325978&seasonid=705368&id=6331719&lid=10"
+            ],
+            "channel" : "junior.disneychannel.dk",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Isaac Ryan Brown",
+                     "role" : "Bingo"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "A Seat at the Theatre"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 31 s\u00e6son 1",
+               "thetvdb.com" : "series/325978",
+               "xmltv_ns" : "0 . 30 ."
+            },
+            "start" : "1531728900"
+         },
+         {
+            "start" : "1531730100",
+            "episodeNum" : {
+               "thetvdb.com" : "series/325978",
+               "xmltv_ns" : "0 . 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 1"
+            },
+            "subTitle" : {
+               "da" : "A.R.F."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Bingo",
+                     "name" : "Isaac Ryan Brown"
+                  }
+               ]
+            },
+            "channel" : "junior.disneychannel.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=325978&seasonid=705368&id=6047243&lid=10"
+            ],
+            "title" : {
+               "da" : "Hvalpevenner"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "stop" : "1531731000",
+            "date" : "2017",
+            "previously_shown" : "junior.disneychannel.dk|2018-03-05 08:15:00",
+            "new" : null,
+            "desc" : {
+               "da" : "To hvalpe er p\u00e5 en mission efter sjov og eventyr!"
+            }
+         },
+         {
+            "date" : "2017",
+            "stop" : "1531732200",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "previously_shown" : "junior.disneychannel.dk|2018-02-08 11:45:00",
+            "desc" : {
+               "da" : "To hvalpe er p\u00e5 en mission efter sjov og eventyr!"
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Hvalpevenner"
+            },
+            "channel" : "junior.disneychannel.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=325978&seasonid=705368&id=6076939&lid=10"
+            ],
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 10 .",
+               "thetvdb.com" : "series/325978",
+               "onscreen" : "Afsnit 11 s\u00e6son 1"
+            },
+            "start" : "1531731000",
+            "subTitle" : {
+               "da" : "Free Whaley"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Bingo",
+                     "name" : "Isaac Ryan Brown"
+                  }
+               ]
+            }
+         },
+         {
+            "channel" : "junior.disneychannel.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=325978&seasonid=705368&id=6181738&lid=10"
+            ],
+            "start" : "1531732200",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 24 s\u00e6son 1",
+               "thetvdb.com" : "series/325978",
+               "xmltv_ns" : "0 . 23 ."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Isaac Ryan Brown",
+                     "role" : "Bingo"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Counting Sheep"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "date" : "2017",
+            "stop" : "1531733400",
+            "desc" : {
+               "da" : "To hvalpe er p\u00e5 en mission efter sjov og eventyr!"
+            },
+            "previously_shown" : "junior.disneychannel.dk|2018-02-07 15:31:00",
+            "new" : null,
+            "title" : {
+               "da" : "Hvalpevenner"
+            }
+         },
+         {
+            "channel" : "junior.disneychannel.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=325978&seasonid=705368&id=6343491&lid=10"
+            ],
+            "start" : "1531733400",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 33 s\u00e6son 1",
+               "thetvdb.com" : "series/325978",
+               "xmltv_ns" : "0 . 32 ."
+            },
+            "subTitle" : {
+               "da" : "Return to the Pumpkin Patch"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Isaac Ryan Brown",
+                     "role" : "Bingo"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "stop" : "1531734300",
+            "date" : "2017",
+            "new" : null,
+            "previously_shown" : "junior.disneychannel.dk|2018-05-08 14:31:00",
+            "desc" : {
+               "da" : "To hvalpe er p\u00e5 en mission efter sjov og eventyr!"
+            },
+            "title" : {
+               "da" : "Hvalpevenner"
+            }
+         },
+         {
+            "previously_shown" : "junior.disneychannel.dk|2018-02-05 11:45:00",
+            "desc" : {
+               "da" : "To hvalpe er p\u00e5 en mission efter sjov og eventyr!"
+            },
+            "new" : null,
+            "date" : "2017",
+            "stop" : "1531735500",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "title" : {
+               "da" : "Hvalpevenner"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=325978&seasonid=705368&id=6047726&lid=10"
+            ],
+            "channel" : "junior.disneychannel.dk",
+            "subTitle" : {
+               "da" : "Take Me Out to the Pug Game"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Isaac Ryan Brown",
+                     "role" : "Bingo"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 1",
+               "thetvdb.com" : "series/325978",
+               "xmltv_ns" : "0 . 3 ."
+            },
+            "start" : "1531734300"
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=325978&seasonid=705368&id=6087207&lid=10"
+            ],
+            "channel" : "junior.disneychannel.dk",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Isaac Ryan Brown",
+                     "role" : "Bingo"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Hissy's Big Day"
+            },
+            "start" : "1531735500",
+            "episodeNum" : {
+               "thetvdb.com" : "series/325978",
+               "xmltv_ns" : "0 . 12 .",
+               "onscreen" : "Afsnit 13 s\u00e6son 1"
+            },
+            "previously_shown" : "junior.disneychannel.dk|2018-02-10 11:00:00",
+            "new" : null,
+            "desc" : {
+               "da" : "To hvalpe er p\u00e5 en mission efter sjov og eventyr!"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "stop" : "1531736700",
+            "date" : "2017",
+            "title" : {
+               "da" : "Hvalpevenner"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "stop" : "1531737000",
+            "desc" : {
+               "da" : "Sl\u00e5 dig til Pyjamasheltene i disse korte eventyr."
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Pyjamasheltene"
+            },
+            "channel" : "junior.disneychannel.dk",
+            "start" : "1531736700",
+            "episodeNum" : {
+               "xmltv_ns" : "0. 10 .",
+               "onscreen" : "Afsnit 11 s\u00e6son 1"
+            }
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : "0. 4 .",
+               "onscreen" : "Afsnit 5 s\u00e6son 1"
+            },
+            "start" : "1531737000",
+            "channel" : "junior.disneychannel.dk",
+            "title" : {
+               "da" : "Claude"
+            },
+            "stop" : "1531737900",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "previously_shown" : "junior.disneychannel.dk|2018-06-08 10:30:00",
+            "new" : null,
+            "desc" : {
+               "da" : "Den alpehuekl\u00e6dte hund Claude og vennen hr. Hoppesok, tager p\u00e5 eventyr ved strandhotellet i Potehavn."
+            }
+         },
+         {
+            "start" : "1531737900",
+            "episodeNum" : {
+               "xmltv_ns" : "0. 1 .",
+               "onscreen" : "Afsnit 2 s\u00e6son 1"
+            },
+            "channel" : "junior.disneychannel.dk",
+            "title" : {
+               "da" : "Trulliland"
+            },
+            "previously_shown" : "junior.disneychannel.dk|2018-02-09 13:40:00",
+            "new" : null,
+            "desc" : {
+               "da" : "Kobberpot dyrker k\u00e6mpetomater. Kokkene l\u00e6rer at samarbejde."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "stop" : "1531738800"
+         },
+         {
+            "desc" : {
+               "da" : "Da Miles, Loretta, Haruna, Blopper og Mirandos rekrutteres som kadetter i Morgendagens Transportstyrelse, f\u00e5r de til opgave at redde en savnet rumkaptajn."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "channel" : "junior.disneychannel.dk",
+            "stop" : "1531742400",
+            "title" : {
+               "da" : "Connect And Project"
+            },
+            "start" : "1531738800"
+         },
+         {
+            "title" : {
+               "da" : "Pyjamasheltene"
+            },
+            "stop" : "1531743600",
+            "date" : "2015",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "desc" : {
+               "da" : "De f\u00e5r deres kr\u00e6fter fra deres dyreamuletter - Jens bliver til Gekko, Amanda bliver til Ugline, og Oscar bliver til Kattedreng. Deres dragter ligner m\u00e5ske pyjamasser, men de er faktisk Pyjamasheltene!"
+            },
+            "previously_shown" : "junior.disneychannel.dk|2018-02-10 17:15:00",
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 33 s\u00e6son 1",
+               "thetvdb.com" : "series/300921",
+               "xmltv_ns" : "0 . 32 ."
+            },
+            "start" : "1531742400",
+            "subTitle" : {
+               "da" : "Gekko Floats"
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Stephen Senders"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Christian De Vita"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Romeo",
+                     "name" : ""
+                  },
+                  {
+                     "name" : "Addison Holley",
+                     "role" : "Amaya - Owlette: Leader"
+                  },
+                  {
+                     "name" : "",
+                     "role" : "Mr. Riz Nakagawa (School Teacher)"
+                  },
+                  {
+                     "role" : "Luna Girl",
+                     "name" : "Brianna Daguanno"
+                  },
+                  {
+                     "role" : "Night Ninja",
+                     "name" : ""
+                  },
+                  {
+                     "role" : "Connor - Catboy: Technician & Former Leader",
+                     "name" : "Jacob Ewaniuk"
+                  },
+                  {
+                     "name" : "Tristan Samuel",
+                     "role" : "Cameron"
+                  },
+                  {
+                     "name" : "Kyle Harrison Breitkopf",
+                     "role" : "Gregg - Gekko: Lieutenant"
+                  }
+               ]
+            },
+            "channel" : "junior.disneychannel.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=300921&seasonid=638935&id=5506007&lid=10"
+            ]
+         },
+         {
+            "date" : "2015",
+            "stop" : "1531744800",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "previously_shown" : "junior.disneychannel.dk|2018-03-27 14:45:00",
+            "new" : null,
+            "desc" : {
+               "da" : "De f\u00e5r deres kr\u00e6fter fra deres dyreamuletter - Jens bliver til Gekko, Amanda bliver til Ugline, og Oscar bliver til Kattedreng. Deres dragter ligner m\u00e5ske pyjamasser, men de er faktisk Pyjamasheltene!"
+            },
+            "title" : {
+               "da" : "Pyjamasheltene"
+            },
+            "channel" : "junior.disneychannel.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=300921&seasonid=638935&id=5571913&lid=10"
+            ],
+            "episodeNum" : {
+               "onscreen" : "Afsnit 38 s\u00e6son 1",
+               "xmltv_ns" : "0 . 37 .",
+               "thetvdb.com" : "series/300921"
+            },
+            "start" : "1531743600",
+            "subTitle" : {
+               "da" : "Catboy and the Sticky Splat Slingshot"
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Ashley Mendoza"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Christian De Vita"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "",
+                     "role" : "Romeo"
+                  },
+                  {
+                     "name" : "Addison Holley",
+                     "role" : "Amaya - Owlette: Leader"
+                  },
+                  {
+                     "role" : "Mr. Riz Nakagawa (School Teacher)",
+                     "name" : ""
+                  },
+                  {
+                     "role" : "Luna Girl",
+                     "name" : "Brianna Daguanno"
+                  },
+                  {
+                     "role" : "Night Ninja",
+                     "name" : ""
+                  },
+                  {
+                     "role" : "Connor - Catboy: Technician & Former Leader",
+                     "name" : "Jacob Ewaniuk"
+                  },
+                  {
+                     "role" : "Cameron",
+                     "name" : "Tristan Samuel"
+                  },
+                  {
+                     "name" : "Kyle Harrison Breitkopf",
+                     "role" : "Gregg - Gekko: Lieutenant"
+                  }
+               ]
+            }
+         },
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 43 s\u00e6son 1",
+               "thetvdb.com" : "series/300921",
+               "xmltv_ns" : "0 . 42 ."
+            },
+            "start" : "1531744800",
+            "subTitle" : {
+               "da" : "Owlette and the Owletteenies"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "",
+                     "role" : "Romeo"
+                  },
+                  {
+                     "name" : "Addison Holley",
+                     "role" : "Amaya - Owlette: Leader"
+                  },
+                  {
+                     "name" : "",
+                     "role" : "Mr. Riz Nakagawa (School Teacher)"
+                  },
+                  {
+                     "role" : "Luna Girl",
+                     "name" : "Brianna Daguanno"
+                  },
+                  {
+                     "role" : "Night Ninja",
+                     "name" : ""
+                  },
+                  {
+                     "role" : "Connor - Catboy: Technician & Former Leader",
+                     "name" : "Jacob Ewaniuk"
+                  },
+                  {
+                     "role" : "Cameron",
+                     "name" : "Tristan Samuel"
+                  },
+                  {
+                     "name" : "Kyle Harrison Breitkopf",
+                     "role" : "Gregg - Gekko: Lieutenant"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Christian De Vita"
+                  },
+                  {
+                     "name" : "Wilson Dos Santos"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Rachel Murrell Jonah Stroh"
+                  }
+               ]
+            },
+            "channel" : "junior.disneychannel.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=300921&seasonid=638935&id=5620924&lid=10"
+            ],
+            "title" : {
+               "da" : "Pyjamasheltene"
+            },
+            "date" : "2015",
+            "stop" : "1531745700",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "desc" : {
+               "da" : "De f\u00e5r deres kr\u00e6fter fra deres dyreamuletter - Jens bliver til Gekko, Amanda bliver til Ugline, og Oscar bliver til Kattedreng. Deres dragter ligner m\u00e5ske pyjamasser, men de er faktisk Pyjamasheltene!"
+            },
+            "previously_shown" : "junior.disneychannel.dk|2018-02-06 15:45:00",
+            "new" : null
+         },
+         {
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=300921&seasonid=638935&id=5672823&lid=10"
+            ],
+            "channel" : "junior.disneychannel.dk",
+            "subTitle" : {
+               "da" : "Gekko and the Rock of All Power"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Romeo",
+                     "name" : ""
+                  },
+                  {
+                     "role" : "Amaya - Owlette: Leader",
+                     "name" : "Addison Holley"
+                  },
+                  {
+                     "role" : "Mr. Riz Nakagawa (School Teacher)",
+                     "name" : ""
+                  },
+                  {
+                     "name" : "Brianna Daguanno",
+                     "role" : "Luna Girl"
+                  },
+                  {
+                     "name" : "",
+                     "role" : "Night Ninja"
+                  },
+                  {
+                     "name" : "Jacob Ewaniuk",
+                     "role" : "Connor - Catboy: Technician & Former Leader"
+                  },
+                  {
+                     "name" : "Tristan Samuel",
+                     "role" : "Cameron"
+                  },
+                  {
+                     "role" : "Gregg - Gekko: Lieutenant",
+                     "name" : "Kyle Harrison Breitkopf"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/300921",
+               "xmltv_ns" : "0 . 47 .",
+               "onscreen" : "Afsnit 48 s\u00e6son 1"
+            },
+            "start" : "1531745700",
+            "new" : null,
+            "previously_shown" : "junior.disneychannel.dk|2018-04-03 14:45:00",
+            "desc" : {
+               "da" : "De f\u00e5r deres kr\u00e6fter fra deres dyreamuletter - Jens bliver til Gekko, Amanda bliver til Ugline, og Oscar bliver til Kattedreng. Deres dragter ligner m\u00e5ske pyjamasser, men de er faktisk Pyjamasheltene!"
+            },
+            "stop" : "1531746900",
+            "date" : "2015",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "title" : {
+               "da" : "Pyjamasheltene"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Pyjamasheltene"
+            },
+            "stop" : "1531748100",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "new" : null,
+            "previously_shown" : "junior.disneychannel.dk|2018-03-28 14:31:00",
+            "desc" : {
+               "da" : "De f\u00e5r deres kr\u00e6fter fra deres dyreamuletter - Jens bliver til Gekko, Amanda bliver til Ugline, og Oscar bliver til Kattedreng."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1. 26 .",
+               "onscreen" : "Afsnit 27 s\u00e6son 2"
+            },
+            "start" : "1531746900",
+            "channel" : "junior.disneychannel.dk"
+         },
+         {
+            "title" : {
+               "da" : "Pyjamasheltene"
+            },
+            "stop" : "1531749300",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "desc" : {
+               "da" : "De f\u00e5r deres kr\u00e6fter fra deres dyreamuletter - Jens bliver til Gekko, Amanda bliver til Ugline, og Oscar bliver til Kattedreng."
+            },
+            "previously_shown" : "junior.disneychannel.dk|2018-05-17 09:15:00",
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "1. 42 .",
+               "onscreen" : "Afsnit 43 s\u00e6son 2"
+            },
+            "start" : "1531748100",
+            "channel" : "junior.disneychannel.dk"
+         },
+         {
+            "title" : {
+               "da" : "Pyjamasheltene"
+            },
+            "new" : null,
+            "desc" : {
+               "da" : "Sl\u00e5 dig til Pyjamasheltene i disse korte eventyr."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "stop" : "1531749600",
+            "start" : "1531749300",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 1 s\u00e6son 1",
+               "xmltv_ns" : "0. 0 ."
+            },
+            "channel" : "junior.disneychannel.dk"
+         },
+         {
+            "title" : {
+               "da" : "Mickey Og Racerholdet"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "stop" : "1531751460",
+            "date" : "2017",
+            "previously_shown" : "junior.disneychannel.dk|2018-03-05 15:00:00",
+            "new" : null,
+            "desc" : {
+               "da" : "Anders bestemmer! De Glade Hj\u00e6lpere som museumsvagter."
+            },
+            "start" : "1531749600",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 18 s\u00e6son 1",
+               "thetvdb.com" : "series/320725",
+               "xmltv_ns" : "0 . 17 ."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Bill Farmer",
+                     "role" : "Goofy"
+                  },
+                  {
+                     "role" : "Minnie Mouse",
+                     "name" : "Russi Taylor"
+                  },
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "Pluto (w/Red Collar)"
+                  },
+                  {
+                     "name" : "Rob Paulsen",
+                     "role" : "Chip 'n Dale"
+                  },
+                  {
+                     "role" : "Clarabelle Cow",
+                     "name" : "April Winchell"
+                  },
+                  {
+                     "name" : "",
+                     "role" : "Billy Beagle"
+                  },
+                  {
+                     "role" : "Professer Ludwig Von Drake",
+                     "name" : "Corey Burton"
+                  },
+                  {
+                     "name" : "Jim Cummings",
+                     "role" : "Pete Peter"
+                  },
+                  {
+                     "name" : "Tress MacNeille",
+                     "role" : "Daisy Duck"
+                  },
+                  {
+                     "role" : "Mickey Mouse",
+                     "name" : "Bret Iwan"
+                  },
+                  {
+                     "role" : "Donald Duck",
+                     "name" : "Tony Anselmo"
+                  },
+                  {
+                     "role" : "Cuckoo-Loca",
+                     "name" : ""
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Bed, Breakfast and Bungled!"
+            },
+            "channel" : "junior.disneychannel.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=320725&seasonid=695611&id=5920302&lid=10"
+            ]
+         },
+         {
+            "title" : {
+               "da" : "Claude"
+            },
+            "stop" : "1531752600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "desc" : {
+               "da" : "Den alpehuekl\u00e6dte hund Claude og vennen hr. Hoppesok, tager p\u00e5 eventyr ved strandhotellet i Potehavn."
+            },
+            "previously_shown" : "junior.disneychannel.dk|2018-07-02 14:31:00",
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 20 s\u00e6son 1",
+               "xmltv_ns" : "0. 19 ."
+            },
+            "start" : "1531751460",
+            "channel" : "junior.disneychannel.dk"
+         },
+         {
+            "channel" : "junior.disneychannel.dk",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=325978&seasonid=705368&id=6047730&lid=10"
+            ],
+            "start" : "1531752600",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 7 .",
+               "thetvdb.com" : "series/325978",
+               "onscreen" : "Afsnit 8 s\u00e6son 1"
+            },
+            "subTitle" : {
+               "da" : "Special Delivery"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Bingo",
+                     "name" : "Isaac Ryan Brown"
+                  }
+               ]
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "stop" : "1531753500",
+            "date" : "2017",
+            "previously_shown" : "junior.disneychannel.dk|2018-03-04 15:15:00",
+            "desc" : {
+               "da" : "To hvalpe er p\u00e5 en mission efter sjov og eventyr!"
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Hvalpevenner"
+            }
+         },
+         {
+            "previously_shown" : "junior.disneychannel.dk|2018-06-14 15:05:00",
+            "desc" : {
+               "da" : "De fantastiske seks k\u00f8rer racerl\u00f8b i hele verden!"
+            },
+            "new" : null,
+            "date" : "2017",
+            "stop" : "1531754700",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "title" : {
+               "da" : "Mickey Og Racerholdet"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=320725&seasonid=695611&id=6238691&lid=10"
+            ],
+            "channel" : "junior.disneychannel.dk",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Bill Farmer",
+                     "role" : "Goofy"
+                  },
+                  {
+                     "role" : "Minnie Mouse",
+                     "name" : "Russi Taylor"
+                  },
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "Pluto (w/Red Collar)"
+                  },
+                  {
+                     "name" : "Rob Paulsen",
+                     "role" : "Chip 'n Dale"
+                  },
+                  {
+                     "name" : "April Winchell",
+                     "role" : "Clarabelle Cow"
+                  },
+                  {
+                     "name" : "",
+                     "role" : "Billy Beagle"
+                  },
+                  {
+                     "name" : "Corey Burton",
+                     "role" : "Professer Ludwig Von Drake"
+                  },
+                  {
+                     "name" : "Jim Cummings",
+                     "role" : "Pete Peter"
+                  },
+                  {
+                     "name" : "Tress MacNeille",
+                     "role" : "Daisy Duck"
+                  },
+                  {
+                     "name" : "Bret Iwan",
+                     "role" : "Mickey Mouse"
+                  },
+                  {
+                     "name" : "Tony Anselmo",
+                     "role" : "Donald Duck"
+                  },
+                  {
+                     "name" : "",
+                     "role" : "Cuckoo-Loca"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Donald's Garage"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 33 s\u00e6son 1",
+               "xmltv_ns" : "0 . 32 .",
+               "thetvdb.com" : "series/320725"
+            },
+            "start" : "1531753500"
+         },
+         {
+            "start" : "1531754700",
+            "episodeNum" : {
+               "xmltv_ns" : "0. 0 .",
+               "onscreen" : "Afsnit 1 s\u00e6son 1"
+            },
+            "channel" : "junior.disneychannel.dk",
+            "title" : {
+               "da" : "Disney Junior Music Nursery Rhymes"
+            },
+            "previously_shown" : "junior.disneychannel.dk|2018-04-16 13:55:00",
+            "new" : null,
+            "desc" : {
+               "da" : "Klassiske vuggeviser f\u00e5r nyt liv p\u00e5 en sjov og legesyg m\u00e5de med hj\u00e6lp fra vildt popul\u00e6re Disney Junior karakterer."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "stop" : "1531755000"
+         },
+         {
+            "previously_shown" : "junior.disneychannel.dk|2018-02-11 07:00:00",
+            "new" : null,
+            "desc" : {
+               "da" : "Scream Girls kommer til byen. Spilleaften!"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids",
+                  "Fantasy"
+               ]
+            },
+            "date" : "2017",
+            "stop" : "1531756500",
+            "title" : {
+               "da" : "Vampirina"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=335717&seasonid=731931&id=6340327&lid=10"
+            ],
+            "channel" : "junior.disneychannel.dk",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "2) (Mr. Gore"
+                  },
+                  {
+                     "name" : "ViviAnn Yee",
+                     "role" : "Bridget"
+                  },
+                  {
+                     "name" : "Sanai Victoria",
+                     "role" : "Phoebe"
+                  },
+                  {
+                     "role" : "Oxana Hauntley (Vampirina's Mom)",
+                     "name" : "Lauren Graham"
+                  },
+                  {
+                     "name" : "James Van Der Beek",
+                     "role" : "Boris Hauntley (Vampirina's Dad)"
+                  },
+                  {
+                     "role" : "Edna",
+                     "name" : "Cree Summer"
+                  },
+                  {
+                     "role" : "Wolfie The Dog / Wolfie The Weredog",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "name" : "Jordan Alexa Davis",
+                     "role" : "Poppy"
+                  },
+                  {
+                     "name" : "Benji Risley",
+                     "role" : "Edgar"
+                  },
+                  {
+                     "name" : "Wanda Sykes",
+                     "role" : "Gregoria The Gargoyle"
+                  },
+                  {
+                     "role" : "Edna",
+                     "name" : "Cree Summer"
+                  },
+                  {
+                     "role" : "Chef Remy Bones",
+                     "name" : "Ian James Corlett"
+                  },
+                  {
+                     "role" : "Nanpire Hauntley (Vampirina's Grandma)",
+                     "name" : "Patti Lupone"
+                  },
+                  {
+                     "name" : "Brian Stokes Mitchell",
+                     "role" : "Grandpop Hauntley (Vampirina's Grandpa)"
+                  },
+                  {
+                     "role" : "Vampirina \"Vee\" Hauntley",
+                     "name" : "Isabella Cramp"
+                  },
+                  {
+                     "role" : "Demi",
+                     "name" : "Mitchell Whitfield"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Little Terror"
+            },
+            "start" : "1531755000",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 9 s\u00e6son 1",
+               "thetvdb.com" : "series/335717",
+               "xmltv_ns" : "0 . 8 ."
+            }
+         },
+         {
+            "previously_shown" : "junior.disneychannel.dk|2018-03-27 14:45:00",
+            "desc" : {
+               "da" : "De f\u00e5r deres kr\u00e6fter fra deres dyreamuletter - Jens bliver til Gekko, Amanda bliver til Ugline, og Oscar bliver til Kattedreng. Deres dragter ligner m\u00e5ske pyjamasser, men de er faktisk Pyjamasheltene!"
+            },
+            "new" : null,
+            "stop" : "1531757700",
+            "date" : "2015",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "title" : {
+               "da" : "Pyjamasheltene"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=300921&seasonid=638935&id=5571913&lid=10"
+            ],
+            "channel" : "junior.disneychannel.dk",
+            "subTitle" : {
+               "da" : "Catboy and the Sticky Splat Slingshot"
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Christian De Vita"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Ashley Mendoza"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "",
+                     "role" : "Romeo"
+                  },
+                  {
+                     "role" : "Amaya - Owlette: Leader",
+                     "name" : "Addison Holley"
+                  },
+                  {
+                     "name" : "",
+                     "role" : "Mr. Riz Nakagawa (School Teacher)"
+                  },
+                  {
+                     "name" : "Brianna Daguanno",
+                     "role" : "Luna Girl"
+                  },
+                  {
+                     "role" : "Night Ninja",
+                     "name" : ""
+                  },
+                  {
+                     "role" : "Connor - Catboy: Technician & Former Leader",
+                     "name" : "Jacob Ewaniuk"
+                  },
+                  {
+                     "name" : "Tristan Samuel",
+                     "role" : "Cameron"
+                  },
+                  {
+                     "role" : "Gregg - Gekko: Lieutenant",
+                     "name" : "Kyle Harrison Breitkopf"
+                  }
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 38 s\u00e6son 1",
+               "thetvdb.com" : "series/300921",
+               "xmltv_ns" : "0 . 37 ."
+            },
+            "start" : "1531756500"
+         },
+         {
+            "stop" : "1531759500",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "previously_shown" : "junior.disneychannel.dk|2018-04-09 16:00:00",
+            "desc" : {
+               "da" : "Sofia tager fat p\u00e5 tr\u00e6ningen som beskytter."
+            },
+            "new" : null,
+            "title" : {
+               "da" : "Sofia den f\u00f8rste: De mystiske \u00f8er"
+            },
+            "channel" : "junior.disneychannel.dk",
+            "episodeNum" : {
+               "xmltv_ns" : "3. 94 .",
+               "onscreen" : "Afsnit 95 s\u00e6son 4"
+            },
+            "start" : "1531757700"
+         },
+         {
+            "channel" : "junior.disneychannel.dk",
+            "start" : "1531759500",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 111 s\u00e6son 4",
+               "xmltv_ns" : "3. 110 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation"
+               ]
+            },
+            "stop" : "1531760400",
+            "new" : null,
+            "previously_shown" : "junior.disneychannel.dk|2018-04-12 04:20:00",
+            "desc" : {
+               "da" : "Klinikken er \u00e5ben! Og nu er Doktor dyrl\u00e6ge!"
+            },
+            "title" : {
+               "da" : "Doktor McStuffins: Leget\u00f8jshospitalet S\u00e6son 4"
+            }
+         },
+         {
+            "previously_shown" : "junior.disneychannel.dk|2016-11-16 07:00:00",
+            "new" : null,
+            "desc" : {
+               "da" : "Bunga tror, at Rafikis malerier forudsiger fremtiden, og involverer resten af garden i at redde Kion fra en stor fare."
+            },
+            "stop" : "1531800000",
+            "date" : "2016",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "title" : {
+               "da" : "L\u00f8vernes garde"
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=282756&seasonid=634944&id=5555524&lid=10"
+            ],
+            "channel" : "junior.disneychannel.dk",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Janja",
+                     "name" : "Andrew Kishino"
+                  },
+                  {
+                     "name" : "Ernie Sabella",
+                     "role" : "Pumbaa"
+                  },
+                  {
+                     "name" : "Gabrielle Union",
+                     "role" : "Queen Nala"
+                  },
+                  {
+                     "role" : "King Simba",
+                     "name" : "Rob Lowe"
+                  },
+                  {
+                     "role" : "Rafiki",
+                     "name" : "Khary Payton"
+                  },
+                  {
+                     "role" : "Kiara",
+                     "name" : "Eden Riegel"
+                  },
+                  {
+                     "role" : "Zazu",
+                     "name" : "Jeff Bennett"
+                  },
+                  {
+                     "name" : "Gary Anthony Williams",
+                     "role" : "Mufasa (Cloud Ghost)"
+                  },
+                  {
+                     "role" : "Ono",
+                     "name" : "Atticus Shaffer"
+                  },
+                  {
+                     "name" : "Diamond White",
+                     "role" : "Fuli"
+                  },
+                  {
+                     "role" : "Beshte",
+                     "name" : "Dusan Brown"
+                  },
+                  {
+                     "name" : "Kevin Schon",
+                     "role" : "Chungu"
+                  },
+                  {
+                     "role" : "Bunga",
+                     "name" : "Joshua Rush"
+                  },
+                  {
+                     "name" : "Max Charles",
+                     "role" : "Kion"
+                  }
+               ]
+            },
+            "subTitle" : {
+               "da" : "Bunga and the King"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/282756",
+               "xmltv_ns" : "0 . 12 .",
+               "onscreen" : "Afsnit 13 s\u00e6son 1"
+            },
+            "start" : "1531760400"
+         }
+      ]
+   }
+}

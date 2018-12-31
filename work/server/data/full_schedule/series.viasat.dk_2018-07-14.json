@@ -1,0 +1,3103 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 24 s\u00e6son 1",
+               "xmltv_ns" : "0 . 1/24 ."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Mystery",
+                  "Crime"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Jonny Lee Miller",
+                     "role" : "Sherlock Holmes"
+                  },
+                  {
+                     "name" : "Lucy Liu",
+                     "role" : "Dr. Joan Watson"
+                  },
+                  {
+                     "role" : "Det. Marcus Bell",
+                     "name" : "Jon Michael Hill"
+                  },
+                  {
+                     "role" : "Cpt. Thomas Gregson",
+                     "name" : "Aidan Quinn"
+                  },
+                  {
+                     "role" : "Rebecca Ellison",
+                     "name" : "Jennifer Ferrin"
+                  },
+                  {
+                     "role" : "Ty Morstan",
+                     "name" : "Bill Heck"
+                  },
+                  {
+                     "role" : "Michael McGee",
+                     "name" : "Casey Siemaszko"
+                  },
+                  {
+                     "name" : "Rosa Arredondo",
+                     "role" : "Elaine"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "John David Coles"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Robert Doherty"
+                  }
+               ]
+            },
+            "stop" : "1531531200",
+            "title" : {
+               "da" : "Elementary"
+            },
+            "desc" : {
+               "da" : "Mens du sov. Holmes og Watson unders\u00f8ger mordet p\u00e5 en rigmandsdatter under et indbrud - men han indser snart, at hun blev dr\u00e6bt f\u00f8r r\u00f8veriet. Den hovedmist\u00e6nkte har dog et vandt\u00e6t alibi, idet han ligger i koma."
+            },
+            "date" : "2012",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/1415/season/1/episode/2"
+            ],
+            "country" : [
+               "US"
+            ],
+            "subTitle" : {
+               "da" : "While You Were Sleeping"
+            },
+            "channel" : "series.viasat.dk",
+            "start" : "1531528200"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Mystery",
+                  "Sci-Fi",
+                  "Fantasy"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 11 af 13 s\u00e6son 4",
+               "xmltv_ns" : "3 . 10/13 ."
+            },
+            "title" : {
+               "da" : "Sleepy Hollow"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Tom Mison",
+                     "role" : "Ichabod Crane"
+                  },
+                  {
+                     "name" : "Lyndie Greenwood",
+                     "role" : "Jenny Mills"
+                  },
+                  {
+                     "role" : "Molly Thomas",
+                     "name" : "Oona Yaffe"
+                  },
+                  {
+                     "role" : "Diana Thomas",
+                     "name" : "Janina Gavankar"
+                  },
+                  {
+                     "role" : "Alex Norwood",
+                     "name" : "Rachel Melvin"
+                  },
+                  {
+                     "role" : "Jake Wells",
+                     "name" : "Jerry MacKinnon"
+                  }
+               ]
+            },
+            "stop" : "1531533600",
+            "desc" : {
+               "da" : "V\u00e5benets vilje. En mystisk kvinde dukker op ved the Vault, hvilket f\u00e5r Team Witness til at fors\u00f8ge at afkode hendes intentioner og motiv. Alex st\u00e5r i en sv\u00e6r situation, og m\u00e5 konfrontere sine komplekse f\u00f8lelser."
+            },
+            "date" : "2017",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/50825/season/4/episode/11"
+            ],
+            "country" : [
+               "US"
+            ],
+            "subTitle" : {
+               "da" : "The Way of the Gun"
+            },
+            "channel" : "series.viasat.dk",
+            "start" : "1531531200"
+         },
+         {
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/50825/season/4/episode/12"
+            ],
+            "country" : [
+               "US"
+            ],
+            "subTitle" : {
+               "da" : "Tomorrow"
+            },
+            "channel" : "series.viasat.dk",
+            "start" : "1531533600",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Mystery",
+                  "Sci-Fi",
+                  "Fantasy"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 11/13 .",
+               "onscreen" : "Afsnit 12 af 13 s\u00e6son 4"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Tom Mison",
+                     "role" : "Ichabod Crane"
+                  },
+                  {
+                     "name" : "Lyndie Greenwood",
+                     "role" : "Jenny Mills"
+                  },
+                  {
+                     "name" : "Oona Yaffe",
+                     "role" : "Molly Thomas"
+                  },
+                  {
+                     "role" : "Diana Thomas",
+                     "name" : "Janina Gavankar"
+                  },
+                  {
+                     "name" : "Rachel Melvin",
+                     "role" : "Alex Norwood"
+                  },
+                  {
+                     "name" : "Jerry MacKinnon",
+                     "role" : "Jake Wells"
+                  }
+               ]
+            },
+            "stop" : "1531536000",
+            "title" : {
+               "da" : "Sleepy Hollow"
+            },
+            "desc" : {
+               "da" : "I morgen. Efter et frygteligt fremtidssyn af hvordan verden kan udvikle sig, hvis Dreyfuss' plan lykkes, begiver Vidnerne sig afsted for besejre den forbryderiske milliard\u00e6r. De opdager ogs\u00e5 flere ting om Lara."
+            },
+            "date" : "2017"
+         },
+         {
+            "date" : "2017",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy",
+                  "Talkshow"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 56 .",
+               "onscreen" : "Afsnit 57 s\u00e6son 4"
+            },
+            "title" : {
+               "da" : "The Late Late show with James Corden"
+            },
+            "stop" : "1531538400",
+            "desc" : {
+               "da" : "James taler med Jamie Dornan og Pete Holmes. Rich Brian optr\u00e6der."
+            },
+            "start" : "1531536000",
+            "channel" : "series.viasat.dk",
+            "video" : {
+               "aspect" : "4:3"
+            }
+         },
+         {
+            "stop" : "1531540800",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Carrie Wells",
+                     "name" : "Poppy Montgomery"
+                  },
+                  {
+                     "role" : "Al Burns",
+                     "name" : "Dylan Walsh"
+                  },
+                  {
+                     "name" : "Dallas Roberts",
+                     "role" : "Eliot Delson"
+                  },
+                  {
+                     "role" : "Jay Lee",
+                     "name" : "James Hiroyuki Liao"
+                  },
+                  {
+                     "name" : "Tawny Cypress",
+                     "role" : "Cherie Rollins-Murray"
+                  },
+                  {
+                     "role" : "Joanne Webster",
+                     "name" : "Jane Curtin"
+                  },
+                  {
+                     "name" : "Britt Lower",
+                     "role" : "Tanya Sitkowsky"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Paul Holahan"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Michael Reisz"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Unforgettable"
+            },
+            "desc" : {
+               "da" : "Eliot tvinges til at konfrontere b\u00e5de gamle og nye d\u00e6moner, da en af hans \u00e6ldste venner, som var kampagnechef for en borgmesterkandidat, myrdes."
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 7 af 13 s\u00e6son 3",
+               "xmltv_ns" : "2 . 6/13 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Crime",
+                  "Drama",
+                  "Mystery"
+               ]
+            },
+            "date" : "2014",
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/39276/season/3/episode/7"
+            ],
+            "start" : "1531538400",
+            "channel" : "series.viasat.dk",
+            "subTitle" : {
+               "da" : "Throwing Shade"
+            },
+            "rating" : {
+               "stars" : "6.7 / 9"
+            }
+         },
+         {
+            "date" : "2017",
+            "title" : {
+               "da" : "The Late Late show with James Corden"
+            },
+            "stop" : "1531543500",
+            "desc" : {
+               "da" : "James Corden har bes\u00f8g af Michael Pe\u00f1a og O'Shea Jackson Jr."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy",
+                  "Talkshow"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 52 .",
+               "onscreen" : "Afsnit 53 s\u00e6son 4"
+            },
+            "start" : "1531540800",
+            "channel" : "series.viasat.dk",
+            "video" : {
+               "aspect" : "4:3"
+            }
+         },
+         {
+            "date" : "2017",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 54 s\u00e6son 4",
+               "xmltv_ns" : "3 . 53 ."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy",
+                  "Talkshow"
+               ]
+            },
+            "title" : {
+               "da" : "The Late Late show with James Corden"
+            },
+            "stop" : "1531546200",
+            "desc" : {
+               "da" : "James Corden har bes\u00f8g af Lily Tomlin"
+            },
+            "start" : "1531543500",
+            "channel" : "series.viasat.dk",
+            "video" : {
+               "aspect" : "4:3"
+            }
+         },
+         {
+            "title" : {
+               "da" : "The Late Late show with James Corden"
+            },
+            "stop" : "1531548900",
+            "desc" : {
+               "da" : "James Corden har bes\u00f8g af Lily Tomlin"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 54 s\u00e6son 4",
+               "xmltv_ns" : "3 . 53 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy",
+                  "Talkshow"
+               ]
+            },
+            "date" : "2017",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "channel" : "series.viasat.dk",
+            "start" : "1531546200"
+         },
+         {
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "channel" : "series.viasat.dk",
+            "start" : "1531548900",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy",
+                  "Talkshow"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 56 s\u00e6son 4",
+               "xmltv_ns" : "3 . 55 ."
+            },
+            "desc" : {
+               "da" : "Martin Short og Lisa Kudrow f\u00e5r en snak med James Corden, Fall Out Boy optr\u00e6der."
+            },
+            "stop" : "1531551600",
+            "title" : {
+               "da" : "The Late Late show with James Corden"
+            },
+            "date" : "2017"
+         },
+         {
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "channel" : "series.viasat.dk",
+            "start" : "1531551600",
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 56 .",
+               "onscreen" : "Afsnit 57 s\u00e6son 4"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy",
+                  "Talkshow"
+               ]
+            },
+            "stop" : "1531554300",
+            "title" : {
+               "da" : "The Late Late show with James Corden"
+            },
+            "desc" : {
+               "da" : "James taler med Jamie Dornan og Pete Holmes. Rich Brian optr\u00e6der."
+            },
+            "date" : "2017"
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "https://www.themoviedb.org/tv/3452/season/8/episode/11"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "start" : "1531554300",
+            "channel" : "series.viasat.dk",
+            "subTitle" : {
+               "da" : "Motor Skills"
+            },
+            "stop" : "1531555500",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Kelsey Grammer",
+                     "role" : "Frasier Crane"
+                  },
+                  {
+                     "role" : "Niles Crane",
+                     "name" : "David Hyde Pierce"
+                  },
+                  {
+                     "name" : "Jane Leeves",
+                     "role" : "Daphne Moon"
+                  },
+                  {
+                     "role" : "Roz Doyle",
+                     "name" : "Peri Gilpin"
+                  },
+                  {
+                     "name" : "John Mahoney",
+                     "role" : "Martin Crane"
+                  },
+                  {
+                     "role" : "Chelsea",
+                     "name" : "Katherine Disque"
+                  },
+                  {
+                     "name" : "Kelvin Yu",
+                     "role" : "Copy Guy"
+                  },
+                  {
+                     "role" : "Shirley",
+                     "name" : "Pamela Dunlap"
+                  },
+                  {
+                     "role" : "Randy",
+                     "name" : "Dave Allen"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Eric Zicklin"
+                  },
+                  {
+                     "name" : "Chris Marcil"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Pamela Fryman"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Frasier"
+            },
+            "desc" : {
+               "da" : "Motorik. Frasier og Niles indser deres hj\u00e6lpel\u00f8shed, da Frasiers bil strejker - s\u00e5 de melder sig til aftenundervisning for mekanikere."
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "7 . 10/24 .",
+               "onscreen" : "Afsnit 11 af 24 s\u00e6son 8"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "date" : "2001"
+         },
+         {
+            "subTitle" : {
+               "da" : "The Show Must Go Off"
+            },
+            "channel" : "series.viasat.dk",
+            "start" : "1531555500",
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/3452/season/8/episode/12"
+            ],
+            "date" : "2001",
+            "episodeNum" : {
+               "xmltv_ns" : "7 . 11/24 .",
+               "onscreen" : "Afsnit 12 af 24 s\u00e6son 8"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Mark Reisman"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Robert H. Egan"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Frasier Crane",
+                     "name" : "Kelsey Grammer"
+                  },
+                  {
+                     "name" : "David Hyde Pierce",
+                     "role" : "Niles Crane"
+                  },
+                  {
+                     "role" : "Daphne Moon",
+                     "name" : "Jane Leeves"
+                  },
+                  {
+                     "name" : "Peri Gilpin",
+                     "role" : "Roz Doyle"
+                  },
+                  {
+                     "role" : "Martin Crane",
+                     "name" : "John Mahoney"
+                  },
+                  {
+                     "name" : "Derek Jacobi",
+                     "role" : "Jackson Hedley"
+                  },
+                  {
+                     "role" : "Cecil Hedley",
+                     "name" : "Patrick Macnee"
+                  },
+                  {
+                     "name" : "Ray Porter",
+                     "role" : "Dwayne"
+                  },
+                  {
+                     "name" : "Jonathan Adams",
+                     "role" : "Fire Marshall"
+                  },
+                  {
+                     "role" : "Noel Shempsky",
+                     "name" : "Patrick Kerr"
+                  },
+                  {
+                     "role" : "Stage Manager",
+                     "name" : "Ben Livingston"
+                  },
+                  {
+                     "role" : "Klingon",
+                     "name" : "Milan Dragicevic"
+                  },
+                  {
+                     "name" : "Alan Heitz",
+                     "role" : "Fan"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Frasier"
+            },
+            "desc" : {
+               "da" : "The Show Must Go Off. Frasier og Niles fors\u00f8ger at genoplive Jackson Hedleys karriere; en gammel skuespiller, som spillede med i Hamlet, da de to var unge."
+            },
+            "stop" : "1531557000"
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/3452/season/8/episode/13"
+            ],
+            "start" : "1531557000",
+            "channel" : "series.viasat.dk",
+            "subTitle" : {
+               "da" : "Sliding Frasiers"
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Pamela Fryman"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Dan O'Shannon"
+                  },
+                  {
+                     "name" : "Bob Daily"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Kelsey Grammer",
+                     "role" : "Frasier Crane"
+                  },
+                  {
+                     "role" : "Niles Crane",
+                     "name" : "David Hyde Pierce"
+                  },
+                  {
+                     "role" : "Daphne Moon",
+                     "name" : "Jane Leeves"
+                  },
+                  {
+                     "role" : "Roz Doyle",
+                     "name" : "Peri Gilpin"
+                  },
+                  {
+                     "name" : "John Mahoney",
+                     "role" : "Martin Crane"
+                  },
+                  {
+                     "role" : "Guest Caller - Rachel",
+                     "name" : "Bernadette Peters"
+                  },
+                  {
+                     "name" : "JD Roberto",
+                     "role" : "Robert"
+                  },
+                  {
+                     "name" : "Michael G. Hawkins",
+                     "role" : "Emcee"
+                  },
+                  {
+                     "name" : "Jon Curry",
+                     "role" : "Mike"
+                  },
+                  {
+                     "name" : "Heather McDonald",
+                     "role" : "Judy"
+                  },
+                  {
+                     "role" : "Monica",
+                     "name" : "Charlotte Ross"
+                  },
+                  {
+                     "role" : "Kenny Daly",
+                     "name" : "Tom McGowan"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Sliding Frasiers. Frasier skal til speed-dating, og sp\u00f8rger Roz, om han skal tage et jakkes\u00e6t eller sweater p\u00e5."
+            },
+            "stop" : "1531558200",
+            "title" : {
+               "da" : "Frasier"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 13 af 24 s\u00e6son 8",
+               "xmltv_ns" : "7 . 12/24 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "date" : "2001"
+         },
+         {
+            "url" : [
+               "https://www.themoviedb.org/tv/3452/season/8/episode/14"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "start" : "1531558200",
+            "channel" : "series.viasat.dk",
+            "subTitle" : {
+               "da" : "Hungry Heart"
+            },
+            "title" : {
+               "da" : "Frasier"
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Kelsey Grammer"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Frasier Crane",
+                     "name" : "Kelsey Grammer"
+                  },
+                  {
+                     "role" : "Niles Crane",
+                     "name" : "David Hyde Pierce"
+                  },
+                  {
+                     "name" : "Jane Leeves",
+                     "role" : "Daphne Moon"
+                  },
+                  {
+                     "name" : "Peri Gilpin",
+                     "role" : "Roz Doyle"
+                  },
+                  {
+                     "name" : "John Mahoney",
+                     "role" : "Martin Crane"
+                  },
+                  {
+                     "name" : "Illeana Douglas",
+                     "role" : "Kenny's Wife"
+                  },
+                  {
+                     "role" : "Kenny Daly",
+                     "name" : "Tom McGowan"
+                  },
+                  {
+                     "role" : "Janis",
+                     "name" : "Julie Dretzin"
+                  },
+                  {
+                     "role" : "Waiter",
+                     "name" : "Mario Soto"
+                  }
+               ]
+            },
+            "stop" : "1531559700",
+            "desc" : {
+               "da" : "Hungry Heart. Kenny ankommer panisk til Frasiers hjem, efter at han - uvidende - har lavet en date med en kvinde, selvom hun er gift."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 14 af 24 s\u00e6son 8",
+               "xmltv_ns" : "7 . 13/24 ."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "date" : "2001"
+         },
+         {
+            "date" : "2001",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 15 af 24 s\u00e6son 8",
+               "xmltv_ns" : "7 . 14/24 ."
+            },
+            "title" : {
+               "da" : "Frasier"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Frasier Crane",
+                     "name" : "Kelsey Grammer"
+                  },
+                  {
+                     "name" : "David Hyde Pierce",
+                     "role" : "Niles Crane"
+                  },
+                  {
+                     "role" : "Daphne Moon",
+                     "name" : "Jane Leeves"
+                  },
+                  {
+                     "name" : "Peri Gilpin",
+                     "role" : "Roz Doyle"
+                  },
+                  {
+                     "role" : "Martin Crane",
+                     "name" : "John Mahoney"
+                  },
+                  {
+                     "role" : "Bartender",
+                     "name" : "Edward James Gage"
+                  },
+                  {
+                     "role" : "Jean-Pierre",
+                     "name" : "Philippe Durand"
+                  },
+                  {
+                     "role" : "Francine",
+                     "name" : "Lisa K. Wyatt"
+                  },
+                  {
+                     "role" : "PR Woman",
+                     "name" : "Valarie Pettiford"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Kelsey Grammer"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Jon Sherman"
+                  }
+               ]
+            },
+            "stop" : "1531560900",
+            "desc" : {
+               "da" : "Hooping Cranes. Frasier f\u00e5r billetter til Sonics-kampen, og tager med Martin og Niles til den (selvom han og Niles faktisk har andre planer)."
+            },
+            "subTitle" : {
+               "da" : "Hooping Cranes"
+            },
+            "start" : "1531559700",
+            "channel" : "series.viasat.dk",
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/3452/season/8/episode/15"
+            ]
+         },
+         {
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Chris Marcil"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "David Lee"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Kelsey Grammer",
+                     "role" : "Frasier Crane"
+                  },
+                  {
+                     "role" : "Niles Crane",
+                     "name" : "David Hyde Pierce"
+                  },
+                  {
+                     "name" : "Jane Leeves",
+                     "role" : "Daphne Moon"
+                  },
+                  {
+                     "role" : "Roz Doyle",
+                     "name" : "Peri Gilpin"
+                  },
+                  {
+                     "role" : "Martin Crane",
+                     "name" : "John Mahoney"
+                  },
+                  {
+                     "role" : "Guest Caller - Fred",
+                     "name" : "Harold Prince"
+                  },
+                  {
+                     "name" : "Kate Luhr",
+                     "role" : "April"
+                  },
+                  {
+                     "name" : "Tom Slovick",
+                     "role" : "Ed"
+                  },
+                  {
+                     "role" : "B.K.",
+                     "name" : "Rob Moore"
+                  },
+                  {
+                     "name" : "Tom McGowan",
+                     "role" : "Kenny Daly"
+                  },
+                  {
+                     "role" : "Himself",
+                     "name" : "John Glenn"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Frasier"
+            },
+            "desc" : {
+               "da" : "Dokudrama. Roz f\u00e5r gr\u00f8nt lys til at lave et s\u00e6rligt radioprogram om det ydre rum - og accepterer, at Frasier l\u00e6gger stemme til."
+            },
+            "stop" : "1531562400",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 16 af 24 s\u00e6son 8",
+               "xmltv_ns" : "7 . 15/24 ."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "date" : "2001",
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/3452/season/8/episode/16"
+            ],
+            "channel" : "series.viasat.dk",
+            "start" : "1531560900",
+            "subTitle" : {
+               "da" : "Docu.Drama"
+            }
+         },
+         {
+            "date" : "2001",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Wil Shriner"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Rob Hanning"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Kelsey Grammer",
+                     "role" : "Frasier Crane"
+                  },
+                  {
+                     "name" : "David Hyde Pierce",
+                     "role" : "Niles Crane"
+                  },
+                  {
+                     "role" : "Daphne Moon",
+                     "name" : "Jane Leeves"
+                  },
+                  {
+                     "name" : "Peri Gilpin",
+                     "role" : "Roz Doyle"
+                  },
+                  {
+                     "role" : "Martin Crane",
+                     "name" : "John Mahoney"
+                  },
+                  {
+                     "role" : "Monique",
+                     "name" : "Candace Edwards"
+                  },
+                  {
+                     "name" : "Charles Janasz",
+                     "role" : "Spencer"
+                  },
+                  {
+                     "role" : "James the Waiter",
+                     "name" : "James Aaron Oliver"
+                  },
+                  {
+                     "role" : "Estelle",
+                     "name" : "Damara Reilly"
+                  },
+                  {
+                     "name" : "Michael Canavan",
+                     "role" : "Reggie"
+                  },
+                  {
+                     "role" : "Penelope Janvier",
+                     "name" : "Barbara Babcock"
+                  },
+                  {
+                     "name" : "John Michael Higgins",
+                     "role" : "William"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Frasier"
+            },
+            "desc" : {
+               "da" : "Der skal to til at sammenkludre. Frasier og Niles holder en fest, for at fors\u00f8ge at overbevise Penelope om, at forvalteren af en fond skal donere penge til den folkeskole, som de to gik p\u00e5, da de var b\u00f8rn."
+            },
+            "stop" : "1531563600",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 17 af 24 s\u00e6son 8",
+               "xmltv_ns" : "7 . 16/24 ."
+            },
+            "channel" : "series.viasat.dk",
+            "start" : "1531562400",
+            "subTitle" : {
+               "da" : "It Takes Two to Tangle"
+            },
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/3452/season/8/episode/17"
+            ]
+         },
+         {
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Kelsey Grammer",
+                     "role" : "Frasier Crane"
+                  },
+                  {
+                     "name" : "David Hyde Pierce",
+                     "role" : "Niles Crane"
+                  },
+                  {
+                     "name" : "Jane Leeves",
+                     "role" : "Daphne Moon"
+                  },
+                  {
+                     "name" : "Peri Gilpin",
+                     "role" : "Roz Doyle"
+                  },
+                  {
+                     "role" : "Martin Crane",
+                     "name" : "John Mahoney"
+                  },
+                  {
+                     "role" : "Reynolds",
+                     "name" : "Jonathan McMurtry"
+                  },
+                  {
+                     "name" : "David Norona",
+                     "role" : "Lance"
+                  },
+                  {
+                     "role" : "Virgil Hefflewhite",
+                     "name" : "Richard Stretchberry"
+                  },
+                  {
+                     "role" : "Gil Chesterton",
+                     "name" : "Edward Hibbert"
+                  },
+                  {
+                     "role" : "Kenny Daly",
+                     "name" : "Tom McGowan"
+                  },
+                  {
+                     "name" : "Jennifer Coolidge",
+                     "role" : "Frederica"
+                  },
+                  {
+                     "name" : "Charles Cioffi",
+                     "role" : "Endicott"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "David Lloyd"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Pamela Fryman"
+                  }
+               ]
+            },
+            "stop" : "1531565100",
+            "desc" : {
+               "da" : "Glemt, men ikke v\u00e6k. Frasier forlader vinklubben."
+            },
+            "title" : {
+               "da" : "Frasier"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "7 . 17/24 .",
+               "onscreen" : "Afsnit 18 af 24 s\u00e6son 8"
+            },
+            "date" : "2001",
+            "url" : [
+               "https://www.themoviedb.org/tv/3452/season/8/episode/18"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "start" : "1531563600",
+            "channel" : "series.viasat.dk",
+            "subTitle" : {
+               "da" : "Forgotten But Not Gone"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Daphne Returns"
+            },
+            "start" : "1531565100",
+            "channel" : "series.viasat.dk",
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "https://www.themoviedb.org/tv/3452/season/8/episode/19"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2001",
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "7 . 18/24 .",
+               "onscreen" : "Afsnit 19 af 24 s\u00e6son 8"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Frasier Crane",
+                     "name" : "Kelsey Grammer"
+                  },
+                  {
+                     "name" : "David Hyde Pierce",
+                     "role" : "Niles Crane"
+                  },
+                  {
+                     "name" : "Jane Leeves",
+                     "role" : "Daphne Moon"
+                  },
+                  {
+                     "role" : "Roz Doyle",
+                     "name" : "Peri Gilpin"
+                  },
+                  {
+                     "role" : "Martin Crane",
+                     "name" : "John Mahoney"
+                  },
+                  {
+                     "role" : "Patient",
+                     "name" : "Bryan McMillen"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Dan O'Shannon"
+                  },
+                  {
+                     "name" : "Bob Daily"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Pamela Fryman"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Daphne vender tilbage. Niles henter Daphne fra \"fat camp\", og planl\u00e6gger en weekend v\u00e6k, hvor de skal sove sammen for f\u00f8rste gang."
+            },
+            "stop" : "1531566300",
+            "title" : {
+               "da" : "Frasier"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "The Wizard and Roz"
+            },
+            "start" : "1531566300",
+            "channel" : "series.viasat.dk",
+            "url" : [
+               "https://www.themoviedb.org/tv/3452/season/8/episode/20"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "date" : "2001",
+            "episodeNum" : {
+               "xmltv_ns" : "7 . 19/24 .",
+               "onscreen" : "Afsnit 20 af 24 s\u00e6son 8"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "desc" : {
+               "da" : "Troldmanden og Roz. Selv om Daphne fik ret i, at Niles ville komme til skade, siger han, at han vil have videnskabelige beviser for at tro p\u00e5 hendes evner."
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Sheldon Epps"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Kelsey Grammer",
+                     "role" : "Frasier Crane"
+                  },
+                  {
+                     "name" : "David Hyde Pierce",
+                     "role" : "Niles Crane"
+                  },
+                  {
+                     "name" : "Jane Leeves",
+                     "role" : "Daphne Moon"
+                  },
+                  {
+                     "role" : "Roz Doyle",
+                     "name" : "Peri Gilpin"
+                  },
+                  {
+                     "name" : "John Mahoney",
+                     "role" : "Martin Crane"
+                  },
+                  {
+                     "name" : "Benjamin Stephens",
+                     "role" : "Peterson"
+                  },
+                  {
+                     "role" : "Professor William Tewksbury",
+                     "name" : "Rene Auberjonois"
+                  },
+                  {
+                     "name" : "Fisher Stevens",
+                     "role" : "Dr. Sheldon Morey"
+                  }
+               ]
+            },
+            "stop" : "1531567800",
+            "title" : {
+               "da" : "Frasier"
+            }
+         },
+         {
+            "date" : "2013",
+            "title" : {
+               "da" : "Nashville"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Robert Wisdom",
+                     "role" : "Coleman Carlisle"
+                  },
+                  {
+                     "role" : "Maddie Conrad",
+                     "name" : "Lennon Stella"
+                  },
+                  {
+                     "name" : "Powers Boothe",
+                     "role" : "Lamar Wyatt"
+                  },
+                  {
+                     "role" : "Teddy Conrad",
+                     "name" : "Eric Close"
+                  },
+                  {
+                     "role" : "Scarlett O'Connor",
+                     "name" : "Clare Bowen"
+                  },
+                  {
+                     "role" : "Deacon Claybourne",
+                     "name" : "Chip Esten"
+                  },
+                  {
+                     "name" : "Maisy Stella",
+                     "role" : "Daphne Conrad"
+                  },
+                  {
+                     "name" : "Hayden Panettiere",
+                     "role" : "Juliette Barnes"
+                  },
+                  {
+                     "name" : "Jonathan Jackson",
+                     "role" : "Avery Barkley"
+                  },
+                  {
+                     "role" : "Bucky Dawes",
+                     "name" : "David Alford"
+                  },
+                  {
+                     "role" : "Rayna James",
+                     "name" : "Connie Britton"
+                  },
+                  {
+                     "role" : "Gunnar Scott",
+                     "name" : "Sam Palladio"
+                  },
+                  {
+                     "role" : "Stacey",
+                     "name" : "Susan Misner"
+                  },
+                  {
+                     "name" : "Judith Hoag",
+                     "role" : "Tandy Hampton"
+                  }
+               ]
+            },
+            "stop" : "1531570500",
+            "desc" : {
+               "da" : "Hvorfor elsker du mig ikke. Edgehill Records holder en fest for Rayna og Juliette, da de begge nomineres for en CMA-pris. Juliette st\u00e5r over for nye udfordringer, mens Scarlett er bekymret for Gunnar."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 19 af 21 s\u00e6son 1",
+               "xmltv_ns" : "0 . 18/21 ."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "channel" : "series.viasat.dk",
+            "start" : "1531567800",
+            "subTitle" : {
+               "da" : "Why Don't You Love Me"
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/44549/season/1/episode/19"
+            ],
+            "country" : [
+               "US"
+            ]
+         },
+         {
+            "channel" : "series.viasat.dk",
+            "start" : "1531570500",
+            "subTitle" : {
+               "da" : "A Picture From Life's Other Side"
+            },
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/44549/season/1/episode/20"
+            ],
+            "date" : "2015",
+            "desc" : {
+               "da" : "Et billede fra livets anden side. Lamar viser sig at v\u00e6re en uventet allieret med Rayna. Jolene fors\u00f8ger at hj\u00e6lpe, da hun ser Juliette har problemer. Imens f\u00e5r Will og Avery mulighed for at m\u00e6nge sig med de st\u00f8rre stjerner."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Coleman Carlisle",
+                     "name" : "Robert Wisdom"
+                  },
+                  {
+                     "role" : "Maddie Conrad",
+                     "name" : "Lennon Stella"
+                  },
+                  {
+                     "role" : "Lamar Wyatt",
+                     "name" : "Powers Boothe"
+                  },
+                  {
+                     "name" : "Eric Close",
+                     "role" : "Teddy Conrad"
+                  },
+                  {
+                     "name" : "Clare Bowen",
+                     "role" : "Scarlett O'Connor"
+                  },
+                  {
+                     "name" : "Chip Esten",
+                     "role" : "Deacon Claybourne"
+                  },
+                  {
+                     "role" : "Daphne Conrad",
+                     "name" : "Maisy Stella"
+                  },
+                  {
+                     "role" : "Juliette Barnes",
+                     "name" : "Hayden Panettiere"
+                  },
+                  {
+                     "role" : "Avery Barkley",
+                     "name" : "Jonathan Jackson"
+                  },
+                  {
+                     "role" : "Bucky Dawes",
+                     "name" : "David Alford"
+                  },
+                  {
+                     "name" : "Connie Britton",
+                     "role" : "Rayna James"
+                  },
+                  {
+                     "name" : "Sam Palladio",
+                     "role" : "Gunnar Scott"
+                  },
+                  {
+                     "role" : "Tandy Hampton",
+                     "name" : "Judith Hoag"
+                  }
+               ]
+            },
+            "stop" : "1531573200",
+            "title" : {
+               "da" : "Nashville"
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 19/21 .",
+               "onscreen" : "Afsnit 20 af 21 s\u00e6son 1"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            }
+         },
+         {
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Coleman Carlisle",
+                     "name" : "Robert Wisdom"
+                  },
+                  {
+                     "role" : "Maddie Conrad",
+                     "name" : "Lennon Stella"
+                  },
+                  {
+                     "role" : "Lamar Wyatt",
+                     "name" : "Powers Boothe"
+                  },
+                  {
+                     "role" : "Teddy Conrad",
+                     "name" : "Eric Close"
+                  },
+                  {
+                     "role" : "Scarlett O'Connor",
+                     "name" : "Clare Bowen"
+                  },
+                  {
+                     "name" : "Chip Esten",
+                     "role" : "Deacon Claybourne"
+                  },
+                  {
+                     "role" : "Daphne Conrad",
+                     "name" : "Maisy Stella"
+                  },
+                  {
+                     "name" : "Hayden Panettiere",
+                     "role" : "Juliette Barnes"
+                  },
+                  {
+                     "name" : "Jonathan Jackson",
+                     "role" : "Avery Barkley"
+                  },
+                  {
+                     "role" : "Bucky Dawes",
+                     "name" : "David Alford"
+                  },
+                  {
+                     "role" : "Rayna James",
+                     "name" : "Connie Britton"
+                  },
+                  {
+                     "role" : "Gunnar Scott",
+                     "name" : "Sam Palladio"
+                  },
+                  {
+                     "name" : "Judith Hoag",
+                     "role" : "Tandy Hampton"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Nashville"
+            },
+            "stop" : "1531575900",
+            "desc" : {
+               "da" : "Du slipper aldrig fra dette i live. Brad Paisley optr\u00e6der sammen med Rayna og Deacon."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 21 af 21 s\u00e6son 1",
+               "xmltv_ns" : "0 . 20/21 ."
+            },
+            "date" : "2013",
+            "url" : [
+               "https://www.themoviedb.org/tv/44549/season/1/episode/21"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "start" : "1531573200",
+            "channel" : "series.viasat.dk",
+            "subTitle" : {
+               "da" : "I'll Never Get Out of This World Alive"
+            }
+         },
+         {
+            "url" : [
+               "https://www.themoviedb.org/tv/44549/season/2/episode/1"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "subTitle" : {
+               "da" : "I Fall to Pieces"
+            },
+            "start" : "1531575900",
+            "channel" : "series.viasat.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 0/22 .",
+               "onscreen" : "Afsnit 1 af 22 s\u00e6son 2"
+            },
+            "title" : {
+               "da" : "Nashville"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Lennon Stella",
+                     "role" : "Maddie Conrad"
+                  },
+                  {
+                     "role" : "Teddy Conrad",
+                     "name" : "Eric Close"
+                  },
+                  {
+                     "name" : "Clare Bowen",
+                     "role" : "Scarlett O'Connor"
+                  },
+                  {
+                     "role" : "Deacon Claybourne",
+                     "name" : "Chip Esten"
+                  },
+                  {
+                     "name" : "Maisy Stella",
+                     "role" : "Daphne Conrad"
+                  },
+                  {
+                     "name" : "Hayden Panettiere",
+                     "role" : "Juliette Barnes"
+                  },
+                  {
+                     "role" : "Avery Barkley",
+                     "name" : "Jonathan Jackson"
+                  },
+                  {
+                     "role" : "Will Lexington",
+                     "name" : "Chris Carmack"
+                  },
+                  {
+                     "name" : "Connie Britton",
+                     "role" : "Rayna James"
+                  },
+                  {
+                     "role" : "Gunnar Scott",
+                     "name" : "Sam Palladio"
+                  },
+                  {
+                     "name" : "Judith Hoag",
+                     "role" : "Tandy Hampton"
+                  }
+               ]
+            },
+            "stop" : "1531578600",
+            "desc" : {
+               "da" : "I Fall To Pieces. Efter ulykken er Rayna lagt i kunstigt koma. Juliette tr\u00f8ster Maddie, der stadig er i chok efter afsl\u00f8ringen af hendes faderskabstest. Imens g\u00f8r Scarlett sig klar til hende pladekontrakt."
+            },
+            "date" : "2013"
+         },
+         {
+            "date" : "2013",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 22 s\u00e6son 2",
+               "xmltv_ns" : "1 . 1/22 ."
+            },
+            "stop" : "1531581600",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Maddie Conrad",
+                     "name" : "Lennon Stella"
+                  },
+                  {
+                     "name" : "Eric Close",
+                     "role" : "Teddy Conrad"
+                  },
+                  {
+                     "role" : "Scarlett O'Connor",
+                     "name" : "Clare Bowen"
+                  },
+                  {
+                     "name" : "Chip Esten",
+                     "role" : "Deacon Claybourne"
+                  },
+                  {
+                     "name" : "Maisy Stella",
+                     "role" : "Daphne Conrad"
+                  },
+                  {
+                     "role" : "Juliette Barnes",
+                     "name" : "Hayden Panettiere"
+                  },
+                  {
+                     "name" : "Jonathan Jackson",
+                     "role" : "Avery Barkley"
+                  },
+                  {
+                     "name" : "Chris Carmack",
+                     "role" : "Will Lexington"
+                  },
+                  {
+                     "role" : "Rayna James",
+                     "name" : "Connie Britton"
+                  },
+                  {
+                     "role" : "Gunnar Scott",
+                     "name" : "Sam Palladio"
+                  },
+                  {
+                     "name" : "Judith Hoag",
+                     "role" : "Tandy Hampton"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Nashville"
+            },
+            "desc" : {
+               "da" : "Never No More. Rayna og Juliette m\u00f8der Edgehills nye direkt\u00f8r, hvis verden kun handler om pladesalg. De bliver uenige med ham om retningen for Juliettes musik og at han vil tage Will fra Rayna."
+            },
+            "subTitle" : {
+               "da" : "Never No More"
+            },
+            "start" : "1531578600",
+            "channel" : "series.viasat.dk",
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "https://www.themoviedb.org/tv/44549/season/2/episode/2"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            }
+         },
+         {
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Crime",
+                  "Mystery"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 af 24 s\u00e6son 4",
+               "xmltv_ns" : "3 . 3/24 ."
+            },
+            "desc" : {
+               "da" : "Det er et sp\u00f8rgsm\u00e5l om national sikkerhed, n\u00e5r NCIS-teamet efterforsker mordet p\u00e5 en senatorkandidats medarbejder. Var det et uheld eller et mord?"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Chris O'Donnell",
+                     "role" : "G. Callen"
+                  },
+                  {
+                     "name" : "LL Cool J",
+                     "role" : "Sam Hanna"
+                  },
+                  {
+                     "name" : "Daniela Ruah",
+                     "role" : "Kensi Blye"
+                  },
+                  {
+                     "role" : "Marty Deeks",
+                     "name" : "Eric Christian Olsen"
+                  },
+                  {
+                     "role" : "Henrietta \"Hetty\" Lange",
+                     "name" : "Linda Hunt"
+                  },
+                  {
+                     "role" : "Eric Beal",
+                     "name" : "Barrett Foa"
+                  },
+                  {
+                     "name" : "Miguel Ferrer",
+                     "role" : "Owen Granger"
+                  },
+                  {
+                     "name" : "Ren\u00e9e Felice Smith",
+                     "role" : "Nell Jones"
+                  },
+                  {
+                     "name" : "Sean Marquette",
+                     "role" : "Ed Mosker"
+                  }
+               ]
+            },
+            "stop" : "1531584300",
+            "title" : {
+               "da" : "NCIS: Los Angeles"
+            },
+            "date" : "2012",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/17610/season/4/episode/4"
+            ],
+            "subTitle" : {
+               "da" : "Dead Body Politic"
+            },
+            "start" : "1531581600",
+            "channel" : "series.viasat.dk"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Crime",
+                  "Mystery"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 4/24 .",
+               "onscreen" : "Afsnit 5 af 24 s\u00e6son 4"
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Frank Military"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "G. Callen",
+                     "name" : "Chris O'Donnell"
+                  },
+                  {
+                     "name" : "LL Cool J",
+                     "role" : "Sam Hanna"
+                  },
+                  {
+                     "role" : "Kensi Blye",
+                     "name" : "Daniela Ruah"
+                  },
+                  {
+                     "role" : "Marty Deeks",
+                     "name" : "Eric Christian Olsen"
+                  },
+                  {
+                     "role" : "Henrietta \"Hetty\" Lange",
+                     "name" : "Linda Hunt"
+                  },
+                  {
+                     "role" : "Eric Beal",
+                     "name" : "Barrett Foa"
+                  },
+                  {
+                     "name" : "Miguel Ferrer",
+                     "role" : "Owen Granger"
+                  },
+                  {
+                     "role" : "Nell Jones",
+                     "name" : "Ren\u00e9e Felice Smith"
+                  }
+               ]
+            },
+            "stop" : "1531586700",
+            "title" : {
+               "da" : "NCIS: Los Angeles"
+            },
+            "desc" : {
+               "da" : "Efter at have modtaget en kryptisk besked fra en tidligere CIA-agent bliver Sam Hanna bragt til en lagerbygning, hvor han ser et lig, en stor hvid puddel samt en masse papirer og b\u00f8ger. Efterforskningen af den us\u00e6dvanlige sag kommer til at involvere b\u00e5de hundest\u00e6vner og hemmelige spioner."
+            },
+            "date" : "2012",
+            "url" : [
+               "https://www.themoviedb.org/tv/17610/season/4/episode/5"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "subTitle" : {
+               "da" : "Out of the Past (1)"
+            },
+            "start" : "1531584300",
+            "channel" : "series.viasat.dk"
+         },
+         {
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 5/24 .",
+               "onscreen" : "Afsnit 6 af 24 s\u00e6son 4"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Crime",
+                  "Mystery"
+               ]
+            },
+            "stop" : "1531589400",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "G. Callen",
+                     "name" : "Chris O'Donnell"
+                  },
+                  {
+                     "role" : "Sam Hanna",
+                     "name" : "LL Cool J"
+                  },
+                  {
+                     "name" : "Daniela Ruah",
+                     "role" : "Kensi Blye"
+                  },
+                  {
+                     "role" : "Marty Deeks",
+                     "name" : "Eric Christian Olsen"
+                  },
+                  {
+                     "role" : "Henrietta \"Hetty\" Lange",
+                     "name" : "Linda Hunt"
+                  },
+                  {
+                     "role" : "Eric Beal",
+                     "name" : "Barrett Foa"
+                  },
+                  {
+                     "role" : "Owen Granger",
+                     "name" : "Miguel Ferrer"
+                  },
+                  {
+                     "role" : "Nell Jones",
+                     "name" : "Ren\u00e9e Felice Smith"
+                  },
+                  {
+                     "name" : "Vyto Ruginis",
+                     "role" : "Arkady Kolcheck"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "NCIS: Los Angeles"
+            },
+            "desc" : {
+               "da" : "Efterforskningen forts\u00e6tter, og der dukker beviser op, som forbinder liget til en gruppe russiske spioner. Sams dybeste hemmelighed, risikerer at blive afsl\u00f8ret."
+            },
+            "date" : "2012",
+            "url" : [
+               "https://www.themoviedb.org/tv/17610/season/4/episode/6"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "subTitle" : {
+               "da" : "Rude Awakenings (2)"
+            },
+            "channel" : "series.viasat.dk",
+            "start" : "1531586700"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/17610/season/4/episode/7"
+            ],
+            "channel" : "series.viasat.dk",
+            "start" : "1531589400",
+            "subTitle" : {
+               "da" : "Skin Deep"
+            },
+            "desc" : {
+               "da" : "Da en optagelse af en forbrydelse bliver lagt p\u00e5 nettet, tager NCIS-teamet til stranden for at efterforske, hvilken forbindelse en surfer og en videnskabsmand har til videoen."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Chris O'Donnell",
+                     "role" : "G. Callen"
+                  },
+                  {
+                     "name" : "LL Cool J",
+                     "role" : "Sam Hanna"
+                  },
+                  {
+                     "role" : "Kensi Blye",
+                     "name" : "Daniela Ruah"
+                  },
+                  {
+                     "name" : "Eric Christian Olsen",
+                     "role" : "Marty Deeks"
+                  },
+                  {
+                     "role" : "Henrietta \"Hetty\" Lange",
+                     "name" : "Linda Hunt"
+                  },
+                  {
+                     "name" : "Barrett Foa",
+                     "role" : "Eric Beal"
+                  },
+                  {
+                     "role" : "Owen Granger",
+                     "name" : "Miguel Ferrer"
+                  },
+                  {
+                     "role" : "Nell Jones",
+                     "name" : "Ren\u00e9e Felice Smith"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "NCIS: Los Angeles"
+            },
+            "stop" : "1531592100",
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 6/24 .",
+               "onscreen" : "Afsnit 7 af 24 s\u00e6son 4"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Crime",
+                  "Mystery"
+               ]
+            },
+            "date" : "2012"
+         },
+         {
+            "date" : "2012",
+            "episodeNum" : {
+               "xmltv_ns" : "3 . 7/24 .",
+               "onscreen" : "Afsnit 8 af 24 s\u00e6son 4"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Crime",
+                  "Mystery"
+               ]
+            },
+            "title" : {
+               "da" : "NCIS: Los Angeles"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Chris O'Donnell",
+                     "role" : "G. Callen"
+                  },
+                  {
+                     "role" : "Sam Hanna",
+                     "name" : "LL Cool J"
+                  },
+                  {
+                     "name" : "Daniela Ruah",
+                     "role" : "Kensi Blye"
+                  },
+                  {
+                     "role" : "Marty Deeks",
+                     "name" : "Eric Christian Olsen"
+                  },
+                  {
+                     "name" : "Linda Hunt",
+                     "role" : "Henrietta \"Hetty\" Lange"
+                  },
+                  {
+                     "role" : "Eric Beal",
+                     "name" : "Barrett Foa"
+                  },
+                  {
+                     "role" : "Owen Granger",
+                     "name" : "Miguel Ferrer"
+                  },
+                  {
+                     "role" : "Nell Jones",
+                     "name" : "Ren\u00e9e Felice Smith"
+                  },
+                  {
+                     "role" : "Dex Stevenson",
+                     "name" : "Nick Puga"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "En pensioneret CIA-agent bliver dr\u00e6bt, og teamet m\u00e5 sp\u00f8rge Hetty om hendes forhold til manden."
+            },
+            "stop" : "1531594800",
+            "subTitle" : {
+               "da" : "Collateral Damage"
+            },
+            "start" : "1531592100",
+            "channel" : "series.viasat.dk",
+            "url" : [
+               "https://www.themoviedb.org/tv/17610/season/4/episode/8"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "stop" : "1531597500",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Liev Schreiber",
+                     "role" : "Ray Donovan"
+                  },
+                  {
+                     "name" : "Paula Malcomson",
+                     "role" : "Abby Donovan"
+                  },
+                  {
+                     "role" : "Mickey Donovan",
+                     "name" : "Jon Voight"
+                  },
+                  {
+                     "role" : "Terry Donovan",
+                     "name" : "Eddie Marsan"
+                  },
+                  {
+                     "role" : "Bunchy Donovan",
+                     "name" : "Dash Mihok"
+                  },
+                  {
+                     "name" : "Steven Bauer",
+                     "role" : "Avi"
+                  },
+                  {
+                     "name" : "Katherine Moennig",
+                     "role" : "Lena"
+                  },
+                  {
+                     "name" : "Pooch Hall",
+                     "role" : "Daryll"
+                  },
+                  {
+                     "role" : "Bridget Donovan",
+                     "name" : "Kerris Dorsey"
+                  },
+                  {
+                     "role" : "Conor Donovan",
+                     "name" : "Devon Bagby"
+                  },
+                  {
+                     "role" : "Paige Finney",
+                     "name" : "Katie Holmes"
+                  },
+                  {
+                     "role" : "Andrew Finney",
+                     "name" : "Ian McShane"
+                  },
+                  {
+                     "name" : "Jason Butler Harner",
+                     "role" : "Varick Strauss"
+                  },
+                  {
+                     "role" : "Ginger",
+                     "name" : "Fairuza Balk"
+                  },
+                  {
+                     "name" : "Shree Crooks",
+                     "role" : "Audrey"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Ray Donovan"
+            },
+            "desc" : {
+               "da" : "Kalamazoo. Ray bliver fremmedgjort for sin familie, da han bliver hyret af den velhavende Andrew Finney til at redde hans kidnappede s\u00f8n. Mickey starter en ny virksomhed."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 0/12 .",
+               "onscreen" : "Afsnit 1 af 12 s\u00e6son 3"
+            },
+            "date" : "2015",
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "https://www.themoviedb.org/tv/1423/season/3/episode/1"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "start" : "1531594800",
+            "channel" : "series.viasat.dk",
+            "subTitle" : {
+               "da" : "The Kalamazoo"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Ding"
+            },
+            "channel" : "series.viasat.dk",
+            "start" : "1531597500",
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "https://www.themoviedb.org/tv/1423/season/3/episode/2"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2015",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 1/12 .",
+               "onscreen" : "Afsnit 2 af 12 s\u00e6son 3"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Ray Donovan",
+                     "name" : "Liev Schreiber"
+                  },
+                  {
+                     "name" : "Paula Malcomson",
+                     "role" : "Abby Donovan"
+                  },
+                  {
+                     "name" : "Jon Voight",
+                     "role" : "Mickey Donovan"
+                  },
+                  {
+                     "role" : "Terry Donovan",
+                     "name" : "Eddie Marsan"
+                  },
+                  {
+                     "role" : "Bunchy Donovan",
+                     "name" : "Dash Mihok"
+                  },
+                  {
+                     "name" : "Steven Bauer",
+                     "role" : "Avi"
+                  },
+                  {
+                     "role" : "Lena",
+                     "name" : "Katherine Moennig"
+                  },
+                  {
+                     "role" : "Daryll",
+                     "name" : "Pooch Hall"
+                  },
+                  {
+                     "name" : "Kerris Dorsey",
+                     "role" : "Bridget Donovan"
+                  },
+                  {
+                     "role" : "Conor Donovan",
+                     "name" : "Devon Bagby"
+                  },
+                  {
+                     "role" : "Huey Lewis",
+                     "name" : "Rahad Coulter-Stevenson"
+                  },
+                  {
+                     "role" : "Audrey",
+                     "name" : "Shree Crooks"
+                  },
+                  {
+                     "role" : "Ginger",
+                     "name" : "Fairuza Balk"
+                  },
+                  {
+                     "role" : "Governor Verona",
+                     "name" : "Skipp Sudduth"
+                  },
+                  {
+                     "role" : "Malcolm Finney",
+                     "name" : "Ian McShane"
+                  },
+                  {
+                     "name" : "Katie Holmes",
+                     "role" : "Paige Finney"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Ray Donovan"
+            },
+            "stop" : "1531601100",
+            "desc" : {
+               "da" : "Ding. En quarterback bliver opsporet af en misforn\u00f8jet Navy SEAL, s\u00e5 Paige hyrer Ray til at beskytte ham. Mickey overtaget Garys prostitutionsring. Imens k\u00e6mper Terry med at holde lav profil i f\u00e6ngslet."
+            }
+         },
+         {
+            "start" : "1531601100",
+            "channel" : "series.viasat.dk",
+            "subTitle" : {
+               "da" : "The Inherent, Unsullied Qualitative Value of Anything"
+            },
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/61118/season/3/episode/11"
+            ],
+            "date" : "2016",
+            "stop" : "1531602000",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Jimmy Shive-Overly",
+                     "name" : "Chris Geere"
+                  },
+                  {
+                     "name" : "Aya Cash",
+                     "role" : "Gretchen Cutler"
+                  },
+                  {
+                     "name" : "Desmin Borges",
+                     "role" : "Edgar Quintero"
+                  },
+                  {
+                     "role" : "Lindsay Jillian",
+                     "name" : "Kether Donohue"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Wendey Stanzler"
+                  },
+                  {
+                     "name" : "Stephen Falk"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Du er den v\u00e6rste"
+            },
+            "desc" : {
+               "da" : "Den iboende, uplettede kvalitetsv\u00e6rdi ved alting. Jimmy og Gretchen tager til et bryllup for f\u00f8rste gang siden de m\u00f8dte hinanden - og de seneste sp\u00e6ndinger f\u00e5r det til at koge over. Lindsay tvinges til at fort\u00e6lle Paul sandheden."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 10/13 .",
+               "onscreen" : "Afsnit 11 af 13 s\u00e6son 3"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            }
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "https://www.themoviedb.org/tv/61118/season/3/episode/12"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "start" : "1531602000",
+            "channel" : "series.viasat.dk",
+            "subTitle" : {
+               "da" : "You Knew It Was a Snake"
+            },
+            "desc" : {
+               "da" : "Du vidste, at det var en slange. Alle tre par kommer i sl\u00e5skamp."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Chris Geere",
+                     "role" : "Jimmy Shive-Overly"
+                  },
+                  {
+                     "role" : "Gretchen Cutler",
+                     "name" : "Aya Cash"
+                  },
+                  {
+                     "role" : "Edgar Quintero",
+                     "name" : "Desmin Borges"
+                  },
+                  {
+                     "role" : "Lindsay Jillian",
+                     "name" : "Kether Donohue"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Wendey Stanzler"
+                  },
+                  {
+                     "name" : "Stephen Falk"
+                  }
+               ]
+            },
+            "stop" : "1531603800",
+            "title" : {
+               "da" : "Du er den v\u00e6rste"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 11/13 .",
+               "onscreen" : "Afsnit 12 af 13 s\u00e6son 3"
+            },
+            "date" : "2016"
+         },
+         {
+            "start" : "1531603800",
+            "channel" : "series.viasat.dk",
+            "subTitle" : {
+               "da" : "The Serenity Now"
+            },
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "https://www.themoviedb.org/tv/1400/season/9/episode/3"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "1997",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Jerry Seinfeld",
+                     "role" : "Jerry Seinfeld"
+                  },
+                  {
+                     "role" : "George Costanza",
+                     "name" : "Jason Alexander"
+                  },
+                  {
+                     "name" : "Michael Richards",
+                     "role" : "Cosmo Kramer"
+                  },
+                  {
+                     "name" : "Julia Louis-Dreyfus",
+                     "role" : "Elaine Benes"
+                  },
+                  {
+                     "name" : "Bruce Mahler"
+                  },
+                  {
+                     "name" : "Richard Fancy"
+                  },
+                  {
+                     "name" : "Matt McCoy"
+                  },
+                  {
+                     "name" : "Lori Loughlin"
+                  },
+                  {
+                     "name" : "Jerry Stiller"
+                  },
+                  {
+                     "name" : "Ross Malinger"
+                  },
+                  {
+                     "name" : "Estelle Harris"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Steve Koren"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Andy Ackerman"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Elaine bliver sur, da hendes veninde siger, at hun ikke er ansvarlig nok til at v\u00e6re babysitter."
+            },
+            "title" : {
+               "da" : "Seinfeld"
+            },
+            "stop" : "1531605000",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 af 24 s\u00e6son 9",
+               "xmltv_ns" : "8 . 2/24 ."
+            }
+         },
+         {
+            "url" : [
+               "https://www.themoviedb.org/tv/1400/season/9/episode/4"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "start" : "1531605000",
+            "channel" : "series.viasat.dk",
+            "subTitle" : {
+               "da" : "The Blood"
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Dan O'Keeffe"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Andy Ackerman"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Jerry Seinfeld",
+                     "role" : "Jerry Seinfeld"
+                  },
+                  {
+                     "name" : "Jason Alexander",
+                     "role" : "George Costanza"
+                  },
+                  {
+                     "role" : "Cosmo Kramer",
+                     "name" : "Michael Richards"
+                  },
+                  {
+                     "role" : "Elaine Benes",
+                     "name" : "Julia Louis-Dreyfus"
+                  },
+                  {
+                     "name" : "Wayne Knight"
+                  },
+                  {
+                     "name" : "Colton James"
+                  },
+                  {
+                     "name" : "Gene Dynarski"
+                  },
+                  {
+                     "name" : "Barney Martin"
+                  },
+                  {
+                     "name" : "Liz Sheridan"
+                  },
+                  {
+                     "name" : "Kellie Waymire"
+                  },
+                  {
+                     "name" : "Lloyd Bridges"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "En af Jerrys barndomsvenner skaffer ham en bil, men det var ikke lige den bil Jerry havde h\u00e5bet p\u00e5..."
+            },
+            "stop" : "1531606500",
+            "title" : {
+               "da" : "Seinfeld"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 af 24 s\u00e6son 9",
+               "xmltv_ns" : "8 . 3/24 ."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "date" : "1997"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "8 . 4/24 .",
+               "onscreen" : "Afsnit 5 af 24 s\u00e6son 9"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Jerry Seinfeld",
+                     "role" : "Jerry Seinfeld"
+                  },
+                  {
+                     "name" : "Jason Alexander",
+                     "role" : "George Costanza"
+                  },
+                  {
+                     "role" : "Cosmo Kramer",
+                     "name" : "Michael Richards"
+                  },
+                  {
+                     "role" : "Elaine Benes",
+                     "name" : "Julia Louis-Dreyfus"
+                  },
+                  {
+                     "name" : "Wayne Knight"
+                  },
+                  {
+                     "name" : "Estelle Harris"
+                  },
+                  {
+                     "role" : "David Puddy",
+                     "name" : "Patrick Warburton"
+                  },
+                  {
+                     "name" : "Dana Gould"
+                  },
+                  {
+                     "name" : "Jerry Stiller"
+                  },
+                  {
+                     "name" : "Wilford Brimley"
+                  },
+                  {
+                     "name" : "Montrose Hagins"
+                  },
+                  {
+                     "name" : "Toby Huss"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Spike Feresten"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Andy Ackerman"
+                  }
+               ]
+            },
+            "stop" : "1531607700",
+            "desc" : {
+               "da" : "Kramer installerer hele kulissen fra 'The Merv Griffin Show', i sin lejlighed."
+            },
+            "title" : {
+               "da" : "Seinfeld"
+            },
+            "date" : "1997",
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/1400/season/9/episode/5"
+            ],
+            "subTitle" : {
+               "da" : "The Junk Mail"
+            },
+            "start" : "1531606500",
+            "channel" : "series.viasat.dk"
+         },
+         {
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 6 af 24 s\u00e6son 9",
+               "xmltv_ns" : "8 . 5/24 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "title" : {
+               "da" : "Seinfeld"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Jerry Seinfeld",
+                     "role" : "Jerry Seinfeld"
+                  },
+                  {
+                     "name" : "Jason Alexander",
+                     "role" : "George Costanza"
+                  },
+                  {
+                     "role" : "Cosmo Kramer",
+                     "name" : "Michael Richards"
+                  },
+                  {
+                     "name" : "Julia Louis-Dreyfus",
+                     "role" : "Elaine Benes"
+                  },
+                  {
+                     "name" : "Wayne Wilderson"
+                  },
+                  {
+                     "name" : "Brent Hinkley"
+                  },
+                  {
+                     "name" : "Wayne Knight"
+                  },
+                  {
+                     "name" : "Estelle Harris"
+                  },
+                  {
+                     "name" : "Jerry Stiller"
+                  },
+                  {
+                     "name" : "Arabella Field"
+                  },
+                  {
+                     "name" : "Jim Fowler"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Bruce Eric Kaplan"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Andy Ackerman"
+                  }
+               ]
+            },
+            "stop" : "1531609200",
+            "desc" : {
+               "da" : "Elaine lider af s\u00f8vnproblemer, og det er hendes nabo, der er skyld i det..."
+            },
+            "date" : "1997",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/1400/season/9/episode/6"
+            ],
+            "country" : [
+               "US"
+            ],
+            "subTitle" : {
+               "da" : "The Merv Griffin Show"
+            },
+            "channel" : "series.viasat.dk",
+            "start" : "1531607700"
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/1400/season/9/episode/7"
+            ],
+            "subTitle" : {
+               "da" : "The Slicer"
+            },
+            "channel" : "series.viasat.dk",
+            "start" : "1531609200",
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "8 . 6/24 .",
+               "onscreen" : "Afsnit 7 af 24 s\u00e6son 9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Gregg Kavet"
+                  },
+                  {
+                     "name" : "Andy Robin"
+                  },
+                  {
+                     "name" : "Darin Henry"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Andy Ackerman"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Jerry Seinfeld",
+                     "role" : "Jerry Seinfeld"
+                  },
+                  {
+                     "role" : "George Costanza",
+                     "name" : "Jason Alexander"
+                  },
+                  {
+                     "name" : "Michael Richards",
+                     "role" : "Cosmo Kramer"
+                  },
+                  {
+                     "role" : "Elaine Benes",
+                     "name" : "Julia Louis-Dreyfus"
+                  },
+                  {
+                     "name" : "Larry B. Scott"
+                  },
+                  {
+                     "name" : "Daniel von Bargen"
+                  },
+                  {
+                     "name" : "Marcia Cross"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Seinfeld"
+            },
+            "stop" : "1531610400",
+            "desc" : {
+               "da" : "George, Jerry og Elaine skal til bryllup i Indien. Da de kommer derud viser det sig, at Elaine har haft et forhold til brudgommen."
+            },
+            "date" : "1997"
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/1400/season/9/episode/8"
+            ],
+            "channel" : "series.viasat.dk",
+            "start" : "1531610400",
+            "subTitle" : {
+               "da" : "The Betrayal"
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "David Mandel"
+                  },
+                  {
+                     "name" : "Peter Mehlman"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Andy Ackerman"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Jerry Seinfeld",
+                     "name" : "Jerry Seinfeld"
+                  },
+                  {
+                     "role" : "George Costanza",
+                     "name" : "Jason Alexander"
+                  },
+                  {
+                     "name" : "Michael Richards",
+                     "role" : "Cosmo Kramer"
+                  },
+                  {
+                     "role" : "Elaine Benes",
+                     "name" : "Julia Louis-Dreyfus"
+                  },
+                  {
+                     "name" : "Bill Lee Brown"
+                  },
+                  {
+                     "name" : "Shaun Toub"
+                  },
+                  {
+                     "name" : "Wayne Knight"
+                  },
+                  {
+                     "name" : "Justine Miceli"
+                  },
+                  {
+                     "name" : "Michael McShane"
+                  },
+                  {
+                     "name" : "Shelley Malil"
+                  },
+                  {
+                     "name" : "Heidi Swedberg"
+                  },
+                  {
+                     "name" : "Bart Braverman"
+                  },
+                  {
+                     "name" : "Brenda Strong"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Jerrys k\u00e6reste er konstant n\u00f8gen, selv n\u00e5r hun spiser morgenmad."
+            },
+            "title" : {
+               "da" : "Seinfeld"
+            },
+            "stop" : "1531611900",
+            "episodeNum" : {
+               "xmltv_ns" : "8 . 7/24 .",
+               "onscreen" : "Afsnit 8 af 24 s\u00e6son 9"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "date" : "1997"
+         },
+         {
+            "start" : "1531611900",
+            "channel" : "series.viasat.dk",
+            "subTitle" : {
+               "da" : "The Apology"
+            },
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "https://www.themoviedb.org/tv/1400/season/9/episode/9"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "1997",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Andy Ackerman"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Jennifer Crittenden"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Jerry Seinfeld",
+                     "role" : "Jerry Seinfeld"
+                  },
+                  {
+                     "role" : "George Costanza",
+                     "name" : "Jason Alexander"
+                  },
+                  {
+                     "name" : "Michael Richards",
+                     "role" : "Cosmo Kramer"
+                  },
+                  {
+                     "name" : "Julia Louis-Dreyfus",
+                     "role" : "Elaine Benes"
+                  },
+                  {
+                     "name" : "Wayne Wilderson"
+                  },
+                  {
+                     "name" : "David Dunard"
+                  },
+                  {
+                     "role" : "David Puddy",
+                     "name" : "Patrick Warburton"
+                  },
+                  {
+                     "name" : "Michael Fishman"
+                  },
+                  {
+                     "name" : "James Spader"
+                  },
+                  {
+                     "name" : "Brian Levinson"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Seinfeld"
+            },
+            "stop" : "1531613100",
+            "desc" : {
+               "da" : "George, Elaine og Jerry tager til Hanukkah-fest. Her m\u00f8der Jerry en tiltr\u00e6kkende kvinde, som han aftaler en date med."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "8 . 8/24 .",
+               "onscreen" : "Afsnit 9 af 24 s\u00e6son 9"
+            }
+         }
+      ]
+   }
+}

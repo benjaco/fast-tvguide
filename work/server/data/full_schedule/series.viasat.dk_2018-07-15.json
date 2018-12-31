@@ -1,0 +1,3519 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/1400/season/9/episode/10"
+            ],
+            "subTitle" : {
+               "da" : "The Strike"
+            },
+            "channel" : "series.viasat.dk",
+            "start" : "1531613100",
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "8 . 9/24 .",
+               "onscreen" : "Afsnit 10 af 24 s\u00e6son 9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Jerry Seinfeld",
+                     "name" : "Jerry Seinfeld"
+                  },
+                  {
+                     "role" : "George Costanza",
+                     "name" : "Jason Alexander"
+                  },
+                  {
+                     "name" : "Michael Richards",
+                     "role" : "Cosmo Kramer"
+                  },
+                  {
+                     "role" : "Elaine Benes",
+                     "name" : "Julia Louis-Dreyfus"
+                  },
+                  {
+                     "name" : "Kevin McDonald"
+                  },
+                  {
+                     "name" : "Suzanne Krull"
+                  },
+                  {
+                     "name" : "Daniel von Bargen"
+                  },
+                  {
+                     "name" : "Jerry Stiller"
+                  },
+                  {
+                     "name" : "Estelle Harris"
+                  },
+                  {
+                     "name" : "Bryan Cranston"
+                  },
+                  {
+                     "name" : "Dave Florek"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Andy Ackerman"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Alec Berg"
+                  },
+                  {
+                     "name" : "Jeff Schaffer"
+                  },
+                  {
+                     "name" : "Dan O'Keeffe"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Seinfeld"
+            },
+            "stop" : "1531614600",
+            "desc" : {
+               "da" : "Jerry planl\u00e6gger at k\u00f8be en bil."
+            },
+            "date" : "1997"
+         },
+         {
+            "url" : [
+               "https://www.themoviedb.org/tv/1400/season/9/episode/11"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "subTitle" : {
+               "da" : "The Dealership"
+            },
+            "start" : "1531614600",
+            "channel" : "series.viasat.dk",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 11 af 24 s\u00e6son 9",
+               "xmltv_ns" : "8 . 10/24 ."
+            },
+            "stop" : "1531615800",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Jerry Seinfeld",
+                     "name" : "Jerry Seinfeld"
+                  },
+                  {
+                     "name" : "Jason Alexander",
+                     "role" : "George Costanza"
+                  },
+                  {
+                     "name" : "Michael Richards",
+                     "role" : "Cosmo Kramer"
+                  },
+                  {
+                     "name" : "Julia Louis-Dreyfus",
+                     "role" : "Elaine Benes"
+                  },
+                  {
+                     "name" : "Daniel Hagen"
+                  },
+                  {
+                     "role" : "David Puddy",
+                     "name" : "Patrick Warburton"
+                  },
+                  {
+                     "name" : "Rif Hutton"
+                  },
+                  {
+                     "name" : "Steve Susskind"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Steve Koren"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Andy Ackerman"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Kramer og Newman laver kighuller i d\u00f8rene til deres lejligheder - de p\u00e5st\u00e5r det bliver hyggeligere p\u00e5 den m\u00e5de. Elaine opdager, at hendes k\u00e6reste, Puddy, har en pels."
+            },
+            "title" : {
+               "da" : "Seinfeld"
+            },
+            "date" : "1998"
+         },
+         {
+            "start" : "1531615800",
+            "channel" : "series.viasat.dk",
+            "subTitle" : {
+               "da" : "The Reverse Peephole"
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/1400/season/9/episode/12"
+            ],
+            "country" : [
+               "US"
+            ],
+            "date" : "1998",
+            "desc" : {
+               "da" : "Jerry fort\u00e6ller, i sine venners p\u00e5h\u00f8r, at k\u00e6resten, som er skuespiller, er talentl\u00f8s. Dette fort\u00e6ller Kramer selvf\u00f8lgelig videre til Jerrys k\u00e6reste. Pludselig bliver hendes one-woman-show et hit, da hun bruger det til at komme af med alle sine aggressioner mod Jerry."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Jerry Seinfeld",
+                     "role" : "Jerry Seinfeld"
+                  },
+                  {
+                     "role" : "George Costanza",
+                     "name" : "Jason Alexander"
+                  },
+                  {
+                     "name" : "Michael Richards",
+                     "role" : "Cosmo Kramer"
+                  },
+                  {
+                     "role" : "Elaine Benes",
+                     "name" : "Julia Louis-Dreyfus"
+                  },
+                  {
+                     "name" : "Wayne Knight"
+                  },
+                  {
+                     "name" : "Pat Finn"
+                  },
+                  {
+                     "name" : "Patrick Warburton",
+                     "role" : "David Puddy"
+                  },
+                  {
+                     "name" : "Jon Polito"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Andy Ackerman"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Spike Feresten"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Seinfeld"
+            },
+            "stop" : "1531617300",
+            "episodeNum" : {
+               "xmltv_ns" : "8 . 11/24 .",
+               "onscreen" : "Afsnit 12 af 24 s\u00e6son 9"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 7/13 .",
+               "onscreen" : "Afsnit 8 af 13 s\u00e6son 2"
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Itamar Moses"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Bill Johnson"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Asa Farrell",
+                     "name" : "Joe Anderson"
+                  },
+                  {
+                     "name" : "David Morse",
+                     "role" : "Big Foster"
+                  },
+                  {
+                     "role" : "Lil' Foster",
+                     "name" : "Ryan Hurst"
+                  },
+                  {
+                     "name" : "Gillian Alexy",
+                     "role" : "G'Winveer"
+                  },
+                  {
+                     "role" : "Hasil",
+                     "name" : "Kyle Gallner"
+                  },
+                  {
+                     "role" : "Sheriff Wade Houghton, Jr",
+                     "name" : "Thomas M. Wright"
+                  },
+                  {
+                     "role" : "Sally-Ann",
+                     "name" : "Christina Jackson"
+                  },
+                  {
+                     "name" : "Danielle Brickman",
+                     "role" : "Big Fosters Girlfriend"
+                  },
+                  {
+                     "name" : "Ed Heavey",
+                     "role" : "Bhradain Shay"
+                  },
+                  {
+                     "name" : "Laurie Klatscher",
+                     "role" : "Emelye"
+                  },
+                  {
+                     "role" : "Krake",
+                     "name" : "Mark Jeffrey Miller"
+                  },
+                  {
+                     "name" : "Aidan Fiske",
+                     "role" : "Elon Farrell"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Outsiders"
+            },
+            "stop" : "1531620000",
+            "desc" : {
+               "da" : "Healing. G'Win k\u00e6mper for sit liv, da Big Foster leder sine loyale f\u00f8lgere til Blackburg. Sheriffens kontor er i opr\u00f8r, mens de unders\u00f8ger Lil Fosters flugt."
+            },
+            "date" : "2017",
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/64437/season/2/episode/8"
+            ],
+            "subTitle" : {
+               "da" : "Healing"
+            },
+            "start" : "1531617300",
+            "channel" : "series.viasat.dk"
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "https://www.themoviedb.org/tv/62852/season/1/episode/3"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "channel" : "series.viasat.dk",
+            "start" : "1531620000",
+            "subTitle" : {
+               "da" : "Yumtime"
+            },
+            "stop" : "1531623300",
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Willie Reale"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Scott Hornbacher"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Paul Giamatti",
+                     "role" : "Chuck Rhoades"
+                  },
+                  {
+                     "role" : "Bobby \"Axe\" Axelrod",
+                     "name" : "Damian Lewis"
+                  },
+                  {
+                     "name" : "Maggie Siff",
+                     "role" : "Wendy Rhoades"
+                  },
+                  {
+                     "name" : "Toby Leonard Moore",
+                     "role" : "Bryan Connerty"
+                  },
+                  {
+                     "role" : "Mike \"Wags\" Wagner",
+                     "name" : "David Costabile"
+                  },
+                  {
+                     "role" : "Kate Sacker",
+                     "name" : "Condola Rashad"
+                  },
+                  {
+                     "role" : "Lara Axelrod",
+                     "name" : "Malin \u00c5kerman"
+                  },
+                  {
+                     "name" : "Kelly AuCoin",
+                     "role" : "'Dollar' Bill Stearn"
+                  },
+                  {
+                     "name" : "Jeffrey DeMunn"
+                  },
+                  {
+                     "name" : "Glenn Fleshler"
+                  },
+                  {
+                     "name" : "Stephen Kunken"
+                  },
+                  {
+                     "name" : "Arthur J. Nascarella"
+                  },
+                  {
+                     "name" : "Melissa Errico"
+                  },
+                  {
+                     "name" : "Susan Misner"
+                  },
+                  {
+                     "name" : "David Cromer"
+                  },
+                  {
+                     "name" : "Annapurna Sriram"
+                  },
+                  {
+                     "name" : "Kate Arrington"
+                  },
+                  {
+                     "name" : "Scott Cohen"
+                  },
+                  {
+                     "name" : "Tamara Tunie"
+                  },
+                  {
+                     "name" : "Louisa Krause"
+                  },
+                  {
+                     "name" : "Austin Pendleton"
+                  },
+                  {
+                     "name" : "Jeremy Bobb"
+                  },
+                  {
+                     "name" : "Kate Jennings Grant"
+                  },
+                  {
+                     "name" : "John Henry Cox"
+                  },
+                  {
+                     "name" : "Mark Gessner"
+                  },
+                  {
+                     "role" : "Lilly Smith / Lilly",
+                     "name" : "Catherine A. Callahan"
+                  },
+                  {
+                     "role" : "Sherm",
+                     "name" : "Richard Toth"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Billions"
+            },
+            "desc" : {
+               "da" : "Yumtime. Rhoades erfarer, at mens han unders\u00f8ger Birch, har en rivaliserende juridisk instans blandet sig i unders\u00f8gelsen. Da en afsl\u00f8rende bog vil blive offentliggjort, fors\u00f8ger Lara at d\u00e6kke over sin mand."
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 2/12 .",
+               "onscreen" : "Afsnit 3 af 12 s\u00e6son 1"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "date" : "2016"
+         },
+         {
+            "subTitle" : {
+               "da" : "The Inherent, Unsullied Qualitative Value of Anything"
+            },
+            "channel" : "series.viasat.dk",
+            "start" : "1531623300",
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "https://www.themoviedb.org/tv/61118/season/3/episode/11"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2016",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 10/13 .",
+               "onscreen" : "Afsnit 11 af 13 s\u00e6son 3"
+            },
+            "stop" : "1531624800",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Wendey Stanzler"
+                  },
+                  {
+                     "name" : "Stephen Falk"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Jimmy Shive-Overly",
+                     "name" : "Chris Geere"
+                  },
+                  {
+                     "name" : "Aya Cash",
+                     "role" : "Gretchen Cutler"
+                  },
+                  {
+                     "name" : "Desmin Borges",
+                     "role" : "Edgar Quintero"
+                  },
+                  {
+                     "name" : "Kether Donohue",
+                     "role" : "Lindsay Jillian"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Den iboende, uplettede kvalitetsv\u00e6rdi ved alting. Jimmy og Gretchen tager til et bryllup for f\u00f8rste gang siden de m\u00f8dte hinanden - og de seneste sp\u00e6ndinger f\u00e5r det til at koge over. Lindsay tvinges til at fort\u00e6lle Paul sandheden."
+            },
+            "title" : {
+               "da" : "Du er den v\u00e6rste"
+            }
+         },
+         {
+            "stop" : "1531627200",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Wendey Stanzler"
+                  },
+                  {
+                     "name" : "Stephen Falk"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Chris Geere",
+                     "role" : "Jimmy Shive-Overly"
+                  },
+                  {
+                     "name" : "Aya Cash",
+                     "role" : "Gretchen Cutler"
+                  },
+                  {
+                     "name" : "Desmin Borges",
+                     "role" : "Edgar Quintero"
+                  },
+                  {
+                     "role" : "Lindsay Jillian",
+                     "name" : "Kether Donohue"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Du vidste, at det var en slange. Alle tre par kommer i sl\u00e5skamp."
+            },
+            "title" : {
+               "da" : "Du er den v\u00e6rste"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "2 . 11/13 .",
+               "onscreen" : "Afsnit 12 af 13 s\u00e6son 3"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "date" : "2016",
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "https://www.themoviedb.org/tv/61118/season/3/episode/12"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "start" : "1531624800",
+            "channel" : "series.viasat.dk",
+            "subTitle" : {
+               "da" : "You Knew It Was a Snake"
+            }
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "https://www.themoviedb.org/tv/1400/season/6/episode/6"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "subTitle" : {
+               "da" : "The Gymnast"
+            },
+            "start" : "1531627200",
+            "channel" : "series.viasat.dk",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 6 af 24 s\u00e6son 6",
+               "xmltv_ns" : "5 . 5/24 ."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "title" : {
+               "da" : "Seinfeld"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Jerry Seinfeld",
+                     "name" : "Jerry Seinfeld"
+                  },
+                  {
+                     "name" : "Jason Alexander",
+                     "role" : "George Costanza"
+                  },
+                  {
+                     "role" : "Cosmo Kramer",
+                     "name" : "Michael Richards"
+                  },
+                  {
+                     "role" : "Elaine Benes",
+                     "name" : "Julia Louis-Dreyfus"
+                  },
+                  {
+                     "name" : "Jessica Hecht"
+                  },
+                  {
+                     "name" : "Lois Nettleton"
+                  },
+                  {
+                     "name" : "Elina L\u00f6wensohn"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Andy Ackerman"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Alec Berg"
+                  },
+                  {
+                     "name" : "Jeff Schaffer"
+                  }
+               ]
+            },
+            "stop" : "1531628400",
+            "desc" : {
+               "da" : "George k\u00e6restes mor ser George spise ud af en skraldespand. Jerry dater en rum\u00e6nsk kvinde, der vandt en medalje under de olympiske lege i 1984."
+            },
+            "date" : "1994"
+         },
+         {
+            "date" : "1994",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "5 . 6/24 .",
+               "onscreen" : "Afsnit 7 af 24 s\u00e6son 6"
+            },
+            "desc" : {
+               "da" : "Jon Voight g\u00e6steoptr\u00e6der som sig selv i dette underholdende afsnit. En s\u00e6lger overtaler George til at k\u00f8be en bil, som eftersigende har tilh\u00f8rt Jon Voight. Kramer fors\u00f8ger imidlertid at redde en lille lokal skomager, men hans gode intentioner p\u00e5virker Jerry. Elaine vinder et par \u00f8nske-billetter."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Jerry Seinfeld",
+                     "name" : "Jerry Seinfeld"
+                  },
+                  {
+                     "role" : "George Costanza",
+                     "name" : "Jason Alexander"
+                  },
+                  {
+                     "name" : "Michael Richards",
+                     "role" : "Cosmo Kramer"
+                  },
+                  {
+                     "role" : "Elaine Benes",
+                     "name" : "Julia Louis-Dreyfus"
+                  },
+                  {
+                     "name" : "Linda Wallem"
+                  },
+                  {
+                     "name" : "Tracy Kolis"
+                  },
+                  {
+                     "name" : "Daniel Gerroll"
+                  },
+                  {
+                     "name" : "Lawrence Mandley"
+                  },
+                  {
+                     "name" : "Steve Hytner",
+                     "role" : "Kenny Bania"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Fred Stoller"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Andy Ackerman"
+                  }
+               ]
+            },
+            "stop" : "1531629900",
+            "title" : {
+               "da" : "Seinfeld"
+            },
+            "subTitle" : {
+               "da" : "The Soup"
+            },
+            "start" : "1531628400",
+            "channel" : "series.viasat.dk",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/1400/season/6/episode/7"
+            ],
+            "country" : [
+               "US"
+            ]
+         },
+         {
+            "date" : "1994",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Andy Ackerman"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Tom Gammill"
+                  },
+                  {
+                     "name" : "Max Pross"
+                  },
+                  {
+                     "name" : "Tom Gammill and Max Pross"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Jerry Seinfeld",
+                     "name" : "Jerry Seinfeld"
+                  },
+                  {
+                     "role" : "George Costanza",
+                     "name" : "Jason Alexander"
+                  },
+                  {
+                     "name" : "Michael Richards",
+                     "role" : "Cosmo Kramer"
+                  },
+                  {
+                     "role" : "Elaine Benes",
+                     "name" : "Julia Louis-Dreyfus"
+                  },
+                  {
+                     "name" : "Jon Voight"
+                  },
+                  {
+                     "name" : "Ken Thorley"
+                  },
+                  {
+                     "name" : "Dan Frischman"
+                  },
+                  {
+                     "name" : "Ian Abercrombie"
+                  },
+                  {
+                     "name" : "Bryan Cranston"
+                  },
+                  {
+                     "name" : "Elsa Raven"
+                  },
+                  {
+                     "name" : "Mo Gallini"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Efter sin nyresten bestemmer Kramer sig for kun at spise frisk mad. George inviterer en tjener p\u00e5 et st\u00e6vnem\u00f8de, men form\u00e5r at sige alle de forkerte ting. Elaine har en date med en engl\u00e6nder."
+            },
+            "stop" : "1531631100",
+            "title" : {
+               "da" : "Seinfeld"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 8 af 24 s\u00e6son 6",
+               "xmltv_ns" : "5 . 7/24 ."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "channel" : "series.viasat.dk",
+            "start" : "1531629900",
+            "subTitle" : {
+               "da" : "The Mom & Pop Store"
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/1400/season/6/episode/8"
+            ],
+            "country" : [
+               "US"
+            ]
+         },
+         {
+            "date" : "1994",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Jerry Seinfeld",
+                     "name" : "Jerry Seinfeld"
+                  },
+                  {
+                     "role" : "George Costanza",
+                     "name" : "Jason Alexander"
+                  },
+                  {
+                     "name" : "Michael Richards",
+                     "role" : "Cosmo Kramer"
+                  },
+                  {
+                     "name" : "Julia Louis-Dreyfus",
+                     "role" : "Elaine Benes"
+                  },
+                  {
+                     "name" : "Courtney Taylor",
+                     "role" : "Attractive Applicant"
+                  },
+                  {
+                     "name" : "Mitzi McCall"
+                  },
+                  {
+                     "role" : "Kenny Bania",
+                     "name" : "Steve Hytner"
+                  },
+                  {
+                     "name" : "Vicki Lewis"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "David Trainer"
+                  },
+                  {
+                     "name" : "David Owen Trainor"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Marjorie Gross"
+                  },
+                  {
+                     "name" : "Carol Leifer"
+                  }
+               ]
+            },
+            "stop" : "1531632600",
+            "title" : {
+               "da" : "Seinfeld"
+            },
+            "desc" : {
+               "da" : "George ans\u00e6tter en sekret\u00e6r. Jerry opdager en mand p\u00e5 renseriet ikl\u00e6dt Jerrys t\u00f8j. Kramer f\u00e5r fat i telefonnummeret til Uma Thurman."
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "5 . 8/24 .",
+               "onscreen" : "Afsnit 9 af 24 s\u00e6son 6"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "channel" : "series.viasat.dk",
+            "start" : "1531631100",
+            "subTitle" : {
+               "da" : "The Secretary"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/1400/season/6/episode/9"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ]
+         },
+         {
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/1400/season/6/episode/10"
+            ],
+            "country" : [
+               "US"
+            ],
+            "subTitle" : {
+               "da" : "The Race"
+            },
+            "channel" : "series.viasat.dk",
+            "start" : "1531632600",
+            "episodeNum" : {
+               "xmltv_ns" : "5 . 9/24 .",
+               "onscreen" : "Afsnit 10 af 24 s\u00e6son 6"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "title" : {
+               "da" : "Seinfeld"
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Andy Ackerman"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Sam Kass"
+                  },
+                  {
+                     "name" : "Larry David"
+                  },
+                  {
+                     "name" : "Tom Gammill"
+                  },
+                  {
+                     "name" : "Max Pross"
+                  },
+                  {
+                     "name" : "Tom Gammill and Max Pross"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Jerry Seinfeld",
+                     "name" : "Jerry Seinfeld"
+                  },
+                  {
+                     "role" : "George Costanza",
+                     "name" : "Jason Alexander"
+                  },
+                  {
+                     "name" : "Michael Richards",
+                     "role" : "Cosmo Kramer"
+                  },
+                  {
+                     "role" : "Elaine Benes",
+                     "name" : "Julia Louis-Dreyfus"
+                  },
+                  {
+                     "name" : "Mark Christopher Lawrence"
+                  },
+                  {
+                     "name" : "Vicki Lewis"
+                  },
+                  {
+                     "name" : "Renee Props"
+                  },
+                  {
+                     "name" : "Danny Woodburn"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Kramers fornavn bliver afsl\u00f8ret for f\u00f8rste gang. Elaine l\u00e5ner sin chefs tennisketcher ud, men f\u00e5r problemer med at f\u00e5 den igen. George mist\u00e6nker sin fotomodel k\u00e6reste for at lide af spiseforstyrrelser."
+            },
+            "stop" : "1531633800",
+            "date" : "1994"
+         },
+         {
+            "date" : "1995",
+            "title" : {
+               "da" : "Seinfeld"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Jerry Seinfeld",
+                     "name" : "Jerry Seinfeld"
+                  },
+                  {
+                     "role" : "George Costanza",
+                     "name" : "Jason Alexander"
+                  },
+                  {
+                     "name" : "Michael Richards",
+                     "role" : "Cosmo Kramer"
+                  },
+                  {
+                     "role" : "Elaine Benes",
+                     "name" : "Julia Louis-Dreyfus"
+                  },
+                  {
+                     "name" : "Tish Smiley",
+                     "role" : "Woman"
+                  },
+                  {
+                     "name" : "Wayne Knight"
+                  },
+                  {
+                     "name" : "Gail Strickland"
+                  },
+                  {
+                     "name" : "Sheree North"
+                  },
+                  {
+                     "name" : "Terry Sweeney"
+                  },
+                  {
+                     "name" : "Charlotte Lewis"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Andy Ackerman"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Bruce Kirschbaum"
+                  },
+                  {
+                     "name" : "Sam Kass"
+                  }
+               ]
+            },
+            "stop" : "1531635300",
+            "desc" : {
+               "da" : "Jerry og Elaine tror deres tandl\u00e6ge giver sine gaver videre, da Jerry f\u00e5r en gave magen til den Elaine gav til tandl\u00e6gen. Jerry fors\u00f8ger at f\u00e5 sine biletter til Superbowl tilbage."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 11 af 24 s\u00e6son 6",
+               "xmltv_ns" : "5 . 10/24 ."
+            },
+            "start" : "1531633800",
+            "channel" : "series.viasat.dk",
+            "subTitle" : {
+               "da" : "The Switch"
+            },
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/1400/season/6/episode/11"
+            ]
+         },
+         {
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Andy Ackerman"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Alec Berg"
+                  },
+                  {
+                     "name" : "Jeff Schaffer"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Jerry Seinfeld",
+                     "role" : "Jerry Seinfeld"
+                  },
+                  {
+                     "role" : "George Costanza",
+                     "name" : "Jason Alexander"
+                  },
+                  {
+                     "role" : "Cosmo Kramer",
+                     "name" : "Michael Richards"
+                  },
+                  {
+                     "name" : "Julia Louis-Dreyfus",
+                     "role" : "Elaine Benes"
+                  },
+                  {
+                     "name" : "Jessica Tuck"
+                  },
+                  {
+                     "name" : "Bryan Cranston"
+                  },
+                  {
+                     "name" : "Wayne Knight"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Kramer f\u00e5r et job som julenisse. Jerry m\u00e5 forsvare sin l\u00f8berekord fra ungdomsskolen. Elaine opdager, at hendes k\u00e6reste er kommunist."
+            },
+            "stop" : "1531636500",
+            "title" : {
+               "da" : "Seinfeld"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 12 af 24 s\u00e6son 6",
+               "xmltv_ns" : "5 . 11/24 ."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "date" : "1995",
+            "url" : [
+               "https://www.themoviedb.org/tv/1400/season/6/episode/12"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "channel" : "series.viasat.dk",
+            "start" : "1531635300",
+            "subTitle" : {
+               "da" : "The Label Maker"
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "The Scofflaw"
+            },
+            "start" : "1531636500",
+            "channel" : "series.viasat.dk",
+            "url" : [
+               "https://www.themoviedb.org/tv/1400/season/6/episode/13"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "date" : "1995",
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "5 . 12/24 .",
+               "onscreen" : "Afsnit 13 af 24 s\u00e6son 6"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "stop" : "1531638000",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Andy Ackerman"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Peter Mehlman"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Jerry Seinfeld",
+                     "role" : "Jerry Seinfeld"
+                  },
+                  {
+                     "role" : "George Costanza",
+                     "name" : "Jason Alexander"
+                  },
+                  {
+                     "role" : "Cosmo Kramer",
+                     "name" : "Michael Richards"
+                  },
+                  {
+                     "name" : "Julia Louis-Dreyfus",
+                     "role" : "Elaine Benes"
+                  },
+                  {
+                     "name" : "Wayne Knight"
+                  },
+                  {
+                     "name" : "Lillian Lehman"
+                  },
+                  {
+                     "name" : "Jon Lovitz"
+                  },
+                  {
+                     "name" : "Barbara Alyn Woods"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Newman bliver afsl\u00f8ret med en stor m\u00e6ngde af ubetalte parkeringsb\u00f8der. George anskaffer sig en toup\u00e9."
+            },
+            "title" : {
+               "da" : "Seinfeld"
+            }
+         },
+         {
+            "date" : "1995",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 14 af 24 s\u00e6son 6",
+               "xmltv_ns" : "5 . 13/24 ."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Peter Mehlman"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Andy Ackerman"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Jerry Seinfeld",
+                     "name" : "Jerry Seinfeld"
+                  },
+                  {
+                     "role" : "George Costanza",
+                     "name" : "Jason Alexander"
+                  },
+                  {
+                     "role" : "Cosmo Kramer",
+                     "name" : "Michael Richards"
+                  },
+                  {
+                     "role" : "Elaine Benes",
+                     "name" : "Julia Louis-Dreyfus"
+                  }
+               ]
+            },
+            "stop" : "1531639200",
+            "desc" : {
+               "da" : "For at g\u00f8re det lidt hyggeligere mellem naboerne h\u00e6nger Kramer billede og navn op p\u00e5 alle i opgangen. Jerry bryder sig bestemt ikke om dette, for nu er han tvunget til at hilse p\u00e5 alle han m\u00f8der."
+            },
+            "title" : {
+               "da" : "Seinfeld"
+            },
+            "subTitle" : {
+               "da" : "Highlights of a Hundred (Part 1)"
+            },
+            "channel" : "series.viasat.dk",
+            "start" : "1531638000",
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/1400/season/6/episode/14"
+            ]
+         },
+         {
+            "desc" : {
+               "da" : "Elaine fors\u00f8ger at omvende en homoseksuel mand, Jerry indr\u00f8mmer at han ser Melrose Place og George - nu med ny toup\u00e9 - g\u00e5r ud med en skaldet kvinde."
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Andy Ackerman"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Peter Mehlman"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Jerry Seinfeld",
+                     "name" : "Jerry Seinfeld"
+                  },
+                  {
+                     "name" : "Jason Alexander",
+                     "role" : "George Costanza"
+                  },
+                  {
+                     "role" : "Cosmo Kramer",
+                     "name" : "Michael Richards"
+                  },
+                  {
+                     "role" : "Elaine Benes",
+                     "name" : "Julia Louis-Dreyfus"
+                  }
+               ]
+            },
+            "stop" : "1531640700",
+            "title" : {
+               "da" : "Seinfeld"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 15 af 24 s\u00e6son 6",
+               "xmltv_ns" : "5 . 14/24 ."
+            },
+            "date" : "1995",
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/1400/season/6/episode/15"
+            ],
+            "channel" : "series.viasat.dk",
+            "start" : "1531639200",
+            "subTitle" : {
+               "da" : "Highlights of a Hundred (Part 2)"
+            }
+         },
+         {
+            "stop" : "1531641900",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Frasier Crane",
+                     "name" : "Kelsey Grammer"
+                  },
+                  {
+                     "role" : "Niles Crane",
+                     "name" : "David Hyde Pierce"
+                  },
+                  {
+                     "name" : "Jane Leeves",
+                     "role" : "Daphne Moon"
+                  },
+                  {
+                     "name" : "Peri Gilpin",
+                     "role" : "Roz Doyle"
+                  },
+                  {
+                     "name" : "John Mahoney",
+                     "role" : "Martin Crane"
+                  },
+                  {
+                     "name" : "John C. McGinley",
+                     "role" : "Danny Kriezel"
+                  },
+                  {
+                     "name" : "Mike Starr",
+                     "role" : "Billy Kriezel"
+                  },
+                  {
+                     "name" : "Macaulay Culkin",
+                     "role" : "Guest Caller - Elliott"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Steven Levitan"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "James Burrows"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Frasier"
+            },
+            "desc" : {
+               "da" : "S\u00e6dets magt. Martin beskylder sine s\u00f8nner for at v\u00e6re ude af trit med virkeligheden og udfordrer dem til at reparere et \u00f8delagt toilet. De erkender til sidst deres nederlag og ringer efter en vvs-mand."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 11 af 24 s\u00e6son 2",
+               "xmltv_ns" : "1 . 10/24 ."
+            },
+            "date" : "1994",
+            "url" : [
+               "https://www.themoviedb.org/tv/3452/season/2/episode/11"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "channel" : "series.viasat.dk",
+            "start" : "1531640700",
+            "subTitle" : {
+               "da" : "Seat of Power"
+            }
+         },
+         {
+            "date" : "1995",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Kelsey Grammer",
+                     "role" : "Frasier Crane"
+                  },
+                  {
+                     "role" : "Niles Crane",
+                     "name" : "David Hyde Pierce"
+                  },
+                  {
+                     "role" : "Daphne Moon",
+                     "name" : "Jane Leeves"
+                  },
+                  {
+                     "role" : "Roz Doyle",
+                     "name" : "Peri Gilpin"
+                  },
+                  {
+                     "role" : "Martin Crane",
+                     "name" : "John Mahoney"
+                  },
+                  {
+                     "name" : "Edward F. Gallick",
+                     "role" : "Ed"
+                  },
+                  {
+                     "role" : "Gil Chesterton",
+                     "name" : "Edward Hibbert"
+                  },
+                  {
+                     "name" : "Rosie Perez",
+                     "role" : "Guest Caller - Francesca"
+                  },
+                  {
+                     "name" : "Carly Simon",
+                     "role" : "Guest Caller - Marie"
+                  },
+                  {
+                     "name" : "Dan Butler",
+                     "role" : "Bob 'Bulldog' Briscoe"
+                  },
+                  {
+                     "name" : "Garett Maggart",
+                     "role" : "Bruce"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "James Burrows"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Anne Flett-Giordano"
+                  },
+                  {
+                     "name" : "Chuck Ranberg"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Frasier"
+            },
+            "stop" : "1531643400",
+            "desc" : {
+               "da" : "Roz i hundehuset. Den storsl\u00e5ede sportsv\u00e6rt, Bulldog, vil rekruttere Roz til at v\u00e6re hans producer. Frasier har mistanke om, at han kun er interesseret i sex. Da Frasier fort\u00e6ller om det i radioen, bliver hun trodsig."
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 12 af 24 s\u00e6son 2",
+               "xmltv_ns" : "1 . 11/24 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "start" : "1531641900",
+            "channel" : "series.viasat.dk",
+            "subTitle" : {
+               "da" : "Roz in the Doghouse"
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/3452/season/2/episode/12"
+            ],
+            "country" : [
+               "US"
+            ]
+         },
+         {
+            "date" : "1995",
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 12/24 .",
+               "onscreen" : "Afsnit 13 af 24 s\u00e6son 2"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Frasier Crane",
+                     "name" : "Kelsey Grammer"
+                  },
+                  {
+                     "role" : "Niles Crane",
+                     "name" : "David Hyde Pierce"
+                  },
+                  {
+                     "name" : "Jane Leeves",
+                     "role" : "Daphne Moon"
+                  },
+                  {
+                     "name" : "Peri Gilpin",
+                     "role" : "Roz Doyle"
+                  },
+                  {
+                     "role" : "Martin Crane",
+                     "name" : "John Mahoney"
+                  },
+                  {
+                     "role" : "Fan",
+                     "name" : "Randy Kovitz"
+                  },
+                  {
+                     "role" : "Al",
+                     "name" : "Heath Porter"
+                  },
+                  {
+                     "role" : "Leo",
+                     "name" : "Bill Gratton"
+                  },
+                  {
+                     "name" : "Ron Dean",
+                     "role" : "Frank"
+                  },
+                  {
+                     "role" : "Guest Caller - Marjorie",
+                     "name" : "Mary Steenburgen"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "David Pollock"
+                  },
+                  {
+                     "name" : "Elias Davis"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Alan Myerson"
+                  }
+               ]
+            },
+            "stop" : "1531644600",
+            "title" : {
+               "da" : "Frasier"
+            },
+            "desc" : {
+               "da" : "Pensionering er mord. Frasier form\u00e5r at opklare mordet om 'Den Gr\u00e6dende Lotus': En uopklaret sag, som Martin er besat af. For at sk\u00e5ne sin far, arrangerer han beviserne s\u00e5ledes, at faderen kan \"opklare\" mysteriet selv."
+            },
+            "subTitle" : {
+               "da" : "Retirement Is Murder"
+            },
+            "start" : "1531643400",
+            "channel" : "series.viasat.dk",
+            "url" : [
+               "https://www.themoviedb.org/tv/3452/season/2/episode/13"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ]
+         },
+         {
+            "start" : "1531644600",
+            "channel" : "series.viasat.dk",
+            "subTitle" : {
+               "da" : "Fool Me Once, Shame On You..."
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/3452/season/2/episode/14"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "date" : "1995",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Kelsey Grammer",
+                     "role" : "Frasier Crane"
+                  },
+                  {
+                     "role" : "Niles Crane",
+                     "name" : "David Hyde Pierce"
+                  },
+                  {
+                     "role" : "Daphne Moon",
+                     "name" : "Jane Leeves"
+                  },
+                  {
+                     "name" : "Peri Gilpin",
+                     "role" : "Roz Doyle"
+                  },
+                  {
+                     "name" : "John Mahoney",
+                     "role" : "Martin Crane"
+                  },
+                  {
+                     "role" : "Waiter",
+                     "name" : "Paul Cusimano"
+                  },
+                  {
+                     "role" : "Cop",
+                     "name" : "James Willett"
+                  },
+                  {
+                     "name" : "Karen Person",
+                     "role" : "Customer"
+                  },
+                  {
+                     "name" : "Bernie Kuby",
+                     "role" : "Priest"
+                  },
+                  {
+                     "role" : "Heather",
+                     "name" : "Joan McMurtrey"
+                  },
+                  {
+                     "name" : "Nathan Lane",
+                     "role" : "Phil"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Philip Charles MacKenzie"
+                  }
+               ]
+            },
+            "stop" : "1531646100",
+            "title" : {
+               "da" : "Frasier"
+            },
+            "desc" : {
+               "da" : "Fool Me Once Shame on You, Fool Me Twice... En tyv har stj\u00e5let Frasiers mappe og bev\u00e6ger sig rundt i Seattle, mens han udgiver sig for at v\u00e6re Frasier. Det rykker ved Frasiers overordnede tro p\u00e5 menneskeheden."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 13/24 .",
+               "onscreen" : "Afsnit 14 af 24 s\u00e6son 2"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/3452/season/2/episode/15"
+            ],
+            "country" : [
+               "US"
+            ],
+            "subTitle" : {
+               "da" : "You Scratch My Book..."
+            },
+            "channel" : "series.viasat.dk",
+            "start" : "1531646100",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 15 af 24 s\u00e6son 2",
+               "xmltv_ns" : "1 . 14/24 ."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "title" : {
+               "da" : "Frasier"
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Joe Keenan"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Andy Ackerman"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Kelsey Grammer",
+                     "role" : "Frasier Crane"
+                  },
+                  {
+                     "name" : "David Hyde Pierce",
+                     "role" : "Niles Crane"
+                  },
+                  {
+                     "name" : "Jane Leeves",
+                     "role" : "Daphne Moon"
+                  },
+                  {
+                     "name" : "Peri Gilpin",
+                     "role" : "Roz Doyle"
+                  },
+                  {
+                     "role" : "Martin Crane",
+                     "name" : "John Mahoney"
+                  },
+                  {
+                     "name" : "Shannon Tweed",
+                     "role" : "Dr. Honey Snow"
+                  },
+                  {
+                     "role" : "Fan",
+                     "name" : "Laura Waterbury"
+                  }
+               ]
+            },
+            "stop" : "1531647300",
+            "desc" : {
+               "da" : "\u00d8delagt min bog... Frasier bliver bedt af en attraktiv - men ikke s\u00e6rlig respekteret - psykolog om, at skrive en prolog til hendes nye bog. Niles d\u00e6kker Daphnes tab p\u00e5 aktiemarkedet."
+            },
+            "date" : "1995"
+         },
+         {
+            "start" : "1531647300",
+            "channel" : "series.viasat.dk",
+            "subTitle" : {
+               "da" : "The Show Where Sam Shows Up"
+            },
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "https://www.themoviedb.org/tv/3452/season/2/episode/16"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "1995",
+            "desc" : {
+               "da" : "TV-showet, hvor Sam dukker op. Frasier bliver overrasket, da hans ven- og gamle bartender, Sam, uventet dukker op i Seattle. Deres f\u00e6lles minder f\u00f8rer til, at Sam tilst\u00e5r, at han har efterladt endnu en ung kvinde ved alteret."
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "James Burrows"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Ken Levine"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Frasier Crane",
+                     "name" : "Kelsey Grammer"
+                  },
+                  {
+                     "role" : "Niles Crane",
+                     "name" : "David Hyde Pierce"
+                  },
+                  {
+                     "name" : "Jane Leeves",
+                     "role" : "Daphne Moon"
+                  },
+                  {
+                     "role" : "Roz Doyle",
+                     "name" : "Peri Gilpin"
+                  },
+                  {
+                     "role" : "Martin Crane",
+                     "name" : "John Mahoney"
+                  },
+                  {
+                     "name" : "T\u00e9a Leoni",
+                     "role" : "Sheila"
+                  },
+                  {
+                     "role" : "Sam Malone",
+                     "name" : "Ted Danson"
+                  }
+               ]
+            },
+            "stop" : "1531648800",
+            "title" : {
+               "da" : "Frasier"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 16 af 24 s\u00e6son 2",
+               "xmltv_ns" : "1 . 15/24 ."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 17 af 24 s\u00e6son 2",
+               "xmltv_ns" : "1 . 16/24 ."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Kelsey Grammer",
+                     "role" : "Frasier Crane"
+                  },
+                  {
+                     "role" : "Niles Crane",
+                     "name" : "David Hyde Pierce"
+                  },
+                  {
+                     "name" : "Jane Leeves",
+                     "role" : "Daphne Moon"
+                  },
+                  {
+                     "role" : "Roz Doyle",
+                     "name" : "Peri Gilpin"
+                  },
+                  {
+                     "role" : "Martin Crane",
+                     "name" : "John Mahoney"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Linda Morris"
+                  },
+                  {
+                     "name" : "Vic Rauseo"
+                  },
+                  {
+                     "name" : "Ken Levine"
+                  },
+                  {
+                     "name" : "David Isaacs"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "James Burrows"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Frasier"
+            },
+            "stop" : "1531650000",
+            "desc" : {
+               "da" : "Daphnes rum. Daphne bliver rasende, da hun opdager, at Frasier har v\u00e6ret inde p\u00e5 hendes v\u00e6relse. Han fors\u00f8ger at undskylde. Maris bliver sur p\u00e5 Niles, da han glemmer at k\u00f8be hende en f\u00f8dselsdagsgave."
+            },
+            "date" : "1995",
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "https://www.themoviedb.org/tv/3452/season/2/episode/17"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "subTitle" : {
+               "da" : "Daphne's Room"
+            },
+            "channel" : "series.viasat.dk",
+            "start" : "1531648800"
+         },
+         {
+            "subTitle" : {
+               "da" : "The Club"
+            },
+            "start" : "1531650000",
+            "channel" : "series.viasat.dk",
+            "url" : [
+               "https://www.themoviedb.org/tv/3452/season/2/episode/18"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "date" : "1995",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 18 af 24 s\u00e6son 2",
+               "xmltv_ns" : "1 . 17/24 ."
+            },
+            "desc" : {
+               "da" : "Klubben. Til stor gl\u00e6de for Frasier og Niles, rekrutterer den h\u00e6derkronede 'Empire Club' nye medlemmer. Da de erfarer, at der kun er \u00e9n plads \u00e5ben, fors\u00f8ger de to at sabotere den andens ans\u00f8gning."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Kelsey Grammer",
+                     "role" : "Frasier Crane"
+                  },
+                  {
+                     "role" : "Niles Crane",
+                     "name" : "David Hyde Pierce"
+                  },
+                  {
+                     "role" : "Daphne Moon",
+                     "name" : "Jane Leeves"
+                  },
+                  {
+                     "name" : "Peri Gilpin",
+                     "role" : "Roz Doyle"
+                  },
+                  {
+                     "role" : "Martin Crane",
+                     "name" : "John Mahoney"
+                  },
+                  {
+                     "role" : "Mr. Drake",
+                     "name" : "William Morgan Sheppard"
+                  },
+                  {
+                     "name" : "Gary Sinise",
+                     "role" : "Guest Caller - Sid"
+                  },
+                  {
+                     "role" : "Wentworth",
+                     "name" : "Jim Norton"
+                  },
+                  {
+                     "name" : "Mitchell Edmonds",
+                     "role" : "Mr. Spencer"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "David Lee"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "David Pollock"
+                  },
+                  {
+                     "name" : "Elias Davis"
+                  }
+               ]
+            },
+            "stop" : "1531651500",
+            "title" : {
+               "da" : "Frasier"
+            }
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/3452/season/2/episode/19"
+            ],
+            "subTitle" : {
+               "da" : "Someone to Watch over Me"
+            },
+            "start" : "1531651500",
+            "channel" : "series.viasat.dk",
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 18/24 .",
+               "onscreen" : "Afsnit 19 af 24 s\u00e6son 2"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            },
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Don Siegel"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "James Burrows"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "role" : "Frasier Crane",
+                     "name" : "Kelsey Grammer"
+                  },
+                  {
+                     "name" : "David Hyde Pierce",
+                     "role" : "Niles Crane"
+                  },
+                  {
+                     "name" : "Jane Leeves",
+                     "role" : "Daphne Moon"
+                  },
+                  {
+                     "name" : "Peri Gilpin",
+                     "role" : "Roz Doyle"
+                  },
+                  {
+                     "name" : "John Mahoney",
+                     "role" : "Martin Crane"
+                  },
+                  {
+                     "role" : "Guest Caller - Madman Martinez",
+                     "name" : "John Lithgow"
+                  },
+                  {
+                     "role" : "Bob 'Bulldog' Briscoe",
+                     "name" : "Dan Butler"
+                  },
+                  {
+                     "role" : "Cindy Carruthers",
+                     "name" : "Alyson Reed"
+                  },
+                  {
+                     "name" : "Ren\u00e9e Lippin",
+                     "role" : "Kari"
+                  },
+                  {
+                     "name" : "Rita McKenzie",
+                     "role" : "Mrs. Littlejohn"
+                  }
+               ]
+            },
+            "stop" : "1531652700",
+            "title" : {
+               "da" : "Frasier"
+            },
+            "desc" : {
+               "da" : "En, der skal se efter mig. Frasier er blevet nomineret til en pris, men er paranoid for, at en fan stalker ham. Han hyrer en bodyguard, der viser sig at v\u00e6re en smuk kvinde, hvilket skaber kaos i hans liv."
+            },
+            "date" : "1995"
+         },
+         {
+            "channel" : "series.viasat.dk",
+            "start" : "1531652700",
+            "subTitle" : {
+               "da" : "Breaking the Ice"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/3452/season/2/episode/20"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "date" : "1995",
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "Philip Charles MacKenzie"
+                  },
+                  {
+                     "name" : "Phillip Charles Mackenzie"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Steven Levitan"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Kelsey Grammer",
+                     "role" : "Frasier Crane"
+                  },
+                  {
+                     "role" : "Niles Crane",
+                     "name" : "David Hyde Pierce"
+                  },
+                  {
+                     "name" : "Jane Leeves",
+                     "role" : "Daphne Moon"
+                  },
+                  {
+                     "name" : "Peri Gilpin",
+                     "role" : "Roz Doyle"
+                  },
+                  {
+                     "role" : "Martin Crane",
+                     "name" : "John Mahoney"
+                  },
+                  {
+                     "name" : "Rick Cramer",
+                     "role" : "Ranger"
+                  }
+               ]
+            },
+            "stop" : "1531654200",
+            "title" : {
+               "da" : "Frasier"
+            },
+            "desc" : {
+               "da" : "Bryde isen. Crane-br\u00f8drene bliver enige om at tage p\u00e5 isfiskeri med deres far. Niles' begejstring g\u00f8r Frasier mist\u00e6nksom - og Frasier tror, at han kun g\u00f8r det, for at f\u00e5 Martin til at sige \"jeg elsker dig.\""
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "1 . 19/24 .",
+               "onscreen" : "Afsnit 20 af 24 s\u00e6son 2"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Comedy"
+               ]
+            }
+         },
+         {
+            "date" : "2013",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "4 . 0/22 .",
+               "onscreen" : "Afsnit 1 af 22 s\u00e6son 5"
+            },
+            "desc" : {
+               "da" : "Alicia og Cary er i gang med forberedelserne til at starte deres eget firma og forlade Lockhart & Gardner. Hun m\u00e5 bevise en mands uskyld, efter en henrettelse mislykkes for state. Eli udpeger en ny personalechef."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Christine Baranski",
+                     "role" : "Diane Lockhart"
+                  },
+                  {
+                     "name" : "Josh Charles",
+                     "role" : "Will Gardner"
+                  },
+                  {
+                     "role" : "Alicia Florrick",
+                     "name" : "Julianna Margulies"
+                  },
+                  {
+                     "role" : "Kalinda Sharma",
+                     "name" : "Archie Panjabi"
+                  },
+                  {
+                     "name" : "Matt Czuchry",
+                     "role" : "Cary Agos"
+                  },
+                  {
+                     "name" : "Zach Grenier",
+                     "role" : "David Lee"
+                  },
+                  {
+                     "role" : "Grace Florrick",
+                     "name" : "Makenzie Vega Norfolk"
+                  },
+                  {
+                     "name" : "Alan Cumming",
+                     "role" : "Eli Gold"
+                  },
+                  {
+                     "role" : "Zach Florrick",
+                     "name" : "Graham Phillips"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Robert King"
+                  }
+               ]
+            },
+            "stop" : "1531656900",
+            "title" : {
+               "da" : "The Good Wife"
+            },
+            "subTitle" : {
+               "da" : "Everything is Ending"
+            },
+            "start" : "1531654200",
+            "channel" : "series.viasat.dk",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/1435/season/5/episode/1"
+            ],
+            "country" : [
+               "US"
+            ]
+         },
+         {
+            "channel" : "series.viasat.dk",
+            "start" : "1531656900",
+            "subTitle" : {
+               "da" : "The Bit Bucket"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/1435/season/5/episode/2"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "date" : "2013",
+            "desc" : {
+               "da" : "Internetgiganten Chum Hum, hyrer Lockhart & Gardner til et saganl\u00e6g mod NSA, da deres overv\u00e5gningsprogram er blevet offentliggjort. Peter vil nominere Diana til H\u00f8jeste Ret igen."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Christine Baranski",
+                     "role" : "Diane Lockhart"
+                  },
+                  {
+                     "role" : "Will Gardner",
+                     "name" : "Josh Charles"
+                  },
+                  {
+                     "name" : "Julianna Margulies",
+                     "role" : "Alicia Florrick"
+                  },
+                  {
+                     "name" : "Archie Panjabi",
+                     "role" : "Kalinda Sharma"
+                  },
+                  {
+                     "role" : "Cary Agos",
+                     "name" : "Matt Czuchry"
+                  },
+                  {
+                     "name" : "Zach Grenier",
+                     "role" : "David Lee"
+                  },
+                  {
+                     "name" : "Makenzie Vega Norfolk",
+                     "role" : "Grace Florrick"
+                  },
+                  {
+                     "role" : "Eli Gold",
+                     "name" : "Alan Cumming"
+                  },
+                  {
+                     "name" : "Graham Phillips",
+                     "role" : "Zach Florrick"
+                  },
+                  {
+                     "name" : "Zach Woods",
+                     "role" : "Jeff Dellinger"
+                  }
+               ]
+            },
+            "stop" : "1531659600",
+            "title" : {
+               "da" : "The Good Wife"
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 22 s\u00e6son 5",
+               "xmltv_ns" : "4 . 1/22 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            }
+         },
+         {
+            "url" : [
+               "https://www.themoviedb.org/tv/1435/season/5/episode/3"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "channel" : "series.viasat.dk",
+            "start" : "1531659600",
+            "subTitle" : {
+               "da" : "A Precious Commodity"
+            },
+            "stop" : "1531662300",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Christine Baranski",
+                     "role" : "Diane Lockhart"
+                  },
+                  {
+                     "role" : "Will Gardner",
+                     "name" : "Josh Charles"
+                  },
+                  {
+                     "role" : "Alicia Florrick",
+                     "name" : "Julianna Margulies"
+                  },
+                  {
+                     "role" : "Kalinda Sharma",
+                     "name" : "Archie Panjabi"
+                  },
+                  {
+                     "name" : "Matt Czuchry",
+                     "role" : "Cary Agos"
+                  },
+                  {
+                     "name" : "Zach Grenier",
+                     "role" : "David Lee"
+                  },
+                  {
+                     "name" : "Makenzie Vega Norfolk",
+                     "role" : "Grace Florrick"
+                  },
+                  {
+                     "role" : "Eli Gold",
+                     "name" : "Alan Cumming"
+                  },
+                  {
+                     "role" : "Zach Florrick",
+                     "name" : "Graham Phillips"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "The Good Wife"
+            },
+            "desc" : {
+               "da" : "En rugemor bliver tvunget til at afslutte graviditeten, da parret, der hyrede hende, f\u00e5r at vide at fosteret har en alvorlig kromosomfejl. Hun beder Alicia tage sagen."
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "4 . 2/22 .",
+               "onscreen" : "Afsnit 3 af 22 s\u00e6son 5"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "date" : "2013"
+         },
+         {
+            "date" : "2013",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Christine Baranski",
+                     "role" : "Diane Lockhart"
+                  },
+                  {
+                     "name" : "Josh Charles",
+                     "role" : "Will Gardner"
+                  },
+                  {
+                     "role" : "Alicia Florrick",
+                     "name" : "Julianna Margulies"
+                  },
+                  {
+                     "role" : "Kalinda Sharma",
+                     "name" : "Archie Panjabi"
+                  },
+                  {
+                     "name" : "Matt Czuchry",
+                     "role" : "Cary Agos"
+                  },
+                  {
+                     "name" : "Zach Grenier",
+                     "role" : "David Lee"
+                  },
+                  {
+                     "role" : "Grace Florrick",
+                     "name" : "Makenzie Vega Norfolk"
+                  },
+                  {
+                     "role" : "Eli Gold",
+                     "name" : "Alan Cumming"
+                  },
+                  {
+                     "role" : "Zach Florrick",
+                     "name" : "Graham Phillips"
+                  },
+                  {
+                     "name" : "Erin Dilly",
+                     "role" : "Joely Angler"
+                  },
+                  {
+                     "role" : "Lyle",
+                     "name" : "Robert Klein"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "F\u00e9lix Enr\u00edquez Alcal\u00e1"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Robert King"
+                  },
+                  {
+                     "name" : "Michelle King"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "The Good Wife"
+            },
+            "stop" : "1531665000",
+            "desc" : {
+               "da" : "Firmaet bliver midtpunkt i en retssag, hvor de ansatte anklager dem for at fremme et fjendtlig arbejdsmilj\u00f8. Diana finder beviser for at Alicia bruger ufine kneb for at stj\u00e6le klienter."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 af 22 s\u00e6son 5",
+               "xmltv_ns" : "4 . 3/22 ."
+            },
+            "start" : "1531662300",
+            "channel" : "series.viasat.dk",
+            "subTitle" : {
+               "da" : "Outside the Bubble"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/1435/season/5/episode/4"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ]
+         },
+         {
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/1435/season/5/episode/5"
+            ],
+            "country" : [
+               "US"
+            ],
+            "subTitle" : {
+               "da" : "Hitting the Fan"
+            },
+            "channel" : "series.viasat.dk",
+            "start" : "1531665000",
+            "episodeNum" : {
+               "xmltv_ns" : "4 . 4/22 .",
+               "onscreen" : "Afsnit 5 af 22 s\u00e6son 5"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "desc" : {
+               "da" : "Diane afsl\u00f8rer over for Will, at Alicia og Cary planl\u00e6gger at starte deres eget firma og stj\u00e6le deres mest prestigefyldte klienter. Han bliver vred og fyrer dem, og Peter m\u00e5 derfor hj\u00e6lpe sin kone med at overleve."
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "James Whitmore Jr."
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Robert King"
+                  },
+                  {
+                     "name" : "Michelle King"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Christine Baranski",
+                     "role" : "Diane Lockhart"
+                  },
+                  {
+                     "name" : "Josh Charles",
+                     "role" : "Will Gardner"
+                  },
+                  {
+                     "name" : "Julianna Margulies",
+                     "role" : "Alicia Florrick"
+                  },
+                  {
+                     "role" : "Kalinda Sharma",
+                     "name" : "Archie Panjabi"
+                  },
+                  {
+                     "name" : "Matt Czuchry",
+                     "role" : "Cary Agos"
+                  },
+                  {
+                     "name" : "Zach Grenier",
+                     "role" : "David Lee"
+                  },
+                  {
+                     "name" : "Makenzie Vega Norfolk",
+                     "role" : "Grace Florrick"
+                  },
+                  {
+                     "role" : "Eli Gold",
+                     "name" : "Alan Cumming"
+                  },
+                  {
+                     "name" : "Graham Phillips",
+                     "role" : "Zach Florrick"
+                  },
+                  {
+                     "role" : "Joely Angler",
+                     "name" : "Erin Dilly"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "The Good Wife"
+            },
+            "stop" : "1531668000",
+            "date" : "2013"
+         },
+         {
+            "channel" : "series.viasat.dk",
+            "start" : "1531668000",
+            "subTitle" : {
+               "da" : "Patience"
+            },
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/4614/season/12/episode/19"
+            ],
+            "date" : "2015",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Leroy Jethro Gibbs",
+                     "name" : "Mark Harmon"
+                  },
+                  {
+                     "role" : "Tony DiNozzo",
+                     "name" : "Michael Weatherly"
+                  },
+                  {
+                     "role" : "Abby Sciuto",
+                     "name" : "Pauley Perrette"
+                  },
+                  {
+                     "name" : "Sean Murray",
+                     "role" : "Timothy McGee"
+                  },
+                  {
+                     "role" : "Donald \"Ducky\" Mallard",
+                     "name" : "David McCallum"
+                  },
+                  {
+                     "role" : "Jimmy Palmer",
+                     "name" : "Brian Dietzen"
+                  },
+                  {
+                     "role" : "Ellie Bishop",
+                     "name" : "Emily Wickersham"
+                  },
+                  {
+                     "name" : "Rocky Carroll",
+                     "role" : "Director Leon Vance"
+                  }
+               ]
+            },
+            "stop" : "1531670700",
+            "title" : {
+               "da" : "Navy NCIS"
+            },
+            "desc" : {
+               "da" : "Mordet p\u00e5 en underofficer giver et spor i en 40 \u00e5r gammel sag om en bombeeksplosion i en lufthavn, som Gibbs og DiNozzo har arbejdet p\u00e5 i to \u00e5r. McGee bliver sur over, at han ikke tidligere har v\u00e6ret involveret i sagen."
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 19 af 24 s\u00e6son 12",
+               "xmltv_ns" : "11 . 18/24 ."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Crime",
+                  "Drama"
+               ]
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "No Good Deed"
+            },
+            "start" : "1531670700",
+            "channel" : "series.viasat.dk",
+            "country" : [
+               "US"
+            ],
+            "url" : [
+               "https://www.themoviedb.org/tv/4614/season/12/episode/20"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2015",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 20 af 24 s\u00e6son 12",
+               "xmltv_ns" : "11 . 19/24 ."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Crime",
+                  "Drama"
+               ]
+            },
+            "desc" : {
+               "da" : "Da det viser sig, at mordv\u00e5bnet i en NCIS-sag oprindeligt blev k\u00f8bt i forbindelse med den kontroversielle ATF-operation \"Operation Fast and Furious\", f\u00e5r DiNozzo sin k\u00e6reste, ATF-specialagent Zo\u00e9 Keates, som partner. Samtidig vender Anthony DiNozzo Senior tilbage for at m\u00f8de sin s\u00f8ns k\u00e6reste."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Leroy Jethro Gibbs",
+                     "name" : "Mark Harmon"
+                  },
+                  {
+                     "name" : "Michael Weatherly",
+                     "role" : "Tony DiNozzo"
+                  },
+                  {
+                     "role" : "Abby Sciuto",
+                     "name" : "Pauley Perrette"
+                  },
+                  {
+                     "role" : "Timothy McGee",
+                     "name" : "Sean Murray"
+                  },
+                  {
+                     "role" : "Donald \"Ducky\" Mallard",
+                     "name" : "David McCallum"
+                  },
+                  {
+                     "role" : "Jimmy Palmer",
+                     "name" : "Brian Dietzen"
+                  },
+                  {
+                     "role" : "Ellie Bishop",
+                     "name" : "Emily Wickersham"
+                  },
+                  {
+                     "name" : "Rocky Carroll",
+                     "role" : "Director Leon Vance"
+                  }
+               ]
+            },
+            "stop" : "1531673400",
+            "title" : {
+               "da" : "Navy NCIS"
+            }
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/4614/season/12/episode/21"
+            ],
+            "subTitle" : {
+               "da" : "Lost in Translation"
+            },
+            "channel" : "series.viasat.dk",
+            "start" : "1531673400",
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "11 . 20/24 .",
+               "onscreen" : "Afsnit 21 af 24 s\u00e6son 12"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Crime",
+                  "Drama"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Leroy Jethro Gibbs",
+                     "name" : "Mark Harmon"
+                  },
+                  {
+                     "role" : "Tony DiNozzo",
+                     "name" : "Michael Weatherly"
+                  },
+                  {
+                     "name" : "Pauley Perrette",
+                     "role" : "Abby Sciuto"
+                  },
+                  {
+                     "name" : "Sean Murray",
+                     "role" : "Timothy McGee"
+                  },
+                  {
+                     "name" : "David McCallum",
+                     "role" : "Donald \"Ducky\" Mallard"
+                  },
+                  {
+                     "name" : "Brian Dietzen",
+                     "role" : "Jimmy Palmer"
+                  },
+                  {
+                     "name" : "Emily Wickersham",
+                     "role" : "Ellie Bishop"
+                  },
+                  {
+                     "role" : "Director Leon Vance",
+                     "name" : "Rocky Carroll"
+                  },
+                  {
+                     "role" : "Qasim Naasir",
+                     "name" : "Rafi Silver"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "Gibbs og Bishop tager til Afghanistan, da mordet p\u00e5 en marinesoldat i Washington DC forbindes med en terrorgruppe, som holder en anden marinesoldat som gidsel. Samtidig bliver DiNozzo forn\u00e6rmet, da han finder ud af, at fotos af McGee bliver brugt p\u00e5 rekrutteringsbrochurer."
+            },
+            "stop" : "1531676100",
+            "title" : {
+               "da" : "Navy NCIS"
+            },
+            "date" : "2015"
+         },
+         {
+            "title" : {
+               "da" : "Navy NCIS"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Leroy Jethro Gibbs",
+                     "name" : "Mark Harmon"
+                  },
+                  {
+                     "role" : "Tony DiNozzo",
+                     "name" : "Michael Weatherly"
+                  },
+                  {
+                     "role" : "Abby Sciuto",
+                     "name" : "Pauley Perrette"
+                  },
+                  {
+                     "role" : "Timothy McGee",
+                     "name" : "Sean Murray"
+                  },
+                  {
+                     "role" : "Donald \"Ducky\" Mallard",
+                     "name" : "David McCallum"
+                  },
+                  {
+                     "name" : "Brian Dietzen",
+                     "role" : "Jimmy Palmer"
+                  },
+                  {
+                     "name" : "Emily Wickersham",
+                     "role" : "Ellie Bishop"
+                  },
+                  {
+                     "name" : "Rocky Carroll",
+                     "role" : "Director Leon Vance"
+                  },
+                  {
+                     "role" : "Boyfriend at Diner",
+                     "name" : "Kevin Fonteyne"
+                  },
+                  {
+                     "name" : "Jessica Garza",
+                     "role" : "Layna Korkmaz"
+                  }
+               ]
+            },
+            "stop" : "1531678500",
+            "desc" : {
+               "da" : "Specialagent Ned Dorneget fra NCIS-cyberoperationer hj\u00e6lper teamet, da en f\u00e6ndrik, som arbejdede for fl\u00e5dens efterretningstjeneste, bliver myrdet. Samtidig finder teamet ud af, at Jake og Gibbs er blevet gode venner."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Crime",
+                  "Drama"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "11 . 21/24 .",
+               "onscreen" : "Afsnit 22 af 24 s\u00e6son 12"
+            },
+            "date" : "2015",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/4614/season/12/episode/22"
+            ],
+            "country" : [
+               "US"
+            ],
+            "start" : "1531676100",
+            "channel" : "series.viasat.dk",
+            "subTitle" : {
+               "da" : "Troll"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Crime",
+                  "Drama"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 23 af 24 s\u00e6son 12",
+               "xmltv_ns" : "11 . 22/24 ."
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Leroy Jethro Gibbs",
+                     "name" : "Mark Harmon"
+                  },
+                  {
+                     "name" : "Michael Weatherly",
+                     "role" : "Tony DiNozzo"
+                  },
+                  {
+                     "name" : "Pauley Perrette",
+                     "role" : "Abby Sciuto"
+                  },
+                  {
+                     "role" : "Timothy McGee",
+                     "name" : "Sean Murray"
+                  },
+                  {
+                     "role" : "Donald \"Ducky\" Mallard",
+                     "name" : "David McCallum"
+                  },
+                  {
+                     "role" : "Jimmy Palmer",
+                     "name" : "Brian Dietzen"
+                  },
+                  {
+                     "role" : "Ellie Bishop",
+                     "name" : "Emily Wickersham"
+                  },
+                  {
+                     "role" : "Director Leon Vance",
+                     "name" : "Rocky Carroll"
+                  },
+                  {
+                     "role" : "Agah Bayar",
+                     "name" : "Tamer Hassan"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "En NCIS-sag ender som en forenet global indsats, da beviser bekr\u00e6fter, at en international terrorgruppe, der rekrutterer b\u00f8rn p\u00e5 nettet, k\u00f8ber bomer p\u00e5 det sorte marked."
+            },
+            "title" : {
+               "da" : "Navy NCIS"
+            },
+            "stop" : "1531681200",
+            "date" : "2015",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/4614/season/12/episode/23"
+            ],
+            "country" : [
+               "US"
+            ],
+            "subTitle" : {
+               "da" : "The Lost Boys"
+            },
+            "channel" : "series.viasat.dk",
+            "start" : "1531678500"
+         },
+         {
+            "title" : {
+               "da" : "Nashville"
+            },
+            "desc" : {
+               "da" : "Daphne har det sv\u00e6rt med ideen om at date Deacon. Juliette pr\u00e6senterer Avery for Darius. Maddie og Jonas indspiller en sang, men Maddie synes at Jonas' liv er for offentligt. Will vil fors\u00f8ge at forbedre sin fremtoning."
+            },
+            "stop" : "1531683900",
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 3 s\u00e6son 6",
+               "xmltv_ns" : "5 . 2 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "date" : "2017",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "start" : "1531681200",
+            "channel" : "series.viasat.dk"
+         },
+         {
+            "start" : "1531683900",
+            "channel" : "series.viasat.dk",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2017",
+            "stop" : "1531686600",
+            "title" : {
+               "da" : "Nashville"
+            },
+            "desc" : {
+               "da" : "Darius hj\u00e6lper Juliette med at f\u00e5 l\u00e5st op for en m\u00f8rk hemmelighed. Dahne og Jake finder uventede ligheder. Scarlett melder sig som frivillig p\u00e5 en terapiranch med heste. Gunnar, Will og Avery k\u00e6mper sig frem til deres helt egen lyd."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 4 s\u00e6son 6",
+               "xmltv_ns" : "5 . 3 ."
+            }
+         },
+         {
+            "credits" : {
+               "writer" : [
+                  {
+                     "name" : "Noah Hawley"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Adam Bernstein"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Billy Bob Thornton",
+                     "role" : "Lorne Malvo"
+                  },
+                  {
+                     "name" : "Martin Freeman",
+                     "role" : "Lester Nygaard"
+                  },
+                  {
+                     "name" : "Allison Tolman",
+                     "role" : "Molly Solverson"
+                  },
+                  {
+                     "role" : "Deputy Gus Grimly",
+                     "name" : "Colin Hanks"
+                  },
+                  {
+                     "role" : "Bill Olson",
+                     "name" : "Bob Odenkirk"
+                  },
+                  {
+                     "role" : "Gina Hess",
+                     "name" : "Kate Walsh"
+                  },
+                  {
+                     "name" : "Adam Goldberg",
+                     "role" : "Mr. Numbers"
+                  },
+                  {
+                     "name" : "Oliver Platt",
+                     "role" : "Stavros Milos"
+                  },
+                  {
+                     "name" : "Glenn Howerton",
+                     "role" : "Don Chumph"
+                  },
+                  {
+                     "role" : "Webb Pepper",
+                     "name" : "Jordan Peele"
+                  },
+                  {
+                     "role" : "Bill Budge",
+                     "name" : "Keegan-Michael Key"
+                  },
+                  {
+                     "name" : "Joey King",
+                     "role" : "Greta Grimly"
+                  },
+                  {
+                     "name" : "Julie Ann Emery",
+                     "role" : "Ida Thurman"
+                  },
+                  {
+                     "role" : "Bo Munk",
+                     "name" : "Tom Musgrave"
+                  },
+                  {
+                     "name" : "Spencer Drever",
+                     "role" : "Gordo Nygaard"
+                  }
+               ]
+            },
+            "stop" : "1531689900",
+            "title" : {
+               "da" : "Fargo"
+            },
+            "desc" : {
+               "da" : "To g\u00e5defulde godtfolk er p\u00e5 en jagt efter Mr. Hess' morder. Betjent Solverson og den nye politichef Bill Oswalt har delte meninger om de mist\u00e6nkte og de p\u00e5st\u00e5ede mord."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Crime",
+                  "Drama"
+               ]
+            },
+            "new" : null,
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 1/10 .",
+               "onscreen" : "Afsnit 2 af 10 s\u00e6son 1"
+            },
+            "date" : "2014",
+            "url" : [
+               "https://www.themoviedb.org/tv/60622/season/1/episode/2"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "rating" : {
+               "stars" : "7.618 / 10"
+            },
+            "channel" : "series.viasat.dk",
+            "start" : "1531686600",
+            "subTitle" : {
+               "da" : "The Rooster Prince"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/71806/season/1/episode/9"
+            ],
+            "channel" : "series.viasat.dk",
+            "start" : "1531689900",
+            "subTitle" : {
+               "da" : "Stay Frosty"
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Thea",
+                     "name" : "Melissa Roxburgh"
+                  },
+                  {
+                     "role" : "Leland Gallo",
+                     "name" : "Matt Barr"
+                  },
+                  {
+                     "role" : "Jess Kam",
+                     "name" : "Corbin Reid"
+                  },
+                  {
+                     "role" : "Jimmy Kam",
+                     "name" : "W. Tr\u00e9 Davis"
+                  },
+                  {
+                     "name" : "Jaiden Kaine",
+                     "role" : "Khalid Samatar"
+                  },
+                  {
+                     "name" : "Charlie Barnett",
+                     "role" : "Ian Porter"
+                  },
+                  {
+                     "role" : "Nora Madani",
+                     "name" : "Christina Ochoa"
+                  },
+                  {
+                     "name" : "Nigel Thatch",
+                     "role" : "Robert Haskins"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Valor"
+            },
+            "stop" : "1531692300",
+            "desc" : {
+               "da" : "Nora, Gallo, Thea og Ian fors\u00f8ger at fange en person,som m\u00e5ske kan f\u00f8re dem til Jimmy. Jess er i problemer."
+            },
+            "new" : null,
+            "episodeNum" : {
+               "onscreen" : "Afsnit 9 af 13 s\u00e6son 1",
+               "xmltv_ns" : "0 . 8/13 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "date" : "2017"
+         },
+         {
+            "start" : "1531692300",
+            "channel" : "series.viasat.dk",
+            "subTitle" : {
+               "da" : "Need to Know"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/71806/season/1/episode/10"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2018",
+            "stop" : "1531695000",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Thea",
+                     "name" : "Melissa Roxburgh"
+                  },
+                  {
+                     "name" : "Matt Barr",
+                     "role" : "Leland Gallo"
+                  },
+                  {
+                     "name" : "Corbin Reid",
+                     "role" : "Jess Kam"
+                  },
+                  {
+                     "name" : "W. Tr\u00e9 Davis",
+                     "role" : "Jimmy Kam"
+                  },
+                  {
+                     "role" : "Khalid Samatar",
+                     "name" : "Jaiden Kaine"
+                  },
+                  {
+                     "name" : "Charlie Barnett",
+                     "role" : "Ian Porter"
+                  },
+                  {
+                     "name" : "Christina Ochoa",
+                     "role" : "Nora Madani"
+                  },
+                  {
+                     "role" : "Robert Haskins",
+                     "name" : "Nigel Thatch"
+                  }
+               ]
+            },
+            "desc" : {
+               "da" : "En vigtig besked betyder, at Nora, Thea og Gallo samles for at afkode den. Skuffelse f\u00e5r Haskins til at overveje store forandringer."
+            },
+            "title" : {
+               "da" : "Valor"
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 10 af 13 s\u00e6son 1",
+               "xmltv_ns" : "0 . 9/13 ."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            }
+         },
+         {
+            "date" : "2012",
+            "episodeNum" : {
+               "xmltv_ns" : "0 . 0/24 .",
+               "onscreen" : "Afsnit 1 af 24 s\u00e6son 1"
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Mystery",
+                  "Crime"
+               ]
+            },
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Jonny Lee Miller",
+                     "role" : "Sherlock Holmes"
+                  },
+                  {
+                     "name" : "Lucy Liu",
+                     "role" : "Dr. Joan Watson"
+                  },
+                  {
+                     "role" : "Det. Marcus Bell",
+                     "name" : "Jon Michael Hill"
+                  },
+                  {
+                     "role" : "Cpt. Thomas Gregson",
+                     "name" : "Aidan Quinn"
+                  },
+                  {
+                     "name" : "Manny P\u00e9rez",
+                     "role" : "Detective Javier Abreu"
+                  },
+                  {
+                     "name" : "Dallas Roberts",
+                     "role" : "Dr. Richard Mantlo"
+                  },
+                  {
+                     "name" : "Jonathan Walker",
+                     "role" : "Harrison Polk"
+                  },
+                  {
+                     "role" : "Eileen Renfro",
+                     "name" : "Kristen Bush"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Robert Doherty"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Michael Cuesta"
+                  }
+               ]
+            },
+            "title" : {
+               "da" : "Elementary"
+            },
+            "stop" : "1531697700",
+            "desc" : {
+               "da" : "Pilot. I nutidens New York er Joan Watson blevet hyret til at v\u00e6re den sobre ledsager for den r\u00e5dgivende detektiv; Sherlock Holmes. Hun hj\u00e6lper ham mens de efterforsker mordet p\u00e5 en l\u00e6ges kone."
+            },
+            "subTitle" : {
+               "da" : "Pilot"
+            },
+            "channel" : "series.viasat.dk",
+            "start" : "1531695000",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/1415/season/1/episode/1"
+            ],
+            "country" : [
+               "US"
+            ]
+         },
+         {
+            "subTitle" : {
+               "da" : "While You Were Sleeping"
+            },
+            "start" : "1531697700",
+            "channel" : "series.viasat.dk",
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "url" : [
+               "https://www.themoviedb.org/tv/1415/season/1/episode/2"
+            ],
+            "date" : "2012",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 24 s\u00e6son 1",
+               "xmltv_ns" : "0 . 1/24 ."
+            },
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama",
+                  "Mystery",
+                  "Crime"
+               ]
+            },
+            "credits" : {
+               "director" : [
+                  {
+                     "name" : "John David Coles"
+                  }
+               ],
+               "writer" : [
+                  {
+                     "name" : "Robert Doherty"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Jonny Lee Miller",
+                     "role" : "Sherlock Holmes"
+                  },
+                  {
+                     "name" : "Lucy Liu",
+                     "role" : "Dr. Joan Watson"
+                  },
+                  {
+                     "name" : "Jon Michael Hill",
+                     "role" : "Det. Marcus Bell"
+                  },
+                  {
+                     "role" : "Cpt. Thomas Gregson",
+                     "name" : "Aidan Quinn"
+                  },
+                  {
+                     "name" : "Jennifer Ferrin",
+                     "role" : "Rebecca Ellison"
+                  },
+                  {
+                     "role" : "Ty Morstan",
+                     "name" : "Bill Heck"
+                  },
+                  {
+                     "role" : "Michael McGee",
+                     "name" : "Casey Siemaszko"
+                  },
+                  {
+                     "role" : "Elaine",
+                     "name" : "Rosa Arredondo"
+                  }
+               ]
+            },
+            "stop" : "1531700400",
+            "desc" : {
+               "da" : "Mens du sov. Holmes og Watson unders\u00f8ger mordet p\u00e5 en rigmandsdatter under et indbrud - men han indser snart, at hun blev dr\u00e6bt f\u00f8r r\u00f8veriet. Den hovedmist\u00e6nkte har dog et vandt\u00e6t alibi, idet han ligger i koma."
+            },
+            "title" : {
+               "da" : "Elementary"
+            }
+         }
+      ]
+   }
+}

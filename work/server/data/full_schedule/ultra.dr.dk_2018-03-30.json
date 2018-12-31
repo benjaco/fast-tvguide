@@ -1,0 +1,1861 @@
+{
+   "jsontv" : {
+      "programme" : [
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522382700",
+            "start" : "1522381800",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Alvin og de fr\u00e6kke jordegern"
+            },
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "start" : "1522382700",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Zorro"
+            },
+            "date" : "2015",
+            "previously_shown" : "ultra.dr.dk|2018-02-12 05:45:00",
+            "new" : null,
+            "stop" : "1522383900",
+            "episodeNum" : {
+               "xmltv_ns" : ". 14 .",
+               "onscreen" : "Afsnit 15"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "stop" : "1522384500",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "title" : {
+               "da" : "Junglebanden"
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1522383900",
+            "date" : "2015"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522386000",
+            "date" : "2011",
+            "channel" : "ultra.dr.dk",
+            "start" : "1522384500",
+            "title" : {
+               "da" : "Wild Kratts"
+            },
+            "country" : [
+               "CA"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 13 .",
+               "onscreen" : "Afsnit 14"
+            },
+            "stop" : "1522386300",
+            "new" : null,
+            "date" : "2013",
+            "title" : {
+               "da" : "Kampen"
+            },
+            "start" : "1522386000",
+            "desc" : {
+               "da" : "Kampen for at sl\u00e5 op."
+            },
+            "channel" : "ultra.dr.dk",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "NO"
+            ]
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1. 8 .",
+               "onscreen" : "Afsnit 9 s\u00e6son 2"
+            },
+            "stop" : "1522387200",
+            "previously_shown" : "ultra.dr.dk|2018-02-14 07:35:00",
+            "new" : null,
+            "date" : "2015",
+            "title" : {
+               "da" : "Vi' bare bj\u00f8rne"
+            },
+            "start" : "1522386300",
+            "channel" : "ultra.dr.dk",
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "1. 19 .",
+               "onscreen" : "Afsnit 20 s\u00e6son 2"
+            },
+            "stop" : "1522388400",
+            "new" : null,
+            "date" : "2015",
+            "title" : {
+               "da" : "Thunderbirds"
+            },
+            "desc" : {
+               "da" : "Bedstemor med slag i."
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1522387200",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "GB"
+            ]
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522389900",
+            "date" : "1996",
+            "desc" : {
+               "da" : "Modellervoksfilm om det sk\u00f8re par. I denne film har de ikke noget ost i huset - men s\u00e5 kan man da selvf\u00f8lgelig altid tage en tur til m\u00e5nen."
+            },
+            "start" : "1522388400",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Walter og Trofast - En s\u00e6rlig ferietur"
+            },
+            "country" : [
+               "GB"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "US"
+            ],
+            "start" : "1522389900",
+            "desc" : {
+               "da" : "Alvin, Simon og Theodore er m\u00e5ske nok rockstjerner, men de er ogs\u00e5 helt almindelige b\u00f8rn, der er n\u00f8dt til at passe skolen og g\u00e5 ud med skraldet! Sammen med pigerne fra The Chipettes g\u00f8r de hver dag til en fest - og deres adoptivfar Dave sander hurtigt, at det kr\u00e6ver sin mand at have huset fyldt med syngende jordegern..."
+            },
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Alvin og de fr\u00e6kke jordegern"
+            },
+            "new" : null,
+            "stop" : "1522390500",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            }
+         },
+         {
+            "date" : "2002",
+            "title" : {
+               "da" : "Braceface"
+            },
+            "desc" : {
+               "da" : "Sally er 13 \u00e5r, g\u00e5r i 8. klasse og k\u00e6mper med alt, hvad teenagelivet byder p\u00e5. Men hun har et hemmeligt v\u00e5ben - hun har tandb\u00f8jle! Ingen kan modst\u00e5 et \u00e6gte b\u00f8jlegrin."
+            },
+            "start" : "1522390500",
+            "channel" : "ultra.dr.dk",
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "CA"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 32",
+               "xmltv_ns" : ". 31 ."
+            },
+            "stop" : "1522391700",
+            "new" : null,
+            "previously_shown" : "ultra.dr.dk|2018-03-12 11:30:00"
+         },
+         {
+            "stop" : "1522392300",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "title" : {
+               "da" : "Alvin og de fr\u00e6kke jordegern"
+            },
+            "channel" : "ultra.dr.dk",
+            "desc" : {
+               "da" : "Alvin, Simon og Theodore er m\u00e5ske nok rockstjerner, men de er ogs\u00e5 helt almindelige b\u00f8rn, der er n\u00f8dt til at passe skolen og g\u00e5 ud med skraldet! Sammen med pigerne fra The Chipettes g\u00f8r de hver dag til en fest - og deres adoptivfar Dave sander hurtigt, at det kr\u00e6ver sin mand at have huset fyldt med syngende jordegern..."
+            },
+            "start" : "1522391700"
+         },
+         {
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "title" : {
+               "da" : "Alvin og de fr\u00e6kke jordegern"
+            },
+            "desc" : {
+               "da" : "Alvin, Simon og Theodore er m\u00e5ske nok rockstjerner, men de er ogs\u00e5 helt almindelige b\u00f8rn, der er n\u00f8dt til at passe skolen og g\u00e5 ud med skraldet! Sammen med pigerne fra The Chipettes g\u00f8r de hver dag til en fest - og deres adoptivfar Dave sander hurtigt, at det kr\u00e6ver sin mand at have huset fyldt med syngende jordegern..."
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1522392300",
+            "stop" : "1522393200",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            }
+         },
+         {
+            "url" : [
+               "http://www.themoviedb.org/movie/56288"
+            ],
+            "new" : null,
+            "credits" : {
+               "producer" : [
+                  {
+                     "name" : "Elizabeth Avellan"
+                  },
+                  {
+                     "name" : "Robert Rodriguez"
+                  }
+               ],
+               "actor" : [
+                  {
+                     "name" : "Jessica Alba",
+                     "role" : "Marissa Cortez Wilson"
+                  },
+                  {
+                     "name" : "Mason Cook",
+                     "role" : "Cecil Wilson"
+                  },
+                  {
+                     "role" : "Rebecca Wilson",
+                     "name" : "Rowan Blanchard"
+                  },
+                  {
+                     "role" : "Wilber Wilson",
+                     "name" : "Joel McHale"
+                  },
+                  {
+                     "name" : "Jeremy Piven",
+                     "role" : "Timekeeper"
+                  },
+                  {
+                     "name" : "Alexa PenaVega",
+                     "role" : "Carmen Cortez"
+                  },
+                  {
+                     "role" : "Juni Cortez",
+                     "name" : "Daryl Sabara"
+                  },
+                  {
+                     "name" : "Ricky Gervais",
+                     "role" : "Argonaut"
+                  },
+                  {
+                     "role" : "Machete",
+                     "name" : "Danny Trejo"
+                  },
+                  {
+                     "role" : "Gregorio Cortrez",
+                     "name" : "Antonio Banderas"
+                  },
+                  {
+                     "role" : "Agent Fine",
+                     "name" : "Marci Madison"
+                  }
+               ],
+               "director" : [
+                  {
+                     "name" : "Robert Rodriguez"
+                  }
+               ]
+            },
+            "stop" : "1522398300",
+            "episodeNum" : {
+               "themoviedb.org" : "movie/56288"
+            },
+            "category" : {
+               "en" : [
+                  "movie",
+                  "Family",
+                  "Comedy",
+                  "Action"
+               ]
+            },
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "start" : "1522393200",
+            "desc" : {
+               "da" : "I familieeventyret 'Spy Kids 4' er Marissa Cortez Wilson gift med en ber\u00f8mt spion-j\u00e6ger, og hun er stedmor til Rebecca og Cecil som ikke er vilde med hende. Marissa har en hemmelighed - hun er tidligere topagent for OSS, og nu bliver hun kaldt til tjeneste igen, fordi hele verden er truet af den onde Timekeeper. Jordens undergang er n\u00e6r, men s\u00e5 bliver Rebecca og Cecil blandet ind i sagen, og de erfarer at deres kedelige stedmor har v\u00e6ret topagent. De to 10-\u00e5rige tvillinger f\u00e5r det vildeste spion-udstyr, og s\u00e5 tager de p\u00e5 mission for at redde verden."
+            },
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Spy Kids 4"
+            },
+            "rating" : {
+               "stars" : "4.5 / 10"
+            },
+            "date" : "2011"
+         },
+         {
+            "stop" : "1522399800",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 0/10 .",
+               "onscreen" : "Afsnit 1 af 10"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "NO"
+            ],
+            "date" : "2016",
+            "title" : {
+               "da" : "Trio - Keplerdiamanterne"
+            },
+            "desc" : {
+               "da" : "Nora bliver fors\u00f8gt kidnappet. Trio finder ud af, at Noras far ikke d\u00f8de i et flystyrt i Afrika, men holdes fanget af skattej\u00e6geren Schwartz. Og nu vil skattej\u00e6geren kidnappe Nora for at presse faren til at samarbejde."
+            },
+            "start" : "1522398300",
+            "channel" : "ultra.dr.dk"
+         },
+         {
+            "country" : [
+               "NO"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "desc" : {
+               "da" : "Nora fort\u00e6ller om kidnapperne og om faren, men hendes mor og bedste tror ikke rigtigt p\u00e5 hende. Ved hj\u00e6lp af mobiltelefonen f\u00f8lger Nora efter kidnapperne til bedstes hus. Men da hun tror, hun har afsl\u00f8ret dem, er de forsvundet."
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1522399800",
+            "title" : {
+               "da" : "Trio - Keplerdiamanterne"
+            },
+            "date" : "2016",
+            "new" : null,
+            "stop" : "1522401300",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2 af 10",
+               "xmltv_ns" : ". 1/10 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 2/10 .",
+               "onscreen" : "Afsnit 3 af 10"
+            },
+            "stop" : "1522402800",
+            "new" : null,
+            "date" : "2016",
+            "title" : {
+               "da" : "Trio - Keplerdiamanterne"
+            },
+            "start" : "1522401300",
+            "desc" : {
+               "da" : "Nora fort\u00e6ller bedste, at Trio har fundet ud af, at hendes far lever. Det lykkedes Nora at stj\u00e6le kidnappernes mobiltelefon, da hun var fanget. Hun giver bedste telefonen, og s\u00e5 bliver han taget til fange..."
+            },
+            "channel" : "ultra.dr.dk",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "NO"
+            ]
+         },
+         {
+            "country" : [
+               "NO"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "title" : {
+               "da" : "Trio - Keplerdiamanterne"
+            },
+            "desc" : {
+               "da" : "Bedste bliver v\u00e6k fra b\u00e5de familiesamling og arbejdet. Nora er bange for, at det har noget med kidnapperne at g\u00f8re. Snart h\u00f8rer hun fra dem; hun skal komme til et bestemt sted alene, hvis hun vil have sin bedstefar at se igen. Men kidnapperne venter p\u00e5 hende, da hun kommer..."
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1522402800",
+            "date" : "2016",
+            "stop" : "1522404300",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 3/10 .",
+               "onscreen" : "Afsnit 4 af 10"
+            }
+         },
+         {
+            "new" : null,
+            "stop" : "1522405500",
+            "episodeNum" : {
+               "xmltv_ns" : ". 4/10 .",
+               "onscreen" : "Afsnit 5 af 10"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "country" : [
+               "NO"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "start" : "1522404300",
+            "desc" : {
+               "da" : "Simon pr\u00f8ver at befri Nora fra kidnapperne. Lars finder ud af, at skattej\u00e6geren Schwartz pr\u00f8ver at afpresse Noras far til at finde m\u00f8nten. Lars og Emma finder ud af, at m\u00f8nten m\u00e5 v\u00e6re p\u00e5 et havnelager i Hamburg. Med Lars p\u00e5 headcam begiver Emma sig ind p\u00e5 det bevogtede lager."
+            },
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Trio - Keplerdiamanterne"
+            },
+            "date" : "2016"
+         },
+         {
+            "stop" : "1522407000",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 5/10 .",
+               "onscreen" : "Afsnit 6 af 10"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "NO"
+            ],
+            "date" : "2016",
+            "title" : {
+               "da" : "Trio - Keplerdiamanterne"
+            },
+            "channel" : "ultra.dr.dk",
+            "desc" : {
+               "da" : "Skattej\u00e6geren Schwartz har mistet tilliden til sine medarbejdere, og dukker op i Skj\u00e5k. Nu skal Nora befries. Simon ofrer alt og br\u00e6kker benet. Men Nora slipper fri. Nu skal hun finde sin far. Hun tager mod Hamburg. Bedstefar tager efter..."
+            },
+            "start" : "1522405500"
+         },
+         {
+            "new" : null,
+            "stop" : "1522408500",
+            "episodeNum" : {
+               "xmltv_ns" : ". 6/10 .",
+               "onscreen" : "Afsnit 7 af 10"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "NO"
+            ],
+            "date" : "2016",
+            "channel" : "ultra.dr.dk",
+            "desc" : {
+               "da" : "Nu ved Schwartz, at Trio har m\u00f8nten. Han truer dem for at f\u00e5 fat i den. Nora insisterer p\u00e5, at de vil bytte m\u00f8nten for faren. De m\u00f8des alle sammen p\u00e5 en kirkeg\u00e5rd for at lave overleveringen. Bedstefar mener, han kan lure Schwartz, men Schwartz har skumle planer..."
+            },
+            "start" : "1522407000",
+            "title" : {
+               "da" : "Trio - Keplerdiamanterne"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Trio - Keplerdiamanterne"
+            },
+            "desc" : {
+               "da" : "Trio f\u00e5r befriet bedstefar. De finder en tr\u00e6boks p\u00e5 n\u00e6ste punkt p\u00e5 skattekortet, men den kan kun \u00e5bnes med m\u00f8nten som n\u00f8gle. De m\u00e5 begive sig ombord p\u00e5 Schwartz' skib og stj\u00e6le den tilbage..."
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1522408500",
+            "date" : "2016",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "NO"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 7/10 .",
+               "onscreen" : "Afsnit 8 af 10"
+            },
+            "stop" : "1522410000",
+            "new" : null
+         },
+         {
+            "country" : [
+               "NO"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2016",
+            "title" : {
+               "da" : "Trio - Keplerdiamanterne"
+            },
+            "desc" : {
+               "da" : "Trio tager til det sidste punkt, Nordstjernepunktet, som viser sig at v\u00e6re St. Nicholas kirke. De pejler sig ind p\u00e5 skatten, men 400 \u00e5rs forskel p\u00e5 stjernepositionerne fra da skattekortet blev lavet, kan s\u00e6tte en stopper for skattejagten..."
+            },
+            "start" : "1522410000",
+            "channel" : "ultra.dr.dk",
+            "stop" : "1522411500",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 9 af 10",
+               "xmltv_ns" : ". 8/10 ."
+            }
+         },
+         {
+            "country" : [
+               "NO"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "date" : "2016",
+            "desc" : {
+               "da" : "Endelig finder de selve punktet for skatten, og snart finder de ogs\u00e5 Keplerdiamanterne. Hvad de ikke ved er, at Schwartz bare har ventet p\u00e5, at de skulle finde dem for ham. Schwartz truer med at g\u00f8re faren ondt, hvis ikke Nora giver ham de diamanter, hun har i s\u00e6kken..."
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1522411500",
+            "title" : {
+               "da" : "Trio - Keplerdiamanterne"
+            },
+            "new" : null,
+            "stop" : "1522413000",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 10 af 10",
+               "xmltv_ns" : ". 9/10 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "DK"
+            ],
+            "desc" : {
+               "da" : "Isabella har et problem. Hendes bedstefar Eliot har ikke betalt Isas store k\u00e6rlighed Lucas Lee sin l\u00f8n. Og nu vil Lucas ikke finde sig i det l\u00e6ngere. Han stopper p\u00e5 danseskolen. Hvordan skaffer man 8000 kroner, n\u00e5r man bare er 13 \u00e5r og er ved at miste sit livs k\u00e6rlighed?"
+            },
+            "start" : "1522413000",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Isas Stepz"
+            },
+            "date" : "2008",
+            "new" : null,
+            "previously_shown" : "ultra.dr.dk|2018-02-23 12:20:00",
+            "stop" : "1522413900",
+            "episodeNum" : {
+               "xmltv_ns" : ". 3 .",
+               "onscreen" : "Afsnit 4"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            }
+         },
+         {
+            "previously_shown" : "ultra.dr.dk|2018-03-29 16:05:00",
+            "new" : null,
+            "stop" : "1522415100",
+            "episodeNum" : {
+               "xmltv_ns" : ". 3 .",
+               "onscreen" : "Afsnit 4"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "ES"
+            ],
+            "date" : "2015",
+            "start" : "1522413900",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Monica Chef - Den mystiske dagbog"
+            }
+         },
+         {
+            "country" : [
+               "CA"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "date" : "2002",
+            "title" : {
+               "da" : "Braceface"
+            },
+            "desc" : {
+               "da" : "Tegnefilmserie med dansk tale. Sally er 13 \u00e5r, g\u00e5r i 8. klasse og k\u00e6mper med alt, hvad teenagelivet byder p\u00e5. Men hun har et hemmeligt v\u00e5ben - hun har tandb\u00f8jle! Ingen kan modst\u00e5 et \u00e6gte b\u00f8jlegrin."
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1522415100",
+            "stop" : "1522416600",
+            "previously_shown" : "ultra.dr.dk|2018-02-22 06:30:00",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 42 .",
+               "onscreen" : "Afsnit 43"
+            }
+         },
+         {
+            "date" : "2015",
+            "channel" : "ultra.dr.dk",
+            "start" : "1522416600",
+            "title" : {
+               "da" : "Star Wars: Droid Tales"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "US"
+            ],
+            "episodeNum" : {
+               "xmltv_ns" : ". 4 .",
+               "onscreen" : "Afsnit 5"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522417800"
+         },
+         {
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "US"
+            ],
+            "subTitle" : {
+               "da" : "Growth Spout"
+            },
+            "rating" : {
+               "stars" : "7.5 / 9"
+            },
+            "date" : "1999",
+            "channel" : "ultra.dr.dk",
+            "start" : "1522417800",
+            "title" : {
+               "da" : "Svampebob Firkant"
+            },
+            "new" : null,
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=75886&seasonid=133071&id=1197371&lid=10"
+            ],
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Patchy The Pirate"
+                  },
+                  {
+                     "role" : "Mrs. Poppy Puff",
+                     "name" : "Mary Jo Catlett"
+                  },
+                  {
+                     "name" : "Rodger Bumpass",
+                     "role" : "Squidward Tentacles"
+                  },
+                  {
+                     "name" : "Stephen Hillenburg",
+                     "role" : "Potty The Parrot"
+                  },
+                  {
+                     "role" : "Squilliam Fancyson, Perch Perkins, Old Man Jenkins",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "name" : "Carolyn Lawrence",
+                     "role" : "Sandy Cheeks"
+                  },
+                  {
+                     "name" : "Brian Doyle-Murray",
+                     "role" : "The Flying Dutchman"
+                  },
+                  {
+                     "name" : "Clancy Brown",
+                     "role" : "Mr. Eugene Krabs"
+                  },
+                  {
+                     "name" : "Mr. Lawrence",
+                     "role" : "Sheldon J. Plankton / Larry the Lobster"
+                  },
+                  {
+                     "role" : "Karen (the Computer Wife)",
+                     "name" : "Jill Talley"
+                  },
+                  {
+                     "name" : "Camryn Walling",
+                     "role" : "Kid / Kid Fish #2 / Boy Fish"
+                  },
+                  {
+                     "role" : "Patrick Star",
+                     "name" : "Bill Fagerbakke"
+                  },
+                  {
+                     "role" : "Spongebob Squarepants",
+                     "name" : "Tom Kenny"
+                  },
+                  {
+                     "role" : "Mama Krabs, Mrs. SquarePants",
+                     "name" : "Sirena Irwin"
+                  },
+                  {
+                     "role" : "Pearl Krabs",
+                     "name" : "Lori Alan"
+                  }
+               ]
+            },
+            "stop" : "1522419300",
+            "episodeNum" : {
+               "thetvdb.com" : "series/75886",
+               "xmltv_ns" : "6 . 12 .",
+               "onscreen" : "Afsnit 13 s\u00e6son 7"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            }
+         },
+         {
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Patchy The Pirate"
+                  },
+                  {
+                     "name" : "Mary Jo Catlett",
+                     "role" : "Mrs. Poppy Puff"
+                  },
+                  {
+                     "role" : "Squidward Tentacles",
+                     "name" : "Rodger Bumpass"
+                  },
+                  {
+                     "role" : "Potty The Parrot",
+                     "name" : "Stephen Hillenburg"
+                  },
+                  {
+                     "name" : "Dee Bradley Baker",
+                     "role" : "Squilliam Fancyson, Perch Perkins, Old Man Jenkins"
+                  },
+                  {
+                     "name" : "Carolyn Lawrence",
+                     "role" : "Sandy Cheeks"
+                  },
+                  {
+                     "role" : "The Flying Dutchman",
+                     "name" : "Brian Doyle-Murray"
+                  },
+                  {
+                     "name" : "Clancy Brown",
+                     "role" : "Mr. Eugene Krabs"
+                  },
+                  {
+                     "role" : "Sheldon J. Plankton / Larry the Lobster",
+                     "name" : "Mr. Lawrence"
+                  },
+                  {
+                     "name" : "Jill Talley",
+                     "role" : "Karen (the Computer Wife)"
+                  },
+                  {
+                     "role" : "Kid / Kid Fish #2 / Boy Fish",
+                     "name" : "Camryn Walling"
+                  },
+                  {
+                     "role" : "Patrick Star",
+                     "name" : "Bill Fagerbakke"
+                  },
+                  {
+                     "name" : "Tom Kenny",
+                     "role" : "Spongebob Squarepants"
+                  },
+                  {
+                     "name" : "Sirena Irwin",
+                     "role" : "Mama Krabs, Mrs. SquarePants"
+                  },
+                  {
+                     "role" : "Pearl Krabs",
+                     "name" : "Lori Alan"
+                  }
+               ]
+            },
+            "stop" : "1522420500",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=75886&seasonid=133071&id=1197381&lid=10"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 14 s\u00e6son 7",
+               "xmltv_ns" : "6 . 13 .",
+               "thetvdb.com" : "series/75886"
+            },
+            "country" : [
+               "US"
+            ],
+            "subTitle" : {
+               "da" : "Tentacle-Vision"
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "title" : {
+               "da" : "Svampebob Firkant"
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1522419300",
+            "date" : "1999",
+            "rating" : {
+               "stars" : "7.5 / 9"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "stop" : "1522422000",
+            "new" : null,
+            "title" : {
+               "da" : "Wild Kratts"
+            },
+            "desc" : {
+               "da" : "S\u00f8hesterodeo."
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1522420500",
+            "date" : "2012",
+            "country" : [
+               "CA"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "title" : {
+               "da" : "Junglebanden"
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1522422000",
+            "date" : "2015",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "stop" : "1522422600",
+            "new" : null
+         },
+         {
+            "date" : "2015",
+            "channel" : "ultra.dr.dk",
+            "start" : "1522422600",
+            "title" : {
+               "da" : "Junglebanden"
+            },
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522423200"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522423800",
+            "desc" : {
+               "da" : "Alvin, Simon og Theodore er m\u00e5ske nok rockstjerner, men de er ogs\u00e5 helt almindelige b\u00f8rn, der er n\u00f8dt til at passe skolen og g\u00e5 ud med skraldet! Sammen med pigerne fra The Chipettes g\u00f8r de hver dag til en fest - og deres adoptivfar Dave sander hurtigt, at det kr\u00e6ver sin mand at have huset fyldt med syngende jordegern..."
+            },
+            "start" : "1522423200",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Alvin og de fr\u00e6kke jordegern"
+            },
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "US"
+            ],
+            "desc" : {
+               "da" : "Alvin, Simon og Theodore er m\u00e5ske nok rockstjerner, men de er ogs\u00e5 helt almindelige b\u00f8rn, der er n\u00f8dt til at passe skolen og g\u00e5 ud med skraldet! Sammen med pigerne fra The Chipettes g\u00f8r de hver dag til en fest - og deres adoptivfar Dave sander hurtigt, at det kr\u00e6ver sin mand at have huset fyldt med syngende jordegern..."
+            },
+            "start" : "1522423800",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Alvin og de fr\u00e6kke jordegern"
+            },
+            "new" : null,
+            "stop" : "1522424700",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            }
+         },
+         {
+            "subTitle" : {
+               "da" : "Yours, Mine, and Mine"
+            },
+            "country" : [
+               "US"
+            ],
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "title" : {
+               "da" : "Svampebob Firkant"
+            },
+            "start" : "1522424700",
+            "channel" : "ultra.dr.dk",
+            "date" : "1999",
+            "rating" : {
+               "stars" : "7.5 / 9"
+            },
+            "stop" : "1522425900",
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Patchy The Pirate"
+                  },
+                  {
+                     "role" : "Mrs. Poppy Puff",
+                     "name" : "Mary Jo Catlett"
+                  },
+                  {
+                     "name" : "Rodger Bumpass",
+                     "role" : "Squidward Tentacles"
+                  },
+                  {
+                     "role" : "Potty The Parrot",
+                     "name" : "Stephen Hillenburg"
+                  },
+                  {
+                     "role" : "Squilliam Fancyson, Perch Perkins, Old Man Jenkins",
+                     "name" : "Dee Bradley Baker"
+                  },
+                  {
+                     "role" : "Sandy Cheeks",
+                     "name" : "Carolyn Lawrence"
+                  },
+                  {
+                     "role" : "The Flying Dutchman",
+                     "name" : "Brian Doyle-Murray"
+                  },
+                  {
+                     "role" : "Mr. Eugene Krabs",
+                     "name" : "Clancy Brown"
+                  },
+                  {
+                     "role" : "Sheldon J. Plankton / Larry the Lobster",
+                     "name" : "Mr. Lawrence"
+                  },
+                  {
+                     "name" : "Jill Talley",
+                     "role" : "Karen (the Computer Wife)"
+                  },
+                  {
+                     "role" : "Kid / Kid Fish #2 / Boy Fish",
+                     "name" : "Camryn Walling"
+                  },
+                  {
+                     "role" : "Patrick Star",
+                     "name" : "Bill Fagerbakke"
+                  },
+                  {
+                     "name" : "Tom Kenny",
+                     "role" : "Spongebob Squarepants"
+                  },
+                  {
+                     "name" : "Sirena Irwin",
+                     "role" : "Mama Krabs, Mrs. SquarePants"
+                  },
+                  {
+                     "name" : "Lori Alan",
+                     "role" : "Pearl Krabs"
+                  }
+               ]
+            },
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=75886&seasonid=265921&id=2911671&lid=10"
+            ],
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Animation",
+                  "Kids"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : "7 . 4 .",
+               "onscreen" : "Afsnit 5 s\u00e6son 8",
+               "thetvdb.com" : "series/75886"
+            }
+         },
+         {
+            "stop" : "1522427400",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "xmltv_ns" : ". 4 .",
+               "onscreen" : "Afsnit 5"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "ES"
+            ],
+            "date" : "2015",
+            "title" : {
+               "da" : "Monica Chef - F\u00f8rste dag"
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1522425900"
+         },
+         {
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "DK"
+            ],
+            "title" : {
+               "da" : "Designpigerne - Outfit of the Day"
+            },
+            "start" : "1522427400",
+            "desc" : {
+               "da" : "De to stylister, Nico og Andr\u00e9s, s\u00e6tter pigerne p\u00e5 en sidste pr\u00f8ve og k\u00e5rer vinderen af konkurrencen."
+            },
+            "channel" : "ultra.dr.dk",
+            "date" : "2016",
+            "stop" : "1522428300",
+            "previously_shown" : "ultra.dr.dk|2018-03-21 13:30:00",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 6",
+               "xmltv_ns" : ". 5 ."
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522428900",
+            "channel" : "ultra.dr.dk",
+            "desc" : {
+               "da" : "Alvin, Simon og Theodore er m\u00e5ske nok rockstjerner, men de er ogs\u00e5 helt almindelige b\u00f8rn, der er n\u00f8dt til at passe skolen og g\u00e5 ud med skraldet! Sammen med pigerne fra The Chipettes g\u00f8r de hver dag til en fest - og deres adoptivfar Dave sander hurtigt, at det kr\u00e6ver sin mand at have huset fyldt med syngende jordegern..."
+            },
+            "start" : "1522428300",
+            "title" : {
+               "da" : "Alvin og de fr\u00e6kke jordegern"
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "US"
+            ]
+         },
+         {
+            "stop" : "1522429500",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "US"
+            ],
+            "title" : {
+               "da" : "Alvin og de fr\u00e6kke jordegern"
+            },
+            "start" : "1522428900",
+            "desc" : {
+               "da" : "Alvin, Simon og Theodore er m\u00e5ske nok rockstjerner, men de er ogs\u00e5 helt almindelige b\u00f8rn, der er n\u00f8dt til at passe skolen og g\u00e5 ud med skraldet! Sammen med pigerne fra The Chipettes g\u00f8r de hver dag til en fest - og deres adoptivfar Dave sander hurtigt, at det kr\u00e6ver sin mand at have huset fyldt med syngende jordegern..."
+            },
+            "channel" : "ultra.dr.dk"
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 33 s\u00e6son 2",
+               "xmltv_ns" : "1 . 32 .",
+               "thetvdb.com" : "series/269537"
+            },
+            "stop" : "1522430700",
+            "credits" : {
+               "actor" : [
+                  {
+                     "role" : "Max",
+                     "name" : "Devon Brown"
+                  },
+                  {
+                     "name" : "Alexandra Beaton",
+                     "role" : "Emily"
+                  },
+                  {
+                     "name" : "Brennan Clost",
+                     "role" : "Daniel"
+                  },
+                  {
+                     "role" : "Giselle",
+                     "name" : "Jordan Clark"
+                  },
+                  {
+                     "role" : "West",
+                     "name" : "Lamar Johnson"
+                  },
+                  {
+                     "role" : "Skylar",
+                     "name" : "Skylar Healey"
+                  },
+                  {
+                     "name" : "Isaiah Peck",
+                     "role" : "Henry"
+                  },
+                  {
+                     "role" : "Noah",
+                     "name" : "Myles Erlick"
+                  },
+                  {
+                     "role" : "James",
+                     "name" : "Trevor Flannagan-Tordjman"
+                  },
+                  {
+                     "name" : "Brittany Raymond",
+                     "role" : "Riley"
+                  },
+                  {
+                     "role" : "Tiffany",
+                     "name" : "Tamina Pollack-Paris"
+                  },
+                  {
+                     "role" : "Trouxa",
+                     "name" : "Viviam Novaes"
+                  },
+                  {
+                     "role" : "LaTroy",
+                     "name" : "Akiel Julien"
+                  },
+                  {
+                     "name" : "Isaac Lupien",
+                     "role" : "Eldon"
+                  },
+                  {
+                     "role" : "Piper",
+                     "name" : "Alexandra Chaves"
+                  },
+                  {
+                     "role" : "Chloe",
+                     "name" : "Jennifer Pappas"
+                  },
+                  {
+                     "role" : "Alfie",
+                     "name" : "Giuseppe Bausillio"
+                  },
+                  {
+                     "role" : "Michelle",
+                     "name" : "Victoria Baldeserra"
+                  },
+                  {
+                     "role" : "Stephanie",
+                     "name" : "Samantha Grecchi"
+                  },
+                  {
+                     "name" : "Taveeta Szymanowitcz",
+                     "role" : "Thalia"
+                  },
+                  {
+                     "role" : "Amy",
+                     "name" : "Shelby Bain"
+                  },
+                  {
+                     "name" : "Bree Wasylenko",
+                     "role" : "Kate"
+                  },
+                  {
+                     "role" : "Amanda",
+                     "name" : "Logan Fabbro"
+                  },
+                  {
+                     "role" : "Cassie",
+                     "name" : "Allie Goodbun"
+                  },
+                  {
+                     "name" : "Shamier Anderson",
+                     "role" : "Chris"
+                  },
+                  {
+                     "role" : "Richelle",
+                     "name" : "Briar Nolet"
+                  },
+                  {
+                     "name" : "Natalie Krill",
+                     "role" : "Phoebe"
+                  },
+                  {
+                     "role" : "Hunter",
+                     "name" : "Zac Vran"
+                  },
+                  {
+                     "role" : "Cierra",
+                     "name" : "Cierra Healey"
+                  },
+                  {
+                     "role" : "Sloane",
+                     "name" : "Erika Prevost"
+                  }
+               ]
+            },
+            "new" : null,
+            "previously_shown" : "ultra.dr.dk|2018-02-26 18:40:00",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=269537&seasonid=582900&id=5265110&lid=10"
+            ],
+            "date" : "2013",
+            "title" : {
+               "da" : "The Next Step"
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1522429500",
+            "subTitle" : {
+               "da" : "Danger Zone"
+            },
+            "country" : [
+               "CA"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "start" : "1522430700",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "The Next Step"
+            },
+            "date" : "2013",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "CA"
+            ],
+            "subTitle" : {
+               "da" : "Rewind"
+            },
+            "episodeNum" : {
+               "thetvdb.com" : "series/269537",
+               "onscreen" : "Afsnit 34 s\u00e6son 2",
+               "xmltv_ns" : "1 . 33 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Drama"
+               ]
+            },
+            "new" : null,
+            "previously_shown" : "ultra.dr.dk|2018-02-27 18:40:00",
+            "url" : [
+               "http://thetvdb.com/?tab=episode&seriesid=269537&seasonid=582900&id=5265117&lid=10"
+            ],
+            "credits" : {
+               "actor" : [
+                  {
+                     "name" : "Devon Brown",
+                     "role" : "Max"
+                  },
+                  {
+                     "role" : "Emily",
+                     "name" : "Alexandra Beaton"
+                  },
+                  {
+                     "name" : "Brennan Clost",
+                     "role" : "Daniel"
+                  },
+                  {
+                     "role" : "Giselle",
+                     "name" : "Jordan Clark"
+                  },
+                  {
+                     "name" : "Lamar Johnson",
+                     "role" : "West"
+                  },
+                  {
+                     "role" : "Skylar",
+                     "name" : "Skylar Healey"
+                  },
+                  {
+                     "name" : "Isaiah Peck",
+                     "role" : "Henry"
+                  },
+                  {
+                     "role" : "Noah",
+                     "name" : "Myles Erlick"
+                  },
+                  {
+                     "name" : "Trevor Flannagan-Tordjman",
+                     "role" : "James"
+                  },
+                  {
+                     "name" : "Brittany Raymond",
+                     "role" : "Riley"
+                  },
+                  {
+                     "role" : "Tiffany",
+                     "name" : "Tamina Pollack-Paris"
+                  },
+                  {
+                     "name" : "Viviam Novaes",
+                     "role" : "Trouxa"
+                  },
+                  {
+                     "name" : "Akiel Julien",
+                     "role" : "LaTroy"
+                  },
+                  {
+                     "name" : "Isaac Lupien",
+                     "role" : "Eldon"
+                  },
+                  {
+                     "name" : "Alexandra Chaves",
+                     "role" : "Piper"
+                  },
+                  {
+                     "name" : "Jennifer Pappas",
+                     "role" : "Chloe"
+                  },
+                  {
+                     "name" : "Giuseppe Bausillio",
+                     "role" : "Alfie"
+                  },
+                  {
+                     "role" : "Michelle",
+                     "name" : "Victoria Baldeserra"
+                  },
+                  {
+                     "name" : "Samantha Grecchi",
+                     "role" : "Stephanie"
+                  },
+                  {
+                     "role" : "Thalia",
+                     "name" : "Taveeta Szymanowitcz"
+                  },
+                  {
+                     "role" : "Amy",
+                     "name" : "Shelby Bain"
+                  },
+                  {
+                     "role" : "Kate",
+                     "name" : "Bree Wasylenko"
+                  },
+                  {
+                     "role" : "Amanda",
+                     "name" : "Logan Fabbro"
+                  },
+                  {
+                     "role" : "Cassie",
+                     "name" : "Allie Goodbun"
+                  },
+                  {
+                     "name" : "Shamier Anderson",
+                     "role" : "Chris"
+                  },
+                  {
+                     "name" : "Briar Nolet",
+                     "role" : "Richelle"
+                  },
+                  {
+                     "name" : "Natalie Krill",
+                     "role" : "Phoebe"
+                  },
+                  {
+                     "role" : "Hunter",
+                     "name" : "Zac Vran"
+                  },
+                  {
+                     "name" : "Cierra Healey",
+                     "role" : "Cierra"
+                  },
+                  {
+                     "name" : "Erika Prevost",
+                     "role" : "Sloane"
+                  }
+               ]
+            },
+            "stop" : "1522432200"
+         },
+         {
+            "episodeNum" : {
+               "xmltv_ns" : ". 35 .",
+               "onscreen" : "Afsnit 36"
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "previously_shown" : "ultra.dr.dk|2018-03-04 10:10:00",
+            "stop" : "1522433400",
+            "date" : "2002",
+            "desc" : {
+               "da" : "Sally er 13 \u00e5r, g\u00e5r i 8. klasse og k\u00e6mper med alt, hvad teenagelivet byder p\u00e5. Men hun har et hemmeligt v\u00e5ben - hun har tandb\u00f8jle! Ingen kan modst\u00e5 et \u00e6gte b\u00f8jlegrin."
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1522432200",
+            "title" : {
+               "da" : "Braceface"
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "CA"
+            ]
+         },
+         {
+            "previously_shown" : "ultra.dr.dk|2018-03-15 11:25:00",
+            "new" : null,
+            "stop" : "1522434600",
+            "episodeNum" : {
+               "onscreen" : "Afsnit 37",
+               "xmltv_ns" : ". 36 ."
+            },
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "video" : {
+               "aspect" : "4:3"
+            },
+            "country" : [
+               "CA"
+            ],
+            "date" : "2002",
+            "desc" : {
+               "da" : "Sally er 13 \u00e5r, g\u00e5r i 8. klasse og k\u00e6mper med alt, hvad teenagelivet byder p\u00e5. Men hun har et hemmeligt v\u00e5ben - hun har tandb\u00f8jle! Ingen kan modst\u00e5 et \u00e6gte b\u00f8jlegrin."
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1522433400",
+            "title" : {
+               "da" : "Braceface"
+            }
+         },
+         {
+            "country" : [
+               "FR",
+               "MC"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "channel" : "ultra.dr.dk",
+            "desc" : {
+               "da" : "Stjernenykker."
+            },
+            "start" : "1522434600",
+            "title" : {
+               "da" : "Conrad og Bernhard"
+            },
+            "date" : "2013",
+            "new" : null,
+            "stop" : "1522435500",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522436400",
+            "desc" : {
+               "da" : "Far, jeg vil ha' den!"
+            },
+            "start" : "1522435500",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Conrad og Bernhard"
+            },
+            "date" : "2013",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "FR",
+               "MC"
+            ]
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "new" : null,
+            "stop" : "1522437300",
+            "start" : "1522436400",
+            "channel" : "ultra.dr.dk",
+            "title" : {
+               "da" : "Ultra Factor med Malte Ebert og Katinka (del 1)"
+            },
+            "date" : "2018",
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "DK"
+            ]
+         },
+         {
+            "new" : null,
+            "stop" : "1522437900",
+            "category" : {
+               "en" : [
+                  "series",
+                  "Kids"
+               ]
+            },
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "country" : [
+               "US"
+            ],
+            "desc" : {
+               "da" : "Alvin, Simon og Theodore er m\u00e5ske nok rockstjerner, men de er ogs\u00e5 helt almindelige b\u00f8rn, der er n\u00f8dt til at passe skolen og g\u00e5 ud med skraldet! Sammen med pigerne fra The Chipettes g\u00f8r de hver dag til en fest - og deres adoptivfar Dave sander hurtigt, at det kr\u00e6ver sin mand at have huset fyldt med syngende jordegern..."
+            },
+            "channel" : "ultra.dr.dk",
+            "start" : "1522437300",
+            "title" : {
+               "da" : "Alvin og de fr\u00e6kke jordegern"
+            }
+         },
+         {
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "episodeNum" : {
+               "onscreen" : "Afsnit 2",
+               "xmltv_ns" : ". 1 ."
+            },
+            "stop" : "1522438500",
+            "previously_shown" : "ultra.dr.dk|2018-03-14 16:30:00",
+            "new" : null,
+            "date" : "2017",
+            "title" : {
+               "da" : "Cykel Karaoke - Bastian fra MGP"
+            },
+            "start" : "1522437900",
+            "desc" : {
+               "da" : "I dette afsnit af Cykel Karaoke f\u00e5r Jannik bes\u00f8g af Bastian... igen! Der er nemlig sket mange sp\u00e6ndende og vilde ting for Bastian siden den f\u00f8rste cykeltur. Bastian fort\u00e6ller om sin hovedrolle i Ultra's nye serie Baseboys. Er det sv\u00e6rt at synge opera, og vil Bastian helst spise Pizza eller Myrer? Det finder vi ud af, og selvf\u00f8lgelig skal vi synge Bastians nyeste hit- 'Stormvind'. Kom i gear og tag med os p\u00e5 cykeltur!"
+            },
+            "channel" : "ultra.dr.dk",
+            "country" : [
+               "DK"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            }
+         },
+         {
+            "stop" : "1522439760",
+            "new" : null,
+            "category" : {
+               "en" : [
+                  "series",
+                  "Series"
+               ]
+            },
+            "country" : [
+               "DK"
+            ],
+            "video" : {
+               "aspect" : "16:9"
+            },
+            "title" : {
+               "da" : "Ultra Factor med Malte Ebert og Katinka (del 2)"
+            },
+            "start" : "1522438500",
+            "channel" : "ultra.dr.dk",
+            "date" : "2018"
+         }
+      ]
+   }
+}
