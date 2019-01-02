@@ -110,7 +110,8 @@ app.get("/all_info", async (req, res) => {
                 status: "Success",
                 status_code: 1,
                 program
-            })
+            });
+            return;
         }else {
             res.status(400).end();
             return;
