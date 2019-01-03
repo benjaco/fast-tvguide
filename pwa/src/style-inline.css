@@ -134,8 +134,8 @@ header ul li {
     height: 100%;
 }
 
-.program_info {
-    transform: translateY(200px);
+.program_info_outer {
+    transform: translateY(310px);
     transition: transform 500ms;
     will-change: trasform;
 }

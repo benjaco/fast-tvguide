@@ -17,6 +17,7 @@ function requestAnimationFramePromise() {
         requestAnimationFrame(resolve);
     })
 }
+
 function dobbleRAF() {
     return requestAnimationFramePromise().then(requestAnimationFramePromise);
 }
@@ -61,88 +62,76 @@ class App {
             })
         };
 
-        const guiReady = domReady().then(_ => {
-            this.setUpGui();
-            return Promise.resolve();
-        });
+        (async () => {
+            let [tvGuideData, _] = await Promise.all([
+                this.getTvguideData(this.week[0].url),
+                domReady().then(this.setUpGui)
+            ]);
 
-        let tvguideDataPromise = this.getTvguideData(this.week[0].url);
+            this.renderedDays.push(0);
+            let [unrenderedPrograms, unrenderedChannels] = this.timelineRender.firstRender(tvGuideData.channels, this.channelList.channels);
 
-        guiReady
-            .then(_ => tvguideDataPromise)
-            .then(r => {
-                this.renderedDays.push(0);
-                let [unrenderedPrograms, unrenderedChannels] = this.timelineRender.firstRender(r.channels, this.channelList.channels);
-                document.getElementsByClassName("channel-programs")[0].scrollLeft = (new Date()).getHours() * this.responsive.timeLength - 50;
+            await dobbleRAF();
+            this.channelsIconRender.render(this.channelList.channels);
+            await dobbleRAF();
 
+            this.timelineRender.addMissingSetup();
+            this.timelineRender.addEventListener();
+            this.addScrollListener();
+            if (Object.keys(unrenderedChannels).length > 0) {
+                this.timelineRender.addElementsRender(unrenderedChannels, false);
+            }
+            this.timelineRender.addMissingProgramsRender(unrenderedPrograms);
 
-                return dobbleRAF().then(_ => {
-                        this.channelsIconRender.render(this.channelList.channels);
-                        return dobbleRAF();
-                    })
-                    .then(_ => {
-                        this.timelineRender.addMissingSetup();
-                        this.timelineRender.addEventListener();
-                        this.addScrollListener();
-                        this.timelineRender.addElementsRender(unrenderedChannels, false);
-                        this.timelineRender.addMissingProgramsRender(unrenderedPrograms);
+            if (this.renderYesterday !== false) {
+                this.renderDayFromDate(this.renderYesterday)
+            }
+            if ((new Date()).getHours() + (this.responsive.width / this.responsive.timeLength) > 24) {
+                this.renderDayIfNeeded(1)
+            }
+            let channelNames = fetch("../channel_names").then(r => r.json()).catch(_ => Promise.resolve([]));
 
-                        if (this.renderYesterday !== false) {
-                            this.renderDayFromDate(this.renderYesterday)
-                        }
-                        if((new Date()).getHours() + (this.responsive.width / this.responsive.timeLength) > 24) {
-                            this.renderDayIfNeeded(1)
-                        }
-                        return fetch("../channel_names")
-                    })
-                    .then(r => r.json())
-                    .catch(_ => {
-                        return Promise.resolve([])
-                    });
+            this.channelNames = channelNames;
+            this.channelsIconRender.addLabels(channelNames);
+
+            this.timeRender.renderDays(this.week.length);
+
+            dobbleRAF().then(LoadCSS("style.min.css"));
+
+            await LoadScript("show_program.js");
+            this.program = new window.Program();
+            this.timelineRender.onProgramClick = data => this.program.show(data);
+
+            await LoadScript("channel_editor.js");
+            this.channelEdit = new window.ChannelEdit(this);
+            this.channelEdit.onUpdate = newList => {
+                this.channelList.channels = newList;
+                this.channelList.save();
+
+                this.timelineRender.updateChannelList(this.channelList.channels);
+                this.channelsIconRender.render(this.channelList.channels);
+                this.channelsIconRender.addLabels(this.channelNames);
+
+                let renderDays = this.renderedDays;
+                this.renderedDays = [];
+                for (let i of renderDays) {
+                    this.renderDayIfNeeded(i)
+                }
+                if (this.renderYesterday !== false) {
+                    this.renderDayFromDate(this.renderYesterday);
+                }
+            };
+
+            navigator.serviceWorker.register('sw.js');
+
+            console.log('[AIV]{version}[/AIV]');
+
+            window.requestIdleCallback(_ => {
+                this.dataRetriever.updateCache()
             })
-            .then(r => {
-                this.channelNames = r;
-                this.channelsIconRender.addLabels(r);
+        })();
 
-                this.timeRender.renderDays(this.week.length);
 
-                dobbleRAF().then(LoadCSS("style.min.css"));
-            })
-            .then(_ => LoadScript("show_program.js"))
-            .then(_ => {
-                this.program = new window.Program();
-                this.timelineRender.onProgramClick = data => this.program.show(data);
-            })
-            .then(_ => LoadScript("channel_editor.js"))
-            .then(_ => {
-                this.channelEdit = new window.ChannelEdit(this);
-                this.channelEdit.onUpdate = newList => {
-                    this.channelList.channels = newList;
-                    this.channelList.save();
-
-                    this.timelineRender.updateChannelList(this.channelList.channels);
-                    this.channelsIconRender.render(this.channelList.channels);
-                    this.channelsIconRender.addLabels(this.channelNames);
-
-                    let renderDays = this.renderedDays;
-                    this.renderedDays = [];
-                    for (let i of renderDays) {
-                        this.renderDayIfNeeded(i)
-                    }
-                    if (this.renderYesterday !== false) {
-                        this.renderDayFromDate(this.renderYesterday);
-                    }
-                };
-            })
-            .then(_ => {
-                navigator.serviceWorker.register('sw.js');
-
-                console.log('[AIV]{version}[/AIV]');
-
-                window.requestIdleCallback(_ => {
-                    this.dataRetriever.updateCache()
-                })
-            });
     }
 
     setUpGui() {
@@ -181,6 +170,9 @@ class App {
                 this.timeRender.showMobileTimeline();
             }
         });
+
+        document.getElementsByClassName("channel-programs")[0].scrollLeft = (new Date()).getHours() * this.responsive.timeLength - 50;
+
     }
 
     addScrollListener() {
