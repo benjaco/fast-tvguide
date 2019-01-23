@@ -24,8 +24,6 @@ const assets = [
     // only on installable 'icons/icon_512.png',
 ];
 
-const removeCharsAtStart = location.host === "localhost" ? 8 : 0;
-
 
 self.addEventListener("install", event => {
     event.waitUntil(
@@ -62,32 +60,19 @@ self.addEventListener('activate', function (event) {
 
 self.addEventListener('fetch', event => {
     let url = new URL(event.request.url);
-    let path = url.pathname.substr(removeCharsAtStart);
-    let path_first_part = url.origin + (removeCharsAtStart === 0 ? "" : "/tvguide" );
+    let path = url.pathname;
 
-    if (path === "/pwa/") {
+    if (path === "/") {
         path += "index.html";
     }
 
-    let full_path = path_first_part + path;
-
-
-    if (path.startsWith("/pwa/") && !path.endsWith("sw.js")) {
-        event.respondWith(
-            caches.match(full_path)
-        );
-        return;
-    }
 
     if (path.startsWith("/images/")) {
         event.respondWith(
             caches.open(imageCacheName).then(cache =>
-                cache.match(full_path).then(result => {
-                    if (result) {
-                        return result;
-                    }
-                    return fetch(event.request).then(imageResponse => {
-                        cache.put(full_path, imageResponse.clone());
+                cache.match(path).then(response => {
+                    return response || fetch(event.request).then(imageResponse => {
+                        cache.put(path, imageResponse.clone());
                         return imageResponse;
                     })
                 })
@@ -99,9 +84,9 @@ self.addEventListener('fetch', event => {
     if (path === "/channel_names") {
         event.respondWith(
             caches.open(channelNameCacheName).then(cache =>
-                cache.match(full_path).then(result => {
+                cache.match(path).then(result => {
                     let networkFetch = fetch(event.request).then(response => {
-                        cache.put(full_path, response.clone());
+                        cache.put(path, response.clone());
                         return response;
                     });
                     return result || networkFetch;
@@ -111,7 +96,16 @@ self.addEventListener('fetch', event => {
         return;
     }
 
-    event.respondWith(fetch(event.request));
+    if (path.endsWith("sw.js")) {
+        event.respondWith(fetch(event.request));
+        return;
+    }
 
+
+    event.respondWith(
+        caches.match(path).then(function(response) {
+            return response || fetch(event.request);
+        })
+    );
 
 });
