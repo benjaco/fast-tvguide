@@ -11,9 +11,9 @@ module.exports = {
     output: {
         filename: './pwa/[name].js'
     },
-    devtool: 'source-map',
+    // devtool: 'source-map',
     plugins: [
-        new BabiliPlugin(),
+        // new BabiliPlugin(),
         new WebpackAutoInject(),
     ]
 };

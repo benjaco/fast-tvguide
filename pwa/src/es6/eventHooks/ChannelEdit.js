@@ -46,6 +46,10 @@ class ChannelEdit {
 
         LoadScript("slip.min.js").then(_=>{
             new Slip(this._channelListEl);
+            this._channelListEl.addEventListener('slip:beforeswipe', function(e) {
+                e.preventDefault();
+            });
+
 
             this._channelListEl.addEventListener('slip:reorder', function(e) {
                 // e.target list item reordered.

@@ -1,23 +1,34 @@
 const fs = require('fs'),
     path = require('path'),
-    common = require("./helpers/date_and_path"),
+    {downloadAndSaveFile, readFileAsync, createPathIfNotExist} = require("./helpers/files"),
+    config = require("./config"),
     SavedVersion = require("./helpers/SavedVersion"),
     moment = require('moment'),
     request = require("request-promise-native"),
     parseString = require('xml2js').parseString,
     {promisify} = require('util');
 
-const channel_names = JSON.parse(fs.readFileSync(path.join(__dirname, "channel_names.json"))),
-    useragent = fs.readFileSync(path.join(__dirname, "useragent.txt"));
+const channel_names = JSON.parse(fs.readFileSync(path.join(__dirname, "channel_names.json")));
 
-const readFileAsync = promisify(fs.readFile);
+const dateFromFilename = (filename) => {
+    let match = filename.match(/_(\d{4})-(\d{2})-(\d{2})\.json/);
+    if (match == null) {
+        return false;
+    }
+    let date = moment(`${match[1]}-${match[2]}-${match[3]}`, "YYYY-MM-DD", true);
+    if (!date.isValid()) {
+        return false;
+    }
+    return date;
+};
+
 
 const cleanUp = (parentPath) => {
     let files = fs.readdirSync(parentPath);
     let yesterday = moment().startOf("day").subtract(1, 'days');
 
     for (let fileName of files) {
-        let date = common.dateFromFilename(fileName);
+        let date = dateFromFilename(fileName);
         if (date === false) {
             console.log("invalid file name", fileName);
             continue;
@@ -29,7 +40,7 @@ const cleanUp = (parentPath) => {
 };
 
 const lastProgramUpdateFromProvider = async () => {
-    const xmldata = await request("https://xmltv.xmltv.se/datalist.xml.gz", {headers: {'User-Agent': useragent}});
+    const xmldata = await request("https://xmltv.xmltv.se/datalist.xml.gz", {headers: {'User-Agent': config.userAgent}});
     const data = await promisify(parseString)(xmldata);
     const channels = data.tv.channel;
 
@@ -70,6 +81,7 @@ const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 const getNewData = async (lastProgramUpdateFromProviderData) => {
     const lastSavedVersion = new SavedVersion(),
         datesForTheNextWeek = getNextDays(10);
+    let updated = false;
 
 
     for (let channelname of Object.keys(channel_names)) {
@@ -87,7 +99,7 @@ const getNewData = async (lastProgramUpdateFromProviderData) => {
             }
 
             try {
-                await common.downloadAndSaveFile(url, save_path, useragent);
+                await downloadAndSaveFile(url, save_path, config.userAgent);
                 lastSavedVersion.addItem(channelname, day);
 
                 if (Math.random() > .8) { // just save the file once in a while
@@ -95,6 +107,7 @@ const getNewData = async (lastProgramUpdateFromProviderData) => {
                 }
 
                 console.log("OK - " + url);
+                updated = true;
             } catch (e) {
                 console.log("FAIL - " + url + " -- " + e)
             }
@@ -105,6 +118,8 @@ const getNewData = async (lastProgramUpdateFromProviderData) => {
 
     lastSavedVersion.cleanup();
     lastSavedVersion.save();
+
+    return updated;
 };
 
 const createOverviewSchedule = async (fullScheduleRootPath, scheduleRootPath) => {
@@ -114,7 +129,7 @@ const createOverviewSchedule = async (fullScheduleRootPath, scheduleRootPath) =>
     }
     let fullSchedules = fs.readdirSync(fullScheduleRootPath);
     for (let fullSchedulePath of fullSchedules) {
-        let fullSchedule = await readFileAsync(path.join(fullScheduleRootPath, fullSchedulePath), "utf8");
+        let fullSchedule = await readFileAsync(path.join(fullScheduleRootPath, fullSchedulePath));
         try {
             fullSchedule = JSON.parse(fullSchedule);
         } catch (e) {
@@ -146,19 +161,27 @@ const createOverviewSchedule = async (fullScheduleRootPath, scheduleRootPath) =>
     }
 };
 
-(async function () {
+async function task() {
 
-    const dataPath = common.createPathIfNotExist("data", __dirname);
+    const dataPath = createPathIfNotExist("data", __dirname);
 
-    const fullSchedulePath = common.createPathIfNotExist("full_schedule", dataPath);
-    const schedulePath = common.createPathIfNotExist("schedule", dataPath);
+    const fullSchedulePath = createPathIfNotExist("full_schedule", dataPath);
+    const schedulePath = createPathIfNotExist("schedule", dataPath);
 
     cleanUp(fullSchedulePath);
 
     const lastProgramUpdateFromProviderData = await lastProgramUpdateFromProvider();
 
-    await getNewData(lastProgramUpdateFromProviderData);
-    await createOverviewSchedule(fullSchedulePath, schedulePath);
+    let updated = await getNewData(lastProgramUpdateFromProviderData);
+    if (updated) {
+        await createOverviewSchedule(fullSchedulePath, schedulePath);
+    }
+    return updated;
+}
 
 
-})();
+if (require.main === module) {
+    task();
+} else {
+    module.exports = task;
+}

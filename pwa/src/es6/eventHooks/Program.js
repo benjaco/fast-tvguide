@@ -33,8 +33,8 @@ class Program {
 
     close() {
         this.open = false;
-        this._programInfoEl.querySelector('.desc').textContent = "";
-        this._programInfoEl.querySelector('.involved').textContent = "";
+
+        this._programInfoEl.scroll({top: 0, left: 0, behavior: 'smooth' });
         this._programInfoEl.style.transform = "translateY(310px)";
     }
 

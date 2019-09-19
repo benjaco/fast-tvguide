@@ -1,7 +1,7 @@
 const fs = require('fs'),
     path = require('path'),
     Jimp = require("jimp"),
-    common = require("./helpers/date_and_path");
+    common = require("./helpers/files");
 
 
 const channel_names = JSON.parse(fs.readFileSync(path.join(__dirname, "channel_names.json")));
@@ -43,8 +43,8 @@ const resizeAllImages = async (from, to, size) => {
     console.log("Image resized")
 };
 
-(async function () {
 
+const task = async () => {
     const dataPath = common.createPathIfNotExist("data", __dirname);
 
     const largeImagePath = common.createPathIfNotExist("large_images", dataPath);
@@ -53,7 +53,10 @@ const resizeAllImages = async (from, to, size) => {
     await downloadMissingImages(largeImagePath);
 
     await resizeAllImages(largeImagePath, imagePath, 40);
+}
 
-
-
-})();
+if(require.main === module) {
+    task();
+}else{
+    module.exports = task;
+}

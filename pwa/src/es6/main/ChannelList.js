@@ -23,14 +23,16 @@ export default class ChannelList {
                 "kanal5.dk",
                 "6-eren.dk",
                 "canal9.dk"
-            ]
+            ];
+            this.defaultChannels = true;
         } else {
             this.channels = localStorage.getItem("tvguide_channels").split(",");
+            this.defaultChannels = false;
         }
     }
 
     save() {
         localStorage.setItem("tvguide_channels", this.channels);
-
+        this.defaultChannels = false;
     }
 }

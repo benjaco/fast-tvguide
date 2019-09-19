@@ -15,11 +15,11 @@ export default class Responsive {
         this.onUpdate = fn => this._onUpdate.push(fn);
 
         this.default = {
-            mobileTimeLength: 140,
+            mobileTimeLength: 160,
             desktopTimeLength: 220,
-            mobileProgramHeight: 46,
+            mobileProgramHeight: 48,
             desktopProgramHeight: 62,
-            mobilePadding: 2,
+            mobilePadding: 5,
             desktopPadding: 9
         };
 
@@ -52,12 +52,12 @@ export default class Responsive {
         if (this.width > 700) {
             this.timeLength = this.default.desktopTimeLength;
             this.programHeight = this.default.desktopProgramHeight;
-            this.padding = 9;
+            this.padding = this.default.desktopPadding;
             this.mode = "desktop";
         } else {
             this.timeLength = this.default.mobileTimeLength;
             this.programHeight = this.default.mobileProgramHeight;
-            this.padding = 2;
+            this.padding = this.default.mobilePadding;
             this.mode = "mobile";
         }
 

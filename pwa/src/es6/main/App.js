@@ -68,28 +68,45 @@ class App {
                 domReady().then(this.setUpGui)
             ]);
 
-            this.renderedDays.push(0);
-            let [unrenderedPrograms, unrenderedChannels] = this.timelineRender.firstRender(tvGuideData.channels, this.channelList.channels);
+            if (typeof serverRendered === "undefined" || this.channelList.defaultChannels === false) {
+                console.log("custom");
+                this.renderedDays.push(0);
+                let [unrenderedPrograms, unrenderedChannels] = this.timelineRender.firstRender(tvGuideData.channels, this.channelList.channels);
 
-            await dobbleRAF();
-            this.channelsIconRender.render(this.channelList.channels);
-            await dobbleRAF();
+                await dobbleRAF();
+                this.channelsIconRender.render(this.channelList.channels);
+                await dobbleRAF();
 
-            this.timelineRender.addMissingSetup();
-            this.timelineRender.addEventListener();
-            this.addScrollListener();
-            if (Object.keys(unrenderedChannels).length > 0) {
-                this.timelineRender.addElementsRender(unrenderedChannels, false);
+                this.timelineRender.addMissingSetup();
+                this.timelineRender.addEventListener();
+                this.addScrollListener();
+                if (Object.keys(unrenderedChannels).length > 0) {
+                    this.timelineRender.addElementsRender(unrenderedChannels, false);
+                }
+                this.timelineRender.addMissingProgramsRender(unrenderedPrograms);
+            }else{
+                console.log("server rendered & default channels");
+                this.renderedDays.push(0);
+
+                this.timelineRender.addMissingSetup();
+                this.timelineRender.addEventListener();
+                this.addScrollListener();
+
+                fetch("../static_render_offscreen_elements/"+renderingKey)
+                    .then( data => data.json())
+                    .then( this.timelineRender.addMissingProgramsRender )
             }
-            this.timelineRender.addMissingProgramsRender(unrenderedPrograms);
+
+
 
             if (this.renderYesterday !== false) {
                 this.renderDayFromDate(this.renderYesterday)
             }
-            if ((new Date()).getHours() + (this.responsive.width / this.responsive.timeLength) > 24) {
+            const nextDayIsVisible = (new Date()).getHours() + (this.responsive.width / this.responsive.timeLength) > 24;
+            if (nextDayIsVisible) {
                 this.renderDayIfNeeded(1)
             }
-            let channelNames = fetch("../channel_names").then(r => r.json()).catch(_ => Promise.resolve([]));
+            let channelNames = await fetch("../channel_names").then(r => r.json()).catch(_ => Promise.resolve([]));
 
             this.channelNames = channelNames;
             this.channelsIconRender.addLabels(channelNames);
@@ -142,7 +159,9 @@ class App {
         this.ongoingTime = new OngoingTime(this);
         this.daysRender = new Dates(this.week);
 
-        this.timeRender.renderDays(1);
+        if (typeof serverRendered === "undefined") {
+            this.timeRender.renderDays(1);
+        }
 
         this.daysRender.onDayClick = index => {
             this.renderDayIfNeeded(index);

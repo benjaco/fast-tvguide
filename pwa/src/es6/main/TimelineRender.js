@@ -11,6 +11,7 @@ export default class TimelineRender {
         this.addEventListener = this.addEventListener.bind(this);
         this.updateDayBlock = this.updateDayBlock.bind(this);
         this.addMissingSetup = this.addMissingSetup.bind(this);
+        this.addMissingProgramsRender = this.addMissingProgramsRender.bind(this);
 
         this._channelsEl = document.getElementsByClassName("channels")[0];
         this._channelsWrapperEl = document.getElementsByClassName("channel-programs")[0];
@@ -93,6 +94,8 @@ export default class TimelineRender {
                 } else {
                     unrenderedChannels[channel] = data[channel];
                 }
+            }else{
+                html += `<div class="programms" data-channel="${channel}" style="height:${this._app.responsive.programHeight}px;"></div>`;
             }
         });
 
@@ -156,12 +159,16 @@ export default class TimelineRender {
 
             html += `<div class="programms" data-channel="${channel}" style="height:${this._app.responsive.programHeight}px;">`;
 
-            data[channel][day].forEach((program, index) => {
-                //noinspection CssInvalidPropertyValue
-                if (this._app.anchor < program[2]) {
-                    html += this._renderProgram(program, day, channel, index);
-                }
-            });
+            try {
+                data[channel][day].forEach((program, index) => {
+                    //noinspection CssInvalidPropertyValue
+                    if (this._app.anchor < program[2]) {
+                        html += this._renderProgram(program, day, channel, index);
+                    }
+                });
+            } catch (e) {
+                console.error(e)
+            }
 
             html += `</div>`;
         });

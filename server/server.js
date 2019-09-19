@@ -1,7 +1,11 @@
 const express = require("express"),
     path = require("path"),
-    {boostrap, push, readFileAsync, readDirAsync} = require('./helpers/bootstrapServer'),
-    Joi = require('joi');
+    server = require('./helpers/bootstrapServer'),
+    Joi = require('joi'),
+    ServerRender = require("./helpers/serverRender"),
+    DataUpdater = require("./helpers/dataUpdater"),
+    {pathExist, readFileAsync, readDirContent} = require('./helpers/files'),
+    device = require('express-device');
 
 
 const app = express();
@@ -14,65 +18,67 @@ let tvData = {
 
 async function updateStaticContent() {
     staticContent = {
-        "index.html": await readFileAsync("../pwa/index.html"),
-        "app.js": await readFileAsync("../pwa/app.js"),
-        "icons/close.png": await readFileAsync("../pwa/icons/close.png", null),
+        "index.html": await readFileAsync(__dirname + "/../pwa/index.html"),
+        "app.js": await readFileAsync(__dirname + "/../pwa/app.js"),
+        "icons/close.png": await readFileAsync(__dirname + "/../pwa/icons/close.png", null),
     };
 }
 
-async function readDir(dir) {
-    let fileNames = await readDirAsync(dir);
-    let filesPromises = [];
-    for (let fileName of fileNames) {
-        filesPromises.push(
-            readFileAsync(dir + fileName)
-                .then(r => JSON.parse(r))
-                .then(r => Promise.resolve([fileName, r]))
-                .catch(r => {
-                    console.log("error", r, fileName);
-                    return [fileName, {}]
-                })
-        )
-    }
-    let files = await Promise.all(filesPromises);
-    let data = files.reduce((accumulator, currentValue) => {
-        accumulator[currentValue[0]] = currentValue[1];
-        return accumulator;
-    }, {});
-
-    return data;
-}
 
 async function readTvData() {
-    tvData.full_schedule = await readDir("./data/full_schedule/");
-    tvData.schedule = await readDir("./data/schedule/");
+    try {
+        if (await pathExist(__dirname + "/data/full_schedule/")) {
+            tvData.full_schedule = await readDirContent(__dirname + "/data/full_schedule/");
+            console.log("full_schedule has been reloaded")
+        }
+    } catch (e) {
+        console.log(e);
+    }
+
+    try {
+        if (await pathExist(__dirname + "/data/schedule/")) {
+            tvData.schedule = await readDirContent(__dirname + "/data/schedule/");
+            console.log("schedule has been reloaded")
+        }
+    } catch (e) {
+        console.log(e);
+    }
 }
 
-app.get("/", async (req, res) => {
+app.get("/", device.capture(), async (req, res) => {
     res.locals.todos = [
-        push(res, "./../pwa", "/app.js", 'application/javascript', staticContent["app.js"]),
-        push(res, "./../pwa", "/icons/close.png", 'image/png', staticContent["icons/close.png"]),
+        server.push(res, __dirname + "/../pwa", "/app.js", 'application/javascript', staticContent["app.js"])
     ];
-    res.write(staticContent["index.html"]);
-
+    if (req.device.type === "phone") {
+        res.write(ServerRender.renderedPhonePage);
+    } else {
+        res.write(ServerRender.renderedDesktopPage);
+    }
     await Promise.all(res.locals.todos);
     res.end();
+});
+app.get("/static_render_offscreen_elements/:id", async (req, res) => {
+    if (parseInt(req.params.id).toString() === req.params.id.toString()) {
+        let id = parseInt(req.params.id);
+        if (typeof ServerRender.phonePageMissingDiagrams[id] !== "undefined") {
+            res.send(ServerRender.phonePageMissingDiagrams[id]);
+        } else {
+            res.send("{}")
+        }
+    } else {
+        res.send("{}")
+    }
 });
 
 const overviewSchema = Joi.object().keys({
     channels: Joi.array().items(Joi.string().required()).min(1).required(),
     dates: Joi.array().items(Joi.string().required()).min(1).required()
 });
-app.get("/overview", async (req, res) => {
-    const validated = Joi.validate(req.query, overviewSchema);
-    if (validated.error) {
-        res.status(400).end();
-        return;
-    }
 
+function buildOverview(channels, dates) {
     let data = {};
-    for (let channel of validated.value.channels) {
-        for (let date of validated.value.dates) {
+    for (let channel of channels) {
+        for (let date of dates) {
             let key = channel + "_" + date + ".json";
             if (tvData.schedule[key] !== undefined) {
                 if (data[channel] === undefined) {
@@ -82,11 +88,22 @@ app.get("/overview", async (req, res) => {
             }
         }
     }
+    return data;
+}
+
+app.get("/overview", async (req, res) => {
+    const validated = Joi.validate(req.query, overviewSchema);
+    if (validated.error) {
+        res.status(400).end();
+        return;
+    }
+
+    let data = buildOverview(validated.value.channels, validated.value.dates);
 
     res.json({
         channels: data,
         status: "Success",
-        status_code:  1
+        status_code: 1
     })
 });
 
@@ -112,11 +129,11 @@ app.get("/all_info", async (req, res) => {
                 program
             });
             return;
-        }else {
+        } else {
             res.status(400).end();
             return;
         }
-    }else{
+    } else {
         res.status(400).end();
         return;
     }
@@ -124,14 +141,22 @@ app.get("/all_info", async (req, res) => {
 });
 
 app.get("/last_update", async (req, res) => {
-    res.send(await readFileAsync("./data/last_update.json"))
+    res.send(await readFileAsync(__dirname + "/data/last_update.json"))
 });
 
 app.get("/channel_names", async (req, res) => {
-    res.send(await readFileAsync("./channel_names.json"))
+    res.send(await readFileAsync(__dirname + "/channel_names.json"))
 });
 
 app.use("/images", express.static(path.join(__dirname, 'data', "images")));
+
+
+app.get("/reload_data/yIZeORFAypJnQy0OdqhuGR9KLTZGsCjf7W9U8ka9", async (req, res) => {
+    res.end();
+    await updateStaticContent();
+    await readTvData();
+    ServerRender.setTemplate(staticContent["index.html"]);
+});
 
 app.use(express.static(path.join(__dirname, '..', "pwa")));
 
@@ -139,5 +164,17 @@ app.use(express.static(path.join(__dirname, '..', "pwa")));
 (async _ => {
     await updateStaticContent();
     await readTvData();
-    boostrap(app);
+    ServerRender.dataRetriever = buildOverview;
+    ServerRender.setTemplate(staticContent["index.html"]);
+
+    DataUpdater.dataChange = async function () {
+        console.log("new data available");
+        await readTvData();
+        ServerRender.setData({});
+        ServerRender.triggerRender();
+    };
+
+    DataUpdater.init();
+
+    server.boostrap(app);
 })();

@@ -94,6 +94,8 @@
 
     padding: 10px;
     overflow-y: auto;
+    overscroll-behavior: contain;
+
 
     transform: translateX(345px);
 

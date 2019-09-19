@@ -13,7 +13,9 @@ export default class TimeRender{
 
         if (mode === "desktop") {
             this._timeMobileEl.style.display = "none";
+            this._timeDesktopEl.style.display = "";
         } else {
+            this._timeMobileEl.style.display = "";
             this._timeDesktopEl.style.display = "none";
         }
 
