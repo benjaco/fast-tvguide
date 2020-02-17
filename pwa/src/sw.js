@@ -1,8 +1,3 @@
-/**
- * Created by Benjamin on 07-06-2017.
- */
-
-// todo https://github.com/WICG/BackgroundSync/blob/master/explainer.md
 const version = "[AIV]{version}[/AIV]";
 const staticCacheName = "tvguide-static-" + version;
 const imageCacheName = "tvguide-icon-images";
@@ -18,10 +13,10 @@ const assets = [
     'icons/close.png',
     'icons/icon_32.ico',
 
-    // only on installable 'manifest.json',
-    // only on installable 'icons/icon_128.png',
-    // only on installable 'icons/icon_256.png',
-    // only on installable 'icons/icon_512.png',
+    'manifest.json',
+    'icons/icon_128.png',
+    'icons/icon_256.png',
+    'icons/icon_512.png',
 ];
 
 

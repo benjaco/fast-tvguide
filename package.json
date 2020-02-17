@@ -39,14 +39,13 @@
     },
     "scripts": {
         "start": "node --experimental-worker server/server.js ",
-        "build-general": "npm-run uglifycss pwa/src/style.css > pwa/style.min.css && npm-run webpack --env.minor --config build_scripts/webpack.config.js && node build_scripts/inline.js pwa/index.html /*(inline-styles)*/ pwa/src/style-inline.css && npm-run html-minifier pwa/index.html -o pwa/index.html --collapse-whitespace --remove-comments --minify-css",
-        "build-pre-copy-files": "npm run cleanup && npm-run copyfiles -u -f ./pwa/src/sw.js ./pwa/src/index.html ./pwa/src/slip.min.js ./pwa",
-        "build": "npm run build-with-manifest",
-        "buildwom": "npm run build-without-manifest",
-        "cleanup": "npm-run del-cli pwa/*.*",
-        "build-with-manifest": "npm run build-pre-copy-files && npm-run replace-x \"// only on installable\" \"\" pwa/sw.js && npm-run replace-x \"<!-- \\(only on installable\\) (.*)-->\" \"$1\" pwa/index.html && npm run build-general && npm-run copyfiles -u -f ./pwa/src/manifest.json ./pwa",
-        "build-without-manifest": "npm run build-pre-copy-files && npm run build-general",
-        "build-container": "docker build -t benjaco/fast-tvguide -f Dockerfile . && docker build -t benjaco/fast-tvguide:arm -f Dockerfile.arm . && docker push benjaco/fast-tvguide && docker push benjaco/fast-tvguide:arm"
+        "build-cleanup": "npm-run del-cli pwa/*.*",
+        "build-pre-copy-files": "npm-run copyfiles -u -f ./pwa/src/sw.js ./pwa/src/index.html ./pwa/src/slip.min.js ./pwa/src/manifest.json ./pwa",
+        "build-css": "npm-run uglifycss pwa/src/style.css > pwa/style.min.css",
+        "build-js": "npm-run webpack --env.minor --config build_scripts/webpack.config.js",
+        "build-html": "node build_scripts/inline.js pwa/index.html /*(inline-styles)*/ pwa/src/style-inline.css && npm-run html-minifier pwa/index.html -o pwa/index.html --collapse-whitespace --remove-comments --minify-css",
+        "build": "npm run build-cleanup && npm run build-pre-copy-files &&  npm run build-css &&  npm run build-js &&  npm run build-html ",
+        "build-docker-container": "docker build -t benjaco/fast-tvguide -f Dockerfile . && docker build -t benjaco/fast-tvguide:arm -f Dockerfile.arm . && docker push benjaco/fast-tvguide && docker push benjaco/fast-tvguide:arm"
     },
     "repository": {
         "type": "git",
