@@ -1,6 +1,6 @@
 {
     "name": "tvguide",
-    "version": "2.534.0",
+    "version": "2.539.0",
     "description": "The goal of this project is to make a incredible fast tv guide.",
     "main": "server/server.js",
     "dependencies": {
@@ -12,8 +12,7 @@
         "joi": "14.*",
         "jsdom": "13.*",
         "moment": "2.*",
-        "request": "2.*",
-        "request-promise-native": "1.*",
+        "node-fetch": "2.*",
         "spdy": "4.*",
         "xml2js": "0.*",
         "redirect-https": "^1.3.0"
@@ -43,7 +42,7 @@
         "build-pre-copy-files": "npm-run copyfiles -u -f ./pwa/src/sw.js ./pwa/src/index.html ./pwa/src/slip.min.js ./pwa/src/manifest.json ./pwa",
         "build-css": "npm-run uglifycss pwa/src/style.css > pwa/style.min.css",
         "build-js": "npm-run webpack --env.minor --config build_scripts/webpack.config.js",
-        "build-html": "node build_scripts/inline.js pwa/index.html /*(inline-styles)*/ pwa/src/style-inline.css && npm-run html-minifier pwa/index.html -o pwa/index.html --collapse-whitespace --remove-comments --minify-css",
+        "build-html": "node build_scripts/inline.js pwa/index.html '/*(inline-styles)*/' pwa/src/style-inline.css && npm-run html-minifier pwa/index.html -o pwa/index.html --collapse-whitespace --remove-comments --minify-css",
         "build": "npm run build-cleanup && npm run build-pre-copy-files &&  npm run build-css &&  npm run build-js &&  npm run build-html ",
         "build-docker-container": "docker build -t benjaco/fast-tvguide -f Dockerfile . && docker build -t benjaco/fast-tvguide:arm -f Dockerfile.arm . && docker push benjaco/fast-tvguide && docker push benjaco/fast-tvguide:arm"
     },

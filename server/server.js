@@ -121,7 +121,7 @@ app.get("/all_info", async (req, res) => {
 
     let key = validated.value.channel + "_" + validated.value.date + ".json";
     if (tvData.full_schedule[key] !== undefined) {
-        let program = tvData.full_schedule[key].jsontv.programme[validated.value.no];
+        let program = tvData.full_schedule[key][validated.value.no];
         if (program) {
             res.json({
                 status: "Success",

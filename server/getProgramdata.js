@@ -4,7 +4,7 @@ const fs = require('fs'),
     config = require("./config"),
     SavedVersion = require("./helpers/SavedVersion"),
     moment = require('moment'),
-    request = require("request-promise-native"),
+    fetch = require('node-fetch'),
     parseString = require('xml2js').parseString,
     {promisify} = require('util');
 
@@ -40,7 +40,7 @@ const cleanUp = (parentPath) => {
 };
 
 const lastProgramUpdateFromProvider = async () => {
-    const xmldata = await request("https://xmltv.xmltv.se/datalist.xml.gz", {headers: {'User-Agent': config.userAgent}});
+    const xmldata = await fetch("https://xmltv.xmltv.se/datalist.xml.gz", {headers: {'User-Agent': config.userAgent}}).then(r => r.text());
     const data = await promisify(parseString)(xmldata);
     const channels = data.tv.channel;
 
@@ -86,7 +86,7 @@ const getNewData = async (lastProgramUpdateFromProviderData) => {
 
     for (let channelname of Object.keys(channel_names)) {
         for (let day of datesForTheNextWeek) {
-            let url = "http://json.xmltv.se/" + channelname + "_" + day + ".js.gz";
+            let url = "http://xmltv.xmltv.se/" + channelname + "_" + day + ".xml.gz"
             let save_path = path.join(__dirname, "data", "full_schedule", channelname + "_" + day + ".json");
 
             if (fs.existsSync(save_path)) {
@@ -138,12 +138,12 @@ const createOverviewSchedule = async (fullScheduleRootPath, scheduleRootPath) =>
         }
         let compactSchedule = [];
 
-        if (!Array.isArray(fullSchedule.jsontv.programme)) {
+        if (!Array.isArray(fullSchedule)) {
             console.log(fullSchedulePath + " could not be decoded");
             continue;
         }
 
-        for (let program of fullSchedule.jsontv.programme) {
+        for (let program of fullSchedule) {
             let title = "Title ikke fundet";
             if (typeof program.title.da !== "undefined") {
                 title = program.title.da;
